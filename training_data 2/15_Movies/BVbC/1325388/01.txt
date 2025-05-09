@@ -1,0 +1,285 @@
+Montage is commonly identified solely with film-editing. Why this is the case when conceptually it is synonymous with the practice of collage is due largely to the Soviet insistence that Russian editing practices – montage – differed substantially from Hollywood editing practices. In asserting the specificity of a Soviet montage practice which seeks to entirely control the message of film for the spectator, Sergei Eisenstein set himself against the thinking of his rival and contemporary Dziga Vertov. In this dispute, the focus becomes the politics of reading more generally. This dispute around the politics of active reading is later echoed and amplified in Jacques Derrida’s arguments around the postcard, and picked up in South Africa around the understanding of a recent montage text, 40 nights/40 days: from the lockdown. The dynamics of what it is to be a “fearful reader” are here taken further through the question of montage in play and the politics of reading in the moment of Covid-19.
+
+In dominant contemporary usage, montage is usually understood to refer to the cinematic practice of editing. The Concise Oxford English dictionary offers, for example, two primary definitions: montage as the ‘process of selecting, editing and piecing together separate sections of cinema or television film to form a continuous whole’; and montage as ‘a sequence of film made using the technique of montage’. This essay asks how and why the concept of montage has come to be so closely identified with cinematic practice, despite the fact that on the conceptual level, montage is so closely associated with the deeply related notion of collage that many critics see the two terms as (on the theoretical level) virtually synonymous.
+
+This essay argues that the usual identification of montage with cinematic editing owes most to the self-conscious adoption of the term in Soviet Russia as part and parcel of the Soviet cinema’s attempt to distinguish itself from the narrative modes of western (and particularly US) cinema. That it was so strikingly successful in doing so does much to explain how closely montage has come to be identified with cinema, acting as a practice and a concept both related to the ordinary term ‟editing”, but also differing significantly from it.
+
+In examining the terms of this emergence, the essay argues the need to understand that a key component of Soviet montage theory of the 1920s is concerned not only with the technique of film editing, but, at the conceptual or theoretical level, with the politics of interpretation and the question of readership. This politics comes to a head in the argument around the purposes of montage that took place, with some force, between the two Soviet filmmakers, Sergei Eisenstein and Dziga Vertov in the 1920s.
+
+In a second moment, the essay seeks to show how the Soviet debates around montage and the question of reading continue to be of relevance today. It illustrates this continued relevance through an analysis and extension of a recent deployment of Derrida’s thinking on the politics of reading as developed in a recent review featured in Image & Text.1
+
+The starting point for the argument here is what the Concise Oxford English dictionary relegates to its third definition in its list, with this placing indicating the term’s least important or at least less active sense:2 this is montage as ‘the technique of producing a new composite whole from fragments of pictures, text, or music’. In this definition, montage is less the name of a practice confined to cinema and rather the attempt at naming and pinning down a particular concept that cuts across a range of otherwise distinct signifying practices. For some of these practices, the term “collage” is preferred but describes much the same concept on the theoretical level, to such an extent that a number of critics suggest the two terms are more or less interchangeable on the conceptual level, an interchangeability signaled by Gregory Ulmer (1983:88) in his persistent use of the bifocal term ‘collage/ montage’.3 What counts conceptually, as the Belgian collective group Mu (cited by Ulmer 1983:88) put it, is the way in which ‘Each cited element breaks the continuity of the linearity of the discourse and leads necessarily to a double reading: that of the fragment perceived in relation to its text of origin, that of the same fragment as incorporated into a new whole, a different totality’.
+
+Examples of this signifying strategy run through “pictures” (from Picasso’s Still Life with Chair Caning (1912); across Hannah Höch’s Cut with the Kitchen Knife Dada through the Beer-belly of Weimar (1919) and John Heartfield’s numerous photomontages down to the contemporary work of a Barbara Kruger or Martha Rosler); texts (in poetry, from Eliot’s The Waste Land, Pound’s Three Cantos, and Mayakovsky’s 150 000 000 through to the contemporary work of (for instance) John Ashbery, Tom Raworth and Karen McCormack; and even in philosophic prose, from Benjamin’s One-Way Street and Bloch’s Heritage of Our Times across Wittgenstein’s Philosophical Investigations and Adorno’s Minima Moralia to Derrida’s Glas).4 In cinema (as we shall see below), it is put to work in the generation of a third meaning in the mind of the spectator from the juxtaposition of two separate shots.5 Given the variety of signifying practices that have put the conceptual principles of montage to work, why is it that montage and cinema have come to be so strongly identified with one another? This owes most to the dramatic “taking over” of the term montage in Soviet film theory and practice.
+
+That montage came to be so strongly identified with cinema is best understood in the way the Soviet use of the term in the 1920s consciously sought to replace and distinguish itself from the existing term “editing”.6 As Sergei Eisenstein explained in an important essay looking back on the Soviet arguments of the 1920s, the development of the idea and practice of montage in Russia was consciously intended to challenge the emerging hegemony of US cinema. While the principles of montage – understood in the simple, descriptive sense of editing – lay at the foundation of ‘American film culture’, ‘our cinema’ brought the idea of montage to its ‘full development, definitive interpretation and world recognition’ (Eisenstein 2010 [1942]:199). Russia became (in André Bazin’s (1972:25) words) ‘the focal point of cinematographic thought’, with Sergei Eisenstein hailed as the ‘greatest montage theoretician of the day’.7
+
+But montage was always more than editing alone. Before Eisenstein, in his classes in the “Arab room” (so-called because of its furnishings) at the Moscow Film School, Lev Kuleshov (1974:54-55) had already insisted on montage as the defining characteristic of cinema as an art: ‘an art must have the power to impress; in the cinema this power is conferred by montage’. Montage ‘represents the essence of cinema, the essence of structuring a motion picture’ (Kuleshov 1974:183).8 But what became most important here, in the development of Soviet montage theory, was this emphasis on the power of cinema over the spectator, its reader.
+
+The famous “Kuleshov experiments” exemplified the particular Soviet emphasis on the power of montage to create meanings for the spectator. Through simple juxtaposition, the same (in reality expressionless) close-up of the actor, Ivan Mousjukine, was read by the audience as expressing hunger when followed by a shot of a bowl of soup and sadness when followed by a shot of a child’s body in a coffin (Kuleshov 1974:200). As Kuleshov’s pupil and fellow film maker, Pudovkin (1954:45) put it: montage was ‘in actual fact a compulsory and deliberate guidance of the thoughts and associations of the spectator’. It was precisely the author’s emphasis on the ‘compulsory and deliberate guidance of the thoughts and associations of the spectator’ (Pudovkin 1954: 45) which was to be picked up in the great debate around montage and the politics of reading that took place between the Soviet film-makers, Sergei Eisenstein and Dziga Vertov.
+
+To get some of what is at stake in this question of reading (and especially of good or bad reading, of fearful reading or reading in fear), let us turn to an insight – half-admitted and half-denied – that occurs in one of Eisenstein’s earliest pieces of writing on montage, the unpublished (in his lifetime) essay ‘Montage of film attractions’, written in 1924. Here, Eisenstein repeats and extends the main theoretical claims he had made in an earlier article ‘The Montage of Attractions’, an article which had originally been published alongside Dziga Vertov’s own manifesto ‘The Cine-Eyes. A Revolution’ in Lef magazine.9
+
+‘If’, he writes, ‘we regard cinema as a factor for exercising emotional influence over the masses’, we need to recognise what it has in common with progressive theatre. This is ‘linked to cinema by a common (identical) basic material – the audience – and by a common purpose – influencing the audience in the desired direction through a series of calculated pressures on its psyche’ (Eisenstein 1988 [1924]:39; emphasis in original). Cinema differs, though, from theatre in at least one crucial aspect. While theatre is always live, and therefore achieves its effects through live performance (‘primarily through the physiological perception of an actually occurring fact’ (Eisenstein 1988 [1924]:41), cinema is always recorded, and creates its effects through ‘the juxtaposition and accumulation, in the audience’s psyche, of associations that produce, albeit tangentially, a similar (and often stronger) effect only when taken as a whole’ (Eisenstein 1988 [1924]:41), through, in other words, montage.
+
+Montage works through ‘chains of associations that are linked to a particular phenomenon in the mind of a particular audience’ (Eisenstein [1924]1988:41). In this way, the film director can have that absolute control over the audience which he had previously described (in ‘Montage of Attractions’) as one that ‘subjects the audience to emotional or psychological influence, verified by experience and mechanically calculated to produce specific material shocks in the spectator in their proper order within the whole’ (Eisenstein 1988 [1923]:34, emphasis in original).
+
+The problem comes through in the form of an aside – literally bracketed off from consideration, as something noticed and insisting on attention, but yet not to be fully noticed or attended, but rather set aside somehow – literally bracketed off. It reads as follows: (It is quite clear that for a worker and a former cavalry officer the chain of associations set off by seeing a meeting broken up and the corresponding emotional effect in contrast to the material which frames this incident, will be somewhat different) (Eisenstein 1988 [1924]:41-42).
+
+It is this at least partial recognition of the possibilities of play and difference that can be engaged by montage and association that is everywhere resisted in Eisenstein’s thinking on montage. This resistance to play and difference comes through most forcefully in his repeatedly violent treatment of the work of his contemporary, Dziga Vertov. And it is at this point that the dispute around montage between the two figures can throw light on some of the stakes in Derrida’s much later discussion of the question of reading – good, bad or fearful – in The post card (Derrida 1980/1987). For what Eisenstein is resisting most strongly is the freedom of the individual reader.
+
+The danger – recognised but bracketed off by Eisenstein in the quotation above – is that with montage the meanings can get out of control, that the reader/spectator may read, understand and interpret in ways different to what the director intended. This is the ever-present danger Derrida referred to theoretically as dissemination, but which had the most severe practical consequences in Soviet Russia, as the careers of Vertov and, to a lesser extent, Eisenstein were each to discover.
+
+Thus, while Eisenstein (1988 [1924]:41) accepts montage as ‘fundamental to cinema’, he insists on distinguishing his ‘montage as collision’ from the techniques of ‘the Kuleshov school’, and also from the ‘montage by intervals’ of Vertov’s Cine-Eye collective. For Eisenstein (1988 [1929a]:143-144,149), the Kuleshov school reduced the idea of montage to just one ‘one piece [shot] glued to another’ in the interest of narrative continuity, while Vertov’s tactics amounted to no more than ‘pointless mischief with the camera’.
+
+Against the aesthetic of comfortable continuity in editing embodied in Pudovkin’s notion of ‘constructive editing’, where montage ‘assumes the task of removing every superfluity and directing the attention of the spectator in such a way that he shall see only what is significant’ (Pudovkin 1954:58), Eisenstein urged an all-out assault on the psyche of the spectator with the aim of absolutely controlling his or her interpretation of the film text.10 His language is consistently one of aggression and conquest. Cinema is ‘above all a tool … to exert an influence on people’ (Eisenstein cited by Aumont 1987:49). The aim of montage is to deliver ‘a series of blows to the consciousness and emotions of the audience’, ‘to subjugate it’, to influence ‘the audience in the desired direction through a series of calculated pressures on the psyche’ (Eisenstein 1988 [1924]:39,63).
+
+These are the aims of the “montage of attractions”, an idea which Eisenstein had first formulated to describe the aims of his work in theatre in 1923. Here, in a phrase intended to be ‘half-industrial and half-music-hall’, an ‘attraction’ was defined as any aggressive moment in theatre, i.e. any element of it that subjects the audience to emotional or psychological influence, verified by experience and mathematically calculated to produce specific emotional shocks in the spectator in their proper order within the whole. These shocks provide the only opportunity of perceiving the ideological aspect of what is being shown, the final ideological conclusion (Eisenstein 1988 [1923]:34).
+
+The violence of Eisenstein’s criticisms of Vertov are motivated by Vertov’s apparent failure to fully subordinate the techniques of montage to propaganda: too much interpretive freedom is left to the individual spectator. Only if Vertov ‘learns to provoke the states of mind he requires in his audience and, through montage, supplies the audience with a predetermined emotional charge, then … there will scarcely be any difference between us – but then Vertov will have ceased to be a Cine-Eye and will have become a director and perhaps even an “artist”’ (Eisenstein 1988 [1925]:64). ‘It is not a Cine Eye that we need but a Cine-Fist!’ he insists (Eisenstein 1988 [1925]:64; emphasis in original). This was montage as coercion, with the spectator-reader left with no space to think for him or herself.
+
+Eisenstein went on to develop a wide range of montage techniques, but in all of these – whether metric, rhythmic, tonal, overtonal, polyphonic, vertical, or “intellectual montage” ‒ the technique is subordinated to the task of imposing the director’s will on the spectator, on controlling the reading and interpretation of the film text. ‘While Brecht’, notes Jacques Rancière (2016:31), ‘set out to purge theatrical representation of identification, fascination, [and] absorption … [Eisenstein”s cinema] wanted to capture all of them and multiply their power’. The spectator was to become the cowed, passive receiver of the director’s communication.11 Dziga Vertov rejected Eisenstein’s take on montage on many different levels, both in terms of technical practice and, more importantly, in terms of political purpose (Petrić 1993:48-60).
+
+Theoretically, Vertov (1997:15,18,145-146) maintained an uncompromising belief in the ontological capacity of the camera, ‘more perfect than the human eye’, to ‘create a fresh perception of the world’, and saw Eisenstein’s resort to what he termed ‘intermediate cinema’ (that is, to the hybrid of drama-documentary in which an actor could take on the role of Lenin, as in October) as ‘unnatural’ and as a threat to ‘the development of newsreel’. Politically, he insisted on the capacity of spectators to become active readers and to make meaning for themselves. He opposed Eisenstein’s central idea of ‘the collusion of the “director-as-magician” and a bewildered public’ (Vertov 1997:66). ‘We need conscious men’ he insisted, ‘not an unconscious mass submissive to any passive suggestion’ (Vertov 1997:66). Strategically citing Lenin, he sides with the practice of the ‘popular writer’, the one who ‘teaches [the reader] to go forward independently’ as opposed to the Eisensteinian ‘vulgar writer’ who ‘hands out ready made all the conclusions of a known theory, so that the reader does not even have to chew, but merely to swallow what is given’ (Vertov 1997:182).
+
+The theoretical and the political come together precisely in the difference between the two montage practices. Eisenstein’s ‘montage of collision’ or ‘intellectual montage’ seeks to ‘impose its interpretation of an event on the spectator’ (Bazin 1967:26) and (in Barthes’s (1977:56) words) it ‘chooses the meaning, hammers it home’. With Vertov’s “theory of intervals”, the effect is to rather create (as Hansen (2012:60) writes, referring to the later but related cinema of Alexander Kluge, but perfectly capturing Vertov’s practice) ‘an indeterminacy of meaning’ and a ‘suspension of traditionally fixed associations’.12
+
+By the early 1930s, the moment of montage in Soviet cinema was drawing to a close under the pressures of Stalin’s rule. The new head of film production, Boris Shumyatsky, echoed the call made in 1928 at the First Party Conference on Cinema in 1928 for a cinema 'intelligible to the millions''.13 The Vasiliev brothers’ film Chapayev (1934) embodied the new turn to a socialist realism with ‘party-mindedness’ at its centre and simple narration as its form (Thompson & Bordwell 1994:294). In 1937, and despite the deliberate distance he had publicly taken from Vertov’s montage practice, Eisenstein’s own film Bhezin Meadow was cancelled, and the director was forced to admit that his mistakes were ‘rooted in a deeply intellectual, individualist illusion’, an illusion that ‘led to objective political error and bankruptcy’ (Eisenstein 2010 [1937]:100,103). As a result, he lost his salaried membership in the Institute of Cinematography. Though Eisenstein continued to research and teach on the idea of montage, his later films became subordinated to the heroic narrative history of Alexander Nevsky andIvan the Terrible.14 In these, the resources of montage are subordinated to narration or, when exploited for other purposes, tend to become, as Roland Barthes (1977:56) put it, mere ‘decorativism’.
+
+Similarly, Vertov faced increasing political criticism, despite the international success of his work, including for Enthusiasm (1931) and Three Songs for Lenin (1934) (Petrić 1993:63-69). By the end of 1939, he was explicitly warned that ‘You’ll do what you’re told, or you won’t work in cinema at all’ (Vertov 1997:226). For the last 15 years of his life, he was relegated to working as an occasional editor for commissioned documentaries, with very few opportunities for him to have any real control over the films he edited.
+
+As I hope to have shown in this brief discussion, although montage was indeed concerned with the practice of film-editing, and arose as an idea as a specific alternative to what was already becoming standardised as classic Hollywood narration, at its core lay a struggle over the politics of reading, a theoretical or conceptual dimension which goes significantly beyond film technique itself. Indeed, as Eisenstein came to recognise – as his many discussions and developments of the theory of montage led him to find montage at work in painting, in novelistic and poetic narration and even in architecture – ‘the montage principle as used in cinema is only a partial instance ofthe general principle of montage, a principle which, properly understood, goes far beyond the limited business of gluing bits of film together’ (Eisenstein 1994 [1938]:311; emphasis in original).15
+
+What was finally at stake in the concept of montage or “the montage principle” as Eisenstein puts it, was – as in the exemplary dispute with Vertov – the question of reading and the freedom to interpret. As we shall see, it is precisely this question of reading which plays a central role in the thought of a thinker like Jacques Derrida. The question of reading as good, or fearful is, for instance, is a focal point in Derrida’s discussion of the dynamics of communication in The post card and circulates in particular around the idea of the disorientation of the reader.
+
+Carrol Clarkson’s (2021) fine review of the montage text 40 nights/40 days: from the lockdown allows a useful point of entry into the dynamics of Derrida’s discussion, and the ways in which this connects to the “montage principle” and the questions of reading and interpretation. First, let us briefly examine how Clarkson finds her point of entry into the reading of the postcard work 40 nights/40 days through the work of Jacques Derrida.
+
+Perhaps by a simple act of association (though we shall see that association is never a simple act), Clarkson’s first reference (and noting that the grounding offered by references and points of reference is important to her whole argument) in her review of the postcard book is Jacques Derrida’s own postcard book: La carte postale: de Socrate à Freud et au-delà, first published in 1980, and translated into English in 1987.
+
+Reading postcards
+
+According to Derrida, the starting-point of this vast and sprawling work was quite literally a single postcard. This was one which he saw (or was taken to see) in Oxford University’s Bodleian Library bookshop in 1977.16 ‘I stumbled across it yesterday’, he writes in the first section of the book (which purports to be extracts from one side of a lovers’ correspondence conducted by postcard, “Envois”). ‘I stopped dead with a feeling of hallucination... and of revelation... Socrates writing, writing in front of Plato, I always knew it’ (Derrida 1987:9).
+
+‘I stumbled across it yesterday’.
+
+The postcard in question offers a reproduction of the frontispiece of an obscure thirteenth century work on fortune-telling written and illustrated by Matthew Paris, the Prognostica Socratis Basilei. It shows two figures. One (rubricated or identified as Plato) seems to be leaning over from behind and instructing or dictating (pointing forcefully to the manuscript being written) to another, marked as Socrates, who sits writing at a desk or scriptorium.17
+
+‘I bought a whole supply of them’, writes Derrida (1987:9). You can easily see why.
+
+Somehow, this thirteenth century engraving seems to anticipate and give visual form to the key elements of Derrida’s own philosophical project, effectively parodying or reversing the terms of the logocentric tradition he criticises. In showing Plato apparently telling Socrates what to write (rather than Plato faithfully copying down the spoken words of Socrates), the postcard inverts the structure of the usual binary oppositions between orality and literacy which Derrida’s work had begun challenging.
+
+As Christopher Norris (1987:187) put it, the ‘traditional (“logocentric”) prejudice is that which equates Socratic wisdom with the authority of voice and self-presence’ while writing is viewed from this perspective as ‘everything that disseminates and therefore threatens that authority’. In this orthodox view, ‘Plato is the prototype of all those unfortunate philosophers who must resort to writing in order to communicate their thoughts, but who lay themselves open, in the process, to all manner of unauthorized reading and misinterpretation’ (Norris 1987:187). With Plato dutifully seated and writing at his escritoire, under the firm direction of Socrates, Paris’s frontispiece (and postcard) offers a complete reversal and inversion of the usual logocentric structure. It is this same logocentric prejudice, in and through all its implications, that forms the guiding thread of Derrida’s work, up to and including The post card and beyond. And just as this particular postcard works to visually illustrate and embody (though overturn) the central concerns of Derrida’s thinking, the very idea or even concept of the postcard itself further serves to exemplify these concerns.
+
+As Derrida has it, a postcard differs from a letter not only in terms of its likely length, (restricted as it is by the format of the postcard) but more essentially in the fact of its openness to being read and interpreted by someone other than the intended addressee. The message is open to be read by all and sundry; it is not hidden from view in an envelope whose address identifies the single specific reader for whom it is intended. For, as he put it (in an essay not included in the book, but composed alongside it and inextricable from its whole project and thinking), a postcard is ‘open for anyone in the world to read who comes upon it, makes any one who intercepts it as it travels through the postal system into the person, the “you [tu]” for whom the postcard is intended’ (Hillis Miller 2017:19). In the fact of this openness, a postcard – like a work of art, but also like any piece of text – does not just convey or transfer a simple message from the mind of the writer to the mind of the addressee. It is necessarily open to the acts of reading and interpretation, and, indeed, to various forms of reading and interpretation, according to the diverse forms of framing and interrogation that different readers will bring to it, in disciplined or undisciplined ways.
+
+While a postcard (and particularly one in a postcard exchange between two lovers who enjoy (the phantasy of) total transparent communication) may communicate its messages perfectly, the ‘openness” of the postcard in the postal system means that it can also be read and appropriated by anyone who happens to come across it.18 And hence its appeal for Derrida, which lies in the potentially open dissemination of meaning once that meaning is untethered from writer and addressee. In this sense, the postcard fully embodies all the capacities to disturb and disrupt the instrumental model of language as communication in which an (abstract) sender transmits information to an equally abstracted receiver, with neither loss nor gain in the process of transmission.
+
+Clarkson (2021:1) notes in particular how the work under review poses a challenge to her ‘usual habit of reading in a continuous linear sequence’ due to the fragmentation which is part of the montage form, and that this difficulty brings some of Derrida’s arguments in The post card to mind. First of all, she notes Derrida’s central theoretical point about the postcard: that it represents or embodies ‘a kind of open letter’, one that can be read by anyone and not necessarily only by the addressee (ibid). More specifically, though, it is the challenge posed by the fragmentary nature of 40 nights/40 days that spurs the recollection of and association to Derrida’s thinking. In the challenge of these fragmenting circumstances, she writes, ‘I feel a pang of sympathy for the fearful reader in Jacques Derrida’s (1987:4) The post card’ (Clarkson 2021:1). Here, she writes, the ‘fearful reader’ is ‘in a hurry to be determined, decided upon deciding’, wishing ‘to know in advance what to expect … to expect what has happened … to expect (oneself)’ (Clarkson 2021:1). ‘Where do I stand?’ she asks: ‘Although the postcards are not explicitly addressed to me, I seem to be the receiver of these “messages”, obliged to respond, but how?’ (Clarkson 2021:1).
+
+We shall return below to the nature of her response as a “fearful reader”. But before we do that, let us attend to some of the implications of that translated term the “fearful reader” and its particular place in Derrida’s argument. “Fearful reader” is a workable translation of Derrida’s original phrase, “le lecteur apeuré”, but, perhaps like any translation, loses some of the force of the original phrase. “Apeuré” is an adjective formed from the common French verb “to be afraid of”, avoir peur de quelque chose. This reader is one who has been frightened (by something), and is in a sudden, punctual state of fear. The perhaps somewhat archaic “affrighted” is maybe a closer translation, but what is at stake is that this reader has been frightened by something in particular, rather than being someone who is generally in a fearful or anxious state. This “fearful reader” would perhaps be closer to a “lecteur craintif”, a reader who is disposed to being afraid in general rather than being afraid of something in particular.
+
+What this something is, I think, is reading itself. For what Derrida indicates, in a crucial component of his argument, and one which is not mentioned by Clarkson as such, is that the ‘lecteur apeuré’ is in fact a ‘mauvais lecteur’, a bad reader (Derrida 1980:8; Derrida 1987:4, emphasis in original). Not that Derrida anywhere mentions what it is to be a good reader, except implicitly with the sense that the good reader surely resists some of the reading tactics ascribed to the bad or frightened or fearful reader. These add up to what might be called ‘premature interpretation’: the closing down of the act of reading almost before it has begun, by an anxious reader ‘in a hurry to be determined, decided upon deciding’, one who wants ‘to know in advance what to expect’ – in advance, that is, of the actual act of reading. We shall see below one concrete example of what it means in practice (the practice of reading) to resist the active work of interpretation that montage demands or allows (Clarkson 2021:1). To get a better grip on just what this active work of reading is, it is worth revisiting a key moment in the history of montage theory: one that turns precisely on questions of good or bad or fearful reading.
+
+“Where do I stand?”
+
+It may be that something akin to deliberate disorientation – one which (paradoxically) demands the free engagement of the reader – that typifies the play of montage as creation rather than coercion, Vertov as opposed to Eisenstein. It is just such disorientation which is at stake in Carrol Clarkson’s (2021) recent review of the postcard work, 40 nights/40 days: from the lockdown. The disorientation produced by this contemporary montage work (one which brings together both visual and textual montage) pushes Clarkson (2021:1) to ask ‘Where do I stand?’ and prompts the fearful feeling she records as being ‘obliged to respond, but how?’ in her reading of this postcard work.
+
+In responding to this fear, her tactic is, in part at least, to look to the identification of reference points and sources for the securing of her reading. But it is at this precise point that it is important to remember something that is forgotten or passed over in Clarkson’s reference to Derrida: that such a securing tactic is actually the signs (for Derrida) of bad reading, of a failure to read. The securing of such reference points represents what we might call the arrest of reading.
+
+The main form of this arrest is the identification of potential sources for the fragments of texts put to work in 40 nights/40 days. Thus Clarkson rightly identifies the source of the work’s first textual fragment as a sentence from the first volume of John Ruskin’s Modern painters (1890:185), which is then quoted in full: ‘I have often seen the snowy summit of a mountain look nearer than its base owing to the perfect clearness of the upper air’. But her reading stops at the point of this identification and the securing of the reference works to inhibit the actual reading of the text, if we understand by reading the interpretive action of processing the materials of the text so as to create a movement or flow of meaning for the reader. On its own, the identification of the reference does not break what might be described as the “surface tension” of the text: that which keeps the reader disengaged from the text. Breaking this surface tension would mean, in the first instance, actively processing the implications of those first two words, ‟owing to”.
+
+What might such an active processing look like in practice? Let us here suggest a few indications. The text of the first postcard reads:
+
+owing to the perfect
+
+clearness
+
+of the upper air
+
+this is going
+
+to go away
+
+without a vaccine (Conradie & Higgins 2020:9).
+
+“Owing to” is a common preposition which usually means because of, and differs from because of in the ways it claims a causal understanding of what makes a particular event happen (or not happen). It is more precise than “because of” as it identifies or claims to identity the particulars of what is going on. It is, or claims to be, in other words, a strongly causal analysis.
+
+This claim of specifically understanding something is amplified by the adjective “perfect”, which implies that these circumstances (whatever follows) must be ideal if it is to work. That what is perfect is clearness also amplifies the pristine or transparent nature of the causal mechanisms: clearness means without stain, full of clarity, something absolutely transparent and visible.
+
+What is this perfect clearness and where is it to be found? The answer is given in the third line it is the perfect clearness ‘of the upper air’. With the differentiating adjective “upper”, what is emphasised is that the “lower” air might be quite different: not perfect, not transparent, and therefore not able to yield or perform the causal mechanisms which the “owing to” provides or performs.
+
+What are these?
+
+The statement ‘this is going/to go away/without a vaccine’.
+
+While the “this” is ungrounded, the title of the work of which it is a part as well as the contextualising reference to the vaccine places the text in the Covid-19 pandemic.
+
+The simple fact of the inversion of the usual word order (‘This will go away without a vaccine because of the perfect clearness of the upper air’) places the assertion in a floating kind of way – are the causal mechanisms to be believed: it’s an incantatory, assertive, performative persuasive utterance. The assertion of its certainty is also a little undermined by the repetition and redundancy of ‘going/to go away’. Is it going away, or is it going to go away? If so, when?
+
+These are some of the internal textual dynamics of the grammar of this language game – language in use. It is important that these can be grasped without any recourse to the (potential) sources of the text, for too close or insistent a reliance on the source takes us to the “coercive” montage envisaged by Eisenstein, and away from the “creative” montage suggested by Vertov.
+
+But this is not to say that the “internal” reading cannot be supplemented by reference to the original source materials. What, after all, is it that emerges – in the fashion beloved of montage – from the juxtaposition of the thinking of John Ruskin on seeing, observation and evidence with the utterances of Donald Trump on Covid-19?19 It is the necessity of reading even more carefully, in a moment over-saturated with claims and counter-claims from a media and social-media environment in which Eisenstein’s (2010 [1935]:19; emphasis in original) ‘particular function of emotionalising the thought process’ is now more active than ever.
+
+In conclusion, it is worth reconsidering some of the key implications of Walter Benjamin’s (1999:860) cryptic phrase, from his own montage-inspired work, Das passagen-werk, ‘I needn’t say anything, merely show’ with regard to Derrida’s concerns around the “bad reader”.20 The “bad reader” remains tied to exactly what the author intended to say (as in Eisenstein’s “coercive montage”) and the “content” of his/her statements as if language was no more than instrument for the communication of facts through references. Against this, Benjamin places emphasis on “showing” – the given translation of the German verb “zeichen” which – important for grasping Benjamin’s point – can also be translated as “indicating” or pointing towards.21 When taken in this sense, to show or to indicate suggests something like the work of a signpost on a road or at a crossroads.
+
+The sign does not name or indicate the place where the signpost is. Instead, it suggests the direction the traveller/reader should take, but what is important here is the travelling/reading done by the traveller/reader as he or she agrees to take this direction, and to move forward and journey (and read) on their own. The sign(post) is there to activate reading, to promote a lively engagement in interpreting the text, to put montage in play for the reader. It was precisely this capacity for the play of the individual reader that Eisenstein tried so hard to subvert and control just as Vertov (and Benjamin) sought to open and encourage as promoting the agency of the reader rather than (in Derrida’s terms) their fearful obedience. 40 nights/40 days: from the lockdown presents the challenge and the dynamics of montage in play.
+
+1. And whose very title inscribes the journal in the ongoing history of montage theory through its engagement with the potential dynamics of the visual and the verbal.
+
+2. For further discussion of the semiotic dynamics and political implications of seemingly objective dictionary definitions, see Higgins (2021).
+
+3. See Ulmer (1983:88) and also Thomas (1983) and Kramer (2001). Perloff (1986:46), for example, writes of ‘collage and its cognates – montage, construction, assemblage’ as ‘playing a central role in the verbal as well as the visual arts’. For a useful example of this indeterminacy, John Heartfield’s The Meaning of the Hitlerian Salute (1933), which could as well be described as a collage that brings together two images with a verbal caption though it, is most commonly identified as an exemplary instance of photomontage.
+
+4. See Higgins (1998) for a probing of some of these similarities.
+
+5. As in Eisenstein’s ([1929b] 1988:163) classic definition, ‘montage is not an idea composed of successive shots stuck together but an idea that DERIVES from the collision between two shots that are independent of one another’.
+
+6. The Soviet ‘expropriation’ of montage is an exemplary instance of the politics of language at work in what Bakhtin (1981:294) described, in The dialogic imagination, the fact that language ‘is not a neutral medium that passes freely and easily into the private property of the speaker’s intentions; it is populated – overpopulated – with the intentions of others. Expropriating it, forcing it to submit to one’s own intentions and accents, is a difficult and complicated process’.
+
+7. For further testimony to the identification of montage with Soviet cinema, see for instance, Raymond Williams’s (1989:6) recollections of left culture in Britain between the wars: ‘virtually the entire sub-culture was filmic, Eisenstein and Pudovkin’ and his (Williams 1979:232) insistence that ‘the major work’ in film was ‘early Soviet cinema’.
+
+8. Lev Kuleshov was perhaps the first to stress the importance of montage in his foundational teaching at the new National Film School in 1919. His satirical film The Extraordinary Adventures of Mr West in the Land of the Soviets (1924) was a significant international success. In his article, ‘Beyond the shot’, Eisenstein ([1929b]:143-144) identified both Kuleshov and Pudovkin as representing ‘the old school of film-making’ and forcefully articulated his differences to them both in terms of ‘collision’: ‘A graduate of the Kuleshov school, he [Pudovkin] zealously defends the concept of montage as a series of fragments. In a chain. “Bricks”… I opposed him with my view of montage as a collision, my view that the collision of two factors gives rise to an idea’. Eisenstein refers dismissively here to Kuleshov’s (1974:91) statement that ideas in cinema are ‘expressed, laid out in shot-signs, like bricks’. For further discussion around Kuleshov’s 1924 film of some of the main differences between the “old school” and the cinema of Eisenstein and Vertov, see Vance (1992) and Petric (2013).
+
+9. Both were published in Lef Number 3, June 1923. For their respective contributions, see Eisenstein (1923) and Vertov (1997).
+
+10. As Vance (1995-1996:6) stresses, ‘Pudovkin never abandoned the principle of continuity he had learned from the Americans’.
+
+11. In an influential essay, ‘The Evolution of the Language of Cinema’, Bazin (1967:26) had already distinguished between ‘those directors who put their faith in the image and those who put their faith in reality’. The former use the resources of montage to ‘impose [their] interpretation of an event on the spectator’ while for the latter, reality simply ‘lays itself bare’ (Bazin 1967:26-27). For further discussion of the complexities of Bazin’s position, see Higgins (1991).
+
+12. Kluge (cited by Forrest 2015:22) himself offered an extremely Vertovian gloss on his own cinematic practice, insisting that if you ‘employ the montage principle in the right way … these texts can be used for experience because it’s you who fill the gaps... We do not fashion the associations of the viewers, that is what Hollywood does … but we stimulate them, so that something independent comes into being, something which without these incentives, would not have been actualized’. This montage ethic is visible throughout his work, and notably in his homage to Dziga Vertov (To Vertov, 1998) and the television series Nachrichten aus der ideologischen Antike | Marx – Eisenstein – Das Kapital (2008) (Jameson (2009), Forrest (2012)).
+
+13. See his own 1935 study, Kinematografiya millionov. Opyt analiza (Moscow 1935). For a useful discussion, see Taylor (1986).
+
+14. The continued pressures are visible throughout the notes on the meeting between Eisenstein and Stalin, Molotov and Zhdanov after he had been ‘summoned to the Kremlin’ to discuss his work onIvan the Terrible. Here Stalin explained that ‘Ivan the Terrible was very cruel. You can depict him as a cruel man, but you have to show why he had to be cruel’ (Eisenstein 2010:300, emphasis in original). He further explains, ‘when Ivan the Terrible had someone executed, he would spend a long time in repentance and prayer. God was a hindrance to him in this respect. He should have been more decisive’ (Eisenstein 2010:301). And perhaps most terrifying of all – in a statement which embodies the cultural-political dynamics of montage ‒ is Stalin’s insistence that ‘I am not giving instructions so much as voicing the thoughts of the audience’ (Eisenstein 2010:301).
+
+15. Eisenstein planned, but never completed his book-length study of montage, though the drafts and fragments assembled as Towards a theory of montage (Eisenstein 1994) give some idea of his continued engagement and re-engagement with the topic. Despite the cravenly subservient draft we have of the Foreword to the intended book, there can be no doubt that, as Naum Kleiman (1994:xx) insists, had it been published at the end of the 1930s, ‘it could not have avoided accusations of Formalism’, and Eisenstein might well have suffered the same fate as so many other artistic contemporaries: exile, imprisonment or even death.
+
+16. For a useful discussion of many aspects of Derrida’s The post card, see Vincent W.J van Gerven Oei (2017), and, in particular, Hillis Miller’s (2017) very useful introduction to and account of the genesis of The post card in this same volume.
+
+17. For a historical analysis of Paris’s work (and the image in question) which runs counter to the claims of Derrida’s supporters (see previous note), see, in particular, Camille (1996) and Iafrate (2013).
+
+18. As we saw above, it was precisely this play of meaning that concerned Eisenstein: the different “chains of associations” and “emotional effects” brought to bear by, for instance, a cavalry office and a worker.
+
+19. For a fine analysis of the dynamics of knowing and seeing in Ruskin, see, for instance, Peter Garratt (2010).
+
+20. Fredric Jameson’s (2020:28) recent discussion of Benjamin captures these dynamics well. He writes, à propos Benjamin’s phrase and the Arcades Project as a whole, that ‘we seem to be confronted here with an unusual pedagogy which has to do with the shifting of perceptual levels within the mind, a kind of pedagogical surgery that can be characterized as a cultural revolution within the reading process’.
+
+21. Benjamin’s (1982:574) original phrases read ‘Ich habe nichts zu sagen. Nur zu zeigen’. An elaborated translation/commentary might suggest ‘In montage, I am relieved of the responsibility of stating something. My only task is to signpost’. Signposting was, of course, absolutely crucial to Benjamin (2016) as his first montage work One-way street fully exemplifies (and as I hope to examine further elsewhere). Note also Jennings’s (2004:31) perceptive comment: ‛Benjamin’s montage – One-Way Street itself – thus requires a new kind of reading adequate to a new, montaged, and non-narrative form’. Compare also Doherty’s (2006:40) characterisation of Benjamin’s concept of montage as ‘a “technique of awakening”—a medium of illumination and agitation intended to arouse the reader cognitively as well as politically’.
+
+References
+
+J. Aumont, Indiana UP: Bloomington, 1987,
+
+M. Bakhtin, University of Texas Press: Austin, 1981,
+
+R. Barthes, Fontana: London, 1977,
+
+A. Bazin, University of California Press: Berkeley, 1967,
+
+A. Bazin, University of California Press: Berkeley, 1972,
+
+W. Benjamin, Surkamp Verlag: Frankfurt, 1982,
+
+W. Benjamin, The Belknap Press of Harvard University Press: Cambridge, Mass and London, 1999,. Prepared on the basis of the German volume edited by R Tiedman
+
+W. Benjamin, The Belknap Press of Harvard University Press: Cambridge, Mass and London, 2016,
+
+D. Bordwell The idea of montage in Soviet art and film., 1972, 11, 2,pp. 9-17.
+
+D. Bordwell, Routledge: London and New York, 1988,
+
+M. Camille The dissenting image: a postcard from Matthew Paris., Cambridge University Press: Cambridge, 1996,pp. 115-50.
+
+C. Clarkson Review of 40 nights/40 days: from the lockdown., 2021,p. 35.
+
+H Conradie; J Higgins, Hansa: Cape Town, 2020,
+
+J. Derrida, Aubier-Flammarion: Paris, 1980,
+
+J. Derrida, University of Chicago Press: Chicago and London, 1987,
+
+B. Doherty The ‘Colportage phenomenon of space’ and the place of montage in the Arcades Project., 2006, 81, 1,pp. 37-64.
+
+SM Eisenstein The montage of attractions., Indiana University Press: London, BFI and Bloomington, 1988,pp. 33-38.. 1923
+
+SM Eisenstein The montage of film attractions., Indiana University Press: London, BFI and Bloomington, 1988,pp. 39-58.. 1924
+
+SM Eisenstein The problem of the materialist approach to form., Indiana University Press: London, BFI and Bloomington, 1988,pp. 59-64.. 1925
+
+SM Eisenstein Beyond the shot., Indiana University Press: London, BFI and Bloomington, 1988,pp. 138-150.. 1929a
+
+SM Eisenstein The dramaturgy of film form (the dialectical approach to film form)., London, BFI and Bloomington: 1988,pp. 161-180.. 1929b
+
+SM Eisenstein An attack by class allies., Indiana University Press: London, BFI and Bloomington, 1988,pp. 261-275.. 1933
+
+SM Eisenstein Speeches to the All-Union Creative Conference of Soviet Filmworkers., IB Tauris: London and New York, 2010,pp. 16-46.. 1935
+
+SM Eisenstein The mistakes of Bezhin Meadow., IB Tauris: London and New York, 2010,pp. 100-105.. 1937
+
+SM Eisenstein Montage 1938., British Film Institute: London, 1994,pp. 296-326.. 1938
+
+SM Eisenstein Dickens, Griffith and ourselves., IB Tauris: London and New York, 2010,pp. 193-238.. 1942
+
+SM Eisenstein Stalin, Molotov and Zhdanov on Ivan the Terrible, part two., IB Tauris: London and New York, 2010,pp. 299-304.. 1946/1947
+
+SM Eisenstein, Indiana University Press: London, BFI and Bloomington, 1988,
+
+SM Eisenstein, British Film Institute: London, 1994,
+
+SM Eisenstein, IB Tauris: London and New York, 2010,
+
+T. Forrest, Columbia UP: New York, 2015,
+
+M. Hansen Cooperative auteur cinema and oppositional public sphere: Alexander Kluge’s contribution to Germany in Autumn., Amsterdam UP: Amsterdam, 2012,pp. 50-71.
+
+J. Higgins Critical cinema and the reality of reflection., Media Resource Centre: Durban, 1991,pp. 110-122.
+
+J. Higgins The age of Wittgenstein., 1998, 7, 1,pp. 129-139.
+
+J. Higgins Theory as keyword/keyword as theory., 2021, 106,pp. 90-110.
+
+A. Iafrate Of stars and men: Matthew Paris and the illustrations of MS. Ashmole 304., 2013, 76,pp. 139-177.
+
+F. Jameson, Verso: London and New York, 2020,
+
+M. Jennings Walter Benjamin and the European avant-garde., Cambridge University Press: Cambridge, 2004,pp. 18-34.
+
+O. Kramer Montage., De Gruyter: Tübingen, 2001,
+
+L. Kuleshov, University of California Press: Berkeley, 1974,
+
+JH Miller Glossing the gloss of “envois., Punctum Books: Brooklyn, NY, 2017,pp. 11-42.
+
+C. Norris, Fontana: London, 1987,
+
+M. Perloff, Chicago University Press: Chicago, 1986,
+
+V. Petrić, Cambridge University Press: Cambridge, 1993,
+
+V. Petrić A subtextual reading of Kuleshov’s satire the extraordinary adventures of Mr West in the land of the Soviets., Academic Studies Press: Boston, 2013,pp. 65-74.
+
+VI Pudovkin, Vision Press: London, 1954,
+
+J. Rancière Eisenstein’s madness., Bloomsbury: London, 2016,pp. 23-32.
+
+M. Salazinka (V)GIK and the history of film education in the Soviet Union, 1920s-1930s., Wiley-Blackwell: Oxford, 2016,pp. 45-65.
+
+R. Taylor Boris Shumyatsky and the Soviet Cinema in the 1930s: ideology as mass entertainment., 1986, 6, 1,pp. 43-64.
+
+J-J. Thomas Collage/space/montage., New York Literary Forum: New York, 1983,pp. 66-87.
+
+K. Thomson; D. Bordwell, McGraw-Hill Inc.: New York, 1994,
+
+GL Ulmer The object of post-criticism., Bay Press: Port Townsend, Washington, 1983,pp. 83-110.
+
+K. Vance Mr. Kuleshov in the land of the modernists., Routledge: 1992,pp. 132-147.
+
+K. Vance Pudovkin, Socialist realism and the classic Hollywood style., 1995-1996, 47, 4,pp. 3-16.
+
+D. Vertov, University of California Press: Berkeley, 1997,
+
+R. Williams, New Left Books: London, 1979,
+
+R. Williams, Hutchinson Radius: London, 1989,
+
+DOI: 10.17159/2617-3255/2023/n37a2

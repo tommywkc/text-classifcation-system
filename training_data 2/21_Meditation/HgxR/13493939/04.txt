@@ -1,0 +1,950 @@
+                                                                                          Ann. N.Y. Acad. Sci. ISSN 0077-8923
+
+
+
+A N N A L S O F T H E N E W Y O R K A C A D E M Y O F SC I E N C E S
+Issue: Advances in Meditation Research
+
+
+Mindfulness meditation–based pain relief: a mechanistic
+account
+Fadel Zeidan1 and David R. Vago2
+1
+    Department of Neurobiology and Anatomy, Wake Forest University School of Medicine, Winston-Salem, North Carolina.
+2
+    Department of Psychiatry, Brigham and Women’s Hospital, Harvard Medical School, Boston, Massachusetts
+
+Address for correspondence: Fadel Zeidan, Department of Neurobiology and Anatomy, Wake Forest University School of
+Medicine, 1 Medical Center Boulevard, Winston-Salem, NC 27157. fzeidan@wakehealth.edu
+
+
+Pain is a multidimensional experience that involves interacting sensory, cognitive, and affective factors, rendering
+the treatment of chronic pain challenging and financially burdensome. Further, the widespread use of opioids to
+treat chronic pain has led to an opioid epidemic characterized by exponential growth in opioid misuse and addiction.
+The staggering statistics related to opioid use highlight the importance of developing, testing, and validating fast-
+acting nonpharmacological approaches to treat pain. Mindfulness meditation is a technique that has been found
+to significantly reduce pain in experimental and clinical settings. The present review delineates findings from
+recent studies demonstrating that mindfulness meditation significantly attenuates pain through multiple, unique
+mechanisms—an important consideration for the millions of chronic pain patients seeking narcotic-free, self-
+facilitated pain therapy.
+
+Keywords: mindfulness meditation; pain; fMRI; placebo; opioid
+
+
+
+Introduction                                                    ness meditation could be such a suitable narcotic-
+                                                                free pain therapy for a number of reasons: first,
+The construction and modulation of pain are medi-
+                                                                mindfulness-based meditation has repeatedly been
+ated by sensory, cognitive, and affective factors, ren-
+                                                                found to significantly reduce chronic pain sympto-
+dering the treatment of chronic pain difficult and
+                                                                mologies;9–14 second, mindfulness meditation
+often a financial burden. Chronic pain affects over
+                                                                attenuates pain through multiple unique psycho-
+100 million Americans and 1.5 billion people world-
+                                                                logical and neural processes;15–22 and further, it
+wide and costs the United States approximately
+                                                                has recently been demonstrated that mindfulness
+$635 billion per year in medical expenses and lost
+                                                                meditation is more effective in reducing pain than
+work productivity.1 Furthermore, the pervasive-
+                                                                placebo23 and does not engage endogenously driven
+ness and burden of chronic pain have dramati-
+                                                                opioidergic systems to reduce pain.20 However, a
+cally increased Medicare expenditures for steroid
+                                                                lack of mechanistic classification and reproducibil-
+injections (over 629%) and opioid treatments (over
+                                                                ity has reduced the clinical acceptance of medita-
+423%).2 The widespread use of opioids to allevi-
+                                                                tion to treat pain. While there are a wide variety of
+ate chronic pain has led to an opioid epidemic3
+                                                                meditation traditions and techniques, the present
+characterized by an exponential rise in opioid mis-
+                                                                review article will focus on delineating the analgesic
+use and addiction.4,5 The importance of address-
+                                                                mechanisms supporting mindfulness meditation in
+ing concerns related to these staggering statistics
+                                                                particular and take into consideration varying levels
+is reflected in new far-reaching policy changes,
+                                                                of meditative expertise and the utility of employing
+such as the recommendations from the Centers
+                                                                robust control/comparison conditions to better dis-
+for Disease Control and Prevention to develop and
+                                                                entangle the specific mechanisms underlying mind-
+employ fast-acting nonpharmacological approaches
+                                                                fulness meditation.
+to treat chronic pain.6–8 We postulate that mindful-
+
+                                                                                                       doi: 10.1111/nyas.13153
+114                                                  Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                                                                              C 2016 New York Academy of Sciences.
+                                                                                                                                17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Zeidan & Vago                                                               Mechanisms supporting mindfulness-based analgesia
+
+
+
+What is mindfulness meditation?                                     mindfulness practitioner almost naturally transi-
+                                                                    tions into an open-monitoring mental stance, also
+Mindfulness meditation is a fairly loose term that
+                                                                    known as vipassana. It is believed that extensive
+applies to many meditation practices, which have
+                                                                    training in samatha is required before the open-
+been found to improve a wide spectrum of clini-
+                                                                    monitoring aligned cognitive stance develops nat-
+cally relevant cognitive and health outcomes.24–27
+                                                                    urally. Whereas samatha often entails focus on a
+In patients, training in mindfulness improves self-
+                                                                    single, dynamic, meditative object, open-moni-
+reports of anxiety,28–31 depression,10,32–36 stress,37–39
+                                                                    toring practices are more inclusive of perceived
+and cognition.40–46 Mindfulness-related health
+                                                                    thoughts and emotions. When applied to the full
+benefits are associated with enhancements in mech-
+                                                                    extent, these practices are associated with a nondi-
+anisms supporting cognitive control, emotion reg-
+                                                                    rected acknowledgment of any sensory, emotional,
+ulation, positive mood, and acceptance.47
+                                                                    or cognitive event that arises in the mind. While
+   Mindfulness has been described as a “non-
+                                                                    practicing open monitoring, the practitioner is said
+elaborative, non-judgmental awareness” of the
+                                                                    to experience the current event without evalua-
+present-moment experience.9,41 However, one does
+                                                                    tion. To this extent, mindfulness meditation has
+not need to be practicing, or even be trained in,
+                                                                    been described as a state of nonappraisal and/or
+meditation to be mindful. Varying degrees of trait
+                                                                    a nonelaborative mental stance.51
+mindfulness exist in the general population, outside
+of any formal training.48–50 Mindfulness can also                   Mindfulness and pain
+be developed with mental training routines, such as
+meditation, and there are a variety of different prac-              For thousands of years, Buddhist monks have
+tices that are subsumed under the general rubric of                 postulated that the practice of mindfulness medita-
+mindfulness meditation. Thus, it is critical that the               tion can significantly alter the subjective experience
+specifics of the practice being taught or employed                  of pain. For instance, the ancient Buddhist text, the
+be recognized. Here, we will focus on two rather                    Sallatha Sutta (The Arrow), states that meditation
+coarse categories of mindfulness practice, namely,                  practitioners have the unique ability to fully experi-
+focused attention (samatha in the Pali language)                    ence the sensory aspect of pain (first arrow) but to
+and open monitoring (Pali: vipassana),51 both of                    “let go” of the evaluation (second arrow) of pain.
+which are centered on developing a number of dis-                   However, only recently have scientists examined the
+tinct cognitive skills.                                             mechanisms underlying mindfulness meditation–
+   During focused attention, or samatha,52 the prac-                induced pain relief and health improvements. In
+titioner is taught to develop cognitive control and                 1980, Nepalese porters were found to report signif-
+attentional stability by training to sustain focus on               icantly higher pain thresholds in response to pain-
+the moment-to-moment quality and characteris-                       evoking electrical stimulation when compared to a
+tics of sensory, emotional, and cognitive events. In                well-matched control group.53 While the authors
+brief, samatha involves directing one’s attention to                attributed these effects to religious practices (pre-
+the dynamic nature of the chosen object of medi-                    sumably meditation), it was not clear, at the time,
+tation, most often the sensations of breath or body.                if meditation practice directly produced analge-
+When attention drifts from the object of focus, for                 sia. There has recently been a significant increase
+example, to a distracting sensory event, the prac-                  in studies demonstrating that mindfulness med-
+titioner is taught to acknowledge the event and                     itation reduces pain reports across a spectrum
+disengage by returning their attention back to the                  of chronic pain conditions.54–66 Furthermore, the
+meditative object (e.g., the breath). Often, samatha                advent of neuroimaging methodologies has pro-
+is taught as a series of distinct practices increas-                vided cognitive scientists the means to identify the
+ing in complexity (e.g., mindfulness of breath,                     specific neural mechanisms supporting mindfulness
+emotions, and thoughts). While samatha practices                    meditation–based analgesia.
+aim primarily at gaining mental control and sta-                    Mindfulness meditation improves chronic
+bilization of attention, they naturally lead, in a                  pain symptomology
+somewhat ambiguous way, to the traits associated
+with open-monitoring meditation. As a develop-                      Mindfulness meditation–based interventions impr-
+mental derivative of focused-attention practice, the                ove pain symptomology across a wide spectrum
+
+Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                         C 2016 New York Academy of Sciences.                                             115
+                                                                                                                                  17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Mechanisms supporting mindfulness-based analgesia                                                              Zeidan & Vago
+
+
+
+of pain-related disorders, including fibromyal-              The construction and modulation of pain:
+gia,14,67 migraine,68 chronic pelvic pain,61 irritable       a brief neurophysiological synopsis
+bowel syndrome,12,13 and other conditions.69 Given
+                                                             Pain is a complex and subjective conscious expe-
+that chronic low back pain is the most common
+                                                             rience constructed and modulated by sensory,
+clinical pain condition70 and the leading cause of
+                                                             cognitive, and affective factors, including mood,
+disability in the United States, it is imperative to
+                                                             psychological disposition, meaning-related cogni-
+better determine if and how mindfulness medi-
+                                                             tions (e.g., suffering), learning, desires, and pre-pain
+tation training affects chronic low back pain. The
+                                                             cognitive states (e.g., expectations, anxiety) to pro-
+8-week mindfulness-based stress reduction (MBSR)
+                                                             vide a continually changing experience. Feedback
+program9 is one the most studied and validated
+                                                             connections between low-level afferent and higher-
+approaches for the treatment of chronic low back
+                                                             order neural processes foster the cultivation of a
+pain. In a seminal study, Kabat-Zinn et al. revealed
+                                                             distributed, multidimensional network associated
+that chronic pain patients reported improvements
+                                                             with the subjective experience of pain. Nociceptive
+in pain symptomology and quality of life after
+                                                             sensory events are first registered by peripheral
+completing the MBSR program9 and improvements
+                                                             primary afferents (first pain, A-delta fibers; second
+were sustained after a 3-year follow-up.10 The work
+                                                             pain, C fibers) at the site of injury/tissue damage,
+by Kabat-Zinn spawned a burgeoning of research
+                                                             which then relay this nociceptive information to
+initiatives focusing on mindfulness meditation,
+                                                             the dorsal horn of the spinal cord. From the spinal
+including a number of more recent investigations
+                                                             cord, nociceptive information ascends contralateral
+that have employed robust, carefully controlled
+                                                             to the site of pain to the brain, largely through the
+experimental designs to examine the effectiveness
+                                                             spinothalamic pathway. Nociceptive input is sub-
+of mindfulness meditation interventions on chronic
+                                                             sequently processed through feedback connections
+pain. In an elegant study, Cherkin et al.71 compared
+                                                             between lower-level sensory regions, including the
+the effects of 8 weeks of MBSR to an 8-week
+                                                             parabrachial nucleus, periaqueductal gray matter
+cognitive behavioral therapy (CBT) intervention
+                                                             (PAG), thalamus, and primary somatosensory (SI)
+and usual care across a number of chronic low back
+                                                             and secondary somatosensory (SII) cortices.72–78
+pain outcomes. The MBSR and CBT programs were
+                                                             Ascending nociceptive information is then trans-
+found to be significantly more effective at reducing
+                                                             mitted to the posterior and anterior insular cortices
+pain intensity and reports of pain being bother-
+                                                             where it is fine-tuned to foster the subsequent
+some when compared to usual care after 8, 26, and
+                                                             evaluation of pain.79,80 The contextual meaning of
+52 weeks.71 While there were no significant dif-
+                                                             pain is then facilitated through activation of higher-
+ferences between the CBT and MBSR programs in
+                                                             order brain regions, including the dorsal anterior
+pain-related outcomes, these findings demonstrate
+                                                             cingulate cortex (dACC) and prefrontal cortex
+that mindfulness-based improvements in chronic
+                                                             (PFC).80–82 Yet, the subjective experience of pain
+pain could be enhanced across time. In another
+                                                             remains to be highly influenced by the context
+recent study, Morone et al.55 found that an 8-week
+                                                             in which it occurs. That is, previous experiences,
+MBSR program significantly improved numerical
+                                                             expectations, mood, conditioning, desires, sensiti-
+pain scale ratings and pain-symptom severity in
+                                                             zation/habituation, and other cognitive factors can
+older adults (i.e., older than 65 years of age) suffer-
+                                                             dramatically amplify and/or attenuate pain.78,83–87
+ing from chronic low back pain when compared to
+                                                                Nonpharmacological-based pain manipulations
+a “very active” pain-related health education group.
+                                                             attenuate the subjective experience of pain through
+Taken together, these findings demonstrate that
+                                                             a common final pathway, including overlapping
+relatively brief bouts of mindfulness meditation
+                                                             endogenously driven and neural systems. While the
+training can significantly attenuate chronic low
+                                                             cognitive modulation of pain is mediated through a
+back pain symptomology. However, the specific
+                                                             host of endogenous modulatory systems, including
+analgesic neural mechanisms demonstrating how
+                                                             cannabinoid, serotonergic, dopaminergic, chole-
+mindfulness meditation interventions produce
+                                                             cystokinin, adrenergic, and other neurochemical
+chronic pain relief have yet to determined, which is
+                                                             systems (i.e., vasopressin), the endogenous opioi-
+a critical step in fostering the clinical validity of this
+                                                             dergic system is the most studied (and thus, most
+ancient technique.
+
+
+116                                               Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                                                                           C 2016 New York Academy of Sciences.
+                                                                                                                                17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Zeidan & Vago                                                               Mechanisms supporting mindfulness-based analgesia
+
+
+
+understood) pain modulatory system.88 Endoge-                       ers (approximately 10,000 h of formal meditation
+nous opioidergic mechanisms have been repeat-                       practice in the Nyingma and Kagyu traditions of
+edly demonstrated to mediate analgesia produced                     Tibetan Buddhism) during noxious heat stimu-
+by placebo,89–93 conditioned pain modulation,94                     lation compared to 14 non-meditating controls.
+acupuncture,95 hypnosis,96 and attentional                          The control group was provided with guidelines to
+control.97 Pain relief produced by these cognitive                  practice mindfulness meditation and instructed to
+techniques are associated with significant reduc-                   practice at home for 30 min/day for 1 week. Sur-
+tions in pain-related brain activation (i.e., SI,                   prisingly, there was no difference between long-
+SII, posterior insula, parietal operculum) and                      term meditators and the novice meditation group
+activation in higher-order brain regions, such as                   on pain intensity ratings during samatha prac-
+the ACC, PFC, and insula.86,89,98–110 Importantly,                  tice. Not surprisingly, open-monitoring meditation
+the PFC, insula, and ACC contain high concentra-                    produced significant reductions in pain unpleas-
+tions of opioid receptors and are associated with                   antness in the expert meditation group when com-
+producing analgesia through descending inhibitory                   pared to the controls.19 This form of meditation
+systems.105,111–115 The ACC and PFC project to the                  was associated with reduced anticipatory (before
+PAG,116 a structure that can be directly activated                  the painful heat stimulus) activation in the anterior
+by opioids. The PAG projects to the rostral ventral                 insula. Further, the reduced baseline activation in
+medulla,117–119 which, in turn, projects to the spinal              left anterior insula correlated with lifetime medita-
+dorsal horn and can inhibit nociceptive processing                  tion experience. These findings and others16 indi-
+through multiple neurotransmitter systems.120                       cate that reducing expectations of impending pain
+                                                                    is at least one process/mechanism by which mind-
+Brain mechanisms supporting
+                                                                    fulness meditation reduces pain.
+the modulation of pain by long-term
+                                                                       In a study by Gard et al.,17 the neural mecha-
+meditators
+                                                                    nisms supporting mindfulness meditation–based
+A large proportion of mindfulness meditation–                       analgesia were examined in 17 long-term vipas-
+based experimental pain research has focused on                     sana practitioners (mean meditation practice
+examining the effects of meditation practice rang-                  experience = 5979 h) in response to noxious
+ing from 8 weeks to multiple decades. In one of the                 electrical stimulation compared to 17 age-, gender-,
+first mindfulness meditation–focused experimental                   and education-matched nonmeditating controls.
+pain studies, Grant and Rainville121 found that long-               Similar to other studies,16,19,122 the authors did
+term Zen meditation practitioners required signifi-                 not find a significant difference between the
+cantly higher levels of noxious thermal stimulation                 meditation and control groups in pain intensity
+to report paralleling levels of pain as age-matched                 ratings, but did find a significant reduction in pain
+controls. In their follow-up study with an overlap-                 unpleasantness ratings compared to the control
+ping sample, the authors found that, in the pres-                   group during the mediation state in the presence
+ence of noxious thermal stimulation, long-term Zen                  of noxious stimulation.17 Greater activation of the
+practitioners showed significant activation of sen-                 contralateral SII/posterior insula was associated
+sory processing–related brain regions (thalamus,                    with meditation-induced pain unpleasantness
+insula) and reduced activation in brain areas that                  ratings. The authors also found greater rostral ACC
+process the evaluation of pain (medial PFC, mPFC;                   (rACC) and ventromedial PFC (vmPFC) activa-
+orbitofrontal cortex, OFC). There was also a signifi-               tion during the pre-stimulus anticipatory phase,
+cant relationship between greater deactivation of the               suggesting that cognitive control mechanisms were
+mPFC/OFC, meditative experience, and lower pain                     at play. However, meditation-induced analgesia
+reports.18 Remarkably, these findings were exhibited                was directly associated with greater deactivation of
+during a nonmeditative cognitive state, suggesting                  the PFC and increased activation of the posterior
+that long-term meditation training produces stabi-                  insula, which is consistent with the abovemen-
+lized changes in the subjective evaluation of pain.                 tioned work by Grant and Rainville.18 Taken
+   In addition, Lutz et al.19 examined the psy-                     together, these findings are important because they
+chophysical and neural effects of meditation across                 demonstrate that the neural mechanisms involved
+14 long-term mindfulness meditation practition-                     in mindfulness-based pain relief are consistent with
+
+
+Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                         C 2016 New York Academy of Sciences.                                             117
+                                                                                                                                17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Mechanisms supporting mindfulness-based analgesia                                                            Zeidan & Vago
+
+
+
+the postulated psychological expression/experience         are momentary and fleeting and do not require
+of mindfulness (i.e., greater sensory processing and       further evaluation. In the first two meditation
+parallel reductions in pain appraisal).                    training sessions, subjects were instructed to focus
+   These findings have advanced our knowledge              on the breath sensations occurring at the tip of the
+of the mechanisms supporting the stabilized psy-           nose and full flow of the breath. Meditation, after
+chological and neural changes associated with long-        the four-session intervention, during noxious heat
+term meditation practice. Yet, the utility of med-         produced a mean 40% reduction in pain intensity
+itation for treating pain remains limited because          and 57% reduction in pain unpleasantness ratings.
+of the assumption that the benefits of meditation          Greater activation of the subgenual ACC (sgACC),
+require lengthy training regimens.15,27 Specifically,      OFC, and right anterior insula (Fig. 1) was associ-
+extensive class time requirements123 and overall           ated with mindfulness meditation–based analgesia.
+length of meditation training regimens have been           The sgACC is critically involved in the cognitive
+cited as leading barriers to the clinical utility of       and affective control of pain.83,86,99,125,126 The OFC
+meditation interventions.124 Furthermore, the              has been implicated in altering the contextual
+aforementioned studies employed cross-sectional            evaluation of arising sensory events,127–130 and the
+and/or case–control designs, consequently lim-             right anterior insula is associated with the modula-
+iting their generalizability because of the wide           tion of afferent nociceptive processing74,75,80,100,131
+spectrum of potential between-group differences            and processing interoceptive awareness.132–134 We
+(e.g., demographics, demand characteristics, and           also found that mindfulness meditation–based
+meditative tradition).15 Thus, random assignment           pain relief was associated with greater bilateral
+and longitudinal designs are encouraged for                thalamic deactivation (Fig. 1).21 Thus, meditation
+meditation-focused studies.27 In light of these find-      may reduce pain by fine-tuning the amplification
+ings, we postulate that if the benefits of meditation      of nociceptive sensory events through top-down
+can be elicited by brief mindfulness-based mental          control processes,15,21,23 potentially reflected by the
+training regimens, then meditation may be more             significant attenuation of SI activation correspond-
+feasible to apply in clinical settings.                    ing to the stimulation site when subjects meditated
+                                                           during noxious heat when compared to rest (right
+Mindfulness meditation after brief training
+                                                           leg).21 We postulated that mindfulness meditation
+reduces pain through unique mechanisms
+                                                           attenuates pain through engagement of top-down
+Recent studies from our laboratory have focused            (OFC to thalamus) inhibition of ascending noci-
+on disentangling the specific analgesic, behavioral,       ceptive information.15,20,21,23 Thus, the cognitive
+neural, and pharmacologic mechanisms involved in           state of mindfulness meditation–based analgesia
+mindfulness meditation–related pain relief. In 2011,       does not reduce pain through one avenue but rather
+we examined the effects of mindfulness meditation          multiple, unique neural mechanisms. Although
+in 15 healthy pain-free subjects after participation in    this study employed a longitudinal design, a control
+a brief (four sessions, 20 min/session) mindfulness        group was not included. However, our follow-up
+meditation–based intervention on experimentally            studies addressed this caveat.20,23
+induced (ten 12-s plateaus of 49 °C) pain, using
+                                                           Does mindfulness meditation engage
+arterial spin labeling (ASL) functional magnetic
+                                                           mechanisms consistent with placebo
+resonance imaging (fMRI). ASL is a neuroimaging
+                                                           analgesia?
+technique that provides a direct quantifiable
+measurement of global cerebral blood flow, an              While mindfulness meditation practice can improve
+important consideration for breathing-focused              health and well-being, the active mechanisms sup-
+cognitive practices, such as meditation.21 During          porting mindfulness meditation have yet to be
+meditation training, subjects were instructed to           fully characterized. Importantly, a wide range
+close their eyes, sit with a straight posture and focus    of nonspecific placebo-related effects are likely
+on the breath sensations, acknowledge distracting          involved during meditation training. Here, we
+thoughts and feelings, and to simply let go of arising     define the placebo response as benefits or effects
+sensory events without judgment. Participants were         driven by nonspecific and/or inert dimensions of
+taught that perceived sensory and affective events         a drug, intervention, or manipulation. Nonspecific
+
+
+118                                             Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                                                                         C 2016 New York Academy of Sciences.
+                                                                                                                                        17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Zeidan & Vago                                                               Mechanisms supporting mindfulness-based analgesia
+
+
+
+
+Figure 1. Mindfulness meditation–based pain relief is associated with multiple brain mechanisms. Regression analyses corre-
+sponding to those in Zeidan et al.21 revealed that reductions in mindfulness meditation–induced pain intensity were associated with
+greater activation (depicted in red) in the right anterior insula and rostral aspects of the anterior cingulate cortex (ACC). Greater
+reductions in pain unpleasantness ratings were associated with greater activation of the orbitofrontal cortex (OFC) and thalamic
+deactivation (depicted in blue).
+
+
+and potentially confounding variables, such as                      tion functional neural connectivity between a cen-
+conditioning effects, psychosocial contexts, facili-                tral node of the default fault mode network (i.e., pos-
+tator attention, intervention setting, body posture,                terior cingulate cortex (PCC) and the dorsolateral
+and/or demand characteristics associated with the                   PFC (dlPFC)), a brain region implicated in cognitive
+belief that one is practicing meditation,15,27,135                  and affective control. Furthermore, the dlPFC–PCC
+could mediate mindfulness meditation–related                        connectivity mediated reductions in circulating IL-6
+health improvements.136,137 Randomized, placebo-                    from baseline to the 4-month follow-up. In contrast,
+controlled studies are the gold-standard approach                   the relaxation intervention group exhibited mild
+to identify the effectiveness and specific mecha-                   increases in IL-6 after the intervention. These find-
+nisms supporting the modulation of pain by mind-                    ings provide supplementary evidence that mind-
+fulness meditation. Yet, placebo-controlled medita-                 fulness meditation employs unique mechanisms to
+tion studies have been limited, which is problematic                improve health in clinically relevant populations.
+when considering that meditation is arguably                           Another research group developed an active
+highly susceptible to placebo-type effects.                         comparison intervention, referred to as a health
+   Some recent studies have successfully disentan-                  enhancement program (HEP), to specifically iso-
+gled the processes by which meditation affects                      late and control for the effects of MBSR.139–141 The
+health. For example, Creswell et al.138 examined                    HEP was postulated to control for facilitator alle-
+the behavioral and inflammatory stress markers                      giance, time spent providing instruction/therapy,
+(i.e., interleukin-6 (IL-6)) and neural mechanisms                  social support, and other components related to
+related to participating in an intensive 3-day mind-                participating in an MBSR program.139 Although the
+fulness meditation intervention compared to a                       HEP and MBSR program were effective at reduc-
+3-day health enhancement relaxation program in                      ing self-reports of anxiety, distress, hostility,139 and
+unemployed and clinically stressed adults. The                      attentional stability,140 there were no significant
+researchers matched all aspects of the relaxation                   differences between groups. However, the MBSR
+program to the meditation intervention, including                   program was more effective at reducing inflamma-
+sitting in silence, meals, stretching exercises, slow               tory responses following social stress141 and exper-
+walking, facilitator interviews, and even the location              imentally induced pain ratings.139 These studies
+of the intervention. Both groups reported significant               demonstrated the unique health-promoting prop-
+differences in perceived stress. However, increases                 erties supporting mindfulness-based health promo-
+were shown in pre- to post-meditation interven-                     tion. However, the question arises as to whether
+
+
+
+Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                         C 2016 New York Academy of Sciences.                                                    119
+                                                                                                                                       17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Mechanisms supporting mindfulness-based analgesia                                                                   Zeidan & Vago
+
+
+
+
+Figure 2. The main effects of mindfulness meditation and sham mindfulness meditation involve similar neural processes.
+Mindfulness meditation and sham mindfulness meditation produced activation (red) in the bilateral putamen and primary
+somatosensory cortex (SI) corresponding to the nose/face regions and deactivation (blue) of the medial prefrontal cortex (mPFC)
+and precuneous/poster cingulate cortex (PCC). Mindfulness meditation also activated the right inferior frontal gyrus and produced
+deactivation of the bilateral thalamus. Conjunction analyses revealed significant overlapping activation in the bilateral putamen,
+SI representation of the nose/face, and deactivation of the PCC and mPFC.
+
+
+it is possible that the benefits of meditation may                fashion across sessions (placebo conditioning ses-
+simply be related to the belief that one is practicing            sion 1: 48 °C; sessions 2 and 3: 47 °C; session 4:
+mindfulness meditation.                                           46.5 °C). The 49 °C stimulus was administered after
+   A recent study23 examined whether mindful-                     applying/removing the placebo cream in the postin-
+ness meditation–based pain relief engages neural                  tervention MRI session to measure the efficacy of the
+mechanisms that are distinct from placebo anal-                   placebo conditioning regimen. The sham mindful-
+gesia and sham mindfulness meditation–related                     ness meditation intervention was designed so that
+analgesia. Similar pain-evoking thermal stimula-                  the only difference in training between the mindful-
+tion paradigms and neuroimaging methods (ASL                      ness and sham mindfulness meditation groups was
+MRI) were employed as described previously.21                     the explicit mindfulness-based instructions (e.g.,
+Seventy-five healthy, pain-free subjects were ran-                nonjudgmental attention to the breath) given to the
+domly assigned to one of four 4-session (20 min/                  mindfulness meditation group. Subjects were first
+session) regimens: (1) a brief mindfulness med-                   informed that they were randomly assigned to the
+itation intervention similar to an intervention                   mindfulness meditation intervention. Across four
+described previously,21,31,36,46,142 (2) placebo con-             20-min sessions, participants were trained to take
+ditioning, (3) sham mindfulness meditation, and                   deep breaths “as we sit here in mindfulness medi-
+(4) a book-listening intervention. Participants in                tation.” The control group listened to the Natural
+the placebo-conditioning group were led to believe                History of Selborne143 across four sessions.
+that the effects of an experimental form of lido-                    All cognitive manipulations (mindfulness medi-
+caine was being tested, in which the analgesic effects            tation, placebo cream, sham mindfulness medita-
+of the cream (placebo cream was petroleum jelly)                  tion) reduced pain intensity and unpleasantness
+progressively increase as a function of repeated                  ratings compared to the control group. Impor-
+applications. To enhance placebo conditioning, the                tantly, mindfulness meditation was significantly
+stimulus temperatures delivered to the treated skin               more effective at reducing pain than both placebo
+were covertly reduced, from 49 °C, in a progressive               groups. Mindfulness meditation–based pain relief
+
+
+120                                                    Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                                                                                C 2016 New York Academy of Sciences.
+                                                                                                                                   17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Zeidan & Vago                                                               Mechanisms supporting mindfulness-based analgesia
+
+
+
+
+Figure 3. Psychophysical pain intensity (left graph) and unpleasantness (right graph) ratings (95% confidence intervals).20
+Meditation during saline (meditation + saline) infusion significantly (P < 0.001) reduced pain intensity and unpleasantness
+ratings compared with rest and the control and saline (control + saline) group. Naloxone did not reverse meditation-induced pain
+relief. Meditation during naloxone administration (meditation + naloxone) significantly (P < 0.001) reduced pain intensity and
+unpleasantness ratings compared with rest, the control + saline group, and the control and naloxone (control + naloxone) groups.
+There were also no significant differences in pain intensity or unpleasantness ratings between the meditation + saline and the
+meditation + naloxone groups (P > 0.69).
+
+
+was associated with similar brain activation as                        While the endogenous pain modulatory systems
+in our previous neuroimaging study,21 including                     supporting mindfulness-based analgesia remain
+greater activation of the OFC, pregenual ACC,                       unknown, it is well established that the cognitive
+and right anterior insula. Placebo-cream analgesia                  modulation of pain, including manipulations such
+was associated with significant reductions in pain-                 as placebo,89,91–93,105,145 conditioned pain modu-
+related brain activation (posterior insula/parietal                 lation,94 and attentional control,97 is partially
+operculum; secondary somatosensory cortices) and                    dependent on descending pain control systems98,146
+produced greater activation in the thalamus and                     and can be reversed by the opioid antagonist nalo-
+PAG compared to mindfulness meditation. Inter-                      xone.90,91,97,147 Interestingly, meditation reduces
+estingly, the main effects of mindfulness medita-                   pain by engaging brain regions (sgACC, OFC,
+tion and sham mindfulness meditation significantly                  anterior insula) that contain high concentra-
+overlapped in activation of the bilateral putamen, SI               tions of opioid receptors.92,111,113,148 On the other
+corresponding to the nose/mouth, and the dACC,                      hand, mindfulness meditation also reduces acti-
+suggesting that the two breathing-focused practices                 vation in the PAG, a brain region involved
+engage similar mechanisms (Fig. 2). However, the                    in facilitating opioid-mediated descending pain
+two techniques were associated with significantly                   inhibition.72,149 Thus, a recent double-blind psycho-
+distinct neural processes when the analyses were                    physical study tested whether mindfulness medi-
+focused on the pain-related MRI series. In con-                     tation–based analgesia was mediated by endogenous
+trast to mindfulness meditation, sham mindful-                      opioids; 78 healthy pain-free subjects were random-
+ness meditation produced greater activation in the                  ized to one of four 4-session intervention groups
+thalamus and deactivation of the rostral ACC.                       (meditation + naloxone, book-listening control +
+Importantly, sham mindfulness meditation–related                    naloxone, meditation + saline, book-listening con-
+analgesia was associated with greater reductions in                 trol + saline) to determine if intravenous admin-
+respiration rate, demonstrating a mechanistic dif-                  istration of high doses of naloxone would reverse
+ference between sham and mindfulness meditation.                    meditation-induced analgesia. Surprisingly, it was
+That is, mindfulness meditation–related pain relief                 found that, independent of naloxone or placebo-
+was associated with greater executive-level mod-                    saline administration, meditation significantly
+ulation of pain and, in contrast, sham mindful-                     reduced pain intensity and unpleasantness ratings
+ness meditation–induced analgesia was driven by                     compared to rest and the control groups (Fig. 3).20
+bottom-up processes consistent with placebo and                     These findings provide supplementary evidence that
+relaxation.144                                                      mindfulness meditation engages mechanisms that
+
+Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                         C 2016 New York Academy of Sciences.                                               121
+                                                                                                                                17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Mechanisms supporting mindfulness-based analgesia                                                            Zeidan & Vago
+
+
+
+are distinct from placebo to reduce pain and are           were instilled during their meditation training. Neu-
+of critical importance to the millions of chronic-         roimaging data provide supplementary support for
+pain patients seeking a fast-acting nonopioid pain         these experiences. Novice meditators recruit higher-
+therapy. Specifically, it was proposed that the            order brain regions (OFC, sgACC, anterior insula)
+combination of mindfulness-based and pharmaco-             to downregulate ascending nociceptive input at the
+logic/nonpharmacologic analgesic strategies may be         level of the thalamus through shifts in executive
+particularly effective in the treatment of pain.           attention.21,23 Thus, meditation after brief mental
+                                                           training affects sensory and affective pain-related
+Conclusion
+                                                           responses. The comprehensive modulation of both
+Mindfulness meditation engages multiple unique             the intensity- and unpleasantness-related dimen-
+brain mechanisms that attenuate the subjective             sions of pain is hypothetically facilitated through
+experience of pain. Yet, analgesic mechanisms sup-         changes in executive attention. Activation of the
+porting mindfulness-based meditation change as             OFC may facilitate inhibitory connections of the
+a function of increasing meditative experience/            thalamic reticular nuclei to further reduce the elab-
+training. While meditation after brief training            oration of nociceptive information throughout the
+(less than 1 week) produces significant redu-              cortex (evidenced by reductions in thalamic, PAG,
+ctions in pain intensity and unpleasantness                and SI activation).21,23 Thus, brief mental training in
+ratings,20,21,23,122,142 long-term meditation does not     mindfulness meditation engages cortico-thalamo–
+produce changes/differences in pain intensity but          cortical interactions to reduce pain through mecha-
+rather influences the unpleasantness dimension of          nisms such as inhibitory control45 or reappraisal (or
+self-reported pain.17,121,122 This proposed change in      “re-perceiving”151 ) to essentially “close the gate” on
+the subjective experience is likely attributable to        ascending nociceptive information. In contrast, the
+a shift in approach to meditating in the context           neural mechanisms involved in long-term medita-
+of incoming sensory information between novice             tion practice are associated with significantly greater
+and adept practitioners. For instance, a shift in          activation in somatosensory regions and deactiva-
+meta-awareness has been proposed,45 in which               tion of appraisal-related brain regions (vmPFC).17,18
+adept meditators can engage an invasive sensa-             The decoupling between the sensory experience and
+tion (e.g., pain) without appraising/evaluating the        the meaning and/or contextualization of what the
+event. It remains unclear how this shift changes           pain means to the self, in long-term meditation
+as a function of greater practice.51,52,150 Never-         practitioners, provides evidence that the analgesic
+theless, it is not surprising that a decoupling            effects of meditation can be developed and enhanced
+between sensory and appraisal-related brain regions        through greater practice, a critical consideration for
+is exhibited in adept meditators in the presence of        those seeking long-lasting narcotic-free pain relief.
+noxious stimulation.17,18 In contrast, novice med-            When taking into consideration the current
+itators engage more effortful reappraisal processes        chronic pain1 and opioid epidemic,152,153 the use of
+to reduce pain and adept meditators employ non-            mind–body approaches, such as mindfulness med-
+appraisal mechanisms.                                      itation, may prove to be an important resource to
+   We propose that, at the early stages of training,       teach patients to self-regulate the experience of pain
+mindfulness meditation alters the evaluation and           directly with a present-centered and acceptance-
+meaning of pain as a function of self-referential          based focus. Converging lines of evidence demon-
+processing. Subject testimonials from our previ-           strate that mindfulness meditation significantly
+ous studies20,21,23,142 provide supplementary sup-         attenuates pain across clinical and experimental
+port for this hypothesis. Study subjects routinely         settings. In contrast to other health outcomes, the
+stated that the experience of noxious heat stim-           health-promoting effects of meditation are most
+ulation during meditation was “shorter,” “softer,”         pronounced for pain and pain-related comorbidi-
+and accompanied with “less dwelling” and a greater         ties, including opioid addiction and misuse,154–157
+ability to “fully embrace the feeling of pain,” but        stress,37,138 depression,158–160 and anxiety.31,161,162
+to simply “let go” of the appraisal of what the            Some recent studies of fibromyalgia22 and chronic
+pain meant to them. These reports are remark-              low back pain54 patients who received mindfulness
+ably consistent with the mindfulness principles that       training also see a similar decoupling of sensory
+
+
+122                                             Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                                                                         C 2016 New York Academy of Sciences.
+                                                                                                                                            17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Zeidan & Vago                                                               Mechanisms supporting mindfulness-based analgesia
+
+
+
+and affective pain, such that pain intensity or                        7. Frieden, T.R. & D. Houry. 2016. Reducing the risks of
+frequency does not necessarily decrease, but coping                       relief—the CDC opioid-prescribing guideline. N. Engl. J.
+                                                                          Med. 374: 1501–1504.
+with the pain does improve. Furthermore, across
+                                                                       8. Dowell, D., T.M. Haegerich & R. Chou. 2016. CDC guide-
+almost all mindfulness/pain-focused experiments,                          line for prescribing opioids for chronic pain—United
+the unpleasantness dimension of pain was sig-                             States, 2016. JAMA 315: 1624–1645.
+nificantly more attenuated with respect to pain                        9. Kabat-Zinn, J. 1982. An outpatient program in behavioral
+intensity,16–21,23,121,122 which is a critically important                medicine for chronic pain patients based on the practice
+                                                                          of mindfulness meditation: theoretical considerations and
+effect when considering the use of meditation for
+                                                                          preliminary results. Gen. Hosp. Psychiatry 4: 33–47.
+clinical pain. For instance, the experience of chronic                10. Kabat-Zinn, J., L. Lipworth & R. Burney. 1985. The clinical
+pain is dramatically influenced by the context in                         use of mindfulness meditation for the self-regulation of
+which it occurs. One example of this comes from                           chronic pain. J. Behav. Med. 8: 163–190.
+studies assessing pain in patients and in women                       11. Morone, N.E., C.M. Greco & D.K. Weiner. 2008. Mindful-
+                                                                          ness meditation for the treatment of chronic low back pain
+giving birth.163 The pain of labor was rated as
+                                                                          in older adults: a randomized controlled pilot study. Pain
+significantly higher on sensory aspects compared to                       134: 310–319.
+the affective dimension. In contrast, cancer pain was                 12. Garland, E.L. et al. 2012. Therapeutic mechanisms of a
+rated significantly higher on pain unpleasantness                         mindfulness-based treatment for IBS: effects on visceral
+than pain intensity.164 The suggestion here is that                       sensitivity, catastrophizing, and affective processing of pain
+                                                                          sensations. J. Behav. Med. 35: 591–602.
+the contextual evaluation of welcoming a new baby
+                                                                      13. Gaylord, S.A. et al. 2011. Mindfulness training reduces the
+into the world when compared to facing one’s own                          severity of irritable bowel syndrome in women: results of
+death has profound implications for what might                            a randomized controlled trial. Am. J. Gastroenterol. 106:
+have otherwise been very similar experiences. We                          1678–1688.
+suggest that mindfulness, in a similar, albeit less                   14. Grossman, P. et al. 2007. Mindfulness training as an inter-
+                                                                          vention for fibromyalgia: evidence of postintervention and
+profound, manner as giving birth or dying, also
+                                                                          3-year follow-up benefits in well-being. Psychother. Psycho-
+alters the meaning, interpretation, and appraisal                         som. 76: 226–233.
+of nociceptive information, an important consid-                      15. Zeidan, F. et al. 2012. Mindfulness meditation-related pain
+eration for producing stabilized and long-lasting                         relief: evidence for unique brain mechanisms in the regu-
+improvements in chronic pain symptomology, and                            lation of pain. Neurosci. Lett. 520: 165–173.
+                                                                      16. Brown, C.A. & A.K. Jones. 2010. Meditation experience
+can potentially serve as a mechanism to buffer
+                                                                          predicts less negative appraisal of pain: electrophysiolog-
+against the chronification of pain.                                       ical evidence for the involvement of anticipatory neural
+                                                                          responses. Pain 150: 428–438.
+Conflicts of interest
+                                                                      17. Gard, T., B.K. Holzel, A.T. Sack, et al. 2011. Pain atten-
+The authors declare no conflicts of interest.                             uation through mindfulness is associated with decreased
+                                                                          cognitive control and increased sensory processing in the
+                                                                          brain. Cereb. Cortex 191: 36–43.
+References
+                                                                      18. Grant, J.A., J. Courtemanche & P. Rainville. 2011. A non-
+  1. Institute of Medicine (US) Committee on Advancing                    elaborative mental stance and decoupling of executive and
+     Pain Research, Care, and Education. 2011. Relieving Pain             pain-related cortices predicts low pain sensitivity in Zen
+     in America: A Blueprint for Transforming Prevention,                 meditators. Pain 152: 150–156.
+     Care, Education, and Research. Washington, DC: National          19. Lutz, A. et al. 2013. Altered anterior insula activation during
+     Academies Press.                                                     anticipation and experience of painful stimuli in expert
+  2. Deyo, R.A. et al. 2009. Overtreating chronic back pain: time         meditators. Neuroimage 64: 538–546.
+     to back off? J. Am. Board Fam. Med. 22: 62–68.                   20. Zeidan, F. et al. 2016. Mindfulness-meditation-based pain
+  3. Nelson, L.S., D.N. Juurlink & J. Perrone. 2015. Addressing           relief is not mediated by endogenous opioids. J. Neurosci.
+     the opioid epidemic. JAMA 314: 1453–1454.                            36: 3391–3397.
+  4. Han, B. et al. 2015. Nonmedical prescription opioid use          21. Zeidan, F. et al. 2011. Brain mechanisms supporting the
+     and use disorders among adults aged 18 through 64 years              modulation of pain by mindfulness meditation. J. Neurosci.
+     in the United States, 2003–2013. JAMA 314: 1468–1478.                31: 5540–5548.
+  5. Saloner, B. & S. Karthikeyan. 2015. Changes in substance         22. Vago, D. & Y. Nakamura. 2011. Selective attentional bias
+     abuse treatment use among individuals with opioid use                towards pain-related threat in fibromyalgia: preliminary
+     disorders in the united states, 2004–2013. JAMA 314: 1515–           evidence for effects of mindfulness meditation training.
+     1517.                                                                Cogn. Ther. Res. 35: 581–594.
+  6. Olsen, Y. 2016. The CDC guideline on opioid prescribing:         23. Zeidan, F. et al. 2015. Mindfulness meditation-based pain
+     rising to the challenge. JAMA 315: 1577–1579.                        relief employs different neural mechanisms than placebo
+
+
+
+Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                         C 2016 New York Academy of Sciences.                                                        123
+                                                                                                                                               17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Mechanisms supporting mindfulness-based analgesia                                                                          Zeidan & Vago
+
+
+
+       and sham mindfulness meditation-induced analgesia. J.              41. Brown, K.W. & R.M. Ryan. 2003. The benefits of being
+       Neurosci. 35: 15307–15325.                                             present: mindfulness and its role in psychological well-
+ 24.   Grossman, P. et al. 2004. Mindfulness-based stress reduc-              being. J. Pers. Soc. Psychol. 84: 822–848.
+       tion and health benefits. A meta-analysis. J. Psychosom. Res.      42. Garland, E.L. et al. 2011. Mindfulness training modifies
+       57: 35–43.                                                             cognitive, affective, and physiological mechanisms impli-
+ 25.   Goyal, M. et al. 2014. Meditation programs for psycholog-              cated in alcohol dependence: results of a randomized con-
+       ical stress and well-being: a systematic review and meta-              trolled pilot trial. J. Psychoactive Drugs 42: 177–192.
+       analysis. JAMA Intern. Med. 174: 357–368.                          43. Schofield, T.P., J.D. Creswell & T.F. Denson. 2015. Brief
+ 26.   Farb, N.A., A.K. Anderson & Z.V. Segal. 2012. The mindful              mindfulness induction reduces inattentional blindness.
+       brain and emotion regulation in mood disorders. Can. J.                Conscious. Cogn. 37: 63–70.
+       Psychiatry 57: 70–77.                                              44. Taylor, V.A. et al. 2011. Impact of mindfulness on the neural
+ 27.   Tang, Y.Y., B.K. Holzel & M.I. Posner. 2015. The neuro-                responses to emotional pictures in experienced and begin-
+       science of mindfulness meditation. Nat. Rev. Neurosci. 16:             ner meditators. Neuroimage 57: 1524–1533.
+       213–225.                                                           45. Vago, D.R. & D.A. Silbersweig. 2012. Self-awareness, self-
+ 28.   Goldin, P. et al. 2012. Randomized controlled trial of                 regulation, and self-transcendence (S-ART): a framework
+       mindfulness-based stress reduction versus aerobic exercise:            for understanding the neurobiological mechanisms of
+       effects on the self-referential brain network in social anxiety        mindfulness. Front. Hum. Neurosci. 6: 296.
+       disorder. Front. Hum. Neurosci. 6: 295.                            46. Zeidan, F. et al. 2010. Mindfulness meditation improves
+ 29.   Goldin, P.R. & J.J. Gross. 2010. Effects of mindfulness-based          cognition: evidence of brief mental training. Conscious.
+       stress reduction (MBSR) on emotion regulation in social                Cogn. 19: 597–605.
+       anxiety disorder. Emotion 10: 83–91.                               47. Zeidan, F. 2015. “The neurobiology of mindfulness medita-
+ 30.   Miller, J.J., K. Fletcher & J. Kabat-Zinn. 1995. Three-                tion.” In Handbook of Mindfulness Science: Theory, Research
+       year follow-up and clinical implications of a mindfulness              and Practice. K.W. Brown, J.D. Creswell & R.M. Ryan, Eds.:
+       meditation-based stress reduction intervention in the treat-           171–189. New York: The Guilford Press.
+       ment of anxiety disorders. Gen. Hosp. Psychiatry 17: 192–          48. Creswell, J.D. et al. 2007. Neural correlates of dispositional
+       200.                                                                   mindfulness during affect labeling. Psychosom. Med. 69:
+                                                                              560–565.
+ 31.   Zeidan, F. et al. 2014. Neural correlates of mindfulness
+                                                                          49. Taren, A.A., J.D. Creswell & P.J. Gianaros. 2013. Dispo-
+       meditation-related anxiety relief. Soc. Cogn. Affect. Neu-
+       rosci. 9: 751–759.                                                     sitional mindfulness co-varies with smaller amygdala and
+                                                                              caudate volumes in community adults. PLoS One 8: e64574.
+ 32.   Barnhofer, T. et al. 2009. Mindfulness-based cognitive ther-
+                                                                          50. Way, B.M. et al. 2010. Dispositional mindfulness and
+       apy as a treatment for chronic depression: a preliminary
+                                                                              depressive symptomatology: correlations with limbic and
+       study. Behav. Res. Ther. 47: 366–373.
+                                                                              self-referential neural activity during rest. Emotion 10: 12–
+ 33.   Farb, N.A. et al. 2010. Minding one’s emotions: mindful-
+                                                                              24.
+       ness training alters the neural expression of sadness. Emo-
+                                                                          51. Lutz, A. et al. 2008. Attention regulation and monitoring
+       tion 10: 25–33.
+                                                                              in meditation. Trends Cogn. Sci. 12: 163–169.
+ 34.   Paul, N.A. et al. 2013. Psychological and neural mechanisms
+                                                                          52. Wallace, B.A. 2006. The Attention Revolution: Unlocking the
+       of trait mindfulness in reducing depression vulnerability.
+                                                                              Power of the Focused Mind. Somerville: Wisdom Publica-
+       Soc. Cogn. Affect. Neurosci. 8: 56–64.
+                                                                              tions.
+ 35.   Teasdale, J.D. et al. 2000. Prevention of relapse/recurrence       53. Clark, W.C. & S.B. Clark. 1980. Pain responses in Nepalese
+       in major depression by mindfulness-based cognitive ther-               porters. Science 209: 410–412.
+       apy. J. Consult. Clin. Psychol. 68: 615–623.
+                                                                          54. Morone, N.E. et al. 2008. “I felt like a new person.” the
+ 36.   Zeidan, F. et al. 2010. Effects of brief and sham mindfulness          effects of mindfulness meditation on older adults with
+       meditation on mood and cardiovascular variables. J. Altern.            chronic pain: qualitative narrative analysis of diary entries.
+       Complement. Med. 16: 867–873.                                          J. Pain 9: 841–848.
+ 37.   Taren, A.A. et al. 2015. Mindfulness meditation training           55. Morone, N.E. et al. 2016. A mind–body program for older
+       alters stress-related amygdala resting state functional con-           adults with chronic low back pain: a randomized clinical
+       nectivity: a randomized controlled trial. Soc. Cogn. Affect.           trial. JAMA Intern. Med. 176: 329–337.
+       Neurosci. 10: 1758–1768.                                           56. Morone, N.E. et al. 2009. A mind–body program for older
+ 38.   Creswell, J.D. et al. 2014. Brief mindfulness meditation               adults with chronic low back pain: results of a pilot study.
+       training alters psychological and neuroendocrine responses             Pain Med. 10: 1395–1407.
+       to social evaluative stress. Psychoneuroendocrinology 44: 1–       57. Garland, E.L. et al. 2014. Mindfulness-oriented recovery
+       12.                                                                    enhancement for chronic pain and prescription opioid mis-
+ 39.   Creswell, J.D. et al. 2012. Mindfulness-based stress reduc-            use: results from an early-stage randomized controlled trial.
+       tion training reduces loneliness and pro-inflammatory                  J. Consult. Clin. Psychol. 82: 448–459.
+       gene expression in older adults: a small randomized con-           58. de Boer, M.J. et al. 2014. Mindfulness, acceptance and catas-
+       trolled trial. Brain Behav. Immun. 26: 1095–1101.                      trophizing in chronic pain. PLoS One 9: e87445.
+ 40.   Allen, M. et al. 2012. Cognitive–affective neural plastic-         59. Garland, E.L. & M.O. Howard. 2013. Mindfulness-oriented
+       ity following active-controlled mindfulness intervention. J.           recovery enhancement reduces pain attentional bias in
+       Neurosci. 32: 15601–15610.                                             chronic pain patients. Psychother. Psychosom. 82: 311–318.
+
+
+124                                                          Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                                                                                      C 2016 New York Academy of Sciences.
+                                                                                                                                            17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Zeidan & Vago                                                               Mechanisms supporting mindfulness-based analgesia
+
+
+
+ 60. Ussher, M. et al. 2014. Immediate effects of a brief             79. Oshiro, Y. et al. 2007. Brain mechanisms supporting spatial
+     mindfulness-based body scan on patients with chronic                 discrimination of pain. J. Neurosci. 27: 3388–3394.
+     pain. J. Behav. Med. 37: 127–134.                                80. Oshiro, Y. et al. 2009. Brain mechanisms supporting dis-
+ 61. Fox, S.D., E. Flynn & R.H. Allen. 2011. Mindfulness medi-            crimination of sensory features of pain: a new model. J.
+     tation for women with chronic pelvic pain: a pilot study. J.         Neurosci. 29: 14924–14931.
+     Reprod. Med. 56: 158–162.                                        81. Lobanov, O.V. et al. 2013. Frontoparietal mechanisms sup-
+ 62. Cho, S. et al. 2010. Pain-related anxiety as a mediator of           porting attention to location and intensity of painful stim-
+     the effects of mindfulness on physical and psychosocial              uli. Pain 154: 1758–1768.
+     functioning in chronic pain patients in Korea. J. Pain 11:       82. Lobanov, O.V. et al. 2014. From cue to meaning: brain
+     789–797.                                                             mechanisms supporting the construction of expectations
+ 63. Rosenzweig, S. et al. 2010. Mindfulness-based stress reduc-          of pain. Pain 155: 129–136.
+     tion for chronic pain conditions: variation in treatment         83. Bushnell, M.C., M. Ceko & L.A. Low. 2013. Cognitive and
+     outcomes and role of home meditation practice. J. Psycho-            emotional control of pain and its disruption in chronic
+     som. Res. 68: 29–36.                                                 pain. Nat. Rev. Neurosci. 14: 502–511.
+ 64. McCracken, L.M. & S.C. Velleman. 2010. Psychological             84. Kong, J. et al. 2006. Using fMRI to dissociate sensory encod-
+     flexibility in adults with chronic pain: a study of accep-           ing from cognitive evaluation of heat pain intensity. Hum.
+     tance, mindfulness, and values-based action in primary               Brain Mapp. 27: 715–721.
+     care. Pain 148: 141–147.                                         85. Petrovic, P. & M. Ingvar. 2002. Imaging cognitive modula-
+ 65. McCracken, L.M. & E. Keogh. 2009. Acceptance, mind-                  tion of pain processing. Pain 95: 1–5.
+     fulness, and values-based action may counteract fear and         86. Seminowicz, D.A., D.J. Mikulis & K.D. Davis. 2004. Cog-
+     avoidance of emotions in chronic pain: an analysis of anx-           nitive modulation of pain-related brain responses depends
+     iety sensitivity. J. Pain 10: 408–415.                               on behavioral strategy. Pain 112: 48–58.
+ 66. McCracken, L.M., J. Gauntlett-Gilbert & K.E. Vowles.             87. Villemure, C. & M.C. Bushnell. 2002. Cognitive modula-
+     2007. The role of mindfulness in a contextual cognitive–             tion of pain: how do attention and emotion influence pain
+     behavioral analysis of chronic pain-related suffering and            processing? Pain 95: 195–199.
+     disability. Pain 131: 63–69.                                     88. Millan, M.J. 2002. Descending control of pain. Prog. Neu-
+ 67. Davis, M.C. & A.J. Zautra. 2013. An online mindful-                  robiol. 66: 355–474.
+     ness intervention targeting socioemotional regulation in         89. Eippert, F. et al. 2009. Activation of the opioidergic descend-
+     fibromyalgia: results of a randomized controlled trial. Ann.         ing pain control system underlies placebo analgesia. Neuron
+     Behav. Med. 46: 273–284.                                             63: 533–543.
+ 68. Wells, R.E. et al. 2014. Meditation for migraines: a pilot       90. Grevert, P., L.H. Albert & A. Goldstein. 1983. Partial antag-
+     randomized controlled trial. Headache 54: 1484–1495.                 onism of placebo analgesia by naloxone. Pain 16: 129–
+ 69. Day, M.A. et al. 2014. Toward a theoretical model for                143.
+     mindfulness-based pain management. J. Pain 15: 691–703.          91. Levine, J.D., N.C. Gordon & H.L. Fields. 1978. The mech-
+ 70. Hoy, D. et al. 2012. A systematic review of the global preva-        anism of placebo analgesia. Lancet 2: 654–657.
+     lence of low back pain. Arthritis Rheum. 64: 2028–2037.          92. Zubieta, J.K. et al. 2005. Placebo effects mediated by
+ 71. Cherkin, D.C. et al. 2016. Effect of mindfulness-based stress        endogenous opioid activity on mu-opioid receptors. J. Neu-
+     reduction vs cognitive behavioral therapy or usual care on           rosci. 25: 7754–7762.
+     back pain and functional limitations in adults with chronic      93. Amanzio, M. & F. Benedetti. 1999. Neuropharmacologi-
+     low back pain: a randomized clinical trial. JAMA 315: 1240–          cal dissection of placebo analgesia: expectation-activated
+     1249.                                                                opioid systems versus conditioning-activated specific sub-
+ 72. Basbaum, A.I. & H.L. Fields. 1984. Endogenous pain con-              systems. J. Neurosci. 19: 484–494.
+     trol systems: brainstem spinal pathways and endorphin cir-       94. King, C.D. et al. 2013. Reduction of conditioned pain mod-
+     cuitry. Annu. Rev. Neurosci. 7: 309–338.                             ulation in humans by naltrexone: an exploratory study of
+ 73. Coghill, R.C., J.G. McHaffie & Y.F. Yen. 2003. Neural                the effects of pain catastrophizing. J. Behav. Med. 36: 315–
+     correlates of interindividual differences in the subjective          327.
+     experience of pain. Proc. Natl. Acad. Sci. U.S.A. 100: 8538–     95. Harris, R.E. et al. 2009. Traditional Chinese acupuncture
+     8542.                                                                and placebo (sham) acupuncture are differentiated by their
+ 74. Coghill, R.C. et al. 1999. Pain intensity processing within          effects on mu-opioid receptors (MORs). Neuroimage 47:
+     the human brain: a bilateral, distributed mechanism. J.              1077–1085.
+     Neurophysiol. 82: 1934–1943.                                     96. Stephenson, J.B. 1978. Reversal of hypnosis-induced anal-
+ 75. Coghill, R.C. et al. 1994. Distributed processing of pain and        gesia by naloxone. Lancet 2: 991–992.
+     vibration by the human brain. J. Neurosci. 14: 4095–4108.        97. Sprenger, C. et al. 2012. Attention modulates spinal cord
+ 76. Derbyshire, S.W. et al. 1997. Pain processing during three           responses to pain. Curr. Biol. 22: 1019–1022.
+     levels of noxious stimulation produces differential patterns     98. Tracey, I. et al. 2002. Imaging attentional modulation of
+     of central activity. Pain 73: 431–445.                               pain in the periaqueductal gray in humans. J. Neurosci. 22:
+ 77. Tracey, I. & P.W. Mantyh. 2007. The cerebral signature for           2748–2752.
+     pain perception and its modulation. Neuron 55: 377–391.          99. Valet, M. et al. 2004. Distraction modulates connectivity of
+ 78. Wiech, K., M. Ploner & I. Tracey. 2008. Neurocognitive               the cingulo-frontal cortex and the midbrain during pain—
+     aspects of pain perception. Trends Cogn. Sci. 12: 306–313.           an fMRI analysis. Pain 109: 399–408.
+
+
+Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                         C 2016 New York Academy of Sciences.                                                        125
+                                                                                                                                              17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Mechanisms supporting mindfulness-based analgesia                                                                         Zeidan & Vago
+
+
+
+100. Koyama, T. et al. 2005. The subjective experience of pain:         119. Mantyh, P.W. 1983. Connections of midbrain periaqueduc-
+     where expectations become reality. Proc. Natl. Acad. Sci.               tal gray in the monkey. I. Ascending efferent projections. J.
+     U.S.A. 102: 12950–12955.                                                Neurophysiol. 49: 567–581.
+101. Zeidan, F. et al. 2015. Brain mechanisms supporting vio-           120. Liebeskind, J.C. et al. 1973. Analgesia from electrical stim-
+     lated expectations of pain. Pain 156: 1772–1785.                        ulation of the periaqueductal gray matter in the cat: behav-
+102. Salomons, T.V. et al. 2007. Individual differences in the               ioral observations and inhibitory effects on spinal cord
+     effects of perceived controllability on pain perception: crit-          interneurons. Brain Res. 50: 441–446.
+     ical role of the prefrontal cortex. J. Cogn. Neurosci. 19:         121. Grant, J.A. & P. Rainville. 2009. Pain sensitivity and anal-
+     993–1003.                                                               gesic effects of mindful states in Zen meditators: a cross-
+103. Wager, T.D. et al. 2011. Predicting individual differences              sectional study. Psychosom. Med. 71: 106–114.
+     in placebo analgesia: contributions of brain activity dur-         122. Perlman, D.M. et al. 2010. Differential effects on pain inten-
+     ing anticipation and pain experience. J. Neurosci. 31: 439–             sity and unpleasantness of two meditation practices. Emo-
+     452.                                                                    tion 10: 65–71.
+104. Wager, T.D. et al. 2004. Placebo-induced changes in FMRI           123. Carmody, J. & R.A. Baer. 2009. How long does a
+     in the anticipation and experience of pain. Science 303:                mindfulness-based stress reduction program need to be?
+     1162–1167.                                                              A review of class contact hours and effect sizes for psycho-
+105. Wager, T.D., D.J. Scott & J.K. Zubieta. 2007. Placebo effects           logical distress. J. Clin. Psychol. 65: 627–638.
+     on human mu-opioid activity during pain. Proc. Natl. Acad.         124. Minor, H.G. et al. 2006. Evaluation of a mindfulness-based
+     Sci. U.S.A. 104: 11056–11061.                                           stress reduction (MBSR) program for caregivers of children
+106. Rainville, P. 2002. Brain mechanisms of pain affect and pain            with chronic conditions. Soc. Work Health Care 43: 91–
+     modulation. Curr. Opin. Neurobiol. 12: 195–204.                         109.
+107. Rainville, P. et al. 1999. Dissociation of sensory and affective   125. Bingel, U. et al. 2006. Mechanisms of placebo analgesia:
+     dimensions of pain using hypnotic modulation. Pain 82:                  rACC recruitment of a subcortical antinociceptive network.
+     159–171.                                                                Pain 120: 8–15.
+108. Rainville, P. et al. 1997. Pain affect encoded in human ante-      126. Villemure, C. & M.C. Bushnell. 2009. Mood influences
+     rior cingulate but not somatosensory cortex. Science 277:               supraspinal pain processing separately from attention. J.
+     968–971.                                                                Neurosci. 29: 705–715.
+109. Roy, M. et al. 2011. The modulation of pain by attention and       127. Eippert, F. et al. 2007. Regulation of emotional responses
+     emotion: a dissociation of perceptual and spinal nociceptive            elicited by threat-related stimuli. Hum. Brain Mapp. 28:
+     processes. Eur. J. Pain 15: 641.e1–e10.                                 409–423.
+110. Roy, M. et al. 2009. Cerebral and spinal modulation of             128. O’Doherty, J. et al. 2001. Abstract reward and punishment
+     pain by emotions. Proc. Natl. Acad. Sci. U.S.A. 106: 20900–             representations in the human orbitofrontal cortex. Nat.
+     20905.                                                                  Neurosci. 4: 95–102.
+111. Casey, K.L. et al. 2000. Selective opiate modulation of noci-      129. Peters, J. & C. Buchel. 2010. Neural representations of sub-
+     ceptive processing in the human brain. J. Neurophysiol. 84:             jective reward value. Behav. Brain Res. 213: 135–141.
+     525–533.                                                           130. Rolls, E.T. & F. Grabenhorst. 2008. The orbitofrontal cortex
+112. Willoch, F. et al. 2004. Central poststroke pain and reduced            and beyond: from affect to decision-making. Prog. Neuro-
+     opioid receptor binding within pain processing circuitries:             biol. 86: 216–244.
+     a [11 C]diprenorphine PET study. Pain 108: 213–220.                131. Starr, C.J. et al. 2009. Roles of the insular cortex in the
+113. Adler, L.J. et al. 1997. Regional brain activity changes asso-          modulation of pain: insights from brain lesions. J. Neurosci.
+     ciated with fentanyl analgesia elucidated by positron emis-             29: 2684–2694.
+     sion tomography. Anesth. Analg. 84: 120–126.                       132. Critchley, H.D. et al. 2004. Neural systems supporting inte-
+114. Willoch, F. et al. 1999. Central pain after pontine infarction          roceptive awareness. Nat. Neurosci. 7: 189–195.
+     is associated with changes in opioid receptor binding: a PET       133. Medford, N. & H.D. Critchley. 2010. Conjoint activity of
+     study with 11 C-diprenorphine. AJNR Am. J. Neuroradiol.                 anterior insular and anterior cingulate cortex: awareness
+     20: 686–690.                                                            and response. Brain Struct. Funct. 214: 535–549.
+115. Jones, A.K. et al. 1991. In vivo distribution of opioid recep-     134. Otto, T., F.R. Zijlstra & R. Goebel. 2014. Neural corre-
+     tors in man in relation to the cortical projections of the              lates of mental effort evaluation—involvement of struc-
+     medial and lateral pain systems measured with positron                  tures related to self-awareness. Soc. Cogn. Affect. Neurosci.
+     emission tomography. Neurosci. Lett. 126: 25–28.                        9: 307–315.
+116. Floyd, N.S. et al. 2000. Orbitomedial prefrontal cortical          135. Salomons, T.V. & A. Kucyi. 2011. Does meditation reduce
+     projections to distinct longitudinal columns of the peri-               pain through a unique neural mechanism? J. Neurosci. 31:
+     aqueductal gray in the rat. J. Comp. Neurol. 422: 556–578.              12705–12707.
+117. Beitz, A.J. 1982. The organization of afferent projections to      136. Colloca, L. et al. 2010. How the number of learning trials
+     the midbrain periaqueductal gray of the rat. Neuroscience               affects placebo and nocebo responses. Pain 151: 430–439.
+     7: 133–159.                                                        137. Lui, F. et al. 2010. Neural bases of conditioned placebo
+118. Mantyh, P.W. 1983. Connections of midbrain periaqueduc-                 analgesia. Pain 151: 816–824.
+     tal gray in the monkey. II. Descending efferent projections.       138. Creswell, J.D. et al. 2016. Alterations in resting-state
+     J. Neurophysiol. 49: 582–594.                                           functional connectivity link mindfulness meditation with
+
+
+
+126                                                         Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                                                                                     C 2016 New York Academy of Sciences.
+                                                                                                                                                17496632, 2016, 1, Downloaded from https://nyaspubs.onlinelibrary.wiley.com/doi/10.1111/nyas.13153 by Hong Kong Metropolitan, Wiley Online Library on [03/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+Zeidan & Vago                                                                 Mechanisms supporting mindfulness-based analgesia
+
+
+
+       reduced interleukin-6: a randomized controlled trial. Biol.     152. Wilkerson, R.G. et al. 2016. The opioid epidemic in the
+       Psychiatry DOI: 10.1016/j.biopsych.2016.01.008.                      United States. Emerg. Med. Clin. North Am. 34: e1–e23.
+139.   MacCoon, D.G. et al. 2012. The validation of an active          153. Stempniak, M. 2016. The opioid epidemic. Hosp. Health
+       control intervention for mindfulness based stress reduction          Netw. 90: 22–24, 26–29.
+       (MBSR). Behav. Res. Ther. 50: 3–12.                             154. Garland, E.L. et al. 2013. The downward spiral of chronic
+140.   MacCoon, D.G. et al. 2014. No sustained attention differ-            pain, prescription opioid misuse, and addiction: cognitive,
+       ences in a longitudinal randomized trial comparing mind-             affective, and neuropsychopharmacologic pathways. Neu-
+       fulness based stress reduction versus active control. PLoS           rosci. Biobehav. Rev. 37: 2597–2607.
+       One 9: e97551.                                                  155. Bowen, S. & M.C. Enkema. 2014. Relationship between
+141.   Rosenkranz, M.A. et al. 2013. A comparison of                        dispositional mindfulness and substance use: findings from
+       mindfulness-based stress reduction and an active control             a clinical sample. Addict. Behav. 39: 532–537.
+       in modulation of neurogenic inflammation. Brain Behav.          156. Witkiewitz, K. & S. Bowen. 2010. Depression, craving, and
+       Immun. 27: 174–184.                                                  substance use following a randomized trial of mindfulness-
+142.   Zeidan, F. et al. 2010. The effects of brief mindfulness med-        based relapse prevention. J. Consult. Clin. Psychol. 78: 362–
+       itation training on experimentally induced pain. J. Pain 11:         374.
+       199–209.                                                        157. Bowen, S. et al. 2009. Mindfulness-based relapse prevention
+143.   White, G. 1908. Natural History and Antiquities of Selborne.         for substance use disorders: a pilot efficacy trial. Subst. Abus.
+       London: Cassell and Company.                                         30: 295–305.
+144.   Benson, H., M.M. Greenwood & H. Klemchuk. 1975. The             158. Eisendrath, S., M. Chartier & M. McLane. 2011. Adapt-
+       relaxation response: psychophysiologic aspects and clinical          ing mindfulness-based cognitive therapy for treatment-
+       applications. Int. J. Psychiatry Med. 6: 87–98.                      resistant depression: a clinical case study. Cogn. Behav.
+145.   Petrovic, P. et al. 2002. Placebo and opioid analgesia—              Pract. 18: 362–370.
+       imaging a shared neuronal network. Science 295: 1737–
+                                                                       159. Eisendrath, S.J. et al. 2014. Mindfulness-based cognitive
+       1740.
+                                                                            therapy (MBCT) versus the health-enhancement program
+146.   Bantick, S.J. et al. 2002. Imaging how attention modulates
+                                                                            (HEP) for adults with treatment-resistant depression: a
+       pain in humans using functional MRI. Brain 125: 310–
+                                                                            randomized control trial study protocol. BMC Comple-
+       319.
+                                                                            ment. Altern. Med. 14: 95.
+147.   Bandura, A. et al. 1987. Perceived self-efficacy and pain
+                                                                       160. Williams, J.M. et al. 2014. Mindfulness-based cognitive
+       control: opioid and nonopioid mechanisms. J. Pers. Soc.
+                                                                            therapy for preventing relapse in recurrent depression: a
+       Psychol. 53: 563–571.
+                                                                            randomized dismantling trial. J. Consult. Clin. Psychol. 82:
+148.   Borras, M.C. et al. 2004. fMRI measurement of CNS
+                                                                            275–286.
+       responses to naloxone infusion and subsequent mild nox-
+                                                                       161. Goldin, P. et al. 2013. MBSR vs aerobic exercise in social
+       ious thermal stimuli in healthy volunteers. J. Neurophysiol.
+                                                                            anxiety: fMRI of emotion regulation of negative self-beliefs.
+       91: 2723–2733.
+                                                                            Soc. Cogn. Affect. Neurosci. 8: 65–72.
+149.   Watkins, L.R. & D.J. Mayer. 1982. Organization of endoge-
+       nous opiate and nonopiate pain control systems. Science         162. Kabat-Zinn, J. et al. 1992. Effectiveness of a meditation-
+       216: 1185–1192.                                                      based stress reduction program in the treatment of anxiety
+150.   Dahl, C.J., A. Lutz & R.J. Davidson. 2015. Recon-                    disorders. Am. J. Psychiatry 149: 936–943.
+       structing and deconstructing the self: cognitive mecha-         163. Price, D.D. & J.J. Barell. 2012. Inner Experience and Neuro-
+       nisms in meditation practice. Trends Cogn. Sci. 19: 515–             science. Cambridge, MA: MIT Press.
+       523.                                                            164. Price, D.D., S.W. Harkins & C. Baker. 1987. Sensory–
+151.   Shapiro, S.L. et al. 2006. Mechanisms of mindfulness. J.             affective relationships among different types of clinical and
+       Clin. Psychol. 62: 373–386.                                          experimental pain. Pain 28: 297–307.
+
+
+
+
+Ann. N.Y. Acad. Sci. 1373 (2016) 114–127 
+                                         C 2016 New York Academy of Sciences.                                                            127
+

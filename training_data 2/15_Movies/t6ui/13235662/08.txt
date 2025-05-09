@@ -1,0 +1,1866 @@
+The Movies
+Arthur De Vany∗
+Professor Emeritus
+Department of Economics
+University of California, Irvine
+April 19, 2005
+Abstract
+This chapter is an overview of a new kind of economics of the movies; it
+also is my attempt to lay a new foundation of the economics of art and culture.
+The essence of cultural goods is that the are creative goods that have no natu￾ral limit on their consumption or dissemination; they are information goods.
+And they are wildly uncertain. I show how this vision may be implemented
+in a rigorous and insightful way in the study of the movies. A centerpiece of
+the analysis is the stable Paretian hypothesis and its usefulness as a model of
+motion picture revenues, costs, and returns. The industry’s organization, con￾tracts, pricing, and compensation deals are also seen as rational adaptations
+to the uncertainty captured by the stable Paretian probability model.
+The essence of the stable Paretian model is that the probabilities of mo￾tion picture outcomes are far from Normal. The tails of the stable Paretian
+distribution are “heavy” and large scale events are far more probable in a
+Paretian than in a Gaussian world. The large events far out on the probability
+tails dominate sample statistics. The variance is infinite and, for some vari￾ables, even the mean does not exist. Movie box office revenues, therefore,
+have no natural size or scale and there is no typical or average movie; each is
+unique unto itself. Revenue and cost dynamics are complex and expectations
+of cost or revenue at level X are proportional to X.
+JEL classification: C1, D0, D8, G0, G3, K2, Z1.
+Key words: uncertainty, contracts, adaptive optimization, movies, extreme
+events.
+∗Without implicating him for my oversights and errors, I wish to thank Victor Ginsburgh for his
+superb editing. My thanks also to Simon Anderson for his helpful comments. The Private Enterprise
+Research Center of Texas A&M University supported my research.
+1
+1 Introduction
+The movie business is hard to understand. It defies conventional economic models
+on many levels. But, this is what makes it so interesting. I see the movie business
+as a laboratory for developing a new kind of economics of art and culture. It is
+an extraordinarily well-documented business, so there is a rich data base to be
+exploited by researchers. Where else can you follow a product from birth to death
+in a matter of weeks or months? Where else can you study the evolution of its
+revenues and market penetration in such detail? And for so many products.
+Studios get overnight reports of box office revenues. Weekly reports are avail￾able in industry trade publications, on internet sites, and on the evening news.
+There are at least three proprietary data sources where the researcher can follow
+statistics on a weekly or annual basis.1 And these data sources go back for years.
+Detailed filmographies exist of casts, producers, and directors for virtually ev￾ery film ever released in North America. Because screen credits are so important in
+the movies, filmographies are highly accurate. Their accuracy is insured because
+craft unions have elaborate criteria for awarding screen credits. Where else can
+you find so widely distributed such a careful documentation of creative work and
+rigorous delineation of creative credits?
+The industry requires all this information about box office returns and repu￾tation in order to solve the many vexing problems the industry faces. I think the
+first order of business for research is to recognize that the movies are an informa￾tion industry, arguably the first of the twentieth century. The industry produces
+information, for all that a film really is, and it lives on it. Without this elaborate
+reporting of film revenues and reputations, the industry could not function. The
+1A. C. Neilson/EDI (my primary source), Exhibitor Relations, and Paul Kagen are three pro￾prietary data sources. Industry publications, such as Variety, Hollywood Reporter, and Box Office,
+report on the industry prolifically. The Internet Movie Data Base is a good source for filmographies
+and various data as well.
+2
+reporting is required because nobody knows what a film will gross so the industry
+has to have in place the instruments to adapt flexibly adjusting prices and supply
+to demand when the audience reveals it. Reputation is crucial when artists and
+creative inputs are hired for short periods of time and each can become the critical
+input at some stage of production.
+Movies are one-off products that only go around once. You do not know if you
+will like a movie until you see it. If you like it, you tell your friends about it. This
+simple act of sharing information leaves no less of the movie for you to enjoy and
+may even increase your pleasure. This means information can be multiplied.
+If information can be multiplied, motion pictures will have increasing returns.
+Movies that have many viewers will grow more rapidly than movies that have few
+viewers. The supply of theater seats is perfectly elastic because the run can be
+extended to increase supply until it equals demand. This means box office revenue
+is just a number, with no natural limit or scale. It turns out that scale-free dis￾tributions capture the statistics of movies with high fidelity. Because information
+does not obey the usual laws of production, the statistics of the movies are rather
+strange: distributions of variables are sharply peaked and skewed, with a long tail
+to the right. They are scale-free and high on kurtosis.
+The need to manage and adapt to information leads to interesting business prac￾tices and contracts. The industry is filled with colorful phrases and unusual con￾tracting practices like “four-walling”, “road shows”, “pay or play”, “house nut”,
+“legs”, “blind-selling”, and “block-booking”. It is an extremely hierarchical busi￾ness, with a few movies, stars and directors standing far above the rest in box office
+grosses. It is frighteningly risky, yet the rate of return is low. Most movies lose
+money and a handful make nearly all the profit the industry earns.
+Movies are produced in a novel way too. Producers assemble temporary teams
+from a large pool of artists and craftsmen to make movies. These production teams
+3
+live only for the duration of the project and disband when the movie is finished.
+At any point in time, just a few people in the industry are actually working. But, a
+few well-connected actors and directors are very busy and they make most of the
+movies that dominate box office revenues.
+Most movies take several years to produce. There are many pitfalls along the
+way and the final product is nothing more than a few reels of celluloid. All its
+production costs are sunk by the time a movie is finished and ready to be released.
+They may not be recoverable and a finished movie might never get a chance to be
+seen on a theater screen. Cost is notoriously difficult to forecast and some movies
+famously go far over budget. A studio can go broke if it goes just one year without
+a hit. And movies are financed in unusual ways.
+These are hard problems, but the hardest one of all is that nobody really knows
+how much a movie will gross at the box office. If people in the industry did know,
+there would be no need for its strange practices and they would disappear. It is
+because “nobody knows” that the movie industry is so fascinating and so different
+from dentistry or warehousing. It does have analogues though in other creative
+activities that deal in information such as publishing, music, stage, and patents.
+The emphasis on complex dynamics and their statistical basin of attraction that has
+been the basis of a good deal of the work on the movies reviewed in this chapter
+would appear to have a profitable use in other industries.2
+“Nobody knows” is the core problem of the movie business. This is the prob￾lem almost all of the industry’s colorful and strange practices, contracts and busi￾ness organization are designed to solve. It is the source of its preoccupation with
+rank and power and relationships. It elevates “the deal” to its mythical status in the
+2
+For example, F. M. Scherer (2000) has used the Bose-Einstein process David Walls and I used
+to capture motion picture dynamics and the heavy-tailed distributions to which they are drawn to
+explain the dynamics and size distribution of patent royalties. Didier Sornette and D. Zajdenweber
+(1999) have shown that the innovation time series contains the same ragged profile typical of the
+movies and other Levy Stable motions.
+4
+industry.
+In this chapter, I shall try to use the ideas of sequential contracting and un￾certainty in cost and revenue to explain the movie business. In the process, I will
+review some of the literature on the movies, but my intention is to reveal what light
+these concepts shed on these issues rather than to survey the literature. There are
+three bodies of research on the movie business; the old, the new, and what I call
+the new-new.
+The old research came out of the decade of the antitrust litigation that eventu￾ally led to the dissolution of the great studios (and to much antitrust involvement
+in the movie business in other countries beyond the United States). The approach
+was to apply conventional antitrust economics to the industry, seeing virtually all
+its hard-to-fathom practices as attempts to exploit market power. This research is
+exemplified by Michael Conant’s (1960) book, by the testimony in the Paramount
+litigation (Federal Trade Commission, 1965 or the more recent book by Litman,
+1990). The bulk of this research did not see the movie business as an information
+industry and by incorrectly applying models suited to industrial products to this
+new industry they failed to see the efficiency of the industry’s contracts and institu￾tions. This research often confuses demand with supply, as when Seagrave (1997)
+says that Hollywood “dominates” the world’s movie screens. Large openings may
+temporarily dominate theater screens, but that is supply, not demand. If demand
+does not fill seats, theaters quickly drop a film for something more promising.
+The old motion picture research has been tested and found wanting. In a de￾tailed analysis of the Paramount charges, De Vany and Eckert (1991) showed that
+the industry’s organization and contracts were clever and necessary adaptations to
+the nobody knows principle. De Vany and McMillan (2004) used stock market
+prices to show that the forced divestment of theaters by the studios was a major
+financial blow to the industry and that the pattern of losses among firms was in-
+5
+consistent with the idea that the industry had functioned as an implicit price-fixing
+cartel (the primary basis of the court’s judgment). De Vany and Lee (2001) have
+shown that market shares are wildly volatile and unstable and that the industry is
+concentrated, as all information industries are, but the players at the top turnover
+at a high rate.
+The new motion picture research is a modern variant of the old. A number
+of researchers have been drawn to study the industry (which is good), but have
+brought with them tools that are, essentially, game-theoretic versions of the old
+models. Papers have appeared that model the choice of opening date as a strate￾gic game among studios3
+, entry and exit decisions of theaters are modeled as a
+location game, and rental price differentials among theaters have been described
+as (centralized) price discrimination (when they are determined in a completely
+decentralized fashion by the audience under the terms of the exhibition license).
+There is, of course, an element of truth in each of these points of view; studios
+do try to avoid opening against a blockbuster. But, no one knows half of what the
+models posit of the agents, which is more a criticism of the large information re￾quirements of standard models than of the research. Say, for example, you move
+your opening two weeks later to avoid going against Titanic only to find that Ti￾tanic is just getting its legs and completely flattens your movie. The models (at
+least those I have seen) do not correctly portray the uncertainty the agents face,
+and it can be shown that models that are faithful to the complexity of the problem
+are computationally intractable. I think the nobody knows principle cuts sharply
+against this line of research. But, this is good for economics and will eventually
+lead to progress.
+The motion picture industry challenges equilibrium models and existing math￾ematics in fundamental ways that will require a new kind of modeling. The highly
+3
+See, Krider and Weinberg (1998). Liran Einav (unpublished) has made some progress in empir￾ically modeling motion picture release timing.
+6
+decentralized and adaptive mechanisms employed by the industry are difficult to
+model in the centralized, strategic mindset typical of optimizing models. I believe
+capturing the “wild” uncertainty and adaptive decision processes of creative indus￾tries provides a more rigorous and insightful basis for a new-new economics. By
+bringing the “wild” uncertainty of creative enterprises to the forefront, the work I
+report on here lays a foundation for a New Economics of Art and Culture.
+A hint of the formidable challenge of understanding “wild” uncertainty in mo￾tion pictures and the way the movie business relies on adaptive and decentralized
+mechanisms is developed in work I and colleagues have been doing. This work
+is a continuation of ideas originally developed by Mandelbrot (1963) and Simon
+(1955). The key ideas are that production is sequential and that there is a “wild”
+kind of uncertainty in cost. Motion picture revenue (nobody knows) unfolds during
+the run in a complex and recursive dynamic that can “go anywhere,” but the dynam￾ics converge on a statistical attractor, the L´evy stable distributions with “heavy”
+(non-Gaussian) tails. These properties set the information discovery and contract￾ing problems that are at the core of the industry’s structure, contracts, and organi￾zation.
+This research is statistical in nature, emphasizing the complexity of motion
+picture revenue and cost dynamics and their basins of attraction. It is focused
+on a characterization of the sources and nature of the uncertainty which is then
+used to discover the problems to which the industry’s organization, contracts, and
+practices must be adapted. This line of inquiry was originated by De Vany and
+Eckert (1991) and pinned down by De Vany and Walls (1996) and famously named
+the “nobody knows” principle by Richard Caves (2000) in his Creative Industries
+(after screenwriter William Goldman’s line “With all due respect, nobody knows
+anything.” in his Adventures in the Screen Trade, 1983). Cassey Lee’s doctoral
+dissertation (Lee, 1999)) was one of the first explorations of the stable Paretian
+7
+hypothesis in motion pictures, which lies at the core of this line of work. Other
+papers have appeared in this vein recently by Chris Hand (2001), Collins, Hand,
+and Snell (2003), and Jordi McKensie (2003). John Sedgewick’s (2001) book on
+British filmgoing during the 1930’s is also very much in this vein.4 This is the line
+of research I shall emphasize in this chapter because I believe it is foundational to
+the development of a New Economics of Art and Culture.
+In Section 2 I begin with a discussion of the essential economics of the busi￾ness. This is Movie Economics 101 and its aim is to identify the main issues that
+confront the business and show how they are solved; you will see that the movie
+business shares many features and practices of other creative industries for they
+are all information industries. Following this, in Section 3, I apply these ideas to
+a brief historical analysis of the movie business. The purpose here is to show how
+the industry’s methods of production, its structure and regional distribution, and
+its exotic contracts and practices evolved historically as solutions to many of its
+more vexing problems. You will see that the judges and lawyers relied on concepts
+more suited to toasters and bricks than to one of the first information industries—
+the movies. In this section, I also cover the Paramount antitrust cases and show
+how the courts reshaped this nascent information industry in the mode of the old
+economics of antitrust.
+Section 4 covers the graduate level course in movie economics. It begins with
+the laws of the box office and with a discussion of the L´evy stable distribution.
+(Since we will often be interested in the upper of lower tails of this distribution
+and these tails are Pareto distributions, I shall freely interchange the terms stable
+Paretian distribution and L´evy stable distribution, letting the context indicate if the
+4
+In David Walls’ (2002) review of Sedgewick (2001) he shows that the distribution of
+Sedgewick’s index of film popularity is a Pareto law of the form found for thedistribution of mo￾tion picture revenue by the above cited authors. I will show below that this is an example of the
+self-similarity of statistical distributions implied by the stable Paretian hypothesis.
+8
+tail or whole distribution is at issue.) The laws of the box office are those of a
+winner-takes-all contest. The laws are driven by a non-linear information dynamic
+that takes movies that are close to one another and propels them apart at exponential
+speed. Under the influence of these recursive and non-linear processes, movie
+revenues can “go anywhere.” They may even be chaotic. The extreme skew of
+the revenue distribution, the influence of extreme events, and the unstable and non-
+finite moments provide a rigorous basis for the nobody knows principle. I show that
+the stable Paretian model captures with high fidelity all the essential features of the
+statistics of the business. I use the concept of statistical self-similarity to show
+the importance of extreme events in all facets of the industry from film revenues
+to budgets, productivity, pay, and careers. The influence of marketing and stars
+and the opening are discussed here in terms of the non-linearity of the revenue
+dynamics of motion picture information. In this section I show how pay keys on
+extreme events and I reveal the laws of stardom.
+Other topics taken up in the graduate course are the structure of the industry
+implied by the stable Paretian hypothesis and the evidence for it, the pricing of
+talent, and the many decision problems that are engendered by the wild statistics
+of the movies. I introduce the concept of stochastic industry structure and use it
+to show that concentration measures are not well-founded in this industry. I show
+the industry is stochastically concentrated, but intensely competitive. Leaders turn
+over at a high rate and the Hershman-Hirfindahl index, a gold standard for an￾titrust, does not even exist. Then I discuss the difficulties of making decisions in a
+business where the probabilities are non-Gaussian and confound expectations. The
+stable Paretian probabilities lie somewhere between risk and uncertainty and they
+lead to many decision errors. I explain the “curse of the superstar”, the “angel’s
+nightmare”, the “sure thing principle”, and the “producer’s curse” as examples of
+the many decision paradoxes faced by movie makers. In Section 5, I reach some
+9
+conclusions.
+Naturally, this chapter is a somewhat personal view of the business and what
+I think is interesting and important about it. Much of the material draws on my
+research in many articles and from my book Hollywood Economics: How Extreme
+Uncertainty Shapes the Film Industry. This is not a review of research. Rather it is
+an exposition of a modeling strategy and a research agenda that I have found to be
+productive and informative. In my own work on this industry I have found that all
+the complexity of economics can be found there and there is much to explain that
+stretches the boundaries of current economic theory.
+Much of economics focuses on averages, expectations, and standard deviations.
+Economists focus so intently on these measures that they often toss out “outliers”
+to eliminate their influence. This might be right for toasters or trousers, but the
+movies are not like that. The statistics of the movies are “wild” and utterly non￾Gaussian. The outliers are the main event, not something to be tossed out, and
+averages are just numbers signifying nothing. Motion picture revenues are just a
+number—pure information—and have no natural scale or limit. Expectations and
+higher moments of the distribution need not even exist. One of the key lessons
+of trying to do science in such a non-standard industry is that we have to take the
+focus away from explaining particular events (why movie A did well and B did
+not) to undertanding process and pattern; the ultimate object of a science of the
+movies is the probability distribution and the dynamic process that produces it.
+2 The Essential Economics of Motion Pictures
+This should go quickly as I have already alerted you to many of the key issues. On
+the other hand, there are some that have to wait for the graduate version of movie
+economics to come later.
+10
+No Body Knows
+I still like the way the fundamental property of the movies was put by a wise Dis￾trict Court Judge (whose smart decision was overturned by the Supreme Court).
+Moving picture films are a fluctuating and uncertain product. Until a
+film has been exhibited no one knows or can accurately estimate its
+value as a box-office attraction, either as a first-run exhibition or a
+subsequent run exhibition.5
+Economists would put this by saying that movies are experience rather than
+inspection goods. You have to see a movie to know if you like it or not. What this
+means is that demand is revealed by the audience when the film opens. Audiences
+discover what they like, they do not reveal preferences they already have. Once
+demand is discovered, supply and pricing must adapt.
+Discovering Demand
+To get the discovery process underway, films have to be exposed on screens. Through￾out a film’s run, audiences discover and exchange information about movies. Box
+office reports are signals to distributors and exhibitors about the audience’s likes
+and dislikes.
+A studio/distributor can sample this information in a variety of ways through
+the design of its release. A wide release on many screens simultaneously gathers a
+large sample of information, but leaves few degrees of freedom in responding to it.
+It leaves less time for word of mouth and other information to influence viewers.
+The film may disappear too quickly for word to spread and for audiences to find
+it. In a smaller release on fewer screens, a studio is sampling sequentially through
+5United States v. Griffith Amusement Co., 68 F. Supp. 180, 196 ( W. D. Okla. (1946), cited in De
+Vany and Eckert (1991).
+11
+the audience, discovering its demand as information flows over a longer period of
+time.
+Adapting Supply
+Once demand is discovered, prices and supply adapt. There are three prices rele￾vant to a movie: the admission price, the rental rate, and the distribution fee. The
+admission price does not vary much, though it may differ among theaters. The
+rental rate is highly variable. So is the distribution fee. These will be discussed
+below.
+The main supply response is in extending the run, keeping the film longer in
+theaters. This is particularly true of a wide release. In a smaller release, prints
+may be ready or can be made quickly enough to expand the number of theatri￾cal engagements; thus, both the length of the run and the number of theaters can
+be changed to respond to demand. The later engagements have the benefit of the
+demand information revealed in the earlier bookings, so the sequential sampling,
+smaller release reduces risk for the exhibitors who show the film later in the run.
+The large, wide release is more risky for exhibitors as they have no prior informa￾tion to go on. The big release is likely to be more risky for the studio too because
+the number of prints to be made has to be decided before demand is known and
+because supplying more prints means more is spent before demand is known.6
+So, demand is discovered and supply adapts, primarily by extending the length
+of the run. This goes on in real time using overnight and weekly box office reports.
+The decision to extend the run is a matter of contract which is delegated to the indi￾vidual theater under the holdover clause. The holdover clause is a contingent term
+of the exhibition license that specifies an amount of box office revenue which, if
+equaled or exceeded in the prior week, extends the run another week. The holdover
+6A print is a role of film and can cost thousands of dollars. Print and advertising costs are all
+expended up front and may be from 25 to 40% of a movie’s costs.
+12
+amount is unique to each theater and film, negotiated as part of the license. The
+clause decentralizes the decision to extend the run because it relies only on local
+information of time and place, ie. conditions at the theater where it is running. If
+box office revenue exceeds the holdover, the distributor is obligated to leave the
+film another week and the theater is obligated to run it another week. There is no
+limit to the number of times a film may be held over so a theater might run a movie
+for twenty or more weeks if it is grossing well.
+Pricing Films
+Motion pictures have three different prices. Most people think of the “price” of a
+movie as what they pay at the box office. But the price the theater pays for showing
+a movie is more important to the motion picture distributor, for this is their primary
+source of revenue from the film; this price is the rental rate or percentage of box
+office revenues paid to the distributor for the right to exhibit the film. The third
+“price” is what the producer of the movie pays to the distributor for placing the film
+in theaters and collecting film rentals. These prices are interrelated: the admission
+price is the source of box office revenues to the theater which pays a rental rate to
+the distributor, who deducts from these rental receipts a distribution fee.
+Since demand must be discovered in a way that lets supply and prices adapt,
+three problems arise with respect to setting all three prices of the film. First, the
+demand signal shouldn’t be noisy. Second, the demand signal should convey in￾formation about demand at the point where price is to be adjusted. Third, prices
+should respond in some reasonably optimal way to the demand signal. I have come
+over the years to admire the industry’s solution to the film pricing problem.
+The admission price is fixed over the duration of the run, with passes and dis￾counts being restricted in the earliest weeks of the run. With a fixed admission
+price, any variations in box office revenue are due entirely to the number of ad-
+13
+missions. The studio, therefore, receives a pure quantity signal of demand, un￾contaminated by variations in the admission price. If a minimum admission price
+were not specified, the exhibitor could, literally, cut the price to zero and make it
+up on concession sales, particularly for Disney animated movies and movies that
+appeal to a young audience. As a protection against this, exhibition licenses prior
+to the Paramount decision usually specified either a minimum admission price, or,
+deferring to the local knowledge of the exhibitor, specified a “usual, or customary”
+price. The courts ruled this practice to be unlawful price fixing and such price
+clauses were expunged from exhibition contracts. Virtually all theaters in the post￾Paramount era became first-run theaters, so the almost ancient practice of charging
+more for the first than for second and subsequent runs became extinct. So, we find
+that admission price does not vary over the course of a motion picture’s run, though
+some theaters may charge different prices than others.
+The stability of admission price among different movies and over the course of
+the run has puzzled economists and observers of the motion picture business. This
+is such a durable practice that it must have some enduring properties; if this pricing
+arrangement were not maximizing revenue, then it would change, according to
+economic principles. But, aside from its historical durability, there are economic
+reasons to think the practice is rational.
+Consider first how one would decide how to price a studio’s motion pictures.
+Would a Warner Brothers movie be priced differently from one produced by Twen￾tieth Century, Paramount or Columbia? Since studios no longer produce a certain
+style of motion picture, there is no brand identity for differentiating their products.
+At one time, MGM had a brand name and its movies could command a premium
+price. But, that era is gone and all the studios produce a wide range of films with no
+evident or predictable studio style or genre; nor do they have particular stars under
+contract. No studio has a lock on blockbusters and they all make bombs. Moreover,
+14
+every studio would strongly object to having its movies priced more cheaply than
+others; it would be seen as a signal of inferior quality.
+But, then why not price the best movies more dearly? If only you knew...
+The “nobody knows” principle, developed at some length later, says that you don’t
+know which movies will be hits and which will be misses. You only know after a
+movie runs that demand is so high that a premium price could be charged. Setting
+a higher price before a movie is released gambles with the information dynamics.
+Choking off demand early in the run curtails the non-linear building of demand
+from week to week. You will see later that hits have distinctly different runs from
+conventional movies and they build demand over time. Charging a higher price in
+the early weeks of the run may prevent that dynamic from getting off the ground.
+A studio really only knows that it has a hit on its hands four or more weeks into
+the run, and then it is too late to change the admission price, and illegal for it to
+direct the exhibitor to do so. Once it is understood that supply can be expanded in
+a perfectly elastic way, then one sees that high demand can be fully captured by
+extending the run, without raising the admission price. A side benefit of an inflexi￾ble admission price is that the exhibitor cannot game the rental rate by varying his
+admission price.
+Now that Paramount’s restrictions have made virtually all theaters first run
+theaters, it is no longer possible to price the first run higher than the second and
+subsequent runs. Nor is is likely that limiting the film’s initial run to a few theaters
+to give them a measure of exclusivity and pricing power would survive a legal
+test under Paramount’s holding that excessively wide clearances are unreasonable
+restraints.
+The simple answer to the question of why do prices not adjust to high demand
+is that they do, you just have to look at the prices that really count for the studio
+and the producer. The rental price adjusts almost perfectly to demand and the dis-
+15
+tribution fee does as well. The rental price depends directly on the grosses at each
+theater where the film is playing.7 This provision keys the price to local conditions,
+because the local rental rate depends wholly on the local theater’s admissions. So,
+price is low where local conditions warrant and high otherwise; this gives a close￾to-optimal spatial variation in prices that extracts more revenue from each film.
+The solution to the problem of varying the rental price in accordance with
+demand is achieved through the contingent pricing clauses of the rental contract.
+The exhibition license cleverly specifies a two-part pricing rule that is adaptive
+and sufficient to capture most of the value of the film to the exhibitor. Note, this
+variable pricing component too is decentralized as the license sets a unique price to
+each exhibitor conditional only on her theater’s grosses. The rental is determined
+by a formula in the contract. Let us consider the sophisticated pricing instruments
+contained in the motion picture rental contract and how the rental price is adjusted
+in accordance with demand.
+The Rental Contract
+First, there is a guarantee or fixed amount which the exhibitor must pay no matter
+what the film grosses. This is individually negotiated or, if the distributor awards
+licenses by taking bids, it will be part of the exhibitor’s bid. For many films, the
+guarantee will be small or zero. For a number of heavily demanded films, it may
+be rather high (above $100,000). We know a two-part price is sufficient to capture
+all the exhibitor’s surplus; the guarantee is the fixed part of the two-part price.
+But, neither the distributor nor the exhibitor knows what the film will gross, so
+the guarantee cannot be set optimally in advance. Adjusting price when demand is
+revealed is the task left to the variable terms of the rental contract. The rental is a
+7At one time there were contracts that called for the theater to pay a rental based on a national
+gross rather than the theater’s gross. See the discussion of these “formula deals” in the historical
+section below.
+16
+percentage of the exhibitor’s gross. It is reset each week according to a declining
+schedule. The exhibitor pays a minimum percentage of her gross each week, with
+the minimum declining over the course of the run. A typical example would be
+a four week minimum run (part of the contract) where the minimum percentages
+might be 70, 70, 60, 60 with any weeks beyond at the flat rate of 40 or 35 percent.
+This declining schedule compensates the exhibitor for the rising probability that
+the film will die next week (De Vany and Walls, 1997) as the run progresses.
+Pricing Hits
+There is more. Suppose the film takes off in its fifth week and begins to gross major
+money. By that week, the rental rate is only 35 or 40 percent and the exhibitor is
+making a killing. If a film gets “legs” it is likely to occur around the fourth or fifth
+week (De Vany and Walls, 2003b). And it may run 20 to 40 weeks if it is a Star
+Wars or Forrest Gump. Runaway hits such as these generate the bulk of revenue
+and profit, so the studio must extract a high rent from them; otherwise profits will
+be left with exhibitors who had nothing to do with producing the hit.
+To guard against leaving money in the exhibitor’s hands, the rental contract
+contains a rental escalation clause. This is the 90 percent on gross above the house
+nut rule: Rent = 0.90 × (Box Office Gross − House Nut). The rent will be the
+minimum applicable percent of gross or 90 percent of gross minus the house nut,
+whichever is higher. The house nut is a fixed, negotiated amount; years ago, the
+house nut was an approximation to the exhibitor’s weekly cost of operating his
+theater.
+How important is this rental escalation? The sort of data required to answer
+this question are private, but I have seen data to indicate that the clause is very
+important in pricing breakaway movies. An example is Tootsie’s 23 week run in a
+theater. The minimum weekly percentages for the contracted six week minimum
+17
+run were 70, 70, 60, 60, 50, 50, with holdover weeks at 35 percent. The house nut
+was $3,000. The data for this theater show that Tootsie’s effective rental rate was
+70 percent the first week. Then it jumped to 90 percent for 10 straight weeks (less
+the house nut), dropped to the minimum 35 percent for 5 weeks and then jumped
+back in the 16th and 17th weeks to 90 percent after which it ran 5 more weeks at
+35 percent.
+Overall, Tootsie’s rental rate in this theater was 54.29 percent. Had the 90
+percent over the house nut clause not been in the contract, Tootsie would have
+earned a rental rate of just 45.78 because it would have run 17 weeks of its 23
+week run at 35 percent.
+How much did the 90 percent clause add to Tootsie’s rentals? We don’t know
+for sure, but we can calculate an illustrative amount from the data for this theater.
+Tootsie played on 1222 screens. Its US gross was $177.2 million. Suppose we
+take the difference in rental rates for this theater and apply it to Tootsie’s national
+total box office revenue. Without the clause, the rental rate of 45.78 percent would
+have yielded total rentals of $81.1 million. With the clause, the rental rate of 54.29
+percent would have yielded total rentals of $96.1 million, an increase of nearly 19
+percent or $15 million.
+Lesson learned. Tootsie was the second-highest grossing film of 1982. It ran
+23 weeks in the theater for which we have data and longer in other theaters. The
+laws of the box office, which shall see later, say that hit movies have long runs and
+they dominate total theatrical grosses and rentals. A distributor cannot afford to
+underprice the hits or leave them in theaters for long runs at the minimum rental
+rate. The 90 percent clause keeps this from happening, even when no one knows
+which movies will be hits.
+18
+Clearances
+Distributors must give exhibitors some protection against competition. Otherwise,
+exhibitors will be reluctant to screen the movie. In addition, the distributor does not
+want the theater’s box office take to be diluted among many theaters for this would
+lower rentals and shorten the film’s run for its take would fall below the holdover.
+Finally, distributors would be reluctant to have exhibitors competing in admission
+price for that would reduce their rentals which, we have seen, depend directly on
+box office revenue. The long-standing solution to most of these problems is the
+clearance clause of the rental contract.
+A clearance is an agreement with the exhibitor that gives him a measure of ex￾clusivity in the showing. The distributor agrees not to license the movie to specif￾ically named competitors of the licensed exhibitor. The clearance is determined
+through bid or negotiation. A theater might include the clearance it wants in its
+bid. The bid letter might suggest a clearance. Alternatively, the clearance might be
+negotiated. Over time, clearances may tend to become more or less customary.
+Broad or stable clearances tend to limit competition. For that reason, clear￾ance arrangements are subject to court scrutiny. Granting a theater an exclusive
+franchise can be interpreted as a grant of a long-run clearance to the franchised
+theater against its competitors. When a distributor owns a theater the effect is to
+clear the territory of competing exhibitors. This is a controversial area because the
+Supreme Court found clearances that were too wide or routinized to be violations
+of the antitrust law.8
+The Distribution Fee
+This is the third of the prices we are concerned with. Here too, the nobody knows
+principle applies: since nobody knows how much a film will gross, it is impossible
+8United States v. Paramount Pictures, Inc., 334 U.S. 131 (1948).
+19
+to set an optimal fee for distribution service. The distributor, a studio usually, books
+the film with theatrical booking agents, advertises, distributes prints to theaters and
+collects them after the showing for distribution to other theaters. Most importantly,
+the distributor collects rental payments and monitors exhibitors to verify they are
+showing the movies booked and at their proper times and that rental payments are
+properly correlated with box office revenues.9
+If a movie has a long run, the distributor is continuously performing these
+duties over an extended time frame. No one knows how long a movie will run or
+what it will gross. So, it is impossible to gauge the distributor’s cost or the value
+of the distributor’s productive efforts. That is, until the film has run; after that, all
+these things become clear.
+The industry’s long-standing solution to these, and other issues, is to charge a
+conditional distribution fee that depends on the outcome. The typical arrangement
+is a fee around 30%, but the rate is negotiable. This fee not only addresses the
+nobody knows problem, it also better aligns the distributor’s interests with those of
+the producer, who is really the residual claimant or owner of the movie. A propor￾tional distribution fee gives the distributor an incentive to maximize rentals and,
+since rentals are the source of revenue ultimately to the producer, their interests
+are made more compatible. If the distributor received a fixed fee, the incentive to
+maximize rental collections would be muted.
+Because it is a percentage of rentals, the distribution fee varies directly with
+movie’s success. So, the key prices are quite flexible and their levels are condi￾tioned on the state of demand as demand is revealed over the course of the run.
+9There are detective firms for hire to detect theater cheating because the theater pays rentals
+based on what they report their box office revenues to be. There had been in the past a good deal
+of underreporting, but this appears to have lessened with modern ticket machines and theater chains
+who have long-term relationships to preserve (see De Vany and Eckert 1991).
+20
+3 A Brief History of Motion Pictures
+We have spent some time on the arrangements between distributors and theaters be￾cause they are at the heart of the industry’s problem: how do you discover demand,
+adjust supply, and price movies when nobody knows their value? This problem is
+as old as the feature motion picture. And the solution to it has not changed much
+since the movies began. In fact, many features of the industry today resemble those
+at the inception of the industry. It is useful to look back briefly to see how little has
+changed, including nearly all the terms of the exhibition license, for it reveals those
+features of the industry that are deep and immutable and those that are superficial.
+In the 1890s and 1900s, producers sold copies or prints of motion pictures out￾right to theater owners.10 Exhibitors resold their prints when they no longer wished
+to show them. By 1903, organized film exchanges supported print trading among
+exhibitors and eventually the exchanges became rental agencies to reduce the cost
+of transferring prints. Most of these pictures were low-budget one-reelers: 10-
+minute comedies, 15-minute dramas, 5-minute scenic films, and 20-minute west￾erns. Four to eight of them comprised the typical two-hour program for which
+patrons paid a nickel. By 1911, about 150 exchanges supplied 11,500 theaters with
+enough reels to provide almost daily program changes.
+Copying and bootlegging were common. The flat price that the producer re￾ceived for selling a print to an exchange did not correlate with the picture’s success
+in the market place. Revenues were too small to justify big productions. Releases
+had to be changed frequently to stimulate attendance. Without marketing, however,
+the public had scant information about which pictures to see. There were no great
+stars or studios in this period, and memorable pictures were rare. Exhibitors faced
+an unreliable stream of indifferent motion pictures by unrecognized producers and
+10In this section I rely on De Vany and Eckert (1991).
+21
+artists.
+The Feature Motion Picture
+The multi-reel feature picture, produced as early as 1907, became popular and
+widespread by 1913. It fundamentally changed the industry. Producers and ex￾hibitors saw the value in moving from daily program changes to two or three fea￾tures per week. Demand would rise through word-of-mouth advertising, theaters
+could become more lavish and charge higher admission prices, and distributors
+could choose among better theaters. The major studios, great stars, and memorable
+features developed as the industry moved away from one-reelers to feature motion
+pictures.
+Features cost more to make than one-reelers, so a nationwide distribution sys￾tem was formed to lower the cost of distributing them. Higher cost productions
+required larger financial commitments from producers. To finance a picture, a pro￾ducer had to show that a distributor would handle it and exhibitors play it. The
+ability to contract “forward” for the distribution and exhibition of a feature be￾fore it was produced was essential to financing. Forward contracting was also the
+genesis of vertical integration.
+At first producers sold exclusive rights to their productions by territory. These
+were called “states’ rights” deals because they encompassed one or more states,
+although they were often for only part of a state. Copies of the motion picture were
+sold to a states’ rights distributor for a flat fee that was based on the territory’s pop￾ulation. As they gained experience, however, distributors learned that population
+was an unreliable estimator of demand and they began to charge a rental fee, or
+royalty, that was based on a percentage of the exhibitor’s box office revenue. This
+arrangement was also acceptable to the exhibitor since it was less risky than paying
+a flat rental for the feature no matter how well it did at the box office. However,
+22
+for the royalty to correspond with demand, the exhibitor’s box office report had
+to be truthful. Anticipating vertical integration, the typical area or states’ rights
+distributors were exhibitors who would show the picture in their own theaters, and
+then lease it to other exhibitors in the allowed territory for later runs. These later
+runs were for designated periods and sometimes were exclusive.
+By 1913-14, producers licensed blocks of a full season’s production (perhaps
+thirty pictures) to a distributor in a single agreement. Paramount Pictures Corpora￾tion, formed in May 1914 by the merger of five exchanges and regional distributors,
+secured the franchise to distribute all the features of three of the leading production
+companies. The producers agreed to make a number of features each season for
+Paramount to distribute. In return, Paramount agreed to pay the producers 65% of
+the gross revenue it received from theater rentals and sub-licensing to other dis￾tributors. Paramount retained 35% as its distribution fee, an arrangement that is
+retained to the present day. Paramount guaranteed minimum returns to the produc￾ers and advanced cash to them on each features release date, against which film
+rental payments received from exhibitors were credited.
+To secure exhibitors for the features they financed, distributors granted fran￾chises to exhibitors. These franchises gradually replaced states’ rights deals. By
+taking a distributor’s franchise, an exhibitor agreed to show the distributor’s entire
+line of motion pictures. As Cassady (1959) noted, “this early version of block￾booking developed out of the need of distributors for a more efficient method of
+selling films.” The franchising exhibitor also bought features “blind,” before they
+were seen, or before they had even been made.
+The Emergence of Vertical Integration
+By 1916, features predominated over short films, and movie “palaces” had been
+built. But, producers and distributors wanted stable outlets and exhibitors wanted
+23
+assured supplies. The contractual arrangements on which they relied were a more
+uncertain instrument to that end than vertical integration. Vertical integration of
+distribution with exhibition offered outlets for distributors, who could then guar￾antee play time to the producers with whom they contracted. With guaranteed
+distribution and exhibition, producers were better able to finance their features.
+The impetus for integration came from all links of the production, distribu￾tion, and exhibition chain: distributors merged upstream and downstream; the￾ater chains merged upstream through distribution to production; producers merged
+downstream through distribution to exhibition. Paramount the distributor became
+a producer and also built theaters. Fox and Loew’s entered production from the
+exhibition side of the industry. The producers Warner and Goldwyn formed the￾ater chains and also developed distribution facilities. By 1931, Paramount owned
+nearly 1,000 houses and its own studios, and the six largest circuits owned 2,437
+theaters (one-eighth of all theaters).11
+The driving force behind these changes was the introduction of the high-cost
+feature motion picture. Within fifteen years of its introduction, the structure and
+controversial practices that the government would later attack had emerged: ex￾clusive territorial licensing, a sequence of runs, block-booking, franchising, price
+stipulations, and vertical integration had become the industry norm.
+The Paramount Litigation
+The five major defendants in United States v. Paramount Pictures, Inc.12 were
+Loew’s (renamed MGM), Paramount, RKO, Twentieth Century-Fox, and Warner
+Brothers. Each of the major studios was vertically integrated from production
+through distribution and exhibition. The three minor studio-defendants were not
+fully integrated: Columbia and Universal produced and distributed motion pic-
+11Conant (1960).
+1266 F. Supp. 323 (S.D.N.Y. 1946).
+24
+tures; United Artists distributed only. The court found that the defendants con￾spired to fix minimum theater admission prices; engaged in intertemporal price
+discrimination by charging higher admission prices for first-run than for later show￾ings; conspired to fix patterns of exclusive clearances and runs for neighborhood
+theaters; and restrained trade by licensing motion pictures in blocks. It found
+that the five major defendants also operated theaters monopolistically through joint
+ownership or pools.
+In its 1948 Paramount antitrust decision, the Supreme Court relied on sim￾ple measures of box office revenue concentration among the major motion picture
+distributors to make its finding that the studios, acting together, monopolized the
+market for “first run” motion pictures. The Court’s decision indisputably altered
+the studio system, forcing the divestment of studio-owned theaters and altering the
+contracts through which motion pictures were licensed to theaters (De Vany and
+Eckert, 1991). Unfortunately, the courts got it wrong.
+A central piece of evidence the courts relied on to infer market power of the
+defendants was the combined market shares.13 It is interesting to note that dur￾ing the half century following the Paramount Consent Decrees, all but one of the
+distributors-defendants (RKO, who exited in 1957) continue to survive. The orig￾inal distributors-defendants were Loews, Paramount, RKO, Twentieth Century￾Fox, Warner Brothers, Columbia, Universal and United Artists. Loews and United
+Artists are now part of MGM while Columbia is now part of Sony Pictures. The
+new entry into this upper echelon is the Disney-owned Buena Vista.
+The current market share of the top five distributors (at 72 percent) is simi￾lar to that of the market share of the five major distributors-defendants during the
+Paramount litigation (at 73 percent in 1943-44). The current Eight Firm Concentra-
+13United States v. Paramount Pictures, Inc., 85F. Supp. 881, 894 (S.D.N.Y. 1949). See Conant
+(1960) and De Vany and Eckert (1991). During the 1943-1944 season, the eight defendants had
+received 95 percent of domestic film rentals (Westerns excluded).
+25
+tion level at 95 percent is the same as during the period of the litigation.14 So, little
+has changed in terms of revenue concentration in the business, a property related
+to self-similarity which we discuss in the next section.
+Contracts and Practices
+The courts challenged five practices of the defendants; each of these practices high￾lights the challenges of discovering demand, adapting supply, pricing movies, and
+structuring incentives which remain central issues in today’s motion picture indus￾try. I will briefly discuss each the challenges to show where the court went wrong.
+Admission Price Fixing and Price Discrimination The courts found that the
+defendant distributors were guilty of price fixing and price discrimination. Admis￾sion price fixing was inferred from the practice of clearing a zone of competing
+exhibitions and a clause in the contract that stipulated the exhibitor’s admission
+price. Film rentals were then, as well as now, determined by box office receipts.
+An exclusive run limits rivalry so that the theater’s profit maximizing price will be
+closer to the price that will maximize rentals. The license exploited the exhibitor’s
+informational advantage by stipulating that the usual or customary price was to be
+the minimum admission price, leaving the exhibitor the (seldom exploited now, but
+historically important) option of raising the price for motion pictures the exhibitor
+thought would be in high demand.
+Intertemporal price discrimination may have been tempting for distributors to
+try and there is little to object to about it, since if it increases film rentals it will
+expand the supply of motion pictures. But it required information about audience
+preferences that could only be learned as the feature played. The best a distribu￾tor seeking to extract additional revenue from a film could do given this imperfect
+14Values of CR5 and CR8 for 1943-44 are computed from United States v. Loew’s Inc., 334 U.S.
+131. Final Finding of Fact 100, February 8, 1950. See Conant (1960, Table 13, p.46).
+26
+information would be to put it in a high-priced theater first and allow movie goers
+with high preference to “self-select” for that theater. Exclusive, first-run engage￾ments followed by broader release to neighborhood theaters enabled distributors to
+create a system of priority among film goers that would extract more film rental if
+the film played well. The limited number of prints of a first-run release had to be
+rationed sequentially in any event.
+Runs and Clearances The District Court and the Supreme Court argued that the
+clearances of a competitive system would not be stable and might even change from
+one motion picture to the next. But this is not necessarily so. The exhibitors will￾ing to pay the highest royalty on a motion picture may change little from picture to
+picture since this depends on the theater’s location, quality, and size which do not
+change from picture to picture. The courts also neglected the fact that runs are vari￾able even within a fixed run and clearance system. Pictures that play poorly do not
+run the expected length of time and those that are more successful run longer than
+expected. The actual run and clearance period depends on how the film performs.
+The stability of runs and clearances were reasonable restraints on trade be￾cause they enabled distributors and exhibitors to build trust and reputation. Longer
+term relations with first-run exhibitors supported demand-revealing experimenta￾tion and promoted stable expectations of product and play time on both sides. The
+exhibitors whose runs followed the riskier first run had more information on which
+to base their booking decision and could select films more carefully. Their rewards
+were potentially smaller, but so was their risk and the potential gross of their house.
+The modern analogue to this practice is following a theatrical run with videos and
+TV. The latter are more easily priced because of the information revealed in the
+former.
+27
+Formula Deals, Master Agreements, and Franchises What we now know as
+theater chains were at the time called circuits. Some of the most interesting deals
+the courts found wanting were designed to address issues involving the theater
+circuits that were beginning to become a major force on the exhibitor side of the
+industry. They can be seen as precursors to dealing with multiplex theaters and
+chains.15
+Formula deals determined the rental price of a given feature for the circuit as
+a specified percentage of the feature’s national box office gross receipts. All the
+circuit’s theaters were included in the deal, and the circuit could allocate playing
+time and film rentals among them at its discretion. This flexibility is surely useful
+in today’s multiscreened theater environment.
+In a formula deal, a circuit paid royalties on the nationwide gross box office
+receipts rather than its own. Because the royalty was independent of the pattern of
+play chosen by the circuit, it could move a film among its theaters so as to maximize
+its earnings. The circuit could not decrease its rental payments by manipulating a
+film’s play pattern among its theaters since its film rentals were tied to the national
+box office revenues (see De Vany and Eckert, 1991 for a more complete discus￾sion of this exotic deal). A modern theorist would see this clever scheme as an
+asymptotically incentive compatible mechanism. Since a circuit’s rentals would be
+a negligible portion of a movie’s national gross, there is little to gain from falsely
+reporting its theater grosses; truthful revelation is then an asymptotically dominant
+strategy. This remarkable device was invented more than 50 years before Groves
+(1973) discovered his famous, truth-revealing mechanism and well before the full
+theoretical development of incentive-compatible mechanisms. Fact is stranger than
+theory.
+15De Vany and Eckert (1991) argue that these practices were deemed objectionable because they
+were seen as favoring the circuits over the independent exhibitors. Today, even independent ex￾hibitors are best seen as small chains.
+28
+Master agreements (or “blanket deals”) licensed a feature in more than one
+theater (usually a circuit). In an age of multiscreen theaters operated in chains, a
+master agreement is simply a license that covers several screens and theaters. This
+seems to have an advantage over writing a contract for every screen independently.
+An n-screen contract is more efficient than n contracts for the same screens. One
+can see that this transactions-saving device presages Coase’s (1937) theory of the
+firm. Again, the constraints of solving real problems in the movie business led
+to the development of mechanisms which economic theory had not yet imagined.
+The theoretical imagination pales in comparison to the “wild” uncertainty and rich
+complexity of the motion picture environment. Fact can inform theory in ways that
+are hard to imagine (see below my discussion of contracting when “nobody knows
+anything”).
+Franchises covered all of a distributor’s releases for more than one season. The
+Department of Justice has dropped nearly all its objections to franchising and this
+practice has recently begun to grow.
+“Moveover” clauses allowed a licensee to exhibit a given picture in a second
+theater as a continuation of a run in the first theater. This clearly is the precursor
+to permitting multiplex theaters the flexibility to move movies among screens in
+accordance with demand.
+The Legacy of Paramount
+The intended beneficiary of Paramount was the independent exhibitor. The in￾dependent exhibitors issued a heavy volume of complaints to the Department of
+Justice regarding the defendants and their actions. Independent exhibitors were
+highly organized and resolutions adopted at their national meetings were directly
+communicated to the Department of Justice. Not only is there evidence that the
+Department of Justice heard from the independent exhibitors, but there is evidence
+29
+that the Department listened to them. Most Department-instigated changes favored
+the independent exhibitor over the theater chains and the studios.
+Paramount’s remedies did not have their intended effect, however, and they
+eventually harmed the independent exhibitor. They promoted wider competition
+for film exhibition rights and reduced production, which raised motion picture
+rental rates and admission prices. The higher film rental rates lowered exhibitor net
+profits. Distributors stiffened the terms of exhibition licenses as the less flexible li￾censes and licensing methods called for by Paramount increased their vulnerability
+to the decline of exhibition caused by the increased competition from television.
+Perhaps the definitive test of whether Paramount improved the lot of the inde￾pendent exhibitor is to look at their own actions. Just a few years after the studios
+sold their theaters, exhibitors, fearing television, called on the Department of Jus￾tice to let the studios reenter exhibition so that they might have stronger incentives
+to produce motion pictures. Exhibitors contended that competitive bidding did not
+solve any problems and increased film rentals (Federal Trade Commission, 1965).
+The methods for allocating motion pictures that were devised in the Paramount
+decrees fostered an explosion of exhibitor antitrust cases against the distributors
+(Cassady and Cassady, 1974).
+The integrated studios—Loews, RKO, Fox, Warner Brothers—lost market value
+in the range of from 4 to 12 percent when the Supreme Court handed down its
+1948 decision (De Vany and McMillan, 2004). But, Columbia and Universal,
+non-theater owning defendants, also lost market value on the order of 7 to 9 per￾cent. This suggests the decision was more far-reaching than merely banning pro￾ducer/distributors from owning theaters; it also barred franchising and other film
+licensing practices. These would have been more valuable to the non-integrated
+studio/distributors than to the integrated ones for they were the means through
+which they maintained vertical controls over theaters.
+30
+The evidence does not suggest that the District Court’s self-acknowledged “ex￾periment” in altering the long-standing and highly developed structure and prac￾tices in this new information industry was “ruinous.” A fall in value of 5 to 12
+percent is damaging, but not ruinous. But, it did not help and, in the opinion of
+the stock market, the Court appears to have done harm to the motion picture in￾dustry and the value of its assets. The pattern of harm is broad: the integrated and
+non-integrated studios were harmed and so was their major competitor who was
+not a defendant. Nor did the litigation seem to end the long-standing hostilities
+between the studios and independent exhibitors that had been the source of the lit￾igation. The number of lawsuits brought by exhibitors over distribution practices
+grew rapidly after Paramount. Other evidence shows that neither the independent
+exhibitors nor the film-going public benefited from the fall in feature film produc￾tion and rise in theater prices and film rental rates that followed Paramount.
+Current antitrust decisions and policy with respect to the licensing of films
+and ownership of theaters by distributors have implications for what sorts of films
+are produced and how they are exhibited. The courts have required films to be
+individually licensed, theater by theater, and solely on the merits of the film and
+theater. This requirement has stood in the way of ownership, franchising, or other
+forms of long-term contracting between exhibitors and distributors. It also has been
+interpreted to restrict multiple-picture licensing.
+In practice, what this has meant is that it is not possible for a theater to agree
+with a distributor to exhibit more than one film at a time. No contracts can be made
+for the whole season of a distributor’s releases, nor for any portion of them. This
+makes it impossible for a theater to be the outlet for a single distributor such as
+Twentieth Century-Fox or New Line Cinema or Buena Vista. Nor is it possible
+to license a series of films to theaters as a means of financing their production.
+Moreover, the inability to contract for portfolios of motion pictures restricts the
+31
+means by which distributors, producers and theaters manage risk and uncertainty.
+At one time, when the studios owned their own theaters and when they could
+contract for many productions with theaters for a period of years, the theaters were
+among the primary means of financing production. This was labelled “block book￾ing” and halted by the Paramount Decrees. The licensing and ownership restric￾tions of the Paramount antitrust litigation have made it impossible for exhibitors
+to finance the production of motion pictures for release in their theaters. As a re￾sult, motion picture financing falls almost entirely on the distributors who rely on
+internally generated funds, the capital market, or presales of distribution rights in
+other countries. This, in turn, has probably been a major factor in the emergence
+of the concept of a “bankable” star whose participation in a project can assure its
+financing because the star will get it on theater screens where it has an opportunity
+to earn revenue.
+A final irony of the Paramount legacy is that only the original signatories to
+the Decrees are bound by its restrictions. This leaves Sony and other new entrants
+free to own theaters while Warner Brothers, Paramount, and Twentieth Century
+Fox cannot.
+4 Graduate Movie Economics: The Stable Paretian Hy￾pothesis
+Think about it; motion picture revenues are just information, a pure number that
+has no upper bound. Supply can be extended indefinitely and at constant cost.
+Consumption does not use up the movie, there is still as much for others to see.
+And, consumption may lead to an exchange of information with others, expanding
+the class of users. So there is no limit to what a film might earn, nor is there a
+natural scale to which revenues converge. Information variables can be magnified
+by non-linear feedback and, as a result, they can grow explosively or shrink dis-
+32
+astrously. Thus, differences among movies can expand exponentially during the
+course of their runs and motion picture revenues can “go anywhere.”
+The ability of any model to capture these features seems unlikely, but a deeper
+look at the nature of the dynamics offers more hope. What we would like to find
+is the statistical attractor to which motion picture revenues are drawn. There is
+a class of distributions to which motion picture revenues are drawn; it is the sta￾ble class. Stable distributions are the attractors of dynamical processes that retain
+a self-similar structure under choice, aggregation, and mixture. The generalized
+central limit theorem says that sums of independently distributed random variables
+converge in distribution to the class of stable distributions. The normal or Gaus￾sian distribution is stable, but it is the only stable distribution with finite variance.
+Other distributions in the stable class are the Pareto, the Cauchy, and the L´evy dis￾tributions some un-named ones (because they do not have closed forms). See the
+Appendix for a more detailed discussion of the stable distribution.
+A stable distribution S(α, β, γ, δ) is a 4-parameter distribution. Distributions
+in the stable class are characterized by their tail weights. If the tail weight, α, is
+2, the distribution is Gaussian and the tail decays exponentially. If α is between
+0 and 2, then the distribution is some other non-Gaussian member of the stable
+class and the tail is said to be “heavy” because it decays at less than exponential
+speed. Non-Gaussian stable distributions have Pareto or power law tails and their
+tail weight parameter lies in the interval (0 < α < 2). When α < 2, the stable
+distributions do not have finite variances. And they may not, for α < 1, have finite
+means.
+Stable distributions, particularly their Paretian tails, give us the laws of the box
+office. Because they are the attractors of dynamics that are stable in form under
+choice (maximization), mixture (grouping) and aggregation (adding), they are the
+natural candidates for our laws of the box office. Motion picture revenues are the
+33
+result of choices of individual movie fans, grouping of fans of diverse interests in
+theaters, and an adding up of revenues in individual theaters and over many theaters
+during the run. Motion picture revenue dynamics, therefore, should converge to
+stable distributions, but they needn’t be Gaussian (and are not).
+With its characteristic high peak, “heavy” Paretian tails and skew, the stable
+distribution is a statistical monstrosity suffering from a condition called leptokur￾tosis. But, leptokurtosis is not something that requires mouth wash or deodorant; it
+is a thing of beauty. It is what makes the movies a business of the extraordinary; a
+kurtocracy in Nassim Taleb’s (2001) world of randomness. The stable distribution
+captures the winner-take-all nature of the movie business as well as the dominant
+influence of extreme events. As it is the limiting distribution of recursive, sta￾ble dynamical processes, it is relatively insensitive to initial conditions. But, the
+naturalness of these properties is insufficient reason to establish that the stable dis￾tributions are good descriptions of motion picture revenues. They must fit the data.
+And they fit like a glove. The stable distributions and the dynamics that produce
+them give us the laws of the box office. There is a large and growing literature
+on this. To conserve space, I will just note these works here together; they are
+Sornette and Zajdenweber (1999), De Vany and Walls (1996, 1999, 2002), Lee
+(1998), Walls (1997), Hand (2001), Ghosh (2000), McKenzie (2003), De Vany
+(2003a).16
+Estimating Stable Paretian Parameters
+A brief word about estimating the parameters of stable distributions. Lee (1999)
+in his doctoral dissertation covers five techniques for estimating the tail weight
+parameter α: the Hill estimator, Nolan’s Stable program, McCulloch’s quantile
+16I must mention Art Murphy, a long-time reporter on the business with Variety and The Hollywood
+Reporter, who drew log-log plots of movie revenues and frequencies years ago and coined Murphy’s
+Law; 20% of movies earn 80% of the grosses. He discovered the Pareto law, though he did not know
+it as such, and his law has been pretty durable (a signature of self-similarity).
+34
+estimator, and two techniques adapted from Mandelbrot’s early research on cotton
+future’s prices (Mandelbrot, 1963).
+Mandelbrot plotted data to find linear portions in the upper tails of probability
+versus magnitude graphs, just as Art Murphy did in the Hollywood Reporter. If
+such portions existed, then log linear regressions of log survival probability ver￾sus log revenue could be used to estimate α. The slope of this linear regression
+Log(P rob) = Log(constant) − αLog(Revenue) is the estimate.
+An alternative method of estimating α is to rank movies according to their
+grosses, from high to low. Assign rank 1 to the first, 2 to the second and on down
+the line. The ordered revenues are the so-called order statistics. Take the logarithms
+of these variables and plot them. The left-hand portion of the graph, corresponding
+to the top grossing movies, will be linear and well-fitted by Log(Revenue) =
+Log(constant) − βLog(Rank). The inverse of β is an estimate of the tail weight
+parameter α.17
+Nolan’s Stable program (available at his web site) estimates the parameters of
+the stable distribution using maximum likelihood methods. The four parameters
+of the stable distribution {α, β, γ, δ} are interpreted as follows: The characteristic
+exponent α is a measure of the probability weight in the upper and lower tails
+of the distribution; it has a range of 0 < α ≤ 2 and the variance of the stable
+distribution is infinite when α < 2. The skewness coefficient β is a measure of
+the asymmetry of the distribution; it has a range of −1 ≤ β ≤ 1, where the
+sign indicates the direction of skewness. The scale parameter γ must be positive.
+It expands or contracts the distribution in a non-linear way around the location
+parameter δ which indicates the center of the distribution; the scale parameter is,
+roughly, the “width” of the central part of the distribution.
+We can illustrate these features of stable distributions in the following figures.
+17Essentially, the left hand tail in the order statistics plot is the right hand tail in the frequency plot.
+Because the graphs are flipped over, the slopes are the inverses of one another.
+35
+Figure 1 from De Vany and Walls (2004) shows the stable distribution of motion
+picture profit as estimated by Nolan’s Stable program; it also shows a normal dis￾tribution as well as the empirical data. Note how closely the stable distribution fits
+the data and how poorly the normal fits. The difference is even greater in the tails,
+but the figure cannot reveal this. A look at the upper tail of box office revenue is
+shown in a log log plot of box office gross versus rank, where the top grossing film
+is rank 1, the next rank 2, and so on. Figure 2 from De Vany and Walls (1999)
+illustrates the tail linearity for star and non-star movies. The slope of the regres￾sion of the logarithm of revenue on the logarithm of rank, as stated above, is an
+estimate of 1/α. Finally, if the distributions can be shown to be a member of the
+stable class, De Vany and Walls (2003a) show that estimates of α can be derived
+from the mapping of future on past revenues (see below).
+A further issue is the infinite variance. What does this do to regression anal￾ysis of the sort often done of the “determinants” of box office grosses or returns?
+The usual regression model assumes a normally distributed error term with finite
+variance. But if the variance is infinite, then the conditional expectation of a linear
+regression model has no precision — it may be useless or misleading. In their re￾search on stars, De Vany and Walls (1999) use quantile estimators and probability
+point estimators instead of the usual linear regression. In recent work, Walls (2003)
+uses McCulloch’s (1998) estimator of the stable regression model. He finds that
+the distribution of movie returns conditional on its attributes has infinite variance.
+In a related paper, he shows that the skew-t distribution is a good approximation
+to the more demanding stable distribution. Thus, without tackling the difficulty of
+stable regression, researchers can get close approximations to stable results using
+the skew-t distribution for the error term.
+With this background, we can now turn to the laws of revenue and cost that are
+implied by their dynamics and their stable attractors.
+36
+Laws of the Box Office
+There are quite a few findings that have been replicated often enough to assume a
+tentative status of a law, at least of a statistical form. They relate to either the dy￾namics or the distribution of box office revenue. I shall be very brief in describing
+them since there are detailed descriptions in the literature cited above.
+“Winner Takes All” Motion picture box office revenues are highly concentrated
+and unevenly distributed. The top 4 movies account for 20% of revenues and the
+top eight for nearly 30%. The Gini coefficient is 0.777, indicating a degree of
+inequality approaching the distribution of income in Third World countries, and
+just 20% of movies earn 80% of revenues.
+One of the best measures of inequality is the kurtosis. This is a measure of
+departure from the shape of the Gaussian distribution. A leptokurtotic distribution
+is sharply peaked, asymmetric and skewed, just the kind of shape that tells us that
+movies are very different from one another. In the movies, kurtosis is high. A
+Gaussian distribution has a kurtosis of 3; in the movies we find kurtosis values
+ranging from 15 to over 100. The kurtosis of box office revenues is 45.
+Another measure of inequality is the tail weight coefficient α. Small values of
+α are associated with large inequality because such values make extremely large
+grosses more likely. Many estimates of α place it in a range of 1.3 to 1.7, with the
+most frequent estimate being 1.5. The movies are more unequal than a Gaussian
+world would ever be. This vast inequality makes Hollywood a kurtocracy. In
+new work De Vany, Taleb, and Spiztnagle (2005) have found that lifetime movie
+grosses of actors is so leptokurtotic and “wild” that the mean does not even exist
+(α ≃ 0.84 < 1). The kurtosis is on the order of 104, making it clear that the movies
+is a kurtocracy ruled by extraordinary artists and events. Yet, even these kurtocrats
+experience the “wild” uncertainty and cannot form even an expectation of the box
+37
+office grosses of their future movies.
+Finally, just in case you are an unrepentant Gaussian, you should know that
+Forrest Gump had a domestic gross revenue that was 10 standard deviations above
+the mean. Titanic was 20 standard deviations above the mean. These events would
+never occur in a billion reruns of history in a Gaussian world. The improbable
+happens in the movies and these are the main events.
+Hits have Long Runs It is impossible to find a movie that grossed $50 million
+or $100 million in real terms (relative to 1984 base) that did not have a long run.
+Over the past two decades only 5% of movies exceeded $50 million and fewer than
+2% exceeded $100 million. A long run does not guarantee big revenues, but hits
+always have long runs. That is just what the dynamics of non-linear information
+flow would imply and leads to our next law.
+Non-linear Information Flow When you consume a movie you leave no less for
+others to see. Each viewer adds to the total without taking anything away because
+movies are pure information. New viewers are attracted to movies that already have
+many viewers; box office reports on the news and word of mouth news convey
+messages to prospective viewers proportional to the number who have seen the
+film. This non-linear growth rapidly propells film revenues apart from one another.
+When large revenues produce large revenue growth, the runs of the largest grossing
+films are extended and the result is long-running hits.18
+18Readers may see think this information flow is a Gibrat process, but that is not the case. Growth
+rates in a pure Gibrat process are proportional to size. A Gibrat growth process predicts a linear
+increase of the variance with time; this is not found and the variance increases non-linearly over
+time. Second, the standard deviation of the growth rates does not decrease according to S1/2
+. A
+Gibrat process converges on a log-Normal distribution and this is rejected in the dynamics (they do
+not settle down and show longer range correlations).
+38
+Opening Gross does not Predict Total Gross Suppose a movie dies after its first
+week. Its opening week gross would predict its total gross perfectly because they
+would be one and the same. On the other hand, opening week gross will not fore￾cast total gross if a movie runs, say, 36 weeks. There is a high but slowly decaying
+auto-correlation between weekly revenues, but the correlation between opening
+week revenue and revenues in subsequent weeks decays rapidly. By the seventh or
+eighth week of the run, there is no correlation between a movie’s opening revenue
+and weekly revenues or between its total and opening revenue. Because non-hit
+movies have short runs (4 to 6 weeks), their opening revenue is from 60 to 70% of
+their total revenue. So, for these movies, there is some correlation between opening
+and total revenue and it is stronger for movies whose revenues decay rapidly. Hit
+movies move on a different dynamic as we next will show.
+Momentum and Chaos De Vany and Walls (2003b) offer an explanation for the
+sudden loss of correlation of revenues for hit movies around the fourth to fifth week
+of the run and this leads to another law of the box office, the law of momentum and
+chaos.
+Momentum is a non-linear expansion or contraction of revenues, conditional on
+past revenues; the winners separate themselves from the losers. De Vany and Walls
+(2003b) show that the expectation of revenues going forward during a movie’s
+run can be mapped on past revenues. Under the stable Paretian hypothesis, the
+conditional expectation forward revenue on past revenue is E[Ri+|Ri+ ≥ Ri−] =
+Ri−α/(α −1), where + means future and − means past. The expectation of future
+on past revenues is proportional to past revenue. The mapping is multifractal,
+meaning that α changes value during the run (hence violating the Gibrat property).
+Though variable, a typical α is about 1.5 which implies that α/(α − 1) is about
+39
+3.19 This implies that, for a value α = 1.5, a film’s expected future earnings for
+its complete run in week i is about three times what it has earned to date. A movie
+that has grossed a large amount does not “use up” its revenue; it can continue to
+expand its gross. Big films grow faster and small differences between films can
+grow explosively. This is momentum.
+The non-linearity of momentum opens the possibility of chaos. De Vany and
+Walls (2003b) did find evidence of a bifurcation in the mapping of future on past
+demand at the fourth or fifth week of the run; at this point hit movies rapidly diverge
+from the bombs and the mapping bifurcates into two branches, a hit and a non-hit
+branch. Bifurcation is known to be a route to chaos. De Vany and Walls do no
+formal tests for chaos because these tests require very long time series and most
+films do not run long enough to discern chaos. But, the evidence is there in the
+change in the form of the mapping—it becomes expansive for hits and contractive
+for bombs—and in the evidence of a rapid separation in the distance (measured
+as revenue) between hits and bombs. When two near points are propelled rapidly
+away from one another by a non-linear mapping, you have evidence of chaos.
+Champions, Births and Deaths Films that attain high rank in the revenue tour￾nament have longer runs than films that attain lesser rank. This and the following
+laws are from De Vany and Walls (1997) who model box office revenues as a dy￾namic rank tournament. Champions last longer in rank than contenders do in theirs
+and expected duration in rank is declining in rank. This is a law of champions that
+seems to hold in sports as well as in the movies.
+Seen from another angle, we can say the hazard of death rises during a film’s
+run and the hazard is everywhere greater for a film the lower is its revenue rank.
+The smaller hazard of successful films in successive weeks of their runs implies
+19The value of α can be derived from the regression of the expectation mapping and, thus, is yet
+another method for estimating its value (see De Vany and Walls, op cit.)
+40
+that they should have longer runs. And they do. The expected run life of a film is
+longer if, at some time during its run, it attains rank 1 and the higher is the highest
+rank it ever achieves during its life.
+Another survival statistic that speaks to the unpredictability of films is that the
+distributions of deaths and new releases are Poisson. Births and deaths are pure
+counting processes and their weekly rates are equal. This implies that the intervals
+of time between deaths is exponentially distributed. The exponential distribution is
+said to be forgetful because the time to the next death is independent of the length
+of the interval.20 So, a film in the n-th week of its run has the same probability of
+death as one that just opened (if they are at equal rank). De Vany and Lee (2003)
+extend this model by estimating the Markovian transition probabilities between
+ranks. A descent in rank is more probable than a rise in rank, and small leaps are
+slightly more probable than large ones. Nontheless, a film can transition from low
+to high rank—a humble beginning does not prevent a film from becoming a hit.
+Extreme Events Dominate The sample average of motion picture revenues is
+strongly influenced by extreme events. Dropping just one film, Titanic, from a
+sample of 6,289 movies covering twenty years of films released from 1982 through
+2001 causes the mean box office revenue to fall by more than a million dollars and
+the maximum to fall from $601 million to $431million. This single film accounts
+for just under 1% of the cumulative box office revenue of all the movies released
+in North America over the past twenty years. In the year it was released, 1997,
+Titanic earned 9% of all motion picture box office revenue that year.
+The dominance of extreme events is revealed in many ways: by the rightward
+skew with the mean far above the mode and reaching the 75th or higher percentile.
+20So much for the motion picture release timing game discussed above. If time to death is inde￾pendent of how long a film has been running, there is no way for a studio to predict when to release
+its film in order to avoid competition with some other film.
+41
+Figure 2 reveals the dominance in another way. Revenue declines rapidly with a
+decline in rank; a fall from rank 1 to rank 10 produces a change in revenue of nearly
+2 orders of magnitude (from a power 10 to 8). The figure also reveals that extreme
+events are more dominant for non-star than for star movies (the steeper slope for
+non-star movies implies a higher value of the tail weight α. De Vany and Walls
+(1999, 2003a) show why this is so: stars increase the least revenue a film might
+earn, but do not increase the most it might earn.21
+Volatility What follows from the dominance of extreme events is that aggregate
+box office revenues are volatile. So are the average and variance of revenues. One
+or a few big movies can move aggregate revenues by a lot and this pulls the average
+and variance along. When revenues obey a stable Paretian law, increments scale as
+(∆t)1/α. Put another way, the phase space is stable-distributed with parameters in
+the time space as Sα(|∆t|1/α, 0, 0), where ∆t is the length of the time step.22
+Thus, if we observe the box office revenues over a period of 4 years, the
+maximum difference among revenues we will likely see in 4 years will be about
+42/3 = 5.333 larger than what we would see in 2 years. The largest leap or fall
+in revenue from one film to the next that occurs in 4 time years should be about 5
+times the change that occurs in 2 years. Thus, we expect quite a bit of volatility
+in motion picture revenues when they are stable Paretian distributed. At times the
+bottom may appear to fall out and at others it may appear that the industry is on a
+rapid expansionary path. But, they are all part of the natural variation and do not
+indicate a fundamental change in market conditions or fundamentals. Things just
+happen.
+21This is confirmed in the stable parameter estimates in Table 1 where the estimate of α is smaller
+for non-star than for star movies.
+22This relation opens another method of estimating α which has been coded in the DFA (detrended
+fluctuation analysis) algorithm by Peng.
+42
+Self-Similarity Volatility is linked to the statistical self similarity of motion pic￾ture revenues. This appears in many guises, but the operative point is this: a random
+variable X(t), t ∈ T is self-similar with index H if for every k > 0 {X(kt), t ∈ T} ≃ {kHX(t), t ∈ T}
+where ≃ means equal in distribution. For a stable motion, H = 1/α and since we
+know α = 1.5 it follows that H = 2/3. For Brownian motion, H = 1/2. Thus,
+movie revenues do not follow a Brownian motion. What follows is that there are
+longer-range correlations in motion picture revenues than in a Brownian motion.
+This reflects, among other things, the dependence of revenues on extreme events;
+such events linger in the data because of the powerful influence they exert on the
+statistics.
+But, self-similarity may reflect other kinds of scaling beyond time. We shall
+see this later, but we can for now imagine that we could restrict movies according
+to some observable measure that, in effect, is a rescaling of the variable. What we
+should find is that we get back the same probability distribution once we properly
+rescale it. Thus, theater screens are another way to rescale revenues and we should
+find that a similar distribution holds for screens as for revenues, allowing for the
+difference in their magnitudes. And we do find this (De Vany and Lee, 2001).
+Alternatively, if we group movies in budget categories, high, medium, low, we
+should get back a rescaled distribution of the same probability distribution in each
+of these classes. However we proceed to analyze the data, self-similarity suggests
+we may find that they are all windows of different scale onto the same underlying
+process. We shall encounter self-similarity again.
+Non-finite Moments Among the most counterinuitive properties of the stable
+distribution is that the variance may be infinite; even more mind-blowing is that the
+mean need not exist. All physical processes that can be realized in an observable
+43
+world have to be finite, at least we feel that ought to be true. How then is it possible
+for a probability distribution that actually describes a real phenomenon to have an
+infinite variance or, worse, a non-finite mean?
+Mathematically, this is not hard. All that is required is that probability in the
+outer tails, or upper tail if we are talking about box office revenue because its lower
+tail is bounded by zero, decays slowly. A probability distribution can be perfectly
+well-behaved and yet decay so slowly in the tail that the integrals of the variance
+or mean may not converge. For example, the variance is the expectation of x2
+. In
+the Paretian upper tail of box office revenue, probability is of the order x−α. Since
+α = 1.5, the term in the integral of the variance is, therefore, of the order x2x−1.5.
+This goes to infinity as x goes to infinity and, so, the variance does not exist. If
+α < 1. the same limit argument holds for the expected value, or mean.
+There is nothing hard about that. What is hard is how to interpret a stochastic
+process that does not have a variance or may not have an expected value. I see these
+properties as a warning that our knowledge is limited and that further observation
+of the process will reveal novel outcomes. The process is not changing, but what
+it cranks out does change; some changes will appear to be so abrupt that we may
+feel that we are observing something entirely new. But, only the outcome of the
+process has revealed heretofore unseen events, the process remains stable.
+Take the infinite variance. We know that our stochastic process takes leaps and
+falls on the order of ∆t1/α. This means that, as time expands, the size of changes
+grows. Thus, the largest event so far observed will, eventually, be exceeded. In
+fact, the variance will grow as the sample grows. So, the infinite variance is just
+a warning that we can never see the full realization of the process which our ob￾servations can only reveal a glimpse of. The Le´vy stable process unveils perpetual
+novelty, an attractive feature for a creative process like movie-making.
+As to the possible non-existence of the expected value, a similar point is to
+44
+be made. Now, most motion picture data do tend to have a finite sample mean;
+though there are some exceptions, notably market shares of the major distributors.
+But, even if the theoretical mean exists (is finite), we expect it to be variable. This
+follows from theory, as we know that a linear combination of stable-distributed
+random variables will also be stable-distributed, so the mean must be a random
+variable and is stable distributed (with suitable rescaling). But, it is the dependence
+of the mean on extreme values and the unfolding of the process generating new
+extreme values that makes the mean variable.
+Aside from cautions against drawing inferences from finite observations of a
+process that can “go anywhere”, the infinite variance (and possibly infinite ex￾pected value) has a real advantage. We can forecast outside the sample; the largest
+box office revenue that we have so far seen does not put an upper bound on the
+possibilities. It would in a stochastic process that makes only finite leaps, for then
+the probability of an event larger than the largest event in the sample would be van￾ishingly small. We couldn’t forecast revenue beyond the largest in the sample. Yet,
+we know that the probability mass in the upper tail of an infinite variance stable￾distributed variable does not vanish, even for events more than four or five standard
+deviations above the mean. If box office revenues were Gaussian, the chances of a
+movie reaching Forrest Gump’s or Titanic’s revenues would be zero since the for￾mer is 10 and the latter is 20 standard deviations above the mean! But, box office
+is not Gaussian and the stable distribution tells us there are movies yet to be made
+that will exceed the largest grosses we have ever seen.
+“Nobody Knows” The laws of the box office offer a foundation for Goldman’s
+nobody knows anything proposition (Goldman, 1983). Sample averages and vari￾ances are unstable; they change with the sample and the variance grows with the
+size of the sample. The expected variance is infinite; the mean or expected value
+45
+may not exist. The stochastic process unveils perpetual novelty. Leaps and falls
+are so large that the business may seem to have entered a new era. Forecasts of
+expected values have zero precision. And, yet bigger things lie out there. Put these
+together and you will see that nobody on Earth can forecast how much a movie
+will gross.
+We know this has to be true anyway. If box office grosses could be forecast,
+then making movies would be easy. It is not and it should not be. The nobody
+knows principle elevates the creative process to the center of the motion picture
+universe. Nobody knows because movies are one-off, creative products, each one
+unique unto itself. And, they each play out their lives on the screens in equally
+unique ways. There is a hint of chaos in the dynamics which are richly complex
+and non-linear.
+One suspects that Broadway shows, pharmaceuticals, patent royalties, records,
+books, and many other creative products share this property. It would be instructive
+to explore these industries using the models and tools that have proven so useful in
+motion pictures.
+Laws of Production and Cost
+Hollywood has its laws of production and cost, but I would not dream of writing
+down production or cost functions and estimating them. I would not know how to
+measure the output or the inputs. That is because movies are unique. And, they are
+produced in fairly unique ways. When a movie gets produced it is by a temporary
+assemblage of individuals, a temporary team. The producer puts the team together
+to make a movie and then the team members go back into the labor pool to wait
+for their next project. The movie can be storyboarded, scene by scene, and the
+requirements and shooting time can be estimated for each of them. But, shooting
+time does not translate linearly into frames and scenes of a finished picture. Linear
+46
+feet of film do not add up to make a movie.
+Sequential Production Producing a movie is a drawn-out process that unfolds
+in fits and starts over time. It is a recursive process with complex linkages among
+stages and this point of view is born out, not only by tales told by filmmakers
+such as Steven Bach (1986) or Mark Litwak (1986), but in the behavior of cost, as
+you will see. I will describe the stable law of production which says that a movie
+gets no closer to being finished as work progresses. This odd law of production is
+revealed in the behavior of expected cost in what I call the angel’s nightmare which
+says that the expected cost of finishing a movie is proportional to what has already
+been spent.
+Production Problems What I first wish to emphasize are the many problems
+that arise from the way films are produced and how they are dealt with to varying
+degrees of success. These problems make the transformation of inputs into out￾put uncertain; hence the difficulty of writing down a function that represents that
+transformation. Broadly, there are hold up problems, sunk costs, and principal￾agent problems among the many creative inputs and financial interests. And, they
+are solved in the usual ways, by crafting clever contracts and contingent payment
+schemes, by reputation, by careful monitoring, and by ultimatum.
+A movie goes through many stages: the development stage where the story is
+crafted and tentative casting and financing are explored, to pre-production where
+the creative elements are cast and contracted and financing and distribution ar￾rangements are made, to production where the scenes that make up the movie are
+shot, to post-production where editing and reshooting are done, to its eventual re￾lease. Money is spent at each stage so if the process fails to advance to the next
+stage, that money is spent to no effect. It is sunk and not recoverable. The hard
+lesson is that unless a film is finished and playing on theater screens, none of the
+47
+money expended on it can be recovered. All the money spent on a movie is sunk
+at the time it is released.
+End Stage Naturally, this end of stage problem presents difficulties. A distrib￾utor might decide to renege on a distribution deal and leave the producer with all
+those sunk costs. At that point, unless there is competition for the film, the dis￾tributor might pick it up at a fraction of the cost knowing the producer has sunk
+his costs and has to sell the film to recover them. This end of stage problem was
+one of the reasons producers and distributors merged to form the studio system
+that governed production in the movies from about 1915 to around 1950. Now,
+it is settled by contract under which the distributor acquires an equity interest in
+the film. The distributor advances at least part of the production cost of the film
+in exchange for an interest in it along with the right and obligation to distribute it.
+With this arrangement, producer and distributor have a mutual interest in seeing the
+film finished and distributed and the end-stage problem is solved. We know that
+solving the end stage problem is crucial for, if the end stage cannot successfully be
+completed, then each preceding stage will come undone and the film will unravel
+from the end to the beginning and the movie won’t get made.
+Hold Ups Another stage problem is the potential hold-up that any creative ele￾ment can expose the whole production to. If an actor or director decides to change
+the terms of their deal or insist on some change in the story or role or location
+or what have you, they threaten the whole project and may render sunk and non￾recoverable everything that has been spent up to that point. It is very hard to fire
+an actor or director or cinematographer after scenes have been shot and are in the
+can. If they have tantrums or refuse to follow direction or conform to any of the
+many details that have been laid out in the story board or script, the project is in
+trouble. These days, when a studio only makes from five to a dozen movies, one
+48
+movie can bankrupt a studio if it fails to be finished or runs far over budget (or is
+just expensive and lousy). Tantrums, creative conflicts, a script that falls apart as
+it is shot, bad weather, or a mechanical shark that breaks under the stress of being
+towed at high speed in the ocean, and a thousand other things can bring a movie’s
+production to a halt.
+Solutions So, these sorts of problems must be dealt with carefully and creatively
+and they are among the many sources of what appear to be strange business prac￾tices in the movie business. First, we know that reputation can make people act
+more responsibly and to more diligently pursue the common goal of all the agents
+involved in making a good movie that comes in on budget. Reputation is one solu￾tion. Hollywood may have the most carefully adjudicated system of reputation of
+any industry. You are in Hollywood what your screen credits say you are. They are
+out there for everyone to see. So are the box office statistics. Hollywood’s many
+guilds carefully parcel out screen credits and they have developed detailed criteria
+for awarding director, screenwriter or producer credits.
+Repeat dealing amplifies the effect of reputation. People who have worked
+together before tend to do so again, if their collaboration was a good one. One can
+trace networks of contacts, as in the Six Degrees of Kevin Bacon game played by
+devotees of the Internet Movie Data Base, and they are densely wired with a few
+key people at central nodes. Opportunities flow over this network and the structure
+of this network is the key to understanding patterns of work and productivity. The
+network structure of work and opportunity is known to be Pareto-distributed; a
+few central nodes have dense contacts while most nodes have few. This is another
+example of self-similarity in the movies; the contact network is Pareto-wired just
+as box office revenue is Pareto-distributed.
+49
+Contracts and Roles Another method of reconciling the creative types and the
+money people is to write contracts or organize roles suitably. Thus, a director
+can be punished for going over budget; just reduce her fees in proportion to the
+amount the production is over budget. This is a common contractual remedy. An
+alternative is to blur the line between art and money by having talent participate in
+the profit a movie earns. Actors, directors, or screen writers can get a piece of the
+action, blunting their willingness to act contrary to the project’s economic interest.
+Some directors or actors assume the role of producer, thus merging the creative
+and money roles. Similarly, an actor or director who has agreed to make a movie
+must have assurances that the project will move ahead to production; his or her
+participation may be important to getting financing if the talent is “bankable.” So,
+there is a drop dead date at which the producer must be prepared to “pay or play.”
+If production does not commence by that date, the producer must pay the artist a
+fee.
+Monitoring the artists is second nature to the money people in Hollywood. The
+story board tells scene by scene how the movie should progress and this progress is
+constantly monitored by the producer and a representative of the financial people.
+They watch the dailies, the film shot each day, and compare the dailies with the
+story board. If the shooting falls behind schedule, this is noticed and a work￾around is discussed. If the dailies show too many reshoots another discussion takes
+place. And so on.
+Final Authority At some point, there must be a decision with whom to vest
+the authority to decide each problem that comes up. This is another place where
+reputation and authority crop up. No contract can contemplate all the contingencies
+that will arise or who should decide when there is disagreement. But, someone
+must decide when there are opposing views. Who should it be? It is here that
+50
+contracts can become arcane and inscrutable to an outsider. It is in the best interests
+of all concerned to place the residual authority in the hands of the person best suited
+to choose the best action. But, this will differ; sometimes the director is the best
+one to decide, at other times it is the producer. A sloppy deal memo that vests all
+residual authority in a director may put the production in the hands of a mad genius
+and break the studio. If it puts creative authority in the hands of a money person,
+the cast may walk off.
+Ultimately, someone must make the hard decisions that may be required to rein
+in a runaway production. The stage game is turned into an ultimatum game. That is
+the role of the completion guarantee, a bonding company that puts up the money to
+finish the movie. When a movie reaches this stage, the game is up and a third party
+steps in to make the final decisions. They may not be the best creative choices,
+but at least the movie will be completed, salvaging some of the costs now long
+sunk. The only hope of recouping these costs is to finish the movie, which the ones
+in charge have shown themselves to be incapable of doing. So, the completion
+guarantor steps in and finishes the job.
+Stable Paretian Costs Having described the tangible possibilities that a movie
+might go over budget or that budgets might be uncertain, a natural question is: How
+predictable are production budgets? There are many stories about movies famously
+over budget; Cleopatra, Heaven’s Gate, and Titanic are examples that readily come
+to mind. We are asking what the probability distribution of motion picture produc￾tion budgets is. There is a problem in finding the answer to this question. We have
+production budgets for most movies that are produced and released. But, we don’t
+have data on whether they are on- or over-budget. The best we can do is to estimate
+the distribution of production budgets, as reported by third party sources, to get a
+picture of the variety and possibilities. The production budget data will include
+51
+movies that are over and on budget, giving us some idea of the possibilities.
+In two papers, De Vany and Walls (2002, 2003c) examine the distribution of
+production budgets. They find that budgets are Pareto-distributed, though they are
+less skewed than revenues. Mean budget is at the 62nd percentile and its standard
+deviation is approximately equal to the mean.
+De Vany and Walls (2003c) estimate the general stable parameter parameter
+values of the profit distribution. The lower tail of the profit distribution is Pare￾tian with a tail exponent of α = −2.64. Because the estimated value of the tail
+coefficient exceeds 2, budgets have a finite variance. The lower tail of the profit
+distribution is dominated by cost and so this is a reasonable estimate of the tail
+weight of the cost distribution. In another paper, De Vany and Walls (2002) esti￾mate the tail coefficient and test the Pareto distribution as a model of the cost data.
+It turns out to be is a very good model of the budget data. Interestingly, they find
+that the budgets of R-rated movies have heavier tails than do the distributions of the
+other ratings and, thus, have a higher probability of large budgets. G-rated movies
+have the least heavy tails, the inference being that they have a lower probability of
+reaching very large expenditure values.
+Returns on Budgets What does a higher budget buy? De Vany and Walls (2003a)
+estimate returns to production budgets. The elasticity of mean box-office gross rev￾enue with respect to production budget is 0.54. Larger than zero, but it does show
+that you cannot buy box office revenue by throwing production dollars at a movie.
+You only get back fifty cents on the dollar. Hence, there are decreasing returns to
+production budgets with respect to the box office take.
+The elasticity of opening box office revenue, the lowest decile, with respect
+to production budget is a bit higher at 0.636, but it still is not a good return. Ten
+percent more budget buys just six percent more opening revenue. Higher deciles
+52
+show slightly lower budget elasticities: 0.56 for the median, 0.52 for the upper
+quartile, and just 0.44 for the top decile. To explain it in plainer terms, the top
+decile is the amount ninety percent of movies will fail to earn and only ten percent
+will equal or exceed. The estimates say you move this upper decile by just forty
+cents when you spend another dollar on production. Thus, you have increased
+the revenue by forty cents of an event that has a probability of just ten percent of
+occurring. You could say the expected value of the best that can happen is just four
+cents. Not a very good return for a dollar investment.
+The Angel’s Nightmare An “angel” in Hollywood or on Broadway is an in￾vestor who agrees to finance a production.23 Having found budgets to be Pareto￾distributed, we are in a position to see what sort of a nightmare is in store for an
+angel when a production goes over budget. The angel’s nightmare is tied to the
+conditional expectation of the Pareto-distributed budget. The Pareto distribution
+has a counter-intuitive conditional expectation: the expected budget, given that y0
+has been spent, is y0 (αα−1) . Substituting α = 2.64 the expected budget, conditional
+on y0 having been spent, is y0 × 1.609. Suppose $20 million has been spent on
+a movie budgeted to cost $16 million. What is the expected cost now that it is
+already $4 million over budget? It is 20 × 1.609 or $32 million. The movie is over
+the budget and there is no end in sight. This is the angel’s nightmare. It arises from
+the peculiar property of the conditional expectation of a Pareto-distributed random
+variable; the conditional expectation is linear in the value of the conditioning event.
+A Strange Law of Production We can infer something of the production process
+from the behavior of budgets. Time is money and we can invert the budget to
+obtain production time. This gives us a rather strange law of production. It is
+that the expected time to completion of a movie in production for t time periods
+23This is drawn from De Vany and Walls (2004).
+53
+is t × 1.609. The time it will take to finish the project is proportional to how long
+the movie has been in production. This means that there really is no end in sight,
+which is why production schedules and completion guarantees are so important in
+the movie business.
+Artist Productivity The first thing one should know about productivity is that
+artists can differ in the extreme in productivity. The movies is not like washing
+dishes where two people cannot differ by much. Actors and directors, the two cre￾ative productive factors we will focus on, can differ enormously in their produc￾tivity, as we shall see. This is natural for several reasons. First, non-linearity can
+magnify small differences in talent or luck into extreme differences in box office
+revenues. Second, work opportunities flow over a non-linear network and densely
+connected artists—made so because they act or direct hit movies—get most of the
+opportunities and work. Third, the most successful artists tend to have long careers.
+These facts are implied by the high kurtosis of the stable Paretian distribution that
+describes the laws of production.
+In spite of Rosen’s (1981) explanation of superstardom, there is not much em￾pirical evidence about it. According to his model, small differences in talent trans￾late into large differences in income. Hamlen (1994) presents evidence from pop￾ular music regarding the distribution of hits. Chung and Cox (1994) show that the
+Yule distribution is a good model of hit movies of the top stars. The Yule distri￾bution is a power law distribution with α = 1, so their model is a variant of the
+stable Paretian model. Interestingly, in their model differences in success are due
+wholly to chance and talent need not be invoked to explain the variation in artist
+productivity. Ravid (1999) and De Vany and Walls (1999) examine the influence
+of stars on profits or revenues and find they are weak.
+To shed more light on the productivity of artists, De Vany (2003a, 2003b) ex-
+54
+amined the productivity of directors and actors. Unsurprisingly, there is a high
+degree of self-similarity of the laws of productivity and the laws of the box office
+already presented. The distributions of the number of movies made by actors or by
+directors are leptokurtotic; kurtosis is 16 and 22 respectively.
+Most actors or directors make just one movie: the mode of both distributions
+is one, the mean of both distributions is 2 and is located at the 75-th percentile of
+each distribution. If we take box office revenue as a measure of productivity, things
+become a bit more wild. The mean cumulative gross of actors is $32.6 million and
+the kurtosis is a breath-taking 104. The median is just $1.01 million and the mean
+is up at the 85th percentile. In keeping with the dominance of extreme events, De
+Vany (2003a, 2003b) finds that the mean portion of cumulative gross due to just
+one picture is 22% for actors and 32% for directors.
+The stable Paretian distribution fits the production data well and estimates of
+α values are 1.5 for directors and 1.8 for actors. The form, fit, and values of the
+tail coefficient follow the stable Paretian property of self-similarity. We know that
+α = 1.5 for box office revenues; to find a similar value for actor and director
+productivity tells us that their productivity is statistically similar to box office rev￾enues. In other words, the distribution of the number of films artists make is just
+another view of the distribution of box office revenues. In keeping with Chung and
+Cox (1994), it turns out that talent is hard to separate from luck when it comes to
+how many movies directors make. De Vany (2003a, 2003b) shows that it is only
+among the most productive directors that one finds a significant role for talent over
+luck in the odds ratios.
+Laws of Profit
+“Upfront and sunk” is the rule for costs. The rule for profits might be “way af￾ter and maybe.” You have to wait a long time for profits to accrue and it might
+55
+never happen. Movies do lose money, most of them. Revenue streams in over a
+fairly long time period as a film makes its way through its many venues, domestic
+theaters, foreign markets, videos, television and so on.
+And then there are portfolios to consider. Studios produce portfolios of films,
+most of which lose money and they have to pool profit over all the films in the
+portfolio. This is the so-called studio accounting problem. But, it isn’t trickery to
+allocate all the cost of the portfolio against all the revenue and then find that a few
+movies took in most of the revenue. The producer of a hit may cry “foul” but this
+is the way the studio has to be to manage the huge risks it is up against. All this
+makes accounting separately for film profits problematic. And, on top of this, is
+the fact that these figures are not made public. So, one approaches the subject of
+film profitability with a lot of trepidation and caution.
+But, economists want to know and there are ways to at least approximate film
+profitability in ways that get at the object of our interest; the probability distribu￾tion. If it is stable Paretian, we are in luck (it is), because bias will not change
+the form of the distribution, only its scale. So, our probabilistic inferences will
+not be that far off. Another way to get at this is to look at returns which can be
+approximated by the ratio of revenue to cost.
+Dominance of Extreme Events Our first clue that profit is stable Paretian dis￾tributed is in the dominance we find of extreme events. Seventy-eight percent of
+movies lose money and 35% of profitable movies earn 80% of total profit. Losses
+are more evenly distributed, after all they are not subject to the non-linear informa￾tion flow like revenues, and are generally finite; you can only lose what you spend.
+Fifty percent of the unprofitable movies accounted for 80% of total losses. Just
+6.3% of movies earned 80% of profits earned in Hollywood over the past decade.
+Profits are skewed (but in surprising ways we shall see later) and the kurtosis is
+56
+large, 15 for all movies in the sample, 23 for movies that do not feature a star,
+and a mere 5.6 for movies with stars. The mean profit is negative in each of these
+categories. Finally, the impact of extreme events is clearly evident in the stunning
+changes that occur over time in the running cumulative average profit shown in
+Figure 3 taken from De Vany and Walls (2003c). The rugged, fractal appearance
+of the graph is testimony to the impact of extreme events on the running average
+and of the stable law of motion of profit.
+Stable Profit Laws Having mentioned the stable law of motion, we should now
+consider the evidence that profit is a stable distributed random variable. There is no
+doubt profit is random, as we have seen, so how can we say it is stable-distributed?
+Because the stable distribution fits motion picture profit like a glove and other
+distributions, like the Gaussian, can be rejected with high confidence. De Vany and
+Walls (2003c) use John Nolan’s Stable program to estimate the four parameters of
+the general stable distribution Sα(α, δ, γ, β); I reproduce their results in Table 1.
+Note that the Normal distribution, which requires tail index α = 2 and skew￾ness β = 0, does not fit as well (by the Log-Likelihood statistic) and normality can
+be directly rejected by tests. The distribution is not symmetric either, as the best
+fitting distribution is the general stable distribution with positive skew for movies
+featuring stars and negative for others. Only positive skew can be accepted with
+high confidence for star movies; the negative skew of non-star movies and of all
+movies are not significant. Notice that the locations of the distributions, given by
+δ, roughly corresponding to the mean, differ; the stable distributions place more
+probability mass on larger losses than the Gaussian.
+The scale parameter, γ, represents the width of the central part of the distribu￾tion. In all cases, this region is narrower than a Gaussian distribution. This reflects
+the greater weight in the tails of the stable distribution relative to the Gaussian;
+57
+Table 1: Maximum Likelihood Parameter Estimates
+Index Location Scale Skewness Log-Likelihood
+α δ γ β
+ALL MOVIES
+Normal 2 −3.351 8.442 0 −7855.37
+symmetric α-stable 1.268 −4.079 4.032 0 −7279.87
+α-stable 1.259 −4.042 4.020 0.043 −7279.46
+MOVIES WITH STARS
+Normal 2 −2.083 14.186 0 −1439.69
+symmetric α-stable 1.582 −4.568 10.555 0 −1419.16
+α-stable 1.624 −6.385 10.805 0.768 −1410.82
+MOVIES WITHOUT STARS
+Normal 2 −3.595 6.789 0 −6216.46
+symmetric α-stable 1.358 −3.932 3.507 0 −5739.47
+α-stable 1.335 −3.827 3.441 −0.122 −5737.95
+the lesson is that the location statistic is a brittle estimate of the mean because
+probability mass spills away from that area, flowing rapidly into the tails; this is
+kurtosis—a sharp peak with heavy tails.
+The prime parameter is α, the tail weight coefficient that measures the proba￾bility mass that lies in the tails. α is between 1 and 2, so the expected value of profit
+exists, but the variance is infinite. α is well below 2, the tail weight of a Gaussian
+tail; this is the sense of saying the stable distribution has heavy tails—its probabil￾ity mass decays more slowly than a Gaussian rate, 1.26 for all movies rather than
+2. The star distribution is asymmetric, with a heavier upper than lower tail (this
+leads to the curse of the superstar, discussed below). The non-star distribution is
+symmetric.
+Returns Returns are a bit less difficult to measure than profit. One measure of
+motion picture returns is given by the ratio of box office revenue to production
+58
+cost. These figures omit certain details, like rentals and print and advertising cost,
+but they are readily measured and non-controversial. Given reasonable proportion￾ality of these measures, which are partly assured by the way the rental rate and
+distribution fees are determined, this ratio mimics returns.
+Using the self-similarity argument, our expectation is that the ratio of revenue
+to cost is a Pareto-distributed random variable, at least asymptotically in the tails.
+The mean return is 0.069 and the standard deviation is a large 6, evidence of a
+dependence on extreme events. Further evidence is that the mean is well above the
+75-th percentile. Kurtosis is a monstrous 940, very far from a Gaussian kurtosis of
+3.
+Taking a lower bound on returns of 2, to move into the tail of the return distri￾bution, De Vany and Walls (2000) estimate the tail exponent α for G-rated movies
+at 1.35, PG at 1.56, PG-13 at 1.78 and R at 1.48. A Kolmogorov-Smirnov test
+accepts the hypothesis that the data follow a Pareto distribution in this upper tail
+where returns exceed 2. Returns have finite expected values and infinite variance.
+The authors go on to show that G-rated movies stochastically dominate other rat￾ings in returns and that, with respect to profit, movies in every rating category
+stochastically dominate R-rated movies.
+Stochastic Market Structure
+We have already seen that motion picture revenues are unequal in the extreme.
+What about the market shares of firms? De Vany and Walls (1997) show that in￾equality among motion picture distributors exceeds the inequality of revenues. De
+Vany and Lee (2003) show that the concept of stochastic market structure is rele￾vant to this industry because shares are extremely volatile. They conclude that the
+motion picture industry is stochastically concentrated, but enormously competitive.
+Market shares are driven by successful movies and follow a stochastic Pareto
+59
+motion with α = 1.3. When market structure is stochastic, a stationary measure
+of concentration, such as the Hershman-Herfindahl Index (HHI) is a misleading
+index of competitiveness. One must use a stochastic measure. One such measure
+is the expected value of the HHI. De Vany and Lee (2003) show that the expected
+value of the HHI is the second moment (variance) of market shares. Because shares
+are Pareto-distributed with tail index less than 2, the HHI does not exist (because
+the variance is infinite). The movies are so competitive that this vaunted (and much
+over-rated) measure of competitiveness does not exist; the measure has no measure.
+Pricing Talent
+If you really don’t know anything, you should wait until you do know. This prin￾ciple applies to determining the rental rate, as we have seen. The question now is
+how to price talent when you don’t know how much a movie will make. The same
+principle, the option principle of delaying the decision until you have more infor￾mation, applies. But, it only applies to the most expensive talent. There we find
+that prices are determined through contingent clauses in the contract that trigger
+adjustments to the artist’s price if the movie does well. This is called a partici￾pation contract in Hollywood, meaning that the artist participates in the movie’s
+profit or revenue. We already know that the studio portfolio problem makes indi￾vidual motion picture profit somewhat arbitrary (economics says the allocation of
+joint costs is arbitrary). Revenue is separable from other movies in the portfolio,
+so participation contracts more often are contingent on revenue rather than profit.
+Extreme Events and Contracting in the Tail The stable Paretian hypothesis
+says that extreme events dominate, which implies that compensation should be
+conditioned on extreme events because that is where the real action is. De Vany
+and Walls (2003c) call this contracting in the tails because the extreme events are
+60
+located in the upper tail of the revenue distribution, where it is Paretian. Mark We￾instein (1998) studied the evolution of profit-sharing contracts. Darlene Chisholm
+(1997) employs a sample of contracts to show that contingent compensation is
+given only to established actors. In her 1995 study, she analyzes actor incentives
+in share contracts and looks at degrees of residual claims (“points” in Hollywood)
+in her 1996 paper. De Vany (2003), similarly, makes the same point about direc￾tors. Using a sample of contracts of established directors, he shows that there are
+break points where the percentage of gross distributor revenues paid escalates as
+revenues rise. He then shows that the Gaussian probabilities of these break point
+events is essentially zero, but significant under the Pareto distribution that actually
+fits the data. Conclusion: the parties seem to sense they are contracting in a stable
+Paretian, non-Gaussian world.
+Taking this point a bit further, the contracts condition on such extreme events
+that there can be only a modest incentive effect here. De Vany (2003, 2004) argues
+that the participation contract is a dynamic decision rule that pays the conditional
+expectation of future revenue at discrete breakpoints along the realized revenue
+stream. The contract pays when you do know and its escalating terms reflect the
+Pareto property of a rising conditional expectation of future revenues as revenues
+accumulate.
+A related important finding is that total director pay is dominated by contin￾gent compensation and that the latter is dominated by one or two movies. De Vany
+(2003, 2004) shows self-similarity of the revenue and compensation probability
+distributions for these major directors; they both are Pareto-distributed and have
+equal tail weights of 1.5. Director careers share the same statistics. Director ca￾reers, productivity, pay, and the revenues of their movies all are windows onto the
+same underlying fundamental process, one that is dominated by extreme events.
+61
+Stars, Profits and the Curse of the Superstar There are difficulties in pricing
+superstars, particularly if they command a fixed, upfront fee. De Vany and Walls
+(2003c) call it the curse of the superstar. It too, contributes to a preference for
+paying superstars through participation deals, as shown above.
+The curse of the superstar arises because the general stable distribution of prof￾its of superstar movies is skewed and asymmetric; it has a heavier upper than lower
+tail (recall our discussion of the profit distribution above). This causes the expected
+profit, $7.68 million, of superstar movies to be larger than the most likely profit,
+-$7.50 million. You can see what would happen if the star’s agent extracts the ex￾pected profit as the star’s fee. The movie almost surely would lose money. Why? A
+single movie is a small sample (of one). In small samples, the most probable event
+dominates and the expectation, being a large sample statistic, is improbable. Cal￾culations show that the probability of a loss is 0.80 if the star is paid the expected
+profit of her movie. This may explain why Ravid (1999) finds that star movies are
+not more profitable. The curse is another good reason to pay stars contingent rather
+than fixed fees.
+Bidding Wars and the Producer’s Curse There is another reason for producers
+to be cautious in bidding for stars. There are about 33 big budget movies produced
+each year. If each of their producers tries to hire an established star, a currently
+active actor who has three hits in his or her filmography, there will be 33 producers
+chasing 18 actors. Each producer places a value on each star, known only to the
+producer. The producer who outbids everyone had the highest value among the 33
+producers bidding. That means that 32 producers had lower values, evidence that
+the winning producer bid too much. This is the producer’s curse. It is known as the
+winner’s curse in private value auctions; when you win against many other bidders
+bidding personal values, which are unknown to you, you have a lot of evidence
+62
+stacked up against you that your value was too high. Rational bidding requires
+that you shade your bid downward when you bid against a large number of other
+bidders.
+Is an Actor Really Worth $20 million? When you combine the superstar curse
+and the producer’s curse with the evidence that star movies are not more profitable,
+you begin to see that an actor might not really be worth $20 million. But, they
+will get it anyway if Hollywood fails to guard against these curses. Contingent
+compensation is one way to avoid these hazards. In the Epilogue to his book,
+Hollywood Economics (2003), De Vany shows that the sure thing principle adds
+another layer of complexity to the problem for it leads producers to overvalue the
+prospects of known entities relative to lesser known ones because the latter have
+more ambiguous probability distributions.
+Decisions: Greenlighting, Bias, and Sure Things
+There is more to tell, now that we have opened the Pandora Box of decision prob￾lems in movie making. I shall be brief because we have set out the model in enough
+detail to see the issues. Hollywood’s decision problems stem from the counterintu￾itive properties of the stable probabilities and the need to treat movies as prospects,
+probability distributions, not sure things. Of course, executives share our human
+failings too, and known biases in human decision making must share the blame.
+Ratings and Genre Ratings and genre predict almost nothing. The odds do dif￾fer among films rated differently, but only fairly sophisticated tools can detect this.
+An R-rating does narrow the audience some, but even among a smaller group of po￾tential viewers, revenue is essentially unlimited. Self-similarity reminds us that all
+these categories have the same Paretian probability distribution. And, it is stochas￾tic anyway, so there is no way to predict a movie’s outcome knowing its rating or
+63
+genre. Genre is a particularly weak predictor.
+Aggregation Bias Aggregates of variables share the same probability distribu￾tion as the variables themselves, the essential property of stable distributed random
+variables. So, the aggregate returns or revenues of a collection of small budget
+movies have the same odds or expectations as one large movie whose budget is the
+sum of the small movie budgets. But, it is much harder to get a studio to finance
+several small movies than to get one large one for the same money. Why is this so?
+It is aggregation bias.
+Humans are prone to aggregation bias, but the stable probabilities in the movies
+compound the difficulties. I think this is because it is difficult to see that the odds
+that the sum of random variables will be equal to some amount are no different from
+the odds that a random variable will be equal to that sum. The odds of making two
+movies whose revenues sum to $100 million are the same as the odds of making
+one movie that grosses $100 million. Most people would see the former event as
+less likely than the latter. This is an aggregation bias, but it is only a bias because
+movie grosses are stable-distributed, which makes the odds of these two events the
+same.24
+Ambiguous Probabilities and Sure Things Another source of difficulties oc￾curs when probabilities are ambiguous. They always are in the movies, but here is
+the issue. An executive must always make some assessment of the odds in choos￾ing movies. This is harder to do when the movie or the actors or producers are
+unknown entities. A known entity gives more assurance that the odds can be esti￾mated. At least there is some experience to rely on in estimating the probabilities
+so they seem to be less ambiguous and the known entity is more likely to be chosen.
+24See the Appendix.
+64
+But, what is the meaning of ambiguity when we have distributions with infinite
+variance and where the mean depends so heavily on extreme events in the upper
+tail? Since movie outcomes are so scattered over the whole space of possibilities,
+there is no typical movie or representative type. If the studio were to treat both
+prospects as having Pareto distributions, then more ambiguous probabilities of the
+lesser known entity would be captured by the spread between the least outcome
+and the best outcome. Pareto distributions reach an upper value of infinity, no mat￾ter what parameter values they have. So one Pareto distribution can only be more
+diffuse than another if it has a lower minimum value. This argument would suggest
+that ambiguous probability distributions might be evaluated as having worse worst
+outcomes (lower lower bounds in the support of the distribution). It is surely easier
+for an executive to conjecture as the worst outcome than to estimate the parame￾ters of the Pareto distributions and they are likely to be unduly pessimistic when
+unknown artists are involved. This is where good statistical modeling might make
+a big difference in the quality of decisions.
+Inside and Outside Odds These decision paradoxes suggest that good statistical
+modeling might improve Hollywood’s decision making. I think all I have said
+in this review of research points to a conclusion that Hollywood should compare
+the inside against the outside odds when they choose movies. Outside odds are
+objective odds given by careful statistical modelling of the data. Inside odds are
+part of the arguments, stories, and forecasts that people tell each other in meetings
+when they choose the studio’s production slate. Overly optimistic forecasts, known
+artists, big projects, and “sure things” tend to carry the argument in this setting,
+even when they do not square with the real odds outside the studio.
+65
+5 Conclusion
+How durable are the methods and results that I have described here? Will the rise
+of DVDs and the international market and the declining share of domestic theatri￾cal revenue in total gross change matters? I think not because this research has
+looked for deeper patterns that have a universal order. We know that international
+revenues, and revenues in many foreign countries, follow the same Paretian pattern
+(even with the same tail weight). Thus, culture and local arrangements in specific
+countries do not alter the universal pattern. In each country where a film plays,
+its revenues follow a similar dynamic where choice, mixture and aggregation are
+the stable operators. Necessarily, they will result in a stable distribution of box
+office revenues. The same points hold for DVD sales. The timing of these sales
+does help in resolving the nobody knows problem for the later markets. If foreign
+theatrical distribution is later than domestic release, then the foreign film buyers
+have prior information on which to condition their estimates. The same point holds
+for DVDs; the theatrical run reveals prior information not available at the initial
+opening. And, we should be able to do better in predicting revenues.25
+Nothing I have said changes when we open the analysis to include these mar￾kets. All the results and techniques apply to them. But, prior information, garnered
+from the North American theatrical run, lets us to make better estimates of out￾comes in the downstream markets (just as the second and third run theaters had
+prior information from the first run theaters in the days before the Paramount de￾cision). This prior information can be incorporated by conditioning the probability
+estimates of the stable distributions of foreign and DVD markets on the North
+American grosses. Lastly, just to show that things never change, piracy is pushing
+the studios to release films simultaneously in all markets, domestic, foreign, and
+25I am told that the price charged for a foreign release is conditioned on its domestic revenues,
+meaning the latter are a good predictor of foreign revenue.
+66
+DVD. Thus, the prior information revealed in the North American run is gradually
+washing away in the battle against piracy. And we shall then once again be up
+against the full force of the nobody knows principle.
+The research reported here shows clearly that anyone who thinks he knows
+how much a movie will gross doesn’t know what he is doing. He would have to
+have a model and we have seen there isn’t one. If there were a model, making
+movies would be easy and no one would ever lose money. Movies are prospects,
+probability distributions as ephemeral as the images on the screen. It has to be
+this way because movies are creative products—they are pure information and the
+revenue they might earn is just a number—pure information—with no natural scale
+or limit.
+I hope I have shown there are powerful ideas and tools that we can use to reveal
+the deeper order of this seemingly chaotic, challenging, and endlessly fascinating
+business of the movies. I believe these tools can be a constructive basis of a new
+economics of art and culture.
+67
+Appendix
+What is the role of stability in the movies? Theoretically, if the random revenues
+of movies aggregated over choices, theaters, weeks, and movies are stable, then
+the distributions of these sums all will be similar. The concept of stability means
+that the distribution of sums of random variables is similar to the distribution of
+the random variables (this is defined more precisely below). This implies that each
+observed sequence of random variables or sums of random variables of a stream
+of box office revenues has the same distribution and is only a different view of the
+underlying process. The concept of similarity, or self-similarity, is used extensively
+in this chapter and leads to deep insights about the movie business.
+The other important property for motion pictures of stable or self-similar pro￾cesses is that they have limiting distributions. This means that the distributional
+dynamics will converge on a stable distribution and the distribution will be rela￾tively unaffected by the initial conditions. Despite all the uncertainty about where
+motion picture revenues may go, they will converge on a statistical attractor. Con￾sequently, the statistical attractors and the underlying dynamics have a deep prop￾erty: they are stable and convergent. Finally, self-similar, stable processes need not
+have a finite mean or variance, a very important property of the movies.
+Taken together, the properties of stable aggregation, non-finite variance, and
+self-similarity give us a way of coming to grips with the “wild” uncertainty in the
+movies. They make the probability distributions of outcomes central to the study
+of this industry. Let me briefly discuss stable distributions and their properties. I
+highly recommend G. Samorodnitsky and M. S. Taqqu (1994) as an authoritative
+text on stable processes and stable distributions.
+Most readers know that the Central Limit Theorem states that the sum of a
+large number of iid random variables with finite variance converges to a Normal
+68
+distribution. What they may not know is that if the finite variance assumption does
+not hold true of the random variables, then the Generalized Central Limit The￾orem states that the limiting distribution must be a member of the stable class.
+Informally, the term ‘stable’ is used because when iid members of a stable fam￾ily are added the shape of the distribution does not change. The distribution ob￾tained by adding random variables is equivalent to convolving their probabilities.
+If the “shape” of the convolved distribution of sums is similar to the distributions
+of the random variables, the distribution is stable. A random variable is stable if
+P
+ni=1 Yi ≃D Y for any n where the symbol ≃D means equal in distribution. The
+distribution of stable random variables and their sums is similar. Remarkably, a
+random variable is stable as soon as the equality is true for n = 2 and 3. Surpris￾ingly, this implies that the sum of revenues of two or three small budget movies
+have the same probability of hitting a revenue of, say, X as a large budget movie.
+An equivalent way to define stability is in linear transformations of the probability
+distribution. Two random variables are similar in distribution if there exist con￾stants a and b > 0 such that Y ≃D a + bX. That is, Y and X are similar in
+distribution if the distribution of Y is a linear transformation of the distribution of
+X.
+Stability means that the dynamics lead to a stable attractor since the sequence
+of sums of a stable random variable is stable or self-similar. A stronger statement
+is this: the distribution function F possesses a domain of attraction if and only if
+it is stable. The limiting distribution function FX of independent r.v.’s Xk belongs
+to the domain of attraction of F if there exist normalizing constants an, bn > 0
+such that the distribution of (P ni=1 Xi − an)/bn → F. The Normal (Gaussian)
+distribution is stable, but it is the only stable distribution with a finite variance. The
+Pareto, L´evy, and Cauchy distributions are the other (named) stable distributions.
+But, there are many other members of the stable class, whose functional forms
+69
+cannot be given. L´evy characterized the class of stable distributions through their
+characteristic function. A stable distribution X ∼ S(α, β, γ, δ) is a four-parameter
+distribution with characteristic function given by
+C(t) = ( exp(−γα|t|α[1 + iβ(tan πα
+2
+)(sign t)((γ|t|)1−α − 1)] if α 6 = 1
+exp(−γ|t|[1 + iβ 2π (sign t)(ln |t| + ln γ)] if α = 1
+The exponent α is a measure of the probability weight in the upper and lower
+tails of the distribution; it has a range of 0 < α ≤ 2 and the variance of the stable
+distribution is infinite when α < 2. The basin of attraction is characterized by
+the tail weight of the distribution (α). This remarkable feature tells us that the
+weight assigned to extreme events is the key distinguishing property of a stable
+probability distribution. The skewness coefficient −1 ≤ β ≤ 1 is a measure of
+the asymmetry of the distribution. Stable distributions need not be symmetric; they
+may be skewed more in their upper tail than in their lower tail. The scale parameter
+γ must be positive. It expands or contracts the distribution in a non-linear way
+about the location parameter δ which is the center of the distribution.
+The tails of a stable distribution are Paretian and moments of order ≥ 2 do not
+exist when α < 2. This is typical of motion picture revenues. Its mean need not
+exist for values of α < 1. This is true of the cumulative grosses of movies made
+by actors.
+The α-stable distribution becomes the Cauchy distribution when α = 1 and β = 0. The stable distribution is the L´evy distribution when α = 0.5 and β = ±1.
+When α = 2 the skew parameter ceases to have any impact and the stable dis￾tribution has only two parameters (δ, γ) the mean and variance of the symmetric
+Gaussian distribution. The general stable distribution contains the L´evy, Pareto,
+Cauchy and Normal distributions for specific values of the parameters. It need not
+be symmetrical; thus, the upper and lower tails may differ. This is precisely what
+we would expect to find for motion picture profit because the lower tail is limited
+70
+by expenditures while the upper tail is essentially unlimited.
+Aside from these theoretical properties of stable-distributed random variables,
+the sample statistics are unusual and they befuddle standard analysis that is too
+often based on the Normal distribution. For one thing, the sample variance (not the
+theoretical variance, which is infinite) increases with the size of the sample. For
+another thing, the sample average is volatile. Just one movie can move the average
+in a dramatic way. Indeed, the sample average (X1 + X2 + . . . + Xn)/n has the
+same distribution as Xkn1/α−1 where Xk is any term in the sum. If α < 1 then the
+maximum value contributes heavily to the average. This is true, though to a lesser
+extent, when 1 < α < 2. This is the Titanic effect wherein a single movie may
+contribute a large portion of the sum of movie revenues in a year. Since the average
+is a linear combination of stable random variables, it too is stable-distributed. This
+means that sample averages are unreliable and that the perils of forecasting future
+events from past averages are large. Forecasts have an infinite variance as well.
+71
+References
+Bach, S. (1986). Final Cut: Dreams and Disaster in the Making of Heaven’s Gate.
+New American Library, New York.
+Cassady, R. (1959). Monopoly in motion picture production and distribution:
+1908–1915. Southern California Law Review, 32:325–390.
+Cassady Jr., R. and Cassady III, R. (1974). The private antitrust suit in ameri￾can business competition. Working paper, Bureau of Business and Economic
+Research, University of California, Los Angeles.
+Caves, R. E. (2000). Creative Industries: Contracts between Art and Commerce.
+Harvard University Press, Cambridge.
+Chisholm, D. (1995). Actor fixed effects and incentives in motion-pictures share
+contracts. Technical report, Lehigh University.
+Chisholm, D. C. (1996). Continuous degrees of residual claimancy: Some contrac￾tual evidence. Applied Economics Letters, 3(11):739–41.
+Chisholm, D. C. (1997). Profit-sharing versus fixed-payment contracts: Evidence
+from the motion pictures industry. Journal of Law, Economics and Organiza￾tion, 13(1):169–201.
+Chung, K. H. and Cox, R. A. K. (1994). A stochastic model of superstardom:
+An application of the Yule distribution. Review of Economics and Statistics,
+76(4):771–775.
+Coase, R. H. (1937). The nature of the firm. Economica, 4:386–405.
+Collins, A., Hand, C., and Snell, M. (forthcoming). What makes a blockbuster?
+72
+Economic analysis of film success in the United Kingdom. Journal of Deci￾sion Analysis.
+Conant, M. (1960). Antitrust in the Motion Picture Industry: Economic and Legal
+Analysis. University of California Press, Berkeley.
+De Vany, A. (2003a). Contracting with artists when nobody knows anything. In
+Hollywood Economics: How Extreme Uncertainty Shapes the Film Industry,
+chapter 11, pages 431–478. Routledge, London.
+De Vany, A. (2003b). Hollywood Economics: How Extreme Uncertainty Shapes
+the Film Industry. Routledge, London.
+De Vany, A. and Eckert, R. (1991). Motion picture antitrust: The Paramount cases
+revisited. Research in Law and Economics, 14:51–112.
+De Vany, A. and Lee, C. (2001). Quality signals in information cascades and the
+dynamics of the distribution of motion picture box office revenues. Journal of
+Economic Dynamics and Control, 25:593–614.
+De Vany, A. and Lee, C. (2003). Stochastic market structure: Concentration mea￾sures and motion picture antitrust. In Hollywood Economics: How Extreme
+Uncertainty Shapes the Film Industry, chapter 9, pages 351–371. Routledge,
+London.
+De Vany, A. and McMillan, H. (2004). Was the antitrust action that broke up the
+studios good for the movies? evidence from the stock market. American Law
+and Economics Review, 6(4):135–152.
+De Vany, A., Taleb, N., and Spitznagle, M. (2005). Can we shield actors from
+“wild” uncertainty. Working paper, Ars Analytica and Empirica, LLC.
+73
+De Vany, A. and Walls, W. D. (1996). Bose-Einstein dynamics and adap￾tive contracting in the motion picture industry. The Economic Journal,
+439(106):1493–1514.
+De Vany, A. and Walls, W. D. (1997). The market for motion pictures: Rank,
+revenue and survival. Economic Inquiry, 4(35):783–797.
+De Vany, A. and Walls, W. D. (1999). Uncertainty in the movie industry: Does star
+power reduce the terror of the box office? Journal of Cultural Economics,
+23(4):285–318.
+De Vany, A. and Walls, W. D. (2002). Does Hollywood make too many r-rated
+movies? risk, stochastic dominance, and the illusion of expectation. Journal
+of Business, 75(3):425–51.
+De Vany, A. and Walls, W. D. (2003a). Big budgets, big openings, and legs: Anal￾ysis of the blockbuster strategy. In Hollywood Economics: How Extreme
+Uncertainty Shapes the Film Industry, chapter 6, pages 223–252. Routledge,
+London.
+De Vany, A. and Walls, W. D. (2003b). The breakdown of herding. In Hollywood
+Economics: How Extreme Uncertainty Shapes the Film Industry, chapter 3,
+pages 89–116. Routledge, London.
+De Vany, A. and Walls, W. D. (2004). Motion picture profit, the stable paretian
+hypothesis, and the curse of the superstar. Journal of Economic Dynamics
+and Control, 28(6):1035–1057.
+Einav, L. (2004). Not all rivals look alike: Estimating an equilibrium model of
+the release date timing game. Technical report, Stanford Department of Eco￾nomics, Stanford, CA.
+74
+Federal Trade Commission (1965). Paramount Pictures Inc., ET AL. Consent
+Judgments and Decrees Investigation. Report of Federal Trade Commission,
+Washington, D.C.
+Ghosh, A. (2000). The size distribution of international box office revenues and the
+stable Paretian hypothesis. Working paper, Economics department, University
+of California at Irvine.
+Goldman, W. (1983). Adventures in the Screen Trade. Warner Books, New York.
+Groves, T. (1973). Incentives in teams. Econometrica, 41:617–31.
+Hamlen, W. A. J. (1994). Variety and superstardom in popular music. Economic
+Inquiry, 32(3):395–406.
+Hand, C. (2001). Increasing returns to information: further evidence from the UK
+film market. Applied Economics Letters, pages 419–421.
+Krider, R. and Weinberg, C. (1998). Competitive dynamics and the introduction
+of new products: The motion picture timing game. Journal of Marketing
+Research, 35(1):1–15.
+Lee, C. (1999). Competitive dynamics and the distribution of box office revenues
+in motion pictures: The stable-paretian hypothesis. Doctoral dissertation, De￾partment of Economics, University of California, Irvine.
+Litman, B. (1990). The motion picture entertainment industry. In Adams, W.,
+editor, The Structure of American Industry, pages 183–216. Macmillan, New
+York.
+Litwak, M. (1986). Reel Power: The Struggle for Influence and Success in the New
+Hollywood. William Morrow, New York.
+75
+Mandelbrot, B. (1963a). New methods in statistical economics. Journal of Political
+Economy, 71:421–440.
+Mandelbrot, B. (1963b). The variation of certain speculative prices. Journal of
+Business, 36:394–419.
+McCulloch, J. H. (1998). Linear regression with stable disturbances. In Adler,
+R. J., Feldman, R. E., and Taqqu, M. S., editors, A Practical Guide to Heavy
+Tails: Statistical Techniques and Applications, pages 359–378. Birkhauser,
+Berlin.
+McKensie, J. (2003). Box office revenue distributions, paretian tails, and survival
+analysis. Draft Thesis, University of Sydney.
+Ravid, S. A. (1999). Information, blockbusters and stars: A study of the film
+industry. Journal of Business, 72:463–486.
+Rosen, S. (1981). The economics of superstars. American Economic Review,
+71:167–183.
+Scherer, F. M., Harhoff, D., and Kukies, J. (2000). Uncertainty and the size distri￾bution of rewards from innovation. Evolutionary Economics, 10:175–200.
+Seagrave, K. (1997). American Films Abroad: Hollywoods Domination of the
+Worlds Movie Screens from the 1890s to the Present. McFarland & Co., Jef￾ferson, NC.
+Sedgewick, J. (2001). Popular Filmgoing in 1930s Britain: A Choice of Pleasures.
+Exeter University Press, Exeter.
+Simon, H. A. (1955). On a class of skew distribution functions. Biometrica,
+52:425–440.
+76
+Sornette, D. and Zajdenweber, D. (1999). The economic return of research: The
+Pareto law and its implications. European Physical Journal B, 8(4):653–664.
+Taleb, N. (2001). Fooled by Randomness. Texere, New York.
+Walls, W. D. (1997). Increasing returns to information: Evidence from the Hong
+Kong movie market. Applied Economics Letters, 4(5):187–190.
+Walls, W. D. (2002). Review of John Sedgewick, Popular Filmgoing in 1930s
+Britain: A Choice of Pleasures. Journal of Cultural Economics, pages 298–
+301.
+Walls, W. D. (2003). Modeling heavy tails and skewness in film returns. Technical
+report, University of Calgary.
+Walls, W. D. (2004). Modeling movie success when ‘nobody knows anything’:
+Conditional stable-distribution analysis of film returns. Journal of Cultural
+Economics.
+Weinstein, M. (1998). Profit-sharing contracts in Hollywood: Evolution and anal￾ysis. Journal of Legal Studies, 27(1):67–112.
+77
+Figure 1: The Stable, Normal, and Empirical Distributions of Profit
+78
+Figure 2: The Linear Upper Region of the Log Rank versus Log Revenue Distri￾bution for Star and non-Star Movies
+79
+Figure 3: Average Cumulative Profit of Films by Date of Release
+80

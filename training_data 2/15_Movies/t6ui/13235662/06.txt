@@ -1,0 +1,1678 @@
+74
+Journal of Marketing
+Vol. 70 (July 2006), 74–89
+© 2006, American Marketing Association
+ISSN: 0022-2429 (print), 1547-7185 (electronic)
+Yong Liu
+Word of Mouth for Movies: Its
+Dynamics and Impact on Box Office
+Revenue
+This article uses actual word-of-mouth (WOM) information to examine the dynamic patterns of WOM and how it
+helps explain box office revenue. The WOM data were collected from the Yahoo Movies Web site. The results show
+that WOM activities are the most active during a movie’s prerelease and opening week and that movie audiences
+tend to hold relatively high expectations before release but become more critical in the opening week. More
+important, WOM information offers significant explanatory power for both aggregate and weekly box office revenue,
+especially in the early weeks after a movie opens. However, most of this explanatory power comes from the volume
+of WOM and not from its valence, as measured by the percentages of positive and negative messages.
+Yong Liu is Assistant Professor of Marketing, Martin J. Whitman School of
+Management, Syracuse University (e-mail: yoliu@syr.edu). The author
+thanks Chuck Weinberg, Dan Putler, Tridib Mazumdar, Amiya Basu,
+Eunkyu Lee, and the participants at the 2004 Marketing Science Confer￾ence in Rotterdam, the Netherlands, for helpful comments on previous
+drafts of the article. The author also thanks Dae-Yong Ahn (doctoral stu￾dent in Marketing, University of Texas at Austin) and Anindita Chakravarty
+(doctoral student in Marketing, Pennsylvania State University) for valuable
+research assistance.The author gratefully acknowledges financial support
+from the Snyder Innovation Management Center at Syracuse University.
+To read or contribute to reader and author dialogue on this article, visit
+http://www.marketingpower.com/jmblog.
+Word of mouth (WOM), or “buzz,” involves infor￾mal communication among consumers about
+products and services. Two important features dis￾tinguish WOM from other information sources, such as
+advertising: WOM is usually perceived as more credible
+and trustworthy, and it is more readily accessible through
+social networks (Banerjee 1992; Brown and Reingen 1987;
+Murray 1991). A McKinsey & Company study found that
+67% of the sales of consumer goods are based on WOM
+(Taylor 2003).
+In the arena of new product development, WOM may
+play particularly important roles because awareness must be
+built, and consumers need information when deciding
+whether to purchase a product they do not know well
+(Mahajan, Muller, and Kerin 1984). In the movie industry,
+which has become a popular setting to examine various new
+product issues (e.g., Elberse and Eliashberg 2003; Krider
+and Weinberg 1998; Lehmann and Weinberg 2000; Sawh￾ney and Eliashberg 1996), hundreds of new films are
+released annually by Hollywood and independent filmmak￾ers. In general, it is believed that WOM strongly influences
+people’s movie selection (Austin 1989; Bayus 1985; Faber
+and O’Guinn 1984; Neelamegham and Chintagunta 1999).
+Indeed, the box office success of several movies, such as
+The Blair Witch Project, My Big Fat Greek Wedding, and
+Star Wars: Episode 1–The Phantom Menace, has been
+attributed to the WOM that these movies generated.
+This study makes use of a data set containing actual
+WOM information to study the dynamic patterns of movie
+WOM, the explanatory power of WOM for box office reve￾nue, and the potential antecedents of WOM. It adds to the
+growing literature on movie marketing and provides
+insights into new product development, entertainment mar￾keting (Eliashberg and Shugan 1997), services marketing,
+and WOM research in general.
+The WOM data were collected from the Yahoo Movies
+message board (see http://movies.yahoo.com/). It contains
+more than 12,000 posted messages, which were coded into
+weekly measures of volume and valence before being
+empirically examined. This study attempts to provide
+answers to the following questions: First, in markets in
+which the product has a low price and prerelease informa￾tion is abundant (e.g., massive prerelease advertising, exten￾sive professional reviews), how active is WOM before
+release, and is there any consistent shift in consumer
+evaluation of a new product before introduction (i.e., expec￾tations) versus after introduction (i.e., experience based)?
+Second, to what extent do important measures of WOM
+help explain the sales of a new product, both periodically
+and in aggregation? Third, what factors consistently func￾tion as antecedents of WOM across time periods? If WOM
+is important for the success of a new product, firms should
+try to understand and manage these antecedents.
+Advances in communications technology, especially the
+Internet, have made it extremely easy to share information
+with other people. Numerous Web sites provide message
+boards and information threads for users to post informa￾tion and exchange opinions. This not only increases the
+likelihood of consumers using WOM in decision making
+but also provides an opportunity for researchers to gather
+actual WOM information. Nevertheless, few published
+studies have used these data, with the notable exception of
+Godes and Mayzlin (2004b), who study WOM of television
+shows from the Usenet newsgroups. Through regressions
+Word of Mouth for Movies / 75
+across weeks and shows, they empirically test the relation￾ship between WOM (measured in volume and dispersion
+across different newsgroups) and weekly ratings. They find
+that the dispersion measure, but not volume, has significant
+explanatory power for ratings.
+The current study differs from that of Godes and May￾zlin (2004b) in several ways. First, in addition to volume,
+the role of valence, which is coded on the basis of the con￾tent of each WOM message, is investigated in detail. Sec￾ond, many of the results provide insights into the prerelease
+period of a new product, which is critical in markets, such
+as movies, in which early sales are of great concern. Third,
+in addition to the relationship between WOM and sales, the
+dynamic patterns of WOM (i.e., how it evolves and its
+potential antecedents) are investigated. Finally, the research
+context is different. Unlike network television shows, which
+normally run on a seasonal basis, movies have very short
+life cycle in theaters. They also have unique industrial fea￾tures that offer interesting research questions and require
+special considerations in empirical analysis; for example, a
+lot of weight is placed on the opening week, and a mini￾mum number of weeks are usually specified in exhibition
+contracts (De Vany and Walls 1999).
+Theoretical Background
+Although successful movies can generate great box office
+revenue and profits, the movie industry is also known for
+high risks. Of any ten major films produced, six to seven are
+unprofitable (Vogel 2001, p. 35; see also Shugan 1995).
+Two characteristics of the movie industry contribute to the
+popular belief that WOM influences moviegoers. First, as a
+prime category of popular culture goods, movies tend to
+receive great public interest and attention. Therefore, active
+interpersonal communication about movies can be expected
+to exist and, as indicated by the theory of information
+accessibility and influences (Chaffee 1982), may influence
+the audience. Second, the intangible and experiential nature
+of movie consumption makes it difficult to judge movie
+quality before it is actually viewed. When the alternatives
+are difficult to evaluate before purchase, consumers often
+engage in WOM to gather more information (Bristor 1990;
+Harrison-Walker 2001; Rogers 1983).
+Volume and valence are among the most important
+WOM attributes that have been examined (e.g., Mahajan,
+Muller, and Kerin 1984; Mizerski 1982; Neelamegham and
+Chintagunta 1999). Volume measures the total amount of
+WOM interactions. Valence captures the nature of WOM
+messages (i.e., whether they are positive or negative).
+Mainly because of data availability, most extant studies
+examine either volume or valence, but not both. For exam￾ple, Anderson (1998) and Bowman and Narayandas (2001)
+focus exclusively on the volume of WOM.
+Two previous studies use controlled laboratory settings
+to investigate how WOM is related to certain behavioral
+features of moviegoers. In particular, Faber and O’Guinn
+(1984) examine how much credibility and importance col￾lege students attach to WOM versus other information
+sources. Burzynski and Bayer (1977) study how WOM
+moderates people’s liking of a film. Several studies that
+1On a more technical level, the data are collected from the
+Yahoo Movies message board, which is characterized as a “com￾munity” site that allows bilateral discussions in a threaded manner
+(see http://movies.yahoo.com/). Dellarocas, Awad, and Zhang’s
+(2004) and Duan, Gu, and Whinston’s (2005) data come from the
+“User Review” section of Yahoo Movies, where users can post a
+numerical rating, a written review, or both.
+focus on other issues of the movie market have included
+various proxy measures of WOM as covariates (e.g.,
+Elberse and Eliashberg 2003; Neelamegham and Chinta￾gunta 1999; Zufryden 1996). Two other independently con￾ducted studies also use data from Yahoo Movies. Dellaro￾cas, Awad, and Zhang (2004) use a Bass diffusion model to
+examine how user ratings posted in the opening week help
+explain the two Bass parameters (p = the external influence
+factor, and q = the internal influence factor), which are esti￾mated from the box office history of a movie sample. They
+find that the volume of the first week’s user ratings and their
+density (defined as a ratio between the volume of ratings
+and the first week’s box office revenue), but not the numeri￾cal value of these ratings, are useful in explaining p. How￾ever, the value of user ratings becomes a significant
+explanatory variable for q. Duan, Gu, and Whinston (2005)
+use similar user-ratings data but focus on the correlation
+between the daily measures of these ratings and the daily
+box office revenue in the first two weeks. They find that
+user ratings have no explanatory power for box office reve￾nue, but the volume of ratings does.
+There are several important differences between the cur￾rent study and those of Dellarocas, Awad, and Zhang (2004)
+and Duan, Gu, and Whinston (2005). First, this study disen￾tangles the weekly effects of WOM in a way similar to
+Eliashberg and Shugan (1997) and Basuroy, Chatterjee, and
+Ravid (2003). This is useful given that different weeks are
+considered of different importance in the movie industry,
+and many managerial decisions are made on a weekly basis.
+Second, the data contain WOM information in the pre￾release period, which can be used to explain and predict the
+movie’s opening-week box office revenue. An important
+managerial value of prerelease WOM is that it can help
+improve the early forecast of opening-week box office and
+aggregate box office revenue. Third, this study investigates
+the potential antecedents of WOM, which provide useful
+implications for both WOM research and managerial prac￾tice. Finally, because the data are coded into weekly mea￾sures, it is possible to examine how WOM evolves over
+time.1
+Extant studies have found that the volume of WOM cor￾relates significantly with consumer behavior and market
+outcome (Anderson and Salisbury 2003; Bowman and
+Narayandas 2001; Van den Bulte and Lilien 2001). The rea￾son that is often advanced to explain why the pure volume
+of WOM matters is consumer awareness. For example,
+Godes and Mayzlin (2004b) suggest that the more conver￾sation there is about a product, the more likely someone is
+to be informed about it, thus leading to greater sales. On the
+basis of a similar rationale, research that uses diffusion
+models often examines WOM by either the number of
+76 / Journal of Marketing, July 2006
+2A caveat is that some audiences might have the chance to
+watch a sneak preview of a to-be-released movie. However, sneak
+previews are conducted only for selected movies, in few cities, and
+for a small number of people. The vast majority of moviegoers
+would not have experienced the movie before its release.
+adopters (Neelamegham and Chintagunta 1999) or the
+interaction between the number of adopters and that of non￾adopters (Zufryden 1996). In this article, the effect of vol￾ume is called the “informative” effect on awareness.
+Positive WOM typically gives either a direct or an indi￾rect recommendation for product purchase. Negative WOM
+may involve product denigration, rumor, and private com￾plaining. The reason valence matters is relatively straight￾forward; positive WOM enhances expected quality (and,
+thus, consumers’ attitudes toward a product), whereas nega￾tive WOM reduces it. In this article, the effect of valence is
+called the “persuasive” effect on attitude.
+Although volume and valence are among the most
+important measures of WOM in the literature, other mea￾sures, such as duration, intensity, and dispersion, exist
+(Eliashberg et al. 2000; Godes and Mayzlin 2004b).
+Because these measures are difficult to construct from the
+current data, this study focuses on volume and valence. 
+The effects and potential antecedents of movie WOM
+are investigated by examining three important aspects of a
+movie’s run: the opening week, the weeks after opening,
+and aggregate box office revenue. Previous studies that have
+adopted similar approaches include those of Elberse and
+Eliashberg (2003), who separate the opening week from
+remaining weeks, and Eliashberg and Shugan (1997), who
+examine the effects of critical reviews in each of the first
+eight weeks after a movie’s release and on aggregate box
+office revenue.
+Comparison of WOM Before and After Release
+Opposite theories exist about the degree of WOM activities
+before a movie’s release. Several factors suggest that pre￾release WOM is minimal. First, the price of watching a
+movie is relatively low for an average consumer; the aver￾age movie admission was $6 in 2003 (Motion Picture Asso￾ciation 2003). The low cost, coupled with moviegoing often
+being an impulse decision, implies that potential movie￾goers may not go through an intensive decision-making
+process in which a large amount of information, such as
+WOM, is needed. Second, most movies are released after
+intensive prerelease advertising. Advertising, which is
+mainly done in newspapers and on television, typically
+amounts to 50% of the production budget (Vogel 2001, p.
+96). It provides information about the opening date, main
+cast, some of the storyline, critical opinions (in a selected
+fashion), and, in many cases, whether the movie is to be
+released nationwide “in a theater near you” or only “in
+selected cities.” Critical reviews also provide useful infor￾mation to moviegoers and can be easily obtained from
+many media channels (Faber and O’Guinn 1984; Litwak
+1986). Because movie critics are mostly independent from
+the studios, their reviews could offer supplementary value
+to advertising. If massive advertising and active critical
+reviews can meet potential moviegoers’ need for informa￾tion and thus be an effective substitute for WOM, the
+amount of WOM in the prerelease period should be mini￾mal (Chaffee 1982). Finally, it is conceivable that the actual
+experience with a product may function as an important
+stimulus for WOM communication (Anderson 1998). Thus,
+the volume of WOM could be expected to be significantly
+large only after many moviegoers have seen the movie in
+the opening week.2
+Conversely, as discussed previously, movies are popular
+cultural goods with an intangible/experiential nature, which
+increases the likelihood that prerelease WOM is active.
+Because WOM comes from other moviegoers, it may also
+be perceived as more trustworthy than advertising (Faber
+and O’Guinn 1984), and it may better reflect popular taste
+than critical reviews (Holbrook 1999). As a result, although
+abundant information about a to-be-released movie is pro￾vided by advertising and critical reviews, WOM may still be
+perceived as useful and thus serve as a complement to
+rather than a substitute for other information sources. This
+study relies on an empirical approach to examine how
+active WOM is during the prerelease phase of a movie and
+how it compares with WOM in the opening week.
+By its very nature, advertising will be positive about a
+new movie. Notably, Eliashberg and Shugan (1997) find
+that critical reviews are also mostly positive. To the extent
+that these sources of information influence moviegoers, the
+valence of prerelease WOM for an average movie should be
+mainly positive. After a movie is released, actual experience
+will come into play to influence WOM valence further.
+Abundant research indicates that consumer satisfaction is
+influenced by the confirmation or disconfirmation of expec￾tations (Anderson 1973; Oliver 1980; Olson and Dover
+1979). Because the viewing public holds a comparatively
+high expectation for a to-be-released movie, the likelihood
+of disconfirmation is greater. In turn, this may result in a
+decrease in the positivity of WOM. Lieberman and Esgate
+(2002) make a similar argument for movie trailers and inter￾active games; that is, because trailers and games create high
+expectations before release, viewers are more likely to be
+disappointed after seeing the movie and talk unfavorably
+about it. Thus:
+H1: The valence of prerelease WOM is mainly positive, and
+the valence of WOM in the opening week is less positive
+than that of prerelease WOM.
+Weekly Box Office Revenues
+Figure 1 presents a conceptual framework that integrates
+WOM into an otherwise familiar picture of the movie mar￾ket (Elberse and Eliashberg 2003; Lehmann and Weinberg
+2000). The extant literature consistently finds that the num￾ber of screens on which a movie is shown strongly influ￾ences box office revenue in a given week (e.g., Swami,
+Eliashberg, and Weinberg 1999). Evidence also indicates
+that critical reviews correlate with weekly box office reve￾nue, though previous studies have reported mixed findings
+about the significant level of this correlation and when it
+exists in a movie’s run (Basuroy, Chatterjee, and Ravid
+Word of Mouth for Movies / 77
+FIGURE 1
+A Conceptual Framework of Movie Box Office Sales
+2003; Eliashberg and Shugan 1997; Reinstein and Snyder
+2005). Whereas the number of screens captures distribution
+intensity (and, thus, the audiences’ accessibility to movies),
+critical reviews and WOM constitute most of the third-party
+information that moviegoers may use. Unlike critical
+reviews, which are static and occur mostly before the movie
+is released, WOM is a dynamic phenomenon that begins
+before release and spans the entire run. Thus, it is important
+to measure WOM periodically.
+If WOM is able to influence consumer decisions, incor￾porating WOM into extant models that have the number of
+screens and critical reviews as explanatory variables
+(Basuroy, Chatterjee, and Ravid 2003; Eliashberg and
+Shugan 1997) will enhance the models’ explanatory power
+for weekly box office revenue. This is especially true if
+WOM functions as a complement to critical reviews. An
+additional factor contributing to the explanatory power of
+WOM beyond that of the number of screens is the reality of
+overcapacity in movie theaters. The movie exhibition indus￾try has been known for serious oversupply of theaters and
+seats. A series of articles that appeared in Forbes (Ackman
+2001a, b; Schiffman 2000) estimate that the average capac￾ity utilization of movie theaters is less than 20%. Although
+the number of screens picks up a large amount of variance
+in box office sales, the inclusion of additional factors that
+influence moviegoers (e.g., WOM) can explain more vari￾ance through capturing the increase in capacity utilization
+inside theaters.
+The two measures of WOM, volume and valence, influ￾ence moviegoers through different cognition–behavior
+routes (Figure 2). As discussed previously, the volume of
+WOM mainly has an informative role to enhance consumer
+awareness.3 The greater the volume of WOM, the more
+likely a consumer will be to hear about it. Not surprisingly,
+greater awareness tends to generate greater sales.
+3A few studies have found that the number of arguments in a
+persuasive message may influence persuasion, but the nature of
+this influence depends on situational factors, such as the level of
+involvement and the strength of the arguments. For example, Petty
+and Cacioppo (1984) suggest that the number of arguments serves
+as a simple persuasive cue for low-involvement situations, but a
+larger number of arguments may enhance issue-relevant thinking
+when involvement is high. For WOM in general and for movie
+WOM in particular, the overall degree of consumer involvement
+and the factors that drive it remain to be studied. Moreover, it is an
+interesting issue whether the findings regarding multiple argu￾ments in one persuasive message are applicable to a context simi￾lar to movie WOM, in which WOM messages come from different
+senders and usually advance different opinions. However, note that
+the informative effect proposed in the literature (e.g., Godes and
+Mayzlin 2004b; Neelamegham and Chintagunta 1999; Zufryden
+1996) always occurs as moviegoers are exposed to WOM.
+Notes: MPAA = Motion Picture Association of America.
+78 / Journal of Marketing, July 2006
+Conversely, the role of WOM valence, because of its
+positive/negative nature, is more of a persuasive one that
+influences consumer attitude. Although it is relatively
+straightforward to postulate that positive WOM enhances
+attitude and negative WOM reduces it, whether this effect
+can be unambiguously transformed into actual box office
+sales is unclear. Indeed, behavioral research has found that
+attitude does not always predict behavior well (Ajzen and
+Fishbein 1980) and that situational factors may influence
+behavior beyond what attitude can explain.
+In the movie market, the link between attitude and
+behavior is further weakened when moviegoing occurs
+impulsively. Moreover, unlike other consumer goods that
+remain in the market for a long time so that consumers have
+sufficient time to act on the desire to purchase them, movies
+are in theaters only for a short time. Along this line, Sawh￾ney and Eliashberg (1996) distinguish between the time to
+decide whether to watch a movie and the time to act on this
+decision.
+Therefore, a positive relationship between WOM vol￾ume and box office revenue is postulated. However, because
+of the weak link between attitude and behavior, the relation￾ship between WOM valence and box office revenue may be
+insignificant.
+H2: WOM has significant explanatory power for box office
+revenue in the subsequent period. Whereas the effect of
+WOM volume should be significantly positive, that of
+WOM valence may be insignificant.
+Aggregate Box Office Revenue
+The overall performance of movies, as measured by aggre￾gate box office revenue, is a critical issue in the industry.
+Beyond the weekly effects discussed in the previous sec￾tion, it is useful to examine whether prerelease WOM (i.e.,
+the buzz that accumulates before the opening week) can
+help explain aggregate box office revenue. The importance
+of accumulated buzz before a movie’s release has attracted
+much interest in both academic research (Elberse and
+Eliashberg 2003) and the popular press (King 2003). If
+WOM is informative about weekly box office revenue and
+if WOM activities can correlate between adjacent weeks,
+prerelease WOM will help explain/predict aggregate box
+4Other variables, such as Motion Picture Association of Amer￾ica (MPAA) ratings, directors, distributors, and whether the movie
+is a sequel, are potential explanatory variables for aggregate box
+office revenue. However, most studies failed to find these variables
+to be significant (e.g., Elberse and Eliashberg 2003; Litman 1983).
+These were also included in the estimation and were found to be
+insignificant as well. Thus, they are not included in the analyses
+reported here.
+office revenue. In line with previous discussions, the effect
+of the volume of prerelease WOM is expected to be signifi￾cantly positive, but that of the valence may be insignificant.
+As do studies that examine aggregate sales of movies
+and other entertainment products (Litman 1983; Reddy,
+Swaminathan, and Motley 1998), this study uses factors
+that are constant across the movies’ run as explanatory
+variables. In addition to prerelease WOM, this study links a
+movie’s aggregate box office revenue to factors including
+star power, genre, production budget, critical reviews, and
+the opening strength of the movie.4 Eliashberg and Shugan
+(1997) examine the effects of critical reviews on aggregate
+box office revenue and find that though the percentage of
+positive reviews is a significant predictor, the volume of
+reviews is not. The role of star power, genre, and production
+budget has been examined in a few studies, but the results
+are mixed (Basuroy, Chatterjee, and Ravid 2003; Elberse
+and Eliashberg 2003; Litman 1983).
+Opening strength refers to the number of screens in the
+first few weeks of a movie’s run. A wide opening strategy
+may generate higher total sales because greater accessibility
+better appropriates the public interest in a movie that has
+accumulated before release. However, opening wide may
+also merely shift future demand into early weeks if the
+overall demand is not increased. If audiences are not stimu￾lated enough by a wide opening to go to theaters early and
+if the number of screens drops quickly, total sales will be
+negatively influenced. The business press suggests that
+movies are increasingly opening wide (King 2001).
+H3: Prerelease WOM offers significant explanatory power for
+aggregate box office revenue. However, most of the
+explanatory power comes from its volume, not its valence.
+Volume
+Valence
+WOM
+Awareness
+Attitude
+Cognitive
+Consequences
+Box office
+sales
++ +
++ ?
+Observed Behavioral
+Consequences
+FIGURE 2
+The Impact of WOM Measures on Potential Moviegoers
+Word of Mouth for Movies / 79
+5Movie advertisements also display critical reviews from time
+to time. However, such displays are highly selective; only positive
+evaluations, such as “two thumbs up,” are displayed. To the extent
+that consumers understand this selective process, the impact of
+critical reviews through movie advertisements should decrease
+(Taylor 2003).
+Potential Antecedents of WOM
+The double-lined arrows in Figure 1 illustrate the factors
+that are potential antecedents of WOM. These include five
+groups of factors: movie genres, Motion Picture Association
+of America (MPAA) ratings, whether major stars are in the
+cast, critical reviews, and the WOM measures in the previ￾ous week. Movie genres (e.g., action, drama, horror) clas￾sify movies on the basis of their storyline, and MPAA rat￾ings (G, PG, PG-13, and R) classify movies on the basis of
+content, primarily according to the suitability of the movie
+to different audience segments. As a communication
+process, WOM activities can be influenced by the strength,
+inherent interestingness, and possibly the controversy of the
+topic. Movies with certain genres (e.g., action, adventure)
+and MPAA ratings (e.g., R, which requires a parental
+guardian for moviegoers under the age of 17) may be asso￾ciated with distinctive patterns of WOM behavior, espe￾cially during the prerelease period when the curiosity about
+movies is high.
+The phenomenon of star power is substantial in the
+entertainment sector. Movie stars are the frequent topic of
+interpersonal communication among moviegoers. Thus, the
+existence of stars is likely to correlate with WOM activities.
+Because the literature is inconclusive about the role of
+movie stars on box office revenue and because Hollywood
+seems to promote a culture of stars despite the high pressure
+faced by studios to control production budgets (Vogel
+2001), either a confirmation or a disconfirmation of the
+impact of star power on WOM would be valuable.
+Critical reviews are usually published in major newspa￾pers, in magazines, and, increasingly, on movie Web sites.
+They may influence moviegoers’ expectations of a film and
+thus correlate with WOM. However, such influence may
+exist only if the majority of movie audiences read these
+reviews. Because there is no published evidence about the
+size or the demographic features of those who read critical
+reviews, it is difficult to speculate on the significance of the
+correlation between reviews and WOM.5 Although most
+critical reviews begin circulating before a movie’s opening
+week, the data do not contain information about the exact
+time the reviews became available. To reduce any ambiguity
+in the analysis for the prerelease period, critical reviews are
+included as a potential antecedent of WOM only in a
+movie’s opening week and the weeks after it.
+Extant studies advance the theory that WOM can be
+viewed as a consequence of social networks; thus, it is con￾tagious and persistent (Banerjee 1992; Brown and Reingen
+1987; Murray 1991). This indicates that on the aggregate
+level, WOM in adjacent weeks will be positively correlated.
+From a behavioral point of view, active WOM during a
+6Note that this carryover effect does not require the volume of
+WOM to keep increasing over time. There are other factors that
+may function as antecedents of WOM, such as weekly advertising
+spending and whether the movie is a sequel. The data do not con￾tain sufficient information or variance to investigate these factors.
+This is an issue for further research.
+7A few other Web sites (e.g., IMDB.com) also provide user
+comments about movies. However, these Web sites do not attract
+as many visitors as Yahoo Movies (Graser 2002). Furthermore, in
+general, they do not provide functions similar to Yahoo Movies,
+which allows threaded message posting and replying. Collecting
+and organizing the postings from these other sites are more diffi￾cult. For example, the user comments on IMDB.com are not num￾bered, thus increasing the difficulty of an already tedious data￾processing task. To the extent that no significant difference exists
+period helps promote awareness and interest in a movie;
+therefore, more people will see the movie in the next period
+and subsequently talk about it. This can happen for two rea￾sons: First, greater WOM makes the memory of the movie
+last longer, thus increasing the likelihood that a moviegoer
+will talk about the movie after seeing it. Second, the per￾ceived social benefit of talking about a popular subject (i.e.,
+movie) tends to be greater than talking about a less popular
+one (Brown and Reingen 1987).
+The data can be used to examine the aggregate effect of
+this temporal correlation. That is, a week with greater
+WOM activities is more likely to be followed by another
+week of active WOM than is a week with less WOM. This
+phenomenon is called a “carryover” effect of WOM, which,
+in the context of this study, refers to the possibility that
+WOM activities in a week correlate with WOM in the sub￾sequent week.6 H4: Movie genres, MPAA ratings, star power, and critical
+reviews are among the potential antecedents of movie
+WOM. A dynamic carryover effect exists between WOM
+activities in adjacent weeks.
+Empirical Analysis and Discussion
+of Results
+Data and Variables
+The WOM data are collected from the Yahoo Movies mes￾sage board (http://movies.yahoo.com/). There are several
+reasons Yahoo Movies serves as a good source of movie
+WOM. First, it is one of the most popular movie Web sites.
+Variety (Graser 2002) reports that Yahoo Movies has the
+largest number of unique visitors among its Web competi￾tors. Second, Yahoo Movies requires no access fee for either
+browsing or posting a message. This helps reduce any pos￾sible bias in the demographic composition of the Web site’s
+visitors. Third, the structure of the Web site is well designed
+so that finding and collecting information is straightfor￾ward, thus reducing possible errors during data collection.
+Finally, WOM messages are archived and indexed numeri￾cally by the dates when they were posted. Thus, it is possi￾ble to track the period in the movie’s run to which a particu￾lar message belongs.7 The prerelease period is from the date
+80 / Journal of Marketing, July 2006
+8An alternative method is to use the absolute numbers of posi￾tive and negative messages, either individually or together with the
+volume of messages. However, note that doing so does not clearly
+separate the volume effect from the valence effect and may pro￾duce spurious results, because both numbers are significantly cor￾related with the total volume. For example, using the number of
+negative reviews to explain box office revenue always yields a
+positive sign, indicating that the effect of total volume may domi￾nate the valence effect. Using the numbers of positive and negative
+messages together with the volume produces an unacceptable vari￾ance inflation factor, a strong signal for multicollinearity. There￾fore, in this study, the analysis and discussion are restricted to the
+volume measure and the valence measures that are defined as
+percentages.
+when the first WOM message about a movie is posted to the
+date before the official movie release. It captures the accu￾mulation of WOM before the movie opens.
+Coding WOM messages into valence is an extremely
+tedious task that poses serious constraint on the amount of
+data that can be studied. To cope with this difficulty, this
+study focuses on movies released during a five-month
+period (May–September) in 2002. After excluding titles for
+which there is no reliable information about all control
+variables, the final data set contains 40 movies, with 12,136
+WOM messages to be coded.
+Three judges independently read each of the 12,136
+messages and assigned them to one of five categories: posi￾tive, negative, mixed, neutral, and irrelevant. The messages
+classified as positive or negative either show clear overall
+assessment of the movie or provide direct recommenda￾tions. A message is classified as mixed if it expresses posi￾tive opinions about some aspects of the movie but negative
+opinions about others and if there is no clear overall assess￾ment. A message is classified as neutral if it talks about the
+movie but does not provide any positive or negative com￾ments. Finally, a message is classified as irrelevant if it is
+not related to the movie itself. The three independent cod￾ings are integrated using the majority rule: If at least two
+judges assign the same category, that category is used for
+the message. If all three judges disagree, the message is
+coded as disagree. The level of disagreement among the
+three judges was very low (approximately 4% for all the
+weeks examined). For example, for WOM posted during the
+opening week, the judges did not achieve a majority agree￾ment for only 4.1% of all messages. The data require the
+use of aggregate measures for WOM valence. Consistent
+with previous studies that involve valence coding (Basuroy,
+Chatterjee, and Ravid 2003; Eliashberg and Shugan 1997),
+the valence of WOM is measured in two dimensions: the
+percentage of positive messages and the percentage of nega￾tive messages.8
+Other data come from various public sources. The
+weekly box office revenue and number of screens are col￾lected from Variety magazine, as are the critical reviews.
+Eliashberg and Shugan’s (1997) method to calculate the
+total number of reviews, the percentage of positive reviews
+(CRPRO), and the percentage of negative reviews
+(CRCON) is used. Similar to their data, an extremely high
+correlation exists between CRPRO and CRCON (–.878, p <
+.0001). As a result, these data must be included separately
+in the estimation. Production budget comes from another
+popular movie Web site, The Numbers (see www.the￾numbers.com), and MPAA ratings and movie genres are
+collected from the Internet Movie Database (http://
+us.imdb.com). Star power is based on the star list published
+annually by Premier; a movie is classified as having star
+power if at least one of its cast members appears in “The
+Power List 2002.” Table 1 provides the basic summary sta￾TABLE 1
+Key Summary Statistics of the Movie Sample
+Variable Median M SD
+Box office (aggregate) $41,986,198 $67,005,348 $56,681,186
+Ratio of opening week to aggregate box office 43.1% 41.0% 14.3%
+Exhibition longevity (in weeks) 15.0 15.5 4.89
+Production budget $48,000,000 $51,650,000 $30,955,344
+Screens in opening week 2633.5 2518.9 890.3
+Volume of total WOM messages 139.5 303.4 411.8
+Volume of WOM (prerelease) 45.5 84.6 89.1
+Percentage of positive WOM (prerelease) 27.3% 28.5% 12.5%
+Percentage of negative WOM (prerelease) 9.1% 10.5% 8.2%
+Volume of WOM (opening week) 49.0 94.8 134.5
+Percentage of positive WOM (opening week) 20.3% 23.8% 11.9%
+Percentage of negative WOM (opening week) 13.3% 16.1% 13.5%
+Volume of critical reviews 16.5 16.3 4.1
+Percentage of positive reviews 28.1% 36.9% 28.7%
+Percentage of negative reviews 32.5% 37.6% 30.6%
+Notes: Total number of movies = 40. Total number of WOM messages analyzed = 12,136.
+in the demographic profiles of visitors to these movie Web sites,
+using data from Yahoo Movies can be fairly representative. Never￾theless, it is acknowledged that compiling data from different Web
+sites and examining their differences and the collective influence
+on product sales could be potentially useful.
+Word of Mouth for Movies / 81
+9Note that for both WOM and critical reviews, the percentage of
+positive comments and the percentage of negative comments do
+not add up to 100%, because other categories (e.g., mixed) exist
+when the valence measures are constructed. It is also interesting
+that WOM is less often positive or negative than critical reviews.
+This happens because critical reviews tend to give clear overall
+assessments, but WOM is more likely to be ambiguous.
+0
+20
+40
+60
+80
+100
+0246 8
+Week
+0
+.1
+.2
+.3
+.4
+0246 8
+Week
+Positive Negative
+FIGURE 3
+Dynamic Patterns of WOM for the Movie Sample
+A: The Average Volume of WOM
+B: The Average Valence Measures
+0
+.05
+.1
+.15
+.2
+.25
+.3
+.35
+01234567 8 Negative
+Positive
+Week
+01
+01234567 8
+Positive Negative
+Week
+1.2
+.8
+.6
+.4
+.2
+FIGURE 4
+Valence of WOM for Movies xXx and 
+Scooby-Doo
+xXx
+Scooby-Doo
+tistics of the sample.9 Following the work of Eliashberg and
+Shugan (1997) and Basuroy, Chatterjee, and Ravid (2003),
+and in light of the varying exhibition longevities among the
+40 movies, empirical analyses are conducted for the first
+eight weeks in the movies’ run. This covers most of the
+interesting periods for the movies; the first eight weeks
+account for 97% of the box office revenue in the data.
+Dynamic Features of Movie WOM
+For illustrative purposes, Figure 3 plots how volume and
+valence change over time, beginning with the prerelease
+period (Week 0), then the opening week (Week 1), and so
+on. Figure 4 further provides plots for two specific movies,
+xXx and Scooby-Doo, to illustrate different patterns of the
+valence measures.
+Figure 3, Panel A, reveals that movie WOM is the most
+active during the prerelease period and the opening week,
+and then gradually decreases. For the 40 movies in the sam￾ple, most movies (i.e., 23) have their greatest WOM volume
+during the prerelease period, and 15 movies have the most
+active WOM during the opening week. Compared with all
+other periods, the opening week has the greatest volume of
+WOM; on average, 94.8 WOM messages per movie are
+posted. The volume of prerelease WOM is slightly lower
+but is still very high; on average, 84.6 messages are posted
+during this period. The average volume drops significantly
+to 36.6 in the second week and continues to decrease.
+Therefore, although other information sources are abun￾dant and most moviegoers have not watched the movies,
+WOM is very active in the prerelease period. It suggests
+that WOM is more of a complement to other information
+sources than a substitute. This finding lends direct support
+to the hypothesis that WOM can be a useful measure to
+explain box office sales. It also implies that instead of being
+Volume Percentage
+Percentage Percentage
+82 / Journal of Marketing, July 2006
+TABLE 2
+List of Variables Used in the Analyses
+Variable Name Meaning
+t (subscript) Week number in movie’s life span (t = 0 is prerelease)
+CONST The constant intercept in the regression models
+CRCON Percentage of negative critical reviews
+CRPRO Percentage of positive critical reviews
+GACADV Movie genre is action/adventure
+GCOMEDY Movie genre is comedy
+GSCIFI Movie genre is science fiction
+LNAGEt Average age of the top 20 movies in week t (in natural log)
+LNCRITIC Number of critical reviews (in natural log)
+LNMSGt Number of WOM messages in week t (in natural log)
+LNNEWt Number of new releases among the top 20 movies in week t (in natural log)
+LNPROD Value of production budget of the movie (in natural log)
+LNREVt Box office revenue in week t (in natural log)
+LNSCRN1–4 Number of screens in the first four weeks after opening (in natural log)
+LNSCRNt Number of screens in week t (in natural log)
+MPAA-PG Movie is rated PG in MPAA ratings
+MPAA-R Movie is rated R in MPAA ratings
+NEGPERt Percentage of negative WOM in week t
+POSIPERt Percentage of positive WOM in week t
+STAR There are major stars in the movie
+based on actual experiences with a movie, prerelease WOM
+can be fairly speculative in nature.
+Figure 3, Panel B, indicates that the valence measures
+have a different pattern from that of volume. Although there
+are variations in positive and negative percentages from
+week to week, such changes in terms of direction and mag￾nitude appear to be rather random. Furthermore, the average
+percentage of positive WOM is greater than that of negative
+WOM in the early periods, especially during prerelease. To
+quantify this finding further, each movie is examined indi￾vidually. During the prerelease period, the percentage of
+positive WOM is greater than the percentage of negative
+WOM by a margin of 5% for as many as 31 movies. These
+margins are within 5% of each other for 8 movies, and only
+in one case (for the movie The Banger Sisters) does the per￾centage of negative WOM exceed that of positive WOM by
+5%.
+Figure 3, Panel B, also indicates that movie audiences’
+expectations about a typical movie (before release) are usu￾ally higher than what they think in the opening week. In
+particular, the percentage of positive WOM begins at a
+comparatively high level during prerelease and drops to a
+lower level in the opening week. At the same time, the per￾centage of negative WOM begins at a comparatively low
+level during prerelease but increases to a higher level in the
+opening week. Among the movies in the sample, the WOM
+for about half (19 movies) drops by more than 5% from pre￾release to the opening week. The other movies either have
+comparable levels of positive WOM between the two peri￾ods (11 movies) or have more positive WOM during the
+opening week (10 movies), and 17 movies have their nega￾tive WOM increase by more than 5% from prerelease to the
+opening week (e.g., xXx), whereas only 6 movies have
+noticeable decreases in negative WOM (e.g., Scooby-Doo).
+Thus, there is support for H1, which postulates that
+WOM tends to be positive in the prerelease period but
+becomes less so in the opening week. In addition to illus￾trating the confirmation or disconfirmation theory of expec￾tations in the context of movies, these results imply a poten￾tial drawback of intensive advertising. That is, advertising
+may generate awareness for new products, but it may also
+attract nontarget consumers who are more likely than others
+to spread negative WOM. In the movie market, these are the
+people who normally would not like a particular movie.
+This problem is of greater concern when retailers (theaters)
+would have kept the product longer if WOM were more
+positive. As a result, seeking ways to make advertising
+more targeted should be of considerable value. Without the
+concern about negative WOM, a firm would want the
+“wrong” buyers to buy because they still generate addi￾tional revenue.
+The remaining part of this section discusses three sets of
+analyses of how the measures of WOM help explain weekly
+and aggregate box office revenue and what constitutes
+potential antecedents of WOM. To cope with potential non￾linearity, double log specifications are used for the regres￾sion equations; natural logarithms are taken for variables
+that could take unbounded positive values. The terms
+LNMSGt
+, POSIPERt
+, and NEGPERt are used to denote vol￾ume (in natural logarithms) and valence (in percentages) of
+WOM in week t (t = 0 indicates the prerelease period). Two
+weekly variables are included to control for the effects of
+competition; one is the number of new releases among the
+top 20 movies, and the other is the average age, measured in
+weeks, of the top 20 movies (for a discussion about why
+these factors may capture the effect of competition, see
+Elberse and Eliashberg 2003). In all estimations, multi￾collinearity is tested for by calculating the variance inflation
+factor. The variables used produced acceptable variance
+inflation factor values. Table 2 lists all the variables, and
+Table 3 provides the correlation matrix among WOM mea￾sures for a movie’s prerelease and opening week. Similar
+Word of Mouth for Movies / 83
+LNMSG0 POSIPER0 NEGPER0 LNMSG1 POSIPER1 NEGPER1
+LNMSG0 1.000 — — — ——
+POSIPER0 –.312 1.000 — — — —
+(.050)
+NEGPER0 .026 –.265 1.000 — — —
+(.873) (.098)
+LNMSG1 .764 –.034 –.007 1.000 — —
+(.000) (.835) (.965)
+POSIPER1 .053 .211 –.197 –.025 1.000 —
+(.746) (.191) (.223) (.880)
+NEGPER1 –.216 .036 .267 –.071 –.426 1.000
+(.180) (.825) (.096) (.664) (.006)
+Notes: p values are in parentheses.
+TABLE 3
+Correlation Matrix for Prerelease and Opening Week WOM
+10In an effort to test and control for any effects that might be
+caused by unobservable variables, the estimation of a set of movie￾specific information, such as movie genres, MPAA ratings, pro￾duction budget, whether a movie is a sequel, and whether there are
+major stars or directors, is included. However, these variables are
+mostly insignificant. Thus, they are omitted from the final model
+of estimation.
+patterns exist for the remaining weeks. The most significant
+correlation exists between LNMSG1 and LNMSG0, imply￾ing the possibility of a carryover effect.
+WOM and Weekly Box Office Revenue
+To examine the weekly effects of WOM, the following
+model is estimated:
+for each week separately (t = 1, 2, …, 8), where i indexes
+the movies (i = 1, 2, …, 40) and is omitted hereafter to
+avoid notation clutter. The covariates include the number of
+screens (LNSCRNt), critical reviews (LNCRITIC,
+CRPRO), and the degree of competition (LNNEWt,
+LNAGEt
+). This specification is similar to that of Eliashberg
+and Shugan (1997) and Basuroy, Chatterjee, and Ravid
+(2003), except for the additional (lagged) WOM measures
+and the two competition variables.10
+Table 4 reports the weekly regression results. All the
+regressions achieved high levels of model fit, and all the
+significant parameters have expected signs. For the opening
+week, the joint F test shows that the measures of WOM
+have significant explanatory power for box office revenue.
+However, whereas the volume of WOM (LNMSG0) is
+highly significant (p < .001), the valence measures
+(POSIPER0 and NEGPER0) are not. In other words, almost
+all the explanatory power that WOM brings to the estima-
+( ) , 1 1 21 LNREV CONST a LNSCRN a LNMSG it it i t =+ +
++ − aa POSIPER a NEGPER
+a LNCRITI
+it it 3 14 1
+5
+, , − − + + CC a CRPRO a LNNEW
+a LNAGE
+ii t
+t it
++ +
++ +
+6 7
+8 ε ,
+11A question here is whether the volume of WOM is merely
+picking up the effects of advertising. To examine this issue, data
+on the advertising budget for each movie were collected and
+included in weekly regressions with WOM. The estimation results
+remain similar, and the volume of WOM is still highly significant.
+Thus, movie WOM offers explanatory power for weekly box
+office revenue beyond that of advertising.
+tion comes from its volume but not its valence. The estima￾tion for the next four weeks (Week 2–Week 5) yields the
+same results; that is, the volume of WOM (LNMSGt–1) is
+highly significant, but the valence (POSIPERt–1 and
+NEGPERt–1) is not. At Week 6, the effect of volume
+becomes marginal and then disappears. This happens
+because WOM activities are gradually reduced as people
+lose interest in a movie during subsequent weeks. Thus, the
+increasingly sparse and irregular WOM fails to provide
+informative measures for weekly box office revenue. For
+example, there are only 5.1 WOM messages posted per
+movie in Week 6, compared with 94.8 in the opening week.
+As a result, H2 is supported, but only for the early weeks.
+This is particularly enlightening because most of the box
+office sales occur in these weeks; for the movies in the data,
+the first five weeks contribute to 91.3% of aggregate box
+office revenue.11
+To examine the robustness of these results, especially
+the insignificance of valence, which might be particularly
+surprising, several further analyses were conducted. A typi￾cal reason for the lack of significance is that the sample size
+may not have been sufficiently large. Whereas the number
+of movies that can be analyzed is practically constrained by
+the labor-intensive coding process, the sample size is still
+comparable to those of extant studies. For example, Godes
+and Mayzlin (2004b) analyze 41 television shows;
+Lehmann and Weinberg (2000) use 35 movie and video
+titles; Eliashberg and Shugan (1997) analyze 56 movies;
+and Dellarocas, Awad, and Zhang (2004) use 25 movies in a
+ratings survey and then 80 movies for box office analysis
+(40 movies for estimation and 40 for prediction). Neverthe￾less, a pooled regression was conducted to examine whether
+84 / Journal of Marketing, July 2006
+Week (t)
+CONST
+LNSCRNt
+LNMSGt – 1
+POSIPERt – 1
+NEGPERt – 1
+LNCRITIC
+CRPRO
+LNNEW
+LNAGE
+Model fit F
+(p value)
+Adjusted R2
+Joint F test of
+WOM 
+measures
+1
+7.273
+(.000)**
+.566
+(.000)**
+.592
+(.000)**
+.784
+(.257)
+.059
+(.952)
+.759
+(.018)**
+.695
+(.019)**
+–.111
+(.505)
+.146
+(.760)
+44.87
+(.000)
+.902
+14.01
+(.000)
+2
+9.346
+(.000)**
+.401
+(.006)**
+.345
+(.000)**
+–.300
+(.674)
+–1.369
+(.092)*
+1.106
+(.001)**
+.398
+(.235)
+.005
+(.984)
+–.339
+(.516)
+16.86
+(.000)
+.765
+9.64
+(.000)
+3
+6.449
+(.000)**
+.673
+(.000)**
+.366
+(.000)**
+.812
+(.133)
+–.610
+(.264)
+.894
+(.020)**
+.688
+(.076)*
+.153
+(.494)
+.022
+(.972)
+22.70
+(.000)
+.820
+10.87
+(.000)
+4
+8.171
+(.000)**
+.985
+(.000)**
+.275
+(.005)**
+.186
+(.603)
+.445
+(.309)
+.343
+(.323)
+.728
+(.047)**
+–.251
+(.127)
+–1.378
+(.045)**
+27.50
+(.000)
+.855
+4.01
+(.017)
+5
+6.469
+(.000)**
+.973
+(.000)**
+.387
+(.000)**
+.342
+(.312)
+.385
+(.136)
+.421
+(.137)
+.736
+(.009)**
+–.136
+(.423)
+–.681
+(.140)
+50.37
+(.000)
+.925
+10.48
+(.000)
+6
+4.981
+(.015)**
+1.050
+(.000)**
+.169
+(.0103)
+.045
+(.910)
+–.173
+(.620)
+.657
+(.192)
+.340
+(.336)
+–.086
+(.738)
+–.039
+(.964)
+23.58
+(.000)
+.862
+1.07
+(.382)
+7
+.594
+(.000)**
+1.379
+(.000)**
+–.088
+(.449)
+–.185
+(.497)
+–.265
+(.399)
+.358
+(.228)
+.386
+(.288)
+.073
+(.711)
+–1.510
+(.097)*
+69.04
+(.000)
+.954
+.43
+(.735)
+8
+4.067
+(.317)
+1.185
+(.000)**
+.144
+(.362)
+.118
+(.715)
+–.605
+(.655)
+.561
+(.369)
+.307
+(.454)
+–.112
+(.682)
+.060
+(.963)
+22.45
+(.000)
+.905
+.53
+(.672)
+*p < .10.
+**p < .05.
+Notes: The dependent variable is LNREVt. p values are in parentheses.
+TABLE 4
+The Effects of WOM Communication on Weekly Box Office Revenue
+12Note that a pooled regression, though it offers a greater num￾ber of observations and thus increases the chance of a parameter to
+be significant, has its limitations. It estimates the average effect
+across all periods. Thus, it is not particularly useful if there is a
+significant difference of the estimated effects in different periods.
+the insignificance of WOM valence can be attributed to
+sample size. To do so, all the weekly data of the 40 movies
+were pooled to regress weekly box office revenue on the
+explanatory variables. With 378 observations, the pooled
+regression achieved a high level of model fit (adjusted R2 =
+.95). However, the results remain the same; that is, the vol￾ume of WOM is highly significant, but valence is not.12
+It is also possible that the valence of WOM works dif￾ferently for movies that receive mostly positive WOM and
+those that receive mostly negative WOM. A relevant argu￾ment is the diminishing impact of incremental WOM mes￾sages. If the overall WOM information about a movie is
+positive, the addition of another positive message may not
+be as influential as the addition of a negative one. The
+reverse is true for a movie that has overall negative WOM.
+Thus, estimating all movies together might have neutralized
+the impact of the valence measures. This argument moti￾vated an examination of the impact of WOM by conducting
+separate regressions on different movie groups (especially
+those that received mostly positive WOM and those that
+received mostly negative WOM). The results of WOM vol￾ume and valence remain unchanged.
+In addition to the examination of weekly box office
+revenue, an analysis was conducted for aggregate box office
+revenue using prerelease WOM and other control variables;
+valence measures were again found to be insignificant.
+Finally, various model specifications, such as linear and
+semilog, were examined, and all lead to qualitatively simi￾lar results.
+Therefore, the results confirming H2 appear to be fairly
+robust. They suggest that though WOM is a useful informa￾tion source in the movie market, it correlates with box
+office revenue mainly through an informative role on
+awareness but not a persuasive path of attitude changes. In
+addition to the theoretical reasons discussed previously
+regarding the weak correlation between attitude and behav￾ior, whether a person likes a particular movie is (to a large
+extent) an issue of personal taste, which lends additional
+support to this finding. It is clear that WOM increases
+awareness among potential moviegoers, which is confirmed
+by the highly significant effect of volume, but when it
+comes to deciding whether to watch a particular movie, to
+what extent should another person’s subjective assessment
+be reflective of the WOM recipient’s own taste? If the belief
+that a bad (good) movie for one person may be enjoyable
+(not enjoyable) to another is sufficiently strong, or if the
+WOM receiver attributes the valence of WOM to the taste
+of the message sender (see Eagly, Wood, and Chaiken
+Word of Mouth for Movies / 85
+TABLE 5
+Prerelease WOM and the Aggregate Box Office
+Revenue (LNGROSS)
+Independent Parameter t-Value
+Variables Estimates (p Value)
+CONST 8.875 3.95 (.000)**
+LNSCRN1–4 .516 2.50 (.018)**
+LNPROD –.015 –.10 (.921)
+LNMSG0 .589 4.65 (.000)**
+POSIPER0 .342 .44 (.667)
+NEGPER0 –.515 –.44 (.665)
+LNCRITIC .579 1.74 (.093)*
+CRPRO 1.069 3.21 (.003)**
+STAR .168 .96 (.346)
+GSCIFI –.194 –.84 (.409)
+GACADV –.164 –.86 (.394)
+Joint test (LNMSG0 = POSIPER0 = NEGPER0 = 0): F =
+9.49 (p < .001)
+Model fit: F = 13.79 (p < .001), adjusted R2 = .77
+*p < .10.
+**p < .05.
+[1978] and other studies on attribution theory), the valence
+will lose much of its influence. This explanation is consis￾tent with several previous studies on WOM. For example,
+Russell, DeCarlo, and Ramaswami (2001) find that when
+message receivers attribute the negativity of WOM to the
+communicator, brand evaluations actually increase.
+The finding that WOM operates mainly through
+increased awareness and the argument that the experiential/
+intangible nature of movie consumption enhances the need
+for WOM lead to an interesting prediction; namely, the
+effect of WOM on to-be-released sequel movies should be
+less than that on nonsequels because moviegoers have more
+information about and experience with sequels as a result of
+the mostly successful prequels. This difference should be
+the most obvious in the opening week when box office reve￾nue is the greatest and when the WOM effect is highly
+significant.
+To examine this prediction, regressions similar to those
+reported in Table 4 could be conducted for sequel and non￾sequels separately. However, the small number of sequels in
+the data (there were only 3) prevents estimations for com￾pletely separated samples. Thus, a different test was used.
+In particular, the opening-week regression was conducted
+for nonsequels only (37 movies), and whether the effect of
+volume was greater than that based on all 40 movies was
+observed. The parameter LNMSGt – 1 was .6044 for non￾sequels but .5917 for all movies. Because the estimations
+are based on double log specifications, this seemingly small
+difference actually implies that the average volume of
+WOM during prerelease yields 6% more box office revenue
+in the opening week for nonsequels than for all movies
+combined (i.e., 84.6.6044 – .5917 = 1.06). For the average
+opening-week revenue of $27.01 million in the sample, this
+is a $1.62 million difference. This difference is especially
+significant considering that the test is less powerful than a
+direct comparison between sequels and nonsequels and that
+it is based on merely 3 of the 40 movies.
+For the early weeks, inclusion of the WOM measures
+produced noticeably better model fit than the previous stud￾ies that used only the remaining explanatory variables.
+From Week 1 to Week 5, the average enhancement of model
+fit measured by adjusted R2 is 17%.
+WOM and Aggregate Box Office Revenue
+Table 5 presents the results of regressing aggregate box
+office revenue (LNGROSS) on prerelease WOM and other
+covariates. The opening strength of movies is measured as
+the total number of screens in the first four weeks; this
+accommodates the industry practice of adopting a minimum
+number of screens in exhibition contracts for the first few
+weeks (for similar issues, see De Vany and Walls 1999) and
+reduces any possible biases associated with the movies that
+do not achieve the widest distribution in the opening week.
+The LNSCRN1–4 turns out to be highly significant; the
+wider distribution a movie has in the first four weeks, the
+greater the aggregate box office revenue will be. The per￾centage of positive reviews (CRPRO) has a significant,
+positive impact. The volume of critical reviews
+(LNCRITIC) is also significant, but only marginally. These
+results are similar to those that Eliashberg and Shugan
+(1997) report. Movie stars (STAR) or movie genres are not
+found to be informative of aggregate box office revenue.
+The three measures of WOM are highly significant as a
+group, confirming the value of using prerelease buzz to
+explain overall box office performance. As with the weekly
+analysis, whereas the volume of WOM (LNMSG0) is the
+most significant among all explanatory variables, the
+valence measures (POSIPER0 and NEGPER0) are not sig￾nificant. Thus, H3 is strongly supported. An important
+managerial value of this finding is that the amount of pre￾release buzz can be a useful indicator of the ultimate box
+office performance. The effectiveness of box office forecast
+models (e.g., Sawhney and Eliashberg 1996) can be
+improved by including actual prerelease WOM information.
+Potential Antecedents of WOM
+As discussed previously, prerelease WOM can be related to
+three groups of factors: movie genres, MPAA ratings, and
+whether major stars are in the cast. Beginning with the
+opening week, WOM can also be related to critical reviews
+and the WOM in the previous week. Because volume is the
+most critical factor that correlates with box office revenue,
+it is the focus of the subsequent analyses. Analyses for the
+valence measures (POSIPERt and NEGPERt
+) were also
+conducted, but they could not be consistently explained by
+various models in almost all the periods. Table 6 summa￾rizes the results.
+All the regressions for prerelease and the eight weeks
+achieved significant model fit. During the prerelease period,
+it appears that action and adventure movies tend to receive
+higher-than-average WOM communication, whereas R￾rated movies tend to receive less. Beginning with the open￾ing week, the only explanatory variable that is consistently
+significant is the volume of WOM in the previous week
+(LNMSGt–1). This shows the carryover effect such that a
+86 / Journal of Marketing, July 2006
+Week (t)
+0 (Pre￾release)
+1 (Open￾ing Week) 2345678
+CONST 3.817
+(.000)**
+.615
+(.680)
+–.243
+(.868)
+1.380
+(.323)
+–.456
+(.838)
+–4.320
+(.164)
+4.086
+(.133)
+4.351
+(.326)
+.066
+(.911)
+GACADV .555
+(.045)**
+–.143
+(.615)
+–.075
+(.764)
+–.448
+(.046)**
+–.152
+(.688)
+.295
+(.444)
+–.181
+(.549)
+.340
+(.467)
+—
+GCOMEDY –.330
+(.279)
+–.358
+(.278)
+.343
+(.231)
+–.633
+(.008)**
+.458
+(.284)
+.136
+(.712)
+.140
+(.734)
+.601
+(.496)
+—
+MPAAPG .668
+(.104)
+–.684
+(.141)
+.343
+(.364)
+.418
+(.192)
+–.303
+(.597)
+.618
+(.258)
+.095
+(.892)
+–1.823
+(.237)
+–.834
+(.197)
+MPAAR –.913
+(.009)**
+–.322
+(.370)
+.753
+(.028)**
+–.346
+(.165)
+.408
+(.377)
+–.047
+(.913)
+–.098
+(.811)
+.225
+(.720)
+–.452
+(.463)
+STAR .408
+(.162)
+.343
+(.269)
+–.109
+(.694)
+.469
+(.068)*
+.136
+(.765)
+–.145
+(.762)
+.806
+(.095)*
+.558
+(.489)
+—
+LNMSGt – 1 — 1.169
+(.000)**
+.929
+(.000)**
+.715
+(.000)**
+.986
+(.000)**
+1.037
+(.000)**
+.625
+(.000)**
+.915
+(.001)**
+.595
+(.031)**
+POSIPERt – 1 — 1.997
+(.125)
+–1.148
+(.309)
+1.149
+(.114)
+.102
+(.917)
+1.984
+(.048)**
+–1.888
+(.014)**
+1.206
+(.340)
+2.067
+(.049)**
+NEGPERt – 1 — 2.405
+(.190)
+–2.085
+(.098)*
+–1.988
+(.008)**
+–.735
+(.602)
+1.889
+(.041)**
+–.698
+(.236)
+2.603
+(.349)
+.512
+(.781)
+LNCRITIC — –.834
+(.132)
+–.115
+(.810)
+–.442
+(.367)
+.039
+(.963)
+.808
+(.476)
+–1.375
+(.203)
+–2.211
+(.275)
+—
+CRPRO — .792
+(.165)
+.302
+(.573)
+.897
+(.038)**
+–.965
+(.214)
+.929
+(.182)
+1.099
+(.220)
+1.759
+(.373)
+—
+Model fit F 
+(p value)
+4.36
+(.004)
+7.53
+(.000)
+9.78
+(.000)
+16.22
+(.000)
+3.69
+(.006)
+5.78
+(.001)
+5.75
+(.003)
+3.41
+(.094)
+2.89
+(.067)
+Adjusted R2 .301 .626 .698 .813 .464 .648 .683 .617 .371
+*p < .10.
+**p < .05.
+Notes: The dependent variable is LNMSGt. p values are in parentheses. In Week 8, movie genre, star power, and critical reviews are excluded
+because of high multicollinearity.
+TABLE 6
+Potential Antecedents of the Volume of WOM
+13Although the existence of movie stars and the measures of
+critical reviews do not significantly predict WOM, there are
+caveats regarding the roles of stars and movie critics. For example,
+some movie stars and critics may be on television or radio shows
+to talk about a to-be-released movie, which may lead to greater
+WOM. Furthermore, some stars may have popular Web sites,
+which also may influence WOM. An indicator variable of star
+power, albeit a typical approach in the literature, may not com￾pletely capture the effects of these scenarios (e.g., whether a par￾ticular movie has been promoted by its stars on popular television
+shows).
+week of active WOM is likely to be followed by another
+week of active WOM. However, consistent patterns linking
+WOM valence in a previous week to WOM volume in the
+current week were not found. Table 6 also indicates that star
+power is insignificant in explaining the volume of WOM
+during the prerelease period and most of the subsequent
+weeks. In addition, WOM is not significantly influenced by
+critical reviews, confirming the previous result that WOM
+and critical reviews are more of complements to each other
+than substitutes.13
+Regarding H4, consistent support was found for the car￾ryover effect. The effects of other factors (e.g., movie genre,
+MPAA ratings) are mixed and mostly insignificant. Man￾agerially speaking, these results point to the challenge that
+studios may face when trying to create and manipulate
+WOM by working on factors such as star power and movie
+genres (Rosen 2000). They also point to the importance of
+managing WOM early on, preferably beginning in the pre￾release period. After WOM is created, a high volume of
+WOM, which is beneficial to sales, tends to positively affect
+the volume of WOM in subsequent periods.
+Summary, Managerial Implications,
+and General Discussion
+This study contributes to the movie-marketing and WOM
+literature by examining movie WOM. Among other things,
+the mechanism through which WOM functions and the
+extent to which WOM helps explain box office sales are
+investigated. The data and analyses show that movie WOM
+is active during a movie’s prerelease period and that WOM
+is more of a complement to other information sources than
+a substitute. Movie audiences tend to hold comparatively
+high expectation before a movie is released but become
+more critical in the opening week. The volume of WOM
+(but not the valence) offers significant explanatory power
+for box office revenue, both in the aggregate and for the
+early weeks, in support of a theory that WOM functions in
+the movie market primarily through an informative effect
+on awareness.
+Word of Mouth for Movies / 87
+The finding that WOM is very active during the pre￾release period implies that at least for entertainment goods,
+such as movies, WOM communication about a to-be￾released new product may not depend on actual experience.
+Many potential users talk about the product on the basis of
+speculations. In this sense, managing buzz should be treated
+as a multidimensional task that extends beyond the new
+product itself. That is, management needs to be conscious
+about additional things that influence speculations, such as
+the firm’s other products (both new and extant), the firm’s
+reputation, various events, and possibly “rumors” that occur
+during the new product development process.
+These findings highlight the need for studio and theater
+managers to observe and respond to WOM communications
+actively, especially during a movie’s early weeks when
+most of the box office revenue is generated. However, what
+ultimately matters is the volume of WOM. It may not be
+critical to track information similar to the valence measures.
+Practically, volume can be measured either directly by a
+precise number, as this study does, or indirectly by proxies,
+such as the degree of public interest a movie receives, how
+widespread the communication occurs across demographic
+groups, and so on. These findings offer considerable sup￾port to the idea that firms should try to create active WOM
+communication among potential users (Godes and Mayzlin
+2004a; Rosen 2000).
+Another important managerial value of these findings is
+that WOM can be a useful measure to help forecast box
+office sales. Among other things, good forecasts help stu￾dios and theaters better plan screening capacity and poten￾tially optimize exhibition contracts. However, it is not the
+purpose of this study to develop a full forecasting system.
+Rather, this study can be used to illustrate how the perfor￾mance of a forecasting model can be improved by including
+actual WOM information. To do so, this study used the set
+of independent variables and adopted the standard
+calibrating-forecasting approach. Because the sample size
+makes it difficult to split the data into an estimation sample
+and a prediction sample, a rotating method was used to con￾duct the calibration and forecasting tasks. Specifically, each
+of the 40 movies is taken in turn as the movie to be pre￾dicted, while the other 39 movies are used in the calibration
+process to generate parameter estimates. The absolute per￾centage errors of the 40 predictions are then averaged as the
+indication of prediction effectiveness. The calibration pre￾diction is conducted for both aggregate box office revenue
+and the opening-week box office revenue. The WOM mea￾sures are included in the proposed model but not in the
+benchmark model. Other independent variables are the
+same as those that appear in Tables 4 and 5.
+This analysis shows that including WOM in the fore￾casting system significantly reduces forecasting errors by
+31% for a movie’s opening week (from a 55% absolute
+forecasting error with the benchmark model to 38% with
+the proposed model) and 23% for the aggregate box office
+revenue (from 61% to 47%). Different from most extant
+studies, these forecasts are made purely on the basis of the
+prerelease information of a new movie. This is probably the
+most difficult forecast task for movies (Sawhney and
+Eliashberg 1996). It is similar to Sawhney and Eliashberg’s
+(1996) BOXMOD-I model when no revenue data for the
+new movie are available and a meta-analysis procedure is
+employed. Sawhney and Eliashberg report an average
+71.1% prediction error for the aggregate box office revenue.
+Although the actual improvement through incorporating
+WOM depends on what forecasting system is eventually
+used, the added value of WOM appears to be significant.
+As in previous studies (Basuroy, Chatterjee, and Ravid
+2003; Eliashberg and Shugan 1997; Godes and Mayzlin
+2004b), the current analysis focuses on statistical correla￾tions between variables and uses these temporal relation￾ships to infer how WOM may influence box office sales.
+Although these correlations offer interesting insights and
+useful managerial implications, further research might
+investigate the degree of causality, perhaps with more disag￾gregated data and different methodologies. In this regard,
+lab experiments could be a useful approach to examine the
+relationships such as those that Figure 2 illustrates.
+Online user-generated information offers unique oppor￾tunities for research in marketing. Such data come in differ￾ent formats, which render them suitable for different
+research purposes. Some data, such as the WOM messages
+used herein, are actual individual postings. Although their
+unstructured nature provides great flexibility for the analy￾sis, coding them can be a difficult task. Other data, such as
+online user ratings, contain less flexibility but make it easier
+to conduct large-scale cross-sectional studies. Another issue
+involved with this growing literature is how similar the
+online information is to what occurs in the physical world.
+There is evidence that the degree of such similarity can be
+very high (Dellarocas, Awad, and Zhang 2004). Neverthe￾less, further research examining the difference between
+online user data and that in the physical context appears to
+have potential.
+REFERENCES
+Ackman, Dan (2001a), “Disaster of the Day,” Forbes, (January
+23), (accessed March 21, 2006), [available at http://www.
+forbes.com/2001/01/23/0123disaster.html].
+——— (2001b), “Movie Theaters of the Absurd,” Forbes, (March
+2), (accessed March 21, 2006), [available at http://www.forbes.
+com/2001/03/02/0302movies.html].
+Ajzen, Icek and Martin Fishbein (1980), Understanding Attitudes
+and Predicting Social Behavior. Englewood Cliffs, NJ: Pren￾tice Hall.
+Anderson, Eugene (1973), “Consumer Dissatisfaction: The Effect
+of Disconfirmed Expectancy on Perceived Product Perfor￾mance,” Journal of Marketing Research, 10 (February), 38–44.
+——— (1998), “Customer Satisfaction and Word of Mouth,”
+Journal of Service Research, 1 (1), 5–17.
+——— and Linda Salisbury (2003), “The Formation of Market￾Level Expectations and Its Covariates,” Journal of Consumer
+Research, 30 (June), 115–24.
+88 / Journal of Marketing, July 2006
+Austin, Bruce (1989), Immediate Seating: A Look at Movie Audi￾ences. Belmont, CA: Wadsworth.
+Banerjee, Abhijit (1992), “A Simple Model of Herd Behavior,”
+Quarterly Journal of Economics, 107 (3), 797–817.
+Basuroy, Suman, Subimal Chatterjee, and S. Ravid (2003), “How
+Critical Are Critical Reviews? The Box Office Effects of Film
+Critics, Star Power, and Budgets,” Journal of Marketing, 67
+(October), 103–117.
+Bayus, Berry (1985), “Word of Mouth: The Indirect Effect of Mar￾keting Efforts,” Journal of Advertising Research, 25 (3), 31–39.
+Bowman, D. and D. Narayandas (2001), “Managing Customer￾Initiated Contacts with Manufactures: The Impact on Share of
+Category Requirements and Word-of-Mouth Behavior,” Jour￾nal of Marketing Research, 38 (August), 281–97.
+Bristor, Julia (1990), “Enhanced Explanation of Word of Mouth
+Communications: The Power of Relationships,” in Research in
+Consumer Behavior, E.C. Hirschman, ed. Greenwich, CT: JAI
+Press, 51–83.
+Brown, Johnson and Peter Reingen (1987), “Social Ties and Word￾of-Mouth Referral Behavior,” Journal of Consumer Research,
+14 (December), 350–62.
+Burzynski, Michael and Dewey Bayer (1977), “The Effect of Posi￾tive and Negative Prior Information on Motion Picture Appre￾ciation,” Journal of Social Psychology, 101, 215–18.
+Chaffee, Steven (1982), “Mass Media and Interpersonal Channels:
+Competitive, Convergent, or Complementary?” in Inter/Media:
+Interpersonal Communication in a Media World, Gary
+Gumpert and Robert Cathcart, eds. New York: Oxford Univer￾sity Press.
+Dellarocas, Chrysanthos, Neveen Awad, and Michael Zhang
+(2004), “Exploring the Value of Online Reviews to Organiza￾tions: Implications for Revenue Forecasting and Planning,”
+working paper, MIT Sloan School of Management.
+De Vany, Arthur and David Walls (1999), “Uncertainty in the
+Movie Industry: Does Star Power Reduce the Terror of the Box
+Office?” Journal of Cultural Economics, 23 (4), 285–318.
+Duan, Wenjing, Bin Gu, and Andrew Whinston (2005), “Do
+Online Reviews Matter? An Empirical Investigation of Panel
+Data,” working paper, Department of Management Science and
+Information Systems, University of Texas at Austin.
+Eagly, Alice, Wendy Wood, and Shelly Chaiken (1978), “Causal
+Inferences about Communicators and Their Effects for Opinion
+Change,” Journal of Personality and Social Psychology, 36
+(April), 425–35.
+Elberse, Anita and Jehoshua Eliashberg (2003), “Demand and
+Supply Dynamics for Sequentially Released Products in Inter￾national Markets: The Case of Motion Pictures,” Marketing
+Science, 22 (3), 329–54.
+Eliashberg, Jehoshua, Jedid-Hah Jonker, Mohanbir Sawhney, and
+Berend Wierenga (2000), “MOVIEMOD: An Implementable
+Decision-Support System for Prerelease Market Evaluation of
+Motion Pictures,” Marketing Science, 19 (3), 226–43.
+——— and Steven Shugan (1997), “Film Critics: Influencers or
+Predictors?” Journal of Marketing, 61 (April), 68–78.
+Faber, Ronald and Thomas O’Guinn (1984), “Effect of Media
+Advertising and Other Sources on Movie Selection,” Journal￾ism Quarterly, 61, 371–77.
+Godes, David and Dina Mayzlin (2004a), “Firm-Created Word-of￾Mouth Communication: A Field-Based Quasi-Experiment,”
+Harvard Business School Working Paper No. 05-023.
+——— and ——— (2004b), “Using Online Conversations to
+Study Word-of-Mouth Communication,” Marketing Science,
+23 (4), 545–60.
+Graser, Marc (2002), “Semel Gives Yahoo! the Business: Internet
+Portal Ratchets Up H’wood Links,” Variety, (August 19–25),
+11.
+Harrison-Walker, L. Jean (2001), “The Measurement of Word-of￾Mouth Communication and an Investigation of Service Quality
+and Customer Commitment as Potential Antecedents,” Journal
+of Services Marketing, 4 (1), 60–75.
+Holbrook, Morris (1999), “Popular Appeal Versus Expert Judg￾ments of Motion Pictures,” Journal of Consumer Research, 26
+(September), 144–55.
+King, Tom (2001), “Will ‘Harry’ Have Legs? After Record Open￾ing, Wizard Falls Off at the Box Office; Trying to Catch R2-
+D2,” The Wall Street Journal, (November 30), W4.
+——— (2003), “Now Playing Somewhere Else: Studios Try to
+Build Buzz by Holding Films Back; in Muncie? Read a Book,”
+The Wall Street Journal, (January 10), W10.
+Krider, Robert and Charles Weinberg (1998), “Competitive
+Dynamics and the Introduction of New Products: The Motion
+Picture Timing Game,” Journal of Marketing Research, 35
+(February), 1–15.
+Lehmann, Donald and Charles Weinberg (2000), “Sales Through
+Sequential Distribution Channels: An Application to Movies
+and Videos,” Journal of Marketing, 64 (July), 18–33.
+Lieberman, Al and Patricia Esgate (2002), The Entertainment
+Marketing Revolution: Bring the Mogul, the Media, and the
+Magic to the World. Upper Saddle River, NJ: Financial Times/
+Prentice Hall.
+Litman, Barry (1983), “Predicting Success of Theatrical Movies:
+An Empirical Study,” Journal of Popular Culture, 16 (Spring),
+159–75.
+Litwak, Mark (1986), Reel Power: The Struggle for Influence and
+Success in the New Hollywood. New York: William Morrow.
+Mahajan, Vijay, Eitan Muller, and Roger Kerin (1984), “Introduc￾tion Strategy for New Products with Positive and Negative
+Word-of-Mouth,” Management Science, 30 (12), 1389–1404.
+Mizerski, Richard (1982), “An Attribution Explanation of the Dis￾proportionate Influence of Unfavorable Information,” Journal
+of Consumer Research, 9 (3), 301–310.
+Motion Picture Association (2003), U.S. Entertainment Industry:
+2003 MPA Market Statistics. Encino, CA: Motion Picture
+Association.
+Murray, Keith (1991), “A Test of Services Marketing Theory:
+Consumer Information Acquisition Activities,” Journal of Mar￾keting, 55 (January), 10–25.
+Neelamegham, Ramya and Pradeep Chintagunta (1999), “A
+Bayesian Model to Forecast New Product Performance in
+Domestic and International Markets,” Marketing Science, 18
+(2), 115–36.
+Oliver, Richard (1980), “Conceptualization and Measurement of
+Disconfirmation Perceptions in the Prediction of Consumer
+Satisfaction,” in Proceedings of Fourth Annual Conference on
+Consumer Satisfaction, Dissatisfaction, and Complaining
+Behavior, H. Hunt and R. Day, eds. Bloomington: Indiana Uni￾versity School of Business.
+Olson, J. and P. Dover (1979), “Disconfirmation of Consumer
+Expectation Through Product Trial,” Journal of Applied Psy￾chology, 64 (April), 179–89.
+Petty, Richard and John Cacioppo (1984), “The Effects of Involve￾ment on Responses to Argument Quantity and Quality: Central
+and Peripheral Routes to Persuasion,” Journal of Personality
+and Social Psychology, 46 (January), 69–81.
+Reddy, Srinivas, Vanitha Swaminathan, and Carol Motley (1998),
+“Examining the Determinants of Broadway Show Success,”
+Journal of Marketing Research, 35 (August), 370–83.
+Reinstein, David and Christopher Snyder (2005), “The Influence
+of Expert Reviews on Consumer Demand for Experience
+Goods: A Case Study of Movie Critics,” Journal of Industrial
+Economics, 53 (1), 27–51.
+Rogers, Everett (1983), Diffusion of Innovations. New York: The
+Free Press.
+Rosen, Emanuel (2000), The Anatomy of Buzz: How to Create
+Word-of-Mouth Marketing. New York: Doubleday.
+Word of Mouth for Movies / 89
+Russell, Laczniak, Thomas DeCarlo, and Sridhar Ramaswami
+(2001), “Consumers’ Responses to Negative Word-of-Mouth
+Communication: An Attribution Theory Perspective,” Journal
+of Consumer Psychology, 11 (1), 57–73.
+Sawhney, Mohanbir S. and Jehoshua Eliashberg (1996), “A Parsi￾monious Model for Forecasting Gross Box-Office Revenues of
+Motion Pictures,” Marketing Science, 15 (2), 113–31.
+Schiffman, Betsy (2001), “Movie Theaters Stuck in Stone Age,”
+Forbes, (September 22), (accessed March 21, 2006), [available
+at http://www.forbes.com/2000/09/23/0923newmedia.html].
+Shugan, Steven (1995), Service Strategy. Homewood, IL: Richard
+D. Irwin.
+Swami, Sanjeev, Jehoshua Eliashberg, and Charles Weinberg
+(1999), “SilverScreener: A Modeling Approach to Movie
+Screens Management,” Marketing Science, 18 (3), 352–72.
+Taylor, John (2003), “Word of Mouth Is Where It’s At,”
+Brandweek, (June 2), 26.
+Van den Bulte, Christophe and Gary Lilien (2001), “Two-Stage
+Partial Observability Models for Innovation Adoption,” work￾ing paper, Wharton School, University of Pennsylvania.
+Vogel, Harold (2001), Entertainment Industry Economics: A
+Guide for Financial Analysis, 5th ed. Cambridge, UK: Cam￾bridge University Press.
+Zufryden, Fred (1996), “Linking Advertising to Box Office Perfor￾mance of New Film Releases: A Marketing Planning
+Approach,” Journal of Advertising Research, 36
+(July–August), 29–41.

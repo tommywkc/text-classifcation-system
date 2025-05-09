@@ -1,0 +1,1174 @@
+How Does Mindfulness Meditation Work?
+Proposing Mechanisms of Action From a
+Conceptual and Neural Perspective
+Britta K. Hölzel1,2, Sara W. Lazar2
+, Tim Gard1,2,
+Zev Schuman-Olivier2
+, David R. Vago3
+, and Ulrich Ott1
+1
+Bender Institute of Neuroimaging, Justus Liebig-University, Giessen, Germany; 2
+Massachusetts General Hospital,
+Harvard Medical School, Boston, MA; and 3
+Brigham and Women’s Hospital, Harvard Medical School, Boston, MA
+Abstract
+Cultivation of mindfulness, the nonjudgmental awareness of experiences in the present moment, produces beneficial effects on well-being and ameliorates psychiatric and stress-related symptoms. Mindfulness meditation has therefore increasingly been incorporated into psychotherapeutic interventions. Although the number of publications in the field has sharply increased over the last two decades, there is a paucity of theoretical reviews that integrate the existing literature into a comprehensive theoretical framework. In this article, we explore several components through which mindfulness meditation exerts its effects: (a) attention regulation, (b) body awareness, (c) emotion regulation (including reappraisal and exposure, extinction, and reconsolidation), and (d) change in perspective on the self. Recent empirical research, including practitioners’ self-reports and experimental data, provides evidence supporting these mechanisms. Functional and structural neuroimaging studies have begun to explore the neuroscientific processes underlying these components. Evidence suggests that mindfulness practice is associated with neuroplastic changes in the anterior cingulate cortex, insula, temporo-parietal junction, fronto-limbic network, and default mode network structures. The authors suggest that the mechanisms described here work synergistically, establishing a process of enhanced self-regulation. Differentiating between these components seems useful to guide future basic research and to specifically target areas of development in the treatment of psychological disorders.
+Keywords
+anxiety disorders, attention, cognition, consciousness, neuroscience, positive psychology, stress disorders
+Mindfulness meditation has been reported to produce beneficial
+effects on a number of psychiatric, functional somatic, and
+stress-related symptoms and has therefore increasingly been
+incorporated into psychotherapeutic programs (cf., Baer, 2003;
+Grossman, Niemann, Schmidt, & Walach, 2004). A large body
+of research documents the efficacy of mindfulness-based interventions in the treatment of a number of clinical disorders,
+including anxiety (Hofmann, Sawyer, Witt, & Oh, 2010;
+Roemer, Orsillo, & Salters-Pedneault, 2008), depression (Hofmann et al., 2010; Teasdale et al., 2000), substance abuse
+(Bowen et al., 2006), eating disorders (Tapper et al., 2009), and
+chronic pain (Grossman, Tiefenthaler-Gilmer, Raysz, & Kesper,
+2007). Furthermore, mindfulness meditation positively influences aspects of physical health, including improved immune
+function (Carlson, Speca, Faris, & Patel, 2007; Davidson et al.,
+2003), reduced blood pressure and cortisol levels (Carlson et al.,
+2007), and increased telomerase activity1
+ (Jacobs et al., 2010).
+Not only has mindfulness successfully been used in the
+treatment of disorders and improvement of health; it has also
+been shown to produce positive effects on psychological wellbeing in healthy participants (Carmody & Baer, 2008; Chiesa &
+Serretti, 2009) and to enhance cognitive functioning (Jha,
+Krompinger, & Baime, 2007; Ortner, Kilner, & Zelazo, 2007;
+Pagnoni & Cekic, 2007; Slagter et al., 2007). Historically, mindfulness is a concept stemming from ancient Buddhist philosophy (Bhikkhu, 2010), and is practiced to achieve enduring
+happiness (Ekman, Davidson, Ricard, & Wallace, 2005) and to
+gain insight into a view of the true nature of existence (Olendzki, 2010).
+Definition of Mindfulness
+In current research contexts, mindfulness is typically defined
+as nonjudgmental attention to experiences in the present
+moment (Kabat-Zinn, 1990). Bishop et al. (2004) suggest a
+two-component model of mindfulness, where the first component is the regulation of attention in order to maintain it on the
+immediate experience, and the second component involves
+approaching one’s experiences with an orientation of curiosity,
+openness, and acceptance, regardless of their valence and
+desirability. Mindfulness is typically cultivated in formal meditation practices, such as sitting meditation, walking meditation, or mindful movements (Kabat-Zinn, 1990). The practice
+of mindfulness meditation encompasses focusing attention on
+the experience of thoughts, emotions, and body sensations,
+simply observing them as they arise and pass away.
+Need for a Theoretical Framework
+It is striking that this seemingly simplistic practice can have
+such a wide range of applications and effects. Along with the
+many positive implications of mindfulness arises the question:
+How does mindfulness work; what are its mechanisms?
+Although there is currently a large body of literature, covering
+a wide range of research, including qualitative research, feasibility trials, controlled clinical trials, behavioral studies, and
+neuroscientific research, there is a relative paucity of theoretical reviews that consolidate the existing literature into a comprehensive theoretical framework.
+Existing research on mindfulness includes a few theoretical
+accounts describing mechanisms of mindfulness meditation
+(see Table 1). Several of these accounts expound on the central
+role of attention in meditation practice (Brown & Ryan, 2003;
+Carmody, 2009; Lutz, Slagter, Dunne, & Davidson, 2008).
+Others have suggested that several components mediate the
+beneficial effects of mindfulness practice. For instance, Shapiro, Carlson, Astin, and Freedman (2006) posit that attention,
+intention, and attitude are the three critical components of
+mindfulness. Intentionally paying attention with a nonjudgmental attitude leads to a significant change in perspective, a
+so-called decentering (Fresco et al., 2007) or reperceiving.
+Brown, Ryan, and Creswell (2007) also describe several processes underlying the beneficial effects of mindfulness,
+including (a) insight, (b) exposure, (c) nonattachment, (d)
+enhanced mind–body functioning, and (e) integrated functioning. Similarly, in her 2003 review, Ruth Baer summarized several mechanisms that may explain how mindfulness skills can
+lead to symptom reduction and behavior change, namely (a)
+exposure, (b) cognitive change, (c) self-management, (d)
+relaxation, and (e) acceptance. A valuable empirical account
+for the description of the facets of mindfulness is the Five
+Facet Mindfulness Questionnaire (Baer, Smith, Hopkins, Krietemeyer, & Toney, 2006), which was developed based on an
+item pool of previously existing mindfulness questionnaires.
+Factor analyses over these items yielded five facets of mindfulness: observing (attending to or noticing internal and external stimuli, such as sensations, emotions, cognitions, sights,
+sounds, and smells); describing (noting or mentally labeling
+these stimuli with words); acting with awareness (attending to
+one’s current actions, as opposed to behaving automatically or
+absentmindedly); nonjudging of inner experience (refraining
+from evaluation of one’s sensations, cognitions, and emotions); and nonreactivity to inner experience (allowing
+thoughts and feelings to come and go, without attention getting caught in them).
+The field has produced a number of studies utilizing psychological scales or behavioral tasks that provide empirical support
+for some of the proposed components. Simultaneously, a growing body of neuroimaging literature begins to describe brain
+activity during the meditative state as well as changes in neural
+structure and function associated with meditation practice. To
+our knowledge, no one has previously tried to consolidate the
+existing empirical literature. Our goal is to consolidate existing
+findings and address several components that have been empirically supported. Furthermore, whereas the previous models
+have described the process of mindfulness almost exclusively
+from a conceptual, psychological perspective, this present
+review will also integrate a neuroscientific perspective. This
+review is meant not as a complete description of the research in
+the field but to stimulate scientific debate.
+In this review, we first describe what we believe to be the
+components of mindfulness meditation. We then discuss how
+these components are integrated during mindfulness meditation and suggest how they might interact with each other during a given situation. Finally, the relationship of self-compassion
+with the components is addressed.
+Components of Mindfulness Meditation
+We believe that an array of distinct but interacting mechanisms
+are at play in producing the benefits of mindfulness meditation
+practice and propose that the combination of the following
+components—some of which have been identified in previous
+accounts—describe much of the mechanism of action through
+which mindfulness works:
+1. Attention regulation
+2. Body awareness
+3. Emotion regulation, including
+a. Reappraisal
+b. Exposure, extinction, and reconsolidation
+4. Change in perspective on the self
+These components interact closely to constitute a process
+of enhanced self-regulation (Carver & Scheier, 2011; Vohs &
+Baumeister, 2004). However, the different components might
+come into play to varying degrees within any specific moment
+during mindfulness meditation. In the following sections, we
+address each of these components individually (see Table 2 for
+a list of the components and their characteristics).
+1. Attention regulation
+Many meditation traditions emphasize the necessity to cultivate attention regulation early in the practice (e.g., samadhi in
+the Theravada Buddhist tradition [Hart, 1987]; samatha in
+Tibetan Buddhist traditions [Lutz, Dunne, & Davidson, 2007];
+or dharana in Indian Yoga traditions [Vishnu Devananda,
+1999]). They often recommend a focused attention meditation
+before moving on to other types of meditations later in the
+learning process, such as those that focus on cultivating positive emotions. In focused attention meditation ( HYPERLINK
+"" \l "bib148" \o "bib148" Lutz, Slagter, et al., 2008), attention
+is supposed to rest on a single object. Whenever the practitioner notices that the mind has wandered off, she or he returns it
+to the chosen object. A typical instruction for a focused attention meditation in the mindfulness meditation tradition is the
+following: “Focus your entire attention on your incoming and
+outgoing breath. Try to sustain your attention there without
+distraction. If you get distracted, calmly return your attention
+to the breath and start again” (Smith & Novak, 2003; p.77).
+Illustrating the effects of repeated practice of focused attention
+meditation, meditators report that the regular practice enables
+them to focus their attention for an extended period of time
+(Barinaga, 2003), and distractions disturb this focus less frequently during formal meditation practice and in everyday
+life. In accordance with such self-reports, a number of studies
+have empirically documented enhanced attentional performance in meditators (e.g., Jha et al., 2007; Slagter et al., 2007;
+Valentine & Sweet, 1999; van den Hurk, Giommi, Gielen,
+Speckens, & Barendregt, 2010).
+Behavioral findings on meditation and executive attention. During focused attention meditation, distracting external events as
+well as memories or thoughts about future events represent conflicts to task goals. These are disregarded while the practitioner
+concentrates on the meditative object (e.g., the breath, body sensations, thoughts, emotions, a mantra, or visualization). Maintaining the focus of attention on a pursued object, while
+disregarding distractions, is referred to as conflict monitoring,
+or executive attention, and is one of the three attention networks
+proposed by Posner and Petersen (1990). One cognitive test that
+specifically measures executive attention is the executive attention task of the Attention Network Test (Fan, McCandliss, Sommer, Raz, & Posner, 2002). Two studies found that experienced
+meditators showed better performance on this executive attention task when compared with nonmeditators, as indicated by
+smaller error scores (Jha et al., 2007; van den Hurk et al., 2010)
+and lower reaction times (Jha et al., 2007). Additionally, a longitudinal study showed that only five days of meditation practice (Integrative Body–Mind Training) led to improvements on
+this test (Tang et al., 2007). Findings of the influence of mindfulness practice on executive attention using the classical Stroop
+task (Stroop, 1935) are mixed. Whereas one study did not find
+effects of an 8-week Mindfulness-Based Stress Reduction
+course on Stroop interference (Anderson, Lau, Segal, & Bishop,
+2007), others using this test found lower Stroop interference in
+experienced meditators compared with controls (Chan & Woollacott, 2007; Moore & Malinowski, 2009) and a reduction in
+Stroop interference following a brief meditation intervention
+(Wenk-Sormaz, 2005).
+Neural mechanism of executive attention. Neuroimaging
+research has established that the anterior cingulate cortex
+(ACC) enables executive attention (van Veen & Carter, 2002)
+by detecting the presence of conflicts emerging from incompatible streams of information processing. During meditation,
+when distracting external events or memories conflict with
+task goals, ACC activation may contribute to the maintenance
+of attention by alerting the systems implementing top-down
+regulation to resolve this conflict (van Veen & Carter, 2002).
+Together with the fronto-insular cortex, the ACC constitutes a
+network that is involved in switching between activations of
+different brain networks, thereby facilitating cognitive control
+(Sridharan, Levitin, & Menon, 2008). Neurons in these brain
+regions have specific properties that enable a rapid relay of
+control signals to multiple areas of the brain (Allman, Watson,
+Tetreault, & Hakeem, 2005) to initiate responses during cognitively demanding tasks (Sridharan et al., 2008).
+Neuroscientific findings on meditation practice. Several neuroscientific studies have reported the ACC to be implicated
+in meditation (Cahn & Polich, 2006). Using functional MRI
+(fMRI), Hölzel et al. (2007) pursued the question of which
+brain region would be distinctly activated when meditators
+performed focused attention meditation. Compared with
+age-, gender-, and education-matched controls, experienced
+meditators showed greater activation in the rostral ACC
+(Hölzel et al., 2007), suggesting an effect of meditation
+practice on ACC activity. A similar effect (greater rostral
+ACC activation in meditators compared with controls) was
+identified when individuals engaged in a mindfulness practice while awaiting unpleasant electric stimulation (Gard
+et al., 2010). Five days of Integrative Body–Mind Training
+may lead to greater activation of the rostral ACC during the
+resting state (Tang et al., 2009). Although ACC activation
+might initially be enhanced when acquiring greater attentional control, it might later decrease with higher levels of
+expertise, when the focus of attention is so steady that monitoring distractions becomes superfluous (Brefczynski-Lewis,
+Lutz, Schaefer, Levinson, & Davidson, 2007). In addition to
+these functional findings, structural MRI data also indicate
+that meditation practice might exert an influence on the ACC.
+Cortical thickness in the dorsal ACC was greater in experienced meditators compared with control subjects in an analysis of brain gray matter (Grant, Courtemanche, Duerden,
+Duncan, & Rainville, 2010), and 11 hr of Integrative Body–
+Mind Training led to an increase in white matter integrity in
+the ACC (Tang et al., 2010). In line with the assumption that
+ACC function is strengthened through concentrative meditation, electroencephalogram data document increased frontal
+midline theta rhythm during meditation (Aftanas & Golocheikine, 2002; Kubota et al., 2001). Frontal midline theta is
+associated with attention demanding tasks and presumably
+reflects ACC (and medial prefrontal cortex) activity (Asada,
+Fukuda, Tsunoda, Yamaguchi, & Tonoike, 1999).
+Clinical relevance. The strengthening of attention regulation
+and accompanying ACC performance through mindfulness
+practice is especially promising for the treatment of disorders
+that suffer from deficiencies in these functions, such as
+attention-deficit/hyperactivity disorder (ADHD; e.g., Passarotti, Sweeney, & Pavuluri, 2010) or bipolar disorder (Fountoulakis, Giannakopoulos, Kovari, & Bouras, 2008). Although
+there is currently insufficient evidence to support the effectiveness of any type of meditation for ADHD (Krisanaprakornkit, Ngamjarus, Witoonchart, & Piyavhatkul, 2010),
+initial feasibility studies have shown promising effects on
+improvements in attention (Zylowska et al., 2008). Bipolar
+disorder is also associated with impairments in sustained
+attention and executive function, as has been established by a
+large number of empirical investigations (Ancin et al., 2010;
+Clark, Iversen, & Goodwin, 2002; Kolur, Reddy, John, Kandavel, & Jain, 2006; Kravariti et al., 2009; Maalouf et al.,
+2010). Neuroanatomical models of bipolar disorder propose a
+key role of the ACC, and a meta-analysis has confirmed volume changes in the ACC as well as state-dependent alterations
+in resting state activity in this region (Fountoulakis et al.,
+2008). Furthermore, ACC activation decreases during cognitive tasks in bipolar patients (Gruber, Rogowska, & YurgelunTodd, 2004). Mindfulness meditation practice might therefore
+be beneficial to ameliorate these deficits in cognitive functioning and accompanying ACC function by strengthening these
+skills in bipolar patients (Stange et al., in press). In line with
+this hypothesis, a few pilot studies have shown beneficial
+effects on symptoms in patients with bipolar disorder (Deckersbach et al., in press; Miklowitz et al., 2009; Williams et al.,
+2008). However, further research is needed to assess the effectiveness of mindfulness-based treatments on attention regulation in these disorders.
+Effects of meditation practice on further components of attention. Aside from the documented improvements in executive
+attention through mindfulness, effects have also been reported
+on other attention capacities. Within the framework of the network components described by Posner and Petersen (1990),
+enhanced performance in “orienting” (directing and limiting
+attention to a subset of possible inputs) has been found following an 8-week mindfulness-based stress reduction course (Jha et
+al., 2007) and in experienced meditators, as compared with controls (van den Hurk et al., 2010). An improvement in “alerting”
+(achieving and maintaining a vigilant state of preparedness) was
+found in experienced meditators following a 1-month mindfulness retreat (Jha et al., 2007), as well as a 3-month samatha
+retreat (MacLean et al., 2010). At a neurobiological level, these
+findings may relate to functional changes in the dorsal and ventral attention systems (Corbetta & Shulman, 2002; Fox, Corbetta, Snyder, Vincent, & Raichle, 2006). These data suggest
+that early stages of mindfulness practice (represented by a short
+mindfulness course) may lead to improvement in the function of
+the dorsal attention system involved in orienting, and more
+intensive open monitoring meditation on a 1-month retreat may
+additionally result in improvements in the function of the ventral attention system involved in alerting.
+Other types of attention tests have shown that 3 months of
+intensive mindfulness meditation lead to a smaller attentional
+blink effect (a lapse in attention following a stimulus within a
+rapid stream of presented stimuli) and modified distribution of
+brain resources (Slagter et al., 2007; also see van Leeuwen,
+Willer, & Melloni, 2009). Varying meditation practices will
+differentially affect these specific attentional components (see
+Lutz, Slagter, et al., 2008, for a review of focused attention
+versus open monitoring meditation). Future research is necessary to assess the impact of different types of meditation practice on these other attentional components.
+Attention regulation—in particular conflict monitoring—
+seems to be an important mechanism that is often developed
+early in mindfulness practice. A sufficient degree of attention
+regulation is necessary in order to stay engaged in meditation,
+as opposed to drifting off into day dreaming. Thus, successful
+attention regulation might be a building block for practitioners
+to also benefit from the other mechanisms of mindfulness
+practice, which will be described below. This connection
+between attention regulation and other mechanisms should be
+tested in future research.
+2. Body awareness
+Body awareness can be understood as the ability to notice
+subtle bodily sensations (Mehling et al., 2009). In mindfulness
+practice, the focus of attention is usually an object of internal
+experience: sensory experiences of breathing, sensory experiences related to emotions, or other body sensations. According
+to Theravadan interpretations of Buddhist teachings, awareness of the body was taught as the first frame of reference
+(foundation of mindfulness). In Thanissaro Bhikkhu’s translation of the Satipatthana Sutta (Bhikkhu, 2010), the Buddha
+guides the monks with the following meditation instructions:
+In this way he [the monk] remains focused internally on the
+body in and of itself, or externally on the body in and of itself,
+or both internally and externally on the body in and of itself.
+Or he remains focused on the phenomenon of origination with
+regard to the body, on the phenomenon of passing away with
+regard to the body, or on the phenomenon of origination and
+passing away with regard to the body. Or his mindfulness that
+“There is a body” is maintained to the extent of knowledge
+and remembrance. And he remains independent, unsustained
+by (not clinging to) anything in the world. This is how a monk
+remains focused on the body in and of itself.
+Self-report findings. Practitioners often self-report that the
+practice of attending to body sensations results in an enhanced
+awareness of bodily states and greater perceptual clarity of
+subtle interoception. In qualitative interviews, 10 experienced
+mindfulness meditators were asked what changes they experienced in their lives since they had begun meditating. Seven of
+the 10 meditators spontaneously reported that they noticed a
+more differentiated experience of body sensations, and four of
+them reported greater emotional awareness (Hölzel, Ott, Hempel, & Stark, 2006). Participants in a mindfulness-based stress
+reduction course further illustrate self-reported changes in
+body awareness, as measured by the Five Facet Mindfulness
+Questionnaire. Body awareness is represented in items of the
+Observe subscale of the questionnaire, which covers the
+awareness of body sensations (e.g., Item 1: “When I’m walking, I deliberately notice the sensations of my body moving”),
+hearing, smelling, seeing, interoceptions, thoughts, and emotions (e.g., Item 11: “I notice how foods and drinks affect my
+thoughts, bodily sensations, and emotions”). Participation in
+the mindfulness-based stress reduction course resulted in large
+increases in scores on this scale (Carmody & Baer, 2008).
+Behavioral findings. Although meditation practitioners report
+improved capability for body awareness, to our knowledge
+there has been no empirical evidence to verify these claims. In
+fact, studies that tested this claim by assessing performance
+on a heartbeat detection task, a standard measure of resting
+interoceptive awareness, found no evidence that meditators
+had superior performance compared with nonmeditators
+(Khalsa et al., 2008; Nielsen & Kaszniak, 2006). However,
+awareness of heartbeat sensations is not emphasized during
+mindfulness practice and thus may not be the best index of the
+awareness cultivated by the practice of meditation. Further
+studies are needed that test other types of body awareness,
+such as tactile acuity, which has been shown to be superior in
+experienced Tai Chi practitioners compared with matched
+controls (Kerr et al., 2008).
+Neuroscientific findings: Functional neuroimaging. A number of
+findings from the mindfulness neuroscience literature point to
+changes in the function and structure of brain regions related
+to body awareness. The insula is commonly activated during
+tasks of interoceptive awareness (Craig, 2003), and its local
+gray matter volume correlates with interoceptive accuracy and
+visceral awareness (Critchley, Wiens, Rotshtein, Ohman, &
+Dolan, 2004). Insula activation has been found to be increased
+in individuals after a mindfulness-based stress reduction
+course (compared with individuals who had not practiced
+mindfulness) when they focused on their momentary experience (i.e., employed an experiential focus; Farb et al., 2007).
+This study also found increased activation of the secondary
+somatosensory area, which is relevant for the processing of
+exteroceptive sensory events. In another study, a group of participants that had undergone mindfulness training showed
+greater activation of the right insula when being presented
+with sad movie clips (Farb et al., 2010). Further neuroscientific evidence along the same lines comes from studies on
+mindfulness in the context of pain. When presented with
+unpleasant stimuli during a mindful state, mindfulness meditators show stronger brain activation in the (posterior) insula and
+secondary somatosensory cortex (Gard et al., 2010). Similarly,
+mindfulness meditators more robustly activated the left anterior, posterior, and mid-insula as well as the thalamus (Grant,
+Courtemanche, & Rainville, 2010). The enhanced sensory
+processing has been suggested to represent increased bottomup processing of the stimulus, that is, awareness of the actual
+sensation of the stimulus as it is.
+Neuroscientific findings: Structural neuroimaging. Two crosssectional studies comparing the gray matter morphometry of
+the brains of experienced meditators and controls showed that
+meditators had greater cortical thickness (Lazar et al., 2005)
+and greater gray matter concentration (Hölzel et al., 2008) in
+the right anterior insula. Although 8 weeks of mindfulness
+practice did not reveal changes in gray matter concentration in
+the insula (Hölzel et al., 2011), the same study did reveal that
+8 weeks of practice led to increases in gray matter concentration in the temporo-parietal junction. It has been suggested
+that the temporo-parietal junction is a crucial structure for
+mediating the first-person perspective of bodily states (Blanke
+et al., 2005), or embodiment (Arzy, Thut, Mohr, Michel, &
+Blanke, 2006), and that impaired processing at the temporoparietal junction may lead to the pathological experience of
+the self, such as out-of-body experiences (Blanke & Arzy,
+2005). Morphological changes in the temporo-parietal junction might be associated with an increased awareness of the
+experience of oneself within the body. Such changes seem to
+correspond with translations of meditation instructions
+ascribed to the historical Buddha (Bhikkhu, 2010): “His mindfulness that ‘There is a body’ is maintained to the extent of
+knowledge and remembrance.”
+Body awareness and emotion regulation. Body sensations
+have been ascribed a crucial role in the conscious experience
+of emotions (feelings), not only historically (James, 1884), but
+also currently (Bechara & Naqvi, 2004; Damasio, 1999, 2003).
+An increased awareness of the body’s response to an emotional stimulus might thus lead to greater awareness of one’s
+own emotional life; in turn, an awareness of one’s emotions is
+a precondition for being able to regulate those emotions. Helping individuals increase their body awareness can therefore be
+considered a relevant aspect in the treatment of psychological
+disorders. For example, a lack of awareness of internal experience—along with problems in emotion regulation—is a crucial problem for individuals with borderline personality
+disorder, and helping patients increase their internal awareness
+might be one key element in its treatment (Linehan, Armstrong, Suarez, Allmon, & Heard, 1991; Wupperman, Neumann, & Axelrod, 2008). Furthermore, the increase of body
+awareness is also relevant in the treatment of eating disorders
+(Hill, Craighead, & Safer, 2011) as well as substance abuse
+disorders. In a pilot study of 16 heroin users in early recovery,
+high levels of the Observe subscale of the Five Facet Mindfulness Questionnaire were associated with decreased heroin use
+among those at high risk for relapse (Schuman-Olivier, Albanese, Carlini, & Shaffer, 2011), suggesting a role for body
+awareness in the recovery process.
+Body awareness and empathy. Internal awareness of one’s
+own experience has also been suggested to be an important precondition for empathic responses. Accurate observations of the
+self are required for the appropriate understanding of others
+(Decety & Jackson, 2004). Self-report studies provide empirical
+support for the existence of this relationship. A higher level of
+mindful observation, as assessed with the Observe scale of the
+Kentucky Inventory of Mindfulness Skills (Baer, Smith, &
+Allen, 2004), has been found to be associated with more engagement in empathy (Dekeyser, Raes, Leijssen, Leysen, & Dewulf,
+2008), as assessed with the Interpersonal Reactivity Index
+(Davis, 1980). Neuroscientific research shows that a subset of
+brain regions (namely, the insula and temporo-parietal junction)
+is impacted both in awareness of one’s own body sensations and
+in social cognition and empathic responses (Singer et al., 2004).
+Enhanced function of these structures following mindfulness
+training might therefore also correspond to improved empathic
+responses and compassion attributed to meditation training
+(Shapiro, Schwartz, & Bonner, 1998). Supporting this assumption, research has found that Tibetan monks with over 10,000 hr
+of meditation experience showed greater activation of both
+regions during compassion meditation (a meditation that aims at
+cultivating feelings of empathy toward the suffering of other
+beings and the wish to alleviate their suffering) while they were
+presented with auditory stimuli of people suffering (Lutz, Brefczynski-Lewis, Johnstone, & Davidson, 2008).
+To summarize, body sensations are a common object of
+attention during mindfulness meditation, and practitioners
+report improved body awareness. Although there have been no
+objective behavioral data supporting the increased awareness,
+neuroscientific data on mindfulness practice point to the modification of brain regions involved in first-person conscious
+experience of body awareness. The enhancement of body
+awareness might have relevance for affect regulation and
+empathic processes and thus may be particularly relevant in
+the mindfulness-based treatment of patients with such deficits. 
+Ongoing attempts to advance the development of instruments
+for the valid assessment of body awareness (Mehling et al.,
+2009) will help to further illuminate this connection.
+3. Emotion regulation
+In this section, we first describe the general findings regarding the effects of mindfulness on emotion regulation. Then
+we focus on two different emotion regulation strategies that
+seem to be involved in mindfulness, namely, reappraisal and
+extinction.
+Role of emotion regulation in meditation practice. A growing
+body of literature suggests that mindfulness practice results in
+improvements in emotion regulation. Emotion regulation
+refers to the alteration of ongoing emotional responses through
+the action of regulatory processes (Ochsner & Gross, 2005). In
+Theravadan translations of Buddhist teachings, the alteration
+of emotional responses is addressed in the Satipatthana Sutta
+in terms of the overcoming of sorrow and distress as part of
+meditation practice:
+This is the direct path for the purification of beings, for
+the overcoming of sorrow and lamentation, for the disappearance of pain and distress, for the attainment of the
+right method, and for the realization of Unbinding. . . . He
+[the monk] remains focused on feelings . . . mind . . .
+mental qualities in and of themselves—ardent, alert, and
+mindful—putting aside greed and distress with reference
+to the world. (Bhikkhu, 2010)
+Behavioral and peripheral physiological finding. Studies
+from the field of mindfulness research have addressed
+improvements in emotion regulation through a variety of
+approaches, including experimental, self-report, peripheral
+physiological, and neuroimaging data. Healthy novices
+enrolled in a 7-week mindfulness training program showed a
+reduction in emotional interference (assessed as the delay in
+reaction time after being presented with affective versus neutral pictures) compared with those who followed a relaxation
+meditation protocol and those in a wait-list control group
+(Ortner et al., 2007). Both the mindfulness and relaxation
+meditation groups also displayed significant reductions in
+physiological reactivity during the task. Furthermore, in a
+group of long-term practitioners, participants with more mindfulness meditation experience showed less emotional interference than did less experienced practitioners. Studies using
+self-report data from healthy individuals have shown that
+mindfulness meditation decreased negative mood states (Jha,
+Stanley, Kiyonaga, Wong, & Gelfand, 2010), improved positive mood states, and reduced distractive and ruminative
+thoughts and behaviors (Jain et al., 2007). A questionnaire
+study investigating the immediate effects of brief (15-min)
+stress management interventions found that mindful breathing
+may help to reduce reactivity to repetitive thoughts (Feldman,
+Greeson, & Senville, 2010).
+Physiological studies also support the proposition that
+meditation training leads to decreased emotional reactivity
+and facilitates a return to emotional baseline after reactivity.
+For example, experienced mindfulness meditators have
+shown a faster decrease in skin conductance in response to
+aversive stimuli (Goleman & Schwartz, 1976), as well as less
+enhancement of the startle response by aversive stimuli
+(Zeidler, 2007). An electroencephalogram study found that
+mindfulness-based stress reduction training led to increases in
+left-sided anterior brain activation after the course compared
+with a wait-list control group (Davidson et al., 2003). This pattern of lateralization has previously been associated with the
+experience of positive emotions (Davidson, 1992). Similarly,
+stronger relative left prefrontal activation was also recently
+found as a state effect in previously depressed individuals following a short practice of mindful breathing and loving kindness meditation (Barnhofer, Chittka, Nightingale, Visser, &
+Crane, 2010). These findings support the proposition that
+mindfulness practice has an effect on the physiological aspects
+of positive emotions and thus positively influences emotional
+processing.
+Neural mechanisms of emotion regulation. During emotion regulation, prefrontal control systems modulate emotiongenerative systems, such as the amygdala, which is responsible
+for the detection of affectively arousing stimuli (Ochsner &
+Gross, 2005). More specifically, these prefrontal structures
+include dorsal regions of the lateral prefrontal cortex (PFC)
+that have been implicated in selective attention and working
+memory; ventral parts of the PFC implicated in response inhibition; the ACC, which is involved in monitoring control processes; and the dorso-medial PFC implicated in monitoring
+one’s affective state (Modinos, Ormel, & Aleman, 2010; Ochsner & Gross, 2008). A typical pattern detected when individuals deliberately regulate affective responses is increased
+activation within the PFC and decreased activation in the
+amygdala (Beauregard, Levesque, & Bourgouin, 2001; Harenski & Hamann, 2006; Schaefer et al., 2002), suggesting that
+PFC projections to the amygdala exert an inhibitory top-down
+influence (Banks, Eddy, Angstadt, Nathan, & Phan, 2007;
+Davidson, Jackson, & Kalin, 2000).2
+Psychological disorders and emotion regulation. A variety
+of psychological disorders are associated with reduced emotion regulation capacity (Cicchetti, Ackerman, & Izard, 1995;
+Davidson, 2000; Gross, 1998; Hayes, Wilson, Gifford, Follette, & Strosahl, 1996; Mennin, Heimberg, Turk, & Fresco,
+2002). Disorders characterized by a deficit in emotion regulation are frequently associated with dysfunction in the frontallimbic network, that is, reduced prefrontal activation and
+exaggerated amygdala activation (e.g., depression, H. C.
+Abercrombie et al., 1998; borderline personality disorder, Silbersweig et al., 2007; bipolar disorder, Pavuluri, O’Connor,
+Harral, & Sweeney, 2007; social phobia, Phan, Fitzgerald,
+Nathan, & Tancer, 2006; obsessive-compulsive disorder,
+Breiter & Rauch, 1996; posttraumatic stress disorder, Shin et al.,
+2005; impulsive aggression, Coccaro, McCloskey, Fitzgerald, &
+Phan, 2007; addiction, Bechara, 2005; generalized anxiety, Monk
+et al., 2008; and trait anxiety, Etkin et al., 2004).
+Neuroscientific findings on mindfulness and emotion regulation. In contrast to psychiatric disorders that are characterized by suboptimal or deficient emotion regulatory responses
+and corresponding abnormalities in brain activation patterns, a
+few neuroimaging studies have found increased prefrontal
+activation and improved prefrontal control over amygdala
+responses in association with mindfulness. The earliest evidence for the neurophysiological basis of differences in emotion regulation according to dispositional levels of mindfulness
+was found in a study that investigated the effect of dispositional (trait) mindfulness on brain activation while healthy
+participants labeled the affect of emotional facial expressions
+(Creswell, Way, Eisenberger, & Lieberman, 2007). Higher dispositional mindfulness, as measured by the Mindful Attention
+Awareness Scale, predicted (a) increased activation at multiple
+sites of the prefrontal cortex (including the ventromedial PFC,
+medial PFC, and ventrolateral PFC), (b) reduced amygdala
+activity, and (c) a stronger inhibitory association between
+amygdala activity and regions of the PFC.
+Although the above mentioned study investigated dispositional mindfulness in individuals without any mindfulness
+training, other studies have reported evidence that mindfulness meditation involves activation of brain regions relevant
+for emotion regulation, and thus activation of these regions
+might be modified through mindfulness practice. During
+mindfulness meditation, experienced mindfulness meditators
+show greater activation in the dorso-medial PFC and rostral
+ACC compared with nonmeditators (Hölzel et al., 2007). After
+participants completed an 8-week mindfulness-based stress
+reduction course, Farb et al. (2007) found increased activity in
+participants’ ventrolateral PFC, which the authors interpreted
+as augmented inhibitory control. Following participation in a
+mindfulness-based stress reduction course, social anxiety
+patients presented with negative self-beliefs showed a quicker
+decrease of activation in the amygdala as compared with measures taken before course completion (Goldin & Gross, 2010).
+The observed improvements in emotion regulation associated with mindfulness practice likely underlie many of the positive effects of mindfulness practice on mental health. Indeed,
+improved emotion regulation underlies the beneficial effects of
+mindfulness practice on stress reduction (Garland, Gaylord, &
+Fredrickson, 2011) and on reductions of depressive symptoms
+(Shahar, Britton, Sbarra, Figueredo, & Bootzin, 2010).
+Different strategies of emotion regulation. Although it
+seems well established that mindfulness has positive effects on
+emotion regulation, the exact processes underlying these
+improvements seem less clear. Emotion regulation is an
+umbrella term for a wide array of strategies for altering emotional responses. Here, we will consider some emotion
+regulation strategies that might be influenced by mindfulness
+practice.
+There are several proposed classifications for different
+kinds of emotion regulation (Ochsner & Gross, 2005; Parkinson & Totterdell, 1999). Ochsner and Gross (2005) have suggested a distinction between behavioral regulation (e.g.,
+suppressing expressive behavior) and cognitive regulation.
+Cognitive regulation can rely on attentional control (e.g.,
+selective inattention to emotional stimuli, performing distracting secondary tasks) or on cognitive change. Cognitive change
+strategies include the controlled regulation of an ongoing
+emotional response, such as reappraisal (i.e., reinterpreting
+the meaning of a stimulus to change one’s emotional response
+to it) and extinction (stimulus-response reversal). As discussed
+in Section 1, attentional control plays a crucial role in mindfulness meditation. Whereas typical contemporary descriptions
+regard attentional control in emotion regulation as adaptive
+when attention is directed away from emotionally distressing
+material, mindfulness usually involves bringing attention to
+the stimulus. Keeping attention on an emotional reaction leads
+to a situation of exposure with a subsequent extinction process. Extinction plays a crucial role in producing the beneficial
+effects of mindfulness meditation and will be discussed in
+detail below. The following section explores the role of
+reappraisal.
+Reappraisal. Reappraisal has been suggested to be one of the
+ways in which emotion gets regulated during mindfulness.
+Garland et al. (2011) described mindful emotion regulation as
+“positive reappraisal,” or the adaptive process through which
+stressful events are reconstrued as beneficial, meaningful, or
+benign (e.g., thinking that one will learn something from a difficult situation). A very recent self-report study showed that
+mindfulness practice leads to increases in positive reappraisal
+and that these increases mediate an improvement in stress levels (Garland et al., 2011).
+Neuroscientific findings. Cognitive reappraisal of aversive
+stimuli has been found to coincide with activity in the dorsolateral PFC, orbitofrontal PFC, and ACC (Eippert et al., 2007;
+Ochsner, Bunge, Gross, & Gabrieli, 2002; Ochsner et al.,
+2004), and dorsal PFC activity has been found to go along
+with reappraisal success (Modinos et al., 2010; Wager, Davidson, Hughes, Lindquist, & Ochsner, 2008). Thus, whereas
+extinction processes may depend more upon ventral frontal
+systems (such as the ventromedial PFC) that are directly connected with the subcortical systems (see Exposure, extinction,
+and reconsolidation for details), reappraisal may depend more
+on dorsal frontal systems (Ochsner & Gross, 2008).
+To investigate the neural correlates of dispositional mindfulness in the context of reappraisal, Modinos et al. (2010)
+assessed fMRI study participants’ individual differences in
+dispositional mindfulness with the Kentucky Inventory of
+Mindfulness Skills and asked the participants to either attend
+to or reappraise negative pictures. Findings showed that levels 
+of dispositional mindfulness were positively correlated with
+activations in the left and right dorsomedial PFC during the
+reappraisal condition. Therefore, trait mindfulness seems to be
+positively associated not only with reappraisal success but
+also with increased activation in brain regions that support this
+kind of emotion regulation.
+Does mindfulness involve reappraisal or nonappraisal?
+Although the above findings suggest increased “reappraisal”
+related to mindfulness (Garland et al., 2011), there also seems
+to be some inconsistency in the literature. Other work has
+identified decreased cognitive control associated with mindfulness meditation, interpreted as nonappraisal. As mentioned
+earlier in the section on body awareness, experienced meditators, when presented with unpleasant or painful stimuli during
+a mindful state (Gard et al., 2010) or a baseline state (Grant,
+Courtemanche, & Rainville, 2011) showed enhanced sensory
+processing, that is, increased bottom-up processing of the
+stimulus. At the same time, decreased prefrontal activation
+was observed in meditators in both studies when they were
+presented with the painful stimuli. These findings were
+explained with a decrease in top-down control, representing a
+lack of reappraisal.
+This discrepancy brings to light a question: Does emotion
+regulation during mindfulness involve cognitive control (and
+corresponding prefrontal engagement), or is it characterized
+instead by its absence? Whereas the acceptance of one’s emotional response is characterized by the absence of active cognitive control over the emotional reaction, bringing mindful
+awareness to emotional responses might initially require some
+cognitive control, in order to overcome habitual ways of internally reacting to one’s emotions. Although currently speculative, it seems possible that the degree of meditation expertise
+of the individual might be relevant when considering the question of whether mindfulness involves cognitive control or its
+absence. Whereas beginners might require more active cognitive regulation in order to approach ongoing emotional reactions in a different way and might therefore show greater
+prefrontal activation, expert meditators might not employ this
+prefrontal control. Rather, they might use different strategies;
+they may have automated an accepting stance toward their
+experience so they no longer require cognitive control efforts,
+and they could have different baseline blood flow as a consequence of plastic processes. A similar interpretation has previously been suggested by Brefczynski-Lewis et al. (2007) in
+regard to attentional control.
+To summarize, several studies have demonstrated improvements in emotion regulation associated with mindfulness. Psychological disorders characterized by problems in emotion
+regulation, such as mood disorders, anxiety disorders, or borderline personality disorder, can benefit from the enhancement
+of emotion regulation capacities. Different emotion regulation
+strategies might show improvements following mindfulness
+practice. Some studies have conceptualized the improved
+emotion regulation associated with mindfulness practice as
+“positive reappraisal,” and correspondingly, studies find
+enhanced brain activity in multiple prefrontal regions involved
+in cognitive change strategies. However, other studies have
+conceptualized the changes as “nonappraisal” and have identified decreased brain activity in prefrontal regions. Further
+research is needed to test the hypothesis that the amount of
+required prefrontal control decreases with increased expertise.
+In the following section, we will turn toward exposure, extinction, and reconsolidation as a further mechanism of action of
+mindfulness meditation.
+Exposure, extinction, and reconsolidation. During mindfulness, practitioners expose themselves to whatever is present
+in the field of awareness, including external stimuli as well as
+body sensations and emotional experiences. They let themselves be affected by the experience, refraining from engaging
+in internal reactivity toward it, and instead bringing acceptance to bodily and affective responses (Hart, 1987). Practitioners are instructed to meet unpleasant emotions (such as fear,
+sadness, anger, and aversion) by turning towards them, rather
+than turning away (Santorelli, 2000). Those people who are
+new to meditation often initially find this process counterintuitive, but many practitioners discover that the unpleasant emotions pass away and a sense of safety or well-being can be
+experienced in their place.
+Parallels between the process described here and exposure
+therapy are evident. Exposure therapy is a highly effective
+behavioral therapy technique for reducing fear and anxiety
+responses (Chambless & Ollendick, 2001). Its core element is
+to expose patients to fear-provoking stimuli and prevent their
+usual response in order for them to extinguish the fear response
+and to instead acquire a sense of safety in the presence of the
+formerly feared stimuli (Öst, 1997). Clinical studies on exposure therapy show that access to safety behaviors can interfere
+with the beneficial effects of an exposure situation (Lovibond,
+Mitchell, Minard, Brady, & Menzies, 2009; Salkovskis, Clark,
+Hackmann, Wells, & Gelder, 1999; Wells et al., 1995). Safety
+behaviors include not only overt behavior (such as avoiding
+eye contact in social phobia) but also cognitive avoidance.
+Mindfulness meditation includes refraining from engaging in
+cognitive avoidance or other safety behaviors by using
+enhanced attention regulation skills, thereby maximizing the
+exposure to the experienced emotion.
+Additionally, meditation is often associated with high levels of relaxation in the form of increased parasympathetic tone
+and decreased sympathetic activity (Benson, 2000). Peripheral
+physiological changes have been observed with some consistency (but see Shapiro, 1982), including decreased heart rate
+(Zeidan, Johnson, Gordon, & Goolkasian, 2010), decreased
+blood pressure (de la Fuente, Franco, & Salvator, 2010),
+decreased cortisol levels (Carlson et al., 2007), decreased
+breathing rate (Lazar et al., 2005), lowered oxygen and carbon
+dioxide consumption (Young & Taylor, 1998), decreased skin
+conductance response (Austin, 2006), and decreased muscle
+tension (Benson, 2000). Since extinction mechanisms are
+thought to be supported by the experience of a state of relaxation while the individual encounters the feared stimuli
+(Wolpe, 1958), the relaxation component of meditation might
+serve to maximize the effects of the extinction process.
+In the Five Facet Mindfulness Questionnaire, the capacity
+to expose oneself to internal experience without reactivity is
+captured in the Non-Reactivity to Inner Experience Scale.
+Example items are “In difficult situations, I can pause without
+immediately reacting” (Item 21), or “When I have distressing
+thoughts or images I am able just to notice them without reacting” (Item 29). With completion of a mindfulness-based stress
+reduction course, scores on this scale increase with large effect
+sizes (Carmody & Baer, 2008), corroborating the theory that
+mindfulness practice leads to the self-perception of decreased
+reactivity. This likely is a mechanism for facilitating
+exposure.
+Fear conditioning, extinction, and reconsolidation. The process of fear extinction has been studied extensively in the context of conditioned fear. Fear conditioning is a learning process
+in which a neutral conditioned stimulus (e.g., a tone) is paired
+with an aversive unconditioned stimulus (e.g., a shock). After a
+few pairings, the presentation of the conditioned stimulus comes
+to also elicit various fear responses (e.g., freezing in animals;
+sympathetic arousal in humans). Repeated presentations of the
+conditioned stimulus in the absence of the unconditioned stimulus result in the extinction of the conditioned responses. Extinction does not erase the initial association between conditioned
+and unconditioned stimuli but is thought to form a new memory
+trace (Quirk, 2002; Rescorla, 2001) or reconsolidate the old
+memory with new contextual associations (Inda, Muravieva, &
+Alberini, 2011; Nader & Einarsson, 2010; Rossato, Bevilaqua,
+Izquierdo, Medina, & Cammarota, 2010). After extinction training, extinction memory is thought to compete with conditioned
+memory for control of fear expression (Myers & Davis, 2007).
+Recent research has shown that successful extinction memory
+reliably differentiates healthy from pathological conditions
+(Holt et al., 2009; Milad et al., 2008). Extinction learning and its
+retention may thus be a critical process in the transformation of
+maladaptive states. It allows individuals to learn not to have a
+fear response to neutral stimuli, when there is no adaptive function for the fear response. Rather, individuals can flexibly elicit
+other more adaptive emotional and behavioral responses.
+Neural mechanisms of fear extinction and extinction
+retention. Recent fMRI research on fear conditioning has
+identified a network of brain regions that are crucial for the
+extinction of conditioned fear responses and its retention. As
+outlined below, this network seems to strengthen through
+mindfulness practice. The ventromedial prefrontal cortex
+(vmPFC) has been shown to be important for the successful
+recall of the extinction (Milad & Quirk, 2002; Morgan,
+Romanski, & LeDoux, 1993; Quirk, Russo, Barron, & Lebron,
+2000), with the magnitude of vmPFC activation (Milad et al.,
+2007) and the cortical thickness of the vmPFC (Milad et al.,
+2005) positively correlated with extinction recall. In addition,
+hippocampal activation has also been found to be involved in
+fear extinction recall. Functional connectivity analysis reveals
+that the vmPFC and hippocampus work in concert during
+extinction recall to inhibit fear, suggesting that they comprise
+a network that mediates the expression of extinction memory
+in the appropriate context (Milad et al., 2007). Hippocampal
+activation during extinction recall is likely related to signaling
+the extinguished context (contextual safety; Corcoran, Desmond, Frey, & Maren, 2005; Corcoran & Maren, 2001). The
+amygdala has been implicated in both human and animal studies as playing a crucial role during the acquisition and expression of conditioned fear (Davis & Whalen, 2001; LeDoux,
+2000; Pare, Quirk, & Ledoux, 2004; Phelps & LeDoux, 2005),
+including the detection of stressful and threatening stimuli and
+the initiation of adaptive coping responses (Hasler et al.,
+2007). When individuals regulate their emotions, the amygdala is thought to be down-regulated by the vmPFC and hippocampus (Banks et al., 2007; Davidson et al., 2000; Milad,
+Rauch, Pitman, & Quirk, 2006), both of which have extensive
+connections with the amygdala. This inhibition of the amygdala serves to suppress fear (Milad et al., 2006; Rauch, Shin,
+& Phelps, 2006), thereby allowing control over behavioral
+reactions to emotions (Price, 2005). Deficits in fear extinction
+are thought to be related to a number of psychiatric disorders,
+and neuroimaging studies have shown that the aforementioned
+structures are dysfunctional in several psychiatric disorders,
+such as posttraumatic stress disorder (Milad et al., 2009),
+schizophrenia (Holt et al., 2009), and depression (Anand et al.,
+2005).
+Effects of meditation practice on the neural network
+underlying extinction. There is recent evidence from anatomical MRI studies that the aforementioned brain regions
+show structural changes following mindfulness meditation
+training. Cross-sectional studies comparing mindfulness meditators and nonmeditators found that meditators showed
+greater gray matter concentration in the hippocampus (Hölzel
+et al., 2008; Luders, Toga, Lepore, & Gaser, 2009). Furthermore, Hölzel et al. (2011) recently observed that structural
+changes in the hippocampus were detectable within a period
+of only 8 weeks in participants that underwent mindfulnessbased stress reduction, and Hölzel et al. (2008) found that
+cumulative hours of meditation training were positively
+correlated with gray matter concentration in the vmPFC in
+experienced meditators. In a longitudinal study enrolling participants in an 8-week mindfulness-based stress reduction
+course, Hölzel et al. (2010) found an impact of the stressreducing effects of mindfulness meditation on the amygdala;
+the greater the decrease in participants’ scores on perceived
+stress over the 8 weeks, the greater a decrease they showed in
+gray matter concentration in the right amygdala. Modified
+gray matter concentration in these regions that is dependent on
+meditation training might potentially be related to the improved
+ability to regulate emotional responses. Furthermore, fMRI
+studies show that meditation involves activation of the hippocampus and medial PFC (Lazar et al., 2000; Lou et al., 1999;
+Newberg et al., 2001), suggesting that regular meditation practice enhances the function of these brain regions. Additionally,
+for those with social anxiety disorder, amygdala activation is
+reduced following 8 weeks of mindfulness practice (Goldin &
+Gross, 2010). There thus appear to be striking similarities
+in the brain regions being influenced by mindfulness meditation and those involved in mediating fear extinction. These
+findings suggest that mindfulness meditation could directly
+influence one’s capacity to extinguish conditioned fear by
+enhancing the structural and functional integrity of the brain
+network involved in safety signaling. The neuroscientific considerations described here support the previously held view
+that extinction might contribute to some of the beneficial
+effects of mindfulness practice (Baer, 2003; Brown et al.,
+2007).
+The impact of extinction processes within meditation
+practice. The role of extinction processes in the improvements following mindfulness-based treatments is most obvious in the treatment of anxiety disorders, which have reliably
+been found to benefit from mindfulness practice (Kabat-Zinn
+et al., 1992; Kimbrough, Magyari, Langenberg, Chesney, &
+Berman, 2010; Roemer et al., 2008). Nonreactivity and the
+successive extinction mechanism presumably also play a crucial role in the stress-reducing effects of mindfulness and
+might mediate decreased perceived stress scores (Carmody &
+Baer, 2008; Chang et al., 2004). They might also be highly
+relevant for the benefits of mindfulness in the treatment of
+substance abuse (Brewer et al., 2009). Beyond that, exposure
+is pursued toward whatever emotions present themselves,
+including sadness, anger, and aversion, as well as pleasant
+emotions, such as happiness. We therefore suggest that extinction is effective during all of these emotional experiences,
+leading to an overwriting of previously learned stimulusresponse associations. Buddhist teachings claim that the nonclinging to unpleasant and pleasant experiences leads to
+liberation (Olendzki, 2010). Framed in Western psychological
+terminology, one could say that nonreactivity leads to unlearning of previous connections (extinction and reconsolidation)
+and thereby to liberation from being bound to habitual emotional reactions.
+4. Change in perspective on the self
+The essence of Buddhist psychology lies in the teaching that
+there is no such thing as a permanent, unchanging self (Olendzki, 2010). Rather, the perception of a self is a product of an
+ongoing mental process. This perception reoccurs very rapidly
+in the stream of mental events, leading to the impression that
+the self is a constant and unchanging entity. The self is experienced as being the one who inhabits the body, being the one
+who is thinking the thoughts, being the one experiencing emotions, and being the agent of actions; having free will
+(Olendzki, 2010). When internal awareness becomes enhanced
+through meditation, meditators report that they can observe
+mental processes with increasing clarity (cf. MacLean et al.,
+2010) and increasing temporal resolution. Within this enhanced
+clarity, the process of a repeatedly arising sense of self becomes
+observable to the meditator through development of metaawareness. Meta-awareness is a form of subjective experience
+and executive monitoring, in which one takes a nonconceptual
+perspective as a distributed form of attention toward the contents of conscious experience and the processes involved.
+Meta-awareness is not entangled in the contents of awareness
+(Deikman, 1982; Raffone & Pantani, 2010; Varela, Thompson,
+& Rosch, 1991) and facilitates a detachment from identification with the static sense of self. Rather than as a static entity
+or structure, the sense of self can be experienced as an event
+(Olendzki, 2006). It has been postulated that paying close
+attention to the transitory nature of this sense of self leads to
+the “deconstruction of the self” (Epstein, 1988). The Dalai
+Lama describes the resulting understanding that practitioners
+reach: “This seemingly solid, concrete, independent, selfinstituting I under its own power that appears actually does not
+exist at all” (Gyatso, 1984, p.70). In place of the identification
+with the static self, there emerges a tendency to identify with
+the phenomenon of “experiencing” itself.3
+From a Buddhist perspective, identification with the static
+sense of self is the cause of psychological distress, and disidentification results in less afflictive experience and the freedom to experience a more genuine way of being (Olendzki,
+2010). As the psychologist Jack Engler (2004) puts it:
+When it is realized that no self is to be found in the elements of our experience, it begins the process of liberation.
+Understanding that our sense of “I” is not as solid, permanent,
+or substantial as we habitually hold it to be ultimately uproots
+clinging, attachment, and hostility. Understanding this burns
+up the fuel that runs our repetitive habits. Those who have
+understood this report a sense of spacious lightness and freedom. They exhibit deep concern and tenderness for others.
+According to Buddhist philosophy, a change in perspective
+on the self is thus the key in the process to enduring forms of
+happiness.
+Whereas more advanced meditation practices are required
+to experience this drastic disidentification from the static sense
+of self, a de-identification from some parts of mental content
+is often experienced even in the earliest stages of meditation
+practice. In mindfulness practice, all experiences are observed
+as they arise and pass. By closely observing the contents of
+consciousness, practitioners come to understand that these are
+in constant change and thus are transient. The mindful, nonjudgmental observation fosters a detachment from identification with the contents of consciousness. This process has been
+termed “reperceiving” or “decentering” (Carmody, Baer,
+Lykins, & Olendzki, 2009; Fresco et al., 2007; Shapiro et al.,
+2006) and has been described as the development of the
+“observer perspective” (Kerr, Josyula, & Littenberg, 2011).
+We suggest that although this stage is not yet the full
+disidentification from a static and unchanging self described
+above, it is a change in perspective about the sense of self and
+an alteration in first-person subjective experience.
+Philosophical considerations, theoretical accounts, and
+experiential reports ascribe to the change in the perspective on
+the self a crucial role for development and maturity in meditation. However, perspective on the self is rather difficult to
+operationalize, and little empirical research has been published that documents these types of changes following mindfulness meditation. This area of research could benefit from
+the introduction of clear and consistent definitions of selfrelated processes as well as terms that until now have been
+applied inconsistently among various authors and disciplines
+(e.g., I, me, ego, self, etc.). Although a clarification of the definitions, theories, and conceptualization is far beyond the scope
+of this article and is not its focus (but see Legrand & Ruby,
+2009, and Strawson, 2000), we summarize the few self-report
+and neuroimaging studies that touch on a change in the perspective on the self through mindfulness practice.
+Self-report findings. Self-report studies have begun to document the experienced changes in perspective on the self following mindfulness practice. In a qualitative analysis of
+diaries, Kerr and colleagues focused on the development of an
+“observing self,” or meta-perspective on experience, and have
+described how participants experience this shift over the
+course of an 8-week mindfulness-based stress reduction course
+(see Kerr et al., 2011, for a description of participants’ selfreports). Questionnaire studies have also documented changes
+in individuals’ self-concept following mindfulness meditation
+practice. Participants’ self-reports of internal and external
+aspects of self-representation (assessed with the Tennessee
+Self Concept Scale; Roid & Fitts, 1988) showed highly significant changes on almost all of the subscales after completion of a 7-day mindfulness retreat (Emavardhana & Tori,
+1997). Changes can be summarized as a more positive selfrepresentation, more self-esteem, and higher acceptance of
+oneself. A cross-sectional study (Haimerl & Valentine, 2001)
+that examined the Self-Concept scales of the Temperament
+and Character Inventory (Cloninger, Svrakic, & Przybeck,
+1993) of Buddhist meditators with varying levels of meditation experience found that increased meditation experience
+was associated with positive development on each of the three
+scales. More experienced meditators showed self-concept
+styles that are typically associated with less pathological
+symptoms. Although these studies do not describe the drastic
+change in sense of self that highly experienced meditators
+have reported following deep states of meditation, they suggest that some beneficial changes in the perspective on the self
+can happen resulting from mindfulness meditation practice.
+Neuroscientific findings: Functional neuroimaging. Neuroimaging studies of mindfulness meditation have demonstrated
+that brain structures that support self-referential processing
+are structurally and functionally impacted by mindfulness
+meditation. Self-referential processing robustly activates cortical midline structures of the brain (Northoff et al., 2006),
+including areas of the medial PFC (Gusnard, Akbudak, Shulman, & Raichle, 2001; Kelley et al., 2002; Sajonz et al., 2010),
+posterior cingulate cortex /anterior precuneus (Sajonz et al.,
+2010), and also the inferior parietal lobule (Sajonz et al.,
+2010). The medial PFC has been shown to support an array of
+self-related capacities, including memory for self-traits (Kelley et al., 2002; Macrae, Moran, Heatherton, Banfield, & Kelley, 2004) or reflected self-knowledge (Lieberman, Jarcho, &
+Satpute, 2004). The posterior cingulate cortex and precuneus
+are engaged when individuals assess the relevance or significance of a stimulus for themselves (Gusnard et al., 2001;
+Schmitz & Johnson, 2007) and have been suggested to be particularly important for the integration of self-referential stimuli in the emotional and autobiographical context of one’s own
+person (Northoff & Bermpohl, 2004). All of these structures
+show high activity during rest, mind wandering, and conditions of stimulus-independent thought (Northoff et al., 2006)
+and have therefore also been characterized as the “default
+mode” of the brain or as the default mode network (Buckner,
+Andrews-Hanna, & Schacter, 2008; Gusnard & Raichle,
+2001).
+A few MRI studies have begun looking at activity in the
+default mode network in association with mindfulness practice. Comparing brain activation during mindfulness meditation versus a resting state reveals decreased brain activity in
+subsystems of the default mode network (Ott, Walter, Gebhardt, Stark, & Vaitl, 2010). The authors interpret this decrease
+as a diminished involvement in the habitual mode of selfreference during meditation practice. Meditators show greater
+resting-state functional connectivity within the default mode
+network than do nonmeditators (Jang et al., 2010). Another
+study of experienced meditators also reports increased functional connectivity between posterior cingulate cortex and
+dorsal ACC and dorso-lateral PFC both during rest and during
+mindfulness meditation among experienced meditators compared with novices, suggesting increased conflict monitoring
+and cognitive control over the function of default mode network after significant meditation training (Brewer et al.,
+2011). Although still limited in scope, these studies suggest
+that default-mode network activity and connectivity might be
+affected in some way by mindfulness meditation practice.
+Probably the most insightful neuroimaging study to address
+the neural correlates of a change in perspective on the self is by
+Farb et al. (2007), which investigated brain activity during
+two forms of self-reference in participants who completed a
+mindfulness-based stress reduction training; these participants
+were compared with another group of individuals who had not
+yet undergone training; the forms of self-reference included a
+narrative focus (evaluative monitoring of enduring traits) and an
+experiential focus (momentary first-person experience). Individuals with the mindfulness training showed larger reductions
+in the medial PFC during the experiential (compared with the
+narrative) focus, along with increased engagement of the right
+lateral PFC, the right insula, secondary somatosensory cortex,
+and inferior parietal lobule. Functional connectivity analyses
+revealed an uncoupling of the right insula and medial PFC, and
+there was increased connectivity of the right insula with dorsolateral PFC regions in the experiential focus after the mindfulness training. The authors interpret these findings as representing
+a shift in self-referential processing, namely, as a shift “toward
+more lateral prefrontal regions supporting a more self-detached
+and objective analysis of interoceptive (insula) and exteroceptive (somatosensory cortex) sensory events, rather than their
+affective or subjective self-referential value [which is represented by medial PFC activation]” (Farb et al., 2007, p. 319).
+Furthermore, given the higher activity of regions supporting
+body and internal awareness, these data also suggest that
+increased body awareness might be closely related to changes in
+the perspective on the self, consistent with Buddhist philosophy.
+Greater internal awareness might replace the previous, narrative
+form of self-reference.
+Neuroscientific findings: Structural neuroimaging. In the recent
+longitudinal structural study mentioned above (Hölzel et al.,
+2011), the posterior cingulate cortex, the temporo-parietal
+junction, and the hippocampus showed increased gray matter
+concentration following mindfulness-based stress reduction.
+Given the relevance of these brain structures for the experience of the self, it seems possible that the structural changes
+might be associated with changes in the perspective on the
+self. It is interesting to note that the hippocampus, temporoparietal junction, posterior cingulate cortex, and parts of the
+medial prefrontal cortex form a brain network (Vincent et al.,
+2006) that supports diverse forms of projecting the self onto
+another perspective (Buckner & Carroll, 2007), including
+remembering the past, thinking about the future (Schacter,
+Addis, & Buckner, 2007), and conceiving the viewpoint of
+others, also referred to as a theory of mind (Saxe & Kanwisher,
+2003). These abilities have been suggested to share a common
+set of processes, by which autobiographical information is
+used adaptively to enable the perception of alternative perspectives (Buckner & Carroll, 2007). Structural changes in
+this brain network (involved in the projection of the self onto
+another perspective) may be associated with the perceptual
+shift in the internal representation of the self following mindfulness practice.
+The change in the perspective on the self is precisely
+described in the Buddhist literature but has yet to be rigorously
+tested in empirical research. The findings reviewed here exemplify early steps in the process of changing the perspective on
+the self but are still far from addressing the experiences
+described by highly trained meditation practitioners. Research
+studies that are currently under way will help elucidate this
+process further and will give us more insight into the underlying neuroscientific mechanisms.
+Integration
+The above described components (see Table 2 for a summarizing overview) are presumably highly interrelated. In fact, they
+might interact so closely with one another that a distinction
+between each component might seem artificial. We want to
+illustrate the interaction of the components with an example:
+During mindfulness meditation, the meditator’s goal is to
+maintain attention to current internal and external experiences
+with a nonjudgmental stance, manifesting acceptance, curiosity, and openness. When an emotional reaction gets triggered
+by thoughts, sensations, memories, or external stimuli (e.g., a
+memory of a frightening event), the executive attention system
+(Section 1) detects the conflict to the task goal of maintaining
+a mindful state. Heightened body awareness (Section 2) helps
+to detect physiological aspects of the feelings present (e.g.,
+body tension, rapid heartbeat, short shallow breath), and the
+provided information about the internal reaction to the stimulus is a prerequisite for accurate identification of the triggered
+emotional response (i.e., fear). Emotion regulation processes
+(Section 3) then become engaged, in order to relate to the
+experience differently rather than with a habitual reaction (i.e.,
+simply noticing the fear as opposed to engaging in avoidance
+mechanisms). The first two mechanisms (sustained attention
+[1] to body awareness [2]) lead to a situation of exposure, and
+the third mechanism (regulating for nonreactivity) facilitates
+response prevention, leading to extinction and reconsolidation
+(3). Rather than being stuck in the habitual reactions to the
+external and internal environment, the meditator can experience the transitory nature of all related perceptions, emotions,
+or cognitions in each moment of experience. The awareness of
+the transitory nature of the self and one’s momentary experience leads to a change in the perspective on the self (4), where
+self-referential processing (i.e., the narrative of the relevance
+of the stimulus for oneself) becomes diminished, while firstperson experiencing becomes enhanced. The entire process
+represents enhanced self-regulation, which—according to
+Karoly (1993)—is defined as a process that enables individuals to guide their goal-directed activities by modulation of
+thought, affect, behavior, or attention via deliberate or automated use of specific mechanisms.
+As illustrated by the example, the described components
+mutually facilitate each other. Attention regulation is especially important and, as the basis of all meditation techniques, appears to be a prerequisite for the other mechanisms
+to take place. Focused attention on internal events is necessary in order for practitioners to gain an increased awareness
+of bodily sensations with the resultant ability to recognize
+the emergence of emotions. The ability to keep attention
+focused on conditioned stimuli is also a prerequisite for the
+successful extinction of conditioned responses. Enhanced
+body awareness might be very closely related to the changes
+in the perspective on the self and might replace a narrative
+form of self-reference. The change in perspective on the self
+may result in reappraisal of situations in specific ways, which
+might provide motivation for further development of attention regulation and body awareness. As the components
+mutually facilitate each other, the occurring process could be
+understood as an upward spiral process (cf. Garland et al.,
+2011).
+Self-Compassion
+The concept of self-compassion is closely related to mindfulness. According to the definition proposed by Neff (2003a),
+self-compassion entails three components: self-kindness
+(being kind and understanding toward oneself in instances of
+perceived inadequacy or suffering rather than being harshly
+self-critical), common humanity (perceiving one’s experiences as part of the larger human experience rather than seeing
+them as separating and isolating), and “mindfulness” (in this
+context defined as “holding one’s painful thoughts and feelings in balanced awareness rather than over-identifying with
+them” (Neff, 2003a, p. 223). According to Neff’s definition
+(2003a), mindfulness thus constitutes one of the three components of self-compassion.
+The relationship between self-compassion and
+mindfulness
+In their current conceptualization and operationalization
+within contemporary research contexts (Baer et al., 2006;
+Neff, 2003a), mindfulness and self-compassion are highly correlated. The total score of the Five Facet Mindfulness Questionnaire and the total score of the Self-Compassion Scale
+have been found to be correlated (r = .69) in a sample of nonmeditators (Hollis-Walker & Colosimo, 2011). Assumptions
+have been put forth about the nature of their relationship, and
+it has been suggested that mindfulness is required in order for
+self-compassion to develop because the former enables one to
+clearly see mental and emotional phenomena as they arise
+(Neff, 2003b). In line with this assumption, changes in mindfulness have been found to predict changes in self-compassion
+(Birnie, Speca, & Carlson, 2010). It has also been suggested
+that self-compassion partially mediates the relationship
+between mindfulness and well-being (Hollis-Walker & Colosimo, 2011). Furthermore, the cultivation of self-compassion
+has been suggested to explain much of the success of
+mindfulness-based interventions. Kuyken et al. (2010) found
+that the positive effects of a mindfulness-based cognitive therapy intervention on depressive symptoms were mediated by
+the enhancement of self-compassion across treatment. In
+patients with anxious distress, scores on the Self-Compassion
+Scale have been found to correlate more strongly with symptom severity and quality of life than scores on the Mindful
+Attention Awareness Scale (Van Dam, Sheppard, Forsyth, &
+Earleywine, 2011). However, given the strong interrelatedness
+of both constructs, it might be difficult to tease their effects
+and relationship apart.
+The cultivation of self-compassion in
+meditation practice
+Meditation is typically practiced with an intention—implicit
+or explicit—to cultivate self-compassion as well as compassion toward other beings. Different types of meditation
+practices vary in the degree to which they foster its increase.
+Some types of practices are pursued with the primary goal of
+cultivating (self-) compassion (Germer, 2009; Salzberg, 1995),
+while others strongly emphasize self-compassion within the
+context of traditional mindfulness meditation (Brach, 2003).
+In mindfulness-based stress reduction, even though it is not
+the declared primary goal of the program, self-compassion is
+implicitly and explicitly interwoven into meditation instructions, exemplified by reminders included in focused attention
+meditation: “whenever you notice that the mind has wandered
+off, bring it back with gentleness and kindness.” The gentle
+yoga stretches are practiced with an emphasis on “exploring
+what feels good for oneself and one’s body in this moment.”
+Whenever participants encounter physical pain or emotional
+suffering, they are encouraged to “take care of themselves.”
+In line with these practices, self-report studies show that
+self-compassion scores increase over an 8-week mindfulnessbased stress reduction course (Birnie et al., 2010; Shapiro,
+Astin, Bishop, & Cordova, 2005; Shapiro, Brown, &
+Biegel, 2007; but also see P. D. Abercrombie, Zamora, &
+Korn, 2007).
+Self-compassion within the theoretical
+framework proposed here
+Within the framework of mechanisms proposed in this study,
+self-compassion is presumably most related to emotion regulation as well as to the change in perspective on the self. The
+generation of feelings of kindness toward oneself in instances
+of perceived inadequacy or suffering (self-kindness) is an act
+of emotion regulation. When cultivating self-compassion,
+seeing one’s difficult experiences as part of the larger human
+experience rather than seeing them as separating and isolating (common humanity) might initially require reappraisal.
+This reframing might ultimately result in a change in the perspective on the self, where one relates to oneself in a less
+identified manner. However, there is currently only a very
+small empirical basis for the explanation of the mechanisms
+of self-compassion, and it is possible that unique aspects of
+self-compassion are not addressed within the suggested
+components.
+We are unaware of any published data on the neural correlates of self-compassion in the context of mindfulness training
+or on the neural basis of self-compassion (but see Lutz,
+Brefczynski-Lewis, et al., 2008, for altruistic compassion).
+However, with the availability of the Self-Compassion Scale
+(Neff, 2003a), there has been a drastic increase in the investigation of self-compassion in the context of mindfulness-based
+interventions in the last few years, and a considerable body of
+literature documents the improvement of self-compassion
+with mindfulness meditation practice. The question about the
+exact nature of the relationship between both constructs and
+their interconnection from an empirical and neuroscientific
+perspective will have to be revisited once more research is
+available.
+Further Considerations
+We have suggested here that mindfulness meditation practice
+comprises a process of enhanced self-regulation that can
+be differentiated into distinct but interrelated components,
+namely, attention regulation, body awareness, emotion regulation (reappraisal and extinction), and the change in perspective
+on the self. Previous work has often focused on one of these
+components, neglecting the others and attempting to describe
+the beneficial effects of mindfulness-based interventions
+solely through one of the mechanisms (Brown & Ryan, 2003;
+Carmody, 2009). Other work has suggested an array of distinct
+components, but these components were not related to one
+another (Baer, 2003; Brown et al., 2007). Our work in establishing relations between identified components of mindfulness meditation practice is a step toward a more complex
+framework. Such a framework describing a comprehensive
+process and simultaneously considering the role of subcomponents will help advance the field in several ways. First, when
+conducting basic mindfulness meditation research, differentiating between distinct components will facilitate a more
+detailed understanding of the process and stimulate multifaceted research questions. Second, a detailed understanding of
+the different components and their relevance for clinical disorders will be conducive for the flexible and more targeted
+application of mindfulness training in psychiatric treatment
+and will in turn facilitate the establishment of targeted and
+cost-effective programs specifically utilizing components that
+are most relevant for a specific disorder. Third, a better understanding of the state and trait effects of mindfulness practice
+will also be conducive to a better understanding of the functioning and cultivation of a healthy mind, thereby contributing
+to the newly emerging field of positive psychology.
+Presumably, the distinct components differ in their relevance for types of mindfulness-based meditation practices,
+levels of meditation expertise, specific psychological disorders, personality types, and specific situations. In the following section, we will suggest connections between the described
+components and these variables. The suggested connections
+mostly lack empirical support thus far and are mainly meant to
+stimulate further research questions.
+Various types of mindfulness practice may place different
+emphasis on the described components. For example, during the
+practice of breath awareness or the body scan (Hart, 1987), the
+components of attention regulation and body awareness might
+be most involved. Observing one’s emotions in emotionally
+challenging situations (Kabat-Zinn, 1990) may involve body
+awareness and extinction. Open awareness practice might
+mostly involve the change in perspective on self, whereas loving kindness and compassion meditation (Salzberg, 1995) might
+rely on emotion regulation and the change in perspective on the
+self. Investigating which components are involved in mindfulness meditation and which are potentially strengthened by these
+different types of practice can help individuals in selecting
+which they would like to specifically cultivate.
+In the progression of meditation expertise, the different
+mechanisms might play different roles. For example, it is possible that an improvement in attention regulation evolves first
+and helps facilitate other processes. Conversely, the change in
+perspective on the self might develop rather late, following the
+establishment of increased body awareness and improved
+emotion regulation. Beyond the mechanisms formulated here,
+it is possible that increased experience in mindfulness practice
+facilitates the flexible access to the different components. Possibly the greatest effect of mindfulness practice for adaptive
+functioning in daily life might be found in this behavioral
+flexibility.
+Future clinical psychological research should establish
+what roles the different components play for different psychological disorders. Disorders that manifest as the dysfunction of
+a certain component could especially benefit from the cultivation of that particular component. For example, strengthening
+attention regulation might be most beneficial for patients suffering from attention deficit disorders, while borderline personality disorder patients, people in addiction recovery, or
+patients with alexithymia might benefit much from increased
+internal awareness. Likewise, patients with mood disorders,
+anxiety disorders, borderline personality disorder, or aggression might benefit from improved emotion regulation. Change
+in self-perspective might be beneficial for patients with mood
+disorders and might also enhance general sense of well-being
+as well as overall quality of life in healthy populations. Rather
+than solely testing the usefulness of mindfulness-based interventions for symptom reduction for these disorders in general,
+future research should focus more on establishing the mechanisms underlying these beneficial effects.
+Different mechanisms might be relevant for different personality types. Individuals likely differ in the extent to which
+they are attracted to the practice of each of these components,
+and they might differ in the extent to which they can benefit
+from each of the described mechanisms. For example, it has
+been found that a self-compassion intervention for smoking
+reduction was particularly beneficial for individuals high in
+self-criticism and low in readiness to change (Kelly, Zuroff,
+Foa, & Gilbert, 2010). In the same way, individual differences
+should be taken into account in meditation research. Future
+studies should try to identify traitlike predictors as well as biological markers for (a) attraction to specific kinds of practice
+and (b) benefits from particular aspects of such practices.
+Aside from differing in relevance between different disorders, personality types, levels of expertise, and types of practices, these mechanisms will have distinct relevance for
+different contextual situations. Depending on the kind of situation to which a practitioner is being exposed, one of the
+mechanisms might move into the foreground, while others
+become less relevant.
+Mindfulness as a state, trait, and clinical intervention has
+been extensively researched over the last two decades; however, knowledge of the underlying mechanisms of mindfulness
+is still in its infancy. Future work should identify additional
+components of mindfulness and establish to what extent the
+components described in this article are truly distinct mechanisms or how they can be integrated into fewer components.
+We believe that it will be necessary both to further differentiate each component and to further integrate them into a comprehensive model. This future empirical work is critical in
+order to optimally apply mindfulness in the clinical domain
+and to advance techniques that aim at cultivating a healthy
+mind and increased well-being.
+Acknowledgments
+The authors would like to thank Elizabeth Kathleen Avis, Narayan
+Brach, Patricia Pop, and Erik Tobiason for their helpful comments on
+this article.
+Declaration of Conflicting Interests
+The authors declared that they had no conflicts of interest with
+respect to their authorship or the publication of this article.
+Funding
+Britta K. Hölzel was supported by a Marie Curie International
+Outgoing Fellowship within the Seventh European Community
+Framework Programme.
+Notes
+1. Telomeres are protective DNA sequences at the ends of chromosomes that ensure genomic stability during cellular replication.
+Telomerase is the cellular enzyme responsible for telomere length
+and maintenance. Telomerase activity has been found to be a predictor of long-term cellular viability that decreases with chronic psychological distress (Epel et al., 2004).
+2. For the sake of completeness, it should be noted that some studies
+have not found this pattern of higher PFC and lower amygdala activation while participants were decreasing negative affect (Urry et al.,
+2006).
+3. Of note, this decreased identification with the self is fundamentally different from pathological versions of depersonalization. For a
+detailed discussion of this distinction, see Engler (1995).

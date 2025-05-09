@@ -1,0 +1,1239 @@
+                                      Information Processing and Management 61 (2024) 103527
+
+                                              Contents lists available at ScienceDirect 
+
+                              Information Processing and Management 
+
+                                   journal homepage: www.elsevier.com/locate/infoproman 
+
+
+Leveraging online reviews for hotel demand forecasting: A deep 
+learning approach 
+
+Dong Zhang       a, Baozhuang Niu       b,* 
+
+a School of Information Management, Sun Yat-Sen University, Guangzhou, China 
+b School of Business Administration, South China University of Technology, Guangzhou 510640, PR China   
+
+
+ARTICLE INFO                                ABSTRACT  
+
+Keywords:                                   The use of online reviews for forecasting hotel demand has gained increasing interest in recent 
+Hotel demand forecasting                    years. However, prior studies have primarily focused on sentiment information and do not cap­
+Online review                               ture sufficient signals for accurate hotel demand forecasting. Furthermore, the complex feature 
+Systematic functional linguistics 
+                                            interactions within multivariate time series complicate hotel demand forecasting. Guided by 
+Deep learning 
+                                            systematic functional linguistics (SFL) theory, this study proposes an analytic framework con­
+Feature interaction 
+                                            sisting of ideational, textual, and interpersonal functions to extract signals from online reviews. 
+                                            Besides, we propose a novel long short-term memory interaction-based convolutional neural 
+                                            network  (LICNN) model for hotel demand forecasting. The results indicate that incorporating 
+                                            online review features reduces root mean squared error (RMSE) by at least 2.2 % and at most 
+                                            46.6 %, mean absolute error (MAE) by at least 3.2 % and at most 44.8 %, and mean absolute 
+                                            percentage error (MAPE) by at least 3.5 % and at most 44.6 %. Moreover, compared with baseline 
+                                            models, our proposed LICNN model achieves the lowest RMSE (at least 15.8 % and at most 53.1 % 
+                                            improvements), MAE (at least 8.1 % and at most 56.1 % improvements), and MAPE (at least 12.9 
+                                            %  and at most 44.8 % improvements). The ablation study highlights the value of extracting 
+                                            feature interactions in demand forecasting.   
+
+
+1.  Introduction 
+
+    Demand   forecasting has been a  critical component in hotel revenue  management,   and  making  accurate demand   forecasting 
+constitutes an important and challenging problem (Lee, 2018). Accurate demand forecasting is critical in the hotel industry because it 
+allows hotel managers to develop the proper pricing strategies and efficientlyallocate  hotel properties (Dergiades, Mavragani, & Pan, 
+2018). A growing number of studies have been on hotel demand forecasting, focusing on weekly or monthly forecasting using various 
+techniques (Duro, 2016; Wu et al., 2017). These studies mainly utilize economic variables to forecast hotel demand. More recently, as 
+information technology develops by leaps and bounds, researchers can now leverage rich content from the internet, including search 
+query data or social media data, to increase forecasting accuracy. Indeed, big data can reflect potential consumers’ interests and 
+involvement,  providing  high-quality information for demand   forecasting (Kachniewska,  2020).  Law, Li, Fong, and  Han  (2019) 
+exploited the influence of search  volume  data in forecasting tourism demand.   Li, Hu, and Li (2020)  adopted multisource  data, 
+including search engine data, review rating, and historical demand data, to forecast tourism demand. 
+    So far, however, there have been rare studies on the association between online reviews and hotel demand forecasting. Previous 
+
+
+  * Corresponding author. 
+    E-mail address: bmniubz@scut.edu.cn (B. Niu).  
+
+https://doi.org/10.1016/j.ipm.2023.103527 
+Received 24 January 2023; Received in revised form 15 June 2023; Accepted 6 October 2023   
+Available online 24 October 2023
+0306-4573/© 2023 Elsevier Ltd. All rights reserved.
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+research has established that online reviews can affect consumer decision-making (Shukla, Gao, & Agarwal, 2021; Vana & Lambrecht, 
+2021). According to Tripadvisor1, 80 % of travelers read at least 6–12 reviews before booking. Therefore, online reviews can impact 
+travelers’ decision-making and could be thus considered in forecasting hotel demand. In the hotel industry, online reviews have been 
+extensively studied to gain a deeper understanding of consumer perceptions such as trust, helpfulness, response management stra­
+tegies, and reputation (Chang, Ku, & Chen, 2020; Liu, Wang, Gao, & Gallivan, 2021; Proserpio & Zervas, 2017; Shin, Du, Ma, Fan, & 
+Xiang, 2021; Tsai, Chen, Hu, & Chen, 2020). To date, few studies have investigated the impact of online reviews on hotel demand 
+forecasting. For example, D. C. Wu et al. (2022) incorporated sentiment information from online reviews as hotel demand indicators 
+for hotel demand forecasting. However, sentiment analysis represents just the tip of the iceberg. Online reviews contain other in­
+formation, such as topics and genres, which could be used for hotel demand forecasting. This indicates a need to fully exploit the 
+association between online reviews and hotel demand forecasting. 
+    Although leveraging online reviews for hotel demand forecasting is promising, traditional hotel demand forecasting models may 
+confront practical challenges when adopting features extracted from online reviews as hotel demand indicators. First, many fore­
+casting models, such as time series, have difficultytraining  data with too many features. Second, when adopting online review features 
+as predictors, existing forecasting models fail to capture the complex feature interactions within hotel demand forecasting, which are 
+vital in time series forecasting. Indeed, modeling feature interactions is crucial for yielding satisfactory results (Rendle, Gantner, 
+Freudenthaler, & Schmidt-Thieme, 2011; Song et al., 2019). Online review and historical demand data are two different types. Feature 
+interactions could exist between these two data sources, including intra- and cross-modal interactions. Intra-modal interaction refers to 
+correlations between features in the same data source, while cross-modal interaction refers to feature correlations between different 
+data sources. So far, however, few studies have exploited how to model feature interactions within hotel demand forecasting. 
+    In this study, we present a distinctive approach for forecasting hotel demand, uniquely exploiting cues from online reviews. The 
+novelty of our approach is twofold: First, we introduce a framework for textual analysis underpinned by the Systemic Functional 
+Linguistics (SFL) theory (M.A.K. Halliday, Matthiessen, Halliday, & Matthiessen, 2004). The application of this linguistic theory for 
+generating feature sets, including sentiment and social network features, marks a pioneering approach in the field.Second,  we propose 
+a novel Long Short-Term Memory Interaction-based Convolutional Neural Network (LICNN) model, explicitly crafted to capture the 
+intricate interactions between online review data and historical demand data. The distinct advantage of the LICNN model lies in its 
+capacity to learn and model the complex correlations in the data, which traditional models often overlook, making it a substantial leap 
+forward in the realm of demand forecasting models. Our evaluation using data obtained from Ctrip.com underscores the strength of 
+this novel approach. The empirical evidence demonstrates that our SFL-based framework substantially enhances forecasting accuracy 
+and  that the LICNN model significantly outperforms   the state-of-the-art baselines in forecasting hotel demand. Consequently, we 
+reveal the considerable potential of integrating online reviews with deep learning techniques for the more precise prediction of hotel 
+demand. This unique integration of methodologies brings a fresh perspective to hotel demand forecasting and paves the way for future 
+research in the field. 
+    The remainder of this paper is organized as follows. In Section 2, we review hotel demand forecasting and online reviews used in 
+forecasting to identify research gaps and propose research questions. In Section 3, we propose the SFL-based framework for extracting 
+signals from online reviews and detail the major components of our model. We evaluate the proposed SFL-based framework and our 
+model in Section 4. Section 5 discusses our contributions and suggests possible future research directions. 
+
+2.  Literature review 
+
+    We introduce hotel demand forecasting from two perspectives: (1) data sources to identify prevailing features used in hotel demand 
+
+Table 1 
+Summary of data sources used in prior hotel demand forecasting studies.  
+
+  Year   Authors                 Focus                                       Data sources 
+
+  2022   Wu et al.               Hotel forecasting using sentiment analysis  Online review data 
+  2022   E. H. C. Wu et al.      Forecasting hotel occupancy rates with big data Hotel occupancy rate, visitor arrival, search engine data 
+  2022   Kaya et al.             Hotel demand forecasting with clustering findings Historical demand and clustering data 
+  2021   Ampountolas             Daily hotel demand forecasting              Historical demand, weather, holiday, and hotel ranking 
+  2021   Chang et al.            Hotel occupancy forecasting with online reviews Hotel occupancy and online review data 
+  2021   Huang & Zheng           Daily hotel demand forecasting with agglomeration Historical daily demand data 
+                                 effect 
+  2020   Kamola & Arabas         Hotel occupancy forecasting with public events Hotel booking and public event data 
+  2020   Sanchez-Medina´  & C-   Forecasting hotel booking cancellations with big data Booking record data 
+         Sanchez´  
+  2020   Tsang & Benoit          Daily hotel occupancy forecasting           Hotel occupancy and price data 
+  2019   Assaf & Tsionas         Forecasting hotel occupancy rate            Hotel occupancy rate and average daily rate data 
+  2018   Lee                     Forecasting hotel demand with advance booking Hotel booking arrival data 
+                                 information 
+  2017   Pan & Yang              Forecasting hotel occupancy for a destination with Hotel occupancy data, search engine data, web traffic data, and 
+                                 big data                                    weather data 
+  2017   Zhang et al.            Forecasting hotel daily occupancy           Daily occupancy data 
+  2012   Pan et al.              Hotel forecasting with search engine data   Hotel room demand data, Google Trends data 
+  2011   Zakhary et al.          Forecasting hotel arrivals and occupancy    Guest arrival data  
+
+                                                                 2
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+forecasting, (2) forecasting models to inform and guide the development of a novel deep learning model. 
+
+2.1. Data sources of hotel demand forecasting 
+
+    Hotel demand   forecasting relies on a diverse range of data sources, including historical demand  data, reservation data, and 
+combined   data. Table 1 summarizes  data sources  used in prior hotel demand forecasting  studies. Historical demand data, which 
+provides insight into hotel occupancy over time, has been used to generate trends for forecasting hotel demand (Zakhary, El Gayar, & 
+Atiya, 2008). The frequency of data employed in hotel demand forecasting research is subject to variation; annual data is often utilized 
+in the development of macro-level policies (Bi, Liu, &  Li, 2020), while daily, weekly, and monthly data is leveraged  to generate 
+forecasts for individual hotels (Lim, Chang, & McAleer, 2009). 
+    Research on  reservation data has primarily concentrated  on two key  domains:  forecasting reservation demand  and analyzing 
+reservation cancellations. The former entails predicting future reservation volumes (Webb, Schwartz, Xiang, & Singal, 2020), while the 
+latter offers insights into potential fluctuationsin  hotel demand (Kamola & Arabas, 2020). Investigations into reservation cancellations 
+can be classified into two distinct categories: forecasting hotel order cancellations and estimating the likelihood of a reserved order 
+being canceled. The first approach utilizes cancelation data as a time series for regression analysis (Sanchez-Medina´  & C-Sanchez,´  
+2020), while the latter employs cancelation data for classification tasks (Sanchez,´  Sanchez-Medina,´  & Pellejero, 2020). 
+    The integration of multiple data sources into a single model, known as combined data, has garnered increasing interest in the field 
+of hotel demand forecasting. This approach involves the incorporation of historical demand data with other relevant factors. These 
+factors include economic indicators such as exchange rate, income, and wages (Aalen, Iversen, & Jakobsen, 2018; O’Neill & Ouyang, 
+2020; Song, Lin, Witt, & Zhang, 2011), environmental conditions such as weather (Pan & Yang, 2017) and special events (Kamola & 
+Arabas, 2020), and big data sources such as search engine data (Pan & Yang, 2017; Pan, Chenguang Wu, & Song, 2012), and online 
+reviews (Chang, Chen, Lai, Lin, & Pai, 2021; D. C. Wu, Zhong, Qiu, & Wu, 2022). Despite the potential value of online reviews in hotel 
+demand forecasting, few studies have explored their use. Notable exceptions include Chang et al. (2021) and D. C. Wu et al. (2022), 
+who employed rating and sentiment scores to forecast demand. However, these studies have not fully investigated other potentially 
+informative aspects of online reviews that could enhance forecasting performance. 
+
+2.2. Hotel demand forecasting models 
+
+    As for forecasting models, time series, econometric, and machine   learning models  have been  extensively studied in previous 
+studies. Time series models such as autoregressive integrated moving average (ARIMA) and its variants (Kim, Wong, Athanasopoulos, 
+& Liu, 2011; Yüksel, 2007) leverage past trends to forecast hotel demand. However, time series models assume linear relationships 
+between the independent and dependent variables. Accordingly, time series models perform poorly when handling variables with 
+nonlinear relationships. Econometric models focus on adopting variables that demonstrate causality with hotel demand, which are at a 
+loss for correlated variables (Kim & Won, 2018). These two types of models face challenges when handling data with different types 
+and high volumes. Therefore, machine learning models have received increasing attention in forecasting hotel demand, which shows 
+                                                                              ¨
+potential in handling nonlinear and high-frequency data (Kaya, Yılmaz, Yaslan, Ogüdücü,˘  & Çıngı, 2022; Pereira & Cerqueira, 2021). 
+Among machine learning models, LSTM has received increasing attention because of its high efficacy in capturing long-term time 
+dependencies within sequences. For example, Huang and Zheng (2021) consider the agglomeration effect and utilize LSTM to forecast 
+daily hotel demand. Kaya et al. (2022) forecasts weekly hotel demand four weeks in advance with Attention-Long Short-Term Memory 
+(Attention-LSTM). While LSTM can learn long-term dependencies, it has difficultycapturing   the complex feature interactions within 
+between different data sources. This indicates a need to extract feature interactions and explore their potential in enhancing hotel 
+
+
+                               Fig. 1. Proposed online review-based hotel demand forecasting framework.  
+
+                                                                 3
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+demand forecasting. 
+
+2.3. Research gaps and questions 
+
+    Our literature review identifiesseveral  research gaps. First, prior studies mainly focus on sentiment analysis and do not consider the 
+other features of online reviews in hotel demand forecasting, which can limit the ability of forecasting models. Consequently, it is 
+imperative to systematically examine whether other features of online reviews can be leveraged for hotel demand forecasting. Second, 
+although LSTM shows great potential in hotel demand forecasting, it fails to consider feature interactions between online review and 
+historical demand  data, which  could affect the forecasting performance.  In light of these research gaps, the following research 
+questions are posed for the study:  
+
+   (1) What features can be derived from online reviews? Can they be leveraged to improve hotel demand forecasting performance?  
+   (2) How can feature interactions be extracted and incorporated into hotel demand forecasting? 
+
+3.  Methodology 
+
+    In this study, we design an online review-based hotel demand forecasting framework. Fig. 1 illustrates the overall framework. We 
+detail the framework as follows. 
+
+3.1. Feature extraction from online reviews 
+
+    We leverage systemic functional linguistics (SFL) theory to extract useful features from online reviews and understand how con­
+sumers utilize language to share their experiences about a hotel’s operations. The word “systemic” regards language as a system of 
+interconnected sets for expressing meaning, while “functional” refers to how the theory is applied to practical usage. 
+    There are three interrelated functions in SFL theory: ideational, interpersonal, and textual functions. Ideational function refers to 
+language as a way to construe ideas (M.A.K. Halliday et al., 2004). Textual function refers to the arrangement and presentation of 
+information in a way that makes coherent disclosure possible (Dong, Liao, & Zhang, 2018). Interpersonal function means that language 
+works as a medium of interaction among people. 
+
+3.1.1. Ideational function 
+    Topics and opinions  are often used to represent the ideational function (Abbasi & Chen,  2008). Online  reviews often display 
+multiple topics (Chen, Yang, & Liu, 2021). Sim, Lee, and Sutherland (2021) claim that topics impact travelers’ booking intentions for 
+hotel accommodation. We believe that topics discussed in online hotel reviews could attract potential consumers’ attention and are 
+thus helpful in forecasting hotel demand. In this study, we leverage latent Dirichlet allocation (LDA) (Blei, Ng, & Jordan, 2003) to mine 
+topics from online reviews. 
+    Opinions are people’s sentiments towards a particular entity (Pang & Lee, 2008). Rating is often used as a proxy for consumers’ 
+                                                ¨
+opinions (Lawani, Reed, Mark, & Zheng, 2019). Ogüt˘  and Onur Tas¸ (2012) findthat  a 1 % increase in star ratings would result in an 
+increase of 2.68 % and 2.62 % in sales, respectively, in Paris and London. Additionally, sentiment analysis of online reviews could 
+impact consumers’ decision-making process. For example, Zhao, Wang, Guo, and Law (2015) find that negative online reviews are 
+significantlynegatively  correlated with consumers’ online booking attention. Moreover, Cho, Sosa, and Hasija (2022) point out that 
+sentiment information from online reviews can mitigate the impact of star ratings in forecasting product demand. So, both rating and 
+sentiment could impact potential consumers’   booking attention and are thus valuable for online hotel demand forecasting. In this 
+research, we leverage the rating and sentiment of online reviews to forecast hotel demand. Specifically,we  use the sentiment score, a 
+precise numerical representation of the sentiment polarity, to measure the sentiment of online reviews. 
+
+3.1.2. Textual function 
+    Textual function reflects the writer’s ideology and shows what the writer wants to convey behind words (M.A.K. Halliday et al., 
+2004). There are three categories of textual function: writing styles, genres, and vernaculars (Argamon et al., 2007). Nevertheless, 
+consumers do not adhere to a standardized writing style and vernacular. Accordingly, we do not consider writing styles and ver­
+naculars in this research. 
+    Genre refers to how writers organize the labels commonly used to classify texts and the situations in which they occur (Hyland, 
+2018). Rutherford (2005) argues that text can be classifiedinto  two genres, informative and imaginative. The informative text contains 
+more adjectives, nouns, and prepositions, while the imaginative text has more adverbs, verbs, and pronouns (Ott, Choi, Cardie, & 
+Hancock, 2011). Intuitively, if one online review is more imaginative and less informative, it has more power to impact consumers’ 
+purchase attention and thus influence hotel demand. In this research, we aim to investigate which genre of online review might be 
+more useful in forecasting hotel demand. 
+
+3.1.3. Interpersonal function 
+    Interpersonal function emphasizes how language works as a medium of interaction between people (M.A.K. Halliday et al., 2004), 
+reflecting the social structure of online reviews. Social interaction on hotel booking platforms refers to the idea that reviewers post 
+reviews, influence people, and receive feedback (e.g., helpful votes). Li and Liang (2022) claim that social interactions influence 
+
+                                                                 4
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+consumers’ purchase intentions, thus affecting sales. Reviewer expertise and popularity are often used to represent social influence 
+(Cheng & Ho, 2015; Wang, Du, & Chiu, 2020). The term expertise refers to the ability of an individual to provide information to others 
+based on their knowledge, skills, or experience (Biswas, Biswas, & Das, 2006). When someone with extensive experience writes a 
+review, consumers are more likely to findit  useful and informative (Cheng & Ho, 2015). Therefore, we argue that expertise is useful in 
+hotel demand forecasting. In this research, we leverage the total number of posted reviews (Hong, Xu, Wang, & Fan, 2017), reviewer 
+expert label (Kuan, Hui, Prasarnphanich, & Lai, 2015), and the total number of posted images (Cheng & Ho, 2015) to measure reviewer 
+expertise. 
+    Reviewer popularity reflectswhether  his or her review is useful for potential consumers. Popular reviewers are generally liked by a 
+broad audience, whereas unpopular reviewers are liked primarily by a narrow audience. (Li, Xu, & Ngai, 2021). Huang, Chen, Yen, and 
+Tran (2015) claim that reviews written by popular reviewers tend to be helpful. In addition, Hou, Li, Chong, Yannopoulou, and Liu 
+(2017) findthat  reviews with a higher number of helpful votes have a relatively higher impact on sales than reviews with fewer helpful 
+votes. Hence, an individual’s social influenceis  determined by how popular they are online. We argue that reviewer popularity could 
+impact consumers’   decision-making and is thus helpful in hotel demand forecasting. The number of helpful votes for each review 
+would vary due to the fact that a single user may write multiple reviews. Therefore, we leverage the total number of helpful votes and 
+the number of each review’s helpful votes to measure reviewer popularity (Hong et al., 2017). Specifically,the  total number of helpful 
+votes reflectsthe  overall popularity of one user, while the number of each review’s helpful votes reflectshis/her  popularity within a 
+hotel. Table 2 summarizes the features related to ideational, textual, and interpersonal functions. 
+    In light of the above discussions, this study proposes an SFL-based framework to forecast hotel demand (Fig. 2). 
+
+3.2. Hotel demand forecasting: the proposed LICNN model 
+
+    In this section, we propose a novel  long short-term memory   interaction-based convolutional neural  network  (LICNN)  model 
+(Fig. 3). The LICNN model includes three key components: LSTM, interaction-based CNN, and Output. While all components aim to 
+improve the performance of hotel demand forecasting, they are motivated by different purposes. The preprocessed data is fed to a 
+single layer LSTM, which intends to capture non-stationary temporal dynamics within time series data. Besides, we design a novel 
+interaction-based CNN to capture the feature interactions between online review and historical demand data. The output layer consists 
+of two fully connected layers and a dropout layer, which are used to generate future hotel demand. We provide the detailed structure of 
+the LICNN model in Appendix A. Next, we detail the underlying processing for each component in the following subsections. 
+
+3.2.1. Architecture of the LSTM 
+                                  n×l                               n×1 
+    LetX = {xt  n+1, …, xt  1, xt} ∈ R and Z = {zt  n+1, …, zt  1, zt} ∈ R denote the online review and historical demand inputs with 
+                              = ( 1, 2,  , l ) ∈ R1×l                                                 ∈ R1×1 
+n time  steps, respectively. xt  xt xt …  xt         denote l online review features at time step t. zt       represents historical 
+demand volume at time step t. 
+    In this component, the LSTM is utilized to capture long-term dependencies within time series data. In our architecture, the inputs to 
+                                                          n×l                                                        n×1
+LSTM are online review data X   =  {xt  n+1, …, xt  1, xt} ∈ R and historical demand data Z = {zt  n+1, …, zt  1, zt} ∈ R . We take 
+online review data as an example and illustrate how LSTM work with it. 
+    As depicted in Fig. 4, the LSTM architecture comprises three primary gates: input, forget, and output. The forget gateft utilizes a 
+sigmoid function to process the information from the current inputxt and hidden state ht  1, generating values between 0 and 1. These 
+values determine the extent to which previous memory cell information ct  1is retained. 
+    The input gate it processes information from the current inputxt and hidden state ht  1 through the second sigmoid function. Next, 
+the same inputxt  and hidden state ht  1are passed through the tanh function, which generates candidate cell c̃t. The input gate de­
+termines the degree to which new data is incorporated. The memory state ct  is updated using Eq. (4). 
+    The output gate ot determines the value of the next hidden state. The values of the same inputxt and hidden state ht  1 are passed 
+into the third sigmoid function. Then the new cell state ct is passed through the tanh function. The resulting outputs are multiplied 
+element-wise to determine which information the hidden state should carry for prediction. The ct and ht are carried over to the next 
+time step. The outputs of LSTM at time step t can be calculated as follows: 
+
+       it = σ(xtwxi + ht  1whi + bi)                                                                                           (1) 
+
+   Table 2 
+   Features of ideational, textual, and interpersonal function.  
+
+    Type                                      Feature                                Measurement 
+
+    Ideational Function                       Topics                                 LDA 
+                                              Opinions                               Rating and sentiment score 
+    Textual Function                          Informative text                       Total number of adjectives, nouns, and prepositions 
+                                              Imaginative text                       Total number of adverbs, verbs and pronouns 
+    Interpersonal Function                    Reviewer expertise                     Total number of posts 
+                                                                                     Reviewer expert level 
+                                                                                     Image count 
+                                              Reviewer popularity                    Helpful votes of each review 
+                                                                                     Total number of helpful votes  
+
+                                                                 5
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+
+                                     Fig. 2. The SFL-based framework for hotel demand forecasting.  
+
+                               )
+       ft = σ xtwxf + ht  1whf + bf                                                                                            (2)  
+
+       c̃t = tanh(xtwxc + ht  1whc + bc)                                                                                       (3)  
+
+       ct = ft ∗ ct  1 + it ∗ c̃t                                                                                              (4)  
+
+       ot = σ(xtwxo + ht  1who + bo)                                                                                           (5)  
+
+       ht = ot ∗ tanh(ct)                                                                                                      (6)  
+
+where wxi, wxf , wxc, wxo and whi, whf , whc, who are weight matrices; bi, bf , bc, bo are bias terms; The incorporation of nonlinearity into the 
+model is achieved through the use of nonlinear activation functions:σ and tanh. This enhancement allows for the effective capture of 
+complex relationships within the data. 
+    We set the output dimensions of the LSTM to be equivalent for both online review and historical demand data. Specifically,we  set 
+the number of LSTM memory cells equal to l. This can help keep original structure of online review data and reduce parameters as well. 
+                                                                                 R  = ( r    , r   ,   , r) ∈ Rn×l
+Therefore, when LSTM is applied to online reviews, the output is represented as H      ht  n+1 ht  n+2 … ht      . Similarly, when 
+                                                                         D = ( d    , d    ,  , d    ) ∈ Rn×l
+LSTM is applied to historical demand data, the output is represented as H     ht  n+1 ht  n+2 … ht  n+1     . 
+
+3.2.2. Architecture of interaction-based CNN 
+    While LSTM is capable of capturing long-term dependencies, it struggles to capture complex feature interactions between different 
+data sources. Our focus is on extracting intra- and cross-modal interactions. Intra-modal interactions refer to correlations between 
+features within the same data source, while cross-modal interactions refer to correlations between features from different data sources. 
+Conventional CNN is directly applied on a adjacent rows with b length data segment to capture correlations in the focal region (as 
+shown on the left side of Fig. 5). However, these conventional CNNs are unable to extract cross-modal correlations. To address this 
+limitation, we have designed a novel interaction-based CNN (I-CNN) that can extract interactions between online reviews and his­
+torical demand (as shown on the right side of Fig. 5). We detail each component of the I-CNN as follows. 
+
+
+                                                                 6
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+
+                                             Fig. 3. Graphical illustration of the proposed LICNN model.  
+
+   (1) Intra-modal interaction extraction layer. We leverage 1D CNN to extract interactions within online review and historical de­
+       mand, respectively. Note that the output of an LSTM and the input of a 1D CNN have equal dimensions in Pytorch. Pytorch’s 
+       permute function can be used to rearrange the output of CNN. 
+
+                                                                 R =  ( r     , r     ,   , r) ∈ Rn×l         D  =  ( d     , d     ,  ,  d    ) ∈  Rn×l
+   As shown in Fig. 5, we apply kernels A1 and A2 on H                 ht  n+1 ht  n+2 …   ht          and H         ht  n+1 ht  n+2 …  ht  n+1          to 
+extract intra-online review and intra-historical demand interactions, respectively. We compute the convolution results as follows: 
+
+               ∑MR  ∑FR
+         A1                                    r
+       cir ,jr =         wmr ,f r ⋅ xir +mr ,jr +f r + b                                                                                               (7)  
+               mr =1 f r =1
+
+                ∑MD  ∑FD
+         A2                                      d
+             =              d d    d  d d  d +
+       crd ,jd           wm  ,f ⋅ xi +m ,j +f  b                                                                                                       (8)  
+                md =1 f d =1
+
+
+         A1       A2                                                                                                                                 r    r 
+                                                                                                              r , r       d d                          ×
+where cir ,jr and crd,jd denote the output value on convolution kernels A1 and A2, respectively. wm            f  and wm   ,f denote respective m        f
+       d    d                                                                                                   r           r               R
+and m    × f  weight matrix of convolution kernels A1 and A2. xir         +mr ,jr +f r denotes the element in i  row and j    column of H     . xid+md,jd+f d 
+
+                                                                             7
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+
+                                                               Fig. 4. LSTM architecture.  
+
+
+                                   Fig. 5. Illustration of Conventional CNN and Proposed Interaction-based CNN.  
+
+                          d           d               D   r       d 
+denote the element in i     row and j   column of H     . b and b   are bias values. In this layer, there are 128 kernels in each of A1 and A2. The 
+size of kernel for both A1    and A2   is 3 ×  l. The sliding step of the convolution window for both kernels A1            and A2 is 1. 
+   After the convolution stage, we leverage the rectifiedlinear          unit (ReLU) to map the output of the convolution stage to generate non- 
+                                                        (  A1 )            ( A2 )
+linearity. The output can be represented as ReLU         cir ,jr and ReLU   crd,jd , which denote interactions within online review and historical 
+                                                                                                           ×                                            ×
+                                                                          R =           [      ( A1 )] ∈R1   g       D =           [      ( A2  )] ∈ R1  g
+demand, respectively. We flattenthe        above outputs and obtainV           Flattern  ReLU   cir ,jr       and V       Flattern  ReLU   crd,jd         , 
+                                                                                                      ×
+where g denotes the hidden dimension. By stacking VR and VD            together, we obtain V     ∈ R2   g. Particularly, the firstrow   represents intra- 
+online review interactions, while the second row represents intra-historical demand interactions.  
+
+   (1) Inter-modal interaction extraction layer. In this layer, we leverage 2D CNN to capture the inter-modal interactions. We expand 
+       the dimension of V and feed it to 2D CNN. The Inter-modal interactions can be calculated as follows: 
+                        ∑2   ∑k
+                 B                                      b
+               cib,jb =          wmb,f b ⋅ xib+mb,jb+f b + b                                                                                           (9) 
+                       mb=1  f b=1
+
+
+                                                                             8
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+
+        B                                                                               ×
+where cib ,jb denotes the output value on convolution kernels B. wmb ,f b denotes respective 2 k weight matrix of convolution kernels B. 
+                                  b          b                b 
+xib +mb,jb +f b denotes the element in i row and j column of V. b is the bias value. With kernel B, we can jointly capture interactions 
+between online review data and historical demand data. 
+    A rectified linear unit (ReLU) is used after the convolution stage to introduce non-linearity into the model to enhance its perfor­
+mance.  We  use a max-pooling   layer to reduce dimension  and increase local scale invariance. Then, we flatten the output of the 
+interaction-based CNN to a vector, which is given by: 
+
+                                   B
+       Z = Flattern[MaxPool(ReLU(cq,t                                                                                         (10)  
+
+3.3.3. Output 
+    In the hotel demand forecasting stage, we feed Z into two fully connected layers and use a linear layer to forecast the hotel demand 
+at time t + n. We compute the hotel demand Yt+n   at time t + n as follows: 
+
+       di = ReLU(Wd,1Z +  bd,1                                                                                                (11)  
+
+       Yt+n = Linear(Wd,2Drop(di) + bd,2                                                                                      (12)  
+
+where Wd,1, Wd,2, bd,1, bd,2are parameter matrices to be trained. It is imperative to note that a dropout layer has been added between the 
+two fully connected layers to limit overfitting. 
+
+4.  Empirical study 
+
+4.1. Data collection and data pre-processing 
+
+4.1.1. Data collection 
+    We chose Chengdu as the empirical context of this research for testing the proposed framework. Chengdu has always been a popular 
+destination for short-haul travelers from surrounding cities2. Compared to medium- and long-haul travelers, short-haul travelers are 
+more sensitive to online information when making decisions (Hu & Song, 2020). Additionally, midscale hotels are chosen for their 
+popularity among travelers (Boto-García, Zapico, Escalonilla, & Banos˜  Pino, 2021) and are therefore more likely to provide a large 
+number of reviews online. The Smith Travel Research, Inc. (STR) provided weekly hotel room demand data. 
+    Online review data for these hotels is collected from Ctrip.com, one of China’s leading travel service providers for hotel accom­
+modation. Ctrip.com   encourages  members  to share travel experiences and  post reviews on Ctrip’s well-established online review 
+platform after each stay. This study implemented a Python-based web crawler to collect information from Ctrip.com online reviews. To 
+avoid data bias, we select hotels with reviews per week. Five hotels are selected as finalists. Our collection includes 15,002, 5852, 
+10,179, 5697, and 9892 reviews for hotel 1, 2, 3, 4, and 5, respectively. Fig. 6 presents the hotel demand series of these fivemidscale  
+hotels. The weekly data ranges from 1 January 2018 to 31 December 2019, with 108 observations (weeks) for each hotel. Specifically, 
+the retrieved online review data contains two different types of information: (1) reviewer-related information that includes the name, 
+grade, total number of posted photos, and total number of helpful votes; (2) review-related information that includes the review 
+content, rating score, posting date, and the number of helpful votes for the review. 
+
+4.1.2. Data pre-processing 
+    As depicted in Table 2, our study  encompasses  multiple features that require pre-processing. It is important to note that the 
+measurements of reviewer expertise and popularity can be obtained directly without additional pre-processing. The procedures for 
+
+
+                                 Fig. 6. Weekly hotel demand from January 2018 to 31 December 2019.  
+
+                                                                 9
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+measuring topics, opinions, informative text, and imaginative text are elaborated upon in the following sections. 
+    Topic modeling  is a robust technique for discerning latent patterns within document  content. It conceptualizes documents  as 
+probabilistic topic mixtures and can uncover a range of topics within a document collection (Griffiths&  Steyvers, 2004). We employed 
+an LDA model in Python utilizing the sklearn package and Gibbs Sampling inference method. Topic coherence assesses the semantic 
+similarity between a  topic’s top terms (Rosner, Hinneburg, Roder,¨  Nettling, & Both, 2014) and can be used to  gage topic model 
+performance. In line with previous research (Fan, Fan, Smith, & Garner, 2020; Zhao, Liu, Yao, & Yang, 2021), we preprocessed online 
+reviews by tokenizing text, removing emojis and stop words, and standardizing encodings to GB-2312. Utilizing Gensim’s Phrases 
+model, we constructed bigrams and employed the coherence model to compute topic coherence for LDA topic models. A range of LDA 
+models with varying k (topic number) values were tested to determine the optimal topic number. We constructed 50 distinct models, 
+incrementally increasing k values from 1 to 100, and calculated coherence scores for each. The number of iterations was set to 400. 
+Coherence scores peaked at 0.56 when the topic number was set to 7. Every topic derived was rigorously scrutinized for its pertinence 
+to the hotel industry and our predictive objectives. To further illustrate the interpretability and distinctiveness of our topics, we present 
+the following examples. Topic A, characterized by terms such as "cleanliness", "hygiene", and "sanitation", is distinctly different from 
+Topic B, which encompasses terms like "location", "proximity", and "accessibility". These topics are not only significantlydivergent  but 
+also bear clear implications for hotel demand. After applying LDA to a collection of online reviews, we can obtain the topic distribution 
+for each review. This distribution represents the probability that the review belongs to each of the topics identified by the LDA al­
+gorithm. We then use the topic distribution as a feature representation of each review. 
+    To compute the sentiment scores of online reviews, we utilized snow-NLP, a Python library that classifies positive and negative 
+emotions using Bayesian models to determine sentiment degree. With snow-NLP, we only needed to remove emojis and standardize 
+encodings to GB-2312 before feeding the preprocessed reviews into the library. This allowed us to obtain sentiment scores for online 
+reviews, with snow-NLP handling tokenization and stop word removal. Sentiment scores range from 0 to 1, with 0 and 1 representing 
+perfectly negative and positive sentiments, respectively. 
+    To assess informative and imaginative text, we followed the same procedure as with LDA, including text tokenization, emoji and 
+stop word removal, and encoding standardization to GB-2312. We then employed Lexical Analysis of Chinese (LAC) to calculate the 
+number   of adjectives, nouns, prepositions, adverbs, verbs, and pronouns  (Jiao, Sun, & Sun,  2018), allowing  us to measure  the 
+informative and imaginative text of online reviews. 
+
+4.2. Experiment setup and performance evaluations 
+
+    We design two categories of experiments in order to evaluate the SFL-based framework and our proposed LICNN model. Experi­
+ment 1 evaluates the forecasting power of features extracted from the SFL-based framework. We compare the forecasting performance 
+between machine learning models with and without the features extracted from the SFL-based framework. In particular, these baseline 
+models include Extreme Gradient Boosting (Xgboost) (Ampountolas & Legg, 2021), support vector regression (SVR) (Sanchez-Medina´    
+& C-Sanchez,´  2020), artificialneural  network (ANN) (Pereira & Cerqueira, 2022), LSTM (Kaya et al., 2022), GRU (Kaya et al., 2022), 
+and attention-based LSTM (Huang & Zheng, 2021). Experiment 2 compares the forecasting performance of our proposed LICNN model 
+against the selected baseline models. 
+    In this research, we use past t (t = 4,6,8) week’s data as input and forecast hotel demand of yt+1. In experiment 1, we compare the 
+forecasting performance between two data sources: historical demand vs. all features (historical demand and online review data). In 
+experiment 2, we compare the performance of our proposed LICNN vs. baseline models based on all features (historical demand and 
+online review data). 
+    We divide the data into three subsets: 80 % of the original data is used as the training set, 10 % is used as the validation set, and the 
+remaining 10 % is used as the test set. We trained machine learning-based models on each of the fivehotels,  respectively. We report the 
+overall performance of machine learning-based models on the selected fivehotels.  Particularly, we use three measures, mean absolute 
+error (MAE), root mean square error (RMSE), and mean absolute percentage error (MAPE) to validate the forecasting performance of 
+our proposed model. Prior studies have widely used these three measures to examine the difference between actual and forecasted 
+demand (Ahmad, Bakar, & Yaakub, 2020; Huo, Ma, & Liu, 2022; Liang, Mao, Lu, Ba, & Li, 2021). They are calculated as follows: 
+               1 ∑n
+       MAE   =      |yi   yi|                                                                                                 (11)  
+               n i=1
+                √̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅
+                    ∑n
+                  1            2
+       RMSE   =         (yi   yi)                                                                                             (12)  
+                  n i=1
+
+                √̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅( ̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅) ̅
+                    ∑n           2
+                  1      yi   yi
+       MAPE   =                                                                                                               (13)  
+                  n  i=1   yi
+
+where yi and yi denote the observed and forecasted hotel demand in week i, respectively. 
+
+
+                                                                10
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+4.3. Hyperparameter selection 
+
+    Optimizing hyperparameters is crucial as they govern the overall behavior of machine learning models. Several hyperparameters 
+should be specifiedin  this research such as the number of hidden units in the dense layer, the number of units in the LSTM layer, the 
+number of convolutional filters,the  training rate, and the kernel size. To determine the best hyperparameter settings, we employ the 
+grid search method to change one parameter while keeping the other parameters constant. Table 3 summarizes the search space of 
+hyperparameters. 
+
+4.4. Results and discussions 
+
+4.4.1. Experiment 1 
+    Experiment 1 examines the primary effects of SFL-based framework features on hotel demand forecasting, focusing specificallyon  
+single-step forecasts. The comparative performance of machine learning models, utilizing either all features or individual feature sets 
+(historical data or review features), is assessed. Figs. 7—9 and Table 4—6 depict these performance comparisons across diverse time 
+lags, applying pairwise T-tests to determine significant variances in performance. 
+    Three key observations can be discerned from these data. First, models exploiting all features consistently outperform those using 
+individual data types. The superior performance, evident across all models and time lags, is substantiated by statistically significantT-  
+test outcomes. For instance, as shown in Table 4, RMSE results for the Xgboost model at a lag of 4 exhibit T-values of   6.56 and   6.82, 
+both yielding p<0.001, when comparing all features against individual data types. This pattern endures across other models and lags, 
+thereby highlighting the robustness of this trend. 
+    Second, we have observed a predominant trend where the majority of models displayed superior performance when trained on 
+historical data compared to review data. This consistent pattern underscores the longstanding assertion that historical data provides a 
+reliable foundation for forecasting models, largely due to the systematic and chronological nature of such data, which allows models to 
+discern and learn from established temporal patterns. However, when review data is combined with historical data (all features), the 
+performance improves markedly. For instance, the integration of review features resulted in lower RMSE, MAE, and MAPE values, 
+reflectingimprovements   ranging from 2.2 % to 46.6 %, 3.2 % to 44.8 %, and 3.5 % to 44.6 %, respectively. This suggests that while 
+review data might not be as powerful as historical data when used in isolation, it can provide valuable complementary information that 
+enhances forecasting accuracy. 
+    Third, the selection of time lags affects the forecasting performance of machine learning models. At lag=4 (Table 4) and lag=8 
+(Table 6), all deep learning models with all features (historical demand and online review data) perform significantlybetter  than their 
+counterparts with only historical demand data for most metrics (RMSE, MAE, and MAPE). The traditional machine learning models 
+also show similar results at these lags. However, it is noted that MAPE is higher for models (ANN, LSTM, and GRU) when using all 
+features compared to using historical data only at a time lag of 6, whereas the RMSE    and MAE are lower for all features. When 
+considering historical data with a time lag of 6, these models might be capturing salient cyclical patterns or other trend components 
+that inherently exist within the data. Consequently, this might lead to more accurate percentage predictions as evidenced by the lower 
+MAPE values. However, when review features are incorporated, particularly from online reviews, the complexity of the data increases. 
+These new features may help reduce the absolute size of errors, as shown by decreased RMSE and MAE values, but they may inad­
+vertently disturb the models’ ability to capture the aforementioned recurring patterns effectively. While acknowledging the increased 
+MAPE values when using review features at a time lag of 6, we see the reduction in RMSE and MAE as a significantimprovement  in our 
+models’ predictive power. The decrease in these absolute error metrics suggests that the introduction of online review features has 
+generally enhanced   the precision of demand  forecasts, thereby providing potentially more useful and actionable  information for 
+demand management. 
+
+4.4.2. Experiment 2 
+    Experiment  2 evaluates the forecasting performance  of our proposed  LICNN  vs. baseline models  using all features (historical 
+
+         Table 3 
+         Search space of hyperparameters.  
+
+           Model                            Hyperparameter                                        Search space 
+
+           SVR                              Kernel                                                [‘linear’, ‘poly’, ‘rbf’] 
+                                            Gamma                                                 [1, 0.1, 0.01, 0.001] 
+                                            C                                                     [0.1, 1, 10, 100] 
+           Xgboost                          Max_depth                                             [3, 4, 5] 
+                                            Gamma                                                 [0.0, 0.1, 0.2, 0.3, 0.4] 
+                                            colsample_bytree                                      [0.3, 0.4, 0.5, 0.7] 
+                                            min_child_weight                                      [1, 3, 5, 7] 
+           ANN                              Number of hidden units in LSTM                        [4, 8, 16, 32, 64, 128, 256] 
+              LSTM                          Number of hidden units in dense layer                 [4, 8, 16, 32, 64, 128, 256] 
+              GRU                           Number of convolutional filters                       [16, 32, 64, 128] 
+              A-LSTM                        Learning rate                                         [1e-3, 1e-4] 
+              LICNN                         Kernel Size                                           [2, 3, 4, 5]  
+
+                                                                11
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+
+                       Fig. 7. Performance comparison of models with all features vs. individua data types (lag=4).  
+
+demand and online review features). We report the average forecasting performance of LICNN and baseline models. Specifically, 
+Figs. 10—12 present the performance comparison of LICNN vs. baseline      models. Tables 7—9 show the    results of pairwise t-tests 
+between LICNN and baseline models. The pairwise t-tests are used to investigate whether significant differences exist between the 
+forecasting performance of LICNN vs. baseline models. 
+    From Figs. 10—12 and Tables 6—8, we can observe two key findings.First,  our proposed LICNN outperforms all the benchmarks, as 
+shown in Figs. 10—12. Compared with baseline models, our proposed LICNN model achieves the lowest RMSE (at least 15.8 % and at 
+most 53.1 % improvements), MAE (at least 8.1 % and at most 56.1 % improvements), and MAPE (at least 12.9 % and at most 44.8 % 
+improvements) values. In all three tables (Tables 7—9), the LICNN model outperforms all the baseline models in terms of RMSE, MAE 
+and MAPE. The differences are statistically significant as indicated by the p-values. For example, in Table 7, when compared to the 
+Xgboost model, the LICNN model has a lower RMSE (p<0.001), a lower MAE (p<0.01), and a lower MAPE (p<0.001). The results 
+demonstrate the superiority of our LICNN model. The reason for this is that baseline models are not capable of capturing high-level 
+feature interactions within multivariate time series. In contrast, our LICNN  model  can extract such interactions. With a proper 
+design, the neural network is able to learn the feature interactions from different data sources and generate improved hotel demand 
+forecasts. 
+    Second, the magnitude of the differences in performance between the LICNN model and the baseline models varies depending on 
+the lag and the performance measure used. For example, In Table 7 (lag=4), the difference in RMSE between the LICNN model and the 
+Xgboost model is    4.393, while the difference in MAE is   3.995 and the difference in MAPE is    5.604. In Table 8 (lag=6), the 
+difference in RMSE between the LICNN model and the Xgboost model is         4.995, while the difference in MAE is   4.125 and the 
+difference in MAPE is    2.791. These results show that for all lags and performance measures, the LICNN model outperforms the 
+Xgboost  model  by a statistically significant margin. However, the magnitude  of this difference varies depending on the lag and 
+
+                                                                12
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+
+                       Fig. 8. Performance comparison of models with all features vs. individua data types (lag=6).  
+
+performance measure used. Similar patterns can be observed when comparing the LICNN model to other baseline models. For example, 
+in Table 7 (lag=4), the difference in RMSE between the LICNN model and the SVR model is       5.174, while in Table 8 (lag=6), the 
+difference is   4.401, and in Table 9 (lag=8), the difference is   4.753. Overall, these results suggest that while the LICNN model 
+consistently outperforms  all baseline models for all lags and performance  measures,  the magnitude   of this advantage can  vary 
+depending on specific conditions. 
+
+4.5. Feature importance analysis 
+
+    Feature importance analysis quantifies the significance of each input feature by evaluating its predictive power. This approach 
+assigns relative scores to features, highlighting those most pertinent to the target variable. In this study, we employed feature ablation 
+(Merrick, 2019), a perturbation-based method, to determine feature attribution. This technique involves replacing individual input 
+features with a reference value and calculating the resulting change in output. We utilized the Captum model interpretability tool 
+(Kokhlikyan et al., 2020) to implement feature ablation and assess the relative importance of features. Our model achieved the lowest 
+RMSE, MAE, and MAPE values for fivehotels    with a time lag of 6. In this section, we focus on hotel 1 to illustrate the contributions of 
+various features and time lags to hotel demand forecasting. Fig. 13 depicts the importance scores of online review features, while 
+Fig. 14 presents the importance scores of different time steps. 
+
+4.5.1. Evaluating the impact of features on hotel demand forecasting 
+    We can obtain several crucial observations from Fig. 13. First, as shown in Fig. 13, opinions expressed in online reviews have the 
+greatest impact. This finding suggests that potential customers  place significant value on the opinions over others when  making 
+
+                                                                13
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+
+                           Fig. 9.  Performance comparison of models with all features vs. individua data types (lag=8).  
+
+
+Table 4 
+Pairwise T-test results: all features vs. individual data types (Lag=4).   
+
+                                      RMSE                                       MAE                                       MAPE  
+
+                                      Historical            Review               Historical           Review               Historical           Review 
+
+ Xgboost: all vs. individual            6.56***               6.82***              4.23***              6.75***              4.64***              3.56** 
+ SVR: all vs. individual                4.46***               5.74***              4.56***              5.18***              8.95***              6.34*** 
+ ANN: all vs. individual                6.67***               3.25**               7.32***              2.89**               0.95                 5.03*** 
+ LSTM: all vs. individual               8.39***               2.88**               7.84***              3.93***              5.14***              4.41*** 
+ GRU: all vs. individual                3.58**                0.43                 6.21***            0.98                   3.76**             2.22 
+ A-LSTM: all vs. individual             16.72***              1.67                 7.03***              3.4**                2.13*                3.4** 
+
+Notes: *, p< 0.05. 
+ ** , p< 0.01. 
+ *** , p< 0.001; Xgboost, extreme gradient boosting; SVR, support vector regression; ANN, artificialneural      network; LSTM, long short-term memory; 
+GRU, gated recurrent unit; A-LSTM, attention-based LSTM; Model_all, model with historical demand and online review data; Model_historical, model 
+with historical demand. 
+
+decisions about hotel accommodations. It may be beneficialfor             hoteliers to focus on encouraging satisfiedcustomers          to leave positive 
+reviews and addressing any negative feedback to improve their online reputation and attract more customers. 
+   Second,    reviewer  expertise  is the second    most  critical feature   in hotel  demand     forecasting.  This  finding   suggests   that potential 
+
+
+                                                                            14
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+Table 5 
+Pairwise T-test results: all features vs. individual data types (lag=6).   
+
+                                RMSE                                MAE                                MAPE  
+
+                                Historical        Review            Historical        Review           Historical        Review 
+
+  Xgboost: all vs. individual     5.33***           7.87***           4.480***          7.10***          9.05***           3.63** 
+  SVR: all vs. individual         4.81***           4.19***           4.73***           3.89***          4.79***           3.70** 
+  ANN: all vs. individual         2.09*             3.98***           0.94              3.66**         1.19                5.79*** 
+  LSTM: all vs. individual        2.96**            2.51*             2.08*             2.53*          1.30                3.13** 
+  GRU: all vs. individual         6.19***           1.42              3.90**            2.04           0.02              1.53 
+  A-LSTM: all vs. individual      34.20***          6.76***           13.10***          6.58***          1.65              3.93***  
+
+
+Table 6 
+Pairwise T-test results: all features vs. individual data types (lag=8).   
+
+                                RMSE                                MAE                                MAPE  
+
+                                Historical        Review            Historical        Review           Historical        Review 
+
+  Xgboost: all vs. individual     7.35***           8.01***           5.96***           7.60***          5.98***           3.59** 
+  SVR: all vs. individual         4.70***           4.74***           3.45**            4.97***          3.83**            3.25** 
+  ANN: all vs. individual         2.72*             3.60**            4.24***           2.87**           0.96              4.51*** 
+  LSTM: all vs. individual        2.84**            2.45*             3.58**            2.60*            3.85**            3.36** 
+  GRU: all vs. individual         10.20***          2.35*             14.31***          2.55*            7.30***           0.10 
+  A-LSTM: all vs. individual      29.99***          2.18*             14.04***          2.20*            3.93**            1.19  
+
+customers may place greater weight on the opinions of experienced and knowledgeable reviewers. Accordingly, hoteliers may benefit 
+from engaging with travel bloggers or other experts in the hospitality industry to review their property and share their insights with 
+potential customers. 
+    Third, imaginative text has almost twice the importance of informative text for hotel demand forecasting. This findingsuggests  that 
+potential customers may be more influencedby    creative and engaging descriptions of hotels than by purely factual information. As a 
+result, hoteliers may consider encouraging their guests to share their experiences at the hotel in a creative and engaging way. This 
+could help the hotel stand out from its competitors and attract more customers. For example, hoteliers could provide guests with 
+suggestions for writing imaginative reviews, such as describing a memorable moment from their stay or sharing a story about their 
+interactions with the hotel staff. By encouraging guests to share their experiences in an imaginative way, hoteliers can help create a 
+more engaging and memorable impression of their property in the minds of potential customers. 
+    Finally, the topics discussed in online reviews have the least impact on hotel demand forecasting. This finding suggests that po­
+tential customers may not be as influencedby  the specifictopics  discussed in reviews as they are by other factors such as the opinions 
+and expertise of reviewers. Consider a scenario in which a potential customer is evaluating a hotel for a romantic getaway. Two reviews 
+of the same hotel are presented. The firstreview  provides a detailed account of the hotel’s romantic atmosphere, including the quality 
+of room service, the view from the balcony, and the ambiance of the restaurant. However, the reviewer has limited experience in 
+writing reviews and staying in hotels for romantic getaways. In contrast, the second review is written by an individual with extensive 
+experience writing reviews and staying in hotels for romantic getaways. The reviewer provides a more general assessment of the hotel 
+and its value for money rather than focusing on specificaspects  of the romantic atmosphere. In this scenario, potential customers may 
+place greater trust in the opinion of the second reviewer, despite their lack of details regarding the romantic atmosphere of the hotel. 
+This may be attributed to the potential customer valuing the expertise and opinions of the reviewer over the specifictopics  discussed in 
+the review. 
+
+4.5.2. Evaluating the impact of time lags on hotel demand forecasting 
+    We can observe several key findingsfrom  Fig. 14. First, the 1-week lag has the highest importance in hotel demand forecasting. This 
+suggests that online reviews from the most recent week are the most important factor in forecasting hotel demand. This findingis  also 
+consistent with prior studies, which find timeliness of online reviews is significantly positively associated with online hotel booking 
+intentions (Filieri & McLeay, 2013; Zhang, Liang, Li, & Zhang, 2019; Zhao et al., 2015). Hoteliers may benefitfrom  the findings.For  
+instance, a large number of positive online reviews in the past week may indicate an increase in demand for a hotel. In such a scenario, 
+hotel managers may consider adjusting room rates or modifying discount strategies to capitalize on this increased demand. 
+    Second, 5-week lag has a higher importance than the 2-week, 3-week, and 4-week lags. This suggests that online reviews from 5 
+weeks ago may also play a significantrole  in predicting hotel demand. For instance, if a hotel received a large number of positive online 
+reviews 5 weeks ago that highlighted specific features or amenities of the hotel, it may indicate that these features or amenities are 
+particularly important to customers and are driving demand for that hotel. In such a scenario, hotel managers may consider promoting 
+these features or amenities more prominently in their marketing materials to attract more customers. 
+    Third, the 6-week lag exerts a relatively low importance compared to other time lags in forecasting hotel demand. This suggests that 
+online reviews from 6 weeks prior may not be as critical in influencing consumer behavior. One possible explanation for this obser­
+vation is that consumers may not peruse online reviews posted six weeks prior due to temporal constraints. Alternatively, it is plausible 
+
+
+                                                                15
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+
+                                 Fig. 10. Performance comparison of LICNN vs. baseline models (lag=4).  
+
+that more recent reviews exert a greater impact on consumer decision-making processes than those posted 6 weeks prior. Consider a 
+hypothetical scenario in which a hotel received negative online reviews 6 weeks prior due to suboptimal facilities or services. However, 
+subsequent remedial measures implemented by the hotel have resulted in positive feedback from recent guests. In this context, it is 
+plausible that the negative reviews from 6 weeks prior may exert a diminished impact on consumer decision-making processes, as they 
+may perceive tangible improvements in the hotel’s offerings. Consequently, demand for that hotel may not be significantlyaffected  by 
+the negative reviews from 6 weeks prior. This may highlight the importance of active online reputation management and prompt 
+redressal of negative feedback by hotels to minimize its impact on future demand. 
+
+4.6. Ablation analysis 
+
+    In this section, we compare   LICNN  with  three variations to examine   how  different components   contribute to forecasting 
+performance.  
+
+  • LSTM-NN. Compared with LICNN, LSTM-NN uses LSTM and two dense layers for hotel demand forecasting. We use LSTM-NN to 
+    examine the impact of interaction-based CNN on forecasting performance.  
+  • LSTM-CNN-NN. Compared with LICNN, LSTM-CNN-NN uses conventional CNN instead of interaction-based CNN for hotel demand 
+    forecasting. The LSTM-CNN-NN is employed to compare the difference between conventional CNN and interaction-based CNN.  
+  • I-CNN-NN. Compared with LICNN, I-CNN-NN uses interaction-based CNN and two dense layers for hotel demand forecasting. We 
+    leverage I-CNN-NN to investigate the impact of LSTM on forecasting performance. 
+
+
+                                                                16
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+
+                                 Fig. 11. Performance comparison of LICNN vs. baseline models (lag=6).  
+
+    Table 10 presents the performance of LICNN vs. its three variations on hotel demand forecasting. We can observe three key findings 
+from Table 9. First, we notice that our LICNN model yields the best performance, demonstrating its superiority over the three vari­
+ations. Second, LSTM-CNN-NN performs worse than LSTM-NN, whereas LICNN performs better than LSTM-NN. The result demon­
+strates that our proposed interaction-based CNN performs better than conventional CNN. This result may be explained by the fact that 
+I-CNN can extract feature interactions between different data sources while conventional CNN cannot. Third, compared to LSTM-NN 
+and LSTM-CNN-NN, ICNN yields better forecasting performance, highlighting the value of ICNN. This result also demonstrates that 
+extracting feature interactions between different sources is critical in improving forecasting performance. 
+
+4.6. Theoretical and practical implications 
+
+4.6.1. Theoretical implications 
+    This study makes two critical theoretical contributions to existing hotel demand forecasting research. First, existing studies mainly 
+focus on leveraging sentiment information from online reviews for demand forecasting. This study investigates what online review 
+features, including sentiment information, can be extracted from online reviews and incorporated into hotel demand forecasting. In 
+other words, our study  extends prior studies by systematically exploiting the impacts of online review features on hotel demand 
+forecasting. Second, existing studies fail to consider feature interactions among  different sources. Our study  proposes a novel 
+interaction-based CNN to extract complex feature interactions between online review features and historical demand data. Our study 
+suggests that extracting feature interactions among  different data sources helps improve   forecasting accuracy in hotel demand 
+forecasting. 
+
+
+                                                                17
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+
+                                      Fig. 12.  Performance comparison of LICNN vs. baseline models (lag=8).  
+
+     Table 7 
+     Pairwise T-test results of LICNN vs. baseline models (lag=4).   
+
+                                                        RMSE                                    MAE                                     MAPE 
+
+       LICNN vs. Xgboost                                  4.393***                                3.995**                                 5.604*** 
+       LICNN vs. SVR                                      5.174***                                4.606***                                2.418* 
+       LICNN vs. ANN                                      18.777***                               17.001***                               6.607*** 
+       LICNN vs. LSTM                                     7.713***                                6.254***                                20.258*** 
+       LICNN vs. GRU                                      5.405***                                4.927***                                7.202*** 
+       LICNN vs. A-LSTM                                   5.567***                                5.102***                                10.328*** 
+       LICNN vs. CNN                                      1.591**                                 1.067*                                  0.030** 
+       LICNN vs. CNN-LSTM                                 3.538***                                2.609***                                0.138*** 
+       LICNN vs. LSTM-CNN                                 3.448***                                3.667***                                0.097*** 
+
+     Notes: *, p<  0.05. 
+       ** , p< 0.01. 
+       *** , p< 0.001; Xgboost, extreme gradient boosting; SVR, support vector regression; ANN, artificialneural        network; LSTM, long short- 
+     term memory; GRU, gated recurrent unit; CNN, convolutional neural network; CNN-LSTM, convolutional neural network-long short-term 
+     memory network; LSTM-CNN, long short-term memory network-convolutional neural network; A-LSTM, attention-based LSTM; LICNN, 
+     long short-term memory interaction-based CNN. 
+
+
+                                                                            18
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+       Table 8 
+       Pairwise T-test results of LICNN vs. baseline models (lag=6).   
+
+                                                          RMSE                                   MAE                                   MAPE 
+
+         LICNN vs. Xgboost                                  4.995***                               4.125***                              2.791* 
+         LICNN vs. SVR                                      4.401***                               4.059***                              3.086** 
+         LICNN vs. ANN                                      6.346***                               5.923***                              8.041*** 
+         LICNN vs. LSTM                                     7.372***                               7.155***                              7.229*** 
+         LICNN vs. GRU                                      5.243***                               5.300***                              6.784*** 
+         LICNN vs. A-LSTM                                   5.492***                               5.583***                              9.097*** 
+         LICNN vs. CNN                                      1.983***                               1.385**                               0.080*** 
+         LICNN vs. CNN-LSTM                                 3.232***                               2.318***                              0.142*** 
+         LICNN vs. LSTM-CNN                                 3.847***                               3.608***                              0.122*** 
+
+       Notes: *, p<  0.05. 
+         ** , p< 0.01. 
+         *** , p< 0.001; Xgboost, extreme gradient boosting; SVR, support vector regression; ANN, artificialneural     network; LSTM, long short- 
+       term memory; GRU, gated recurrent unit; CNN, convolutional neural network; CNN-LSTM, convolutional neural network-long short- 
+       term memory network; LSTM-CNN, long short-term memory network-convolutional neural network; A-LSTM, attention-based LSTM; 
+       LICNN, long short-term memory interaction-based CNN. 
+
+
+      Table 9 
+      Pairwise T-test results of LICNN vs. baseline models (lag=8).   
+                                                         RMSE                                    MAE                                   MAPE 
+
+        LICNN vs. Xgboost                                  4.963***                                4.166***                              3.395** 
+        LICNN vs. SVR                                      4.753***                                4.112***                              3.592** 
+        LICNN vs. ANN                                      14.786***                               7.640***                              8.000*** 
+        LICNN vs. LSTM                                     10.121***                               2.567*                                6.244*** 
+        LICNN vs. GRU                                      5.276***                                4.918***                              11.030*** 
+        LICNN vs. A-LSTM                                   5.633***                                5.512***                              14.514*** 
+        LICNN vs. CNN                                      2.254***                                1.020*                                0.100*** 
+        LICNN vs. CNN-LSTM                                 2.780***                                1.346***                              0.114*** 
+        LICNN vs. LSTM-CNN                                 2.024***                                2.077***                              0.143** 
+
+      Notes: *, p<  0.05. 
+        ** , p< 0.01. 
+        *** , p< 0.001; Xgboost, extreme gradient boosting; SVR, support vector regression; ANN, artificialneural       network; LSTM, long short- 
+      term memory; GRU, gated recurrent unit; CNN, convolutional neural network; CNN-LSTM, convolutional neural network-long short-term 
+      memory network; LSTM-CNN, long short-term memory network-convolutional neural network; A-LSTM, attention-based LSTM; LICNN, 
+      long short-term memory interaction-based CNN. 
+
+
+                                                 Fig. 13. Importance scores of online review features.  
+
+4.6.2.  Practical implications 
+   We   discuss   the practical   value  and   impact   on  relevant  stakeholders    of  interest. Notably,   our  study   benefits  two   categories   of 
+stakeholders: hoteliers and online platforms. We discuss them in turn. 
+   Hoteliers. Accurate hotel demand forecasting is a crucial issue in hotel revenue management. Our model helps hoteliers make more 
+informed decisions by enabling them to forecast demand more accurately. In addition, our model allows hoteliers to understand which 
+online review features significantly impact future hotel demand. Therefore, hoteliers can take appropriate actions to improve hotel 
+
+                                                                            19
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+
+                                               Fig. 14. Importance scores of time lags.  
+
+
+Table 10 
+Performance of LICNN vs. its variations on hotel demand forecasting.  
+
+  Time lag                     Model                            Performance metrics 
+
+                                                                RMSE                         MAE                          MAPE 
+
+  4                            LSTM-NN                          11.87***                     9.85***                      0.40*** 
+                               LSTM-CNN-NN                      12.99***                     11.53***                     0.40*** 
+                               I-CNN-NN                         11.27***                     9.81***                      0.35*** 
+                               LICNN                            9.54                         7.86                         0.30 
+  6                            LSTM-NN                          11.91***                     10.05***                     0.42*** 
+                               LSTM-CNN-NN                      13.02***                     11.16***                     0.41*** 
+                               I-CNN-NN                         10.62***                     9.25***                      0.33** 
+                               LICNN                            9.17                         7.55                         0.29 
+  8                            LSTM-NN                          11.54***                     9.91***                      0.37** 
+                               LSTM-CNN-NN                      11.64***                     10.44***                     0.45** 
+                               I-CNN-NN                         10.77***                     9.65***                      0.38*** 
+                               LICNN                            9.61                         8.36                         0.31 
+
+Note: Best performers are bold. *, p<0.5. 
+  ** , p<0.01. 
+  *** , p<0.001. 
+
+business performance.  For example,  if hoteliers find that opinions significantly affect hotel forecasting performance, they should 
+carefully check ratings and sentiments expressed in online reviews. Hoteliers may engage with negative reviews such as complaints 
+and take actions (e.g., demonstrating a willingness to improve) to improve their digital reputation. 
+    Online platforms. Online platforms are the go-to place for consumers to understand the pros and cons of products and services. 
+Online reviews contain clues for consumers to assess products effectively. The findings of our study suggest that combining online 
+review features with historical demand data can improve the accuracy of forecasts. However, many online reviews are short and 
+contain fewer features. Online platforms can encourage consumers to post reviews with detailed descriptions of their experiences. For 
+example, online platforms can encourage customers to list the pros and cons of products with a bottom-line recommendation. This will 
+not only facilitate consumers’ assessment of the quality of online reviews but also provide more cues that may assist in forecasting 
+demand. 
+
+5.  Conclusions 
+
+    Accurate hotel demand forecasting is a crucial issue in hotel revenue management. This study leverages online reviews from online 
+platforms and develops a theoretical framework to extract signals for forecasting future hotel demand. Further, we propose a novel 
+long short-term memory interaction-based convolutional neural network (LICNN) model to extract feature interactions between online 
+reviews and historical demand. The empirical results show that incorporating features extracted from online reviews, guided by the 
+SFL-based framework, improves forecasting accuracy. Furthermore, we compare our model with baseline models and demonstrate its 
+superiority. 
+    Our study makes two key contributions. First, our study proposes an SFL-based text analytic framework to extract cues from online 
+reviews for hotel demand forecasting. While leveraging online reviews for hotel demand forecasting is promising, existing studies are 
+limited to analyzing rating and sentiment data. This study quantifiesonline  reviews from different perspectives and constructs three 
+functions (ideational, text, and interpersonal functions) for extracting signals, which can provide insights for future research. Second, 
+we propose a novel deep learning-based model that considers the intra- and cross-modal interactions between online reviews and 
+
+                                                                20
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+historical demand. Our model serves as an IT artifact for advanced hotel demand forecasting, which can assist hospitality practitioners 
+in forecasting hotel demand for revenue management. We evaluate our model against baseline models and validate them on real-world 
+datasets. We further demonstrated the practical value of the framework with an empirical case study, providing insights for industrial 
+practitioners to update their forecasting models. 
+    As with any  study, our research has several limitations. First, using a single platform may introduce platform-specific biases, 
+including those related to the review system design and user base, which could affect the results of our feature importance analysis. 
+Review system design refers to how online reviews are presented to consumers. For instance, Ctrip displays reviewers’ expertise levels 
+directly, while Tripadvisor requires clicking on a reviewer’s profile to obtain this information. This can result in differences in the 
+impact of reviewer characteristics on hotel demand between platforms and thus differences in feature importance. The user base refers 
+to consumer writing and reviewing behaviors, which can vary by country or region. For example, Ctrip reviews are written in Chinese 
+while Tripadvisor reviews are written in English. The language used may affect consumer perception of review helpfulness and thus the 
+importance of features to hotel demand may differ between platforms. Second, we use the sentiment analysis on the whole review 
+instead of aspect-based sentiment analysis (ABSA). ABSA has been demonstrated to be an effective approach for sentiment analysis in 
+prior studies. The use of aspect-based sentiment analysis (ABSA) for fine-grained sentiment analysis could potentially improve the 
+performance of hotel demand forecasting by providing more detailed and nuanced insights into customer sentiment. Future works 
+could consider incorporating ABSA or alternative sentiment analysis techniques to address this limitation. 
+
+Endnotes  
+
+ 1  https://www.tripadvisor.com/TripAdvisorInsights/w733  
+ 2  https://sichuan.scol.com.cn/dwzw/202110/58308618.html  
+ 3  https://www.brightlocal.com/research/local-consumer-review-survey-2019/ 
+
+CRediT authorship contribution statement 
+
+    Dong Zhang: Methodology, Writing – original draft. Baozhuang Niu: Supervision, Writing – review & editing. 
+
+Declaration of Competing Interest 
+
+    None. 
+
+Data availability 
+
+    Data will be made available on request. 
+
+Acknowledgments 
+
+    This work was supported by National Natural Science Foundation of China (No. 72201105, 72125006, 72293564/72293560) and 
+Guangdong Basic and Applied Basic Research Foundation (No. 2023A1515012503). 
+
+Appendix A.    LICNN model specifications 
+
+    Model reproducibility is of great importance to scholarly publications. We therefore provide the specificationsof  our LICNN model 
+(e.g., selection of layers and hyperparameters).  
+
+
+Table A1 
+LICNN model specifications.  
+
+  Component                Description                   Details 
+
+  LSTM                     LSTM for online review data   nn.LSTM(input_size=16, hidden_size=16, num_layers=1) 
+                           LSTM for historical demand data nn.LSTM(input_size=1, hidden_size=16, num_layers=1) 
+  Interaction CNN          Conv1d_1                      nn.Conv1d(in_channels=16, out_channels=128, kernel_size=(3,), stride=1, padding=Zero) 
+                                                         nn.batchNorm1d(16) 
+                                                         nn.ReLU() 
+                           Conv1d_2                      nn.Conv1d(in_channels=16, out_channels=128, kernel_size=(3,), stride=1, padding=Zero) 
+                                                         nn.batchNorm1d(16) 
+                                                         nn.ReLU() 
+                           Concatenate                   torch.stack((Conv1d_1, Conv1d_2), 2) 
+                                                                                                              (continued on next page) 
+
+
+                                                                21
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+Table A1 (continued  ) 
+
+ Component                     Description                         Details 
+
+                               Conv2d                              nn.Conv2d(in_channels=1, out_channels=32, kernel_size=(2,4), stride=1) 
+                                                                   nn.batchNorm1d(32) 
+                                                                   nn.ReLU() 
+                               Max_pooling                         nn.MaxPool2d(kernel_size=1) 
+ Hotel demand forecasting      Dense_1                             nn.Linear(in_dims=121192, out_dims=128, bias=True) 
+                                                                   nn.ReLU() 
+                               Dropout_1                           nn.Dropout(0.5) 
+                               Dense_2                             Linear (in_ dims=128, out_ dims=1, bias=True) 
+Notes: nn, torch.nn. 
+
+Appendix B.      An actual example of review and measurement procedures 
+
+   We provide an actual review below, as shown in Fig. B1. Our methodology for measuring these features is illustrated through this 
+review. Measurements of reviewer expertise, reviewer popularity, and rating of opinions are directly obtained from Fig. B1, and their 
+corresponding values are presented in Table B1. The sentiment score is calculated using snow-NLP, yielding a value of 0.4142. LDA is 
+employed to generate a text vector with an optimal topic number of 7, as shown in Table B1. The top distribution vector serves as the 
+feature vector in our analysis. Finally, we utilize LAC to determine the values of information and imaginative texts, which are also 
+presented in Table B1. 
+
+
+                                                     Fig. B1.  An actual online review from Ctrip.   
+Table B1 
+Empirical assessment of feature measurements for the specified example.  
+
+ Feature                           Measurement                                                    Values 
+
+ Topics                            LDA                                                            [0.0190, 0.9023, 0.0128, 0.0125, 0.0216, 0.0138, 0.0177] 
+ Opinions                          Rating and sentiment score                                     Rating: 5.0, sentiment score:0.4142 
+ Informative text                  Total number of adjectives, nouns, and prepositions            39 
+ Imaginative text                  Total number of adverbs, verbs and pronouns                    14 
+ Reviewer expertise                Total number of posts                                          21 
+                                   Reviewer expert level                                          1 
+                                   Image count                                                    67 
+ Reviewer popularity               Helpful votes of each review                                   0 
+                                   Total number of helpful votes                                  21  
+
+
+References 
+
+Aalen, P., Iversen, E., & Jakobsen, E. (2018). Exchange rate fluctuations and demand for hotel accommodation: Panel data evidence from Norway. Scandinavian 
+   Journal of Hospitality and Tourism, 19(2), 210–250. https://doi.org/10.1080/15022250.2018.1482566 
+Abbasi, A., & Chen, H. (2008). CyberGate: A design framework and system for text analysis of computer-mediated communication. MIS Quarterly, 32(4), 811–837. 
+   https://doi.org/10.2307/25148873 
+
+                                                                            22
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+Ahmad, I. S., Bakar, A. A., & Yaakub, M. R. (2020). Movie revenue prediction based on purchase intention mining using YouTube trailer reviews. Information 
+   Processing & Management, 57(5), Article 102278. https://doi.org/10.1016/j.ipm.2020.102278 
+Ampountolas, A. (2021). Modeling and forecasting daily hotel demand: A comparison based on SARIMAX, neural networks, and GARCH models. Forecasting, 3(3), 
+   580–595. https://www.mdpi.com/2571-9394/3/3/37. 
+Ampountolas, A., & Legg, M. P. (2021). A segmented machine learning modeling approach of social media for predicting occupancy. International Journal of 
+   Contemporary Hospitality Management, 33(6), 2001–2021. https://doi.org/10.1108/IJCHM-06-2020-0611 
+Argamon, S., Whitelaw, C., Chase, P., Hota, S. R., Garg, N., & Levitan, S. (2007). Stylistic text classification using functional lexical features. Journal of the American 
+   Society for Information Science and Technology, 58(6), 802–822. https://doi.org/10.1002/asi.20553 
+Assaf, A. G., & Tsionas, M. G. (2019). Forecasting occupancy rate with Bayesian compression methods. Annals of Tourism Research, 75, 439–449. https://doi.org/ 
+   10.1016/j.annals.2018.12.009 
+Bi, J. W., Liu, Y., & Li, H. (2020). Daily tourism volume forecasting for tourist attractions. Annals of Tourism Research, 83, Article 102923. https://doi.org/10.1016/j. 
+   annals.2020.102923 
+Biswas, D., Biswas, A., & Das, N. (2006). The differential effects of celebrity and expert endorsements on consumer risk perceptions. The role of consumer knowledge, 
+   perceived congruency, and product technology orientation. Journal of Advertising, 35(2), 17–31. https://doi.org/10.1080/00913367.2006.10639231 
+Blei, D. M., Ng, A. Y., & Jordan, M. I. (2003). Latent dirichlet allocation. Journal of Machine Learning Research, 3(Jan), 993–1022. 
+Boto-García, D., Zapico, E., Escalonilla, M., & Banos˜  Pino, J. F. (2021). Tourists’ preferences for hotel booking. International Journal of Hospitality Management, 92, 
+   Article 102726. https://doi.org/10.1016/j.ijhm.2020.102726 
+Chang, Y. C., Ku, C. H., & Chen, C. H. (2020). Using deep learning and visual analytics to explore hotel reviews and responses. Tourism Management, 80, Article 
+   104129. https://doi.org/10.1016/j.tourman.2020.104129 
+Chang, Y. M., Chen, C. H., Lai, J. P., Lin, Y. L., & Pai, P. F. (2021). Forecasting hotel room occupancy using long short-term memory networks with sentiment analysis 
+   and scores of customer online reviews. Applied Sciences, 11(21), 10291. https://www.mdpi.com/2076-3417/11/21/10291. 
+Chen, J., Yang, Y., & Liu, H. (2021). Mining bilateral reviews for online transaction prediction: A relational topic modeling approach. Information Systems Research, 32 
+   (2), 541–560. https://doi.org/10.1287/isre.2020.0981 
+Cheng, Y. H., & Ho, H. Y. (2015). Social influence’s impact on reader perceptions of online reviews. Journal of Business Research, 68(4), 883–887. https://doi.org/ 
+   10.1016/j.jbusres.2014.11.046 
+Cho, H. S., Sosa, M. E., & Hasija, S. (2022). Reading between the stars: Understanding the effects of online customer reviews on product demand. Manufacturing & 
+   Service Operations Management, 24(4), 1977–1996. https://doi.org/10.1287/msom.2021.1048 
+Dergiades, T., Mavragani, E., & Pan, B. (2018). Google Trends and tourists’ arrivals: Emerging biases and proposed corrections. Tourism Management, 66, 108–120. 
+   https://doi.org/10.1016/j.tourman.2017.10.014 
+Dong, W., Liao, S., & Zhang, Z. (2018). Leveraging financial social media data for corporate fraud detection. Journal of Management Information Systems, 35(2), 
+   461–487. https://doi.org/10.1080/07421222.2018.1451954 
+Duro, J. A. (2016). Seasonality of hotel demand in the main Spanish provinces: Measurements and decomposition exercises. Tourism Management, 52, 52–63. https:// 
+   doi.org/10.1016/j.tourman.2015.06.013 
+Fan, B., Fan, W., Smith, C., & Garner, H. S. (2020). Adverse drug event detection and extraction from open data: A deep learning approach. Information Processing & 
+   Management, 57(1), Article 102131. https://doi.org/10.1016/j.ipm.2019.102131 
+Filieri, R., & McLeay, F. (2013). E-WOM and accommodation: An analysis of the factors that influencetravelers ’ adoption of information from online reviews. Journal 
+   of Travel Research, 53(1), 44–57. https://doi.org/10.1177/0047287513481274 
+Griffiths, T. L., & Steyvers, M. (2004). Finding scientific topics. Proceedings of the National Academy of Sciences, 101(1), 5228–5235. https://doi.org/10.1073/ 
+   pnas.0307752101. suppl_. 
+Halliday, M. A. K., Matthiessen, C. M. I. M., Halliday, M., & Matthiessen, C. (2004). An introduction to functional grammar (3rd ed.). Routledge. https://doi.org/ 
+   10.4324/9780203783771 
+Hong, H., Xu, D., Wang, G. A., & Fan, W. (2017). Understanding the determinants of online review helpfulness: A meta-analytic investigation. Decision Support Systems, 
+   102, 1–11. https://doi.org/10.1016/j.dss.2017.06.007 
+Hou, F., Li, B., Chong, A. Y. L., Yannopoulou, N., & Liu, M. J. (2017). Understanding and predicting what influenceonline  product sales? A neural network approach. 
+   Production Planning & Control, 28(11–12), 964–975. https://doi.org/10.1080/09537287.2017.1336791 
+Hu, M., & Song, H. (2020). Data source combination for tourism demand forecasting. Tourism Economics, 26(7), 1248–1265. https://doi.org/10.1177/ 
+   1354816619872592 
+Huang, A. H., Chen, K., Yen, D. C., & Tran, T. P. (2015). A study of factors that contribute to online review helpfulness. Computers in Human Behavior, 48, 17–27. 
+   https://doi.org/10.1016/j.chb.2015.01.010 
+Huang, L., & Zheng, W. (2021). Novel deep learning approach for forecasting daily hotel demand with agglomeration effect. International Journal of Hospitality 
+   Management, 98, Article 103038. https://doi.org/10.1016/j.ijhm.2021.103038 
+Huo, C., Ma, S., & Liu, X. (2022). Hotness prediction of scientifictopics  based on a bibliographic knowledge graph. Information Processing & Management, 59(4), Article 
+   102980. https://doi.org/10.1016/j.ipm.2022.102980 
+Hyland, K. (2018). Genre and second language writing. The TESOL encyclopedia of English language teaching, 17(4), 1–6. 
+Jiao, Z., Sun, S., & Sun, K. (2018). Chinese lexical analysis with deep bi-gru-crf network. arXiv preprint arXiv:1807.01882. 
+Kachniewska, M. (2020). The use of Big Data in tourism sales forecasting. International Journal of Contemporary Management, 19(2), 7–35. https://doi.org/10.4467/ 
+   24498939ijcm.20.004.12669 
+Kamola, M., & Arabas, P. (2020). Improving time-series demand modeling in hospitality business by analytics of public event datasets. IEEE access: Practical 
+   innovations, open solutions, 8, 53666–53677. https://doi.org/10.1109/ACCESS.2020.2980501 
+                               ¨
+Kaya, K., Yılmaz, Y., Yaslan, Y., Ogüdücü,˘  S¸ . G., & Çıngı, F. (2022). Demand forecasting model using hotel clustering findings for hospitality industry. Information 
+   Processing & Management, 59(1), Article 102816. https://doi.org/10.1016/j.ipm.2021.102816 
+Kim, H. Y., & Won, C. H. (2018). Forecasting the volatility of stock price index: A hybrid model integrating LSTM with multiple GARCH-type models. Expert Systems 
+   with Applications, 103, 25–37. https://doi.org/10.1016/j.eswa.2018.03.002 
+Kim, J. H., Wong, K., Athanasopoulos, G., & Liu, S. (2011). Beyond point forecasting: Evaluation of alternative prediction intervals for tourist arrivals. International 
+   Journal of Forecasting, 27(3), 887–901. https://doi.org/10.1016/j.ijforecast.2010.02.014 
+Kokhlikyan, N., Miglani, V., Martin, M., Wang, E., Alsallakh, B., & Reynolds, J. et al.(2020).CAPTUM: A unifiedand  generic model interpretability library for pytorch. 
+   arXiv preprint arXiv:2009.07896. 
+Kuan, K. K., Hui, K. L., Prasarnphanich, P., & Lai, H. Y. (2015). What makes a review voted? An empirical investigation of review voting in online review systems. 
+   Journal of the Association for Information Systems, 16(1), 48–71. 
+Law, R., Li, G., Fong, D. K. C., & Han, X. (2019). Tourism demand forecasting: A deep learning approach. Annals of Tourism Research, 75, 410–423. https://doi.org/ 
+   10.1016/j.annals.2019.01.014 
+Lawani, A., Reed, M. R., Mark, T., & Zheng, Y. (2019). Reviews and price on online platforms: Evidence from sentiment analysis of Airbnb reviews in Boston. Regional 
+   Science and Urban Economics, 75, 22–34. https://doi.org/10.1016/j.regsciurbeco.2018.11.003 
+Lee, M. (2018). Modeling and forecasting hotel room demand based on advance booking information. Tourism Management, 66, 62–71. https://doi.org/10.1016/j. 
+   tourman.2017.11.004 
+Li, H., Hu, M., & Li, G. (2020). Forecasting tourism demand with multisource big data. Annals of Tourism Research, 83, Article 102912. https://doi.org/10.1016/j. 
+   annals.2020.102912 
+Li, J., & Liang, X. (2022). Reviewers’ identity cues in online product reviews and consumers’ purchase intention. Frontiers in Psychology, 12. https://doi.org/10.3389/ 
+   fpsyg.2021.784173 
+
+
+                                                                            23
+D. Zhang and B. Niu                                                                                                                                      Information                  Processing                and      Management                    61 (2024) 103527
+
+Li, J., Xu, X., & Ngai, E. W. T. (2021). Does certainty tone matter? Effects of review certainty, reviewer characteristics, and organizational niche width on review 
+   usefulness. Information & Management, 58(8), Article 103549. https://doi.org/10.1016/j.im.2021.103549 
+Liang, Z., Mao, J., Lu, K., Ba, Z., & Li, G. (2021). Combining deep neural network and bibliometric indicator for emerging research topic prediction. Information 
+   Processing & Management, 58(5), Article 102611. https://doi.org/10.1016/j.ipm.2021.102611 
+Lim, C., Chang, C., & McAleer, M. (2009). Forecasting h(m)otel guest nights in New Zealand. International Journal of Hospitality Management, 28(2), 228–235. https:// 
+   doi.org/10.1016/j.ijhm.2008.08.001 
+Liu, S., Wang, N., Gao, B., & Gallivan, M. (2021). To be similar or to be different? The effect of hotel managers’ rote response on subsequent reviews. Tourism 
+   Management, 86, Article 104346. https://doi.org/10.1016/j.tourman.2021.104346 
+Merrick, L. (2019). Randomized ablation feature importance. arXiv preprint arXiv:1910.00174. 
+¨
+Ogüt,˘  H., & Onur Tas¸, B. K. (2012). The influence of internet customer reviews on the online sales and prices in hotel industry. The Service Industries Journal, 32(2), 
+   197–214. https://doi.org/10.1080/02642069.2010.529436 
+O’Neill, J. W., & Ouyang, Y. (2020). Predicting lodging demand trends in the U.S. hotel industry. Cornell Hospitality Quarterly, 61(3), 237–254. https://doi.org/ 
+   10.1177/1938965520916443 
+Ott, M., Choi, Y., Cardie, C., & Hancock, J.T. (2011) (.). Finding deceptive opinion spam by any stretch of the imagination. arXiv preprint arXiv:1107.4557. 
+Pan, B., Chenguang Wu, D., & Song, H. (2012). Forecasting hotel room demand using search engine data. Journal of Hospitality and Tourism Technology, 3(3), 196–210. 
+   https://doi.org/10.1108/17579881211264486 
+Pan, B., & Yang, Y. (2017). Forecasting destination weekly hotel occupancy with Big Data. Journal of Travel Research, 56(7), 957–970. https://doi.org/10.1177/ 
+   0047287516669050 
+Pang, B., & Lee, L. (2008). Opinion mining and sentiment analysis. Foundations and Trends® in Information Retrieval, 2(1–2), 1–135. https://doi.org/10.1561/ 
+   1500000011 
+Pereira, L. N., & Cerqueira, V. (2021). Forecasting hotel demand for revenue management using machine learning regression methods. Current Issues in Tourism, 1–18. 
+   https://doi.org/10.1080/13683500.2021.1999397 
+Pereira, L. N., & Cerqueira, V. (2022). Forecasting hotel demand for revenue management using machine learning regression methods. Current Issues in Tourism, 25 
+   (17), 2733–2750. https://doi.org/10.1080/13683500.2021.1999397 
+Proserpio, D., & Zervas, G. (2017). Online reputation management: Estimating the impact of management responses on consumer reviews. Marketing Science, 36(5), 
+   645–665. https://doi.org/10.1287/mksc.2017.1043 
+Rendle, S., Gantner, Z., Freudenthaler, C., & Schmidt-Thieme, L. (2011). Fast context-aware recommendations with factorization machines. In Proceedings of the 34th 
+   International ACM SIGIR Conference on Research and Development in Information Retrieval, Beijing, China. 
+Rosner, F., Hinneburg, A., Roder,¨  M., Nettling, M., & Both, A. (2014). Evaluating topic coherence measures. arXiv preprint arXiv:1403.6397. 
+Rutherford, B. A. (2005). Genre analysis of corporate annual report narratives: A corpus linguistics–based approach. The Journal of Business Communication, 42(4), 
+   349–378. https://doi.org/10.1177/0021943605279244 
+Sanchez,´  E. C., Sanchez-Medina,´  A. J., & Pellejero, M. (2020). Identifying critical hotel cancellations using artificialintelligence.  Tourism Management Perspectives, 35, 
+   Article 100718. https://doi.org/10.1016/j.tmp.2020.100718 
+Sanchez-Medina,´  A. J., & C-Sanchez,´  E. (2020). Using machine learning and big data for efficient forecasting of hotel booking cancellations. International Journal of 
+   Hospitality Management, 89, Article 102546. https://doi.org/10.1016/j.ijhm.2020.102546 
+Shin, S., Du, Q., Ma, Y., Fan, W., & Xiang, Z. (2021). Moderating effects of rating on text and helpfulness in online hotel reviews: An analytical approach. Journal of 
+   Hospitality Marketing & Management, 30(2), 159–177. https://doi.org/10.1080/19368623.2020.1778596 
+Shukla, A. D., Gao, G., & Agarwal, R. (2021). How digital word-of-mouth affects consumer decision making: evidence from doctor appointment booking. Management 
+   Science, 67(3), 1546–1568. https://doi.org/10.1287/mnsc.2020.3604 
+Sim, Y., Lee, S. K., & Sutherland, I. (2021). The impact of latent topic valence of online reviews on purchase intention for the accommodation industry. Tourism 
+   Management Perspectives, 40, Article 100903. https://doi.org/10.1016/j.tmp.2021.100903 
+Song, H., Lin, S., Witt, S. F., & Zhang, X. (2011). Impact of financial/economiccrisis  on demand for hotel rooms in Hong Kong. Tourism Management, 32(1), 172–186. 
+   https://doi.org/10.1016/j.tourman.2010.05.006 
+Song, W., Shi, C., Xiao, Z., Duan, Z., Xu, Y., Zhang, M., et al. (2019). Autoint: Automatic feature interaction learning via self-attentive neural networks. In Proceedings 
+   of the 28th ACM international conference on information and knowledge management. 
+Tsai, C. F., Chen, K., Hu, Y. H., & Chen, W. K. (2020). Improving text summarization of online hotel reviews with review helpfulness and sentiment. Tourism 
+   Management, 80, Article 104122. https://doi.org/10.1016/j.tourman.2020.104122 
+Tsang, W. K., & Benoit, D. F. (2020). Gaussian processes for daily demand prediction in tourism planning. Journal of Forecasting, 39(3), 551–568. https://doi.org/ 
+   10.1002/for.2644 
+Vana, P., & Lambrecht, A. (2021). The effect of individual online reviews on purchase likelihood. Marketing Science, 40(4), 708–730. https://doi.org/10.1287/ 
+   mksc.2020.1278 
+Wang, J. N., Du, J., & Chiu, Y. L. (2020). Can online user reviews be more helpful? Evaluating and improving ranking approaches. Information & Management, 57(8), 
+   Article 103281. https://doi.org/10.1016/j.im.2020.103281 
+Webb, T., Schwartz, Z., Xiang, Z., & Singal, M. (2020). Revenue management forecasting: The resiliency of advanced booking methods given dynamic booking 
+   windows. International Journal of Hospitality Management, 89, Article 102590. https://doi.org/10.1016/j.ijhm.2020.102590 
+Wu, D. C., Song, H., & Shen, S. (2017). New developments in tourism and hotel demand modeling and forecasting. International Journal of Contemporary Hospitality 
+   Management, 29(1), 507–529. https://doi.org/10.1108/IJCHM-05-2015-0249 
+Wu, D. C., Zhong, S., Qiu, R. T. R., & Wu, J. (2022). Are customer reviews just reviews? Hotel forecasting using sentiment analysis. Tourism Economics, 28(3), 795–816. 
+   https://doi.org/10.1177/13548166211049865 
+Wu, E. H. C., Hu, J., & Chen, R. (2022). Monitoring and forecasting COVID-19 impacts on hotel occupancy rates with daily visitor arrivals and search queries. Current 
+   Issues in Tourism, 25(3), 490–507. https://doi.org/10.1080/13683500.2021.1989385 
+Yüksel, S. (2007). An integrated forecasting approach to hotel demand. Mathematical and Computer Modelling, 46(7), 1063–1070. https://doi.org/10.1016/j. 
+   mcm.2007.03.008 
+Zakhary, A., Atiya, A. F., El-Shishiny, H., & Gayar, N. E. (2011). Forecasting hotel arrivals and occupancy using Monte Carlo simulation. Journal of Revenue and Pricing 
+   Management, 10(4), 344–366. https://doi.org/10.1057/rpm.2009.42 
+Zakhary, A., El Gayar, N., & Atiya, A. F. (2008). A comparative study of the pickup method and its variations using a simulated hotel reservation data. ICGST 
+   international journal on artificial intelligence and machine learning, 8, 15–21. 
+Zhang, G., Wu, J., Pan, B., Li, J., Ma, M., Zhang, M., et al. (2017). Improving daily occupancy forecasting accuracy for hotels based on EEMD-ARIMA model. Tourism 
+   Economics, 23(7), 1496–1514. https://doi.org/10.1177/1354816617706852 
+Zhang, Z., Liang, S., Li, H., & Zhang, Z. (2019). Booking now or later: Do online peer reviews matter? International Journal of Hospitality Management, 77, 147–158. 
+   https://doi.org/10.1016/j.ijhm.2018.06.024 
+Zhao, H., Liu, Z., Yao, X., & Yang, Q. (2021). A machine learning-based sentiment analysis of online product reviews with a novel term weighting and feature selection 
+   approach. Information Processing & Management, 58(5), Article 102656. https://doi.org/10.1016/j.ipm.2021.102656 
+Zhao, X., Wang, L., Guo, X., & Law, R. (2015). The influence of online reviews to online hotel booking intentions. International Journal of Contemporary Hospitality 
+   Management, 27(6), 1343–1364. https://doi.org/10.1108/IJCHM-12-2013-0542 
+
+
+                                                                            24

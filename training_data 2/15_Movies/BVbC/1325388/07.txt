@@ -1,0 +1,310 @@
+Patterns of market polarization and market matching in the Korean film industry
+Despite its embedded ambiguity, conventional wisdom tends to prevail over time. This may be because old adages recurrently embrace some ingredients of truth. As James A. Mathisen highlights, conventional wisdom plays a significant role in constituting knowledge as a starting point. (1) For many people, numerous adages (the rich get richer while the poor get poorer; birds of a feather flock together) are most commonly perceived as true. More interestingly, the accuracy of the two folk wisdoms appears to be more salient in culture-producing industries, including the motion picture industry. Concomitantly, the two adages have long been connected to diverse societal phenomena and sociological knowledge.
+
+Although the movie market is a sociological topic, prior research concerning the motion picture industry has been relatively sparse in sociology. Among meager previous studies, Robert R. Faulkner and Andy B. Anderson's work is conspicuous. (2) They sought to scrutinize the U.S. motion picture industry, Hollywood, in depth in terms of the interaction between markets and career mobility. They argued that the movie business, which operates through a single project (per movie), tightly interconnects with career trajectory for those who participate in the project. In particular, Hollywood tends to generate the embedded patterns of market polarization (the rich get richer while the poor get poorer) and market matching (birds of a feather flock together). That is, the key operating mechanism of Hollywood is saliently recurrent market polarization and market pairings.
+
+Furthermore, in the movie industry, patterns of market polarization and market pairings have been reiterated under the cloak of a coping mechanism for a high degree of risk and uncertainty. The film industry per se is an epitome, which contains an element of volatile risk and uncertainty. There appear to be extreme risk and ambiguity involved in creating a financially successful movie. (3) In one sense, filmmaking is equivalent to gambling; that is, no one predicts the success or failure of a movie a priori. As a consequence, the film market has to develop mechanisms to cope with high levels of risk and uncertainty, which at least attempts to minimize the risk and uncertainty. To nullify such risks, Faulkner and Anderson argue that the movie industry routinely breeds "high rates of social reconstruction or social reproduction" (i.e., market matching) (4) and "accumulated credits" (i.e., market polarization). (5)
+
+In this research, we attempt to investigate whether there are patterns of market polarization and market matching in the Korean motion picture industry, similar to the U.S. film industry. In doing so, we first provide an overview of both movie industries, Hollywood and Choong-mu-ro. (6) Second, we define market polarization and market matching. We attempt to connect patterns of market polarization and market matching with the film industry. Third, data and measures are presented. Fourth, we present main findings. Finally, we summarize key results and discuss our limitations and suggestions for future research.
+
+Hollywood and Choong-mu-ro
+
+This section provides a general description of the motion picture industry, especially different sources of uncertainty. Hollywood and Choong-mu-ro, motion picture industry capitals of the United States and Korea, respectively, may be simultaneously different and similar. For instance, the most visible dissimilarity is that the inception of the blockbuster era was the 1970s in Hollywood, (7) whereas the blockbuster era began in 1999 in Choong-mu-ro. (8) Thus, the film industry expansion in Hollywood began more than two decades before that in Choong-mu-ro. The similarity is that the two movie markets are dominated by a high degree of risk and uncertainty, which is inherent in the film industry. High levels of risk and ambiguity in Choong-mu-ro and Hollywood tend to generate a variety of phenomena, including patterns of market polarization and market matching. Risk and uncertainty embedded in the film market derive from diverse sources, and this may differ by market. In particular, unlike Hollywood, Choong-mu-ro is exposed to additional factors, which may augment the degree of risk and ambiguity.
+
+The first sources of risk and uncertainty in the movie industry are the constantly changing popular preferences (tastes) and patterns of demand. (9) As popular tastes fluctuate, it is not always judicious to employ those preferences as a baseline for creating a movie. Paul J. DiMaggio points out that the intricacy of predicting the success of cultural productions is mainly due to dealing with consumer tastes in lieu of consumer demands. (10) Concomitantly, it appears to be difficult to discern which product features or styles will be in demand. (11) Today's commercial film success does not necessarily guarantee tomorrow's film success.
+
+The next origin of uncertainty and risk may be the creative process of filming, the very nature of the film industry. Faulkner and Anderson, for instance, highlight that "variance in the content and composition of artistic work" is wedded to the entire filming procedure. (12) This variance occurs because each movie is in essence a new project that has never been created before. Consequently, from conception to completion, the process of creative production unceasingly emanates uncertainty.
+
+The final source of risk and ambiguity is financial. Until a film is completed, financial problems linger in the filmmaking process. For example, a confrontation might develop between film producers (monetary success-oriented) who want to complete a movie within the budget and the planned time, and film directors (artistic success-oriented) who seem to care less about time and capital. Hortense Powdermaker argues that making films must be an art or an industry, rather than both. (13) Consequently, risk and uncertainty in flows of capital in the motion picture industry create perpetual concern. (14)
+
+In Choong-mu-ro, in addition to the above, there are other elements that escalate the extent of risk and uncertainty. The most influential factors are governmental censorship of the Korean motion picture industry and an influx of Hollywood films into Korea. (15) These two factors have led the Korean film industry into a more vulnerable position and hampered Korean domestic films' success.
+
+Although it might be cliche to mention, it is apparent that censorship is a barrier to creative activity, including filmmaking. In other words, it is inevitable that if there are restrictions on what can be expressed or portrayed, the production of quality films is impeded. More specifically, censorship by the Korean government has sternly regulated ideological and sexual issues more than any other themes. For example, the very first movie that contained a scene of political demonstration was in 1988, Kwang-su Park's Chil-soo and Man-soo. Such productions were not considered appropriate viewing material. At the same time, Korea's film industry, like the British film industry, (16) has had to cope with Hollywood films that are highly capitalized. Since 1988 (when the motion picture industry of the United States was entitled to directly distribute its films in the Korean film market), Hollywood blockbuster films have encroached on the Korean screen industry. Korean indigenous movies comprised merely 25 percent of the total Korean film market in 1998. However, the 25 percent of the domestic market share is a relatively significant proportion because only two other countries, France and Japan, have more than 20 percent of the domestic market shares (due to Hollywood's penetration). Korea has maintained 25 percent of the domestic market share by implementing a screen quota system. (17) Due to the two additional factors of censorship and films from Hollywood, Korean domestic movies may have higher levels of risk and uncertainty than Hollywood's films as they struggle toward the final destination of commercial success.
+
+Patterns of Market Polarization and Market Matching
+
+The very nature of culture-producing industries, including the motion picture industry, embraces a high degree of risk and uncertainty. This means that the fate of new cultural products such as a movie or a TV series cannot be known a priori. (18) Commercial success and aesthetic recognition of most objects of popular culture are virtually unpredictable. As a result, important cultural production participants such as producers and directors have to develop coping mechanisms to minimize a high level of risk and uncertainty. For example, in the film industry one of the coping mechanisms is to uncover the "right ingredients" or "right formulas" to captivate a sizable number of moviegoers.
+
+According to previous research, the right formulas tend to contain casting bankable stars, imitating previous commercially successful films, making a movie based on popular stories (e.g., novels), obtaining a good rating (e.g., PG), and the like. (19) For instance, Faulkner and Anderson reveal that the presence of at least one bankable star alone accounted for 12 percent of a film's gross rentals from 1973 to 1980. (20) A significant number in their complete model accounted for only 24 percent of a film's gross rentals. We found the same in investigating the Korean movie market, suggesting that from 1997 to 2000 a large proportion of earnings from a successful movie can be accounted for by the presence of a bankable star. (21) However, these right ingredients do not always produce financially successful movies. (22) As William T. Bielby and Denise D. Bielby argue, all successful cultural products seem fortuitous.
+
+Besides the right ingredients mentioned above, patterns of market polarization and market matching can be employed as ways of coping with a high degree of risk and uncertainty inherent in the film market. Market polarization indicates that an active elite dominates the market, while the masses who are dormant remain outside the market. Previous research poses that Hollywood generates inequality in terms of film productivity (film credits) in key filmmakers. (23) In particular, according to Faulkner and Anderson, from 1965 to 1980, 64 percent of Hollywood's film producers and 57 percent of Hollywood's directors made their debut but never returned to the movie industry. (24) But 10 percent of producers and 7 percent of directors contributed 38 percent and 40 percent of the total movies, respectively, in the same period. In other words, only a small number survived in the core of the movie industry, while the great majority vanished with one movie on the periphery of the film business.
+
+Market polarization is iterated to mitigate the degree of risk and uncertainty. In the movie industry, each film credit is employed to build reputations. The more a key film participant's productivity increases, the more he establishes a good reputation. In other words, improved reputations bring about better access to another movie production. (25) According to Bielby and Bielby, reputation is everything in the movie industry. (26) Without any cumulative performance attainment, there are extremely slim chances for future work. This is a vicious circle for debutant filmmaking participants, such as directors and composers, trying to enter and develop a career in the moviemaking industry. As a consequence, core participants through survival of the fittest are more likely to maintain dominance over the film business.
+
+At the same time, a highly skewed distribution of productivity tends to generate another market pattern of matching phenomena, which is one of the methods to minimize the level of risk and uncertainty. Market matching means that productive filmmakers tend to work with other active filmmakers, whereas unproductive filmmakers are likely to collaborate with similar filmmakers. Faulkner and Anderson detected market pairings such as producers and directors (mild propensity), and directors and cinematographers (mild penchant). (27) In addition, they found that commercially successful producers tend to collaborate with directors who have high financial returns.
+
+Similar to market polarization, the pattern of market matching tends to reiterate in a way that alleviates the degree of risk and ambiguity. It is probably obvious that active filmmakers who have good reputations eschew working with less productive filmmaking participants who have poor reputations. Collaborating with inexperienced filmmakers could exacerbate a high level of risk and uncertainty. But filming with productive filmmakers could assuage a high degree of risk and ambiguity. This might have a connection with filmmakers' preference for working repeatedly with the same people whom they worked with in the past. Recurrent working probably generates trust among the various key filmmakers, which could lessen a high level of risk and ambiguity. (28)
+
+Data and Measures
+
+The data employed here are drawn from the Korean Film Archive. The data provide basic information concerning films, including title, release date, a director, a composer, a cinematographer, performers, genre, and ratings. The total population is composed of 684 feature films released by the Korean motion picture industry from 1990 to 2000. In order to investigate market-matching propensity, we developed a measure of cumulative performance values (CPV) on the basis of the number of previous movies that filmmaking participants (e.g., director, composer) were involved in from 1990 to 2000.
+
+Analysis
+
+The Korean movie industry underwent a drastic transition after 1988, when Hollywood was entitled to directly distribute films in Korea. As illustrated in Table 1, during the early part of this period, the impact of Hollywood seemed relatively insignificant. In 1990 and 1991, there were 98 and 110 Korean domestic films released, respectively. Perhaps Choong-mu-ro's last-ditch defiance was so intense that Hollywood could not disrupt the stronghold of the Korean film market at that time. However, things appeared to reverse after 1992, due in part to several mega-hit movies by Hollywood in 1991. (29) The number of films released by Korean filmmakers sharply decreased by approximately forty movies per year. Apparently, the Korean film industry began to reconstruct and develop with the majority of motion pictures originating in Hollywood and a minority of Korean domestic films. (30)
+
+Table 2 demonstrates the market polarization in terms of directors' productivity (film credits) from 1990 to 2000. As shown in Table 2, directors in the Korean film market are stratified. Approximately 54 percent (164 of 306) of all the film directors had only one credit and never established a career over this period. They contributed 24 percent to the total population of movies. In contrast, merely 18 percent (55 of 306) created four or more films. These 55 directors accounted for more than 50 percent (346 of 684) of the total population of films. In sum, it appears that only a small number of directors (55) maintain productive careers with longevity (multiple film productions) in the core of Choong-mu-ro. But on the periphery of the Korean movie industry, a large number of directors (164) simply fade away right after directing one movie.
+
+For composers, a similar pattern of market polarization is detected in Choong-mu-ro. Table 3 reports 205 composers with 668 films during the same period. Approximately 58 percent (118 of 205) of all the composers have only one film score. These 118 composers accounted for only 18 percent (118 of 668) of the total population of movies. But 26 composers (14 percent) have more than four film scores for 11 years. They comprised more than 60 percent (403 of 668) of the total population of films. Therefore, in approximately one out of every two movies, the film music is composed by 26 composers who are a very active elite. This finding shows that composers are stratified by productivity, where one group maintains an advantageous position over other composers. In the core of the market, there are a small number of highly productive composers (26). On the periphery of the market, however, a majority of composers (118) disappear after writing the music for a single film. Put differently, 118 composers' debut is equivalent to their retirement.
+
+In addition, in the motion picture industry, directors can scarcely afford the risk of working with an inexperienced film composer for a highly expensive venture. With 26 composers working on the music for 403 of 668 total films, it could be speculated that filmmakers tend to collaborate with the proven ingredient in order to augment a film's chance of success. (31) This implies that reputation breeds reputation.
+
+The distribution of cinematographers does not exactly replicate the patterns of directors and composers. However, it accentuates intriguing aspects. Table 4 demonstrates that there are 125 cinematographers in 684 films for the 11-year period. Of the total cinematographers, 33 percent (41 of 125) have only a single film and never made a second film. Additionally, 549 films (80 percent) of the total population of movies are filmed by 40 percent (50 of 125) of the total cinematographers. From these results, it appears that a minority of cinematographers dominates Korea's film market, yet this pattern differs from the patterns for directors and composers.
+
+The pattern for cinematographers could be understood through Young-chul Kim's explanation. Kim is a well-known cinematographer in Choong-mu-ro.
+
+   In the early 1980s through the mid 1990s, there were only
+   approximately forty active cinematographers in the Korean film
+   market. At the time, more than 100 movies were produced per year so
+   that a cinematographer could shoot 4-6 movies, on average, each
+   year. Furthermore, it took a cinematographer-to-be 12-15 years from
+   the very entrance into Choong-mu-ro to become cinematographer. I
+   myself had to spend 13 years to become a cinematographer from
+   beginning filmmaking work in Choong-mu-ro. I started my filmmaking
+   work in 1985, and finally I made my debut film as a cinematographer
+   in charge in 1998. (32)
+The film industry, specifically Choong-mu-ro, operates through an apprenticeship system (mentor-protege) to cultivate promising filmmaking participants and to fill open jobs. Therefore, a novice recruit starts at the bottom rung of the ladder and slowly works his way up through extensive hands-on training under his mentor. In the relationship of mentor and protege, mentors occasionally play a gatekeeper role to restrict the number of new entrants into their areas. Thus, Kim spent more than a decade as a protege before filming his debut movie as a director-cinematographer. Additionally, up until around 1990, the apprenticeship system was virtually the only career path to be a cinematographer. Of late, there have been other alternative paths, such as studying cinematography abroad, to become a cinematographer without going through all the stages. These changes in the film industry may alleviate the reign of the minority.
+
+The domination of the filmmaking process by the top-ten directors, composers, and cinematographers influences film productivity. The number of films by the top-ten filmmaking participants is presented in Table 5. Although the top-ten filmmaking participants are used in the analysis, the results show that the concentration of an elite is more pronounced among the top-five directors, composers, and cinematographers. For example, Choong-mu-ro's top-eight directors, which are 2.61 percent of the total directors (8 of 306), comprise 11.55 percent of the total population of movies. The top-five composers, which are 2.44 percent of all the composers (5 of 205), dominate 35.48 percent of the total population of films. Similarly, the top-six cinematographers, which are 4.80 percent of the total cinematographers (6 of 125), dominate 19 percent of the film industry. Domination by the elite is manifested strongly in the spheres of composers and cinematographers, but not as strongly among directors. That is, the top-five composers worked on 237 films, and the top-five cinematographers worked on 130 movies. Yet only 79 films were created by the top-five directors. The finding of a domination of the Korean film industry by a core group of elite filmmaking participants supports the market polarization hypothesis, which states that Choong-mu-ro will be dominated by an elite of directors, composers, and cinematographers.
+
+Table 6 demonstrates the working patterns among Choong-mu-ro's directors and composers during 1990-2000. Directors and composers are categorized into three tiers based on the number of films (cumulative performance values). Each tier displays a low score (Tier I), middle score (Tier II), and high score (Tier III), respectively. As shown along the main diagonal, there is a tendency of market matching between directors and composers. In more detail, fledgling directors most often collaborate with inexperienced composers. Of 668 feature films, 204 are created through the work of directors in Tier I and composers in Tier I. In contrast, although this tendency of work matching is present between highly productive directors and composers, this propensity is not as strong as compared with the work matching between directors in Tier I and composers in Tier I. The market matching between highly prolific directors and composers creates 38 movies.
+
+
+Overall, comparing the number of cases per cell with the number expected under the null of independence, there is an excess of films released along the main diagonal, with deficits in the upper-right cell and lower-left cell, indicating that movies tend to be created by those directors and composers in similar tiers. In other words, while unproductive directors are more likely to collaborate with less productive composers, highly productive directors tend to work with highly prolific composers. Consequently, filmmakers in a similar location, core or periphery, are more likely to establish recurrent ties in order to make a film. The chi-square of 77.49 is highly significant. The gamma (.44) is moderate, suggesting that the market matching is present but not significantly strong.
+
+
+Table 7 reports patterns of market matching between Choong-mu-ro's directors and cinematographers during the same period. The finding is much more prominent compared to the pattern between the CPV of directors and composers. The chi-square of 133.62 is highly significant. At the same time, the gamma (.58) indicates a strong association between the CPV of directors and cinematographers. Directors and cinematographers in Tier I made 159 films, implying that less productive directors on the periphery are more likely to collaborate with other periphery cinematographers. Directors in Tier III worked with cinematographers in Tier I for eight movies (core directors versus peripheral cinematographers) but created 61 films with cinematographers in Tier III (core directors versus core cinematographers). The market-matching patterns are strongly reflected between directors and cinematographers in Choong-mu-ro. Furthermore, comparing the number of cases per cell with the number expected under the null of independence signifies that there is an excess of movies released along the main diagonal, with deficits in the upper-right cell and lower-left cell, indicating that movies tend to be created by those directors and composers in similar tiers. In the end, recurrent ties are established between the periphery and the periphery, and the core and the core.
+
+Based on the findings from directors with composers and cinematographers, it is suggested that composers and cinematographers in the early stages of their career paths may be more willing to assume risk in working with less reputable directors (i.e., less productive directors). By the same token, once the reputation of a director is solidified (becoming a productive director), he has a great pool of applicants and will tend to be more selective. In other words, established directors are more reluctant to assume the risk of working with composers and cinematographers who are not well established.
+
+Further, considering market-matching patterns of 39 percent (645 in 1,655 films) between directors and producers and of 36 percent (594 in 1,655 movies) between directors and cinematographers in Hollywood, (33) the market-matching systems in Choong-mu-ro are more pronounced compared to the Hollywood patterns. In Choong-mu-ro, among 668 feature films (excluding films without composers), 45 percent (303) of films are made through market-matching patterns between directors and composers in the same tiers. At the same time, 44 percent (304 in 684) of movies are made through market-matching patterns between directors and cinematographers in identical tiers. Consequently, these findings imply that market matching is relatively more prevalent in Choongmu-ro than in Hollywood.
+
+Discussion
+
+
+Our study contributes to an understanding of Choong-mu-ro. Similar to Hollywood, the Korean motion picture industry exhibits a formation of the core-periphery market (market polarization) with the slight exception of cinematographers. Active elite directors and composers have dominated the Korean motion picture industry from 1990 to 2000. Findings clearly display that the rich get richer while the poor get poorer. At the same time, like Hollywood, the market matchings between directors and composers, and directors and cinematographers, are present. Productive filmmakers tend to collaborate with other prolific filmmakers, whereas inexperienced filmmakers are likely to work with other filmmakers in an early stage of career path. It seems obvious that birds of a feather flock together in Korea's movie market.
+
+Notwithstanding our contributions, this article contains a number of limitations. Future research should take financial success of a movie into account in the analyses. In addition to filmmakers' productivity, commercial returns from a film could provide a better picture of the movie industry. More specifically, it is likely that financially successful filmmakers tend to collaborate with other commercially successful filmmakers. It is possible that directors of financially successful movies are reluctant to work with low-earning composers or cinematographers. Next, future researchers should develop a refined measure of CPV. Our measure solely depends on the number of films that a filmmaker participated in; thus it mirrors quantitative aspects and lacks qualitative manipulations. Finally, other prominent figures in filmmaking such as screenwriters should be included in the future research.
+
+Table 1 Distribution of Korean Films Released by Year, 1990-2000
+
+Year     Number of Films   Percent
+
+1990           98           14.3
+1991          110           16.3
+1992           87           12.7
+1993           56            8.2
+1994           54            7.9
+1995           53            7.7
+1996           53            7.7
+1997           55            8.0
+1998           39            5.7
+1999           40            5.8
+2000           39            5.7
+Total         684          100.0
+
+Table 2 Distribution of Directors and Films by Director Category,
+1990-2000
+
+Number of   Number of             Total Number of
+Films       Directors   Percent   Films Directed    Percent
+
+1             164        53.59          164          23.98
+2              53        17.32          106          15.50
+3              34        11.11           68           9.94
+4              18         5.89           72          10.52
+5 or more      37        12.09          274          40.06
+Total         306       100.00          684         100.00
+
+Table 3 Distribution of Composers and Films by Composer Category,
+1990-2000
+
+Number of   Number of              Total Number of
+Films       Composers   Percent     Films Scored     Percent
+
+1              118        57.56          118           17.66
+2               36        17.57           72           10.77
+3               25        12.19           75           11.23
+4                3         1.46           12            1.81
+5 or more       23        11.22          391           58.53
+Total          205       100.00          668          100.00
+
+Note: Sixteen feature films do not have composers.
+
+Table 4 Distribution of Cinematographers and Movies by
+Cinematographer Category, 1990-2000
+
+Number of      Number of                  Total Number of
+Movies      Cinematographers   Percent     Movies Filmed    Percent
+
+1                  41            32.80           41            5.99
+2                  17            13.60           34            4.97
+3                   8             6.40           24            3.52
+4                   9             7.20           36            5.26
+5 or more          50            40.00          549           80.26
+Total             125           100.00          684          100.00
+
+Table 5 Number of Films by Top Ten of Filmmaking Participants,
+1990-2000
+
+                                  Number of Films Made
+
+Ranking of Filmmaking
+Participants by        Directors    Composer         Cinematographers
+Productivity
+
+1                       12 (2) (a)   96               25
+2                       11           73               24
+3                       10           27               22
+4                        9 (2)       24               20 (2)
+5                        8 (2)       17               19
+6                        7 (5)       14               18 (2)
+7                        6 (6)       12               17
+8                        5 (18)      11               16 (3)
+9                        4 (18)      10 (3)           15
+10                       3 (34)       9 (2)           14
+Total Number of
+Participants (%)        89 (29.08)   13 (6.34)        14 (11.20)
+Total Films (%)        414 (60.53)  322 (48.20) (b)  260 (38.01)
+
+Notes: (a.) Number in parentheses in rows 1-10 indicates ties in
+ranking. (b.) Excluding sixteen feature films.
+
+Table 6 Cumulative Performance Values (CPV) and Working Pattern
+Occurrences Among Film Directors and Composers,
+1990-2000
+
+                               Film Composers:
+                               Tiers of CPV
+
+Film Directors:      I          II        III       Total
+Tiers of CPV
+
+I (a)             204 (b)       51         77        332
+                   61.45      15.36      23.19
+                   (148)       (65)      (119)
+II                   71         61        125        257
+                   27.63      23.74      48.64
+                   (115)       (50)       (92)
+III                  23         18         38         79
+                   29.11      22.78       48.1
+                    (35)       (15)       (28)
+Total               298        130        240        668
+                   44.61      19.46       35.93
+
+Notes: [X.sup.2] = 77.49 with 4 df. P < .0001. Gamma = .44.
+
+(a.) Tier I: those who have 0 CPV; Tier II: those who have 1-3 CPV;
+Tier III: those who have more than 4 CPV.
+
+(b.) Number of films; column percentage; expected frequencies in
+parentheses.
+
+Table 7 Cumulative Performance Values and Working Pattern
+Occurrences Among Film Directors and Cinematographers,
+1990-2000
+
+                             Film Cinematographers:
+                             Tiers of CPV
+
+Film Directors:      I          II        III       Total
+Tiers of CPV
+
+I (a)             159 (b)       84         95        338
+                   47.04      24.85      28.11
+                    (96)       (89)      (152)
+II                   28         84        152        264
+                   10.61      31.82      57.58
+                    (75)       (70)      (119)
+III                  8          13         61         82
+                    9.76      15.85      74.39
+                    (23)       (22)       (37)
+Total               195        181        308        684
+                   28.51      26.46      45.03
+
+Notes: [X.sup.2] = 133.62 with 4 df. P < .0001. Gamma = .58.
+
+(a.) Tier I: those who have 0 CPV; Tier II: those who have 1-3 CPV;
+Tier III: those who have more than 4 CPV.
+
+(b.) Number of films; column percentage; expected frequencies in
+parentheses.
+Notes
+
+(1.) James A. Mathisen, "A Further Look at 'Common Sense' in Introductory Sociology," Teaching Sociology 17 (1989): 307-315.
+
+
+(2.) Robert R. Faulkner and Andy B. Anderson, "Short-Term Projects and Emergent Career: Evidence from Hollywood," American Journal of Sociology 92 (1987): 879-909.
+
+(3.) Faulkner and Anderson, "Short-Term Projects and Emergent Career"; Wayne E. Baker and Robert R. Faulkner, "Role as Resource in the Hollywood Film Industry," American Journal of Sociology 97 (1991): 279-309; William T. Bielby and Denise D. Bielby, "'All Hits Are Fluke': Institutionalized Decision-Making and the Rhetoric of Network Prime-Time Program Development," American Journal of Sociology 99 (1994): 1287-1313; William T. Bielby and Denise D. Bielby, "Organizational Mediation of Project-Based Labor Markets: Talent Agencies and the Careers of Screenwriters," American Sociological Review 64 (1999): 64-85; Scott Sochay, "Predicting the Performance of Motion Pictures," Journal of Media Economics 7 (1994): 1-20; Danny Miller and Jamal Shamsie, "Strategic Responses to Three Kinds of Uncertainty: Product Line Simplicity at the Hollywood Film Studios," Journal of Management 25 (1999): 97-116.
+
+(4.) Faulkner and Anderson, "Short-Tema Projects and Emergent Career," p. 833.
+
+(5.) Ibid., p. 889.
+
+(6.) Choong-mu-ro is the center of the Korean movie industry. Choong-mu-ro has been referred to as the Hollywood of Korea since 1960. This area is encompassed by a large number of theaters and film productions.
+
+
+(7.) C. Mark Miller, Seeing Througt Movies (New York: Pantheon Books, 1990); Baker and Faulkner, "Role as Resource in the Hollywood Film Industry"; Gary Hoppenstand, "Hollywood and the Business of Making Movies," in Barry R. Litman, ed., The Motion Picture Mega-Industry (Boston: Allen and Bacon, 1998), pp. 222-243.
+
+(8.) Jea-bong Ha, "The Myth of Korean Blockbusters," Culture and Arts 7 (2002): 88-92; Chan-il Jeon, "Korea's Movie Scene: The Surging Popularity of Korean Films," Koreana 17 (2003): 30-35.
+
+(9.) Paul J. DiMaggio, "Market Structure, the Creative Process, and Popular Culture: Toward Organizational Reinterpretation of Mass-Culture Theory," Journal of Popular Culture 11 (1977): 436-52; Faulkner and Anderson, "Short-Term Projects and Emergent Career"; Miller and Shamsie, "Strategic Responses to Three Kinds of Uncertainty."
+
+(10.) DiMaggio, "Market Structure, the Creative Process, and Popular Culture."
+
+
+(11.) R. Raubistschek, "Hitting the Jackpot: Product Proliferation by Multiproduct Firms Under Uncertainty," International Journal of Industrial Organization 6 (1998): 469-488.
+
+(12.) Faulkner and Anderson, "Short-Term Projects and Emergent Career," p. 884.
+
+(13.) Hortense Powdermaker, Hollywood, the Dream Factory: An Anthropologist Studies the Movie Makers (Boston: Little, Brown, 1950).
+
+(14.) Faulkner and Anderson, "Short-Term Projects and Emergent Career."
+
+(15.) Hwa Kim, A Story of the Korean Film History (Seoul: Hase, 2001).
+
+
+(16.) Helen Blair, Susan Grey, and Keith Randle, "Working in Film: Employment in a Project Based Industry," Personal Review 30 (2001): 170-185.
+
+(17.) The Screen Quota System is a governmental regulation that forces theaters to show domestic movies over a certain length of time a year. The Screen Quota System has been in the Korean film industry since 1967, but it has experienced many modifications. Currently, the Screen Quota System requires all Korean theaters to play domestic films for at least 106 days a year. The system has two key purposes. The first purpose is to prevent import of foreign films, specifically from Hollywood, and encroachment on the Korean film market. The second purpose is to boost the domestic film industry. Consequently, the Screen Quota System has played the role of safety net in the volatile Korean film market.
+
+(18.) Robert R. Faulkner, Music on Demand (New Brunswick, NJ: Transaction, 1983); Faulkner and Anderson, "Short-Term Projects and Emergent Career"; Baker and Faulkner, "Role as Resource in the Hollywood Film Industry"; Bielby and Bielby, "'All Hits Are Fluke'" and "Organizational Mediation of Project-Based Labor Markets"; Sochay, "Predicting the Performance of Motion Pictures"; Miller and Shamsie, "Strategic Responses to Three Kinds of Uncertainty."
+
+(19.) Barry R. Litman, "Predicting Success of Theatrical Movies: An Empirical Study," Journal of Popular Culture 16 (1983): 159-175; Faulkner and Anderson, "Short-Term Projects and Emergent Career"; Barry R. Litman and Linda Kohl, "Predicting Financial Success of Motion Pictures: The '80s Experience," Journal of Media Economics 2 (1989): 35-50; Sochay, "Predicting the Performance of Motion Pictures"; Sangyoub Park and Eui Hang Shin, "An Analysis of Social Network Structures in the Korean Film Industry," paper presented at the Annual Meeting of the American Sociological Association, Chicago, August 2002, pp. 15-19.
+
+(20.) Faulkner and Anderson, "Short-Term Projects and Emergent Career."
+
+(21.) Park and Shin, "An Analysis of Social Network Structures in the Korean Film Industry."
+
+(22.) Todd Gitlin, Inside Prime Time (New York: Pantheon, 1983); Baker and Faulkner, "Role as Resource in the Hollywood Film Industry"; Sochay, "Predicting the Performance of Motion Pictures."
+
+(23.) Faulkner, Music on Demand; Faulkner and Anderson, "Short-Term Projects and Emergent Career."
+
+(24.) Faulkner and Anderson, "Short-Term Projects and Emergent Career."
+
+(25.) Faulkner and Anderson, "Short-Term Projects and Emergent Career"; Bielby and Bielby, "'All Hits Are Fluke'" and "Organizational Mediation of Project-Based Labor Markets"; Denise D. Bielby and William T. Bielby, "Hollywood Dreams, Harsh Realities: Writing for Film and Television," Contexts 1, no. 4 (2002): 21-27.
+
+(26.) Bielby and Bielby, "Hollywood Dreams, Harsh Realities," p. 22.
+
+(27.) Faulkner and Anderson, "Short-Term Projects and Emergent Career."
+
+(28.) Howard S. Becker, Art Worlds (Berkeley: University of California Press, 1982); Walter W. Powell, "Neither Market nor Hierarchy: Network Forms of Organization," Research in Organizational Behavior 12 (1990): 295-336; Blair, Grey, and Randle, "Working in Film."
+
+(29.) Ghost was the first mega-hit movie (captivating more than 1 million Korean moviegoers) in 1991.
+
+(30.) For example, there were 40 domestic films and 273 movies from Hollywood in 1999.
+
+(31.) Faulkner, Music on Demand.
+
+(32.) This is a summary of e-mail correspondence from Young-chul Kim. We translated it into English.
+
+(33.) Faulkner and Anderson, "Short-Term Projects and Emergent Career."
+
+Sangyoub Park is a Ph.D. candidate in the Department of Sociology at the University of South Carolina, Columbia. His dissertation investigates if social capital in the United States is declining. His current research concerns the changing structural and racial profiles of income inequality in the United States.
+
+Eui Hang Shin is professor of sociology at the University of South Carolina, Columbia. He is Special Exchange Professor in the Department of Sociology, Yonsei University, Seoul, Korea, for the academic year of 2003-2004. His areas of interest are the political demography of Korea and Korean American communities.
+
+Park, Sangyoub^Shin, Eui Hang
+
+Copyright: COPYRIGHT 2004 Cambridge University Press

@@ -1,0 +1,809 @@
+Prevalence and interest in extreme/adventure activities among
+gynecologic cancer survivors: Associations with posttraumatic growth
+Jennifer J. Crawford a
+, Nicholas L. Holt a
+, Jeff K. Vallance b
+, Kerry S. Courneya a, *
+a University of Alberta, Canada
+b Athabasca University, Canada
+article info
+Article history:
+Received 21 June 2015
+Received in revised form
+10 September 2015
+Accepted 10 September 2015
+Available online 11 September 2015
+Keywords:
+Posttraumatic growth
+Psychological growth
+Cancer
+Oncology
+Extreme sport
+Adventure therapy
+abstract
+Exercise has been associated with posttraumatic growth in gynecologic cancer survivors (GCS) but the
+role of extreme/adventure activities has not been investigated. The primary objective of this study was to
+examine the association between extreme/adventure activities and posttraumatic growth in GCS. A
+Canadian provincial registry generated a random sample of 2064 GCS stratified by cancer type (i.e.,
+cervical, endometrial, and ovarian) who were mailed a self-report survey that assessed demographic and
+medical variables, posttraumatic growth, participation and interest in extreme/adventure activities, and
+exercise growth (i.e., the extent to which the cancer diagnosis itself prompted changes in the amount,
+type, or nature of exercise activities). Of 621 GCS, only 12.1% reported participating in extreme/adventure
+activities in the past year. Of 309 GCS interested in a future exercise study, 41.1% were interested in trying
+extreme/adventure activities. After adjustment for key covariates, neither participation nor interest in
+extreme/adventure activities were associated with posttraumatic growth. All exercise growth items,
+however, were significantly associated with all posttraumatic growth scales (all p's < 0.05). In multivariate regression analyses, exercise growth items explained 37.2% of the variance in the posttraumatic
+growth inventory, 7.2% of the variance in the negative impact of cancer scale, 19.9% of the variance in the
+positive impact of cancer scale, and 23% of the variance in the benefit finding scale (all p's < 0.001). GCS
+who change the amount, type, and/or nature of their exercise activities after their diagnosis may be more
+likely to experience posttraumatic growth.
+© 2015 Elsevier Ltd. All rights reserved.
+1. Introduction
+Although a cancer diagnosis can be extremely stressful and
+traumatic, it may also provide an opportunity for positive growth
+and adaptation (Linley & Joseph, 2004; Love & Sabiston, 2011;
+Morris, Shakespeare-Finch, & Scott, 2007). Posttraumatic growth
+is defined as a positive psychological change that emerges
+following a significantly challenging or traumatic life event and is
+often characterized by an increased appreciation for life, better
+interpersonal relationships, personal strength, recognition of new
+possibilities, and spiritual development (Tedeschi & Calhoun, 1996;
+Tedeschi, Park, & Calhoun, 1998). Posttraumatic growth is theorized
+to occur when a life crisis or traumatic event is challenging enough
+that it prompts cognitive processing of the event and its aftermath.
+Posttraumatic growth theory suggests that individual styles of
+managing distress, social support, and disclosure regarding emotions and perspectives on the traumatic event, as well as cognitive
+processing of the traumatic event, can lead to schema changes,
+change in life goals, and reduced psychological distress (Tedeschi &
+Calhoun, 1996; Tedeschi et al., 1998).
+Posttraumatic growth is a desired outcome of a cancer diagnosis; however, few interventions have been developed to promote
+experiences of growth. We previously reported that meeting exercise guidelines was associated with some aspects of posttraumatic growth in gynecologic cancer survivors (GCS) (Crawford,
+Vallance, Holt, & Courneya, 2014). Nevertheless, it is unknown
+whether the nature of the exercise itself (i.e., the exercise modality
+and context) may also be important for fostering posttraumatic
+growth. Previous research has found that emotionally and physically demanding activities (e.g., mountaineering, dragon boating,
+and group motorcycling) may prompt psychological growth in
+cancer survivors (Burke & Sabiston, 2012; Dunn, Campbell, Penn,
+Dwyer, & Chambers, 2009; Hefferon, Grealy, & Mutrie, 2008;
+* Corresponding author. Faculty of Physical Education and Recreation, University
+of Alberta, 1-113 University Hall, Edmonton, Alberta, T6G 2H9, Canada.
+E-mail address: kerry.courneya@ualberta.ca (K.S. Courneya).
+Contents lists available at ScienceDirect
+Mental Health and Physical Activity
+journal homepage: www.elsevier.com/locate/menpa
+http://dx.doi.org/10.1016/j.mhpa.2015.09.001
+1755-2966/© 2015 Elsevier Ltd. All rights reserved.
+Mental Health and Physical Activity 9 (2015) 35e40
+McDonough, Sabiston, & Ullrich-French, 2011; Sabiston, McDonough, & Crocker, 2007).
+Based on posttraumatic growth theory and preliminary
+research, we propose that activities that push cancer survivors
+beyond their current capacity and provide a sense of accomplishment may be most likely to foster positive growth. Accordingly, we
+propose that the optimal physical activities for stimulating posttraumatic growth would be physically challenging (i.e., a high
+physiological demand), novel (i.e., not common or everyday activities), and contain some element of physical risk (i.e., potentially
+serious injury if a mistake is made). The term “extreme/adventure
+activities” has become a general descriptor for these types of activities (Brymer & Schweitzer, 2013). Moreover, we propose that
+posttraumatic growth is most likely to occur when the cancer
+diagnosis itself prompts the cancer survivor to participate in
+extreme/adventure activities.
+The primary objective of this study was to examine the prevalence and interest in extreme/adventure activities in GCS and
+determine any associations with posttraumatic growth. Based on
+posttraumatic growth theory and previous research (Burke &
+Sabiston, 2012; Dunn et al., 2009; Hefferon et al., 2008;
+McDonough et al., 2011; Sabiston et al., 2007), we hypothesized
+that few GCS would be participating in extreme/adventure activities but that those GCS who were participating would report
+higher posttraumatic growth. Based on previous research
+(Blanchard et al., 2003), we also hypothesized that few GCS would
+report their cancer diagnosis prompted them to substantially
+change the amount, type, or nature of their exercise (i.e., reported
+exercise growth) but those who did report exercise growth would
+also report higher posttraumatic growth.
+2. Materials and methods
+2.1. Study population
+The design and methods of this cross-sectional, populationbased study have been reported elsewhere (Crawford et al., 2014).
+Ethical approval was granted by the Alberta Cancer Research Ethics
+Board. Eligibility criteria included: (a) 18 years of age and (b)
+histologically confirmed gynecologic (cervical, endometrial, or
+ovarian) cancer diagnosed between 1986 and 2013. The Alberta
+Cancer Registry generated a random sample of 2064 GCS stratified
+by cancer type (688 from each survivor group) who were then
+contacted by the registry on behalf of the researchers. The survey
+was conducted between July and November 2013. Eligible GCS were
+mailed a study package containing: (a) a letter of invitation from
+the Registry explaining the purpose of the Registry and its role in
+this specific study, (b) a letter from the researchers explaining the
+study, (c) the survey booklet, and (d) a postage paid return envelope. The survey protocol followed a modified version of the Total
+Design Method (Dillman, 2007) where participants were mailed (a)
+the initial study package, (b) a postcard reminder 3e4 weeks later
+to nonresponders, and (c) a second survey 3e4 weeks after that to
+nonresponders to the initial survey and postcard reminder.
+2.2. Measures
+2.2.1. Demographic and medical information
+Medical and demographic variables were assessed by self-report
+and included age, marital status, education, annual income,
+employment status, ethnicity, height and weight to calculate body
+mass index (BMI), date of diagnosis, type of gynecologic cancer
+(cervical, endometrial, ovarian), disease stage (localized, metastasized), previous and current treatments (surgery, radiation,
+chemotherapy/drugs), previous recurrence (no or yes), and current
+disease status (“cancer is gone” versus “still have cancer”).
+2.2.2. Participation and interest in extreme/adventure activity
+We were unaware of any published scales that have been validated for the assessment of extreme/adventure activities. Based on
+definitions of extreme sport (Brymer & Schweitzer, 2013) and
+adventure therapy (Epstein, 2004), we defined extreme/adventure
+activities for participants as physically challenging activities
+involving speed, height and/or a high level of physical exertion such
+as mountaineering, white water rafting, triathlon, marathon, scuba
+diving, rock climbing, dragon boating and downhill skiing.
+Extreme/adventure activity participation was assessed using one
+item (i.e., have you participated in any extreme/adventure activity
+in the past year) with a yes or no response; and one open-ended
+question (i.e., if yes, what type of extreme/adventure activity(ies)
+did you do).
+For participants interested in participating in a future exercise
+study, we asked “would you be interested in trying any extreme/
+adventure type activities” with a yes or no response. If participants
+selected yes, they were asked to choose which extreme/adventure
+activities they were most interested in trying from a list of options
+that included wall/rock climbing, mountaineering (hiking),
+triathlon, waterskiing/wakeboarding, river rafting, kayaking, scuba
+diving, mountain biking, cross country skiing, downhill skiing,
+horseback riding and other.
+2.2.3. Posttraumatic growth
+Given the exploratory nature of this study, posttraumatic
+growth was assessed by three scales. The primary posttraumatic
+growth scale was the Posttraumatic Growth Inventory (PTGI)
+(Tedeschi & Calhoun, 1996). The PTGI is a 21-item questionnaire
+with a six-point Likert Scale ranging from 0 (I did not experience
+this change as a result of my crisis) to 5 (I experienced this change
+as a result of my crisis). The PTGI is scored by the sum of the 21
+items where higher scores indicated greater posttraumatic growth.
+The Impact of Cancer Scale (IOC) was a second measure of posttraumatic growth (Zebrack, Yi, Petersen, & Ganz, 2008). The IOC
+consists of 41 items comprising 5 positive subscales (health
+awareness, positive self-evaluation, positive outlook, value of relationships, meaning of cancer) and 5 negative subscales (body
+changes, negative self-evaluation, negative outlook, life interferences, health worry). Respondents indicated the extent to
+which they agree from 1 (strongly disagree) to 5 (strongly agree).
+The Benefit Finding Scale (BFS) was used to assess the ways gynecologic cancer may have had a positive impact (Tomich & Helgeson,
+2006). The BFS is a 14-item questionnaire with a 4-point scale
+ranging from 1 (not at all) to 4 (very much). The BFS is scored by
+summing the 14-items, with higher scores indicating more benefits
+from cancer.
+2.2.4. Exercise growth
+We were interested in the extent to which a diagnosis and
+treatment of gynecologic cancer may have prompted participation
+in extreme/adventure activities but we were unaware of any validated scales assessing such a construct. Consequently, we
+embedded six “exercise growth” items in the PTGI scale. As noted
+earlier, the PTGI scale asks “how your diagnosis and treatment for
+gynecologic cancer (ovarian, endometrial, or cervical) may have
+changed your life” with responses ranging from 0 (I did not experience this change as a result of my crisis) to 5 (I experienced this
+change as a result of my crisis). The six exercise growth items
+focused on changes in the amount, type, and nature of exercise in
+order to tap aspects related to physically challenging, novel, and
+high risk extreme/adventure activities. The specific items were: “I
+have significantly increased the amount of exercise I do”, “I have
+36 J.J. Crawford et al. / Mental Health and Physical Activity 9 (2015) 35e40
+tried new exercises I have never done before”, “I have taken up a
+mind-body exercise such as yoga or tai chi”, “I have taken up a new
+sport that I never played before such as tennis or golf”, “I have taken
+up a physically challenging activity such as marathon running or
+triathlon”, and “I have taken up a high risk sport or activity such as
+rock climbing or white water rafting.”
+2.2.5. Statistical analysis
+All analyses were conducted using SPSS version 21.0 (SPSS Inc,
+Chicago, IL). We conducted analyses of covariance (ANCOVAs)
+comparing those participating versus not participating and those
+interested versus not interested in extreme/adventure activities on
+the PTGI, PIOC, NIOC, and BFS. Our analyses adjusted for age, type of
+cancer, BMI, months since diagnosis, radiation treatment, and
+chemotherapy treatment. We also conducted ANCOVAs to examine
+differences in posttraumatic growth based on the six exercise
+growth items by creating four categories of exercise growth: (1) no
+change (0 ¼ did not experience this change), (2) very small/small
+change (1e2 ¼ changed to a very small/small degree), (3) moderate
+change (3 ¼ changed to a moderate degree), and (4) great/very
+great change (4e5 ¼ changed to a great/very great degree). Finally,
+we performed forced entry multiple regression analyses to determine the independent associations of each of the six exercise
+growth variables with PTGI, PIOC, NIOC, and BFS, adjusting for the
+same variables as in our main analyses.
+3. Results
+Flow of participants through the study has been reported elsewhere (Crawford et al., 2014). Briefly, of the 2064 mailed surveys,
+621 surveys were completed resulting in a completion rate of 30%
+(621/2064) and a response rate of 38% (621/1626) excluding those
+that were returned to sender or not eligible. Demographic and
+medical data have been reported elsewhere (Crawford et al., 2014).
+In summary, the mean age of participants was 60.8 ± 12.2 years,
+71.5% were married, and 47.3% had completed university/college.
+The mean BMI was 28.2 ± 6.6 with 64.4% of participants being
+classified as overweight or obese. For type of cancer, 40.3% had
+ovarian cancer, 27.4% had endometrial cancer, and 32.4% had cervical cancer. Based on the limited data available in the Alberta
+Cancer Registry, we found our sample was similar to nonresponders in age, radiation treatment, and surgery treatment but
+slightly over-represented ovarian cancer survivors, chemotherapy
+treatment, and were closer to their date of diagnosis (Crawford
+et al., 2014).
+3.1. Participation and interest in extreme/adventure activities
+Overall, 12.1% (n ¼ 75) of GCS reported that they had participated in an extreme/adventure activity over the past year (Table 1).
+Downhill skiing was the most frequently reported activity (29.4%)
+followed by mountaineering (17.5%) and cross-country skiing
+(8.7%). Of the 309 (49.8%) GCS interested in a future exercise study,
+41.1% (127 out of 309) indicated they would be interested in trying
+an extreme/adventure activity. The extreme/adventure activity of
+most interest was cross-country skiing (56.9%) followed by horseback riding (51.5%) and river rafting (41.5%).
+3.2. Exercise growth
+Descriptive statistics for the exercise growth variables are displayed in Table 2. Results indicated that GCS reported the largest
+change for increasing the amount of exercise (38.8%) followed by
+trying new exercises (32.4%), taking up mind body exercises
+(16.3%), taking up a new sport (10.7%), taking up a physically
+challenging activity (5.5%), and taking up a higher risk sport or
+activity (2.8%).
+3.3. Associations between extreme/adventure activities and
+posttraumatic growth
+ANCOVAs indicated no significant differences for participation
+or interest in extreme/adventure activities for the PTGI, PIOC, NIOC,
+and BFS (Table 3).
+3.4. Associations between exercise growth and posttraumatic
+growth
+Table 4 reports the differences in posttraumatic growth based
+on the exercise growth items. All exercise growth items were
+significantly associated with all posttraumatic growth scales
+(Ps < 0.05). In forced entry multivariate regression analyses, the
+exercise growth items explained 37.2% (p < 0.001) of the variance in
+PTGI, 7.2% (p < 0.001) of the variance in the NIOC, 19.9% (p < 0.001)
+of the variance in the PIOC, and 23.0% of the variance in BFS. For the
+PTGI, the significant independent correlates were increasing the
+amount of exercise (b ¼ 0.36; p < 0.001), trying new exercises
+Table 1
+Participation and interest in extreme/adventure activities in gynecologic cancer
+survivors in Alberta, Canada, JulyeNovember, 2013 (N ¼ 621).
+Extreme/adventure activity variable N (%)
+Have you participated in any “extreme/adventure” activities in the past
+year?
+Yes 75 (12.1)
+No 546 (87.9)
+If yes, what type of extreme/adventure activities did you do? (n ¼ 75)a
+Downhill skiing 37 (29.4)
+Mountaineering 22 (17.5)
+Cross country skiing 11 (8.7)
+White water rafting 10 (7.9)
+Scuba diving 7 (5.6)
+Mountain biking 6 (4.8)
+Rock climbing 4 (3.2)
+Sea kayaking 3 (2.4)
+Zip lining 3 (2.4)
+Horseback riding 3 (2.4)
+Long distance running 2 (1.6)
+Waterskiing 2 (1.6)
+Rope course 2 (1.6)
+Triathlon 2 (1.6)
+Surfing 2 (1.6)
+Other 6 (6.4)
+Would you be interested in participating in a future exercise study?
+Yes 309 (49.8)
+No 312 (50.2)
+If yes, would you be interested in trying any “extreme/adventure”
+activities? (n ¼ 309)
+Yes 127 (41.1)
+No 182 (58.9)
+If yes, what type of “extreme/adventure” activities would you like to try?
+(n ¼ 127)a
+Cross country skiing 74 (56.9)
+Horseback riding 67 (51.5)
+River rafting 54 (41.5)
+Mountaineering (hiking) 48 (36.9)
+Kayaking 47 (36.2)
+Wall/rock climbing 40 (30.8)
+Downhill skiing 38 (29.2)
+Scuba diving 31 (23.8)
+Waterskiing/Wakeboarding 25 (19.2)
+Mountain biking 23 (17.7)
+Triathlon 8 (6.2)
+Other 17 (13.1)
+Note. a Participants could list more than one type of extreme/adventure activity.
+J.J. Crawford et al. / Mental Health and Physical Activity 9 (2015) 35e40 37
+(b ¼ 0.24; p < 0.001) and taking up a new sport (b ¼ 0.09;
+p ¼ 0.023). For the NIOC, the only significant correlate was trying
+new exercises (b ¼ 0.13; p ¼ 0.031). For the PIOC, the significant
+independent correlates were increasing the amount of exercise
+(b ¼ 0.31; p < 0.001) and taking up mind-body exercises (b ¼ 0.09;
+p ¼ 0.039). Finally, for the BFS, the independent correlates were
+increasing the amount of exercise (b ¼ 0.31; p < 0.001), taking up a
+new sport (b ¼ 0.09; p ¼ 0.042), and taking up a high risk sport
+(b ¼ 0.10; p ¼ 0.020).
+4. Discussion
+Our results showed that only 12.1% (n ¼ 75) of GCS reported
+participating in extreme/adventure activities in the past year with
+the most popular activities being downhill skiing, mountaineering,
+and cross-country skiing. There are no published studies that have
+examined extreme/adventure activity participation in cancer survivors with which to compare our results. This rate of participation
+is higher than the 5% reported in the general adult population
+(Tomlinson, Ravenscroft, Wheaton, & Gilchrist, 2005) although
+participation rates have continued to grow (Brymer & Schweitzer,
+2013). Interestingly, about 40% of GCS interested in participating
+in a future exercise study were interested in trying extreme/
+adventure activities with the strongest interest in cross country
+skiing (56.9%), horseback riding (51.5%), and river rafting (41.5%).
+These findings suggest that extreme/adventure activity interventions may be of interest to GCS despite limited current
+participation.
+GCS also reported modest exercise growth as a result of their
+diagnosis. About one-third of GCS reported that their diagnosis and
+treatments prompted them to increase the amount of exercise and
+try new exercises; however, fewer than 10% reported that it
+prompted them to take up a new sport, take up a physically challenging activity, or take up a high-risk sport or activity. The proportion of GCS that increased the amount of exercise is about
+double that reported for breast and other cancer survivors
+(Blanchard et al., 2003), suggesting that a GCS diagnosis may be
+especially motivating for exercise behavior change. The reasons for
+the low rate of change in terms of trying a new sport, a physically
+challenging activity, or a high risk activity are unclear. It is possible
+that the low rate of change in these variables may be due to the age
+range of participants in the present study. Previously, extreme/
+adventure activities tended to be popular among younger people;
+however, the demographics of participants in extreme/adventure
+sports are broadening to include people of all ages and women
+(Celsi, Rose, & Leigh, 1993; Willig, 2008).
+Contrary to our hypothesis, our data indicated that extreme/
+adventure activity participation and interest was not associated
+with posttraumatic growth. Observational research has indicated
+that those who push their boundaries and overcome physical and
+psychological challenges by taking up a new or physically challenging activities such as mountaineering, dragon boating, or
+motorcycling, have reported improved posttraumatic growth
+(Burke & Sabiston, 2012; Dunn et al., 2009; McDonough et al., 2011;
+Sabiston et al., 2007). One potential explanation for our finding is
+that a single participation in an extreme/adventure activity in the
+past year may not be sufficient to change posttraumatic growth.
+Unfortunately, we did not ask about the frequency of participation
+in our survey. A second possible explanation is that the low
+numbers of GCS who had participated in any extreme/adventure
+activity may have limited our ability to find an association. Finally, it
+is also possible that the GCS who participated in extreme/adventure activities in the past year were the same ones who had
+participated prediagnosis, thereby, not experiencing any change in
+Table 2
+Descriptive statistics for exercise growth variables in gynecologic cancer survivors in Alberta, Canada, JulyeNovember, 2013 (N ¼ 621).
+Exercise growth variable M ± SD No changea Small changeb Moderate changec Great changed
+n (%) n (%) n (%) n (%)
+Increased amount of exercise 1.3 ± 1.0 147 (23.7) 233 (37.5) 141 (22.7) 100 (16.1)
+Tried new exercises 1.1 ± 1.1 234 (37.7) 186 (30.0) 103 (16.6) 98 (15.8)
+Taken up mind-body exercises 0.6 ± 1.0 418 (67.3) 102 (16.4) 46 (7.4) 55 (8.9)
+Taken up a new sport 0.4 ± 0.8 467 (75.2) 88 (14.2) 32 (5.2) 34 (5.5)
+Taken up physically challenging activity 0.2 ± 0.6 531 (85.5) 56 (9.0) 20 (3.2) 14 (2.3)
+Taken up “high risk” sport or activity 0.1 ± 0.5 560 (90.2) 44 (7.1) 11 (1.8) 6 (1.0)
+Note. Exercise growth was rated on a six-point scale from 0 ¼ I did not experience this change to 5 ¼ I experienced this change to a very great degree. a Did not experience this change ¼ 0. b Changed to a very small/small degree ¼ 1e2. c Changed to moderate degree ¼ 3. d Changed to a great/very great degree ¼ 4e5.
+Table 3
+Differences in posttraumatic growth based on participation and interest in extreme/adventure activities in gynecologic cancer survivors in Alberta, Canada, JulyeNovember,
+2013.
+No Yes Mean difference
+Variable Mean (SE) Mean (SE) (95% CI) p
+Participation (n ¼ 621) (n ¼ 546) (n ¼ 75)
+Posttraumatic growth inventory 54.7 (1.07) 54.9 (2.97) þ0.2 (6.0 to þ6.5) 0.95
+Negative impact of cancer scale 2.6 (0.03) 2.5 (0.08) 0.1 (0.3 to þ0.1) 0.29
+Positive impact of cancer scale 3.5 (0.03) 3.5 (0.07) 0.0 (0.2 to þ0.1) 0.78
+Benefit finding scale 33.7 (0.03) 33.9 (1.21) þ0.2 (2.3 to þ2.8) 0.87
+Interest (n ¼ 309) (n ¼ 182) (n ¼ 127)
+Posttraumatic growth inventory 55.9 (1.92) 52.6 (2.33) 3.3 (0.49 to þ2.85) 0.29
+Negative impact of cancer scale 2.6 (0.06) 2.5 (0.07) 0.1 (0.23 to þ0.12) 0.55
+Positive impact of cancer scale 3.5 (0.05) 3.5 (0.06) þ0.0 (0.14 to þ0.18) 0.81
+Benefit finding scale 34.2 (0.77) 33.0 (0.94) 1.2 (3.66 to þ1.30) 0.35
+Note. Mean (SE) and Mean Difference (95% CI) are adjusted for age, type of cancer, body mass index, months since diagnosis, radiation, and chemotherapy; CI ¼ confidence
+Prevalence and interest in extreme/adventure activities among
+gynecologic cancer survivors: Associations with posttraumatic growth
+Jennifer J. Crawford a
+, Nicholas L. Holt a
+, Jeff K. Vallance b
+, Kerry S. Courneya a, *
+a University of Alberta, Canada
+b Athabasca University, Canada
+article info
+Article history:
+Received 21 June 2015
+Received in revised form
+10 September 2015
+Accepted 10 September 2015
+Available online 11 September 2015
+Keywords:
+Posttraumatic growth
+Psychological growth
+Cancer
+Oncology
+Extreme sport
+Adventure therapy
+abstract
+Exercise has been associated with posttraumatic growth in gynecologic cancer survivors (GCS) but the
+role of extreme/adventure activities has not been investigated. The primary objective of this study was to
+examine the association between extreme/adventure activities and posttraumatic growth in GCS. A
+Canadian provincial registry generated a random sample of 2064 GCS stratified by cancer type (i.e.,
+cervical, endometrial, and ovarian) who were mailed a self-report survey that assessed demographic and
+medical variables, posttraumatic growth, participation and interest in extreme/adventure activities, and
+exercise growth (i.e., the extent to which the cancer diagnosis itself prompted changes in the amount,
+type, or nature of exercise activities). Of 621 GCS, only 12.1% reported participating in extreme/adventure
+activities in the past year. Of 309 GCS interested in a future exercise study, 41.1% were interested in trying
+extreme/adventure activities. After adjustment for key covariates, neither participation nor interest in
+extreme/adventure activities were associated with posttraumatic growth. All exercise growth items,
+however, were significantly associated with all posttraumatic growth scales (all p's < 0.05). In multivariate regression analyses, exercise growth items explained 37.2% of the variance in the posttraumatic
+growth inventory, 7.2% of the variance in the negative impact of cancer scale, 19.9% of the variance in the
+positive impact of cancer scale, and 23% of the variance in the benefit finding scale (all p's < 0.001). GCS
+who change the amount, type, and/or nature of their exercise activities after their diagnosis may be more
+likely to experience posttraumatic growth.
+© 2015 Elsevier Ltd. All rights reserved.
+1. Introduction
+Although a cancer diagnosis can be extremely stressful and
+traumatic, it may also provide an opportunity for positive growth
+and adaptation (Linley & Joseph, 2004; Love & Sabiston, 2011;
+Morris, Shakespeare-Finch, & Scott, 2007). Posttraumatic growth
+is defined as a positive psychological change that emerges
+following a significantly challenging or traumatic life event and is
+often characterized by an increased appreciation for life, better
+interpersonal relationships, personal strength, recognition of new
+possibilities, and spiritual development (Tedeschi & Calhoun, 1996;
+Tedeschi, Park, & Calhoun, 1998). Posttraumatic growth is theorized
+to occur when a life crisis or traumatic event is challenging enough
+that it prompts cognitive processing of the event and its aftermath.
+Posttraumatic growth theory suggests that individual styles of
+managing distress, social support, and disclosure regarding emotions and perspectives on the traumatic event, as well as cognitive
+processing of the traumatic event, can lead to schema changes,
+change in life goals, and reduced psychological distress (Tedeschi &
+Calhoun, 1996; Tedeschi et al., 1998).
+Posttraumatic growth is a desired outcome of a cancer diagnosis; however, few interventions have been developed to promote
+experiences of growth. We previously reported that meeting exercise guidelines was associated with some aspects of posttraumatic growth in gynecologic cancer survivors (GCS) (Crawford,
+Vallance, Holt, & Courneya, 2014). Nevertheless, it is unknown
+whether the nature of the exercise itself (i.e., the exercise modality
+and context) may also be important for fostering posttraumatic
+growth. Previous research has found that emotionally and physically demanding activities (e.g., mountaineering, dragon boating,
+and group motorcycling) may prompt psychological growth in
+cancer survivors (Burke & Sabiston, 2012; Dunn, Campbell, Penn,
+Dwyer, & Chambers, 2009; Hefferon, Grealy, & Mutrie, 2008;
+* Corresponding author. Faculty of Physical Education and Recreation, University
+of Alberta, 1-113 University Hall, Edmonton, Alberta, T6G 2H9, Canada.
+E-mail address: kerry.courneya@ualberta.ca (K.S. Courneya).
+Contents lists available at ScienceDirect
+Mental Health and Physical Activity
+journal homepage: www.elsevier.com/locate/menpa
+http://dx.doi.org/10.1016/j.mhpa.2015.09.001
+1755-2966/© 2015 Elsevier Ltd. All rights reserved.
+Mental Health and Physical Activity 9 (2015) 35e40
+McDonough, Sabiston, & Ullrich-French, 2011; Sabiston, McDonough, & Crocker, 2007).
+Based on posttraumatic growth theory and preliminary
+research, we propose that activities that push cancer survivors
+beyond their current capacity and provide a sense of accomplishment may be most likely to foster positive growth. Accordingly, we
+propose that the optimal physical activities for stimulating posttraumatic growth would be physically challenging (i.e., a high
+physiological demand), novel (i.e., not common or everyday activities), and contain some element of physical risk (i.e., potentially
+serious injury if a mistake is made). The term “extreme/adventure
+activities” has become a general descriptor for these types of activities (Brymer & Schweitzer, 2013). Moreover, we propose that
+posttraumatic growth is most likely to occur when the cancer
+diagnosis itself prompts the cancer survivor to participate in
+extreme/adventure activities.
+The primary objective of this study was to examine the prevalence and interest in extreme/adventure activities in GCS and
+determine any associations with posttraumatic growth. Based on
+posttraumatic growth theory and previous research (Burke &
+Sabiston, 2012; Dunn et al., 2009; Hefferon et al., 2008;
+McDonough et al., 2011; Sabiston et al., 2007), we hypothesized
+that few GCS would be participating in extreme/adventure activities but that those GCS who were participating would report
+higher posttraumatic growth. Based on previous research
+(Blanchard et al., 2003), we also hypothesized that few GCS would
+report their cancer diagnosis prompted them to substantially
+change the amount, type, or nature of their exercise (i.e., reported
+exercise growth) but those who did report exercise growth would
+also report higher posttraumatic growth.
+2. Materials and methods
+2.1. Study population
+The design and methods of this cross-sectional, populationbased study have been reported elsewhere (Crawford et al., 2014).
+Ethical approval was granted by the Alberta Cancer Research Ethics
+Board. Eligibility criteria included: (a) 18 years of age and (b)
+histologically confirmed gynecologic (cervical, endometrial, or
+ovarian) cancer diagnosed between 1986 and 2013. The Alberta
+Cancer Registry generated a random sample of 2064 GCS stratified
+by cancer type (688 from each survivor group) who were then
+contacted by the registry on behalf of the researchers. The survey
+was conducted between July and November 2013. Eligible GCS were
+mailed a study package containing: (a) a letter of invitation from
+the Registry explaining the purpose of the Registry and its role in
+this specific study, (b) a letter from the researchers explaining the
+study, (c) the survey booklet, and (d) a postage paid return envelope. The survey protocol followed a modified version of the Total
+Design Method (Dillman, 2007) where participants were mailed (a)
+the initial study package, (b) a postcard reminder 3e4 weeks later
+to nonresponders, and (c) a second survey 3e4 weeks after that to
+nonresponders to the initial survey and postcard reminder.
+2.2. Measures
+2.2.1. Demographic and medical information
+Medical and demographic variables were assessed by self-report
+and included age, marital status, education, annual income,
+employment status, ethnicity, height and weight to calculate body
+mass index (BMI), date of diagnosis, type of gynecologic cancer
+(cervical, endometrial, ovarian), disease stage (localized, metastasized), previous and current treatments (surgery, radiation,
+chemotherapy/drugs), previous recurrence (no or yes), and current
+disease status (“cancer is gone” versus “still have cancer”).
+2.2.2. Participation and interest in extreme/adventure activity
+We were unaware of any published scales that have been validated for the assessment of extreme/adventure activities. Based on
+definitions of extreme sport (Brymer & Schweitzer, 2013) and
+adventure therapy (Epstein, 2004), we defined extreme/adventure
+activities for participants as physically challenging activities
+involving speed, height and/or a high level of physical exertion such
+as mountaineering, white water rafting, triathlon, marathon, scuba
+diving, rock climbing, dragon boating and downhill skiing.
+Extreme/adventure activity participation was assessed using one
+item (i.e., have you participated in any extreme/adventure activity
+in the past year) with a yes or no response; and one open-ended
+question (i.e., if yes, what type of extreme/adventure activity(ies)
+did you do).
+For participants interested in participating in a future exercise
+study, we asked “would you be interested in trying any extreme/
+adventure type activities” with a yes or no response. If participants
+selected yes, they were asked to choose which extreme/adventure
+activities they were most interested in trying from a list of options
+that included wall/rock climbing, mountaineering (hiking),
+triathlon, waterskiing/wakeboarding, river rafting, kayaking, scuba
+diving, mountain biking, cross country skiing, downhill skiing,
+horseback riding and other.
+2.2.3. Posttraumatic growth
+Given the exploratory nature of this study, posttraumatic
+growth was assessed by three scales. The primary posttraumatic
+growth scale was the Posttraumatic Growth Inventory (PTGI)
+(Tedeschi & Calhoun, 1996). The PTGI is a 21-item questionnaire
+with a six-point Likert Scale ranging from 0 (I did not experience
+this change as a result of my crisis) to 5 (I experienced this change
+as a result of my crisis). The PTGI is scored by the sum of the 21
+items where higher scores indicated greater posttraumatic growth.
+The Impact of Cancer Scale (IOC) was a second measure of posttraumatic growth (Zebrack, Yi, Petersen, & Ganz, 2008). The IOC
+consists of 41 items comprising 5 positive subscales (health
+awareness, positive self-evaluation, positive outlook, value of relationships, meaning of cancer) and 5 negative subscales (body
+changes, negative self-evaluation, negative outlook, life interferences, health worry). Respondents indicated the extent to
+which they agree from 1 (strongly disagree) to 5 (strongly agree).
+The Benefit Finding Scale (BFS) was used to assess the ways gynecologic cancer may have had a positive impact (Tomich & Helgeson,
+2006). The BFS is a 14-item questionnaire with a 4-point scale
+ranging from 1 (not at all) to 4 (very much). The BFS is scored by
+summing the 14-items, with higher scores indicating more benefits
+from cancer.
+2.2.4. Exercise growth
+We were interested in the extent to which a diagnosis and
+treatment of gynecologic cancer may have prompted participation
+in extreme/adventure activities but we were unaware of any validated scales assessing such a construct. Consequently, we
+embedded six “exercise growth” items in the PTGI scale. As noted
+earlier, the PTGI scale asks “how your diagnosis and treatment for
+gynecologic cancer (ovarian, endometrial, or cervical) may have
+changed your life” with responses ranging from 0 (I did not experience this change as a result of my crisis) to 5 (I experienced this
+change as a result of my crisis). The six exercise growth items
+focused on changes in the amount, type, and nature of exercise in
+order to tap aspects related to physically challenging, novel, and
+high risk extreme/adventure activities. The specific items were: “I
+have significantly increased the amount of exercise I do”, “I have
+36 J.J. Crawford et al. / Mental Health and Physical Activity 9 (2015) 35e40
+tried new exercises I have never done before”, “I have taken up a
+mind-body exercise such as yoga or tai chi”, “I have taken up a new
+sport that I never played before such as tennis or golf”, “I have taken
+up a physically challenging activity such as marathon running or
+triathlon”, and “I have taken up a high risk sport or activity such as
+rock climbing or white water rafting.”
+2.2.5. Statistical analysis
+All analyses were conducted using SPSS version 21.0 (SPSS Inc,
+Chicago, IL). We conducted analyses of covariance (ANCOVAs)
+comparing those participating versus not participating and those
+interested versus not interested in extreme/adventure activities on
+the PTGI, PIOC, NIOC, and BFS. Our analyses adjusted for age, type of
+cancer, BMI, months since diagnosis, radiation treatment, and
+chemotherapy treatment. We also conducted ANCOVAs to examine
+differences in posttraumatic growth based on the six exercise
+growth items by creating four categories of exercise growth: (1) no
+change (0 ¼ did not experience this change), (2) very small/small
+change (1e2 ¼ changed to a very small/small degree), (3) moderate
+change (3 ¼ changed to a moderate degree), and (4) great/very
+great change (4e5 ¼ changed to a great/very great degree). Finally,
+we performed forced entry multiple regression analyses to determine the independent associations of each of the six exercise
+growth variables with PTGI, PIOC, NIOC, and BFS, adjusting for the
+same variables as in our main analyses.
+3. Results
+Flow of participants through the study has been reported elsewhere (Crawford et al., 2014). Briefly, of the 2064 mailed surveys,
+621 surveys were completed resulting in a completion rate of 30%
+(621/2064) and a response rate of 38% (621/1626) excluding those
+that were returned to sender or not eligible. Demographic and
+medical data have been reported elsewhere (Crawford et al., 2014).
+In summary, the mean age of participants was 60.8 ± 12.2 years,
+71.5% were married, and 47.3% had completed university/college.
+The mean BMI was 28.2 ± 6.6 with 64.4% of participants being
+classified as overweight or obese. For type of cancer, 40.3% had
+ovarian cancer, 27.4% had endometrial cancer, and 32.4% had cervical cancer. Based on the limited data available in the Alberta
+Cancer Registry, we found our sample was similar to nonresponders in age, radiation treatment, and surgery treatment but
+slightly over-represented ovarian cancer survivors, chemotherapy
+treatment, and were closer to their date of diagnosis (Crawford
+et al., 2014).
+3.1. Participation and interest in extreme/adventure activities
+Overall, 12.1% (n ¼ 75) of GCS reported that they had participated in an extreme/adventure activity over the past year (Table 1).
+Downhill skiing was the most frequently reported activity (29.4%)
+followed by mountaineering (17.5%) and cross-country skiing
+(8.7%). Of the 309 (49.8%) GCS interested in a future exercise study,
+41.1% (127 out of 309) indicated they would be interested in trying
+an extreme/adventure activity. The extreme/adventure activity of
+most interest was cross-country skiing (56.9%) followed by horseback riding (51.5%) and river rafting (41.5%).
+3.2. Exercise growth
+Descriptive statistics for the exercise growth variables are displayed in Table 2. Results indicated that GCS reported the largest
+change for increasing the amount of exercise (38.8%) followed by
+trying new exercises (32.4%), taking up mind body exercises
+(16.3%), taking up a new sport (10.7%), taking up a physically
+challenging activity (5.5%), and taking up a higher risk sport or
+activity (2.8%).
+3.3. Associations between extreme/adventure activities and
+posttraumatic growth
+ANCOVAs indicated no significant differences for participation
+or interest in extreme/adventure activities for the PTGI, PIOC, NIOC,
+and BFS (Table 3).
+3.4. Associations between exercise growth and posttraumatic
+growth
+Table 4 reports the differences in posttraumatic growth based
+on the exercise growth items. All exercise growth items were
+significantly associated with all posttraumatic growth scales
+(Ps < 0.05). In forced entry multivariate regression analyses, the
+exercise growth items explained 37.2% (p < 0.001) of the variance in
+PTGI, 7.2% (p < 0.001) of the variance in the NIOC, 19.9% (p < 0.001)
+of the variance in the PIOC, and 23.0% of the variance in BFS. For the
+PTGI, the significant independent correlates were increasing the
+amount of exercise (b ¼ 0.36; p < 0.001), trying new exercises
+Table 1
+Participation and interest in extreme/adventure activities in gynecologic cancer
+survivors in Alberta, Canada, JulyeNovember, 2013 (N ¼ 621).
+Extreme/adventure activity variable N (%)
+Have you participated in any “extreme/adventure” activities in the past
+year?
+Yes 75 (12.1)
+No 546 (87.9)
+If yes, what type of extreme/adventure activities did you do? (n ¼ 75)a
+Downhill skiing 37 (29.4)
+Mountaineering 22 (17.5)
+Cross country skiing 11 (8.7)
+White water rafting 10 (7.9)
+Scuba diving 7 (5.6)
+Mountain biking 6 (4.8)
+Rock climbing 4 (3.2)
+Sea kayaking 3 (2.4)
+Zip lining 3 (2.4)
+Horseback riding 3 (2.4)
+Long distance running 2 (1.6)
+Waterskiing 2 (1.6)
+Rope course 2 (1.6)
+Triathlon 2 (1.6)
+Surfing 2 (1.6)
+Other 6 (6.4)
+Would you be interested in participating in a future exercise study?
+Yes 309 (49.8)
+No 312 (50.2)
+If yes, would you be interested in trying any “extreme/adventure”
+activities? (n ¼ 309)
+Yes 127 (41.1)
+No 182 (58.9)
+If yes, what type of “extreme/adventure” activities would you like to try?
+(n ¼ 127)a
+Cross country skiing 74 (56.9)
+Horseback riding 67 (51.5)
+River rafting 54 (41.5)
+Mountaineering (hiking) 48 (36.9)
+Kayaking 47 (36.2)
+Wall/rock climbing 40 (30.8)
+Downhill skiing 38 (29.2)
+Scuba diving 31 (23.8)
+Waterskiing/Wakeboarding 25 (19.2)
+Mountain biking 23 (17.7)
+Triathlon 8 (6.2)
+Other 17 (13.1)
+Note. a Participants could list more than one type of extreme/adventure activity.
+J.J. Crawford et al. / Mental Health and Physical Activity 9 (2015) 35e40 37
+(b ¼ 0.24; p < 0.001) and taking up a new sport (b ¼ 0.09;
+p ¼ 0.023). For the NIOC, the only significant correlate was trying
+new exercises (b ¼ 0.13; p ¼ 0.031). For the PIOC, the significant
+independent correlates were increasing the amount of exercise
+(b ¼ 0.31; p < 0.001) and taking up mind-body exercises (b ¼ 0.09;
+p ¼ 0.039). Finally, for the BFS, the independent correlates were
+increasing the amount of exercise (b ¼ 0.31; p < 0.001), taking up a
+new sport (b ¼ 0.09; p ¼ 0.042), and taking up a high risk sport
+(b ¼ 0.10; p ¼ 0.020).
+4. Discussion
+Our results showed that only 12.1% (n ¼ 75) of GCS reported
+participating in extreme/adventure activities in the past year with
+the most popular activities being downhill skiing, mountaineering,
+and cross-country skiing. There are no published studies that have
+examined extreme/adventure activity participation in cancer survivors with which to compare our results. This rate of participation
+is higher than the 5% reported in the general adult population
+(Tomlinson, Ravenscroft, Wheaton, & Gilchrist, 2005) although
+participation rates have continued to grow (Brymer & Schweitzer,
+2013). Interestingly, about 40% of GCS interested in participating
+in a future exercise study were interested in trying extreme/
+adventure activities with the strongest interest in cross country
+skiing (56.9%), horseback riding (51.5%), and river rafting (41.5%).
+These findings suggest that extreme/adventure activity interventions may be of interest to GCS despite limited current
+participation.
+GCS also reported modest exercise growth as a result of their
+diagnosis. About one-third of GCS reported that their diagnosis and
+treatments prompted them to increase the amount of exercise and
+try new exercises; however, fewer than 10% reported that it
+prompted them to take up a new sport, take up a physically challenging activity, or take up a high-risk sport or activity. The proportion of GCS that increased the amount of exercise is about
+double that reported for breast and other cancer survivors
+(Blanchard et al., 2003), suggesting that a GCS diagnosis may be
+especially motivating for exercise behavior change. The reasons for
+the low rate of change in terms of trying a new sport, a physically
+challenging activity, or a high risk activity are unclear. It is possible
+that the low rate of change in these variables may be due to the age
+range of participants in the present study. Previously, extreme/
+adventure activities tended to be popular among younger people;
+however, the demographics of participants in extreme/adventure
+sports are broadening to include people of all ages and women
+(Celsi, Rose, & Leigh, 1993; Willig, 2008).
+Contrary to our hypothesis, our data indicated that extreme/
+adventure activity participation and interest was not associated
+with posttraumatic growth. Observational research has indicated
+that those who push their boundaries and overcome physical and
+psychological challenges by taking up a new or physically challenging activities such as mountaineering, dragon boating, or
+motorcycling, have reported improved posttraumatic growth
+(Burke & Sabiston, 2012; Dunn et al., 2009; McDonough et al., 2011;
+Sabiston et al., 2007). One potential explanation for our finding is
+that a single participation in an extreme/adventure activity in the
+past year may not be sufficient to change posttraumatic growth.
+Unfortunately, we did not ask about the frequency of participation
+in our survey. A second possible explanation is that the low
+numbers of GCS who had participated in any extreme/adventure
+activity may have limited our ability to find an association. Finally, it
+is also possible that the GCS who participated in extreme/adventure activities in the past year were the same ones who had
+participated prediagnosis, thereby, not experiencing any change in
+Table 2
+Descriptive statistics for exercise growth variables in gynecologic cancer survivors in Alberta, Canada, JulyeNovember, 2013 (N ¼ 621).
+Exercise growth variable M ± SD No changea Small changeb Moderate changec Great changed
+n (%) n (%) n (%) n (%)
+Increased amount of exercise 1.3 ± 1.0 147 (23.7) 233 (37.5) 141 (22.7) 100 (16.1)
+Tried new exercises 1.1 ± 1.1 234 (37.7) 186 (30.0) 103 (16.6) 98 (15.8)
+Taken up mind-body exercises 0.6 ± 1.0 418 (67.3) 102 (16.4) 46 (7.4) 55 (8.9)
+Taken up a new sport 0.4 ± 0.8 467 (75.2) 88 (14.2) 32 (5.2) 34 (5.5)
+Taken up physically challenging activity 0.2 ± 0.6 531 (85.5) 56 (9.0) 20 (3.2) 14 (2.3)
+Taken up “high risk” sport or activity 0.1 ± 0.5 560 (90.2) 44 (7.1) 11 (1.8) 6 (1.0)
+Note. Exercise growth was rated on a six-point scale from 0 ¼ I did not experience this change to 5 ¼ I experienced this change to a very great degree. a Did not experience this change ¼ 0. b Changed to a very small/small degree ¼ 1e2. c Changed to moderate degree ¼ 3. d Changed to a great/very great degree ¼ 4e5.
+Table 3
+Differences in posttraumatic growth based on participation and interest in extreme/adventure activities in gynecologic cancer survivors in Alberta, Canada, JulyeNovember,
+2013.
+No Yes Mean difference
+Variable Mean (SE) Mean (SE) (95% CI) p
+Participation (n ¼ 621) (n ¼ 546) (n ¼ 75)
+Posttraumatic growth inventory 54.7 (1.07) 54.9 (2.97) þ0.2 (6.0 to þ6.5) 0.95
+Negative impact of cancer scale 2.6 (0.03) 2.5 (0.08) 0.1 (0.3 to þ0.1) 0.29
+Positive impact of cancer scale 3.5 (0.03) 3.5 (0.07) 0.0 (0.2 to þ0.1) 0.78
+Benefit finding scale 33.7 (0.03) 33.9 (1.21) þ0.2 (2.3 to þ2.8) 0.87
+Interest (n ¼ 309) (n ¼ 182) (n ¼ 127)
+Posttraumatic growth inventory 55.9 (1.92) 52.6 (2.33) 3.3 (0.49 to þ2.85) 0.29
+Negative impact of cancer scale 2.6 (0.06) 2.5 (0.07) 0.1 (0.23 to þ0.12) 0.55
+Positive impact of cancer scale 3.5 (0.05) 3.5 (0.06) þ0.0 (0.14 to þ0.18) 0.81
+Benefit finding scale 34.2 (0.77) 33.0 (0.94) 1.2 (3.66 to þ1.30) 0.35
+Note. Mean (SE) and Mean Difference (95% CI) are adjusted for age, type of cancer, body mass index, months since diagnosis, radiation, and chemotherapy; CI ¼ confidence
+these activities which may be the critical factor in prompting
+posttraumatic growth.
+This last explanation is bolstered by our results showing that all
+exercise growth items were significantly associated with all posttraumatic growth scales. These data suggest that GCS who changed
+the amount, type, or nature of their exercise activities experienced
+higher posttraumatic growth. These results are consistent with
+observational studies with breast cancer survivors that found
+emotionally and physically taxing activities may provide a medium
+for physical and psychological growth (Burke & Sabiston, 2010,
+2012; Dunn et al., 2009; Sabiston et al., 2007). Moreover, it was
+not only an increase in the amount of exercise that was associated
+with posttraumatic growth but also trying new activities and high
+risk activities. These data are consistent with our hypothesis that
+activities that are physically challenging, novel, and contain some
+risk may be more likely to prompt posttraumatic growth in GCS.
+Future research examining whether exercise growth is associated
+with posttraumatic growth in other cancer survivor populations is
+warranted.
+Our study has several strengths and limitations that need to be
+recognized. The strengths of our study include being the first to
+examine extreme/adventure activities and posttraumatic growth in
+GCS. Moreover, we obtained a large population-based sample of
+GCS that was fairly representative of the GCS population of Alberta
+and used validated measures of posttraumatic growth. One limitation of this study is the use of researcher-developed scales for
+extreme/adventure activity participation as well as exercise
+growth. The cross-sectional design is also a limitation. Moreover,
+our research should be replicated in different climates and countries, as different opportunities for extreme/adventure activities
+may exist.
+In summary, we examined the associations between extreme/
+adventure activities and posttraumatic growth in a populationbased sample of 621 GCS. We found that neither participation nor
+interest in extreme/adventure activities was associated with posttraumatic growth in GCS; however, exercise growth (i.e., changes in
+the amount, type, and nature of exercise prompted by the cancer
+diagnosis) was strongly associated with posttraumatic growth.
+Future research examining the outcomes and determinants of
+adventure/extreme activities in GCS and other cancer survivor
+populations are warranted.
+Conflict of interest
+The authors declare no conflict of interest. The authors have full
+access to all the data in the study and thereby accept full responsibility for the integrity of the data and the accuracy of the data
+analysis.
+Acknowledgments
+Thank you to Carol Russell and her team from the Alberta Cancer
+Registry for their assistance with the sampling of participants.
+Kerry S. Courneya is supported by the Canada Research Chairs
+Program

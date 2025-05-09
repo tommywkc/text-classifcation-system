@@ -1,0 +1,1458 @@
+Neural correlates of meditation: a review of structural and functional MRI studies
+Rui Ferreira Afonso1
+, Inessa Kraft1
+, Maria Adelia Aratanha1
+, Elisa Harumi Kozasa1
+1Hospital Israelita Albert Einstein, Sao Paulo, SP, Brazil, 2Department of Psychiatry and
+Psychotherapy, University of Marburg, Marburg, Germany
+TABLE OF CONTENTS
+1. Abstract
+2. Introduction
+3. Evidence from structural MRI
+4. Evidence from functional MRI
+5. Conclusion
+6. Acknowledgments
+7. References
+1. ABSTRACT
+Here, we review the neurophysiological and
+neuroimaging changes that mediation induces in
+structural and functional MRI. The available evidence
+from structural studies suggests that mediation
+impacts neuronal plasticity and the functional MRI
+suggest that there are changes in gray and white
+matter in subjects who meditate. FMRI studies show
+that meditation is associated with decreased activity
+of default mode network and activation of brain
+regions involved in cognitive and emotional control.
+Together, the available imaging techniques have
+revealed that rather than impacting specific brain
+regions, meditation causes structural and functional
+changes in large-scale brain networks.
+2. INTRODUCTION
+Due to diversity of practices, many attempts
+have been made to define meditation. Some authors
+define a specific technique as mindfulness: “paying
+attention in a particular way: on purpose, in the
+present moment, nonjudgmentally” (2) or
+“mindfulness meditation involves the self-regulation
+of attention and involves adopting a particular
+orientation toward one’s experiences in the present
+moment”(3). Others define meditation by its
+neurobiological correlates, suggesting it is a ‘‘a
+complex neural practice that induces changes in
+neurophysiology and neurochemistry of the brain,
+resulting in altered neurocognition and behavior in
+the practitioner” (4), that is, in this case technique and
+effect become tangled. Some authors, however, aim
+at encompassing several types of meditation in a
+broader definition, as defined by Cardoso et al. (5):
+“Meditation is a procedure which should encompass
+a specific technique, clearly defined, involving
+muscle relaxation in some point of the process and
+“logic relaxation”; it is a self-induced state, using a
+self-focus skill (coined “anchor”). This definition was
+reinforced by Bond et al.(6).
+Even though meditation is currently in
+practice, it originated in ancient times, being present
+in the Vedas, one of the first manuscripts of
+humankind, which has been practiced, throughout
+history. Willard Johnson suggested in 1982 (7) that
+meditation may have arisen concurrently with early
+domestication of fire. According to this author,
+humankind had its first experiences on altered
+consciousness states while still living in caves, sitting
+around fires and watching its flames.
+Meditation has been brought to us through
+the context of spirituality, embedded in rituals of
+different religions such as Buddhism, Hinduism and
+Christianity, and others. Due to positive effects of
+mediation on human health, there has been an
+increase in the number of meditation practitioners (8),
+(9). Andrade et al. points out that about 30% of the
+inhabitants of a large metropolis suffer from mental
+disorders (10). Several meta-analysis have also
+shown that meditation can be used for treatment
+different psychological disorders with positive
+outcomes (11), (12). In this scenario, the use of
+adequate scientific methodology and instruments to
+observe the phenomena associated with meditation
+becomes important and allows health professionals
+to encourage meditation practice (13).
+Although there may be some differences
+between meditation practices such as focused
+attention (FA) and open monitoring (OM) and their
+correlates dharana (concentration) and dhyana
+(meditation) in the ancient texts (14), such
+techniques share many similarities. Here, we will
+review, the effects of meditation on brain structure
+and function, raise some methodological questions
+and will not discuss semantic differences. For
+example, in cross-sectional studies, conclusions
+about the results of meditation might be mistaken for
+pre-existing individual differences. Moreover, if we
+take the effects of meditation into account, we should
+also consider state and trait (15), where state
+encompasses the alterations caused during some
+practice, while trait encompasses those that
+transform baseline patterns and remain even when
+the individual is not meditating. In the present
+scenario, researches are more focused on the
+psychobiological effects of meditation as a cognitive
+training than on the reports of the mystical states of
+trance described as nirvana or samadhi, which were
+precursors for the first meditation studies (16), (17).
+The aim of this study was to review
+structural and functional magnetic resonance
+imaging studies about meditation.
+3. EVIDENCE FROM STRUCTURAL MRI
+Brain imaging studies show growing
+evidence that meditation can induce changes in the
+brain structure and thus it can be assumed that its
+practice leads to neuronal plasticity (18). For treating
+age related cognitive decline and accompanying
+thinning of the cortex, meditation rises as a method
+that is associated with increased cortical thickness
+and offers the possibility of protecting the brain
+against natural aging decline processes as well as
+some mental disorders (19). It seems that meditation
+can act as a mental training to specific regions that,
+similarly to learning of new skills like juggling (20),
+can lead to structural neuroplasticity. But what is
+really known about the causal effects of meditation
+on morphometric brain alteration? Several studies
+already showed evidence of meditation-training
+induced neuroplasticity in some specific brain
+regions.
+One of the first studies analyzing the
+cortical thickness of meditators was published by
+Lazar et al. in 2005 (21)(Tables 1-2). Twenty longterm meditators who practiced insight meditation
+(adapted form of Vipassana) were recruited to
+participate in that study. A central element of the
+Vipassana meditation, in the context of insight
+meditation, is the attention to the sensory stimuli that
+come up during the process. Lazar and her
+colleagues found the right anterior insula and the
+right middle and superior frontal sulci to be
+significantly thicker in meditators than in controls. A
+correlation of cortical thickness and the change in
+respiration rate, which served as an objective
+indicator of the amount of meditation practice,
+pointed to the inferior occipito-temporal visual cortex
+as a significant region. Particularly, after being
+controlled for age which could have an effect
+especially on frontal regions of older meditators (22),
+this region remained significant. A significant
+correlation between respiration rate and the cortical
+thickness in the insula was also found after the
+authors controlled for age. Thus, they conclude that
+the thickness of the occipito-temporal visual cortex
+and the insula increases with the amount of
+meditation practice. In the Brodmann area (BA) 9/10
+meditation seems to slow down cortical thinning, as
+40- and 50- year old meditators compared to 20-30
+year old meditators and controls showed the same
+average thickness. This could be linked to its function
+in integrating emotion and cognition. Due to its
+largest significant group difference, the study brings
+out the insula as a brain region that is significantly
+activated, probably in experienced practitioners as
+well as in meditation beginners, as it is responsible
+for the awareness of interoceptive stimuli such as
+breathing and other sensory stimuli. The insula
+showed to be active during the attention to bodily
+Meditation MRI analysis Main results(meditation x control) Reference
+insight
+meditation
+(vipassana)
+cortical thickness Greater cortical thickness in the right anterior insula and in the right middle and
+superior frontal sulci.
+Lazar et al.,
+2005 (21)
+Vipassana voxel-based
+morphometry
+Greater gray matter volumes in the left inferior temporal gyrus, the right anterior
+insula and the right hippocampus.
+Hölzel et al.,
+2008 (24)
+Dzogchen voxelbasedmorphometry
+Altered gray matter densities in the medulla oblongata, left superior frontal gyrus,
+the left inferior frontal gyrus, the left mid-ventrolateral prefrontal cortex, bilaterally
+the anterior lobe of the cerebellum and the left fusiform gyrus.
+VestergaardPoulsen et al.,
+2009 (28)
+Zen mediation Cortical thickness Thicker cortices in the dorsal anterior cingulate cortex and bilaterally in the
+secondary somatosensory cortex.
+Grant et al.,
+2010 (31)
+integrative
+body mind
+training
+fractional anisotropy Increased fractional anisotropy values in the left anterior corona radiata, body and
+genu of the corpus callosum, superior corona radiata and superior longitudinal
+fasciculus.
+Tang et al.,
+2010 (33)
+Shamatha,
+Vipassana,
+andZazen
+Diffusion Tensor
+Imaging
+Larger fractional anisotropy in fiber tracts such as the anterior thalamic radiation,
+cingulum-hippocampus, corticospinal tract, inferior fronto-occipital fasciculus,
+inferior longitudinal fasciculus, superior longitudinal fasciculus, temporal
+component of superior longitudinal fasciculus, uncinate fasciculus and forceps
+minor.
+Luders et al.,
+2011 (37)
+Mindfulnessbased stress
+reduction
+voxel-based
+morphometry
+Increase in gray matter concentration in a region of interest within the left
+hippocampus; increases of gray matter concentration. In whole brain analysis,
+increase in gray matter concentration in the posterior cingulate cortex, the left
+temporo-parietal junction and the cerebellum.
+Hölzel et al.,
+2011 (40)
+several
+disciplines
+Diffusion Tensor
+Imagin
+Increased fractional anisotropy in several regions of the corpus callosum. Luders et al.,
+2012 (39)
+Brain Wave
+Vibration
+cortical
+thickness/Diffusion
+Tensor Imaging
+Increased cortical thickness in the bilateral ventromedial prefrontal cortex,
+superior frontal cortex, temporal pole, middle and inferior temporal cortices, left
+fusiform cortex and medial prefrontal cortex on meditators. Meditators showed
+higher fractional values in the cuneus, precuneus and occipital regions and the
+ventromedial prefrontal cortex and lower fractional anisotropy values in the right
+medial prefrontal cortex, posterior cingulate cortex and right occipital regions
+Kang et al.,
+2013 (43)
+Sahaja Yoga
+Meditation
+voxelbasedmorphometry
+Larger gray matter volume overall and with regional enlargement in the right
+inferior temporal gyrus and bilaterally the anterior insula and left ventrolateral
+prefrontal cortex, the right ventromedial orbitofrontal cortex.
+Hernández et
+al., 2016 (19)
+Lovingkindness
+meditation
+voxel-based
+morphometry
+Greater gray matter volume in the right angular gyrus, right posterior
+parahippocampal gyrus, left inferior temporal gyrus and middle temporal gyrus
+Leung et al.,
+2013 (52)
+several
+disciplines
+voxel-based
+morphometry
+Larger left hippocampal volume. Luders et al.,
+2013 (57)
+several
+disciplines
+cortical gyrification Enlargement in the pre and post central gyrus, central sulcus, left inferior/middle
+temporal gyrus, angular gyrus, parieto-occipital fissure, fusiform gyrus, parietal
+operculum and cuneus and the right anterior dorsal insula.
+Luders et al.,
+2012 (58)
+soham
+meditation
+voxel-based
+morphometry
+Higher gray matter volume in the left ventral pallidum, left supplementary motor
+area and brainstem.
+Kumar et al.,
+2014 (60)
+
+sensations and visceral awareness and therefore fits
+well into the meditators’ practice (23). In general, the
+team found regions to be thicker in the right
+hemisphere that corresponds to its role for sustaining
+attention. They suggest differences between
+beginners and advanced practitioners. Advanced
+practitioners focus their awareness on thoughts and
+emotions or external stimuli as sounds, whereas
+beginners start by concentrating their awareness on
+interoceptive stimuli. In this context they conclude
+that other meditation forms will affect slightly different
+brain structures and patterns. Lazar and her
+Meditation Condition Main results Reference
+Kundalini during meditation Increased activity in putamen, midbrain, pregenual, anterior cingulate cortex,
+and hippocampal/parahippocampal formation
+Lazar et al.,
+2000 (66)
+ACEM
+meditation
+during meditation task Meditavion vs Waiting interval: increased activity in the left superior temporal
+gyrus
+Meditation vs control task: increased activity in the left inferior frontal gyrus
+Meditation vs word sequence generation task: increased activity in the left
+superior temporal gyrus
+Davanger et al.,
+2010 (68)
+Tibetan
+Buddhist
+tradition
+meditation vs resting
+state
+Increased activity in the frontal parietal regions, insula, lateral occipital,
+thalamic nuclei, basal ganglia and cerebellum in expert meditators and
+novice meditators during meditation x resting. Novice meditators and most
+expert meditators (skill acquired) showed less effort during meditation while
+least expert meditators showed greater activation of attention-related brain
+regions.
+BrefczynskiLewis et al.,
+2007 (65)
+focused
+attention-tobreath
+meditation and
+passive viewing during
+cued aversive pictures
+Decreased amygdala activity and increased prefrontal integration of the
+amygdala.
+Doll et al., 2016
+(69)
+Soham
+meditation
+meditation vs control
+task - classify
+geometric Figures
+between blue and
+yellow.
+During meditation: increased activity in the left mPFC, left inferior frontal
+gyrus, supplementary motor area and left precuneus
+control task: increased activity in the left middle and superior middle
+temporal, left inferior parietal and left post-central gyrus.
+Guleria et al.,
+2013 (70)
+compassion
+meditation (CM)
+CM or reappraisal
+during film clips
+(negative or neutral
+stimuli)
+CM vs negative stimuli: increased activity in the left prefrontal cortex and
+frontal cortex, supplementary motor area, areas in parietal lobules, and
+temporal gyrus, anterior cingulate cortex, posterior cingulate cortex,
+thalamus, hypothalamus, ventral pallidum, globus pallidus, caudate,
+putamen, portions of the cerebellum and right amygdala.
+CM vs. reappraisal: meditation had increased activity in the ventromedial
+prefrontal cortex, medial orbitofrontal cortex, gyrus rectus, portions of anterior
+cingulate cortex, frontopolar cortex, supplementary motor area, midcingulate, precuneus, bilateral superior temporal gyrus and inferior frontal
+gyrus/operculum, right fusiform gyrus, bilateral amygdala, hypothalamus,
+caudate, globus pallidus, putamen, right hippocampus and portions of the
+thalamus.
+Reappraisal, increased activity in the middle temporal gyrus, posterior
+cingulate/precuneus and cerebellum, bilateral medial frontal gyrus and left
+inferior frontal gyrus, pre-supplementary motor area/medial superior frontal
+gyrus, left calcarine gyrus.
+Engen and
+Singer 2015
+(71)
+Mindful
+Attention
+Training (MAT),
+CognitivelyBased
+Compassion
+Training
+(CBCT)
+IAPS database CBCT vs. MAT and control: negative correlation to negative images and
+depression scores in amygdala activity.
+MAT vs. control: decreased activity in the right amygdala for all images of the
+IAPS. Also decreased activity in right amygdala throughout the 8 weeks of
+intervention in response to all images and positive valence images of the
+IAPS.
+Desbordes et
+al., 2012 (74)
+colleagues argue that the specific thickening of the
+cortex is caused by meditation as those regions
+correspond to specific activities in which meditators
+engage in the course of their training. However, they
+emphasize that they expect structural changes in
+diverse regions, caused by other meditation
+techniques and mental exercises.
+Hölzel et al. (24) extended the findings of
+Lazar et al. (21). They investigated if regions that
+show typical functional activation during meditation
+will also show an increased gray matter
+concentration (GMC). A voxel based morphometric
+(VBM) region of interest (ROI) analysis was
+applied, enabling analysis of gray matter
+concentration in cortical and subcortical
+structures. They tested 20 meditators trained in
+Goenka’sVipassana meditation which showed
+greater gray matter volumes in the left inferior
+temporal gyrus, the right anterior insula and the
+right hippocampus in comparison to the other 20
+controls evaluated. Other hypothesized structures
+tested, did not reach significance. In addition, they
+tested whether the number of daily hours spent on
+meditation practice had an effect on the GMC. In
+doing so, they found a significant correlation only
+for the left inferior temporal gyrus region, whereas
+other regions showed only a trend (right anterior
+amygdala) or no significance (hippocampus). In a
+whole brain analysis, they tried to find out more
+regions that could also show a correlation with the
+amount of practice. This revealed the bilateral
+rectus gyrus and the medial orbitofrontal cortex as
+significant regions. As the orbitofrontal cortex is
+assumed to down regulate the amygdala, it could
+be involved in emotion processing (25), (26)
+similarly to the hippocampus. since the meditators
+also practiced Vipassana as in Lazar et al. (21), it
+is not surprising that the team discovered an
+increased gray matter volume in the right anterior
+insula. This effect could thus be the result of the
+similar meditation practice used in both studies.
+The structural changes and correlation with the
+amount of practice in the left inferior temporal
+gyrus first indicates a temporal region of the brain
+to be involved in meditation practice. In terms of
+meditation, this region is often linked to deep
+mystical and religious experiences (27). The
+cortical thickening of the hippocampus is linked to
+its strong anatomical connection to the amygdala
+and therefore its potential influence on emotional
+processes (25). The research team of Hölzel could
+not address the problem about the causal direction
+of structural brain changes in meditators, and
+neither could Lazar et al.. We assume that this
+"chicken-or-egg problem" could only be solved by
+long-term studies in the future. Furthermore, they
+notice the different method (VBM) used to Lazar et
+al. (21) and point out that their results are not
+directly comparable. In summary, Hölzel’s group
+expanded the set of regions that are associated
+with structural changes caused by meditation.
+Very impressive was the finding of
+Vestergaard-Poulsen et al. (28), who showed
+structural changes especially in the brain stem of
+long-term meditators who practiced the Dzogchen
+tradition of Tibetan Buddhism, a meditation form
+which is dominated by open awareness. Those
+researchers applied VBM to the whole brain and
+evaluated the gray matter density and volume. Their
+results showed altered gray matter densities
+especially in the medulla oblongata and several other
+regions as the left superior frontal gyrus, the left
+inferior frontal gyrus, the left mid-ventrolateral
+prefrontal cortex, bilaterally the anterior lobe of the
+cerebellum and a small part of the left fusiform gyrus
+in meditators compared to controls. As meditation
+practice often includes attention to one's own
+respiration, the medulla oblongata apparently shows
+structural changes due to its physiological
+involvement in the control of the respiratory flow (29).
+However, in comparison to the right hemispherical
+characteristic of Lazar’s (21) findings, they found left
+forebrain regions such as the left superior frontal
+gyrus and the left mid-ventrolateral prefrontal cortex
+to be structurally changed in their group of
+meditators. Indeed, this could be because they used
+participants with different meditation styles and
+analyses methods (cortical thickness and VBM).
+Reasoning that a ceiling effect could hide a possible
+correlation between the accumulated hours of
+practice and differences in gray matter density, they
+assume that morphometric brain alterations can
+proceed fast, so that this correlation fails to appear in
+long-term practicing meditators.
+Mindfulness-based stress reduction
+(MBSR) programs have become widespread,
+especially in the improvement of symptoms in
+stressed and chronic pain patients (2), (30). This
+positive impact on pain-processing was also tested
+for the practice of Zen mediation by Grant et al. (31).
+The study team investigated 17 Zen practicing
+meditators and 18 control subjects who underwent a
+thermal pain sensitivity testing. They supposed that
+the uncomfortable cross-legged posture during
+meditation would act as a regularly practiced
+nociceptive stimulation – and thus would lead to
+lowered pain sensitivity effects that could structurally
+be proven by anatomical changes in the brain. And
+indeed, Grant and his team first figured out that
+meditators showed significantly lower pain sensitivity
+than controls and demonstrated further that this was
+associated with thicker cortex in the anterior
+cingulate cortex in meditators compared to controls.
+ROI analyses revealed thicker cortices in pain
+processing areas such as the dorsal anterior
+cingulate cortex and bilaterally in secondary
+somatosensory cortex in meditators in comparison to
+controls. They demonstrated that the increase of
+meditation practice experience is associated with the
+increase in the thickness of the gray matter in the
+dorsal anterior cingulate cortex. This region is
+strongly considered to be involved in emotional
+processes and nociception and arbitrates pain based
+on affective aspects (32). The authors suppose that
+some kind of control instance is settled in this region,
+responsible for pain control. Higher cortical thickness
+would therefore be linked to corresponding higher
+pain control and probably lower pain sensitivity.
+Besides the dorsal anterior cingulate cortex as an
+emotion related brain region, they also found the
+secondary somatosensory cortex related region to be
+thicker in relation to reduced pain sensitivity. The
+correlation analysis between hours of meditation and
+cortical thickness brought up the lower leg areas in
+the bilateral primary somatosensory cortex and could
+be associated with pain in the knees and ankles of
+the meditators. However, this conclusion lacked in
+the missing correlation between pain sensitivity and
+primary somatosensory (31).
+Until then several studies showed that
+meditation is linked to grey matter changes in diverse
+brain regions. Tang and his colleagues (33) however,
+tried to answer the question of whether the brains of
+meditators are thus also characterized by enhanced
+connectivity apparent by fiber tracts or rather higher
+fractional anisotropy (FA) levels between these
+regions. Based on their previous study (34)that
+assessed integrative body mind training (IBMT)
+practitioners, where they revealed improved
+executive and alerting attention after 11 hours of
+IBMT training over one month, Tang and his
+colleagues hypothesized in their following study that
+this training would also show effects on FA,
+especially in the anterior corona radiata which
+connects striatum and anterior cingulate cortex. The
+anterior cingulate cortex, as part of the conflict
+monitoring system, is integrated in emotion
+regulation processes (35), (36). To explore this, they
+had 45 participants undergo either the IBMT program
+or a parallel relaxation training program that served
+as a control condition. The IBMT training is
+characterized by mindfulness and mental imagery
+training. The training was conducted for 30 minutes
+during the week and for one month (11 hours of
+training in total). Several areas, , including the left
+anterior corona radiata, showed to be significantly
+increased after IBMT in comparison to relaxation
+training. Furthermore, increased FA values were
+found in the body and genu of the corpus callosum,
+superior corona radiata and superior longitudinal
+fasciculus after IBMT training. They did not find any
+gray matter differences in either group and thus
+speculate that gray and white matter differ in the time
+they need to undergo structural changes. The
+authors discuss whether FA value changes indicate
+myelination changes or restructuring in white matter
+tracts and consider the training a way to ease
+symptoms of several disorders with anterior cingulate
+cortex deficits. The increases in FA in the corpus
+callosum are interpreted as a possible increase in the
+interhemispheric connection of the ventral and the
+dorsal anterior cingulate.
+Based on the findings of Tang et al. (33)
+and the assumption that meditation should, in
+addition to gray matter, affect white matter, Luders
+and his team (37) evaluated a multimodal imaging
+approach combining Diffusion Tensor Imaging (DTI)
+measurement with tract mapping methods. They
+measured 27 meditators experienced in several
+disciplines compared to 27 controls. As they found
+out, meditators seem to have larger FA in fiber tracts
+such as the anterior thalamic radiation, cingulumhippocampus, corticospinal tract, inferior frontooccipital fasciculus, inferior longitudinal fasciculus,
+superior longitudinal fasciculus, temporal component
+of superior longitudinal fasciculus, uncinate
+fasciculus and forceps minor (frontal projection of
+corpus callosum). Grouped by hemisphere
+interaction, the analysis revealed cingulum –
+cingulate gyrus, cingulum-hippocampus and
+temporal component of superior longitudinal
+fasciculus and a trend for superior longitudinal
+fasciculus. Left and right hemisphere comparisons
+showed larger FA in right cingulum – cingulate gyrus
+and cingulum-hippocampus but not in the left
+hemisphere of meditators. Temporal component of
+superior longitudinal fasciculus and superior
+longitudinal fasciculus were found to have larger FA
+with stronger effects for the left hemisphere in
+meditators compared to controls. A correlation
+analysis revealed no significant results correlating
+the number of meditation years or frequency
+(minutes per week) and FA values in selected ROIs.
+The correlation of age with FA was significantly
+negative, however less pronounced in meditators
+than in controls in all ROIs selected, except the left
+and right cingulum-hippocampus and left cingulum –
+cingulate gyrus. The missing correlation between
+years of practice and FA value could presumably not
+be significant since the fibers are subject to age
+related decline. Furthermore, they argue that the
+difference in meditation styles of the participants
+evaluated can lead to the missing correlation. As the
+superior longitudinal fasciculus passes through the
+inferior temporal gyrus, it can be well connected to
+the results of previous structural studies that show
+thickening in the temporal lobe or larger GMV in the
+inferior temporal gyrus, especially in the left
+hemisphere, which was also confirmed by this study
+with stronger effects for the left hemisphere (21),
+(24). As the uncinate fasciculus links the amygdala
+and the hippocampal gyrus to the orbitofrontal cortex
+the authors conclude that the finding of enlarged FA
+in this region is connected to larger GMV in the
+regions found in previous studies (28), (38). Fiber
+tracts connecting motor areas and somatosensory
+areas require further research, as remarked by the
+research group. Larger tracts of the corticospinal
+tract could be linked to Vestergaard-Poulsen's (28)
+finding of structural changes in the medulla
+oblongata, since the corticospinal tract also passes
+through it. The findings of the study team bring up the
+question whether disease symptoms that underlie
+demyelination processes, as in multiple sclerosis,
+can be relieved or reduced by meditation practice
+(39).
+Hölzel et al. (40) investigated gray matter
+concentration changes in the brain of sixteen nonmeditators after performing an 8- week MBSR
+program. Using voxel-based morphometry they
+revealed increases in gray matter concentration in a
+region of interest within the left hippocampus of the
+MBSR group, but not between the groups, as the
+control group did not show any structural changes in
+selected regions. The changes showed no
+correlation with the amount of practice time. In a
+whole brain analysis, they could further demonstrate
+increases of gray matter concentration in the
+posterior cingulate cortex, the left temporo-parietal
+junction and the cerebellum, of which one cluster was
+extended to the brainstem positioned in the locus
+coeruleus and nucleus raphe pontis in the MBSR
+group. No clusters were found for the whole brain
+analysis after a correlation analysis between GMC
+and amount of practice in days. The cerebellum area
+did not conform with the cerebellum area found by
+Vestergaard-Poulsen et al. (28), but rather to a region
+important for norepinephrine (locus coeruleus) and
+serotonin (nucleus raphe pontis) production. Deficits
+in neurotransmitter production of these regions were
+associated with dysfunctions related to behavior,
+cognition and mood (41). The posterior cingulate
+cortex is commonly mentioned in research about the
+default mode network, as it is one of the core regions
+and contributes to self-referential processes and past
+and future thinking (42). Even though the MBSR
+program includes meditation, it proposes several
+other strategies that increase relaxation and reduce
+stress and can, hence, influence the results based on
+this treatment (30). Hölzel and her team realized that
+they need to control for unspecific effects or evaluate
+a program that is based only on meditation to analyze
+effects caused only by meditation and mindfulness.
+Otherwise results could be more dependent on
+diverging participant characteristics.
+Based on the finding of their previously
+conducted DTI study, where they detected larger FA
+values in the forceps minor and showed differed fiber
+structures, Luders et al. (39) conducted a further
+study focusing on more sections of the corpus
+callosum this time evaluating changes in thickness
+influenced by meditation. Changes in fiber structures
+of the corpus callosum were also confirmed by Tang
+et al. (33). To evaluate this, they measured 30 longterm meditators practicing various meditation styles
+and compared them with 30 controls. This time they
+extended their analysis not only by using DTI but also
+thickness and area size measurements. Area
+analysis for five callosal segments was conducted
+and revealed increased thickness at the border
+between anterior midbody and anterior third of the
+corpora callosa which, however, did not survive FDR
+correction. The DTI analysis showed increased FA in
+several regions of the corpus callosum of meditators
+compared to controls (rostral body of the anterior
+third, the anterior midbody and even slightly
+extending into the posterior midbody, while sparing
+isthmus and splenium, as well as the genu and
+rostrum of the callosal anterior third). Contrary to the
+F Major, they found significantly larger FA values in
+the forceps minor of meditators compared to controls
+and assumed that meditation influences posterior
+parts of the corpus callosum. Discussing the findings
+of Tang et al. that reported meditation-induced
+increases of FA in the “genu”, which is also a part of
+the anterior third and was not found to be active here,
+they suppose that the chosen meditation-naïve
+subjects of the longitudinal study of Tang and
+colleagues might have more impact on the structure
+of the corpus callosum than long-term practitioners
+who had already acquired their skill to meditate. They
+further suppose that different meditation styles could
+also differently affect corpus callosum regions.
+Luders and his colleagues suppose that their
+findings, reflecting a change at a microscopic level
+(fiber number, density, or myelination) that was seen
+in increased FA within anterior corpus callosum of
+meditators, could lead to alterations on a
+macroscopic level (callosal thickness) as well. The
+evidence for that was demonstrated in their study by
+revealing thicker corpora callosa in meditators.
+However, this did not survive FDR correction.
+Nonetheless it could also support the assumption
+that there are more fibers in the corpus callosum
+caused by meditation. In summary, Luders et al.
+found further indication for the assumption that
+meditation could lead to an increased interhemispheric connectivity and a better integration of
+information. Their study showed that it is important to
+integrate different imaging approaches (structural
+MRI and DTI) to find more robust results.
+Kang et al. (43) employed a whole brain
+cortical thickness analysis together with a DTI
+analysis on Brain Wave Vibration (BWV) meditation
+practitioners, which combines rhythmic movements
+with the focus on arising body events in their practice.
+Thus, they extended the changes of structural
+analysis from gray to white matter by adding the
+analysis of the connectivity between regions provided
+by the investigation of the fractional anisotropy
+degree of white matter. This was previously carried
+out by Tang et al. (33) and Luders et al. (37). Based
+on their functional study dealing with the default
+mode network (DMN), they focused their hypothesis
+on the medial prefrontal cortex, orbitofrontal cortex
+and parietal areas. The large sample size, with 46
+meditators and 46 controls used for this study, is
+remarkable. The authors found a significantly
+increased cortical thickness in the bilateral
+ventromedial prefrontal cortex, superior frontal
+cortex, temporal pole, middle and inferior temporal
+cortices, left fusiform cortex and medial prefrontal
+cortex on meditators, compared to controls. This
+result partially confirmed their previous hypothesis.
+Interestingly, they also analyzed the thinning of the
+cortex, and found that meditators showed
+significantly thinner cortices in the bilateral
+postcentral and inferior parietal cortices, right middle
+occipital cortex, left posterior cingulate cortex and left
+cuneus. This anterior-posterior difference with thicker
+cortex in anterior and thinner cortex in posterior parts
+of the brain was explained with the finding of Kanai
+and Rees (44) and Takeuchi et al. (45), who showed
+decreased grey matter volume associated with
+increased cognitive functions. Thus, they justify that
+meditation practice is related to cortical thinning due
+to the enlargement of specific cognitive skills as
+attention and emotion regulation strengthen during
+meditation. Furthermore, as shown by Boyke et al.,
+(46), the increase of grey matter volume is followed
+by a decrease, after intensive and long-lasting
+training. This led Kang et al. (43) to question the
+conclusion that higher meditation experience is
+automatically associated with thickening of the
+cortex, as considered in many other previous studies.
+These thinner cortexes are especially located in
+posterior brain regions, particularly occipital and
+parietal regions that show regions of the DMN and
+thus are connected to self-referential processing. The
+medial prefrontal cortex participates in motor
+functions and is linked to the movements of the BWV
+(47). In contrast, the DTI data showed higher FA
+values in the cuneus, precuneus and occipital
+regions and the ventromedial prefrontal cortex and
+lower FA values in the right medial prefrontal cortex,
+posterior cingulate cortex and right occipital regions
+of meditators, as compared to control participants.
+Therefore, higher FA values can be linked to higher
+cortical thickness. Increasing fibers could in turn lead
+to reduced FA values that link regions with thinner
+cortex. As meditators had mainly increased FA
+values in hub regions, the authors speculate that
+meditation increases the amount of cross fibers. A
+positive, but weak correlation between the mean
+cortical thickness and the duration of meditation
+practice was revealed in the left superior frontal
+cortex. Based on a ROI analysis, they found that
+mean FA values differed significantly in the left
+ventromedial prefrontal cortex, left lateral prefrontal
+cortex, left temporal cortex, left posterior cingulate
+cortex and right middle occipital cortex of meditators
+compared to controls. As this is another study with
+cross-sectional design, it is still not clear whether the
+effects observed can be completely explained only by
+meditation training.
+Furthermore, a recent study conducted by
+Hernández et al. (19) showed that long-term practice
+of Sahaja Yoga Meditation (SYM) which is mainly
+based on loving kindness and mindfulness
+meditation techniques, is associated with larger gray
+matter volume overall and with regional enlargement,
+especially in right hemispheric cortical regions as the
+right inferior temporal gyrus and bilaterally the
+anterior insula and left ventrolateral prefrontal cortex,
+the right ventromedial orbitofrontal cortex and a
+tendency in the right angular gyrus. Consequently,
+those authors confirm the finding of structural
+changes happening in regions responsible for
+attention control and interoception. By finding
+changes in the ventrolateral prefrontal cortex and the
+insula, they confirmed their previously conducted
+functional MRI study that showed activation due to
+SYM meditation in these regions, which are assumed
+to be linked to emotional intelligence (48), (49). The
+ventromedial orbitofrontal cortex is interpreted in
+relation to top down emotional regulation due to its
+connection with the amygdala and hence could be
+interpreted as stronger affective control relating to
+negative emotions (50). The angular gyrus is linked
+to facilitated empathy in social life, since it also
+contains the temporo-parietal junction that relates to
+these facets (51). The enhanced structural changes
+of the right hemisphere are referred to stronger
+connection to the limbic system and the depth of
+thoughtless awareness. Further they found
+significantly larger gray matter volumes across the
+whole brain in SYM practitioners compared to
+controls, which was not until then found in other
+meditation techniques (19).
+Another form of meditation, the Lovingkindness meditation (LKM), is based on the
+cultivation of positive emotions such as love,
+compassion and empathy toward self and others,
+which distinguishes this technique from other
+meditation forms and consequently can further social
+cognition. Furthermore, based on the assumption
+that meditation forms that work with emotions could
+have an effect on the emotion-processing system,
+Leung et al. (52) measured 10 long-term LKM
+practitioners and compared them to 15 control
+subjects without meditation experience who
+underwent a total of seven hours of training in basic
+meditation self-practice. Using an automated voxelbased morphometry for the whole brain they found
+out that LKM practitioners showed more gray matter
+volume in the right angular gyrus, right posterior
+parahippocampal gyrus, left inferior temporal gyrus
+and middle temporal gyrus. As the structural changes
+of the inferior temporal gyrus were also found in other
+studies and the LKM practice starts with general
+attention and mindfulness practice, this region seems
+to be affected through general mindfulness and
+attention meditation. The right angular gyrus gray
+matter volume was found to be negatively correlated
+with the hours of meditation practice. The authors
+explained this by know-how adoption that does not
+require any more effort in training (53). The focus of
+the study is on the right angular gyrus, since it
+includes various different regions such as the
+temporo-parietal junction which plays a role in social
+cognition, empathy and metallization, as already
+discussed in the study of Hernandez et al. (19). They
+strengthen their argumentation citing Lutz et al. (54),
+who found a greater functional activity in the right
+angular gyrus of the temporo-parietal junction that
+they linked to interaction with others at emotional and
+rational levels. The finding in the right posterior
+parahippocampal gyrus was linked to its function in
+the paralimbic system and is connected to the
+amygdala and higher cognitive centers (55). The
+middle temporal gyrus represents again a region in
+the temporal lobe as already demonstrated by Holzel
+et al. (24) and Luders et al. (56) and thus seems to
+be subject to changes in various forms of meditation.
+Due to the small sample size and different practice
+stages of meditators, this study also presents
+limitations.
+With a sample of 30 long-term meditators
+and 30 controls, Luders and his team (57) contributed
+once again to the clarification of morphological
+changes due to meditation by conducting a study
+about hippocampal anatomical changes. Using a
+combination of traditional ROI-based approach with
+measurement of the hippocampal volume they found,
+through a global measurement based on the number
+of voxels in the hippocampus, that the left
+hippocampal volume was significantly larger in
+meditators than in controls. With up to 15% larger
+radial distances, especially in left hippocampal
+subregions in meditators compared to controls,
+revealed by local analysis to evaluate the
+hippocampal surface, they demonstrated once again
+that the hippocampus is subject to structural changes
+probably caused by meditation. They also correctly
+mentioned the problem of other ignored variables in
+the lifestyle of the participants that can influence the
+result in the hippocampus and impact on the group
+difference observed.
+Using cortical measurements different
+from those in other studies conducted to
+characterize the structural changes in meditators
+once again, Luders and his colleagues (58)
+examined the cortical folding degree, a process
+called gyrification, in a large-size sample of
+meditators. Analyzing the degree of gyrification in
+50 meditators with various types and years of
+meditation experience and comparing them to 50
+controls, they found an enlargement in several
+regions in meditators as the pre and post central
+gyrus, central sulcus, left inferior/middle temporal
+gyrus, angular gyrus, parieto-occipital fissure,
+fusiform gyrus, parietal operculum and cuneus and
+the right anterior dorsal insula. Furthermore, they
+found positive correlations between gyrification
+and years of meditation experience in left and right
+lateral surfaces and left medial surface, with a
+pronounced expression in the right posterior
+temporal lobe and the right anterior dorsal insula.
+Decreased gyrification together with increased
+number of practice years (negative correlation)
+indicated regions in the right medial surface. The
+larger gyrification in the left precentral gyrus was
+put into the context of regions surrounding motor
+cortices which have a relationship with the
+interoceptive function of the insula. Luders and his
+team (39) interpreted the anterior dorsal insula in
+its role in interoceptive function (23). Altered
+cuneus and right fusiform gyrus were interpreted in
+association with the visual information processing
+(59). In their interpretation, they focused especially
+on the course of the formation of the shape of gyri
+and sulci that changes over the years, speculating
+that sulci developed earlier are less susceptible
+the structural changes caused by environmental
+factors. The problem of the measurement of the
+gyrification in this approach, as mentioned by the
+team, is that it does not allow the distinction
+between sulci and gyri and, for age related
+changes in clinical studies, this method should be
+further developed in the areas of regional
+specificity and spatial resolution (58).
+Evaluating structural changes in
+meditators practicing “SOHAM” meditation, Kumar
+et al. (60) used voxel-based morphometry to
+analyze 14 long-term meditators and 14 controls.
+They detected changes especially in breathing
+related regions since SOHAM meditation
+concentrates on respiration while repeating the
+word "SO-HAM" synchronized with the breathing
+rhythm. Indeed, they found higher gray matter
+volume in the left ventral pallidum, left
+supplementary motor area and brainstem in
+meditators compared to controls. These results
+seem reasonable and are in line with other studies,
+since the brain stem entails regions responsible for
+cardio-respiratory function and regulation.
+Increased gray matter in the left ventral pallidum
+was linked to the role of reward and emotion
+regulation and interpreted as a strengthen in
+meditators through its increase in gray matter
+concentration (61). Difficulties in the interpretation
+of supplementary motor area in meditators were
+linked to a possible role in attention and awareness
+due to its anatomic localization. By controlling the
+basic rhythm of respiration and mediating
+behavioral respiratory control its increase in gray
+matter in SOHAM meditators seem to be plausible. 
+Due to its different meditation technique it can
+however hardly be compared with other meditation
+studies.
+All studies presented differed in analysis
+methods, sample sizes and meditation styles,
+bringing highly inconsistent results. In the metaanalysis conducted by Fox et al. (62) the authors tried
+to sum up the conclusions that can be drawn out of
+past morphometric studies related to meditation
+regarding their practical (clinical) relevance
+expressed by effect size. Conclusively, they found
+changes in nine consistently reported brain regions in
+meditators compared to controls. These contain the
+following gray matter regions: rostrolateral prefrontal
+cortex, anterior/mid cingulate cortex, insular cortex,
+somatomotor cortices, inferior temporal gyrus,
+hippocampus and the following white matter regions:
+corpus callosum and superior longitudinal fasciculus.
+Their analysis revealed that long-term meditators
+received more attention in past studies than
+meditation novices. The finding that mean effect
+sizes for gray and white matter are different, led the
+authors conclude that meditation influences more
+changes in gray rather than in white matter. This
+assumption, however, was refuted due to the large
+sample size available in the analysis. Surprisingly,
+Fox et al. (62) showed that experience in practice and
+effect sizes are not positively correlated as expected.
+The negative correlation between the two factors
+supports the assumption that age-related factors play
+an important role in the finding of significant results.
+It could also be explained by unchangeable
+morphology caused by the perfectionism of long-term
+practitioners. Mentioning the fact that increases in
+white or gray matter structures are mostly interpreted
+as cognitive increases linked to neurodegenerative
+diseases and age-related decline, they also
+elucidated that decreases in the structures can be
+associated with synaptic pruning. This process is
+characterized by the reduction of irrelevant portions
+between the associations of neurons and the
+degradation of irrelevant neurons, enabling an
+improved network cooperation and enhanced
+efficiency that plays an important role in learning
+processes (63). They call attention to several points
+that future research should concentrate on to
+improve consistency in their findings. Among them
+they mention the inclusion of more demographic
+variation in participants, comparison of various
+meditation styles and their connected changes, more
+longitudinal and follow-up studies and emphasize the
+importance of calculating an effect size to draw
+conclusions out of the results (62).
+4. EVIDENCE FROM FUNCTIONAL MRI
+As the techniques for brain function
+analysis and activity develop, so does the
+understanding of the neurobiological correlates of
+meditation. In the 1970s there was a predominance
+of EEG use in meditation studies. While EEG
+measures electrical activity in the cortical surface,
+with high temporal resolution, fMRI accesses deeper
+layers of the brain through the Blood Oxygenation
+Level-Dependent (BOLD) contrast. BOLD contrast
+relies on different metabolic and hemodynamic
+factors as the result of change in deoxyhemoglobin.
+Deoxyhemoglobin has a paramagnetic property,
+which distorts the near magnetic field, captured by
+MR and transformed into an image. Through fMRI
+exams, it is possible to measure changes that occur
+during meditation (meditation state), usually with the
+volunteer meditating inside the MRI equipment, as
+well as lasting changes (meditation trait) present in
+long-term meditators in which brain function of
+meditators during rest or other tasks non-related to
+meditation are analyzed with fMRI. In this regard,
+Cahn and Polish (15) suggest neurobiological
+differences in both the state and trait of meditators
+but, due to methodological issues, there are
+difficulties in assessing both meditation state and trait
+effects. Moreover, Nash and Newberg (1)
+categorized diverse meditation methods and found
+different frameworks which may induce different
+outcomes. In a meta-analysis, Fox et al. (64)
+analyzed fMRI meditation studies and found brain
+activation in four common meditation techniques
+(focused attention, mantra recitation, open
+monitoring, and compassion/loving-kindness). In this
+systematic review with meta-analysis the volunteers
+meditation average experience time was from a few
+hours to more than 45 years of meditation practice.
+Brain regions reportedly activated include insula,
+pre/supplementary motor cortices, dorsal anterior
+cingulate cortex, and frontopolar cortex. According to
+these authors, although some similarities were found,
+divergence is more common. Therefore, it is difficult
+to find a common denominator among the various
+meditation techniques. Also, as seen before, different
+levels of expertise cause different alterations in brain
+areas (65).
+One of the pioneering fMRI studies was
+Lazar et al. in 2000 (66)(Tables 1-2). They performed
+two analyses in five Kundalini practitioners. The
+volunteers were told to meditate (mantra) during the
+exam and were compared with a control epoch.
+Authors observed increasing activity during
+meditation in putamen, midbrain, pregenual, anterior
+cingulate cortex and hippocampal/parahippocampal
+formation. When comparing steady-state meditation
+(the last 2 min of meditation periods) with meditation
+induction (the first 2 min of meditation periods), the
+authors describe activation in prefrontal, parietal and
+temporal cortices, precentral and postcentral gyri,
+and hippocampal/parahippocampal formation.
+Although the sample was small and there was no
+control group, Lazar and colleagues opened new
+reads for the study of brain changes promoted by
+meditation.
+As seen in Kabat-Zinn (2), Bishop et al.(3),
+Cardoso et al. (5), attention is an important task
+required during meditation. Furthermore, prefrontal
+lobe areas are associated with attention and other
+executive functions (67). Thereby, the activation of
+some areas in the prefrontal lobe of people during
+meditation is expected. It was what Davanger and
+colleagues (68) found in meditators. Authors
+compared Acem meditation (a mantra-based
+meditation) in advanced male practitioners with
+meditation-like concentrative tasks and relaxation as
+a control task. In order to discriminate neuronal
+activation of relaxed focus of attention from those
+activated due to language (meditation sound),
+meditators performed three control tasks: pseudo
+word repetition, word sequence generation and
+relaxation. Results pointed to significant activation
+during meditation task in the left superior temporal
+gyrus, left precentral gyrus when compared to waiting
+intervals. However, when compared to waiting
+intervals, the control task exhibited bilateral temporal
+lobe activation in the auditory cortex (verbal activity),
+bilateral cluster extending in the medial frontal and
+inferior frontal gyri (relaxation task), bilateral frontal
+lobe/anterior cingulum and bilateral parietal lobe
+(word sequence generation). To differentiate areas
+activated by meditation from those areas related to
+control tasks, continuous meditation was contrasted
+with the three control tasks. Davanger and
+colleagues detected an activated area during
+meditation in the left inferior frontal gyrus when
+compared to the three controls tasks, and in the left
+superior temporal gyrus when meditation was
+compared to the word sequence generation task.
+Interestingly, the authors showed that meditation has
+specific patterns of brain activation that distinguish it
+from concentrative or relaxation tasks. Regarding
+focused attention network, Doll et al. (69)
+demonstrated activation in the superior and middle
+frontal gyrus of meditators in a focused attention-tobreathing task during an emotional stimulation.
+Additionally, Brefczynski-Lewis et al (65) showed
+activation in attention-related regions comparing
+meditation versus rest condition in a functional MRI.
+The activated regions included frontal parietal
+regions, insula, lateral occipital, thalamic nuclei,
+basal ganglia and cerebellar regions. In this study,
+Brefczynski-Lewis and team, compared expert
+meditators (10,000-54,000 hours of practice) to
+novice meditators (one week of practice). Both
+groups had activation of attention-related brain
+regions (as seen above). However, when expert
+meditators were divided into most hours of practice
+(44,000 mean hours) and least hours of practice
+(19,000 mean hours), the result resembled an
+inverted U-shape, showing less effort in novice
+(learning the skill), greater levels of effort in
+meditators with average of 19,000 h of practice and
+less effort in expert meditators with 44,000 average
+hours of practice (skill acquired).
+In a non-controlled study, Guleria et al. (70)
+compared meditation versus a control task during
+fMRI. Meditation task yielded activation in the left
+medial prefrontal cortex, left inferior frontal gyrus,
+supplementary motor area and left precuneus. On
+the other hand, control task lead to activation in the
+left middle and superior middle temporal, left inferior
+parietal, and left post-central gyrus. Similarly, Engen
+and Singer (71) observed more positive affect and
+emotion regulation due to Compassion meditation
+training. In their study, meditators were scanned
+during short film clips with negative and neutral
+stimuli. Participants were asked to perform
+compassion meditation (CM) or reappraisal
+(condition that resembles compassion - for control
+task). Regarding CM versus negative stimuli,
+activated areas were observed in portions of left
+prefrontal cortex and frontal cortex, supplementary
+motor area, areas in parietal lobules, and temporal
+gyrus, portions of the anterior cingulate cortex,
+posterior cingulate cortex, some portions of the
+thalamus, hypothalamus, ventral pallidum, globus
+pallidus, caudate, putamen, portions of the
+cerebellum and right amygdala. In the contrast
+between CM and reappraisal, CM exhibited higher
+activation in the ventromedial prefrontal cortex,
+medial orbitofrontal cortex, gyrus rectus, portions of
+anterior cingulate cortex, frontopolar cortex,
+supplementary motor area, mid-cingulate,
+precuneus, bilateral superior temporal gyrus and
+inferior frontal gyrus/operculum, right fusiform gyrus,
+bilateral amygdala, hypothalamus, caudate, globus
+pallidus, putamen, right hippocampus and portions of
+the thalamus. Reappraisal, for its part, showed higher
+activation in portions of the middle temporal gyrus,
+posterior cingulate/precuneus and cerebellum,
+bilateral middle frontal gyrus and left inferior frontal
+gyrus, pre- supplementary motor area /medial
+superior frontal gyrus, left calcarine gyrus. Because
+several areas in the left hemisphere and prefrontal
+cortex exhibited higher activation in these studies,
+meditation seems to develop positive affect, positive
+emotions and happiness, as those feelings are
+associated with the left hemisphere and prefrontal
+cortex (72), (73).
+Desbordes et al. (74) investigated
+amygdala response to emotional stimuli of meditators
+(in which images from the IAPS database were
+presented to the subjects) compared to a control
+group. Subjects were randomized into three groups:
+Mindful Attention Training (MAT), Cognitively-Based
+Compassion Training (CBCT) and active control
+intervention. The CBCT group showed negative
+correlation in amygdala activation to negative images
+and depression scores. The MAT group showed
+decreased BOLD signal change in the right amygdala
+when compared to control for all images of the IAPS.
+This group also exhibited significant decrease in
+BOLD signal in the right amygdala throughout the
+eight weeks of intervention in response to all images
+and positive valence images of the IAPS. Authors
+believe that this effect of meditation training on
+amygdala activation (emotion regulation) is due to
+improvement in attentional skills, an essential
+component of meditation. The amygdala is known to
+play an important role in emotions, threat and stress.
+Hözel et al. (40) found a positive correlation between
+stress and gray matter density of the amygdala
+following MBSR program. In their study, participants
+(all of them reporting high levels of stress) underwent
+eight weeks of MBSR. At the end of the 8-week stress
+reduction training, there were decreases in both
+perceived stress and gray matter density in the right
+amygdala. Therefore, meditation plays an important
+role in emotion and stress management. King et al.
+(75), reported altered default-mode network (DMN) in
+16 weeks of Mindfulness-based Exposed Therapy
+(MBET) for combat veterans with posttraumatic
+stress disorder (PTSD). Authors compared two
+groups: MBET and active control group therapy and
+observed increased PCC connectivity with bilateral
+dorsolateral prefrontal cortex and with the dorsal
+anterior cingulate cortex, increased connectivity
+between the left amygdala and left hippocampus and
+dorsal anterior cingulate cortex following MBET.
+Regarding the active control group, increased postposterior cingulate cortex connectivity with bilateral
+precuneus and left cuneus were shown. In practice,
+the use of meditation can be interesting in the anxiety
+disorders context.
+Taylor et al. (76) investigated resting state
+of experienced meditators compared to a novice
+group. Participants were asked to observe a cross
+placed centrally on a screen during an fMRI. Results
+pointed to increased activity for beginners, between
+the dorso-medial prefrontal cortex and left inferior
+parietal lobe, right inferolateral temporal cortex and
+left parahippocampal gyrus. Also, beginners showed
+stronger correlations between left inferior parietal
+lobe and precuneus/posterior cingulate cortex, right
+parahippocampal gyrus, left inferolateral temporal
+cortex and left parahippocampal gyrus;
+precuneus/posterior cingulate cortex and left inferior
+parietal lobe, dorsomedial prefrontal cortex and left
+inferior parietal lobe, dorsomedial prefrontal cortex
+and ventromedial prefrontal cortex, ventromedial
+prefrontal cortex and right inferolateral temporal
+cortex. All these regions are associated with DMN.
+Significant correlations were shown for experienced
+meditators between the ventro-medial prefrontal
+cortex and dorso-medial prefrontal cortex, right
+inferolateral temporal cortex and left
+parahippocampal gyrus, as well as between the right
+inferior parietal lobe and precuneus/posterior
+cingulate cortex, dorsomedial prefrontal cortex and
+left inferior parietal lobe; right inferior parietal lobe,
+precuneus/posterior cingulate cortex, dorsomedial
+prefrontal cortex and precuneus/posterior cingulate
+cortex. Finally, hours of meditation correlated
+negatively with activation in dorsomedial prefrontal
+cortex – ventromedial prefrontal cortex. Because of
+the attention training of experienced practitioners,
+meditation seems to be associated with weaker
+activity in DMN, suggesting increased present
+moment awareness, since DMN is involved in
+cognitive elaboration of mental events such as
+autobiographical memory and thinking about the
+future. Also, sustained attention may be related to
+brain efficiency in meditators. Kozasa et al. (77)
+showed greater activity in the right medial frontal
+gyrus, middle temporal gyrus, precentral and
+postcentral gyri and the lentiform nucleus in nonmeditators compared to meditators in an attentional
+and impulse control task (Stroop Word-Color Task)
+during fMRI. In all these cases differences in brain
+activity was demonstrated even outside meditation
+practice.
+According to the definition of meditation
+(see the Introduction section), the “present moment”
+is an essential characteristic of meditation. When
+individuals are involved in cognitive elaboration of
+mental events – therefore not in the present moment
+– the DMN is more active. The default mode network
+is a group of brain regions which has a self-referential
+nature including the medial prefrontal cortex, the
+precuneus/posterior cingulate cortex, the inferior
+parietal lobule, the lateral temporal cortex, and the
+hippocampal formation. It can be considered as the
+baseline state of the human brain in internal modes
+of cognition. DMN is active when individuals are
+engaged in internally focused tasks such as
+autobiographical memory retrieval, thinking about the
+future, and taking perspectives of others. It can be
+divided into subsystems: the medial temporal lobe
+subsystem provides information from memories and
+associations that allows mental simulation while the
+medial prefrontal subsystem enables the
+construction of self-relevant mental simulations.
+These two subsystems converge on the posterior
+cingulate cortex. The default network may contribute
+to the use of past experiences to plan for the future
+and maximize the experience of not being engaged
+by the external world (78), (79).
+DMN activity is reduced in goal-directed
+tasks in healthy individuals. It is an interesting
+candidate as a neurobiological representation of
+mind-wandering. Mind-wandering is considered one
+of the core elements of a sense of self. It is
+spontaneous, related to internal mental process
+which one can be unaware of and is difficult to control
+or replicate (80). It may indicate the existence of an
+organized, baseline default mode of brain function,
+suspended during non-self-referential activities (78).
+According to some researchers, activity in
+DMN may reflect mind-wandering; activity in this
+network may reflect enhanced vigilance in relation to
+external environment or a combination of both (83).
+Reduced BOLD response of the DMN regions is
+observed during cognitive tasks (81), (82), (83).
+Meditation is a mental training which results in
+emotional regulation and attention, body awareness,
+and change in self-perspective (40), (84).
+The subtraction of meditation from a control
+task condition showed decreased activity in DMN
+regions probably due to reduced mind-wandering, in
+an activation likelihood estimation (ALE) metaanalysis of meditation studies. Meditation-related
+negative signal changes were found in the fusiform,
+angular, and middle temporal gyri (right hemisphere)
+and in medial structures of the precuneus and the
+superior medial gyrus. Angular gyrus, precuneus and
+middle temporal gyrus belongs to the DMN.
+Precuneus is associated with self-referential mode
+and reduction in its activation during meditation is
+expected because this practice decreases this mode
+(85).
+An fMRI study used a meditative condition
+intercalated with a lexical decision task, while
+comparing regular Zen practitioners and matched
+control subjects. Zen meditation is related to
+awareness with regulation of attention, bodily posture
+and reduced conceptual content. In that study, Zen
+meditators displayed a reduced duration of neural
+response associated with conceptual processing in
+DMN regions, suggesting meditation may improve
+the ability to regulate spontaneous mental processing
+(86).
+Regarding focused attention meditation
+and DMN regions, internal and external focus of
+attention were compared, as well as the different
+phases of a meditation: mindful attention, mindwandering and refocusing. Participants were trained
+for few days in two different meditation focuses:
+external (focused on a sound) and internal (focused
+on breath). After that, they performed meditation
+during fMRI scanning. At pseudorandom intervals,
+participants were asked if they had been engaged
+exclusively on the task or if they had been distracted.
+During mindful attention, DMN brain regions showed
+significantly less neural activation compared to mindwandering. DMN exhibited reduced activity during
+meditation task. Posterior cingulate cortex showed
+stronger deactivation during internal attention
+compared to external attention (87). Similarly, in a
+cross-sectional study, assessing brain network
+during meditation, Hasenkamp and Barsalou (88)
+demonstrated activity in the executive network
+regions in meditators. Focused meditation is an
+activity in which attentional networks are involved.
+However, during meditation, moments of distraction
+are common. In this fMRI study, volunteers were
+examined during a resting state and during
+meditation. They were instructed to press a button
+every time they perceived themselves distracted.
+Results revealed activity in the dorsolateral prefrontal
+cortex during focused attention. In high practice
+meditators, there was also stronger activation in the
+right insula, left dorsolateral prefrontal cortex and the
+mid-cingulate gyrus as well as reduced functional
+connectivity between the right dorsolateral prefrontal
+cortex and cuneus and middle occipital gyrus. When
+participants were mind-wandering, activity was
+detected in areas related to DMN (ventromedial
+prefrontal cortex, bilateral posterior cingulate cortex).
+In this way, meditation is related to connectivity within
+attentional network (present moment awareness)
+(88).
+During resting-state, long-term mindfulness
+meditators (MM) and control participants were
+scanned. MM were also examined during meditation
+practice. Analyses on functional connectivity within
+and between DMN and visual network resulted in an
+increase in functional connectivity between the two
+networks in MM compared to controls; functional
+connectivity within both networks were higher in the
+control group compared to the MM group; functional
+connectivity between DMN and visual network was
+reduced during meditation compared to resting-state
+and a negative correlation was found between DMN
+functional connectivity and meditation expertise (89).
+In another study, the MM group exhibited greater
+visual cortex responsivity and weaker negative
+responses in DMN areas during a visual recognition
+memory task. Regarding behavioral performance,
+MM were faster than controls. Long term meditators
+expressed opposite changes in the visual and DMN
+during rest and task. Therefore, unlike mindwandering, meditation is a skill associated with
+“present moment” which recruits attentional related
+areas.
+Few studies evaluate the DMN during an
+attention task. In a study comparing regular
+meditators and non-meditators in the Stroop WordColor Task (SWCT), participants were instructed to
+name the color of single words during an MRI scan.
+The activity in the precuneus/posterior cingulate
+cortex contained information to predict the activity in
+the right lateral parietal cortex and the accuracy in
+this prediction was higher in regular meditators than
+in the other group. This result may be related to a
+stronger link between these regions and meditators.
+As non-meditators have more distraction during
+attention task, functional differences in DMN
+connectivity may be present during the attention task
+when non-meditators are compared to meditators
+(90).
+5. CONCLUSION
+The use of different structural analyses
+methods such as cortical thickness, voxel based
+morphometry, gray matter volume and fractional
+anisotropy in the studies hinders the comparison
+among them but, at the same time, expands the
+possibility to analyze structural brain morphometry. It
+is essential that future studies pay attention to the
+various approaches if they want their results to be
+comparable. The implementation of different study
+designs that differ in the sample size, in the
+experience of the subjects considered and meditation
+methods, makes it difficult to draw a stringent
+conclusion. Other variables correlated to the
+structural changes make it even more difficult.
+Therefore it is important to run replication studies to
+further strengthen the results detected. Functional
+MRI studies revealed the involvement of brain
+regions related to attention, inhibition, emotional
+experience, as well as the DMN. Nevertheless, there
+is undisputably strong evidence that the general
+regular practice of mental exercises indeed leads to
+changes in large scale brain networks rather than
+only in specific regions. However, despite similar
+techniques, researchers cannot control what each
+participant is going through during its practice, since
+personal experience is hard to be measured. Crosssectional studies cannot draw conclusions about
+causal inferences. Therefore, longitudinal studies
+that can evaluate the structural and functional
+changes over a longer period should also be
+expanded. This could be done, for example, by
+following participants several times during months or
+years of meditation practice, and thus confirm a
+causal inference with more accuracy and reliability.
+This could help to evaluate which functional and
+structural correlates exist prior to meditation practice,
+and whether neurophysiological changes are directly
+associated with it. Finally, behavioral and well-being
+consequences for the participants brought about by
+meditation practice should be better evaluated for
+researchers to draw a conclusion on the effects of
+brain changes. It is also important to keep in mind
+that due to the heterogeneity of the studies it is
+difficult to reach a general conclusion, and that the
+various types of meditation may cause different
+structural changes. There are also uncontrolled
+studies, small groups, and other methodological
+failures which weaken the potential of the
+technological resources available through imaging
+exams to detect actual meditation effects on the
+brain.

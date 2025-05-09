@@ -1,0 +1,230 @@
+﻿----------------------------------------------------- Page 1 -----------------------------------------------------
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/378567120 
+Effects of acute and chronic high-intensity interval training on serum irisin, BDNF and apelin levels in male soccer referees 
+Article    in    Journal of Men s Health · February 2024 
+DOI: 10.22514/jomh.2024.027 
+CITATIONS 
+0 
+5 authors , including: 
+READS 
+18 
+Hamza Kucuk 
+Ondokuz May ı s Üniversitesi 39 PUBLICATIONS     92 CITATIONS     
+SEE PROFILE 
+F.Ne ş e Ş ahin 
+Ankara University 
+56 PUBLICATIONS     670 CITATIONS     SEE PROFILE 
+Mehmet Söyler 
+Çank ı r ı Karatekin Üniversitesi 71 PUBLICATIONS     52 CITATIONS     
+SEE PROFILE 
+All content following this page was uploaded by Mehmet Söyler on 02 March 2024. The user has requested enhancement of the downloaded file. 
+
+----------------------------------------------------- Page 2 -----------------------------------------------------
+Submitted: 08 November, 2023 Accepted: 18 December, 2023 Published: 29 February, 2024 DOI: 10.22514/jomh.2024.027 OR I G I N A L R E S E A R C H 
+Effects of acute and chronic high-intensity interval training on serum irisin, BDNF and apelin levels in male soccer referees 
+Hamza Kucuk *, Mehmet Soyler , Tulay Ceylan , Levent Ceylan , Fatma Nese Sahin 
+5 
+Department of Physical Education and Sports Teaching, Yasar Dogu Faculty of Sport Sciences, Ondokuz Mayis 
+University, 55270 Samsun, Turkey 
+Cankiri Karatekin University, Social Sciences Vocational High School, 181200 Cank ır ı, Turkey 
+Department of Physical Education and Sport, Institute of Health Science, Ondokuz Mayis University, 55270 
+Samsun, Turkey 
+Department of Coaching Education, Faculty of Sports Sciences, Sivas Cumhuriyet University, 58140 Sivas, 
+Turkey 
+Department of Coaching Education, Faculty of Sport Science, Ankara University, 06830 Ankara, Turkey 
+*Correspondence 
+hamza.kucuk@omu.edu.tr 
+(Hamza Kucuk) 
+1. Introduction 
+Abstract 
+This study was aimed to investigate the effects of acute and chronic High Intensity Interval Training (HIIT) on Irisin, BDNF (brain-derived neurotrophic factor), and Apelin levels. The study included twenty-one male soccer referees. Blood from the participants was collected at the beginning of study (1. first measurement: baseline value). HIIT was conducted and blood was immediately collected (2. second measurement: acute effect). Next, HIIT was carried out for 20 minutes of 4 days a week in bouts of running (75 meters in 20 seconds) and walking (25 meters in 20 seconds). Blood was collected at the end of 12 weeks (3. third measurement: chronic effect). HIIT was performed and blood was again collected (4. fourth measurement: acute effect after the chronic effect). There was a gradual increase in irisin, BDNF, and apelin levels ( p < 0.001). The increase for irisin was 2% in the second measurement, 106% in the third, and 111% in the fourth compared to the first measurement. The increase for BDNF was 39% in the second measurement, 116% in the third, and 133% in the fourth. Apelin levels were increased by 11%, 19% and 28%, respectively. These results demonstrated that irisin and BDNF might increase only in response to chronic HIIT (4 times a week) while apelin levels might change with both acute and chronic HIIT in healthy trained referees. 
+Keywords 
+HIIT; BDNF; Irisin; Apelin 
+Parkinson ’s disease [ 4 ]. Adipose tissue and muscle are the two tissues expressing apelin and its receptor. Daily apelin intake 
+Myokines are the proteins secreted from skeletal muscle hav- ing autocrine, paracrine or endocrine functions. Exercise has an essential role in myokines release. Myokines ’ maintain the skeletal muscle functionality and increase the exercise capac- ity. This study is hypothesized to investigate the myokines response towards exercise in regularly exercising referees. Myokines function as the paracrine regulators of fuel oxi- dation, hypertrophy, angiogenesis, inflammatory processes, and extracellular matrix to regulate the adaptive processes of skeletal muscle [ 1 ]. 
+Irisin is one of the last members identified in myokine family. It improves and prevents physiological functions, treats and rehabilitates chronic disorders, and balances energy metabolism [ 2 ]. 
+Brain-derived neurotrophic factor (BDNF) as the essential member of neurotrophic factor family is necessary for the nervous system ’s development [ 3 ]. Significant quantities of BDNF protein are present in the hippocampus, hypothalamus, cortex and cerebellum. It can also be observed in dendrites, soma and terminals [ 4 ]. BDNF downregulation is involved in the pathophysiology of depression [ 5 ]. BDNF promotes the survival of major neuron types affected in Alzheimer ’s and 
+reverses the effects of muscle atrophy, diminished strength and poor treadmill performance caused by the muscular apelin removal [ 6 ]. 
+High-intensity interval training (HIIT) consists of exercise performed at the intensities close to or above the capacity of aerobic energy systems. It improves the athletes ’ physical conditioning. This type of training can enhance players ’ per- formance [ 7 ]. HIIT is a time-efficient alternate for maintaining the physically active lifestyle as it has benefits equal to or more significant than the traditional continuous aerobic training [ 8 ]. HIIT elicits rapid improvements in cardiorespiratory fitness [ 9 ]. HIIT enhances aerobic capacity, lowers blood pressure [ 10 ], increases insulin sensitivity [ 11 ], and optimizes body composition [ 12 ]. Soccer has various physiological demands from referees. The referee performance in the match is as- sociated with better sprint and cardiovascular function [ 13 ]. Therefore, training methods are required to be designed based on the physiological demands of referees. 
+Previous studies have determined the exercise being associ- ated with myokines release. However, few have examined the myokine release because of acute and prolonged exercise in the same experimental group. This study was aimed to evaluate the 
+This is an open access article under the CC BY 4.0 license ( https://creativecommons.org/licenses/by/4.0/ ). Journal of Men's Health 2024 vol.20(2), 120-125 ©2024 The Author(s). Published by MRE Press. 
+www.jomh.org 
+1 , 
+2 
+3 
+4 
+1 
+2 
+3 
+4 
+5 
+
+----------------------------------------------------- Page 3 -----------------------------------------------------
+effect of acute and chronic HIIT on irisin, BDNF and apelin levels. Moreover, the acute and chronic effects of HIIT were determined regarding the exercise-myokine relationship. 
+2. Materials and methods 
+2.1 Participants 
+Twenty-one male soccer referees volunteered for the study. The participants mean age was 24.52 ± 2.01, body height as 178.78 ± 3.68 cm, and body weight as 74.14 ± 2.32 kg. G*power 3.1.9.2 software (Germany) was employed to determine the sample size. Thus, 21 participants were enough based on the effect size of 0.80, test power of 0.95, and significance level of 0.05. 
+The study excluded those with chronic diseases such as diabetes mellitus, heart disease, arthritis, hypertension or mus- culoskeletal injuries involving the muscles, ligaments, bones, cartilage or tendons. Those not attending the training for any reason were also excluded. All referees attended the training sessions. The participants signed informed consent form. 
+2.2 Study design and procedures 
+Blood samples collection: At the beginning of study (first measurement), 5 mL blood was collected from the partici- pants (4:00 PM). HIIT was performed (acute training), and 5 mL blood was again collected (acute effect). Participants performed HIIT for four days a week for 12 weeks (chronic training), followed by taking 5 mL blood (chronic effect). HIIT was then conducted, and 5 mL blood was collected (acute effect after the chronic effect). Participants abstained from the food for two hours before blood sampling. Fig. 1 illustrates the study design. 
+2.2.1 Blood sampling and analyses 
+Blood samples (5 mL) were drawn from the antecubital veins of participants before and after the exercise training for an- alyzing serum irisin, BDNF and apelin levels. Serum irisin levels were worked out with Human Irisin ELISA kit (Sun-Red Bio Company, Cat No. 201-12-5328, Shanghai, China), serum BDNF concentrations by Human BDNF ELISA kit (Sun-Red Bio Company, Cat No. 201-12-1303, Shanghai, China), and serum apelin concentrations by Human Apelin (AP) ELISA Kit (Sun-Red Bio Company, Cat No. 201-12-2015, Shanghai, China). These tests were performed in Ondokuz Mayis Uni- versity Faculty of Medicine Medical Biochemistry Department Research Laboratory by employing double-antibody sandwich enzyme immunoassay method. The irisin, BDNF and apelin concentrations were calculated from the standard curve formed by using standard values. The obtained concentrations were expressed as ng/mL. Intra-assay Coefficients of Variability (CV) was < 10%, inter-assay CV < 12%, and sensitivity 0.157 ng/mL. Samples of high concentrations were confirmed by working in duplicate. 
+2.2.2 HIIT protocol 
+HIIT consisted of the short bursts or exercise requiring maxi- mal aerobic capacity and causing high tensile stress on skeletal muscle as with endurance training [ 7 ]. Participants ran 75 
+121 
+meters in ~20 seconds and walked 25 meters in 20 seconds. Heart rate variability (HRV) increased to 180 –190 beats during 75-meter run which did not fall below 120 –130 beats in 25- meter distance. HRV was monitored by the Polar watches. The study got completed in 20 minutes. A training program was implemented for the referees with performance demands equivalent to those in matches. HIIT sessions were conducted on the athletics field. The researchers participated in all HIIT sessions of the study. 
+2.3 Statistical analysis 
+The normality assumption and homogeneity tests were con- ducted before starting the data analysis. The data had normal distribution ( p > 0.05) as obtained from the Shapiro Wilk and Levene tests. The confidence interval was 95%. Repeated measures analysis of variance (ANOVA) was employed for the intragroup and test-retest change analysis. The Bonferroni test determined the difference between groups. 
+3. Results 
+The study data were collected, and descriptive analysis of the participants was performed. The changes in irisin, BDNF and apelin are shown in Fig. 2 . 
+The changes in irisin levels are illustrated in Table 1 . 
+The changes in BDNF levels are illustrated in Table 2 . The changes in apelin levels are illustrated in Table 3 . 
+4. Discussion 
+In this study, an increase in irisin, BDNF and apelin levels was observed because of the acute and chronic exercise. This study was important as it investigated the effect of acute and chronic HIIT on myokines in the same experimental group. Wadley et al. [ 14 ] depicted that the degree of increase in cytokines as a result of exercise depended on the intensity of exercise. High- intensity interval training (HIIT) might be an effective alternate of traditional endurance training for yielding similar or better physiological adaptations in healthy individuals [ 15 ]. HIIT needed investigations for its skeletal muscle and metabolic effects. Fédération Internationale de Football Association (FIFA) introduced the athletic performance tests for referees to demonstrate their required fitness levels for the game [ 13 ]. Referees trained regularly to pass these tests. This study was thus critical for providing an individualized exercise program to referees. 
+Murawska-Cialowicz et al. [ 16 ] reported increase in the irisin levels of 8-week HIIT group. Similar results were de- picted by Huh et al. [ 17 ] in the acute HIIT group. Archundia- Herrera [ 18 ] found that HIIT increased the irisin levels in obese women compared to the aerobic exercise. Pekkala et al. [ 19 ] stated that the irisin increase was incidental. However, the increase obtained in the same exercise group of study herein was different from this finding. Both acute (1) and chronic (2) exercises increased the irisin levels in this study. Kabak et al. [ 20 ] reported that the acute HIIT (participants performed 4 × 30-s Wingate test separated by 4 minutes of rest) decreased the irisin levels in kickboxers. The reported 
+
+----------------------------------------------------- Page 4 -----------------------------------------------------
+122 
+F I G U R E 1. The study design. HIIT: High Intensity Interval Training. 
+F I G U R E 2. Changes in irisin, BDNF and apelin levels. BDNF: brain-derived neurotrophic factor. 
+TA B L E 1. Comparison of the irisin values. 
+Mean Standard Deviation Sum of Squares Mean square F p 
+Irisin ng/mL (1) 8.49 2.91 
+Irisin ng/mL (2) 8.67 3.59 Irisin ng/mL (3) 17.50 7.72 
+1753.014 584.338 33.485 
+< 0.001 
+Irisin ng/mL (4) 17.92 8.15 
+Pairwise comparisons: 1 < 3 –4, 2 < 3 –4, 2 < 4 ( < 0.001). The irisin levels did not have significant change following the acute High-Intensity Interval Training (HIIT), however, a significant increase was observed after 12 weeks of chronic HIIT (p < 0.001). 
+TA B L E 2. Comparison of the BDNF values. 
+Mean Standard Deviation Sum of Squares Mean square F p 
+BDNF ng/mL (1) 1.92 1.42 
+BDNF ng/mL (2) 2.67 2.02 BDNF ng/mL (3) 4.15 3.65 
+92.970 30.990 13.248 
+< 0.001 
+BDNF ng/mL (4) 4.48 4.23 
+Pairwise comparisons: 1 < 3 –4, 2 < 3 –4, 2 < 4 ( < 0.001). The BDNF levels did not have significant change following the acute High-Intensity Interval Training (HIIT), however, a significant increase was observed after 12 weeks of chronic HIIT (p < 0.001). 
+
+----------------------------------------------------- Page 5 -----------------------------------------------------
+123 
+TA B L E 3. Comparison of the apelin values. 
+Mean Standard Deviation Sum of Squares Mean square F p 
+Apelin ng/mL (1) 15.28 2.69 
+Apelin ng/mL (2) 16.96 3.38 Apelin ng/mL (3) 18.15 3.42 
+202.459 67.586 39.496 
+< 0.001 
+Apelin ng/mL (4) 19.52 3.66 
+Pairwise comparisons: 1 < 2 < 3 < 4 (p < 0.01). The apelin levels were increased in response to acute and chronic High-Intensity Interval Training (HIIT). This increase was also observed when acute HIIT was performed after 12-week training period. 
+and our results indicated that irisin release might be related to the type of exercise performed. He et al. [ 21 ] revealed that various training practices might have different responses to myokines. Irisin being an essential modulator of cognition was induced by the physical activity, and was a potential therapy for cognitive disorders such as Alzheimer ’s disease [ 22 ], obesity, osteoporosis, muscle atrophy and liver injury [ 23 ]. Irisin exhibited protection for the nervous system, which was observed in correlation with exercise. Different forms of exercise caused the irisin secretions at varying levels [ 24 ]. This study exhibited that HIIT increased the serum irisin levels. Like irisin, there was also an increase in BDNF. 
+BDNF was known as a hormone released from brain, however, it was found in the liver, pancreas, adipose tissue, heart, endocrine system, reproductive system, smooth muscle and skeletal muscle [ 25 ]. It was found in current study that BDNF levels were increased because of the chronic training. Tsai et al. [ 26 ] had similar findings for irisin and BDNF with acute HIIT in the participants aged 60.62 ± 4.96 years. Cabral-Santos [ 27 ] revealed that BDNF had exercise-dependent changes. Saucedo Marquez et al. [ 28 ] applied two exercise protocols, (Continuous exercise: 70% of maximal work rate and a high-intensity interval-training ; 90% of maximal work rate for 1 minute alternating with 1 minute of rest ; both protocols lasted for 20 minutes) and reported greater BDNF release in HIIT group. Li et al. [ 29 ] depicted that 20 minutes of HIIT was more effective than 30 minutes to improve cognitive functions. The effects of exercise on BDNF release improved the cognitive functions. A protective effect was observed in the Parkinson ’s disease [ 30 ]. Furthermore, BDNF increase had positive impact on children with attention deficit hyperactivity disorder (ADHD). This effect was induced by the moderate to high-intensity interval training [ 31 ]. BDNF increase found in the referees through this study supported this effect. The 20-minute HIIT (75 meters run in 20 seconds, 25 meters walk in 20 seconds) applied in this study was a valid protocol and thus recommended for increasing the myokines and improving the cognitive functions. 
+Apelin being a hormone released from various tissues in- cluding skeletal muscle [ 32 ], had varied release according to the exercise. Apelin supported the physiological processes of building bones, enhancing muscle metabolism, and generating the skeletal muscle [ 33 ]. Bilski et al. [ 34 ] reported the increased amount of apelin in Wingate test. Kon et al. [ 35 ] depicted that the sprint interval training increased the apelin levels in healthy men. Sabouri et al. [ 36 ] exhibited through 
+the animal study that exercise increased the apelin levels, regardless of exercise type. Krist et al. [ 37 ] and Sheibani et al. [ 38 ] reported that the exercise training diminished the apelin value and apelin mRNA in plasma and fat tissue, respectively, in obese individuals and impaired the glucose-tolerant patients. Furthermore, apelin levels in diabetes patients had direct re- lation with the amount of physical activity [ 39 ]. The results of this study demonstrated that HIIT might be important for disease prevention through the increase in apelin levels. Apelin modifications of cardiac contractility and blood pressure [ 40 ], increased due to exercise might regulate the insulin release [ 41 ]. The increased apelin release because of these metabolic effects was thus important for health. HIIT method applied in this study could be employed to protect health and improve athletic performance. 
+5. Conclusions 
+In summary, the results of this study exhibited that acute and chronic HIIT increased the levels of irisin, BDNF and apelin. Irisin and BDNF were increased only with chronic HIIT, while apelin was increased with the acute and chronic HIIT. This increase for irisin was 2% in the second measurement, 106% in the third and 111% in the fourth compared to the first measurement. The increase in BDNF levels were 39% in the second measurement, 116% in the third and 133% in the fourth. Apelin levels were increased by 11%, 19% and 28%, respectively. These findings were important pertaining to the increase in release of these myokines, being effective in metabolic processes. HIIT regimen consisting of bouts of 75 meters of intense running in 20 seconds and 25 meters of walking in 20 seconds increased the irisin, BDNF and apelin levels. Implementing this protocol in the training programs of referees engaged in high-intensity sprints during matches could be beneficial for their performance in the game. However, long-term HIIT applications might not be feasible. Future studies would test the chronic effects based on the acute effects at four-week intervals. 
+AVA ILA B ILIT Y O F DATA AN D M ATE RIA LS 
+The data presented in this study are available on reasonable request from the corresponding author. 
+
+----------------------------------------------------- Page 6 -----------------------------------------------------
+124 
+AU TH OR CON TR IB UT ION S 
+HK and FNS —designed the research study. LC and TC — performed the research. HK —analyzed the data. HK, MS, LC and FNS —wrote the manuscript. All authors contributed to editorial changes in the manuscript. All authors read and approved the final manuscript. 
+ET HI C S AP PR OVA L AN D CON SE N T TO 
+PA R T IC I PATE 
+The study protocol was approved by the research ethics com- mittee of Sivas Cumhuriyet University, with ethical approval number: 2023-06/02. The participants provided informed consent and agreed to publication of this research. 
+ACK N OW LED G M EN T 
+Not applicable. 
+FUN DI N G 
+This research received no external funding. 
+CONF LI C T O F IN TER E ST 
+The authors declare no conflict of interest. 
+R EF ER E N C E S 
+[13] 
+[14] 
+[15] 
+[16] 
+[17] 
+[18] 
+[19] 
+[20] 
+[21] 
+high-intensity interval training on cardiometabolic health: a systematic review and meta-analysis of intervention studies. British Journal of Sports Medicine. 2017 ; 51: 494 –503. 
+Castillo D, Cámara J, Lozano D, Berzosa C, Yanci J. The association between physical performance and match-play activities of field and assistants soccer referees. Research in Sports Medicine. 2019 ; 27: 283 – 297. 
+Wadley AJ, Chen Y, Lip GYH, Fisher JP, Aldred S. Low volume- high intensity interval exercise elicits antioxidant and anti-inflammatory effects in humans. Journal of Sports Sciences. 2016 ; 34: 1 –9. 
+Gibala MJ, Little JP, MacDonald MJ, Hawley JA. Physiological adaptations to low ‐volume, high ‐intensity interval training in health and disease. The Journal of Physiology. 2012 ; 590: 1077 –1084. Murawska-Cialowicz E, Wolanski P, Zuwala-Jagiello J, Feito Y, Petr M, Kokstejn J, et al . Effect of HIIT with Tabata protocol on serum irisin, physical performance, and body composition in men. International Journal of Environmental Research and Public Health. 2020 ; 17: 3589. Huh JY, Mougios V, Kabasakalis A, Fatouros I, Siopi A, Douroudos II, et al . Exercise-induced irisin secretion is independent of age or fitness level and increased irisin may directly modulate muscle metabolism through AMPK activation. The Journal of Clinical Endocrinology & Metabolism. 2014 ; 99: E2154 –E2161. 
+Archundia-Herrera C, Macias-Cervantes M, Ruiz-Muñoz B, Vargas-Ortiz K, Kornhauser C, Perez-Vazquez V. Muscle irisin response to aerobic vs. HIIT in overweight female adolescents. Diabetology & Metabolic Syndrome. 2017 ; 9: 101. 
+Pekkala S, Wiklund PK, Hulmi JJ, Ahtiainen JP, Horttanainen M, Pöllänen E, et al . Are skeletal muscle FNDC5 gene expression and irisin release regulated by exercise and related to health? The Journal of Physiology. 2013 ; 591: 5393 –5400. 
+Kabak B, Belviranli M, Okudan N. Irisin and myostatin responses to acute high-intensity interval exercise in humans. Hormone Molecular Biology and Clinical Investigation. 2018 ; 35: 20180008. 
+He Z, Tian Y, Valenzuela PL, Huang C, Zhao J, Hong P, et al . Myokine response to high-intensity interval vs. resistance exercise: an individual approach. Frontiers in Physiology. 2018 ; 9: 1735. 
+[1] 
+[2] 
+[3] 
+[4] 
+[5] 
+[6] 
+[7] 
+[8] 
+[9] 
+[10] 
+[11] 
+[12] 
+Hoffmann C, Weigert C. Skeletal muscle as an endocrine organ: the role of myokines in exercise adaptations. Cold Spring Harbor Perspectives in Medicine. 2017 ; 7: a029793. 
+Zhang H, Wu X, Liang J, Kirberger M, Chen N. Irisin, an exercise- induced bioactive peptide beneficial for health promotion during aging process. Ageing Research Reviews. 2022 ; 80: 101680. 
+Chen KW, Chen L. Epigenetic regulation of BDNF gene during development and diseases. International Journal of Molecular Sciences. 2017 ; 18: 571. 
+Murer MG, Yan Q, Raisman-Vozari R. Brain-derived neurotrophic factor in the control human brain, and in Alzheimer ’s disease and Parkinson ’s disease. Progress in Neurobiology. 2001 ; 63: 71 –124. 
+Wang J, Dranovsky A, Hen R. The when and where of BDNF and the antidepressant response. Biological Psychiatry. 2008 ; 63: 640 –641. Leuchtmann AB, Adak V, Dilbaz S, Handschin C. The role of the skeletal muscle secretome in mediating endurance and resistance training adaptations. Frontiers in Physiology. 2021 ; 12: 709807. 
+Callahan MJ, Parr EB, Hawley JA, Camera DM. Can high-intensity interval training promote skeletal muscle anabolism? Sports Medicine. 2021 ; 51: 405 –421. 
+Rosenblat MA, Perrotta AS, Thomas SG. Effect of high-intensity interval training versus sprint interval training on time-trial performance: a systematic review and meta-analysis. Sports Medicine. 2020 ; 50: 1145 – 1161. 
+Gist NH, Freese EC, Cureton KJ. Comparison of responses to two high-intensity intermittent exercise protocols. Journal of Strength and Conditioning Research. 2014 ; 28: 3033 –3040. 
+Kessler HS, Sisson SB, Short KR. The potential for high-intensity interval training to reduce cardiometabolic disease risk. Sports Medicine. 2012 ; 42: 489 –509. 
+Jelleyman C, Yates T, O ’Donovan G, Gray LJ, King JA, Khunti K, et al . The effects of high-intensity interval training on glucose regulation and insulin resistance: a meta ‐analysis. Obesity Reviews. 2015 ; 16: 942 –961. Batacan RB, Duncan MJ, Dalbo VJ, Tucker PS, Fenning AS. Effects of 
+[22] 
+[23] 
+[24] 
+[25] 
+[26] 
+[27] 
+[28] 
+[29] 
+[30] 
+[31] 
+Islam MR, Valaris S, Young MF, Haley EB, Luo R, Bond SF, et al . Exercise hormone irisin is a critical regulator of cognitive function. Nature Metabolism. 2021 ; 3: 1058 –1070. 
+Liu S, Cui F, Ning K, Wang Z, Fu P, Wang D, et al . Role of irisin in physiology and pathology. Frontiers in Endocrinology. 2022 ; 13: 962968. Zhang Y, Zhang X, Lin S. Irisin: a bridge between exercise and neurological diseases. Heliyon. 2022 ; 8: e12352. 
+Matsumoto J, Takada S, Furihata T, Nambu H, Kakutani N, Maekawa S, et al . Brain-derived neurotrophic factor improves impaired fatty acid oxidation via the activation of adenosine monophosphate-activated pro- tein kinase- α —proliferator-activated receptor-r coactivator-1 α signaling in skeletal muscle of mice with heart failure. Circulation: Heart Failure. 2021 ; 14: e005890. 
+Tsai C, Pan C, Tseng Y, Chen F, Chang Y, Wang T. Acute effects of high- intensity interval training and moderate-intensity continuous exercise on BDNF and irisin levels and neurocognitive performance in late middle- aged and older adults. Behavioural Brain Research. 2021 ; 413: 113472. Cabral-Santos C, Castrillón CI, Miranda RA, Monteiro PA, Inoue DS, Campos EZ, et al . Inflam-matory cytokines and BDNF response to high- intensity intermittent exercise: effect the exercise volume. Frontiers in Physiology. 2016 ; 7: 509. 
+Saucedo Marquez CM, Vanaudenaerde B, Troosters T, Wenderoth N. High-intensity interval training evokes larger serum BDNF levels com- pared with intense continuous exercise. Journal of Applied Physiology. 2015 ; 119: 1363 –1373. 
+Li Q, Zhang L, Zhang Z, Wang Y, Zuo C, Bo S. A shorter-bout of HIIT is more effective to promote serum BDNF and VEGF-A levels and improve cognitive function in healthy young men. Frontiers in Physiology. 2022 ; 13: 898603. 
+Bastioli G, Arnold JC, Mancini M, Mar AC, Gamallo-Lana B, Saadipour K, et al . Voluntary exercise boosts striatal dopamine release: evidence for the necessary and sufficient role of BDNF. The Journal of Neuroscience. 2022 ; 42: 4725 –4736. 
+Chan Y, Jang J, Ho C. Effects of physical exercise on children with 
+
+----------------------------------------------------- Page 7 -----------------------------------------------------
+attention deficit hyperactivity disorder. Biomedical Journal. 2022 ; 45: 265 –270. 
+[38] 
+125 
+69. 
+Sheibani S, Hanachi P, Refahiat MA. Effect of aerobic exercise on serum 
+[32] 
+Tatemoto K, Hosoya M, Habata Y, Fujii R, Kakegawa T, Zou M, et al . Isolation and characterization of a novel endogenous peptide ligand 
+concentration of apelin, TNF α and insulin in obese women. Iranian Journal of Basic Medical Sciences. 2012 ; 15: 1196 –1201. 
+for the human APJ receptor. Biochemical and Biophysical Research Communications. 1998 ; 251: 471 –476. 
+[39] 
+Kadoglou NPE, Vrabas IS, Kapelouzou A, Angelopoulou N. The association of physical activity with novel adipokines in patients with type 
+[33] 
+Luo J, Liu W, Feng F, Chen L. Apelin/APJ system: a novel therapeutic 
+2 diabetes. European Journal of Internal Medicine. 2012 ; 23: 137 –142. 
+target for locomotor system diseases. European Journal of Pharmacology. 2021 ; 906: 174286. 
+[40] 
+Xie H, Tang S, Cui R, Huang J, Ren X, Yuan L, et al . Apelin and its receptor are expressed in human osteoblasts. Regulatory Peptides. 2006 ; 
+[34] 
+Bilski J, Jaworek J, Pokorski J, Nitecki J, Nitecka E, Pokorska J, et 
+134: 118 –125. 
+al . Effects of time of day and the wingate test on appetite perceptions, food intake and plasma levels of adipokines. Journal of Physiology and Pharmacology. 2016 ; 67: 667 –676. 
+[41] 
+Higuchi K, Masaki T, Gotoh K, Chiba S, Katsuragi I, Tanaka K, et al . Apelin, an APJ receptor ligand, regulates body adiposity and favors the messenger ribonucleic acid expression of uncoupling proteins in mice. 
+[35] 
+[36] 
+[37] 
+Kon M, Ebi Y, Nakagaki K. Effects of acute sprint interval exercise on follistatin-like 1 and apelin secretions. Archives of Physiology and Biochemistry. 2021 ; 127: 223 –227. 
+Sabouri M, Norouzi J, Zarei Y, Sangani MH, Hooshmand Moghadam B. Comparing high-intensity interval training (HIIT) and continuous training on apelin, APJ, no, and cardiotrophin-1 in cardiac tissue of diabetic rats. Journal of Diabetes Research. 2020 ; 2020: 1 –7. 
+Krist J, Wieder K, Klöting N, Oberbach A, Kralisch S, Wiesner T, et al . Effects of weight loss and exercise on apelin serum concentrations and adipose tissue expression in human obesity. Obesity Facts. 2013 ; 6: 57 – 
+Endocrinology. 2007 ; 148: 2690 –2697. 
+How to cite this article: Hamza Kucuk, Mehmet Soyler, Tulay Ceylan, Levent Ceylan, Fatma Nese Sahin. Effects of acute and chronic high-intensity interval training on serum irisin, BDNF and apelin levels in male soccer referees. Journal of Men ’s Health. 2024 ; 20(2): 120-125. doi: 10.22514/jomh.2024.027. 
+View publication stats 

@@ -1,0 +1,342 @@
+Analysis of the offensive process of AS Monaco professional soccer team: A mixed-method approach
+
+Abstract
+The purpose of this research was to analyze the offensive process of AS Monaco through the combination of network methods and semi-structured interviews of two coaches from the technical staff. The sample included 16 home matches of AS Monaco, resulting in 1569 passes analyzed and converted in a weighted adjacency matrix. Using that matrix, macro network measures and network centralities were calculated. Moreover, semi-structured interviews were carried out with two members of the technical staff (head coach and performance analyst). Data were analyzed using content analysis via Nvivo 11.0. There was a moderate degree of heterogeneity in the passing sequences, with the most prominent players identified as 10 (defensive midfielder), 11 (box-to-box midfielder) and 7 (central defender) that, interestingly, were nominated by the coaches as the main players in the attacking process. It was also revealed that the region of the pitch with greater centrality levels was the right pre-offensive zone. Through the content analysis we observed that coaches interpreted these results based on: (1) tactical-strategic aspects; (2) tactical-technical aspects, and; (3) the characteristics of the players on their team. Some important information about the specificities of the game style came from their analysis. This cooperation between scientists and technical staff is productive and should be used regularly in order to improve both scientific and training methods.
+1.?Introduction
+Match analysis in football has evolved significantly over the last few years?[1],?[2]. The continuous specialization of technical staff and the exponential growth of technological resources at their disposal has caused match analysis to become an area of activity to which coaches attach great importance. Additionally, the scientific community has made use of increasingly complex means to analyze soccer. In general, attention has been focused on the study of:?[1]?set plays?[2],?[3]?activity profiles?[4],?[5], and;?[3]?group behavior?[6]. In recent years, contextualizing performance (i.e., accounting for match-specific factors such as scoreline, quality of opposition, formation and match location) has also been a focus in this field of study?[7],?[8].
+Traditionally, studies on match analysis had a descriptive?[9],?[10],?[11]?or comparative character. Additionally, there has been increase in studies that apply predictive analysis?[12],?[13]?or seek to identify patterns of play through, sequential or?T-pattern analysis?[14],?[15].
+Another approach to identify some collective properties is social network analysis (SNA) that consists of applying graph theory to the study of interactions between teammates?[16]. In SNA the players or the zones of the pitch are usually the nodes?[17]?and the passes or other performance indicators that establish the link between nodes are considered the edges?[18]. The use of SNA in team sports has increased in popularity in recent years, particularly when identifying the collective properties of the digraph (a network graph with direction) and the centrality levels of the nodes (typically the players)?[16],?[19]. Findings related to centralities have revealed that midfielders and external defenders are the most prominent players during passing sequences?[20],?[21]. However, such prominence may depend on the analysis conducted. For example, in the case of counter-attacks?[22]?or passing sequences that result in goals scored?[17]?the contribution of forwards and wingers increases. Considering the characteristics of the networks, some findings suggest that greater density levels (overall affection of teammates) and less heterogeneity are beneficial for main performance outcomes (e.g., goals scored or winning the match)?[16],?[23],?[24].
+Despite its importance, a gap exists between the scientific community and the technical teams of professional clubs regarding match analysis in soccer, with very few studies combining both quantitative and qualitative analyses (e.g., interviewing the coaches of the clubs involved to provide additional data)?[25],?[26]. A mixed-method approach can provide a more holistic overview of the data collected and can help contextualize the findings of quantitative analysis?[27]. Whilst quantitative data on elite athletes can help identify the?what, the inclusion of the views and interpretations of coaches, practitioners and athletes enables the identification of the?why?[28]. As such, qualitative research enables identification of the?why?[27]. Therefore, the purpose of this paper was to analyze the offensive process of an elite professional soccer team, through the combination of network methods and semi-structured interviews of two coaches from the technical staff of the team.
+2.?Methods
+2.1.?Participants
+A mixed-method design (quantitative/qualitative) was used in this study?[27],?[29]. In the first stage, the sample was comprised of 1569 passes performed during 16 soccer matches from the Association Sportive de Monaco Football Club (AS Monaco) professional soccer team. All the matches took place at home, during the 2016/17 season in Ligue 1 (French highest division). The full AS Monaco team was comprised of 28 players, with four (three goalkeepers and one outfielder) players who did not participate during matches in their home stadium not included in analysis. Furthermore, two expert high-performance coaches for the AS Monaco team, the head coach and the coach responsible for the match analysis department (randomly assigned as ¡¥coach 1¡¬ and ¡¥coach 2¡¬) were chosen to take part in semi-structured interviews. Because of the in-depth quality of each interview, the interpretational nature of the analysis, and the specificity of responding about their own team, two coaches were considered to be representative and sufficient to meet the objectives of the study, particularly as one was the head coach. The study was, however, conducted in accordance with the Declaration of Helsinki and was approved by the local ethical committee (Faculty of Sport Sciences and Physical Education ¡V University of Coimbra) with the code ICE/FCDEF-UC/00352019.
+2.2.?Instruments
+2.2.1.?Observational instrument ¡V network analysis
+The matches were analyzed through systematic observation using a specific instrument to observe the offensive process. The following criteria were used in this study: (1) collective action number; (2) match half; (3) start and finish time of the ball possession, (4) start and finishing zone of the offensive sequence, (5) start of the offensive sequence (start/restart match, goal kick, throw-in, dropped ball, ball possession recovery by interception a pass, and finished actions (goal conceded, outfield side/final lines, foul, ball possession recovered by the opponent); (6) passes (successful or not); (7) crossing (successful or not); (8) total number of interactions; (9) total number of the kicks towards the goal, and; (10) total number of goals scored?[30].
+The pitch was split into three corridors (left, central and right) and four sectors (defensive area, pre defensive area, pre offensive area and offensive area) (Fig.?1). The intercepts of the different corridors and sectors created 12 different zones: Left Defensive (LD), Central Defensive (CD), Right Defensive (RD), Left Pre Defensive (LPD), Central Pre Defensive (CPD), Right Pre Defensive (RPD), Left Pre Offensive (LPO), Central Pre Offensive (CPO), Right Pre Offensive (RPO), Left Offensive (LO), Central Offensive (CO) and Right Offensive (RO).
+
+1. Download :?Download high-res image (440KB)
+2. Download :?Download full-size image
+Fig. 1.?Representation of the areas and delimitations of the field (Adapted from Costa et al.?[43]).
+2.2.2.?Interview guide
+To assess the perceptions of the two coaches, semi-structured interviews were used?[31],?[32]. The interview guide was designed to identify the most relevant issues for the coaches so that a further in-depth exploration could be completed. The content validity of the interview was completed according to common qualitative research methods?[33]. More specifically, following network analysis data collection, the final interview guide was created based on the following steps: (1) preparation of a first draft of the transcript based on the specific aims of the study and the specificities of the offensive process of this team; (2) evaluation of the interview transcripts by two senior researchers in sports pedagogy, who have substantial experience with qualitative methods, (3) discussion of findings based on the presented suggestions by each; (4) a pilot study, and; (5) resubmission of the updated version of the transcripts to the experts.
+2.3.?Data collection
+2.3.1.?Network analysis
+Network analysis between the players was performed following three steps. Firstly, the offensive sequences to be observed were identified, under the umbrella term of ball possession. According to Sarmento?[34], ball possession is considered when the players: (1) complete a positive pass (player that received the pass maintain the ball possession), (2) complete three consecutive contacts with the ball or, (3) a shot at goal is attempted.
+After that, the direction of the passes was recorded, as well as their location. In this way, it was possible to ascertain the team dynamics regarding positioning and the behavior in each offensive sequence analyzed?[17]. Finally, weighted adjacency matrices were built for the first and second parts for each one of the 16 matches, taking into account the passes recorded in the previous step?[35]. The adjacency matrices were standardized to the minutes in the pitch for all the players (n/min), aiming to normalize this parameter before the calculation of the network measures.
+2.3.2.?Qualitative data
+The two interviews were conducted by the same investigator, in September 2018, in a relaxed setting at the football academies where the coaches work. The interview began by stating the general information about the purpose of the project. Next, the interviewer focused on background and demographic information. And finally, a more in-depth exploration of the topic followed. None of the interviews were rushed, and the coaches had time to clarify and reformulate their thinking. Each interview took between 30 and 45?min and was transcribed?verbatim.
+2.4.?Data analysis
+2.4.1.?Network measures
+Weighted adjacency matrices of the interaction between players and between positions were built per match and imported using Social Network Visualizer (version 2.5. Greece) and treated as weighted digraphs. Using the matrices of the interactions made between pitch zones, the following general properties of the weighted digraph per match were calculated: (a) network density; (b) total arcs; (c) average of clustering coefficient; (d) arc reciprocity; and (e) dyad reciprocity. For the case of both players and pitch positions the following network centralities were also calculated: (a) degree prestige; (b) degree centrality; (c) range of closeness centrality; and (d) proximity prestige. All the centralities measures were calculated for the standardized value.
+2.4.1.1.?Total arcs
+The total arcs provide information about the sum of each row of the weighted adjacency matrix?[18]. Thus, higher values suggest an overall higher level of connection between team players.
+2.4.1.2.?Network density
+The network density can be considered a relative index?[18]?that describes the number of links divided by the total number of links possible in the network and representing the overall connection between team players in which values closer to 1 represent the perfect affection level.
+2.4.1.3.?Arc and dyad reciprocity
+The arc reciprocity represents the fraction of reciprocated ties over all ties in the graph and the dyad reciprocity represents the fraction of pairs of team players that have reciprocated ties over all pairs of players that have any interaction?[23]. Both reciprocities were calculated for weighted and directed graphs considering the specificities of soccer interactions.
+2.4.1.4.?Clustering coefficient
+The clustering coefficient is the average of all team players and quantifies how close each player and their teammates are to be a subgraph. Values closer to 1 represents that the player(s) is/are involved in many transitive relations?[18].
+2.4.1.5.?In-degree centrality
+The standardized degree prestige or in-degree centrality (IDC¡¦) provides information about the inbound links that a player receives from his teammates and a higher centrality level shows that the player is more often recruited by his teammates?[18]. The IDC¡¦ centrality was calculated for the case of weighted digraphs.
+2.4.1.6.?Out-degree centrality
+The standardized degree centrality or out-degree centrality (ODC¡¦) represents the overall outbound links made by a player to his teammates and a higher centrality level suggests that this player is the main player who establishes connections to their teammates?[18]. The ODC¡¦ centrality was calculated for the case of weighted digraphs.
+2.4.1.7.?Influence range closeness centrality
+The influence range closeness centrality index (IRCC) represents the ratio of the fraction of players reachable by a specific player. Therefore, a higher level means that this player is involved in many transitive relations.
+2.4.1.8.?Proximity prestige
+The standardized proximity prestige (PP¡¦) provides information regarding the capacity of a player to be reachable by its teammates; thus, higher values mean that the player is closer to their teammates during passing sequences.
+2.4.2.?Content data analysis
+The purpose of the content data analysis was to build a system of categories that emerged from the unstructured data and that represented the organization and utilization of two expert high-performance football coach's view of the topic. In present study, data analysis was performed using content analysis?[31], and through combining inductive and deductive approaches, the text units were coded; text units with comparable meanings were organized into specific categories. Two researchers conducted the analysis independently to ensure that the resulting classification system was suitable and best fitted the data. The software QSR NVivo 11.0 was used in coding the transcripts of the interviews.
+2.5.?Reliability
+2.5.1.?Network analysis
+A test-retest design was used to verify the reliability of the analyses performed by the evaluators. The sessions to determine reliability were interspersed by a three-week interval, in order to avoid task familiarity issues. The coefficient of reliability was calculated through Cohen's Kappa test?[36]. A total of 1569 passes were reassessed?[37], and reliability values over 0.8 were found for all variables analyzed. The evaluators were also tested for interobserver agreement in both occasions (test and re-test), revealing Kappa test between 0.8 and 0.9 (considering the variables analyzed).
+2.5.2.?Qualitative analysis
+Different techniques were utilized in this study to establish trustworthiness. Member checks are the most crucial technique for establishing credibility?[38]. Member checks occurred at the end of each interview during a debriefing session. At this point, the coaches were given the opportunity to change any answer or idea provided during the interview. Additionally, trustworthiness was assured by a panel of two experts in match analysis, which analyzed all units, themes and categories created.
+3.?Results
+Since we chose to apply two methodologies (network analysis and qualitative content analysis), with the purpose of complementing the analysis made to the AS Monaco offensive process, we opted to present the results in two parts. In the first part, we present the descriptive results of the categorization system resulting from the qualitative content analysis. In the second part, we present, in an integrated and complementary way, the data from the network analysis together with the most significant sentences stated by the interviewed coaches.
+3.1.?Content analysis
+After identifying the specificities of this team resulting from network analysis, the coaches were asked to perform an analysis of these characteristics through a semi-structured interview, and the resulting data was then analyzed through content analysis technique. From this analysis three central categories emerged: (1) tactical-strategic aspects; (2) technical aspects, and (3) physical aspects.
+3.2.?Combined results of network analysis and qualitative data
+3.2.1.?Interaction between pitch zones
+The analysis of general network measures (Table?1) considering the interactions between pitch positions revealed that the arc reciprocity varied in terms of 95%CI between 43.28 and 54.04% and the dyad reciprocity between 32.35 and 39.29%. The results of both reciprocity levels also suggest a small variability over the matches (CV: 15.24 and 17.41% for the arc and dyad, respectively). The clustering coefficient was the most variable measure during the matches (CV: 71.43%), with values varying between 0.08 and 0.20. The network density also varied between 0.27 and 0.33, with a CV of 13.33%.
+Table 1.?General network measures of the connections between pitch zones for all included matches.
+Empty CellMeanSDCV%95%CIArc reciprocity (%)48.668.4717.41[43.28;54.04]Dyad reciprocity (%)35.825.4615.24[32.35;39.29]Clustering Coefficient (A.U.)0.140.1071.43[0.08;0.20]Total Arcs (n)39.755.7114.36[36.12;43.38]Density (A.U.)0.300.0413.33[0.27;0.33]SD: standard deviation; CV%: percentage of coefficient of variation; 95%CI: 95% of confidence interval.
+The analysis of standardized degree centrality and prestige for the passes occurred between pitch positions can be observed in?Table?2. The RPO was the zone from where passes were most executed (0.19 A.U. of ODC¡¦) and had a lower variance (CV: 26.32%). Moreover. the RPO was also the main pitch position from which the passes were received (0.19 A.U. of IDC¡¦) followed by the LPO and LPD (both with 0.17 A.U. of IDC¡¦).
+Table 2.?Degree centrality and prestige of each pitch position during all included matches.
+Empty CellDC'DP'Empty CellMeanSDCV%95%CIMeanSDCV%95%CILD0.010.01100.00[0.00;0.02]0.010.01100.00[0.01;0.02]CD0.010.02200.00[0.00;0.02]0.030.0133.33[0.02;0.03]RD0.010.01100.00[0.00;0.01]0.010.01100.00[0.01;0.01]LPD0.160.0531.25[0.13;0.19]0.170.0529.41[0.14;0.20]CPD0.120.0433.33[0.09;0.14]0.120.0216.67[0.10;0.13]RPD0.150.0533.33[0.11;0.18]0.160.0637.50[0.12;0.20]LPO0.160.0743.75[0.12;0.21]0.170.0847.06[0.12;0.22]MPO0.080.0337.5[0.06;0.09]0.080.0225.00[0.07;0.09]RPO0.190.0526.32[0.16;0.22]0.190.0631.58[0.15;0.23]LO0.040.0250.00[0.02;0.05]0.020.0150.00[0.01;0.02]CO0.020.0150.00[0.01;0.02]0.010.01100.00[0.00;0.01]RO0.060.0350.00[0.04;0.08]0.040.0250.00[0.02;0.05]DC¡¦: standardized degree centrality; DP¡¦: standardized degree prestige; SD: standard deviation; CV%: percentage of coefficient of variation; 95%CI: 95% of confidence interval.
+The PP¡¦ and the IRCC levels of interactions (i.e., passes) between pitch positions can be found in?Table?3. The LPD zone had the highest PP¡¦ levels (1.09 A.U.) followed by the CPD and RPD (both with 1.04 A.U.). In the case of IRCC, the RPO had the highest values (0.97 A.U.) followed by the LPD (0.96 A.U.) and the CPD (0.95 A.U.).
+Table 3.?Proximity prestige (PP¡¦) and influence range closeness centrality (IRCC) of each pitch position during all included matches.
+Empty CellPP'IRCCEmpty CellMeanSDCV%95%CIMeanSDCV%95%CILD0.70.4564.29[0.41;0.99]0.210.24114.29[0.06;0.37]CD0.750.226.67[0.63;0.88]0.330.33100.00[0.13;0.54]RD0.570.2645.61[0.41;0.74]0.140.18128.57[0.02;0.25]LPD1.090.2321.10[0.95;1.23]0.960.1717.71[0.85;1.07]CPD1.040.1817.31[0.92;1.16]0.950.2223.16[0.81;1.10]RPD1.040.2120.19[0.91;1.18]0.940.2223.40[0.80;1.09]LPO0.960.1313.54[0.88;1.04]0.920.2223.91[0.78;1.05]MPO0.80.1518.75[0.70;0.89]0.820.2732.93[0.65;0.99]RPO0.890.1415.73[0.80;0.98]0.970.2828.87[0.80;1.15]LO0.310.2993.55[0.13;0.49]0.680.3145.59[0.48;0.87]CO0.130.23176.92[0.02;0.27]0.510.239.22[0.38;0.64]RO0.380.2668.42[0.22;0.55]0.810.2632.10[0.65;0.97]SD: standard deviation; CV%: percentage of coefficient of variation; 95%CI: 95% of confidence interval.
+3.2.2.?Interactions between teammates
+The overall level of centralities of the players during the analyzed matches are presented in?Table?4. Player 10 was the teammate that contributed the most to pass execution for his teammates (0.119 A.U. of ODC¡¦), followed by player 4 (0.096 A.U.) and player 7 (0.087 A.U.).
+When I arrived at AS Monaco, ¡§Player 10? had been bought to play as a defensive side player (¡K) after a careful analysis of his qualities, I perceived that as a defensive side player he would be a ¡§normal¡¨ player, but not a top level player since he lacked speed. I thought he could be a good midfielder because in addition to having a good relationship with the ball, he had a great ability to see and analyze the game. In that way, I gradually moved it to central zones, and this allowed me to be able to explore its ability to analyze and build the game and become the top-level player it is nowadays.
+Coach 1
+Table 4.?Network centralities of the players considering the overall interactions of the analyzed matches.
+Empty CellDC¡¦DP¡¦PP¡¦IRCCPlayer 10.0150.0313.1412.625Player 20.0800.0833.9463.629Player 30.0000.0000.0000.000Player 40.0960.0874.0743.85Player 50.0590.0613.6693.512Player 60.0150.0182.5282.426Player 70.0870.0984.1163.673Player 80.0130.0152.1272.352Player 90.0270.0272.9142.800Player 100.1190.1154.4264.037Player 110.0840.1014.3373.637Player 120.0750.0593.8073.669Player 130.0700.0833.9623.499Player 140.0170.0112.3142.237Player 150.0760.0804.0063.549Player 160.0270.0272.9232.812Player 170.0400.0242.8292.784Player 180.0120.0081.9211.527Player 190.0290.0323.1102.453Player 200.0310.0162.7272.866Player 210.0030.0010.7871.293Player 220.0010.0010.7750.756Player 230.0100.0132.0611.966Player 240.0000.0000.0000.000Player 250.0170.012.3022.687DC¡¦: standardized degree centrality; DP¡¦: standardized degree prestige; PP¡¦: standardized proximity prestige; IRCC: influence range closeness centrality ratio.
+Interestingly, player 10 was also the player most recruited by his teammates, with a higher level of IDC¡¦ (0.115 A.U.), followed by player 11 (0.101 A.U.) and player 7 (0.098 A.U.). The PP¡¦ revealed that player 10 (4.426 A.U.), player 11 (4.337 A.U.) and player 7 (4.116 A.U.) were the teammates closest to their colleagues during the passing sequences. Finally, player 10 was the player most involved in transitive actions, with the highest IRCC level (4.037 A.U.), followed by player 7 (3.673 A.U.) and player 2 (3.629 A.U.).
+¡§Player 10? and ¡§player ¡§11? (¡K) were very important mainly in the construction phase (preparation phase of the attack) and had an important role in the decision. ¡§Player 7? was an important player in a first phase of construction, he was a player that performed good passes, a player who is not very vertical, that served to circulate the ball, but was in less offensive zones. In this way, he has a large number of interventions in the game, but in "practical" terms, in offensive terms, his contribution was reduced. It was basically a ball circulator, especially when the ball circled the defensive line.
+Coach 1
+¡§Player 7? was a player where the ball passed a lot, maybe it was the central (defensive) element that would guarantee greater safety and less risk in the exit of ball. ¡§Player 10? and ¡§Player 11? were players who gave a very strong dynamic to the game. ¡§Player 10? more in terms of accelerating with the ball, of creativity; and ¡§Player 11? a passer-by but very assertive player.
+Coach 2
+4.?Discussion
+The purpose of this research was to analyze the offensive process of AS Monaco, through the combination of network methods and semi-structured interviews of two coaches from the technical staff.
+Results of the study revealed that the Right Pre Offensive (RPO) zone was the most prominent pitch region during passing sequences, followed by the Left Pre Offensive (LPO) and Left Pre Defensive (LPD) zones. These results reveal a clear tendency for the team to build passing sequences in those areas and can be associated with the information of the most central players of the team: player 10 (defensive midfielder), player 11 (box-to-box midfielder) and player 2 (right external defender). Moreover, the main pitch regions for the passing sequences of AS Monaco are also in line with a previous study that used a network approach analyzing the main regions that led to scored goals?[17]. In that study, it was found that central and right offensive midfield regions were the most recruited to receive passes and also to execute passes?[17]. Therefore, it seems that the offensive regions immediately before the penalty area are highly recruited during passing sequences possibly because they are close enough to exploit the penetration of the strikers or the wingers without the high pressure created by a typical numerical inferiority observed within the penalty area?[39].
+When analyzing the centrality levels of the players we observed that the most recruited players during the passing sequences were player 10 (defensive midfielder), player 11 (box-to-box midfielder) and player 7 (central defender). The findings are in line with previous studies that typically report midfielders as the most prominent players in the network process that occurs during passing sequences?[19],?[20],?[40]. Furthermore, it emphasizes the role of the central defender as one of the first elements in the attacking build-up play from the first third of the pitch?[20]. Moreover, the high prominence levels of player 10 and player 11 are in line with the statement and idea of the coach about the importance of those players in the construction phase, and also the importance of player 7 in ensuring construction of offensive sequences from the defensive area.
+The centrality outbound levels (passes executed) also revealed player 10 (defensive midfielder) as the most prominent, followed by player 4 (right external defender) and player 7 (central defender). Those results are, once again, in line with previous findings?[41], namely that those playing positions present higher levels of passes without high opponent pressure, serving as ¡§security¡¨ lines to move and circulate the ball, as stated by the coach during the interview. Moreover, player 10 was also nominated by the coach as a player with ¡§great ability to see and analyze the game¡¨ thus confirming the importance of this player to serve as the linkage factor between defensive and forward lines during attacking build-up (in an indirect style).
+The results from the semi-structured interviews with the coaches of this team reveals a clear agreement between the data collected during network analysis. Additionally, some important information came from the interviews and the deeper knowledge that the coaches have from their team. In this sense, is important to highlight that the key player, often considered the player that has the most actions in a match, is perceived in a different way by the coaches. For them, the key player is the one who takes a decisive action at key moments of the match, not the one that has the most frequent actions.
+This study allows us to verify that network analysis confirmed the coaches¡¦ perceptions of the performance of their players and team. Some detailed and important information about the specificities of the game can help the technical staff better prepare training sessions in order to improve performance. Additionally, we confirmed that this method can be effectively used as a low-cost and easy-to-use approach to identify collective tendencies in passing sequences.
+The mixed-method approach employed in this investigation highlighted the benefits of engaging coaches (and practitioners) in the research process, helping contextualize the findings of the quantitative analysis. This approach should be utilized when and where possible, particularly when undertaking case study research with elite athletes?[28],?[42]. This will not only help answer descriptive research questions, but also facilitate interventional research designed to specifically improve the processes of coaches, as well as player performance and health?[27],?[28].
+A limitation of this study is that we only looked at the offensive behavior of the observed team. Future studies should also consider the defensive behavior of both the observed and opponent teams, which may help explain the findings of the offensive network analysis.
+Conclusion
+The present study revealed that the perceptions of the coaches regarding the prominence level of specific players during the attacking build-up was confirmed by the network centrality analysis. It was observed that player 10 (defensive midfielder) and 11 (box-to-box) were the most prominent players in ball receptions from their teammates and player 7 (central defender) was recruited the most through his capacity to serve as security pass line when circulating the ball during indirect attacking build-up. The pitch zones immediately before the penalty area were the most recruited when passing and receiving the ball, revealing the importance of these regions when trying to score or penetrate the scoring zone, but without too much defensive pressure or numerical inferiority. The analysis from the coach interviews revealed an agreement with the network analysis data. Additionally, some important information about the specificity of game style came from the interviews. This cooperation between scientists and technical staff is productive and should be used regularly in order to improve both scientific and training methods, and enhance the relationship between researchers, practitioners and coaches.
+CRediT authorship contribution statement
+Hugo Sarmento:?Conceptualization, Data curation, Methodology, Writing - original draft, Writing - review & editing.?Filipe Manuel Clemente:?Conceptualization, Data curation, Methodology, Writing - original draft, Writing - review & editing.?Eder Gon?alves:?Data curation, Writing - original draft, Writing - review & editing.?Liam D Harper:?Writing - original draft, Writing - review & editing.?Diogo Dias:?Data curation, Writing - original draft, Writing - review & editing.?Ant?nio Figueiredo:?Conceptualization, Methodology, Writing - original draft.
+Declaration of Competing Interest
+The authors declare the following financial interests/personal relationships which may be considered as potential competing interests.
+Acknowledgments
+HS gratefully acknowledge the support of a Spanish government subproject Integration ways between qualitative and quantitative data, multiple case development, and synthesis review as main axis for an innovative future in physical activity and sports research [PGC2018-098742-B-C31] (Ministerio de Econom?a y Competitividad, Programa Estatal de Generaci?n de Conocimiento y Fortalecimiento Cient?fico y Tecnol?gico del Sistema I+D+i), that is part of the coordinated project New approach of research in physical activity and sport from mixed methods perspective (NARPAS_MM) [SPGC201800X098742CV0].FC gratefully acknowledge the support FCT/MEC through national funds and when applicable co-funded by FEDER PT2020 partnership agreement under the project UID/EEA/50008/2019.
+References
+1. [1]
+H.?Sarmento,?F.M.?Clemente,?D.?Ara?jo,?K.?Davids,?A.?McRobert,?A.?Figueiredo
+What performance analysts need to know about research trends in association football (2012¡V2016): a systematic review
+Sports Med,?48?(4)?(2018), pp.?799-836
+?View at publisher?
+Your institution provides access to this article.
+CrossRefView in ScopusGoogle Scholar
+2. [2]
+H.?Sarmento,?F.M.?Clemente,?L.D.?Harper,?Costa?ITd,?A.?Owen,?A.J?Figueiredo
+Small sided games in soccer ¡V a systematic review
+Int J Perform Anal Sport,?18?(5)?(2018), pp.?693-749
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+3. [3]
+C.A.?Casal,?R.?Maneiro,?T.?Arda,?J.L.?Losada,?A?Rial
+Analysis of corner kick success in elite football
+Int J Perform Anal Sport,?15?(2)?(2015), pp.?430-451
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+4. [4]
+M.?Andrzejewski,?J.?Chmura,?B.?Pluta,?A?Kasprzak
+Analysis of motor activities of professional soccer players
+J Strength Cond Res,?26?(6)?(2012), pp.?1481-1488
+View in ScopusGoogle Scholar
+5. [5]
+J.R.?Silva,?J.?Magalhaes,?A.?Ascensao,?A.F.?Seabra,?A.N?Rebelo
+Training status and match activity of professional soccer players throughout a season
+J Strength Cond Res,?27?(1)?(2013), pp.?20-30
+Google Scholar
+6. [6]
+C.?Cotta,?A.M.?Mora,?J.J.?Merelo,?C?Merelo-Molina
+A network analysis of the 2010 fifa world cup champion team play
+J. Syst Sci Complex.,?26?(2013), pp.?21-42
+?View at publisher?
+Your institution provides access to this article.
+CrossRefView in ScopusGoogle Scholar
+7. [7]
+C.?Lago-Penas,?J.?Lago-Ballesteros
+Game location and team quality effects on performance profiles in professional soccer
+J. Sports Sci Med,?10?(3)?(2011), pp.?465-471
+View in ScopusGoogle Scholar
+8. [8]
+C.?Lago-Penas,?M.?Gomez-Ruano,?D.?Megias-Navarro,?R.?Pollard
+Home advantage in football: examining the effect of scoring first on match outcome in the five major European leagues
+Int J Perform Anal Sport,?16?(2)?(2016), pp.?411-421
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+9. [9]
+P.S.?De Baranda,?D.?Lopez-Riquelme
+Analysis of corner kicks in relation to match status in the 2006 world cup
+Eur J Sport Sci,?12?(2)?(2012), pp.?121-129
+View at publisher?
+CrossRefGoogle Scholar
+10. [10]
+A.?Dellal,?K.?Chamari,?D.?Wong,?S.?Ahmaidi,?D.?Keller,?R.?Barros,?et al.
+Comparison of physical and technical performance in european soccer match-play: FA Premier League and La Liga
+Eur J Sport Sci,?11?(1)?(2011), pp.?51-59
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+11. [11]
+H.?Sarmento,?A.?Marques,?J.?Martins,?T.?Anguera,?J.?Campanico,?J.?Leitao
+Playing tactics in the English premier league, Spain¡¦s La Liga and Italy¡¦s serie a
+Br J Sports Med,?45?(15)?(2011), pp.?A6-A7
+View at publisher?
+CrossRefGoogle Scholar
+12. [12]
+A.?Tenga,?I.?Holme,?L.?Ronglan,?R.?Bahr
+Effect of playing tactics on achieving score-box possessions in a random series of team possessions from Norwegian professional soccer matches
+J Sports Sci,?28?(3)?(2010), pp.?245-255
+?View at publisher?
+Your institution provides access to this article.
+CrossRefView in ScopusGoogle Scholar
+13. [13]
+A.?Tenga,?D.?Kanstad,?L.?Ronglan,?R?Bahr
+Developing a new method for team match performance analysis in professional soccer and testing its reliability
+Int J Perform Anal Sport,?9?(2009), pp.?8-25
+View at publisher?
+CrossRefGoogle Scholar
+14. [14]
+H?Sarmento,?A?Barbosa,?J?Campani?o,?MT?Anguera,?J?Leit?o?(Eds.),?Regular patterns of play in the counterattacks of the FC Barcelona and Manchester United FC football teams,?World Congress of Sport Performance Analysis IX,?Worcester?(2012)
+Google Scholar
+15. [15]
+H.?Sarmento,?A.?Marques,?J.?Martins,?M.T.?Anguera,?J.?Campani?o,?J?Leit?o
+Tactical analysis of the Barcelona counter-attack
+Br J Sport Med,?45?(15)?(2011), p.?A4
+View at publisher?
+CrossRefGoogle Scholar
+16. [16]
+T.U.?Grund
+Network structure and team performance: the case of English Premier League soccer teams
+Soc Networks,?34?(2012), pp.?682-690
+?View at publisher?
+Your institution provides access to this article.
+View in ScopusGoogle Scholar
+17. [17]
+F.M.?Clemente,?F.M.?Martins,?R.S.?Mendes
+Analysis of scored and conceded goals by a football team throughout a season: a network analysis
+Kinesiology,?48?(1)?(2016), pp.?103-114
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+18. [18]
+F.M.?Clemente,?F.M.?Martins,?M.S.?Couceiro,?R.S.?Mendes,?A.J.?Figueiredo
+Developing a tactical metric to estimate the defensive area of soccer teams: the defensive play area
+Proc. Inst Mech Eng Part P,?230?(2)?(2016), pp.?124-132
+?View at publisher?
+Your institution provides access to this article.
+CrossRefView in ScopusGoogle Scholar
+19. [19]
+F.M.?Clemente,?F.M.?Martins,?D.P.?Wong,?D.?Kalamaras,?R.S.?Mendes
+Midfielder as the prominent participant in the building attack: a network analysis of national teams in FIFA World Cup 2014
+Int J Perform Anal Sport,?15?(2015), pp.?704-722
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+20. [20]
+J.L.?Pe?a,?H.?Touchette
+A network theory analysis of football strategies. Palaiseau
+'Editions de l'\'Ecole Polytechnique,?FrancePalaiseau?(2012)
+Google Scholar
+21. [21]
+F.M.?Clemente,?F.M.L.?Martins,?D.P.?Wong,?D.?Kalamaras,?R.S.?Mendes
+Midfielder as the prominent participant in the building attack: a network analysis of national teams in FIFA World Cup 2014
+Int J Perform Anal Sport,?15?(2)?(2015), pp.?704-722
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+22. [22]
+P.?Malta,?B.?Travassos
+Caracteriza??o da transi??o defesa-ataque de uma equipa de futebol
+Motricidade,?10?(2014), pp.?27-37
+View in ScopusGoogle Scholar
+23. [23]
+F.M.?Clemente
+Performance outcomes and their associations with network measures during FIFA World Cup 2018
+Int J Perform Anal Sport,?18?(6)?(2018), pp.?1010-1023
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+24. [24]
+F.M.?Clemente,?F.M.L.?Martins,?D.?Kalamaras,?D.P.?Wong,?R.S?Mendes
+General network analysis of national soccer teams in FIFA World Cup 2014
+Int J Perform Anal Sport,?15?(1)?(2015), pp.?80-96
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+25. [25]
+H.?Sarmento,?M.T.?Anguera,?A.?Pereira,?A.?Marques,?J.?Campanico,?J?Leitao
+Patterns of play in the counterattack of elite football teams - A mixed method approach
+Int J Perform Anal Sport,?14?(2)?(2014), pp.?411-427
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+26. [26]
+H.?Sarmento,?P.?Roma,?A.?Marques,?J?Leit?o
+T?Favero,?B?Drust,?B?Dawson?(Eds.),?International Research in Science & Soccer II London,?Routledge?(2016)
+Google Scholar
+27. [27]
+L.D.?Harper,?R.?McCunn
+Hand in glove¡¨: using qualitative methods to connect research and practice
+Int J Sports Physiol Perform,?12?(7)?(2017), pp.?990-993
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+28. [28]
+A.D.?Ruddock,?C.?Boyd,?E.M.?Winter,?M?Ranchordas
+Considerations for the scientific support process and applications to case studies
+Int J Sports Physiol Perform?(2018), pp.?1-5
+Google Scholar
+29. [29]
+M.T.?Anguera,?A?Hern?ndez Mendo
+Avances en estudios observacionales de ciencias del deporte desde los mixed methods
+Cuadernos de Psicologia del Deporte,?16?(2016), pp.?17-30
+View in ScopusGoogle Scholar
+30. [30]
+Gama J.M.T.V. Network-an?lise da interac??o e din?mica do jogo de futebol2013.
+Google Scholar
+31. [31]
+L?Bardin
+An?lise de conte?do,?70,?Edi??es,?Lisboa?(2008)
+Google Scholar
+32. [32]
+U?Flick
+M?todos qualitativos na investiga??o cient?fica
+Lisboa: Monitor?(2005)
+Google Scholar
+33. [33]
+A.?Strauss,?J.?Corbin
+Basics of qualitative research: grouded theory procedures and techniques
+Sage,?London?(1990)
+Google Scholar
+34. [34]
+H?Sarmento
+An?lise do jogo de futebol - Padr?es de jogo ofensivo em equipas de alto rendimento: uma abordagem qualitativa
+Vila Real?(2012)
+Google Scholar
+35. [35]
+P.?Passos,?K.?Davids,?D.?Araujo,?N.?Paz,?J.?Minguens,?J?Mendes
+Networks as a novel tool for studying team ball sports as complex social systems
+J Sci Med Sport,?14?(2)?(2011), pp.?170-176
+?View at publisher?
+Your institution provides access to this article.
+View in ScopusGoogle Scholar
+36. [36]
+G.?Robinson,?P.?O'Donoghue
+A weighted kappa statistic for reliability testing in performance analysis of sport
+Int J Perform Anal Sport,?7?(2007), pp.?12-19
+View at publisher?
+CrossRefGoogle Scholar
+37. [37]
+B.?Tabachnick,?L.?Fidell
+Using multivariate statistics: international edition London
+Pearson Education?(2012)
+Google Scholar
+38. [38]
+Y.?Lincon
+Emerging criteria for quality in qualitative and interpretive research
+Qual Inq,?1?(1995), pp.?275-289
+Google Scholar
+39. [39]
+L.?Vilar,?D.?Ara?jo,?K.?Davids,?Y.?Bar-Yam
+Science of winning soccer: emergent pattern-forming dynamics in association football
+J Syst Sci Complex,?26?(1)?(2013), pp.?73-84
+?View at publisher?
+Your institution provides access to this article.
+CrossRefView in ScopusGoogle Scholar
+40. [40]
+J.?Duch,?J.S.?Waitzman,?L.A.N.?Amaral
+Quantifying the performance of individual players in a team activity
+PLoS ONE,?5?(6)?(2010), p.?e10937
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+41. [41]
+B.?Mendes,?F.M.?Clemente,?N.?Maur?cio
+Variance in prominence levels and in patterns of passing sequences in elite and youth soccer players: a network approach
+J Hum Kinet,?61?(2018), pp.?141-153
+View at publisher?
+CrossRefView in ScopusGoogle Scholar
+42. [42]
+I.?Halperin
+Case studies in exercise and sport sciences: a powerful tool to bridge the science-practice gap
+Int J Sports Physiol Perform?(2018), pp.?1-9
+View at publisher?
+CrossRefGoogle Scholar
+43. [43]
+I.T.?Costa,?J.?Garganta,?P.J.?Greco,?I.?Mesquita,?J.?Maia
+System of Tactical Assessment in Soccer (FUT-SAT): development and preliminary validation
+Motricidade,?7?(1)?(2011), pp.?69-83,?10.6063/motricidade.7(1).121
+View at publisher
+Google Scholar
+

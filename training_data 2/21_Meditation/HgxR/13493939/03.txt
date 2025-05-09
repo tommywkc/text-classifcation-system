@@ -1,0 +1,651 @@
+                                                                                                       www.nature.com/scientificreports
+
+
+
+
+                         OPEN      Alterations in Brain Structure and
+                                   Amplitude of Low-frequency after
+                                   8 weeks of Mindfulness Meditation
+Received: 11 October 2018
+Accepted: 15 July 2019             Training in Meditation-Naïve
+                                   Subjects
+Published: xx xx xxxx
+
+
+
+                                   Chuan-Chih Yang1, Alfonso Barrós-Loscertales2, Meng Li1,4, Daniel Pinazo3, Viola Borchardt                      1
+                                                                                                                                                    ,
+                                   César Ávila2 & Martin Walter1,5,6,7,8
+                                   Increasing neuroimaging evidence suggests that mindfulness meditation expertise is related to
+                                   different functional and structural configurations of the default mode network (DMN), the salience
+                                   network (SN) and the executive network at rest. However, longitudinal studies observing resting
+                                   network plasticity effects in brains of novices who started to practice meditation are scarce and
+                                   generally related to one dimension, such as structural or functional effects. The purpose of this
+                                   study was to investigate structural and functional brain network changes (e.g. DMN) after 40 days
+                                   of mindfulness meditation training in novices and set these in the context of potentially altered
+                                   depression symptomatology and anxiety. We found overlapping structural and functional effects in
+                                   precuneus, a posterior DMN region, where cortical thickness increased and low-frequency amplitudes
+                                   (ALFF) decreased, while decreased ALFF in left precuneus/posterior cingulate cortex correlates with the
+                                   reduction of (CES-D) depression scores. In conclusion, regional overlapping of structural and functional
+                                   changes in precuneus may capture different components of the complex changes of mindfulness
+                                   meditation training.
+
+
+                                   Mindfulness meditation has gained growing interest in psychological research. Mindfulness is defined as the
+                                   process by which one attends to present-moment experiences non-judgementally, which can, for example, be
+                                   developed through meditation practice1–3. Brain research has yielded global and local levels of differences in brain
+                                   activity and connectivity related to meditation affecting several brain regions involving the default mode network
+                                   (DMN), the salience network and the executive network. It is noteworthy that global changes have shown reduced
+                                   connectivity between the nodes of the DMN and other networks, as well as reduced local activity and connec-
+                                   tivity of nodes within these networks (e.g., ReHo, ALFF, nodal strength). This study aims to explore whether
+                                   behavioural, structural and local functional brain changes are associated with short-term mindfulness meditation
+                                   training.
+                                       Mindfulness meditation practice primarily leads to reductions in ruminative thinking, even after controlling
+                                   for decrements in affective symptoms and dysfunctional beliefs4. In patients with affective disorders, mindful-
+                                   ness meditation intervention has been shown to improve anxiety and mood symptoms5. At a behavioural level,
+                                   several studies have indicated that mindfulness-based therapy is a promising approach for treating anxiety and
+                                   mood disorders6–8. Several previous studies have demonstrated the practice of mindfulness meditation leads to
+
+                                   1
+                                    Clinical Affective Neuroimaging Laboratory, Otto-von-Guericke University, Magdeburg, Germany. 2Departamento
+                                   de Psicología Básica, Clínica y Psicobiología, Universitat Jaume I, Castellón de la Plana, Spain. 3Departamento
+                                   de Psicología Educativa, Social y Metodología, Universitat Jaume I, Castellón de la Plana, Spain. 4Department of
+                                   Neurology, Otto-von-Guericke University, Magdeburg, Germany. 5Department of Behavioral Neurology, Leibniz
+                                   Institute for Neurobiology, Magdeburg, Germany. 6Department of Psychiatry and Psychotherapy, Otto-von-Guericke
+                                   University, Magdeburg, Germany. 7Center of Behavioral Brain Sciences, Otto-von-Guericke University, Magdeburg,
+                                   Germany. 8Department of Psychiatry, Eberhard Karls University Tuebingen, Tuebingen, Germany. Correspondence
+                                   and requests for materials should be addressed to A.B.-L. (email: barros@uji.es)
+
+
+        Scientific Reports |   (2019) 9:10977 | https://doi.org/10.1038/s41598-019-47470-4                                                              1
+www.nature.com/scientificreports/                                                               www.nature.com/scientificreports
+
+
+                                          TP1 (mean ± standard   TP2 (mean ± standard
+                                          deviation)             deviation)
+                            CES-D         15.57 (±9.49)           8.71 (±6.06)***
+                            STAI, state   17.93 (±4.58)          13.57 (±10.23)
+                            STAI, trait   22.50 (±9.39)          16.36 (±9.37)**
+
+                           Table 1. Primary behavioural outcome. CES-D, Center for Epidemiologic Studies Depression Scale; STAI:
+                           State-Trait Anxiety Inventory. Significant group differences: ∗∗∗significant at p < 0.001, ∗∗significant at
+                           p < 0.01.
+
+
+
+                           brain changes at either structural or functional levels9–15. To track functional changes, resting-state functional
+                           magnetic resonance imaging (rs-fMRI) has been proposed to analyse differential spontaneous modulations in the
+                           blood-oxygen-level dependent (BOLD) signal during resting conditions16. With rs-fMRI, researchers can char-
+                           acterise the brain’s spontaneous functional activities in terms of both brain network connectivity and local fea-
+                           tures, e.g. the amplitude of low-frequency fluctuations (ALFF) to characterise the amplitude of local spontaneous
+                           brain activity17. In contrast to the functional connectivity method, which measures the temporal synchronisation
+                           between brain areas, the ALFF method helps to localise the brain functional alterations18. The quantitative meas-
+                           urement of low-frequency oscillations, such as ALFF, provides promising tools to observe spontaneous BOLD
+                           signal alterations in regional activity. As such, it may offer insight into the direct local consequences of the pre-
+                           viously reported structural changes. Although several previous studies have associated brain structure changes
+                           with mindfulness meditation training, plus there is evidence for a cross-sectional convergence of functional and
+                           structural changes when comparing professional meditators and novices19, longitudinal research into structural
+                           changes and their direct relationship would be necessary to more directly relate the changes in the two dimen-
+                           sions to one another and to clinical or behavioural effects, respectively.
+                               To study brain morphometry, several methods have been proposed to investigate brain structural changes,
+                           such as voxel-based morphometry (VBM)20 and the cortical thickness measure (Freesurfer)21,22. The cortical
+                           thickness measure is preferred because it utilises brain geometry to conduct inter-subject registration, which
+                           contributes to a finer matching of homologous cortical locations than volumetric-based methods. Freesurfer is
+                           commonly applied in many cortical thickness studies13,14,23, and in this study, Freesurfer is used for the cortical
+                           thickness analysis given its advantages over the volume-based morphometry method. Fox et al. reported and
+                           meta-analysed 123 brain structural differences using several morphometric measures (e.g. cortical thickness, grey
+                           matter volume and concentration, fractional anisotropy, etc.) to show that mindfulness meditation also leads to
+                           significant brain structure changes24. Prior studies have pioneered longitudinal analysis on grey and white matter
+                           changes25–27. Tang et al. observed increased fractional anisotropy in the corona radiata connecting the cingulate
+                           cortex after an 11-hour integrative body-mind training (IBMT)27. Santarnecchi et al. showed a significant increase
+                           in cortical thickness in the right insula and the somatosensory cortex after an 8-weeks Mindfulness-Based Stress
+                           Reduction (MBSR) training program25. Pickut et al. reported increased grey matter density in the bilateral cau-
+                           date, left cuneus, left thalamus, and left lingual gyrus in an 8-week mindfulness-based intervention randomised
+                           controlled trial (RCT) for Parkinson subjects who underwent mindfulness-based intervention26.
+                               In cross-sectional studies, Kang et al. found increased cortical thickness in the superior frontal cortex, frontal
+                           medial prefrontal cortex, temporal areas for meditation subjects compared to the controls13. Finally, it has been
+                           demonstrated that the long-term practice of Sahaja Yoga Meditation leads to increased grey matter volume and
+                           regional enlargement in different cortical and subcortical brain areas which are correlated with compassion and
+                           interoceptive perception, sustained attention and self-control28. The recent work by Engen et al. investigated
+                           structural brain networks changes of long-term mental training effects on socio-affective skills19. These authors
+                           conducted both functional and structural analyses and found that ALFF increases in several prefrontal and insu-
+                           lar areas during meditation relative to resting, and they also observed cortical changes.
+                               In this longitudinal study, we investigated cortical thickness changes at the whole-brain level as well as ALFF
+                           changes at the baseline and following 40-day short-term mindfulness meditation training. The primary objective
+                           of this study was to investigate regionally overlapping longitudinal structural and functional (ALFF) changes
+                           associated with short-term mindfulness meditation training in meditation novices. We hypothesised that the
+                           repeated activation of brain regions corresponding to the brain networks recruited during meditation training
+                           might induce congruent early structural and functional activity changes within relevant circuits. Based on prior
+                           findings, these were hypothesised to concern the default mode network (DMN). We further hypothesised if these
+                           brain changes were associated with potential behavioural changes in depression and anxiety scores. The current
+                           study used the data collected in our previous work15.
+
+                           Results
+                           Demographics and behavioural measures.                  The primary behavioural outcome for the subjects is sum-
+                           marised in Table 1. The sum scores of CES-D reduced significantly (t(13) = 4.402; p < 0.001), controlled for mul-
+                           tiple comparisons. STAI scores (trait anxiety) reduced significantly (t(13) = 2.73; p < 0.01).
+                               The demographic and exploratory behavioural information for the subjects is summarised in Table 2. No
+                           significant change in the POMS sub-scores was observed. The FFMQ factor – non-reactivity to inner experience
+                           significantly increased after meditation training (t(13) = 6.2; p < 0.001, uncorrected for multiple comparisons).
+
+                           Structural whole cortex analysis: cortical thickness changes following mindfulness medita-
+                           tion. Regional cortical thickness increased significantly (PC1) in the left precuneus (MNI coordinates at
+
+Scientific Reports |   (2019) 9:10977 | https://doi.org/10.1038/s41598-019-47470-4                                                             2
+www.nature.com/scientificreports/                                                                    www.nature.com/scientificreports
+
+
+                                                                             TP1 (mean ± standard TP2 (mean ± standard
+                                                                             deviation)           deviation)
+                            Age (years)                                      24.53 (±5.90)        24.64 (±5.90)
+                            The males-to-females ratio                       4/10                 4/10
+                            Minutes of meditation practice a day             0                    10.84 (±8.41)
+                            Total number of meditation days until scanning   0                    39.23 (±3.63)
+                            Total number of minutes of meditation practice
+                                                                             0                    423.41 (±30.56)
+                            until scanning
+                            POMS, Anger (−)                                  2.64 (±3.71)         3.07 (±5.90)
+                            POMS, Fatigue (−)                                4.57 (±2.77)         3.43 (±4.50)
+                            POMS, Vigour (+)                                 11.85 (±5.11)        12.50 (±5.19)
+                            POMS, Friendliness (+)                           18.28 (±3.72)        19.14 (±4.27)
+                            POMS, Tension (−)                                7.64 (±3.49)         5.07 (±5.12)
+                            POMS, Depression (−)                             3.85 (±3.79)         4.21 (±7.82)
+                            FFMQ, non-reactivity to inner experience         4.55 (±0.83)         6.10 (±1.19)***
+                            FFMQ, observing                                  5.94 (±1.42)         6.48 (±1.68)
+                            FFMQ, acting with awareness                      4.12 (±1.38)         3.99 (±0.94)
+                            FFMQ, describing                                 4.74 (±0.48)         4.93 (±1.41)
+                            FFMQ, non-judgeing of experience                 4.56 (±1.09)         4.92 (±0.86)
+
+                           Table 2. Subject demographic and exploratory behavioural measures. Group mean and standard deviation
+                           are listed. The mean values (standard deviation) for each variable are shown before (TP1) and after (TP2) the
+                           mindfulness training. POMS, Profile of Mood States; FFMQ, Five Facet Mindfulness Questionnaire. Significant
+                           group differences: ∗∗∗significant at p < 0.001, ∗∗significant at p < 0.01. (+): positive mood state factor, (−):
+                           negative mood state factor.
+
+
+
+
+                           Figure 1. Whole brain pre-post cortical thickness changes (PC1: percent thickness change). Significant regional
+                           increases in cortical thickness following mindfulness meditation training in the left precuneus (−12.7, −72.9,
+                           40.7; shown in yellow) and left superior parietal lobule (−8.8, −89.2, 21.4; shown in red; p < 0.05, corrected
+                           by Monte Carlo simulation). Colorbar shows the false-positive rate (-log10(p)): thresholds of −3, −1.3, 1.3, 3
+                           correspond to p-values of −0.001, −0.05, 0.05, 0.001.
+
+
+
+                           peak vertex: [−12.7, −72.9, 40.7]; cluster-wise p = 0.0003) and the left superior parietal lobule (peak vertex at
+                           [−8.8, −89.2, 21.4]; cluster-wise p = 0.01641), corrected for multiple comparisons using Monte Carlo Simulation
+                           (Fig. 1).
+
+                           Whole brain ALFF analysis result: ALFF changes after mindfulness meditation.                           For the func-
+                           tional resting state fluctuations, we found that ALFF decreased after meditation training in the left PCC/precu-
+                           neus and, in addition to the structural findings, also in the bilateral IPL (p < 0.05, FDR-corrected, Fig. 2a).
+
+                           Post hoc correlation analysis results. Correlations between the whole brain percentage cortical thickness
+                           changes and ALFF with significantly changing behavioural scores (CES-D, STAI-trait) were performed.
+
+
+
+Scientific Reports |   (2019) 9:10977 | https://doi.org/10.1038/s41598-019-47470-4                                                           3
+www.nature.com/scientificreports/                                                              www.nature.com/scientificreports
+
+
+
+
+                           Figure 2. (a) Longitudinal ALFF decreases after mindfulness meditation training (TP1 > TP2): Left IPL (left
+                           angular gyrus), left PCC/precuneus and right IPL (right supramarginal) were found (FDR-corrected, p < 0.05).
+                           Colorbar shows the t-values. (b) Post hoc correlation of the mean ALFF at the left PCC/precuneus with CES-D.
+                           Decreased ALFF at the left PCC/precuneus was found to positively correlate with the reduction of depression
+                           score (CES-D), p = 0.024, r = 0.619.
+
+
+
+
+                           Figure 3. Post hoc correlations of cortical thickness changes with the delta STAI trait score. The delta STAI
+                           trait scores negatively correlate with the percent thickness change in the left inferior temporal gyrus (Monte
+                           Carlo Simulation-corrected. p < 0.05). r = −0.86, p = 0.001. Colorbar shows the false-positive rate (−log10(p)):
+                           thresholds of −3, −1.3, 1.3, 3 correspond to p-values of −0.001, −0.05, 0.05, 0.001.
+
+
+
+                               On a whole brain level, changes in STAI trait scores were negatively correlated with the percentage thickness
+                           changes in the left inferior temporal gyrus (Monte Carlo-corrected, p < 0.05, Fig. 3). For ALFF, there was no
+                           whole-brain corrected correlation of the meditation-induced changes and changes in behavioural scores.
+                               Given the regional effects on PCC/precuneus, we extracted the delta mean ALFF values at the left PCC/precu-
+                           neus and correlated these with the delta CES-D and delta STAI-trait scores, respectively. We observed a negative
+                           correlation with delta CES-D: p = 0.024, r = 0.619 (Fig. 2b). Likewise, no significant correlations with these var-
+                           iables were observed at the baseline ALFF. When extracting cortical thickness in precuneus, no correlation with
+                           either score was found.
+
+                           Discussion
+                           In the present longitudinal study, we investigated both the structural and ALFF changes following 40-day
+                           short-term mindfulness meditation training and their relationship with the mood effects of the practice. The
+                           results centred on the parietal cortex with a relative increase in cortical thickness in the left precuneus, which
+                           significantly showed decreased ALFF. Furthermore, these decreases were stronger for those subjects who also
+                           showed the most reductions in depression symptoms. Additional findings concerned the upper left parietal cortex
+                           and bilateral IPL, where the cortical thickness increase in the left inferior temporal gyrus correlated with STAI
+                           reductions after 40 days.
+                               Our findings of structural changes following the meditation training period confirmed our hypothesis about
+                           directionality based on previous results. In our study, greater thickness was observed in the left superior parietal
+                           cortex and left precuneus. A previous study demonstrated increased cortical thickness, but focuses on multiple
+                           prefrontal areas and insula regions19. In that study, however, the authors reported a cross-sectional increase with
+                           a long-term meditators cohort relative to meditation-naïve controls. In other cross-sectional studies, once again
+                           greater cortical thickness has been observed at the prefrontal cortex14,29 and in insula regions14 for the meditation
+                           group compared to the matched controls. The focus of the effects on the parietal cortex, as found in our study,
+
+
+
+Scientific Reports |   (2019) 9:10977 | https://doi.org/10.1038/s41598-019-47470-4                                                            4
+www.nature.com/scientificreports/                                                              www.nature.com/scientificreports
+
+
+                           has to be considered in contrast to other studies. In principle, one may assume two major potential sources of this
+                           difference, one related to the investigated modalities and another to the varying experimental conditions. Most of
+                           the studies performed to date have used grey matter volumetric analyses which, in contrast to our cortical thick-
+                           ness measures, may have biased the findings; e.g. towards subcortical areas. However, thickness changes have also
+                           been reported that have also focused on prefrontal or insula areas. Particularly the study by Santarnecchi et al.
+                           also applied MBSR training over 8 weeks, so the differences would have been considered minimal. Nevertheless
+                           in their study, no significant effects were found in the precuneus, but strong effects were noted in the insula and
+                           somatosensory cortices instead25. Furthermore, rather than using surface-based methods, those authors used
+                           voxel-based cortical thickness measures25. While the sources of varying structural changes in comparison to
+                           previous studies cannot be entirely identified, the current structural findings seem, however, plausible given their
+                           spatial overlap with accompanying functional changes.
+                               Our previous study showed functional brain changes by employing resting-state functional connectivity
+                           (RSFC) and regional homogeneity (ReHo) measures after short-term mindfulness meditation training15. Rs-fMRI
+                           has been extensively used in recent years for investigating the neural correlates associated with mindfulness med-
+                           itation training12,15,30–33. By employing ALFF measures in the present study, we found the decreased intensity of
+                           low-frequency oscillations in regions of the DMN (PCC/precuneus and bilateral IPL) after mindfulness training.
+                           Differential ALFF results have been observed in major depressive disorders (MDD) patients34–36. Increased ALFF
+                           in IPL has been found in MDD patients compared to healthy controls36. It is noteworthy that an rs-fMRI study by
+                           Sheline et al. has reported hyper-connectivity in the DMN for MDD subjects37.
+                               Other than in structural studies, the functional activity and connectivity of precuneus and superior parietal
+                           cortices are more frequently reported in meditation studies. The superior parietal cortex is related to attentional
+                           function developed during the practice of mindfulness meditation30. In the precuneus, self-referential processing
+                           is associated with increased functional activity38, which decreases during mindful self-awareness39. Likewise,
+                           an altered RSFC of the superior parietal and precuneus has been observed in several previous meditation stud-
+                           ies15,40,41. Superior parietal changes overlap with previously reported cortical thickness changes in Zen medi-
+                           tators42. Furthermore, these findings extend our prior work based on the same subjects, in which we showed
+                           that FC during meditation practice increased in the precuneus when compared to the baseline RSFC15. In a
+                           meta-analysis on the structural effects of meditation, the precuneus emerged as a region of structural heteroge-
+                           neities in meditation practitioners24. Fox et al. suggested that the structural connectivity between the precuneus
+                           and areas of the attentional network, e.g. the superior parietal lobe, may be mediated by changes in the structural
+                           white matter at the superior longitudinal fasciculus after brief meditation training. Therefore, increments in cor-
+                           tical thickness in the superior parietal and precuneus after short-term meditation training may be caused by other
+                           structural changes in white matter connectivity as well as FC during the mindfulness state as a practice effect after
+                           brief mindfulness meditation.
+                               Structural and functional changes were accompanied by reductions in depression scores and anxiety traits. To
+                           reveal an indication of the interrelation of behavioural and brain effects of meditation, we correlated the signifi-
+                           cant changes in the behavioural scores from the questionnaires (CES-D, STAI-trait) with brain changes in both
+                           dimensions. The precuneus was revealed in both structural and functional findings, and the PCC/precuneus also
+                           showed decreased ALFF, which correlated directly with the CES-D reductions. The relation between precuneus
+                           resting state behaviour and depression symptoms has been demonstrated in many studies, mostly in depressed
+                           cohorts43,44. Here we show that the PCC/precuneus, in its intrinsic fluctuation amplitudes, is also related to vary-
+                           ing subclinical expressions of depressive symptomatology and their modulation by mindfulness meditation train-
+                           ing, which has per se been demonstrated to act on depressive symptoms45. Interestingly, while we did also observe
+                           structural changes in the precuneus, they did not correlate with the amount of CES-D reductions. Furthermore,
+                           no other region correlated with this effect at the whole brain level, which places the co-occurrence of the struc-
+                           tural and functional findings in a more complex picture. One could interpret the divergence of correlations as
+                           being indicative of stronger, more sensitive effects in the functional domain. However, it is necessary to note that
+                           for the other behavioural effect, namely reduced anxiety, we found correlation with the thickness increases in the
+                           inferior temporal gyrus.
+                               Taken together, the longitudinal changes seemed to show a regional overlap in the precuneus, which in itself
+                           may indicate true neuronal effects observed across modalities, while their interindividual covariations with the
+                           behaviour consequences of mindfulness meditation training support the notion of a brain-wide network affected
+                           by the multitude of functional effects. Investigating this divergence and identifying the potential driving mech-
+                           anisms may explain why effects on STAI reductions were found at different locations and in a distinct modality
+                           from that for the functional changes associated with CES-D. It will be necessary to perform an analysis in a larger
+                           new cohort with a control group that allows the inclusion of potential mediating variables and the control of other
+                           relevant factors, as well as potentially varying signal-to-noise ratios for our observed effects.
+                               Along these lines, it should be noted that the findings in this study also need to be considered in their respec-
+                           tive limitations. The small sample size (n = 14) limits the generalizability of current findings. Another limitation
+                           is that we did not recruit a control group and, therefore, these results have to be interpreted with caution. Future
+                           longitudinal RCT studies in mindfulness meditation would be of interest. Our study showed longitudinal changes
+                           in a single sample of meditation trainees across imaging modalities, which is its main contribution compared to
+                           cross-sectional studies with a control group. To establish exact effect sizes and to support generalisability, our
+                           study would have to be replicated in a larger sample, including a control condition. In this study we applied scrub-
+                           bing as the head motion regressor in functional data preprocessing, and we also performed analyses without using
+                           scrubbing, which is provided in the Supplementary Materials (see the Supplementary Materials). Furthermore,
+                           the pre- and post- head motion parameters are also provided (see the Supplementary Materials).
+                               In summary, we found that 40 days mindfulness meditation practice leads to a reduction of subclinical depres-
+                           sion symptomatology, which is correlated with reduced resting state fluctuations in the precuneus, a region in
+
+
+Scientific Reports |   (2019) 9:10977 | https://doi.org/10.1038/s41598-019-47470-4                                                            5
+www.nature.com/scientificreports/                                                               www.nature.com/scientificreports
+
+
+                           which cortical increase following meditation has been observed in the same sample. This mechanism falls well in
+                           line with previous investigations on ALFF in depression and mindfulness meditation but needs to be placed in a
+                           more complex picture of a network-wide effect with additional structural changes in temporal regions in associa-
+                           tion with anxiety. Therefore, we conclude that functional and structural effects, despite regional overlapping, may
+                           capture different components of the complex action of mindfulness meditation training.
+
+                           Materials and Methods
+                           The current analysis focuses on the structural and functional dataset which the functional data have been previ-
+                           ously investigated for resting-state functional connectivity15. As such the reported parameters on subject inter-
+                           vention and data acquisition are identical, while the analysis differs in terms of the analysed modalities and
+                           respective phenomena.
+
+                           Subjects. Fourteen university students (native Spanish speakers) were enrolled to be involved in a 40-day
+                           mindfulness meditation training course. All the experiment protocols were approved by the local Ethics
+                           Committee of the Institutional Review Board of the Universitat Jaume I of Castellon (Spain). Informed consent
+                           was in accordance with the Declaration of Helsinki. The guidelines of the local Ethics Committee on research
+                           involving human participants were collected from all the participants prior to inclusion. All the subjects were
+                           screened by psychologists for the absence of any neurological or psychiatric disorder before being enrolled.
+                           Subjects reported no previous participation in meditation courses or training. All the participants except one had
+                           been reported in our previous study15, who was excluded due to excessive head movement during MR acquisition.
+
+                           Mindfulness meditation training. As described in our previous work15, the mindfulness meditation pro-
+                           gramme was structured as an 8-week training programme consisting of 45 minutes of daily home practice. The
+                           self-observation-based mindfulness meditation training programme was designed using the MBSR programme1,
+                           as well as acceptance and commitment therapy46. Training consisted of a 1.5-hour weekly session over an 8-week
+                           period. During the first hour of the session, the subjects had to perform simple physical and breathing exercises,
+                           during which Vipassana meditation was practiced by focusing their attention on thoughts without dwelling on
+                           them. Afterwards, the participants had to remain silent and witness their thoughts without centring on them.
+                           During the next sessions, the time allotted to meditation training was gradually increased without physical exer-
+                           cises. During the remaining half hour of the session, the participants were requested to share their experiences
+                           and were shown short videos that explained the most significant aspects of meditation and self-observation train-
+                           ing. They were also encouraged to continue their daily meditation practice at home. The course instructor gave a
+                           meditation journal to each participant to keep track of their daily practice routine and to write down their expe-
+                           riences. Table 2 details the participants’ age, gender and amount of meditation practice.
+
+                           Behavioural measurements. Three self-assessment questionnaires were given to subjects at time points
+                           TP1 and TP2. The Center for Epidemiologic Studies Depression Scale (CES-D), which is a 20-item inventory47
+                           was used to evaluate changes in depressive symptoms. The participants were requested to rate statements based on
+                           the previous week on a 4-point Likert scale (0–3) that scored from 0 to 60. Higher scores indicate higher levels of
+                           depression. The State-Trait Anxiety Inventory was also applied, which is a 40-item scale measuring state and trait
+                           anxiety based on a 4-point Likert scale (1–4). Scores range from 20 to 80, and high scores relate to high levels of
+                           anxiety48. This portion of behavioural measurement is from part of our previous work15.
+                              To explore the dimensions of potential effects on mindfulness, we further accessed the mindfulness meas-
+                           ure Five Facet Mindfulness Questionnaire (FFMQ) before and after the meditation training49. Specifically, we
+                           assessed the facets of non-reactivity to inner experience, observation, acting with awareness, describing and
+                           non-judgement of experience. The participants responded on a 9-point Likert-type scale (1 = never or rarely,
+                           9 = almost always or always true) both before (TP1) and after (TP2) meditation training. Higher scores indicates
+                           better mindfulness skills. We also used the Profile of Mood States (POMS), specifically the abbreviated Spanish
+                           version50 of the original POMS51. It is a 44-item inventory that measures current mood state by rating state-
+                           ments on a 5-point Likert scale (0 = not at all, 4 = extremely) and consists of six subscales: anger, fatigue, tension,
+                           depression, vigour and friendliness.
+
+                           MR sequence parameters.            The MR measurements were performed on a 1.5 T Siemens AVANTO scan-
+                           ner (Siemens Erlangen, Germany). The current study used previous data15. Structural images were acquired
+                           with a magnetisation-prepared rapid gradient-echo (MP-RAGE) sequence (TR = 2200 ms, TE = 3.79 ms, flip
+                           angle (FA) = 15°, 160 slices, matrix size = 256 × 256, field-of-view (FOV) = 256 mm × 256 mm, and slice thick-
+                           ness = 1 mm). For resting-state fMRI acquisition, a standard EPI sequence was used (TR = 2300 ms, TE = 55 ms,
+                           FA = 90°, FOV = 224 mm × 224 mm, matrix size = 64 × 64, and slice thickness = 4 mm) with 25 axial slices for
+                           whole brain coverage. Finally, an extra gradient field mapping sequence (GRE field mapping) was acquired, fol-
+                           lowed by another EPI sequence (TR = 487 ms, TE1 = 8 ms, TE2 = 12.76 ms, FA = 65°, FOV = 224 mm × 224 mm,
+                           matrix size = 64 × 64, and slice thickness = 4 mm) with 25 slices with the same coverage used in the first EPI
+                           sequence. GRE field mapping sequence was acquired to correct for field-inhomogeneity artefacts in EPI.
+
+                           Structural data pre-processing pipeline.                Cortical thickness was calculated using FreeSurfer (http://
+                           surfer.nmr.mgh.harvard.edu), version 5.3. T1 MPRAGE images were utilised in FreeSurfer to compute a
+                           3-dimensional model of cortical surface reconstructions. The technical details of the processing procedure are
+                           described in previous publications21,22,52–54.
+                              In short, non-brain tissue removal, automated Talairach transformation, volumetric structures segmenta-
+                           tion21,54, cortical surface inflation to an average spherical surface, intensity normalisation, and automated topol-
+                           ogy correction were executed55,56. Surface deformation was used to detect the most significant intensity shift to
+
+
+Scientific Reports |   (2019) 9:10977 | https://doi.org/10.1038/s41598-019-47470-4                                                              6
+www.nature.com/scientificreports/                                                                           www.nature.com/scientificreports
+
+
+                           calculate the boundary between grey/white matter and the pial surface. GM/WM/CSF segmentation quality was
+                           visually examined in each subject, and the subjects with inaccurate segmentation were then excluded. Each hem-
+                           isphere was parcellated automatically into 74 distinct cortical areas, and the thickness and volume of these brain
+                           regions were calculated57.
+
+                           Longitudinal structural data processing: cortical thickness – longitudinal two-stage model. Vertex-wise analyses
+                           of cortical thickness changes were performed with Freesurfer. Firstly, each subject’s image data were smoothed
+                           by using a Gaussian kernel with an FWHM of 15 mm. To investigate the changes in cortical thickness associated
+                           with mindfulness meditation training, the longitudinalTwoStageModel implemented in FreeSurfer was executed
+                           (https://surfer.nmr.mgh.harvard.edu/fswiki/LongitudinalTwoStageModel59). The first stage reduces the temporal
+                           data within each subject to a single statistic (percent change). The second stage correlates it with a behavioural
+                           covariate59 (see the Post hoc Correlation Analysis).
+                               An inverse consistent registration was utilised to generate an unbiased within-subject template and images58,60.
+                           The reliability and statistical power are significantly increased by using the common information from the
+                           within-subject template to initialise the processing steps (skull stripping, Talairach transforms, atlas registration,
+                           spherical surface maps and parcellations)59.
+                               The quality assurance toolbox (https://surfer.nmr.mgh.harvard.edu/fswiki/QATools) in FreeSurfer was used
+                           to test the quality of the surface reconstruction and segmentation. In order to calculate the cortical thickness
+                           changes after mindfulness training, the percent change (pc1) was used to obtain a cortical measure. PC1 is the
+                           rate of change ((thickness2 - thickness1)/(time2 - time1), unit: mm/year) in relation to the thickness at the first
+                           time point:
+                                                                  (Thickness at TP 2 − Thickness at TP 1)
+                                                                                TP 2 − TP 1                           mm
+                                                          pc1 =                                             (unit :        /mm)
+                                                                         Thickness at TP1                             year
+                               It describes the percentage thickening/thinning at a given cortical location.
+
+                           Rs-fMRI data preprocessing. B0 inhomogeneity correction was performed to reduce static field inhomo-
+                           geneity using an FSL EpiUnwarping tool (http://surfer.nmr.mgh.harvard.edu/fswiki/epidewarp.fsl)61. The similar
+                           rs-fmri data preprocessing procedure was carried out as in our previous publication15. The first 10 images for each
+                           subject were discarded to allow for steady-state longitudinal magnetisation. The remaining images were then
+                           preprocessed by Statistical Parametric Mapping (SPM8, http://www.fil.ion.ucl.ac.uk/spm/) and Data Processing
+                           Assistant for the resting state fMRI (DPARSF Version 4.362). Functional images were slice-time corrected. Motion
+                           correction was performed by using a least squares approach and a six-parameter (rigid body) linear transforma-
+                           tion. One subject was excluded according to the criterion that head motion was restricted to less than 2 mm of
+                           displacement or 2 degrees of rotation in any direction. The frame-wise displacement value (FD_Power) showed
+                           no significant difference between the time points (t = 1.488, p=0.162; see Supplementary Table 1). Spatial nor-
+                           malisation to MNI space was carried out by using the unified segmentation of the T1-weighted acquired images.
+                           The extracted normalisation parameters from segmentation were applied to normalise the functional volumes
+                           for each participant (normalised images were then resampled to 3 mm isotropic voxels). Nuisance variables were
+                           regressed out (head motion parameters, white matter signal, cerebrospinal fluid signal). Scrubbing with regres-
+                           sion strategy was used to reduce the motion effect from the subjects63. The linear trends of the BOLD signals were
+                           regressed.
+
+                           ALFF analysis. We calculated ALFF by using DPARSF v 4.3. The time series for each voxel was first band-pass
+                           filtered (0.01–0.1 Hz) and then fast Fourier-transformed (FFT) to acquire a power spectrum in the frequency
+                           domain. The square root of the power spectrum was obtained and averaged across a frequency of 0.01–0.1 Hz
+                           at each voxel. The averaged square root was then known as ALFF. Furthermore, the ALFF of each voxel for each
+                           participant was divided by the global mean ALFF for standardisation17. Finally, the whole-brain-mean scaled
+                           ALFF maps were smoothed by applying a 6-mm full-width-at-half-maximum (FWHM) Gaussian kernel prior to
+                           the statistical analysis.
+
+                           Statistical analysis. Behavioural data analysis. Changes in the Depression (CES-D) and Anxiety scores
+                           (STAI-state and STAI-trait) were assessed by paired-t tests with significance accepted for Bonferroni corrected at
+                           p < 0.05 for three tests, based on prior publications on antidepressant effects45. To further explore the dimensions
+                           of behavioural effects, the mindfulness questionnaires (FFMQ) and Profiles of Mood States (POMS) question-
+                           naires were assessed for any relevant changes in the respective subscales with no prior hypothesis on an individual
+                           item. The results are considered significant for an uncorrected p < 0.05 at an exploratory level.
+
+                           Structural data analysis. One-sample t-tests were performed by using the percent thickness change as the point
+                           measure. To correct for multiple comparisons, the Monte-Carlo simulation (mc-z; synthesised, smoothed z-field)
+                           within FreeSurfer was used to correct for multiple comparisons. The results were then smoothed by the residual
+                           and repeated for 10000 iterations with a threshold of p < 0.05 (two-tailed).
+
+                           ALFF analysis. A voxel-wise ALFF analysis was performed to assess the whole brain amplitude of low-frequency
+                           fluctuation changes in mindfulness meditation training. A paired t-test was performed to test the whole brain lon-
+                           gitudinal ALFF differences (two-tailed). Multiple comparisons were corrected at an FDR cluster level of p < 0.05
+                           with a conservative initial voxel height threshold of p < 0.001.
+
+
+Scientific Reports |   (2019) 9:10977 | https://doi.org/10.1038/s41598-019-47470-4                                                             7
+www.nature.com/scientificreports/                                                                            www.nature.com/scientificreports
+
+
+                           Post hoc correlation analysis. Regression models (one-sample t-tests) included the percent thickness change
+                           as an independent factor and the above behavioural scores changes as dependent factors. Age and gender were
+                           included as nuisance covariates in all the GLM analyses. Respective multiple comparisons correction was carried
+                           out to correct type I errors.
+                               A post hoc Pearson correlation analysis was also calculated to investigate the relationship between the ALFF
+                           values and behavioural scores (a statistical significance level of p < 0.05 was used). The analysis was done only on
+                           those items from the questionnaires that revealed a significant main effect of intervention. Based on our behav-
+                           ioural results in this study, the cortical thickness and ALFF changes were correlated with the significant changes
+                           in behavioural scores from questionnaires CES-D and STAI-trait.
+
+                           Data Availability
+                           The datasets are available from the corresponding author.
+
+                           References
+                            1. Kabat-Zinn, J. & Clinic, U. of M. M. C. S. R. Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain,
+                               and Illness. (Delta Trade Paperbacks, 1990).
+                            2. Pagnini, F. & Philips, D. Being mindful about mindfulness. The Lancet Psychiatry 2, 288–289 (2015).
+                            3. Slagter, H. A., Davidson, R. J. & Lutz, A. Mental Training as a Tool in the Neuroscientific Study of Brain and Cognitive Plasticity.
+                               Front. Hum. Neurosci. 5 (2011).
+                            4. Ramel, W., Goldin, P. R., Carmona, P. E. & McQuaid, J. R. The effects of mindfulness meditation on cognitive processes and affect in
+                               patients with past depression. Cognit. Ther. Res., https://doi.org/10.1023/B:COTR.0000045557.15923.96 (2004).
+                            5. Hofmann, S. G., Sawyer, A. T., Witt, A. A. & Oh, D. The Effect of Mindfulness-Based Therapy on Anxiety and Depression: A Meta-
+                               Analytic Review. J. Consult. Clin. Psychol., https://doi.org/10.1037/a0018555 (2010).
+                            6. Goyal, M. et al. Meditation programs for psychological stress and well-being: a systematic review and meta-analysis. JAMA Intern
+                               Med 174, 357–68 (2014).
+                            7. Marchand, W. R. Neural mechanisms of mindfulness and meditation: Evidence from neuroimaging studies. World J. Radiol. 6, 471
+                               (2014).
+                            8. Mars, T. S. & Abbey, H. Mindfulness meditation practise as a healthcare intervention: A systematic review. Int. J. Osteopath. Med.,
+                               https://doi.org/10.1016/j.ijosm.2009.07.005 (2010).
+                            9. Davanger, S., Ellingsen, O., Holen, A. & Hugdahl, K. Meditation-specific prefrontal cortical activation during acem meditation: an
+                               fMRI study. Percept. Mot. Skills 111, 291–306 (2010).
+                           10. Farb, N. A. S., Segal, Z. V. & Anderson, A. K. Mindfulness meditation training alters cortical representations of interoceptive
+                               attention. Soc. Cogn. Affect. Neurosci. 8, 15–26 (2013).
+                           11. Hölzel, B. K. et al. Mindfulness practice leads to increases in regional brain gray matter density. Psychiatry Res. Neuroimaging,
+                               https://doi.org/10.1016/j.pscychresns.2010.08.006 (2010).
+                           12. Jang, J. H. et al. Increased default mode network connectivity associated with meditation. Neurosci. Lett. 487, 358–362 (2011).
+                           13. Kang, D. H. et al. The effect of meditation on brain structure: Cortical thickness mapping and diffusion tensor imaging. Soc. Cogn.
+                               Affect. Neurosci. 8, 27–33 (2013).
+                           14. Lazar, S. W. et al. Meditation experience is associated with increased cortical thickness. Neuroreport 16, 1893–1897 (2005).
+                           15. Yang, C. et al. State and Training Effects of Mindfulness Meditation on Brain Networks Reflect Neuronal Mechanisms of Its
+                               Antidepressant Effect. Neural Plast. 2016, 1–14 (2016).
+                           16. Fox, M. D. & Raichle, M. E. Spontaneous fluctuations in brain activity observed with functional magnetic resonance imaging. Nature
+                               Reviews Neuroscience 8, 700–711 (2007).
+                           17. Zang, Y. F. et al. Altered baseline brain activity in children with ADHD revealed by resting-state functional MRI. Brain Dev. 29,
+                               83–91 (2007).
+                           18. Lu, H. et al. Synchronized delta oscillations correlate with the resting-state functional MRI signal. Proc. Natl. Acad. Sci. https://doi.
+                               org/10.1073/pnas.0705791104 (2007).
+                           19. Engen, H. G., Bernhardt, B. C., Skottnik, L., Ricard, M. & Singer, T. Structural changes in socio-affective networks: Multi-modal MRI
+                               findings in long-term meditation practitioners. Neuropsychologia, https://doi.org/10.1016/j.neuropsychologia.2017.08.024 (2017).
+                           20. Ashburner, J. & Friston, K. J. Voxel-Based Morphometry—The Methods. Neuroimage 11, 805–821 (2000).
+                           21. Fischl, B. et al. Automatically Parcellating the Human Cerebral Cortex. Cereb. Cortex 14, 11–22 (2004).
+                           22. Fischl, B. & Dale, A. M. Measuring the thickness of the human cerebral cortex from magnetic resonance images. Proc. Natl. Acad.
+                               Sci. 97, 11050–11055 (2000).
+                           23. Yang, H. et al. Neurochemical and neuroanatomical plasticity following memory training and yoga interventions in older adults
+                               with mild cognitive impairment. Front. Aging Neurosci. 8, 1–9 (2016).
+                           24. Fox, K. C. R. et al. Is meditation associated with altered brain structure? A systematic review and meta-analysis of morphometric
+                               neuroimaging in meditation practitioners. Neuroscience and Biobehavioral Reviews 43, 48–73 (2014).
+                           25. Santarnecchi, E. et al. Interaction between neuroanatomical and psychological changes after mindfulness-based training. PLoS One
+                               9, 1–9 (2014).
+                           26. Pickut, B. A. et al. Mindfulness based intervention in Parkinson’s disease leads to structural brain changes on MRI: A randomized
+                               controlled longitudinal trial. Clin. Neurol. Neurosurg. 115, 2419–2425 (2013).
+                           27. Tang, Y. et al. Short-term meditation induces white matter changes in the anterior cingulate. 107, 15649–15652 (2010).
+                           28. Hernández, S., Suero, J., Barros, A. & Rubia, K. Increased grey matter associated with long-Term Sahaja yoga meditation: A voxel-
+                               based morphometry study. PLoS One 11, 1–16 (2016).
+                           29. Afonso, R. F. et al. Greater cortical thickness in elderly female yoga practitioners-A cross-sectional study. Front. Aging Neurosci.,
+                               https://doi.org/10.3389/fnagi.2017.00201 (2017).
+                           30. Creswell, J. D. et al. Alterations in resting-state functional connectivity link mindfulness meditation with reduced interleukin-6: A
+                               randomized controlled trial. Biol. Psychiatry 80, 53–61 (2016).
+                           31. Froeliger, B. et al. Meditation-state functional connectivity (msFC): Strengthening of the dorsal attention network and beyond.
+                               Evidence-based Complement. Altern. Med., https://doi.org/10.1155/2012/680407 (2012).
+                           32. Hasenkamp, W. & Barsalou, L. W. Effects of Meditation Experience on Functional Connectivity of Distributed Brain Networks.
+                               Front. Hum. Neurosci. 6 (2012).
+                           33. Taylor, V. A. et al. Impact of meditation training on the default mode network during a restful state. Soc. Cogn. Affect. Neurosci.,
+                               https://doi.org/10.1093/scan/nsr087 (2013).
+                           34. Chen, V. C.-H. et al. Assessment of brain functional connectome alternations and correlation with depression and anxiety in major
+                               depressive disorders. PeerJ 5, e3147 (2017).
+                           35. Wang, L. et al. Amplitude of Low-Frequency Oscillations in First-Episode, Treatment-Naive Patients with Major Depressive
+                               Disorder: A Resting-State Functional MRI Study. PLoS One 7, 1–10 (2012).
+
+
+
+Scientific Reports |   (2019) 9:10977 | https://doi.org/10.1038/s41598-019-47470-4                                                                                    8
+www.nature.com/scientificreports/                                                                          www.nature.com/scientificreports
+
+
+                           36. Xu, Z. et al. Altered resting-state brain activities in drug-naïve major depressive disorder assessed by fMRI: Associations with
+                               somatic symptoms defined by Yin-Yang theory of the traditional Chinese Medicine. Front. Psychiatry 9, 1–10 (2018).
+                           37. Sheline, Y. I., Price, J. L., Yan, Z. & Mintun, M. A. Resting-state functional MRI in depression unmasks increased connectivity
+                               between networks via the dorsal nexus. Proc. Natl. Acad. Sci., https://doi.org/10.1073/pnas.1000446107 (2010).
+                           38. Herwig, U., Kaffenberger, T., Jäncke, L. & Brühl, A. B. Self-related awareness and emotion regulation. Neuroimage 50, 734–741
+                               (2010).
+                           39. Lutz, J. et al. Altered processing of self-related emotional stimuli in mindfulness meditators. Neuroimage 124, 958–967 (2016).
+                           40. Garrison, K. A., Scheinost, D., Constable, R. T. & Brewer, J. A. BOLD signal and functional connectivity associated with loving
+                               kindness meditation. Brain Behav. 4, 337–347 (2014).
+                           41. Shao, R., Keuper, K., Geng, X. & Lee, T. M. C. Pons to Posterior Cingulate Functional Projections Predict Affective Processing
+                               Changes in the Elderly Following Eight Weeks of Meditation Training. EBioMedicine 10, 236–248 (2016).
+                           42. Grant, J. A., Courtemanche, J., Duerden, E. G., Duncan, G. H. & Rainville, P. Cortical Thickness and Pain Sensitivity in Zen
+                               Meditators. Emotion 10, 43–53 (2010).
+                           43. Li, G. Resting-state functional changes in the precuneus within first-episode drug-naive patients with MDD. Neuropsychiatr. Dis.
+                               Treat. 1991–1998 (2018).
+                           44. Peng, D. et al. Dissociated large-scale functional connectivity networks of the precuneus in medication-naïve first-episode
+                               depression. Psychiatry Res. – Neuroimaging, https://doi.org/10.1016/j.pscychresns.2015.03.003 (2015).
+                           45. Marchand, W. R. Mindfulness-based stress reduction, mindfulness-based cognitive therapy, and zen meditation for depression,
+                               anxiety, pain, and psychological distress. Journal of Psychiatric Practice, https://doi.org/10.1097/01.pra.0000416014.53215.86 (2012).
+                           46. Hayes, S. C. et al. Acceptance and commitment therapy: model, processes and outcomes. Behav. Res. Ther. 44, 1–25 (2006).
+                           47. Radloff, L. S. The CES-D Scale: A Self-Report Depression Scale for Research in the General Population. Appl. Psychol. Meas. 1,
+                               385–401 (1977).
+                           48. Spielberger, C. D., Gorsuch, R. L., Lushene, P. R., Vagg, P. R. & Jacobs, A. G. Manual for the State-Trait Anxiety Inventory (Form Y).
+                               Manual for the statetrait anxiety inventory STAI, https://doi.org/10.1007/978-1-4419-9893-4 (1983).
+                           49. Baer, R. A., Smith, G. T., Hopkins, J., Krietemeyer, J. & Toney, L. Using Self-Report Assessment Methods to Explore Facets of
+                               Mindfulness. Assessment 13, 27–45 (2006).
+                           50. Andrade, E. et al. Factor structure and invariance of the POMS Mood State Questionnaire in Spanish. Span. J. Psychol. 13, 444–452
+                               (2010).
+                           51. McNair, D. M., Lorr, M. & Droppleman, L. F. Profile of Mood States (POMS). Educational and Industrial Testing Services, https://doi.
+                               org/10.1007/978-1-4419-9893-4_68 (1971).
+                           52. Dale, A. M., Fischl, B. & Sereno, M. I. Cortical surface-based analysis: I. Segmentation and surface reconstruction. Neuroimage 9,
+                               179–194 (1999).
+                           53. Desikan, R. S. et al. An automated labeling system for subdividing the human cerebral cortex on MRI scans into gyral based regions
+                               of interest. Neuroimage 31, 968–980 (2006).
+                           54. Fischl, B. et al. Whole brain segmentation: Automated labeling of neuroanatomical structures in the human brain. Neuron 33,
+                               341–355 (2002).
+                           55. Fischl, B., Liu, A. & Dale, A. M. Automated manifold surgery: Constructing geometrically accurate and topologically correct models
+                               of the human cerebral cortex. IEEE Trans. Med. Imaging 20, 70–80 (2001).
+                           56. Ségonne, F., Pacheco, J. & Fischl, B. Geometrically accurate topology-correction of cortical surfaces using nonseparating loops. IEEE
+                               Trans. Med. Imaging 26, 518–529 (2007).
+                           57. Destrieux, C., Fischl, B., Dale, A. & Halgren, E. Automatic parcellation of human cortical gyri and sulci using standard anatomical
+                               nomenclature. Neuroimage 53, 1–15 (2010).
+                           58. Reuter, M., Rosas, H. D. & Fischl, B. Highly accurate inverse consistent registration: A robust approach. Neuroimage, https://doi.
+                               org/10.1016/j.neuroimage.2010.07.020 (2010).
+                           59. Reuter, M., Schmansky, N. J., Rosas, H. D. & Fischl, B. Within-subject template estimation for unbiased longitudinal image analysis.
+                               Neuroimage, https://doi.org/10.1016/j.neuroimage.2012.02.084 (2012).
+                           60. Reuter, M. & Fischl, B. Avoiding asymmetry-induced bias in longitudinal image processing. NeuroImage, https://doi.org/10.1016/j.
+                               neuroimage.2011.02.076 (2011).
+                           61. Smith, S. M. et al. Advances in functional and structural MR image analysis and implementation as FSL. In NeuroImage 23 (2004).
+                           62. Yan, C. G., Wang, X. D., Zuo, X. N. & Zang, Y. F. DPABI: Data Processing & Analysis for (Resting-State) Brain Imaging.
+                               Neuroinformatics 14, 339–351 (2016).
+                           63. Yan, C. et al. A comprehensive assessment of regional variation in the impact of head micromovements on functional connectomics.
+                               Neuroimage 111, 183–201 (2013).
+
+                           Acknowledgements
+                           This study was supported by Grants UJI-B2016-21 from the Plan de Promoción de la Investigación de la
+                           Universitat Jaume I to Alfonso Barrós-Loscertales, PSI2016-78805-R from the Spanish Ministry of Economy
+                           and Competitiveness to César Ávila and from the Deutsche Forschungsgemeinschaft to Martin Walter (DFG-
+                           SFB779).
+
+                           Author Contributions
+                           C.C.Y. collected and processed the data and wrote the manuscript. A.B.L. designed and supervised the experiment,
+                           and wrote the manuscript. M.L. assisted the cortical thickness data analysis and reviewed the manuscript. D.P.
+                           contributed to the mindfulness meditation training programme. V.B. reviewed the manuscript. C.A. supervised
+                           and reviewed the manuscript. M.W. supervised the study and wrote the manuscript. All the authors contributed
+                           to write the manuscript.
+
+                           Additional Information
+                           Supplementary information accompanies this paper at https://doi.org/10.1038/s41598-019-47470-4.
+                           Competing Interests: The authors declare no competing interests.
+                           Publisher’s note: Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+                           institutional affiliations.
+
+
+
+
+Scientific Reports |   (2019) 9:10977 | https://doi.org/10.1038/s41598-019-47470-4                                                                                 9
+www.nature.com/scientificreports/                                                             www.nature.com/scientificreports
+
+
+                                         Open Access This article is licensed under a Creative Commons Attribution 4.0 International
+                                         License, which permits use, sharing, adaptation, distribution and reproduction in any medium or
+                           format, as long as you give appropriate credit to the original author(s) and the source, provide a link to the Cre-
+                           ative Commons license, and indicate if changes were made. The images or other third party material in this
+                           article are included in the article’s Creative Commons license, unless indicated otherwise in a credit line to the
+                           material. If material is not included in the article’s Creative Commons license and your intended use is not per-
+                           mitted by statutory regulation or exceeds the permitted use, you will need to obtain permission directly from the
+                           copyright holder. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/.
+
+                           © The Author(s) 2019
+
+
+
+
+Scientific Reports |   (2019) 9:10977 | https://doi.org/10.1038/s41598-019-47470-4                                                        10
+                    © 2019. This work is published under
+ http://creativecommons.org/licenses/by/4.0/(the “License”). Notwithstanding
+the ProQuest Terms and Conditions, you may use this content in accordance
+                       with the terms of the License.
+

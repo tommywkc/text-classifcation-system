@@ -1,0 +1,892 @@
+                                         International Journal of Hospitality Management 108 (2023) 103357
+
+                                                     Contents lists available at ScienceDirect 
+
+                              International Journal of Hospitality Management 
+
+                                              journal homepage: www.elsevier.com/locate/ijhm 
+
+
+The Effect of COVID-19 on hotel booking intentions: Investigating the roles 
+of message appeal type and brand loyalty 
+
+Yongwook Ju       a,*, SooCheong (Shawn) Jang            a 
+
+a White Lodging-J.W. Marriott, Jr. School of Hospitality and Tourism Management Purdue University, Marriott Hall, 900 W. State Street, West Lafayette, IN 47907, USA   
+
+
+ARTICLE INFO                                  ABSTRACT  
+
+Keywords:                                     The unprecedented global health concerns pertaining to COVID-19 have impacted the hotel industry. In order to 
+COVID-19                                      ameliorate such concerns, hotels are sending out marketing communication messages. However, whether the 
+Consumer behavior                             messages effectively impact hotel consumers’ behaviors is still unknown. To fill this research gap, this study 
+Rational appeal 
+                                              empirically tested the effect that the perceived severity of COVID-19 (PSC) has on hotel booking intentions as 
+Emotional appeal 
+                                              well as the roles of message appeal type (rational vs. emotional) and brand loyalty. The data was collected using 
+Brand loyalty 
+                                                                             =
+Hotel booking intention                       a scenario-based online survey (n 311) and analyzed using hierarchical multiple regression. The rational 
+                                              appeal type had a greater positive influence on hotel booking intentions, which suggests that it is preferable for 
+                                              COVID-19 related messages. The results also indicated that PSC had a negative influence on booking intentions 
+                                              for the low loyalty group, and brand loyalty still played a key role even amidst the COVID-19 crisis.   
+
+
+1. Introduction                                                            context? 
+                                                                              Traditionally, marketing communication messages have often been 
+   What word better describes the impact of the current COVID-19 crisis    categorized into two appeal  types: rational and emotional. This cate­
+on the lodging industry than unprecedented? An executive report by the     gorization is referred to as the emotional  and  rational appeal type 
+American  Hotel  and Lodging  Association (AHLA)  published  amid  the     framework and has frequently been adopted to investigate the potential 
+COVID-19 pandemic showed its devastating effects on the lodging in­        outcomes  of  messages  (Albers-Miller and  Stafford, 1999b).  As  an 
+dustry. In 2020, 65 % of hotels had an occupancy rate of 50 % or less,     example, a study by Albers-Miller and Stafford (1999a) examined the 
+and the unemployment rate in the lodging industry was approximately        frequency  of appeal  types used  in advertisements  and  found   that 
+38 %. Further, only 38 % of U.S. consumers were considering traveling      emotional appeals  were utilized more  for experiential services, while 
+(AHLA, 2020). Even now that the world is months into adapting to this      rational appeals were frequently used for utilitarian services. In fact, a 
+new normal, the occupancy rate for 2021 is still only a little over 50 %   handful of empirical studies revealed that the emotional  appeal type 
+(ALHA, 2021).                                                              works better for the hospitality industry. A study conducted by Zhang 
+   In a desperate attempt to bring back guests to fill their rooms and     et al. (2014) revealed that the emotional  appeal type  had a greater 
+survive, hotel brands have been sending out COVID-19 related messages      positive influence on purchase intentions for restaurants, whereas the 
+to their consumers via their brand websites, emails, and social media      rational appeal type generated more booking intentions for dentists. For 
+pages. Although it would be ideal if sending just any type of message      the lodging industry, the emotional appeal type had the highest adver­
+could persuade potential customers, how consumers perceive commu­          tising effectiveness (Mattila, 1999) and yielded higher brand attitudes 
+nication messages could differ based on various factors, including the     and purchase intentions (Mattila, 2001). However, the results of extant 
+receiver’s involvement  and  motivation  (Petty and Cacioppo,  1986).      studies regarding appeal type also showed that the effectiveness of each 
+Further, certain types of messages are expected to have a greater influ­   message  appeal type varied based  on the context, including medium 
+ence on behavioral intentions than others (Andrews and Shimp, 1990).       (Stafford and Day, 1995) and price (Burman et al., 2017). 
+Given  that concerns regarding COVID-19   could  influence the persua­        In the COVID-19 context, people’s perceptions of the risks associated 
+siveness of marketing communication messages, an important question        with COVID-19 are generally high (Dryhurst et al., 2020). The elabo­
+arises: Which message appeal type is more effective in the COVID-19        ration likelihood model (ELM) suggests that consumers tend to be more 
+
+
+ * Corresponding author. 
+   E-mail addresses: ju11@purdue.edu (Y. Ju), jang12@purdue.edu (S.(S. Jang).  
+
+https://doi.org/10.1016/j.ijhm.2022.103357 
+Received 28 March 2021; Received in revised form 27 September 2022; Accepted 3 October 2022   
+Available online 7 October 2022
+0278-4319/© 2022 Elsevier Ltd. All rights reserved.
+Y. Ju and S.(S. Jang                                                                                                                                                     International                    Journal            of     Hospitality                 Management                   108 (2023) 103357
+
+engaged in the central route when they have the motivation and ability     influence it has on consumer  behaviors when   a global health-related 
+to process information (Petty and Cacioppo, 1986). Hence, it is likely     crisis, such as the COVID-19 pandemic, is present. 
+that consumers  would  have  a higher  level of elaboration when  pro­
+cessing COVID-19   related marketing  communication    messages  from      2. Literature review 
+hotel brands. Given this unique context and the variability in the extant 
+literature, an empirical study is needed to investigate the effectiveness of 2.1. Perceived severity of COVID-19 (PSC) 
+message appeal types in the context of COVID-19. 
+   Existing studies regarding consumers’ health-related behaviors have        In the lodging context, how do people behave when health-related 
+almost exclusively been  conducted  in tourism and  restaurants in the     concerns  are factored into their decision-making   processes? Before 
+hospitality and tourism context. Accordingly, although COVID-19 has        COVID-19, this question seemed irrelevant to the lodging industry since 
+had  a devastating impact  on the lodging industry, it has provided  a     there had never  been a situation in which  consumer  behaviors  were 
+unique context in which consumers’ health-related behaviors could be       critically impacted due to a global health-related concern. However, 
+examined in a lodging industry setting. The health belief model (HBM),     given that the pandemic has significantlyimpacted  the lodging industry, 
+which is one of the most widely adopted health-related behavior models,    it is necessary to build an underlying rationale to understand consumer 
+states that how serious and susceptible people perceive a disease to be    behaviors in this context. Reflectingthe  massive impact that the COVID- 
+influencestheir  behaviors (Rosenstock, 1974). However, the model has      19 crisis has had on the hospitality industry, there has been an influxof  
+only been  adopted   in the restaurant context, and  previous  studies     COVID-19   related research in hospitality and tourism-related studies. 
+discovered that the perceived severity of a disease—specifically, food­    The existing research seems to mainly focus on the industry-wide impact 
+borne  illness—negatively influences future behavioral intentions (Ali     (Alonso et al., 2020), assessing the implications of prevention measures 
+et al., 2019; Harris et al., 2018). Hence, there is a need for academic    (Hu et al., 2021), investigating the effect on the labor market (Baum 
+studies that investigate the influence of customers’ concerns regarding    et al., 2020; Filimonau et al., 2020; Huang  et al., 2020), testing the 
+COVID-19 and its possible effects on consumer behaviors in the lodging     relationship between tourism and outbreaks (Farzanegan et al., 2021), 
+context.                                                                   and providing future research directions and agendas (Hao et al., 2020; 
+   In addition, the importance of loyalty has been studied in various      Jiang and Wen, 2020; Zenker and Kock, 2020). 
+hospitality and tourism-related contexts (e.g., Shoemaker  and  Lewis,        It is evident from lodging industry reports that the threat of COVID- 
+1999; Kandampully et al., 2015; Tanford, 2016; Tepeci, 1999). Specif­      19 influenced consumers’  decision-making  regarding  purchasing  lod­
+ically, consumer brand  loyalty has been proven to work  like a magic      ging accommodation services. Previous epidemic-related studies found 
+wand  and  is closely related to various positive outcomes, including      that the perceived severity was high for similar diseases, such as severe 
+repurchase  intentions (Chi and  Yeh, 2009;  Oliver, 1999). However,       acute respiratory syndrome (Kwok et al., 2020; De Zwart et al., 2009). 
+given  that the COVID-19   era  is often described as  unprecedented,      Dryhurst et al. (2020) investigated risk perceptions of COVID-19 glob­
+without empirical evidence, the extant literature may not provide suf­     ally and found that risk perceptions were significantly high across all 
+ficient evidence that brand  loyalty still works its magic  even in  a     countries situated in Europe, Asia, and North America. Therefore, the 
+pandemic context.                                                          results of relevant studies suggest that the majority of the global popu­
+   The hospitality industry is built on reciprocal interactions between    lation considers COVID-19 to be a severe disease. 
+service providers and recipients that involve the exchange of services        The  current study  suggests that the health  belief model  (HBM) 
+and experiences (King, 1995). However, the focus of recent COVID-19        originally developed  by Hochbaum    (1958)  provides  an  underlying 
+related studies has primarily been from the service provider’s perspec­    foundation for understanding consumer behaviors in this context. Ac­
+tive. Despite the fact that consumers’ decision-making processes may       cording to the HBM, people’s behaviors are influencedby  the perceived 
+have  been influenced by  the unprecedented  COVID-19   crisis, to date    severity of the disease, their perceived susceptibility to the disease, and 
+little has been done to investigate influence of COVID-19 on consumer      the expected benefits and barriers related to the behavior (Champion 
+behavior—especially in the lodging context. one recent study that did      and Skinner, 2008; Rosenstock, 1974). The HMB has been adopted and 
+examine such influences revealed interesting findings in that the rela­    modified in later studies, and the model has been expanded to encom­
+tionship between   perceived health  status and anxiety  is negatively     pass a variety of factors, including self-efficacy, to better explain peo­
+moderated by the length of stay, which suggests a need for more studies    ple’s health-related behaviors in a holistic way (e.g., Rosenstock et al., 
+in this context (Wong and Yang, 2020).                                     1988; Yoon and Kim, 2016). 
+   The objectives of this study were to provide answers to the following      In the context of health communication,   a meta-analysis of HBM- 
+questions:                                                                 related studies showed that the perceived severity of a disease signifi­
+                                                                           cantly affects behaviors (Carpenter, 2010). People are more  likely to 
+   (1) How do consumers’ perceptions of the severity of COVID-19 in­       engage in preventative actions when a disease is perceived as severe. 
+       fluence their hotel booking intentions?                             Accordingly, it could be postulated that when the perceived severity of a 
+   (2) Which  appeal type—rational  or emotional—is   likely to have a     disease is high, people are less likely to engage in behaviors that could 
+       greater influenceon  hotel booking intentions during the COVID-     potentially expose them to the disease. This relationship is expected to 
+       19 pandemic?                                                        be more prominent in the service industry since purchasing a service, 
+   (3) What  role does brand loyalty play when  it is factored into the    including booking  a hotel room,  is perceived to be riskier than pur­
+       aforementioned relationships?                                       chasing a  manufactured   product  due  to the  increased uncertainty 
+                                                                           (Mitchell and Greatorex, 1993). Using  HBM   as the underlying frame­
+   In this regard, the current study aimed  to provide answers  to the     work, this study focused on the perceived severity of COVID-19 (PSC) to 
+questions above and fill the research gaps in terms of consumers’  be­     further investigate consumer  behavior  in the COVID-19   context. In 
+haviors in the lodging context by examining the influenceof  consumers’    addition, considering this study’s context, hotel booking intention was 
+perceptions of the severity of COVID-19 on hotel booking intentions and    defined as a consumer’s intention to stay at a particular hotel brand if 
+whether  the relationship varies by message  appeal type  and level of     they needed to travel amidst the pandemic. 
+consumer brand loyalty. The findings of this study make unique con­           In hospitality and tourism studies, the HBM has been implemented 
+tributions to the existing hospitality and lodging literature by expanding almost exclusively in the restaurant context to examine customers’ re­
+the understanding of consumer behavior in the context of health-related    turn intentions after foodborne illness outbreaks. Previous studies found 
+crisis communications. Moreover,  the results of this study add to the     that perceived  severity negatively influences  future behavioral  in­
+body  of knowledge pertaining  to the role of loyalty and the dynamic      tentions (Ali et al., 2019; Harris et al., 2018). The current study focused 
+
+                                                                        2
+Y. Ju and S.(S. Jang                                                                                                                                                     International                    Journal            of     Hospitality                 Management                   108 (2023) 103357
+
+on how the perceived severity of disease influencesconsumer              behaviors        effectiveness of emotional and rational appeal types in the hotel industry 
+when making a decision to stay at a particular hotel brand during the                     context. 
+COVID-19 pandemic. I perceived severity of COVID-19 was defined as                            In the service industry context, the effectiveness of appeal types has 
+how seriously COVID-19 is perceived to be by consumers as a disease                       been studied in terms of both internal and external factors that could 
+that could (1) cause severe illness and pain and (2) negatively influence                 influence   consumers’    decision-making      processes.  In  terms   of internal 
+their daily life including social and economic activities.                                factors, which include consumers’        involvement and arousal levels, Fu 
+    Adopting    the  HBM    in  this context,   it is likely  that the  perceived         and  Chen’s   (2012)   study   suggested    that emotional    appeals   are  more 
+severity   of  a  disease   negatively    influences    consumers’     behavioral         effective when customer involvement is low, while rational appeals are 
+intentions—including       hotel  booking    intentions.  In  other   words,   con­       more effective when involvement is high. Moreover, Herhausen et al. 
+sumers perceive COVID-19 as a severe disease, and the strength of such                    (2019) investigated the effect of message type in social media settings 
+perceptions is expected to influencehotel        booking intentions negatively.           and  found   that  an  explanation    response,   which    is a type   of rational 
+Consumers with higher levels of PSC are likely to refrain from booking a                  appeal,   reduced    virality  (spreading    negative   WOM)     and   was   more 
+hotel room during the pandemic, while the presence of the pandemic                        effective in high arousal situations. Conversely, empathic responses, a 
+may have a limited effect on the behavioral intentions of consumers with                  type of emotional appeal, increased virality. 
+low PSC. Therefore, the current study posited that PSC has a negative                         On the other hand, studies regarding external factors showed that the 
+effect on hotel booking intentions during the COVID-19 pandemic.                          effectiveness of each appeal type varies based on the medium or channel 
+                                                                                          through which the message was provided (Nekmat et al., 2019; Stafford 
+H1.    : The perceived severity of COVID-19 has a negative effect on hotel 
+                                                                                          and Day, 1995). A study conducted by Burman et al. (2017) revealed 
+booking intentions. 
+                                                                                          that the effectiveness of message appeal types also varies based on the 
+                                                                                          level of price for hotels. This study investigated consumers’ perceptions 
+2.2.  Message appeal type: the rational and emotional framework                           of the severity of a disease and its effect on their behaviors; thus, it is 
+                                                                                          positioned in the stream of studies focused on internal factors. Table 1 
+    The   rational   and  emotional     appeal   framework     has   widely   been        summarizes     relevant   studies  that  have  examined     the  effectiveness   of 
+adopted    in marketing     communication      message    studies  (Albers-Miller         emotional and rational appeal types. 
+and   Stafford,  1999a,   1999b).    According    to the  framework,     the  func­           Applying    the  rational   and   emotional     appeal   framework      to  the 
+tional aspects of a product, including its quality, economy, value, and                   COVID-19 context, a rational message appeal type could be interpreted 
+performance, are emphasized when making rational appeals (Kotler and                      as providing    information    about  prevention    measures    and   disinfectant 
+Armstrong,     2010).   For  emotional    appeals,   however,    the  goal  of  the       practices to reasonably persuade customers that staying at the hotel is 
+message    is to generate   feelings  that will motivate purchases        (Albers-­       safe. In contrast, an emotional appeal type message could be interpreted 
+Miller and Stafford, 1999a, 1999b). In the lodging setting, few studies                   as  aiming    to  make     the  audience     personalize    the   message    (e.g., 
+have been conducted regarding message appeal type, but the emotional                      acknowledging      the impact    that  COVID-19     has  had  on  consumers)     or 
+appeal type had higher overall effectiveness and generated higher brand                   evoke a feeling of empathy by showing the negative impact that COVID- 
+attitudes   and   purchase   intentions    (Mattila,  1999,   2001).    Therefore,        19 has had on hotel employees and surrounding communities. 
+there   is a   lack  of  academic     work    that  specifically   compares     the 
+
+Table 1 
+Summary of emotional and rational appeal type studies.  
+  Author             Context                      Study design                 Outcome Variables                          Relevant findings 
+
+  Stafford and Day   Retail service (restaurant   Experimental design          Attitude toward the ad, attitude toward    Rational appeal more effective for both experiential 
+    (1995)           and photo processing)                                     the service and patronage/                 and utilitarian service type; this result varied by 
+                                                                               recommendation intention                   medium (radio and print) 
+  Mattila (1999)     Hotel                        Quasi-experimental design    Attitude toward the ad, service            Emotional appeal induced a more positive initial 
+                                                                               expectations, attitude toward the          attitude 
+                                                                               company, purchase intention 
+  Mattila (2001)     Hotel                        Experimental design          Ad-induced emotions, brand attitude, ad    Emotional appeal had the highest advertisement 
+                                                                               attitude, service expectations, purchase   effectiveness 
+                                                                               intention 
+  Nysveen and        Hotel                        Experimental design          Attitude to advertised product, attitude to Rational appeals more effective when high 
+    Breivik (2005)                                                             advertisement, decision support            involvement; interaction of the medium not 
+                                                                                                                          significant 
+  Fu and Chen        Product (webcam)             Experimental design          Attitude change (pre-attitude and post-    Emotional appeal had a stronger effect when 
+    (2012)                                                                     attitude)                                  customer involvement low 
+  Zhang et al.       Service (restaurant and      Experimental design          Consumer attitude toward the ad,           Purchase intention higher when emotional appeal 
+    (2014)           dental)                                                   purchase intention                         provided for restaurant 
+  Burman et al.      Hotel                        Experimental design          Value perception, purchase intention,      For the low-price hotel, purchase intention higher for 
+    (2017)                                                                     attitude toward hotel                      rational appeal but for the high-priced hotel no 
+                                                                                                                          interaction observed 
+  Wang et al.        Tourist destination          Scenario-based online        Attitude towards destination, intention to Attitude toward destination significantlyhigher  
+    (2017)                                        survey                       recommend destination, attitude toward     when emotional appeal type message provided 
+                                                                               the message 
+  Xiang et al.       Crowdfunding (hotels,        Secondary research (web      Consumer backer’s support, investment      Investment backer’s support higher when emotional 
+    (2019)           restaurants, education,      scrapping)                   backer’s support                           appeal provided; consumer backer’s support higher 
+                     etc.)                                                                                                when informative appeal given 
+  Herhausen et al.   Facebook brand               Secondary research           Virality (negative eWOM measured by        Empathic response more effective to reduce virality, 
+    (2019)           community                    (Facebook posts)             likes and comments on a negative post)     but not for high emotional arousal condition 
+  Chen et al.        COVID-19                     Secondary research           Citizen engagement                         During the COVID-19 crisis, people preferred textual 
+    (2020)                                        (government social media                                                content (low media richness) 
+                                                  post) 
+  Im et al. (2021)   COVID-19                     Qualitative design (CEO      Corporate narrative strategies             More rational and credible appeals used in COVID-19 
+                                                  letters from hospitality                                                corporate narratives  
+                                                  firms) 
+
+                                                                                      3
+Y. Ju and S.(S. Jang                                                                                                                                                     International                    Journal            of     Hospitality                 Management                   108 (2023) 103357
+
+   According  to the elaboration likelihood model  (ELM),  when  con­      booking intentions is moderated by the message appeal type. 
+sumers have the motivation and ability to process information, they tend 
+to be more  engaged  in the central route, which  involves cognitively     2.3. The role of loyalty in the COVID-19 era 
+processing the provided  information  (Petty and Cacioppo,  1986).  In 
+contrast, when motivation or ability is absent, consumers engage in the       There is a consensus that loyalty has a positive influenceon  purchase 
+peripheral route, which involves emotionally processing the provided       intentions. For example, the results from Tellis’s (1988) study confirmed 
+information  (Petty and Cacioppo,  1986). Due  to these different pro­     that loyalty has the highest explanatory power  for brand  choice and 
+cessing routes, how   a marketing  message   is constructed is crucial     volume purchased, and a study conducted by Chi and Yeh (2009) also 
+because  it can alter consu’ers’ attitudes (Andrews and Shimp, 1990).      found that brand loyalty has a positive effect on purchase intentions. 
+The ELM has also been implemented as either a primary research model       Furthermore,  Oliver (1997) developed  a framework  for the phases of 
+or an underlying rationale in a handful of hospitality and tourism studies loyalty that originates in cognitive loyalty and ultimately leads to action 
+(e.g., Ha and Jang, 2010; Hlee et al., 2019; Tang et al., 2012; Xu and     loyalty, which means that customers are ready to act. Specifically, the 
+Huang, 2019).                                                              importance of loyalty has also been studied in various hospitality and 
+   In the COVID-19   context, hotels have  been sending  messages  via     tourism-related research (Shoemaker   and Lewis,  1999; Kandampully 
+email, social media, and  brand  websites since the pandemic   hit the     et al., 2015; Tanford, 2016; Tepeci, 1999). However, this study argued 
+lodging market. How consumers process such messages could generate         that consumer  behaviors influenced  by COVID-19,  which  brought  an 
+different outcomes (Fu and Chen, 2012; Petty and Cacioppo, 1986). The      unprecedented crisis to many industry sectors, present a unique condi­
+ELM suggests that this difference could be caused by which processing      tion. Accordingly, previously proven relationships need to be empiri­
+route (central or peripheral) and appeal  type (rational or emotional      cally tested in this context. In this regard, another question remains: Is 
+appeal) was utilized (Xiang et al., 2019). In this regard, the ELM was     loyalty still effective for the lodging industry in the COVID-19 crisis? 
+adopted in this study to postulate the effect of rational and emotional       A handful of previous studies investigating brand loyalty considered 
+appeals  when  consumers   process COVID-19    related messages  from      it to be a multidimensional construct that includes both attitudinal and 
+hotels.                                                                    behavioral aspects of loyalty (Bandyopadhyay and Martell, 2007; Dick 
+   To date, limited studies have specifically investigated the effective­  and Basu, 1994; Tranberg and Hansen, 1986). In contrast, another line 
+ness of rational and emotional  appeal  types pertaining to COVID-19       of studies suggested that the attitudinal dimension of loyalty should be 
+related messages in the context of the lodging industry. A study con­      emphasized  when  brand  loyalty is studied in the hospitality industry 
+ducted by Im et al. (2021) examined the contents of COVID-19 related       context (Back, 2005) because marketers in the hospitality industry aim 
+messages  from CEO   letters in the hospitality industry and discovered    to develop this aspect of loyalty by providing  special treatment and 
+that rational appeals were  primarily utilized. In the field of health     developing  relationships and emotional  commitment    (Mason  et al., 
+communication, Mongiovi et al. (2017) revealed that rational appeals       2006; Schall, 2003). Considering that the primary focus of this study was 
+were used more frequently for medication-related advertisements. Also,     to explore the role of loyalty in the lodging context during the COVID-19 
+when a health-related crisis such as COVID-19 occurs, the public relies    pandemic, this study focused on investigating the effect that consumers’ 
+more  on the textual content of government   social media posts (Chen      attitudinal loyalty has on their decision-making processes rather than 
+et al., 2020). These findings from prior studies were consistent with Fu   considering multiple dimensions of brand loyalty. Thus, in this study, 
+and  Chen’s  (2012)  conclusion that a  rational appeal type  is more      brand loyalty was operationalized as consumers’ commitment to a brand 
+effective when consumers have high involvement.                            that primarily encompasses the attitudinal aspects of loyalty. 
+   Given the above rationale, which appeal type would be more effec­          Kim et al. (2018) revealed that customers with greater loyalty had 
+tive at generating  hotel booking   intentions when  a  health-related     higher revisit intentions, and the level of loyalty buffers the influenceof  
+concern is present? The HBM explains that the perceived severity of a      negative  information  (sanitation violations) on  revisit intentions. 
+disease  influences people’s  behaviors   (Carpenter,  2010).  In  the     Another  study examining  the interaction effect of loyalty found that 
+COVID-19 context, the general population considers the disease to be       restaurant customers’ revisit intentions vary based on  their level of 
+serious (Dryhurst et al., 2020) and, thus, is likely to have greater moti­ loyalty (Namkung et al., 2011). Considering its strong effect in gener­
+vation and involvement when processing COVID-19 related messages.          ating positive behavioral intentions and buffering barriers to repurch­
+Moreover, previous studies confirmed that when consumers have high         asing, it is likely that brand loyalty will have a positive influence on 
+involvement, the rational appeal type is more effective (Fu and Chen,      hotel booking intentions even amidst the COVID-19 crisis. In fact, brand 
+2012). Therefore, it is likely that the rational appeal type would have a  loyalty could even have a stronger effect in the global pandemic context. 
+more  positive effect on hotel booking intentions than  the emotional      Brand loyalty and trust are strongly correlated (Bowen and Shoemaker, 
+appeal type.                                                               2003; Garcia de Leaniz and Rodríguez Del Bosque Rodríguez, 2015), and 
+   In addition, based on the HBM and ELM, consumers with high PSC          consumers are likely to prefer a brand that they already trust since all 
+are likely to have  greater motivation  to process  COVID-19   related     alternatives are also being impacted  by  the pandemic.  Accordingly, 
+messages  from  hotels. Because they are engaging  in the central pro­     brand loyalty is expected to work as a buffer to limit the negative in­
+cessing route, the effectiveness of a rational appeal is expected to in­   fluence of customers’  concerns related to COVID-19    and negatively 
+crease. On the other hand, when consumers do not perceive COVID-19         moderate the effect of PSC on hotel booking intentions. 
+as a severe disease, they have  less motivation to process  COVID-19          The effect of marketing messages could vary based on the level of 
+related messages from hotels. Thus, they are more likely to process the    brand loyalty, and Raj (1982) revealed that advertising positively affects 
+message using the peripheral route and be persuaded by an emotional        consumers’ purchasing behaviors for the high loyalty group but not for 
+appeal. Accordingly, it is likely that consumers are motivated to process  the low loyalty group. In addition, when  consumers have  high brand 
+the message when the PSC level is high and, thus, they are engaging in     loyalty, they are likely to purchase products and services from the brand 
+the central information processing route. Thus, the effect of PSC on hotel they are loyal to unless there is a significant barrier to repurchasing 
+booking  intentions is hypothesized to be positively moderated by the      (Oliver, 1999). Thus, it is expected that booking intentions would be 
+appeal type.                                                               greater for the high loyalty group regardless of the message appeal type. 
+                                                                           In other words, the effect of message appeal type will be significantfor  
+H2.   : For COVID-19   related hotel marketing messages,  the rational 
+                                                                           the low loyalty group, whereas  the  effect will decrease for the high 
+appeal type has a stronger positive effect on hotel booking intentions 
+                                                                           loyalty group. Expanding on this, it could also be postulated that the 
+than the emotional appeal type. 
+                                                                           interaction effect between PSC and appeal type will be significantfor  the 
+H3.   : The  effect of the perceived  severity of COVID-19   on  hotel     low loyalty group; however, no interaction is expected to be observed 
+
+                                                                        4
+Y. Ju and S.(S. Jang                                                                                                                                                     International                    Journal            of     Hospitality                 Management                   108 (2023) 103357
+
+for the high loyalty group.                                                couple of weeks. Then, they were instructed to think about a hotel brand 
+   In sum, this study postulated that the perceived severity of COVID-19   and pretend that the message they were about to read was sent from that 
+influencesconsumers  ’ hotel booking intentions, and this relationship is  hotel brand. The  randomizer  function in Qualtrics was  utilized, and 
+moderated by message appeal type and brand loyalty. Furthermore, the       survey participants were randomly assigned to either (1) the emotional 
+interaction effect of the perceived severity of COVID-19 and  message      appeal type message or (2) the rational appeal type message. 
+appeal type is expected to significantly differ (moderated-moderation) 
+based on the level of customers’ brand loyalty (see Fig. 1 for the con­    3.2.3. Brand loyalty 
+ceptual framework).                                                           Brand  loyalty  was  operationalized in  this study  as a  concept 
+                                                                           encompassing  the  attitudinal dimension of loyalty. To  measure  this 
+H4.   : Brand loyalty has a positive influenceon  hotel booking intentions 
+                                                                           concept, participants indicated self-reported brand loyalty based on four 
+during the COVID-19 crisis. 
+                                                                           questions adapted from Back and Parks (2003) that focused on investi­
+H5.   : The effect of message appeal type on hotel booking intentions is   gating lodging consumers’  attitudinal loyalty. Participants’ responses 
+moderated by the level of brand loyalty.                                   were measured using a 7-point Likert scale (1 = strongly disagree to 7 =
+                                                                           strongly agree). Since this study also intended to explore the varying 
+H6.   : The  effect of the perceived  severity of COVID-19   on  hotel 
+                                                                           effect of loyalty on hotel booking intentions, the data were divided into 
+booking intentions is moderated by the level of brand loyalty. 
+                                                                           two groups using the median split for further analysis. A median split 
+H7.   : The interaction effect of the perceived severity of COVID-19 and   method is a valid statistical technique that can be used to investigate 
+message appeal type on hotel booking intentions is moderated by the        effects on different groups given that no multicollinearity issues are 
+level of brand loyalty.                                                    present (Iacobucci et al., 2015). 
+
+3. Methodology                                                             3.2.4. Hotel booking intentions during COVID-19 
+                                                                              The  measurement   items  were  constructed based  on  Chiang  and 
+3.1. Data                                                                  Jang’s study (2007) and measured on a 7-point Likert scale (1 = strongly 
+                                                                           disagree to 7 = strongly agree). Survey participants were instructed to 
+   To test the proposed hypotheses, data were collected via a scenario-    imagine that they were going on a business trip in a couple of weeks. 
+based online survey, which was constructed on Qualtrics. Respondents       They were then asked to answer questions about their intentions to stay 
+were  recruited using the convenience  sampling  method   via Amazon       at the hotel brand that presumably sent the COVID-19 related message, 
+Mechanical Turk (MTurk) during the month of August 2020, when the          which  aimed  to persuade  consumers   by  using either a rational or 
+impact of COVID-19 on the lodging industry was still prevalent. Since      emotional appeal type. Table 2 displays a detailed list of measurement 
+this study focused on the U.S. lodging market,  only participants who      items used in the analysis. 
+reside in the U.S. were recruited. A total of 311 respondents participated 
+in this survey.                                                            3.2.5. Control and manipulation check variables 
+                                                                              Consumers’   purchase  intentions  can  vary  based  on  their de­
+3.2. Variables and measurements                                            mographic  profiles (Akhter, 2003). Specifically, it was expected that 
+                                                                           making  a  decision regarding lodging  options during  the COVID-19 
+3.2.1. Perceived severity of COVID-19 (PSC)                                pandemic would be influenced by demographic factors, including age, 
+   The measurement items for PSC were adopted from the HBM (Janz           income,  and  gender.  Moreover,  Teichert et  al. (2018) found   that 
+and Becker, 1984) and modifiedto   fitthe  context of this research. Three 
+measurement items were used to capture PSC, and a 7-point Likert scale 
+(1 = strongly disagree to 7 = strongly agree) was used. Since this study   Table 2 
+investigated multiple interaction effects, PSC was  mean-centered   to     Measurements.  
+avoid  multicollinearity issues. Further, the mean-centering  method        Constructs               Items                           Source 
+provides a parsimonious way to interpret the results and is considered a    Perceived severity PSC1  I think COVID-19 could cause    Janz and 
+proper method to use when examining the direction of predictor vari­          of COVID-19     PSC2   serious illness.                Becker 
+ables in social science settings (Iacobucci et al., 2016).                    (PSC)           PSC3   If I caught COVID-19, it would  (1984) 
+                                                                                                     significantlyinfluence my  social and 
+                                                                                                     economic activities. 
+3.2.2. Message appeal types                                                                          If I caught COVID-19, I would suffer 
+   Utilizing the rational and emotional appeal framework, two message                                severe pain. 
+types were  constructed based  on actual messages  sent from multiple       Brand loyalty     BL1    This hotel provides me superior Back and 
+hotel brands (see Appendix A). Before reading the message, participants                       BL2    service quality as compared to any Parks (2003) 
+                                                                                              BL3    other hotel brands. 
+were  instructed to imagine that they were in the process of choosing                         BL4    I like this hotel more than other 
+among several lodging options for a business trip that would occur in a                              hotel brands. 
+                                                                                                     I consider this hotel brand to be my 
+                                                                                                     first lodging choice. 
+                                                                                                     I would do more business with this 
+                                                                                                     hotel brand in the next few years. 
+                                                                            Booking intention BI1    Assuming that you are going to be Chiang and 
+                                                                                              BI2    on a business trip in a couple of Jang (2007) 
+                                                                                              BI3    weeks, … 
+                                                                                                     … I intend to book a room in one of 
+                                                                                                     its hotel properties. 
+                                                                                                     … My willingness to book this hotel 
+                                                                                                     brand for my future travel is high. 
+                                                                                                     If I were to be on a trip and book a 
+                                                                                                     hotel room amid COVID-19 
+                                                                                                     pandemic, I would rather stay at this 
+                                                                                                     hotel brand than other brands. 
+
+                     Fig. 1. Conceptual framework.                         Note. All instruments were measured with a seven-point Likert scale. 
+
+                                                                        5
+Y. Ju and S.(S. Jang                                                                                                                                                     International                    Journal            of     Hospitality                 Management                   108 (2023) 103357
+
+consumers’  demographic   profiles could influence the effectiveness of    displayed in Table 3. 
+emotional  and  informational ad  appeals. Hence,  these demographic 
+variables were  included  as control variables. In addition, although      4.2. Manipulation check 
+perceived  message  effectiveness (PME)  could influence participants’ 
+attitudes and behavioral intentions (Dillard et al., 2007), the focus of the  Before testing the proposed hypotheses, a manipulation check was 
+current study was  investigating the varying influence of each type of     performed. The emotional appeal type group was used as a reference 
+appeal rather than the result of each appeal type’s effectiveness or the   group and coded as ‘0,’ while the rational appeal type group was coded 
+role that PME  has on behavioral  intentions. Thus, considering its po­    as ‘1.’ Participants who were presented with the emotional appeal type 
+tential effect on behavioral intentions, the analysis used PME as a con­   message  indicated that the message  was making  an  emotional rather 
+trol variable.                                                             than rational appeal (Emotional: M  =  5.59, Rational: M =  4.21; F(1, 
+   After being  randomly  assigned a  message, participants were  pre­     309) = 63.390, p < .01). Conversely, participants who were assigned to 
+sented with either an emotional or rational appeal that was hypotheti­     the rational appeal type message indicated that it was making a rational 
+cally sent from the hotel brand that they indicated earlier in the survey. rather than emotional appeal (Emotional: M = 4.84, Rational: M = 6.00; 
+Then, they were asked to measure their general response toward and         F(1, 309) = 59.471, p <  .01). Overall, the results of the manipulation 
+impression of the provided message immediately after reading it. Two       check confirmed that the two message appeal types were effective and 
+manipulation  check questions  were asked  (e.g., “I think this message    perceived as intended by participants. 
+was trying to make a rational appeal to its audiences,” and “I think this 
+message was trying to make an emotional appeal to its audiences.”) and     4.3. Hypothesis testing 
+argetedionmeasured on a 7-point Likert scale (1 = strongly disagree to 
+7 = strongly agree).                                                          The reliability of the measurements was tested, and the result indi­
+                                                                           cated that all measurements   had  good  internal consistency ranging 
+3.3. Analyses                                                              from.833 to.931 based on the cutoff Cronbach’s alpha value of 0.7 (Hair 
+                                                                           et al., 2010). To test the convergent and discriminant validity, confir­
+   Statistical tests were performed using hierarchical regression anal­    matory  factor analysis (CFA) was  conducted, and  the goodness-of-fit 
+ysis to test the hypotheses. The statistical significanceof  each model was indices indicated an acceptable model fit (χ2 (32) = 128.463, p < .05; 
+tested using R2  change  and its significance based on F  statistics. In   RMSEA <   0.1; SRMR <  0.5; CFL > 0.9; TLI > 0.9). Standardized factor 
+particular, the proposed  three-way  interaction effect—or moderated       loadings ranged from 0.731 to 0.905, and average variance extracted 
+moderation—was tested in Eq. (1).                                          (AVE) ranged from 0.630 to 0.789; thus, all indicators in the measure­
+                                                                           ment model were in the acceptable range. The square roots of AVE and 
+
+
+BOOKING    INTENTIONi  = β0 + β1AGEi  + β2GENDERi   + β3INCOMEi  + β4PMEi  + β5PSCi
++β6APPEAL    TYPEi + β7LOYALTYi   + β8PSCi ∗ APPEAL  TYPEi  + β9PSCi ∗ LOYALTYi                                                              (1)   
++β10APPEAL    TYPEi ∗ LOYALTYi  + β11PSCi ∗ APPEAL  TYPEi ∗ LOYALTYi  + εi
+
+
+BOOKING    INTENTIONi  = β0 + β1AGEi  + β2GENDERi   + β3INCOMEi  + β4PMEi
++β5PSCi  + β6APPEAL   TYPEi +  β8PSCi ∗ APPEAL  TYPEi                                                                                        (2)   
++(β7 +  β9APPEAL  TYPEi  + β10PSCi + β11APPEAL  TYPEi  ∗ PSCi) ∗ LOYALTYi + εi
+
+
+                                                                           the correlations between each construct were examined, and the result 
+   Eq. (2), a modifiedversion  of Eq. (1), was constructed to demonstrate  showed  that the square roots of AVE  are larger than the correlations 
+the three-way interaction—or moderated moderation effect. The three-       among   constructs.  Therefore, no   evident  issues were   identified 
+way  interaction being  tested in this study  could be  simplified as:     regarding the convergent and discriminant validity of the measurement 
+examining a statistically significantchange  in β8 coefficientbased  on the items. Before conducting the hierarchical multiple regression analysis, 
+level of LOYALTYi  while holding all other variables constant. In other    correlation analysis was  performed   to investigate the  relationship 
+words, this study tested whether the coefficient for the interaction be­   among all proposed variables in this study. The result showed that hotel 
+tween PSC and message appeal type significantly varies based on the        booking intention had positive correlations with PME, appeal type, and 
+level of brand loyalty.                                                    loyalty. The correlation analysis also indicated that PSC has positive 
+                                                                           correlations with age and gender (see Fig. 2). 
+4. Results                                                                    In order  to statistically test a possible issue regarding common 
+                                                                           method  bias (CMB),  Harman’s   single-factor test was performed.  An 
+4.1. Sample profile                                                        explanatory factor analysis was conducted using the covariance matrix 
+                                                                           of all survey items, and no single factor that could account for the ma­
+   Of the total sample, 57.2 % were male (n  = 178) and 42.8 % were        jority of covariances was observed (Podsakoff et al., 2003). Moreover, a 
+female (n = 133). In terms of ethnicity, the majority of respondents were  single-method-factor approach was adopted to further test the common 
+white/Caucasian (75.6 %, n  = 235), followed by African American (8.7      method bias in a more rigorous way (Kock et al., 2021; Podsakoff et al., 
+%, n = 27), and Asian (8.7 %, n  = 27). Over 50 % of the respondents       2003). In particular, the unmeasured latent method construct (ULMC) 
+were between 26 and 39 years old, and approximately 50 % had earned        technique was utilized. A common latent factor was added to the model, 
+a bachelor’s degree.  The demographic   profile of the respondents  is     and the paths between  the  common   latent factor and other variables 
+
+                                                                        6
+Y. Ju and S.(S. Jang                                                                                                                                                     International                    Journal            of     Hospitality                 Management                   108 (2023) 103357
+
+Table 3 
+Demographic profiles of participants.  
+
+  Variables                             Frequency (n = 311)                Percent 
+
+  Gender     
+    Male                                178                                57.2 
+    Female                              133                                42.8 
+  Ethnicity     
+    African American                     27                                 8.7 
+    Asian                                27                                 8.7 
+    Hispanic                             15                                 4.8 
+    Native American                       3                                 1.0 
+    White/Caucasian                     235                                75.6 
+    Other                                 4                                 1.3 
+  Age     
+    18–25 years                          19                                 6.1 
+    26–39 years                         161                                51.8 
+    40–54 years                          77                                24.8 
+    55–65 years                          39                                12.5 
+    66 years and above                   15                                 4.8 
+  Education level  
+    Less than high school                 1                                 0.3 
+    High school graduate                 25                                 8             Fig. 3. Two-way interaction: the interaction effect of PSC and appeal type on 
+    Some college                         48                                15.4           hotel booking   intention.  Note:  perceived   severity of  COVID-19    (PSC)  was 
+    Associate degree                     38                                12.2 
+                                                                                          categorized into two levels using a ±   1 standard deviation value. 
+    Bachelor’s degree                   151                                48.6 
+    Master’s degree                      38                                12.2 
+    Professional degree                   8                                 2.6           (Min   et al., 2016).   Therefore,    the  test results  showed    that  common 
+    Doctorate degree                      2                                 0.6           method bias was not evident in this study. 
+  Annual household income 
+                                                                                              To test the statistical significance of the proposed relationships, hi­
+    Below $20,000                        32                                10.3 
+    $20,000 - $39,999                    66                                21.2           erarchical multiple regression was performed. Since this study involves 
+    $40,000 - $59,999                    61                                19.6           testing interaction effects, PSC was mean-centered. In order to test for a 
+    $60,000 - $79,999                    58                                18.6           possible multicollinearity issue, the variance inflation factor (VIF) was 
+    $80,000 - $99,999                    36                                11.6           checked for all models. The VIF values ranged from 1.019 to 4.077 and 
+    $100,000 - $149,999                  45                                14.5 
+    $150,000 - $199,999                   8                                 2.6           were lower than the threshold value of 10. Thus, there was no significant 
+    $200,000 or above                     5                                 1.6           indicator of multicollinearity issues in this study (Hair et al., 2010; Neter 
+                                                                                          et al., 1996). Since this study aimed to explore consumer behavior in the 
+                                                                                          unique   context   of  the  COVID-19     pandemic,     the  hypothesis   test  was 
+were constrained to be equal (Eichhorn, 2014; Podsakoff et al., 2003).                    performed at a 10 % significance level due to the nature of the current 
+The differences in standardized factor loadings between the two models                    study. 
+ranged from 0.066 to 0.127, and the variance explained by the common                          As  shown    in Table   3,  Model   1  (F(4,  306)   =  14.904,   p <  .01,  R2 
+method    variance   was   lower  than the   commonly      used  50  % threshold          = .163) included only control variables to test their possible effects on 
+
+
+Fig. 2. Correlation matrix of all variables. Note. Pearson correlation values are shown, and darker color indicates a higher correlation between variables; PME =   perceived 
+message effectiveness; PSC =  perceived severity of COVID-19; age, gender, income, PME were control variables. 
+
+                                                                                      7
+Y. Ju and S.(S. Jang                                                                                                                                                     International                    Journal            of     Hospitality                 Management                   108 (2023) 103357
+
+                                                                           increased due to an insignificant positive moderating effect (b =.075, 
+                                                                           p >[ 0.1. Therefore, H3  was not  supported (see Fig. 3). Second,  ac­
+                                                                           cording to the results, the effect of appeal type on hotel booking in­
+                                                                           tentions decreased for the  high loyalty group  compared   to the low 
+                                                                           loyalty group, which supported H5 (b =   .354, p <[ 0.1. Fig. 4 displays 
+                                                                           the two-way  interaction between  appeal type  and loyalty. Third, H6 
+                                                                           postulated that the negative effect of PSC on hotel booking intentions 
+                                                                           would decrease when a consumer’s loyalty level is high. The result of the 
+                                                                           two-way  interaction was statistically significant (β = .271, p <[ 0.05.  
+                                                                           Fig. 5 provides a graphical representation of this interaction effect. 
+                                                                              The finalmodel,  Model 4 (F(11, 299) = 24.016, p < .01, R2 = .469), 
+                                                                           is the full model and  was comprised  of all variables from the  prior 
+                                                                           models  as well as a three-way interaction term between   PSC, appeal 
+                                                                           type, and brand loyalty. The R2 change from Model 4 to Model 5 was 
+                                                                           statistically significant (R2 change =.006, p <[ 0.1. Further, H7, which 
+                                                                           tested the three-way interaction—or moderated moderation—was sup­
+                                                                           ported at an alpha level of.1 (b =   .276). Therefore, this result sup­
+                                                                           ported that the interaction between appeal type and PSC significantly 
+                                                                           decreased for the high loyalty group. Table 4 displays the detailed re­
+                                                                           sults for Model 4. Fig. 6 provides a visual representation of the three-way 
+Fig. 4. Two-way interaction: the interaction effect of PSC and loyalty on hotel interaction. The interaction effects were further tested using PROCESS 
+booking intention. Note: perceived severity of COVID-19 (PSC) was categorized 
+                                                                           v3.5.2 macro for SPSS (Hayes, 2017). The interaction between appeal 
+into two levels using a ± 1 standard deviation value. 
+                                                                           type and PSC was significantwhen  the level of brand loyalty was low (F 
+                                                                           (1, 299) = 4.017, p <[ 0.05, whereas the interaction was not significant 
+                                 =        <                    =
+hotel booking intentions. Age (b   .139, p  [ 0.05 and PME (b    .352,     (F(1299) = .567, p >[ 0.1 for the high loyalty group. 
+  <
+p   [ 0.01 had a positive influence on the dependent   variable, while        Moreover,  additional  analysis was  performed  to investigate the 
+          =        >                    =        >
+gender (b  .028, p  [ 0.1 and income (b   .041, p  [ 0.1 did not have a    interaction between  PSC and  brand  loyalty for the emotional appeal 
+statistically significant influence on hotel booking intentions.           type. The result showed that the interaction was significant (F(1, 150) 
+   The  main  effects of appeal type, PSC, and loyalty were  tested in     = 6.269, p < .05). As shown in Fig. 7, when both PSC and brand loyalty 
+                    =            <       2 =
+Model  2 (F(7, 303)   35.474, p    .01, R    .438). Although it had  a     levels were low, emotional appeals led to more hotel booking intentions 
+negative coefficient as expected, the effect of PSC on hotel booking in­   compared to the high PSC group. 
+tentions was not statistically significant(b  =   .018, p >[ 0.1, which did 
+not support H1. As predicted, the rational appeal type positively affected 
+                                                                           5. Conclusions 
+hotel booking  intentions compared   to the emotional  appeal type  (b 
+=.303, p <[ 0.05, which supported H2. The result also confirmed that 
+                                                                           5.1. Summary and discussion 
+brand loyalty had a strong positive effect on hotel booking intentions 
+even amidst the COVID-19 crisis (b = 1.290, p < .01), which supported 
+                                                                              The COVID-19 crisis has had an unprecedented impact on the lod­
+H4. 
+                                                                           ging industry. It is predicted that it will take several years for the in­
+   Model   3 (F(10,  300)  = 25.850,  p < .01, R2 =  .463) tested  the 
+                                                                           dustry to recover fully (American Hotel and Lodging Association, 2021). 
+interaction effects. The statistically significant R2 change between 
+                                                                           In hopes of bringing back guests, hotels are sending out messages via 
+Models  3  and  4 (R2 change   ==0.012   p <[ 0.1 confirmed  that  the 
+                                                                           different channels,  including social  media  and  emails.  However, 
+interaction effects were statistically significant.First,  this study did not 
+                                                                           COVID-19 may have shifted consumer behaviors in an unexpected di­
+verify that the effect of the rational appeal  type increased  as PSC 
+                                                                           rection. To  date,  there has   been  little research on  consumers’ 
+                                                                           health-related concerns and their possible effects on consumer behaviors 
+                                                                           in the lodging industry context. Hence, this study aimed to investigate 
+                                                                           the influenceof  consumers’ perceptions of the severity of COVID-19 on 
+                                                                           hotel booking intentions and examine whether this relationship could be 
+                                                                           ameliorated by providing a particular message appeal type (emotional 
+                                                                           vs. rational). Furthermore, this study intended to test how the interac­
+                                                                           tion effect between PSC and appeal type varies based on the consumer’s 
+                                                                           level of loyalty. 
+                                                                              The  statistical analysis results showed that’PSC’s effect on hotel 
+                                                                           booking intentions was not statistically significantas  hypothesized (H1). 
+                                                                           A possible explanation for this could be attributed to the context of this 
+                                                                           study. The assumed context was that participants would be going on an 
+                                                                           upcoming  business  trip, which is usually something  that is required 
+                                                                           rather than freely chosen compared to a leisure trip. Additional analysis 
+                                                                           results showed that significantly different behaviors were observed be­
+                                                                           tween the high and low loyalty groups. The interaction effect between 
+                                                                           PSC and brand loyalty was significant,and  this result confirmedthat  the 
+                                                                           negative effect of PSC decreased when brand loyalty was high. 
+                                                                              The general population considers COVID-19 to be a severe disease 
+                                                                           (Dryhurst et al., 2020), and the rational appeal type works  better in 
+                                                                           high-involvement  situations (Herhausen   et al., 2019). Accordingly, 
+Fig. 5. Two-way interaction: the interaction effect appeal type and loyalty on although the emotional appeal type has generally been considered more 
+hotel booking intention.                                                   appropriate for the service industry (Mattila, 2001; Zhang et al., 2014), 
+
+                                                                        8
+Y. Ju and S.(S. Jang                                                                                                                                                     International                    Journal            of     Hospitality                 Management                   108 (2023) 103357
+
+Table 4 
+Result of hierarchical multiple regression analysis.   
+
+                            Model 1                       Model 2                      Model 3                       Model 4  
+
+                            Coefficient S.E.    P-value   Coefficient S.E.    P-value  Coefficient S.E.    P-value   Coefficient S.E.    P-value 
+
+  Constant                   2.821 ***  0.374   0.000      3.120 ***  0.329   0.000     3.016 ***  0.330   0.000      3.012 ***  0.329   0.000 
+  Agei                        0.139 **  0.066   0.036         0.088   0.055   0.108        0.086   0.055   0.117         0.084   0.054   0.124 
+  Genderi                       0.028   0.127   0.825         0.094   0.104   0.369        0.097   0.104   0.350         0.094   0.103   0.363 
+  Incomei                       0.041   0.036   0.253         0.036   0.029   0.226        0.027   0.030   0.361         0.028   0.029   0.349 
+  PMEi                        .352 ***  0.050   0.000     0.181 * **  0.046   0.000     0.192 ***  0.046   0.000      0.193 ***  0.046   0.000 
+  PSCi                                                        - .018  0.040   0.652      - 0.111 *  0.061  0.071     - 0.163 * *  0.067  0.016 
+  Appeal typei                                              0.303 **  0.103   0.004      0.453 **  0.138   0.001      0.466 ***  0.137   0.001 
+  Loyaltyi                                                 1.290 ***  0.107   0.000     1.456 ***  0.148   0.000      1.461 ***  0.148   0.000 
+  PSCi × Appeal typei                                                                      0.075   0.073   0.303       0.191 **  0.096   0.046 
+  Appeal typei × Loyaltyi                                                                -0.361 *  0.207   0.082      - 0.354 *  0.206   0.086 
+  PSCi × Loyaltyi                                                                         0.129 *  0.075   0.086       0.271 **  0.106   0.011 
+  PSCi × Appeal typei × Loyaltyi                                                                                      - 0.276 *  0.147   0.062 
+                        F   14.904 ***          0.000     35.474 ***          0.000    25.850 ***          0.000     24.016 ***          0.000 
+  R2                            0.163                         0.450                        0.463                         0.469     
+  Adj.R2                        0.152                         0.438                        0.445                         0.450     
+  R2Δ                              —                          0.287                        0.012                         0.006     
+  ΔF                               —                      52.807 ***          0.000       2.316 *          0.076        3.512 *          0.062 
+
+Note. DV = booking intention; coefficient = unstandardized coefficient; S.E. = standard error; PME = perceived message effectiveness; PSC = perceived severity of 
+COVID-19, the variable was mean-centered; Appeal type (0 = emotional appeal type, 1 = rational appeal type); Loyalty was dichotomized using the median split 
+method (0 = low loyalty group, 1 = high loyalty group) 
+*, **, and *** represents less than 10 %, 5 %, and 1 % significance level, respectively. 
+
+
+Fig. 6. Three-way interaction: the interaction effect of PSC and appeal type differentiating based on the level of loyalty. Note: perceived severity of COVID-19 (PSC) 
+was categorized into two levels using a ± 1 standard deviation value. 
+
+this study hypothesized that the rational appeal type would have a more    was not  statistically significant (H3). The medium of the message  is 
+significanteffect  on hotel booking intentions compared to the emotional   delivered through could influence the effectiveness of the appeal type 
+appeal type (H2). The result of this study supported hypothesis H2. This   (Stafford and Day, 1995). This study utilized electronic text displayed 
+result contrasts with previous studies that suggested  that emotional      via a computer screen as a medium; thus, it could have an impact on the 
+appeal types are generally more suitable for creating positive consumer    effectiveness of the appeal types. Future related studies should consider 
+behaviors in the hospitality and tourism context (Mattila, 1999, 2001;     investigating the influenceof  the medium on consumers’ perceptions of 
+Wang et al., 2017; Zhang et al., 2014). However, it should be noted that   health-related messages. Another  potential factor to consider is hotel 
+the context of this study is a global health-related pandemic. Thus, the   price. Burman  et al. (2014) revealed that the rational appeal type is 
+rational appeal type was expected to have higher effectiveness, which      more effective for lower-priced hotels, while the emotional appeal type 
+was confirmed. In addition, this result confirmed that hotels correctly    is more effective for high-priced hotels. Thus, future studies need to 
+utilized the rational appeal type more often during the COVID-19 crisis,   separately examine message effectiveness based on hotel scales. 
+as the results of Im ’s et al. (2021) descriptive study suggested.            Brand loyalty is often regarded as a remedy to ameliorate negative 
+   Based  on ELM,  PSC  was  conceptualized  as motivation  to process     situations (Kim et al., 2018) and increase purchase intentions (Chi and 
+COVID-19   related messages.  The  effect of the rational appeal type      Yeh, 2009). The findingsof  this study suggested that brand loyalty plays 
+message was postulated to increase as PSC increased. However, the re­      an important role even in the COVID-19 era (H4). This result is in line 
+sults showed that although the interaction had a positive coefficient, it  with previous  studies that proved  loy’lty’s vital role in generating 
+
+                                                                        9
+Y. Ju and S.(S. Jang                                                                                                                                                     International                    Journal            of     Hospitality                 Management                   108 (2023) 103357
+
+                                                                           investigate other constructs from  the HBM   (e.g., perceived barrier, 
+                                                                           perceived benefit, etc.) in a similar context. 
+                                                                              Building on  the Elaboration  Likelihood Model   (ELM), this study 
+                                                                           postulated and tested the effectiveness of emotional and rational appeal 
+                                                                           types for  COVID-19    related marketing   communication    messages. 
+                                                                           Emotional  appeals are used  more  frequently in the service industry 
+                                                                           (Albers-Miller and Stafford, 1999a)  and prior studies suggested  that 
+                                                                           emotional appeals are more effective for hospitality firms( Fu and Chen, 
+                                                                           2012; Mattila, 1999, 2001;  Zhang  et al., 2014). However,  this study 
+                                                                           revealed that the rational appeal type had a greater positive influenceon  
+                                                                           hotel booking intentions compared to the emotional appeal type when 
+                                                                           the aim of the message  is to address health-related concerns, such as 
+                                                                           COVID-19. 
+                                                                              Lastly, this study confirmedthat  brand loyalty works even amidst the 
+                                                                           COVID-19 crisis and varying degrees of loyalty generate different con­
+                                                                           sumer  behaviors. Brand  loyalty not only positively influenced hotel 
+                                                                           booking intentions but also buffered the negative influence of PSC on 
+                                                                           hotel booking intentions during the COVID-19 pandemic. In this study, 
+                                                                           brand loyalty was  a strong predictor of hotel booking intentions and 
+                                                                           ameliorated the  influence of health-related concerns that consumers 
+                                                                           might  have during  the global health  crisis. Furthermore, this study 
+                                                                           discovered an interesting consumer behavior: for the high loyalty group, 
+                                                                           the message appeal type was irrelevant regardless of the level of PSC. 
+Fig. 7. The interaction effect of loyalty and PSC for emotional appeal type 
+                                                                           This interesting interaction between  appeal  type and  brand  loyalty 
+condition. Note: PSC = perceived severity of COVID-19; PSC was categorized into 
+                                                                           needs to be investigated further in future research. 
+two levels using a ± 1 standard deviation value. 
+
+                                                                           5.2.2. Practical implications 
+booking intentions (e.g., Chi and Yeh, 2009; Kim et al., 2018; Namkung 
+                                                                              This study provides  valuable practical implications for hotel mar­
+et al., 2011; Tanford, 2016). The results also showed that brand loyalty 
+                                                                           keters and managers pertaining to communicating with potential guests 
+had  a buffering effect on  the relationship between   PSC  and  hotel 
+                                                                           regarding COVID-19 preparedness. The results from this study suggest 
+booking  intentions (H6). This result is consistent with Kim  ’s et al. 
+                                                                           that marketing   communication   messages   that address  consumers’ 
+(2018) study that showed brand loyalty buffers the effect of negative 
+                                                                           health-related concerns and  target the general  public should  use a 
+information. In addition, since consumers with high loyalty are already 
+                                                                           rational appeal type in order to persuade customers that staying at the 
+poised to act in favor of the brand (Oliver, 1999), the effect of appeal 
+                                                                           hotel is safe. Specifically,hotel  marketers and managers should consider 
+type decreased  for the high loyalty group  (H5). The effectiveness of 
+                                                                           providing  information  about  the hotel’s prevention  measures   and 
+marketing  communications   has often been  examined  as a tool to in­
+                                                                           disinfectant practices to increase consumers’ hotel booking intentions. 
+crease loyalty, but this result suggests that brand loyalty could be an 
+                                                                              This study also provided another interesting finding.When  the level 
+independent factor that creates varying levels of message effectiveness. 
+                                                                           of both PSC and brand loyalty were low, the emotional appeal type was 
+   The three-way interaction—or moderated moderation—showed that 
+                                                                           more effective for the low PSC group compared to the high PSC group. 
+the interaction between PSC and appeal type was significantfor  the low 
+                                                                           This finding suggests that hotel managers and marketers also need to 
+loyalty group but not for the high loyalty group (H7). This shows that 
+                                                                           consider the dynamic relationship between PSC, message appeal type, 
+when brand loyalty is high, the distinction between appeal type and its 
+                                                                           and loyalty in order to create more effective marketing communications 
+effect on ameliorating consumer concern, operationalized as PSV in this 
+                                                                           amidst the COVID-19 crisis. Specifically,hotel  managers and marketers 
+study, weakens.  In sum, considering  the fact that the unprecedented 
+                                                                           should consider using the emotional appeal type when a communication 
+COVID-19   pandemic   may  have  influenced consumer   behaviors, this 
+                                                                           message  regarding COVID-19   targets a specific consumer group (e.g., 
+study provided crucial empirical evidence about the dynamic relation­
+                                                                           consumers with low PSC and loyalty). When an emotional appeal type is 
+ships among PSC, message appeal type, and brand loyalty in the lodging 
+                                                                           utilized, it should aim to (1) encourage the audience to personalize the 
+industry context. 
+                                                                           message by providing an appeal that targeted consumers can relate to (e. 
+                                                                           g., create a sense of belonging and acknowledge the impact of COVID-19 
+5.2. Implications                                                          on the consumer’s  life) and (2) generate a feeling of empathy  (e.g., 
+                                                                           emphasize  the impact of COVID-19   on  hotel employees  and how  the 
+5.2.1. Theoretical implications                                            hotel brand is supporting surrounding communities). 
+   The findings of this study contribute to understanding unique lod­         Lastly, although consumer   brand  loyalty and  its critical role in 
+ging industry consumer behaviors in the context of the COVID-19 crisis.    generating positive consumer behavioral intentions is not an unfamiliar 
+COVID-19 presented a rare context to investigate the influence of con­     concept in the hospitality industry context (Shoemaker and Lewis, 1999; 
+sumers’ health-related concerns on behavioral intentions in the lodging    Kandampully et al., 2015; Tanford, 2016; Tepeci, 1999), the results of 
+industry. This study is the firstto  investigate (1) the influenceof  PSC on this study revealed that loyalty even works as a buffer to abate the 
+hotel booking intentions and (2) how its impact could be ameliorated by    negative influence  of consumers’   health-related concerns. Thus,  it 
+utilizing a particular message appeal type and the level of brand loyalty. confirmed  that ‘consumers’ love conquers  the worries’ even  when  a 
+The  results showed that PSC  negatively influenced hotel booking  in­     global pandemic  is present. Therefore, hotel managers and  marketers 
+tentions only when  the level of brand loyalty was  low. On the  other     should continue to remember that building a strong relationship with 
+hand, the negative influencewas  buffered when brand loyalty was high.     consumers is essential to prepare for other possible health-related crises. 
+Additionally, this study also confirmedthat  the HBM could be applied to 
+examine  consumers’  perceptions of the risk associated with a disease     5.3. Limitations and future studies 
+and its influence on their behavioral intentions in the lodging industry 
+context. Thus, future  studies should utilize the full HBM  model   or        Although the current study provided unique contributions, it is not 
+
+                                                                       10
+Y. Ju and S.(S. Jang                                                                                                                                                     International                    Journal            of     Hospitality                 Management                   108 (2023) 103357
+
+Table 5 
+Detailed regression analysis result for Model 4.   
+
+                                        Model 4  
+
+                                        Coefficient          S.E.            t                P-value          VIF             90 % Lower Limit            90 % Upper Limit 
+
+  Constant                               3.012 ***           0.329            9.161           0.000                                        2.470                      3.555 
+  Agei                                       0.084           0.054            1.542           0.124            1.087                     - 0.006                      0.174 
+  Genderi                                    0.094           0.103            0.912           0.363            1.058                     - 0.076                      0.265 
+  Incomei                                    0.028           0.029            0.939           0.349            1.058                     - 0.021                      0.076 
+  PMEi                                     .193 ***          0.046            4.195           0.000            1.324                       0.117                      0.269 
+  PSCi                                    - .163 **          0.067            -2.430          0.016            3.495                     - 0.273                     - 0.052 
+  Appeal typei                           0.466 ***           0.137            3.391           0.001            1.908                       0.239                      0.692 
+  Loyaltyi                               1.461 ***           0.148            9.888           0.000            2.178                       1.217                      1.705 
+  PSCi × Appeal typei                      0.191 **          0.096            2.004           0.046            3.558                       0.034                      0.349 
+  PSCi × Loyaltyi                           .271 **          0.106            2.551           0.011            3.707                       0.096                      0.446 
+  Appeal typei × Loyaltyi                 - 0.354 *          0.206           - 1.722          0.086            3.137                     - 0.694                     - 0.015 
+  PSCi × Appeal typei × Loyaltyi          - 0.276 *          0.147           - 1.874          0.062            4.077                     - 0.519                     - 0.033 
+                            N                  311          
+  F                                     24.016 ***           0.000        
+  R2                                         0.469          
+  Adj.R2                                     0.450          
+
+Note. DV =   booking intention; coefficient=   unstandardized coefficient;S.E   = standard error; VIF =  variance inflationfactor;  PME =  perceived message effectiveness; 
+PSC =  perceived severity of COVID-19; appeal type (0     =  emotional appeal type, 1  =  rational appeal type); loyalty was dichotomized using the median split method 
+(0 =  low loyalty group, 1  = high loyalty group). 
+* , **, and *** represents less than 10 %, 5 %, and 1 % significance level, respectively. 
+
+free from limitations. First, the data used in this study were from people                are here waiting for you. 
+who reside in the U.S. Thus, the results may not be generalizable on a 
+global  scale.  Second, this   study   explored   consumer behaviors       when   a       Rational appeal type message 
+health-related concern was present in the lodging context. Nevertheless, 
+it did  not  aim  to  assess  the  entire  decision-making     process   that  con­           In response    to COVID-19,     we   have   taken  additional    preventative 
+sumers    go  through    when    they  decide   whether    or  not   to  stay  at a       measures to ensure health and safety of our guests. All employees are 
+particular hotel brand. As shown in the correlation matrix in Fig. 2, PME                 required   to  wear    personal   protective    equipment     (e.g.  face  masks, 
+had moderate positive correlations with PSC, appeal type, loyalty, and                    gloves). The check-in and out process is designed to keep six-foot dis­
+hotel booking intentions, which implies that there could be additional                    tance  between     guests  and   employees.     No   contact   check-in   options, 
+relationships   left to  be  investigated   in terms   of  COVID-19     marketing         including mobile check-in, are also available. 
+communications research.                                                                      In addition, our cleaning and disinfecting practices have also been 
+    Hence, in order to better understand consumer behaviors and their                     rigorously   reinforced.   All  rooms   are  cleaned   thoroughly    and   treated 
+decision-making processes in the COVID-19 crisis, future studies need to                  with  disinfectant    upon   check-out,   and   hospital-grade    disinfectant    is 
+consider investigating other factors that could influencethis           process (e.       frequently   applied    to  clean  public   areas   (doors,   stairwell   handles, 
+g., message frequency, timing, source credibility, message order effect,                  bathroom,    elevator   switch  etc.). Lastly,  hand   sanitizers  are  placed   in 
+etc.). Moreover, the topics (e.g., cleaning, disinfecting, community, etc.)               public areas, including the entrance, and disinfectant soap and wipes are 
+mentioned in COVID-19 related messages and their relative effects on                      provided to our guests upon request. 
+ameliorating consumers’ health risk perceptions should be investigated                        Once again, we would like to inform you know that we are ready and 
+in order to increase consumers’ hotel booking intentions in the COVID-                    here to meet your future travel needs. 
+19 era—or another global health crisis. Table 5. 
+                                                                                          References 
+Appendix A 
+                                                                                          Akhter, S.H., 2003. Digital divide and purchase intention: why demographic psychology 
+                                                                                                                                  –
+Emotional appeal type message                                                                 matters. J. Econ. Psychol. 24 (3), 321 327. 
+                                                                                          Albers-Miller, N.D., Stafford, M.R., 1999a. An international analysis of emotional and 
+                                                                                              rational appeals in services vs goods advertising. J. Consum. Mark. 16 (1), 42–57. 
+    Without a doubt, COVID-19 has impacted our families and commu­                        Albers-Miller, N.D., Stafford, M.R., 1999b. International services advertising: an 
+nity. Our   heart goes out to those who        have been affected      by this un­            examination of variation in appeal use for experiential and utilitarian services. 
+                                                                                              J. Serv. Mark. 13 (4), 390–406. 
+precedented global event. We understand the challenge and frustration                     Alonso, A.D., Kok, S.K., Bressan, A., O’Shea, M., Sakellarios, N., Koresis, A., Santoni, L.J., 
+of not being able to enjoy things that you loved—especially if you took                       2020. COVID-19, aftermath, impacts, and hospitality firms: an international 
+pleasure in exploring new places. The safety and health of our family,                        perspective. Int. J. Hosp. Manag. 91, 102654. 
+                                                                                          American Hotel & Lodging Association, 2020, August). State of the hotel industry 
+including our guests and team members, are our top priority. We are                           analysis: COVID-19 six months later. Retrieved from 〈https://ahla.com〉. 
+here to provide you with a safe and clean room where you can rest and                     American Hotel & Lodging Association , 2021, January). State of the hotel industry 
+                                                                                                                    〈               〉
+rejuvenate if your travel needs arise in the future.                                          report. Retrieved from https://ahla.com . 
+                                                                                          Andrews, J.C., Shimp, T.A., 1990. Effects of involvement, argument strength, and source 
+    We also would like to let you know that, as it did to our community,                      characteristics on central and peripheral processing of advertising. Psychol. Mark. 7 
+COVID-19     has   severely   impacted    our   hotel  family,   as  well.  Conse­            (3), 195–214. 
+quently, we were not able to welcome as many guests as we used to and                     Back, K.J., 2005. The effects of image congruence on customers’ brand loyalty in the 
+                                                                                              upper middle-class hotel industry. J. Hosp. Tour. Res. 29 (4), 448–467. 
+had to make the difficult decision to furlough many of our staff mem­                     Back, K.J., Parks, S.C., 2003. A brand loyalty model involving cognitive, affective, and 
+bers. Yet, we believe that there is a silver lining, and this difficultseason                 conative brand loyalty and customer satisfaction. J. Hosp. Tour. Res. 27 (4), 
+will come to an end. Most importantly, we will overcome this ‘together.’                      419–435. 
+We   truly  hope   that  day   would   come    quickly,   and  it all starts  from        Bandyopadhyay, S., Martell, M., 2007. Does attitudinal loyalty influence behavioral 
+                                                                                              loyalty? a theoretical and empirical study. J. Retail. Consum. Serv. 14 (1), 35–44. 
+                                                                                                                                                           ′
+welcoming you back to our hotel.                                                          Baum, T., Mooney, S.K., Robinson, R.N., Solnet, D., 2020. COVID-19 s impact on the 
+    Once again, we would like to let you know that we miss you and we                         hospitality workforce–new crisis or amplification of the norm? Int. J. Contemp. 
+                                                                                              Hosp. Manag. 32 (9), 2813–2829. 
+
+                                                                                      11
+Y. Ju and S.(S. Jang                                                                                                                                                     International                    Journal            of     Hospitality                 Management                   108 (2023) 103357
+
+Bowen, J.T., Shoemaker, S., 2003. Loyalty: a strategic commitment. Cornell Hotel              the case of New York restaurant sanitation grading system. Cornell Hosp. Q. 59 (3), 
+    Restaur. Adm. Q. 44 (5–6), 31–46.                                                         275–284. 
+Burman, B., Albinsson, P.A., Hyatt, E., Robles, B., 2017. The impact of price level and   King, C.A., 1995. What is hospitality? Int. J. Hosp. Manag. 14 (3–4), 219–234. 
+    appeal type in hotel advertising: a pilot study. Serv. Mark. Q. 38 (1), 46–56.        Kock, F., Berbekova, A., Assaf, A.G., 2021. Understanding and managing the threat of 
+Carpenter, C.J., 2010. A meta-analysis of the effectiveness of health belief model            common method bias: detection, prevention and control. Tour. Manag. 86, 104330. 
+    variables in predicting behavior. Health Commun. 25 (8), 661–669.                     Kotler, P., Armstrong, G., 2010. Principles of Marketing. Pearson Education. 
+Champion, V.L., Skinner, C.S., 2008. The health belief model. Health Behav. Health        Kwok, K.O., Li, K.K., Chan, H.H., Yi, Y.Y., Tang, A., Wei, W.I., Wong, Y.S. , 2020). 
+    Educ.: Theory, Res., Pract. 4, 45–65.                                                     Community responses during the early phase of the COVID-19 epidemic in Hong 
+Chen, Q., Min, C., Zhang, W., Wang, G., Ma, X., Evans, R., 2020. Unpacking the black          Kong: risk perception, information exposure and preventive measures. MedRxiv. 
+    box: how to promote citizen engagement through government social media during         Mason, D.D., Tideswell, C., Roberts, E., 2006. Guest perceptions of hotel loyalty. J. Hosp. 
+    the COVID-19 crisis. Comput. Hum. Behav. 110, 106380.                                     Tour. Res. 30 (2), 191–206. 
+Chi, H.K., Yeh, H.R., 2009. The impact of brand awareness on consumer purchase            Mattila, A.S., 1999. Do emotional appeals work for services? Int. J. Serv. Ind. Manag. 10 
+    intention: the mediating effect of perceived quality and brand loyalty. J. Int. Manag.    (3), 291–307. 
+    Stud. 4, 135–144.                                                                     Mattila, A.S., 2001. Do emotional appeals work for hotels? an exploratory study. J. Hosp. 
+Chiang, C.F., Jang, S.S., 2007. The effects of perceived price and brand image on value       Tour. Res. 25 (1), 31–45. 
+    and purchase intention: Leisure travelers’ attitudes toward online hotel booking.     Min, H., Park, J., Kim, H.J., 2016. Common method bias in hospitality research: a critical 
+    J. Hosp. Leis. Mark. 15 (3), 49–69.                                                       review of literature and an empirical study. Int. J. Hosp. Manag. 56, 126–135. 
+De Zwart, O., Veldhuijzen, I.K., Elam, G., Aro, A.R., Abraham, T., Bishop, G.D., Brug, J., Mitchell, V.W., Greatorex, M., 1993. Risk perception and reduction in the purchase of 
+    2009. Perceived threat, risk perception, and efficacy beliefs related to SARS and         consumer services. Serv. Ind. J. 13 (4), 179–200. 
+    other (emerging) infectious diseases: results of an international survey. Int. J. Behav. Mongiovi, J., Hillyer, G.C., Basch, C.H., Ethan, D., Hammond, R., 2017. Characteristics of 
+    Med. 16 (1), 30–40.                                                                       medication advertisements found in US women’s fashion magazines. Health Promot. 
+Dick, A.S., Basu, K., 1994. Customer loyalty: toward an integrated conceptual                 Perspect. 7 (1), 28. 
+    framework. J. Acad. Mark. Sci. 22 (2), 99–113.                                        Namkung, Y., Jang, S., Choi, S.K., 2011. Customer complaints in restaurants: do they 
+Dillard, J.P., Shen, L., Vail, R.G., 2007. Does perceived message effectiveness cause         differ by service stages and loyalty levels? Int. J. Hosp. Manag. 30 (3), 495–502. 
+    persuasion or vice versa? 17 consistent answers. Hum. Commun. Res. 33 (4),            Nekmat, E., Gower, K.K., Zhou, S., Metzger, M., 2019. Connective-collective action on 
+    467–488.                                                                                  social media: moderated mediation of cognitive elaboration and perceived source 
+Dryhurst, S., Schneider, C.R., Kerr, J., Freeman, A.L., Recchia, G., Van Der Bles, A.M.,      credibility on personalness of source. Commun. Res. 46 (1), 62–87. 
+    Van Der Linden, S., 2020. Risk perceptions of COVID-19 around the world. J. Risk      Neter, J., Kutner, M.H., Nachtsheim, C.J., Wasserman, W., 1996. Applied Linear 
+    Res. 23 (7–8), 994–1006.                                                                  Statistical Models, fourth ed. WCB McGraw-Hill, New York.  
+Eichhorn, B.R., 2014. Common Method Variance Techniques. Cleveland State University,      Nysveen, H., Breivik, E., 2005. The influence of media on advertising effectiveness a 
+    Department of Operations & Supply Chain Management. SAS Institute Inc,                    comparison of internet, posters and radio. Int. J. Mark. Res. 47 (4), 381–404. 
+    Cleveland, OH, pp. 1–11. Cleveland State University, Department of Operations &       Oliver, R.L., 1999. Whence consumer loyalty? J. Mark. 63 (4), 33–44. 
+    Supply Chain Management.                                                              Petty, R.E., Cacioppo, J.T., 1986. The elaboration likelihood model of persuasion. 
+Farzanegan, M.R., Gholipour, H.F., Feizi, M., Nunkoo, R., Andargoli, A.E., 2021.              Communication and persuasion. Springer,, New York, NY, pp. 1–24. 
+    International tourism and outbreak of coronavirus (COVID-19): a cross-country         Podsakoff, P.M., MacKenzie, S.B., Lee, J.Y., Podsakoff, N.P., 2003. Common method 
+    analysis. J. Travel Res. 60 (3), 687–692.                                                 biases in behavioral research: a critical review of the literature and recommended 
+Filimonau, V., Derqui, B., Matute, J., 2020. The COVID-19 pandemic and organisational         remedies. J. Appl. Psychol. 88 (5), 879. 
+    commitment of senior hotel managers. Int. J. Hosp. Manag. 91, 102659.                 Raj, S.P., 1982. The effects of advertising on high and low loyalty consumer segments. 
+Fu, J.R., Chen, J.H., 2012. An investigation of factors that influence blog advertising       J. Consum. Res. 9 (1), 77–89. 
+    effectiveness. Int. J. Electron. Bus. Manag. 10 (3), 194.                             Rosenstock, I.M., 1974. The health belief model and preventive health behavior. Health 
+Garcia de Leaniz, P.M., Rodríguez Del Bosque Rodríguez, I., 2015. Exploring the               Educ. Monogr. 2 (4), 354–386. 
+    antecedents of hotel customer loyalty: a social identity perspective. J. Hosp. Mark.  Rosenstock, I.M., Strecher, V.J., Becker, M.H., 1988. Social learning theory and the 
+    Manag. 24 (1), 1–23.                                                                      health belief model. Health Educ. Q. 15 (2), 175–183. 
+Ha, J., Jang, S., 2010. Effects of service quality and food quality: the moderating role of Schall, M., 2003. Best practices in the assessment of hotel-guest attitudes. Cornell Hotel 
+    atmospherics in an ethnic restaurant segment. Int. J. Hosp. Manag. 29 (3), 520–529.       Restaur. Adm. Q. 44 (2), 51–65. 
+Hair, J.F., Anderson, R.E., Babin, B.J., Black, W.C., 2010. Multivariate Data Analysis: A Shoemaker, S., Lewis, R.C., 1999. Customer loyalty: the future of hospitality marketing. 
+    Global Perspective, Vol. 7. Pearson,, Upper Saddle River, NJ.                             Int. J. Hosp. Manag. 18 (4), 345–370. 
+Hao, F., Xiao, Q., Chon, K., 2020. COVID-19 and China’s hotel industry: impacts, a        Stafford, M.R., Day, E., 1995. Retail services advertising: the effects of appeal, medium, 
+    disaster management framework, and post-pandemic agenda. Int. J. Hosp. Manag.             and service. J. Advert. 24 (1), 57–71. 
+    90, 102636.                                                                           Tanford, S., 2016. Antecedents and outcomes of hospitality loyalty: a meta-analysis. 
+Hayes, A.F., 2017. Introduction to Mediation, Moderation, and Conditional Process             Cornell Hosp. Q. 57 (2), 122–137. 
+    Analysis: A Regression-Based Approach. Guilford Publications.                         Tang, L.R., Jang, S., Morrison, A., 2012. Dual-route communication of destination 
+Herhausen, D., Ludwig, S., Grewal, D., Wulf, J., Schoegel, M., 2019. Detecting,               websites. Tour. Manag. 33 (1), 38–49. 
+    preventing, and mitigating online firestorms in brand communities. J. Mark. 83 (3),   Teichert, T., Hardeck, D., Liu, Y., Trivedi, R., 2018. How to implement informational and 
+    1–21.                                                                                     emotional appeals in print advertisements: A framework for choosing ad appeals 
+Hlee, S., Lee, J., Yang, S.B., Koo, C., 2019. The moderating effect of restaurant type on     based on advertisers’ objectives and targeted demographics. J. Advert. Res. 58 (3), 
+    hedonic versus utilitarian review evaluations. Int. J. Hosp. Manag. 77, 195–206.          363–379. 
+Hochbaum, G.M., 1958. Public participation in medical screening programs. Public          Tellis, G.J., 1988. Advertising exposure, loyalty, and brand purchase: a two-stage model 
+    Health Serv. Publ. 12, 572–577.                                                           of choice. J. Mark. Res. 25 (2), 134–144. 
+Hu, X., Yan, H., Casey, T., Wu, C.H., 2021. Creating a safe haven during the crisis: how  Tepeci, M., 1999. Increasing brand loyalty in the hospitality industry. Int. J. Contemp. 
+    organizations can achieve deep compliance with COVID-19 safety measures in the            Hosp. Manag. 11 (5), 223–230. 
+    hospitality industry. Int. J. Hosp. Manag. 92, 102662.                                Tranberg, H., Hansen, F., 1986. Patterns of brand loyalty: their determinants and their 
+Huang, A., Makridis, C., Baker, M., Medeiros, M., Guo, Z., 2020. Understanding the            role for leading brands. Eur. J. Mark. 20 (3), 81–109. 
+    impact of COVID-19 intervention policies on the hospitality labor market. Int. J.     Wang, S., Kirillova, K., Lehto, X., 2017. Reconciling unsatisfying tourism experiences: 
+    Hosp. Manag. 91, 102660.                                                                  message type effectiveness and the role of counterfactual thinking. Tour. Manag. 60, 
+Iacobucci, D., Posavac, S.S., Kardes, F.R., Schneider, M.J., Popovich, D.L., 2015. Toward     233–243. 
+    a more nuanced understanding of the statistical properties of a median split.         Wong, I.A., Yang, F.X., 2020. A quarantined lodging stay: the buffering effect of service 
+    J. Consum. Psychol. 25 (4), 652–665.                                                      quality. Int. J. Hosp. Manag. 91, 102655. 
+Iacobucci, D., Schneider, M.J., Popovich, D.L., Bakamitsos, G.A., 2016. Mean centering    Xiang, D., Zhang, L., Tao, Q., Wang, Y., Ma, S., 2019. Informational or emotional appeals 
+    helps alleviate “micro” but not “macro” multicollinearity. Behav. Res. Methods 48         in crowdfunding message strategy: an empirical investigation of backers’ support 
+    (4), 1308–1317.                                                                           decisions. J. Acad. Mark. Sci. 47 (6), 1046–1063. 
+Im, J., Kim, H., Miao, L., 2021. CEO letters: Hospitality corporate narratives during the Xu, X., Huang, Y., 2019. Restaurant information cues, Diners’ expectations, and need for 
+    COVID-19 pandemic. Int. J. Hosp. Manag. 92, 102701.                                       cognition: experimental studies of online-to-offline mobile food ordering. J. Retail. 
+Janz, N.K., Becker, M.H., 1984. The health belief model: a decade later. Health Educ. Q.      Consum. Serv. 51, 231–241. 
+    11 (1), 1–47.                                                                         Yoon, H.J., Kim, Y.J., 2016. Understanding green advertising attitude and behavioral 
+Jiang, Y., Wen, J., 2020. Effects of COVID-19 on hotel marketing and management: a            intention: an application of the health belief model. J. Promot. Manag. 22 (1), 
+    perspective article. Int. J. Contemp. Hosp. Manag. 32 (8), 2563–2573.                     49–70. 
+Kandampully, J., Zhang, T.C., Bilgihan, A., 2015. Customer loyalty: a review and future   Zenker, S., Kock, F., 2020. The coronavirus pandemic–a critical discussion of a tourism 
+    directions with a special focus on the hospitality industry. Int. J. Contemp. Hosp.       research agenda. Tour. Manag. 81, 104164. 
+    Manag. 27 (3), 379–414.                                                               Zhang, H., Sun, J., Liu, F., Knight, J.G., 2014. Be rational or be emotional: advertising 
+Kim, M.G., Yang, H., Mattila, A.S., 2018. The impact of customer loyalty and restaurant       appeals, service types and consumer responses. Eur. J. Mark. 48 (11), 2105–2126. 
+    sanitation grades on revisit intention and the importance of narrative information: 
+
+
+                                                                                      12

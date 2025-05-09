@@ -1,0 +1,485 @@
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+Meditation, Cognitive Flexibility, and Emotion Regulation:
+A Test of Technique
+Ashley Figel
+Department of Psychology, Eastern Oregon University
+PSY 403: Honor’s Thesis
+Dr. Zoe Johnson-Ulrich
+May 25, 2023
+2
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+Meditation, Cognitive Flexibility, and Emotion Regulation:
+A Test of Technique
+Most people have felt as if their emotions got the best of them at some point in their lives.
+During these moments, it can feel impossible to shift one’s attention from the emotionally
+charged experience to de-escalate. The ability to shift attention is a key aspect of cognitive
+flexibility and has a significant impact on our capacity to regulate our emotions. In fact, it has
+been found that tolerance for negative emotional states and emotion regulation are positively
+correlated with cognitive flexibility (Arici-Ozcan et al., 2019). Furthermore, psychological
+studies have focused on ways to enhance cognitive and emotional processes because the
+impairment of these processes is central to many psychiatric disorders (Gu et al., 2015; Millan et
+al., 2012; Koole, 2009). One useful method that has been identified by these studies is
+meditation, as meditation has been found to increase connectivity between neural networks
+associated with emotion and attentional processes (Froeliger et al., 2012). Clinical studies show
+support for the use of meditation and a component of meditation, mindfulness, for chronic pain
+treatment, personality disorders, attention disorders, and various disorders of emotions (Hofmann
+et al., 2011; Marchand, 2013; Rubia, 2009; Sedlmeier et al., 2012). Many clinical therapeutic
+approaches have a basis in mindfulness practices, for example, mindfulness-based cognitive
+therapy (Segal & Walsh, 2016), dialectical behavior therapy (Linehan, 1987), acceptance and
+commitment therapy (Hayes & Wilson, 1994), and mindfulness-based stress reduction program
+(MBSR) (Kabat-Zinn et al., 1985; Moore & Malinowski, 2009). However, it is not clear how
+these therapeutic techniques lead to benefits for cognitive and emotional processes. Thus, the
+current study will attempt to gain insight into the relationship between meditation techniques,
+cognitive flexibility, and emotional regulation.
+3
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+Although it is unclear which meditation techniques produce the cognitive and emotional
+benefits of mindfulness-based therapeutic approaches, several studies have concluded that
+meditation has positive effects on the regulation of attention and emotions (Chambers et al.,
+2007; Jha et al., 2007), cognitive flexibility (Moore & Malinowski, 2009), memory (Jha et al.,
+2010), and overall well-being (Wallace & Shapiro, 2006). However, these studies did not utilize
+a specific meditation technique and the length of meditation exposure varied. Chambers et al.
+(2007) compared the results of participants after a 10-day intensive mindfulness retreat to a
+meditation naïve group. Moore and Malinowski (2009) compared Buddhist meditators that had
+completed at least one, 6-week mindfulness meditation retreat, to a meditation naïve control
+group. Jha et al. (2010) included two military cohorts and provided 8 weeks of mindfulness
+training to one of the cohorts. Wallace and Shapiro (2006) primarily came to their conclusions
+based on correlations between general meditation practice and well-being. Jha et al. (2007)
+compared participants from an 8-week MBSR cohort to individuals from a 4-week intensive
+mindfulness retreat. While Jha et al. (2007) did not explicitly state the meditation type, one could
+argue that focused attention meditation (FAM) and open monitoring meditation (OMM) were
+included as FAM and OMM are considered foundational to the mindfulness-based stress
+reduction program (Khoury et al., 2015). While these studies conclude that meditation and
+mindfulness are beneficial for emotion regulation and cognitive control, they do not clearly
+define which meditation technique was used. This is an important consideration as Sedlmeier et
+al. (2012) found that different meditation techniques yield variable effects on cognitive and
+emotional processes. In summation, there are various benefits found with meditation, but it is
+unclear what produces the benefit or what type of benefit is generated because the authors either
+do not report the type of meditation or the studies use multiple different meditation techniques. It
+4
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+is also unclear how much meditation is needed to produce benefits as many studies vary in the
+length of time spent meditating. Therefore, consideration of various meditation techniques and
+durations is necessary.
+FAM, OMM, and loving-kindness meditation (LKM) are among some of the most
+frequently utilized styles. In fact, FAM is often considered the starting foundation for many other
+types of meditation practice. This style of meditation involves an extended focus on a single
+tangible or physical object, such as one’s breath. The FAM practitioner must actively bring
+awareness to mind wandering and reorient their attention (Lippelt et al., 2014). As the goal of
+FAM is to increase attentional control and reduce emotional reactivity, advanced practitioners of
+FAM can maintain a state of hyperfocus with little effort. OMM is typically the next step in
+meditation practice after FAM practice has been established. Worth noting, there is little
+difference between OMM and FAM; the object of attention in FAM is something tangible or
+physical, and the object of attention in OMM is that which rises to one’s awareness (Lippelt et
+al., 2014; Yordanova et al., 2020). Thus, OMM involves constant monitoring of mental states
+and reorienting to a state of active monitoring. Another type of meditation, loving-kindness
+meditation (LKM), is an easy transition for advanced OMM practitioners as the constant
+awareness of one’s mental state is an integral component of LKM. A typical LKM session
+involves mentally extending love and compassion to oneself, then a loved one, a stranger, and
+finally, to an “unlikeable” other. During LKM, practitioners are encouraged to reassess negative
+feelings such as hatred and anger and reorient to feelings of compassion and kindness. Thus,
+LKM focuses on socio-affective capacities by mentally extending thoughts of kindness and
+goodwill to others, while FAM and OMM focus on attention regulation.
+5
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+While FAM, OMM, and LKM practices differ in the object of attention, some studies
+have identified neural activation patterns common to all three styles. For example, a comparison
+of FAM, OMM, and LKM on measures of EEG oscillatory synchronization patterns indicated all
+three types of meditation shared a consistent connectivity pattern during meditation (Yordanova
+et al., 2020). All three meditation types had a bilateral increase in delta oscillations, a left
+hemisphere increase in theta oscillations, and a right hemisphere increase in fast alpha
+oscillations (Yordanova et al., 2020). Theta and alpha oscillations have been associated with
+“working memory engagement and inhibition of task-irrelevant cortical regions” (Spironelli &
+Angrilli, 2010, p. 259). Interestingly, delta waves are typically only seen in healthy adults during
+deep stages of sleep and are considered indicative of brain damage or psychiatric disease when
+active during wakefulness (Spironelli & Angrilli, 2010). Thus, increased delta activity during
+FAM, OMM, and LKM practice may indicate the induction of a deep-sleep-like state while one
+practices meditation. Of note, the participants in this study all had approximately 20,000 hours of
+meditative practice, therefore these findings may only be typical for advanced FAM, OMM, or
+LKM practitioners. However, Yordanova et al. (2020) conclude the specific EEG patterns
+identified are indicative of heightened attention and awareness of one’s experiences
+(meta-cognition). Overall, this indicates that there are similar connectivity patterns that occur
+with various types of meditation. However, while imaging studies provide insight into brain
+activity and neural connections, they cannot indicate if, and to what degree, cognitive or
+emotional processes may be impacted by the imaged activity. Moreover, research into the impact
+of LKM and FAM on cognitive and emotional processes is lacking. One study found reduced
+cognitive flexibility with FAM (Wolff & Beste, 2020), and another found moderate effects on
+emotional processes with LKM (Hofmann et al., 2015). However, the interpretation of Hofmann
+6
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+et al. (2015) is limited as it was uncontrolled and only included subjects with mood disorders. No
+studies of FAM and measures of emotion regulation were identified nor were studies of LKM
+and cognitive flexibility. Thus, a comparison of LKM and FAM on measures of cognitive
+flexibility and emotion regulation is needed to provide insight into the various findings of
+imaging studies.
+Adding to the neural activity overlap of meditation styles, some studies have found that
+meditation also appears to activate specific neural networks. For example, a study of long-term
+LKM practitioners identified via structural MRI that LKM practitioners had thicker
+fronto-insular cortices than meditation naïve controls (Engen et al., 2018). Furthermore, fMRI
+indicated that LKM activates fronto-insular regions bilaterally, and this activation pattern
+partially overlapped with the identified increases in the thickness of these regions in those that
+meditated (Engen et al., 2018). It is suggested that the overlap between fronto-insular thickness
+increases and activation may provide support for meditation-mediated neuroplasticity, which
+may enhance cognitive flexibility due to increased connectivity in fronto-insular regions. To
+support this theory, FAM has been found to increase gray matter in the insular and frontal
+cortices (Lenhart et al., 2020). Important to note, Engen et al. (2018) included a relatively small
+cohort size with only 17 LKM practitioners. Additionally, all the practitioners in the LKM study
+had meditated for an estimated total of 40,000 hours, practiced for an average of 30 years, and
+attended multiple intensive meditation retreats (Engen et al., 2018). The duration and hours of
+LKM practiced by the cohort limit the generalizability of the findings. Interestingly, while the
+FAM study also had a relatively small cohort size of 27 participants, all participants were
+meditation novices and practiced for only 7 weeks before alterations in the insular and prefrontal
+regions were found (Lenhart et al., 2020). Therefore, these findings may indicate benefits of
+7
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+meditation are possible within a relatively short period regardless of previous meditation
+experience. Nevertheless, both studies indicate that LKM and FAM increase the activation of
+prefrontal and insular regions. Moreover, the activation of these regions likely influences
+emotion regulation and cognitive flexibility due to their association with these processes.
+Emotion and attention regulation, and thus cognitive flexibility, are two primary
+functions of the fronto-insular cortex. Moreover, the fronto-insular cortex appears to initiate the
+switch to the central executive network from the default mode network during cognitively
+demanding tasks (Sridharan et al., 2008). The default mode network includes the ventromedial
+prefrontal cortex and posterior cingulate cortex and is active when individuals are not focused on
+the outside world (Sridharan et al., 2008). The central executive network consists of the
+dorsolateral prefrontal cortex and posterior parietal cortex and is critical not only for working
+memory functions but for judgment and decision-making as well (Sridharan et al., 2008). This
+explains the increase in theta and alpha oscillations during meditation found by Yordanova et al.
+(2020), as these waves are associated with working memory. The fronto-insular cortex contains
+the ventrolateral prefrontal cortex (VLPFC) and is a key node of the salience network, which
+directs our attention to cognitive and emotional stimuli deemed important. The VLPFC has a
+well-established connection with affect regulation, particularly when cognitive reappraisal is
+necessary to divulge alternative meanings of emotional stimuli (Engen et al., 2018). Additionally,
+the salience network includes the anterior cingulate cortex (ACC), which has connections with
+the limbic (emotional) system and the prefrontal cortex (cognitive system) (Stevens et al., 2011).
+Thus, cognitively demanding tasks, like meditation, activate the network responsible for
+directing our attention to important cognitive and emotional stimuli (the fronto-insular cortex of
+8
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+the salience network), which then activates the network responsible for making judgments and
+decisions (the central executive network) based on those stimuli (Fig. 1).
+Figure 1
+Neural Networks Activated by Meditation
+Note. The FIC mediates the shift from the DMN to CEN. The VLPFC is part of the FIC and SN.
+The ACC is connected to the limbic and cognitive systems.
+The functions of these neural networks, combined with the thickness increases in the
+fronto-insular cortex of long-time meditators, indicate the ability to switch between networks is
+augmented by meditation. Moreover, an increased ability to switch between networks likely
+improves emotional regulation through greater cognitive flexibility. However, a review of FAM,
+OMM, and LKM by Lippelt et al. (2014) indicates that distinguishing these meditation types in
+any meaningful way on measures of emotion and cognition is lacking. Furthermore, while FAM
+and LKM have similar neural activation patterns, these meditation types differ in technique,
+which is expected to influence the effect on cognitive and emotional processes based on the
+9
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+findings of Sedlmeier et al. (2012) that found variable effects dependent on meditation technique.
+Therefore, differences in the degree to which cognitive and emotional processes are affected by
+meditation are expected and will vary depending on the technique used.
+While it is currently unclear how meditation style influences psychological outcomes,
+each one has a different technique that may aid in distinguishing which style yields the most
+benefit. For example, LKM has a focus on socio-affective skills, which are processes of the
+anterior insula and the ACC (Engen et al., 2018). Moreover, von Economo neurons (VEN) are a
+unique cell type found only within the insular and cingulate cortices and are currently only
+known to exist in “humans, great apes, elephants, and some cetaceans,” all highly social animals
+with large brains (Gogolla, 2017, p. R580). While Sridharan et al. (2008) suggest these neurons
+allow the salience network to mediate the switch from the default mode network to the central
+executive network, the specific function of these neurons is not clear. Other research indicates
+that VENs may be central to fostering social connections and socio-affective skills (Gogolla,
+2017). In support of this, VEN numbers are greatly reduced in individuals with neuropsychiatric
+disorders that involve impaired social functions, like frontotemporal dementia and early-onset
+schizophrenia (Santos et al., 2011). Research also suggests that VEN numbers are abnormal in
+those with autism, a disorder characterized by impaired social skills (Santos et al., 2011).
+Additional support for the role of VENs in socio-affective processes comes from the conclusion
+that insular activity is increased with LKM which, as mentioned previously, has a particular
+focus on cultivating socio-affective skills. Overall, it appears the insula and ACC have a direct
+impact on attention shifting, which is the basis of cognitive flexibility. These studies also indicate
+the insula and ACC have a direct impact on socio-affective and emotional processes that are
+likely mediated by VENs. Therefore, as FAM and LKM meditation activate the fronto-insular
+10
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+cortex, both emotion regulation and cognitive flexibility should be directly influenced by
+meditation practice. However, increases in fronto-insular activity are likely not as great with
+FAM due to the cultivation of an inflexible attentional state. Furthermore, considering the likely
+role of VENs in socio-affective and emotional processes and attention shifting, greater increases
+in these processes with LKM are expected when compared to FAM.
+Although FAM is found to increase gray matter, and thus connectivity, in fronto-insular
+regions, FAM appears to promote persistent cognitive stability that is not conducive to cognitive
+flexibility (Wolff & Beste, 2020). For example, on a measure of task switching Wolff and Beste
+(2020) found switch costs increased with a single 15-minute guided FAM session. Switch costs
+“reflect processing time when responses are to be switched” (Wolff & Beste, 2020, p. 1484).
+This may be explained by the basic principle of FAM to focus on a single object and reduce
+mind-wandering. Wolff and Beste (2020) explain that attention to extraneous stimuli is necessary
+to evaluate the importance of those stimuli and orient to them when necessary. Thus, FAM
+shields other cognitive processes from information outside the current focus and reduces
+cognitive flexibility. Interestingly, Stevens et al. (2011) found that amygdala activity was
+increased by the suppression of thoughts. As suppression of thoughts is central to FAM, and the
+amygdala is part of the limbic system, one could tentatively conclude that FAM would decrease
+emotion regulation. Conversely, Stevens et al. (2011) found that amygdala activity decreased
+with reappraisal, distraction, and distancing. As the reappraisal of feelings towards others is a
+central component of LKM, emotion regulation is expected to increase by LKM. However, as
+mentioned previously, there is not currently any research that compares these meditation types on
+measures of both cognitive flexibility and emotion regulation.
+11
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+This study aims to fill the gap in comparative meditation research, and thus will compare
+FAM and LKM on cognitive flexibility and emotion regulation measures. As previously
+mentioned, FAM and OMM differ only in the object of attention during practice. Therefore,
+OMM will not be included here as this study aims to compare divergent forms of meditation.
+Furthermore, the studies discussed previously involved cohorts of advanced meditation
+practitioners (Yordanova et al., 2020), or prescribed meditation practice for at least 10 days
+(Chambers et al., 2007) and up to 8 weeks (Jha et al., 2010). To date, very little research exists
+examining the short-term effects of meditation. In fact, only one study of short-term effects from
+either FAM or LKM was identified. In that study, 11 of 19 participants had reduced cognitive
+flexibility after a single, 15-minute smartphone app-guided FAM meditation (Wolff & Beste,
+2020). Based on these findings, it was expected that a short-term meditation task, such as a
+10-minute video-guided meditation, may have some effect. Three other studies of short-term
+meditation were identified but the meditation was either OMM (Lin et al., 2020) or a generalized
+breath awareness meditation (Wu et al., 2019; Basso et al., 2019). Lin et al. (2020) did not find
+any measurable effect on emotion regulation after a brief 20-minute exposure to meditation. In
+contrast, Wu et al. (2019) and Basso et al. (2019) found improvements in emotion regulation
+measures after meditation, but both studies included brief (13-15 minute) meditation for at least
+one week (Wu et al., 2019) and up to 8-weeks (Basso et al., 2019). Therefore, these studies are
+more long-term compared to the intended meditation exposure in this study. Thus, this study
+aimed to identify if emotion regulation and cognitive flexibility are affected with a single,
+10-minute guided FAM or LKM meditation.
+Here, we examined the effects of a single exposure to FAM or LKM on cognitive
+flexibility and affect regulation tasks in meditation novices. An emotional counting Stroop
+12
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+(ecStroop) and Wisconsin Card Sort (WCS) task were administered after a 10-minute guided
+LKM or FAM video. The ecStroop is a “variant of the traditional color-naming Stroop task” with
+a focus on identifying emotional interference (Brennan et al., 2015, p.1867). Previous studies
+have used the ecStroop to assess emotion regulation (Brennan et al., 2015; Whalen et al., 2006).
+However, these studies were specifically examining ACC function relative to the amygdala. As
+the ACC and amygdala are functionally connected to the fronto-insular cortex, it is assumed that
+the ecStroop will also apply here. The WCS task was used to assess cognitive flexibility due to
+the understanding that this task is commonly used to assess this aspect of executive functioning
+(Meyers et al., 2021). Participants in this study were meditation novices and results were
+compared to a non-meditation control group on the same measures.
+Based on the conclusion that meditation promotes the connectivity of neural regions
+associated with emotional processes, the first hypothesis of this study is that meditation will have
+a direct effect on emotion regulation (Fig. 2). Additionally, the studies discussed here
+demonstrate that meditation has a direct effect on cognitive flexibility. Therefore, the second
+hypothesis of this study is that meditation will have cognitive flexibility-mediated influences on
+emotion regulation that differ between LKM and FAM (Fig. 2).
+Figure 2
+Causal Relationships
+13
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+Note. Meditation will have a direct effect on emotion regulation (ER) and cognitive flexibility
+(CF). Meditation will also have an indirect effect on emotion regulation that is meditated by
+cognitive flexibility.
+Methods
+Participants
+Participants were recruited by contacting psychology professors at Eastern Oregon
+University (EOU). Participants’ professors offered extra credit towards students’ overall grade in
+one course upon completion of this study. Data collection was completed exclusively online;
+thus, participants were able to access the experiment via a URL link that was provided.
+Participants were asked to complete this study via Windows laptop or desktop computer with
+access to the internet and working speakers. Participants were also asked to complete the
+experiment alone in a quiet, non-disruptive environment, and be proficient in the English
+language. To ensure confidentiality, participant data was only associated with an ID number.
+Additionally, informed consent was obtained before data collection. After participants provided
+their electronic signature on the informed consent they were redirected to a new survey where
+their data was only associated with an ID number. In total, 114 people completed the informed
+consent and first half of the study, but only 49 participants completed the task portion, 45 of
+which were female, aged 18-50 years. Twelve participants were randomly assigned to the control
+group, 18 to the FAM group, and 19 to the LKM group.
+Materials and Instruments
+E-prime was used to create a Wisconsin Card Sort and emotional counting Stroop
+(ecStroop) task to assess cognitive flexibility and emotion regulation. Guided meditation and
+cartoon videos were administered via a YouTube video embedded in Qualtrics. Both guided
+14
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+meditation videos displayed a nature photo throughout the entire 10 minutes while a voice
+directed them to awareness of their breath (Declutter the Mind, 2020) or to mentally extend
+thoughts of gratitude and wellness to others (Declutter the Mind, 2019). The cartoon video was a
+10-minute clip of the movie Tom and Jerry: Snowman’s Land (WB Kids, 2022). Questionnaires,
+consent forms, and debriefing were also administered via Qualtrics. The Wisconsin Card Sort
+task required participants to learn one rule for a response, then shift their response to a new rule
+after approximately 10 correct responses (see Appendix). The rules for response were the same
+for all participants but order of sorting rule (shape, color, number of items) was randomized for
+each participant. The ecStroop task required participants to report the number of words they saw
+on a screen, regardless of meaning. Participants had trials that occurred in random order and
+contained neutral words (e.g., chance, owl, cork) or negative emotional words (e.g., alone,
+broken, crisis) (see Appendix). Participants were also asked questions regarding their current
+mood state prior to video exposure and task completion.
+Design
+This study design was between subjects with three levels. Therefore, participants were
+randomly assigned to one of three groups: FAM, LKM, or no meditation. Participants in all
+groups completed the same cognitive flexibility and emotional regulation tasks, though the order
+of tasks presented to participants was randomized. The dependent variables were cognitive
+flexibility and emotional regulation scores, measured with a WCS and ecStroop task.
+Procedure
+Before the administration of measures, participants first completed an online informed
+consent, then a questionnaire that assessed current emotions, previous meditation experience,
+age, gender, student status, and employment status. Participants assigned to LKM or FAM
+15
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+followed a self-administered 10-minute video-guided meditation. Participants assigned to the
+control group watched a 10-minute video of Tom and Jerry cartoons. After video completion, all
+participants were assigned the Wisconsin Card Sort and ecStroop tasks, both tasks were
+completed via computer, and the order of tasks was randomized. In total, this study took
+approximately 35 minutes to complete and concluded with a debriefing.
+Data Analysis
+Variables for analysis included those in the hypothesized model; meditation was the
+independent variable, and cognitive flexibility and emotion regulation were the dependent
+variables (Fig. 2). An ANOVA was conducted to compare the control group, LKM, and FAM
+groups on the measures of cognitive flexibility and emotion regulation. Further, path analysis
+was used to analyze the data from this study as well to consider the indirect relationship of
+meditation on emotion regulation through cognitive flexibility. Path analysis is a form of
+structural equation modeling that is also viewed as a special case of multiple regression analysis
+(Lleras, 2005; Suhr, 2008). This statistical method accounts for variation and relationships within
+the measured variables and does not require the specification of relationships between variables
+before testing. Thus, all possible relationships are considered and tested between the dependent
+and independent variables. Furthermore, path analysis can provide insight into any possible
+latent variables and indirect effects of the independent variable on the dependent variable (Suhr,
+2008). The path model was tested with Rstudio version 4.2.3.
+Results
+The first hypothesis of this study was that meditation would have a direct effect on
+emotion regulation and the second hypothesis of this study was that meditation would have
+cognitive flexibility-mediated influences on emotion regulation that differ between LKM and
+16
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+FAM (Fig. 2). ANOVA tests were conducted first to examine the effect of meditation type on
+cognitive flexibility and emotion regulation. The Shapiro-Wilk test indicated that the data was
+not normal for emotional regulation (p < .001), but upon visual inspection of histograms, they
+did not appear strongly skewed or with outliers. However, Levene’s test indicated the variances
+with the emotion regulation task were not homogenous (p = .001), so Welch’s ANOVA was used.
+The results of Welch’s ANOVA indicate that the difference between the control, LKM, and FAM
+groups on the measure of emotional regulation was not significant, (F(2,46) = 1.66, p = .21; Fig.
+3).
+Figure 3
+ecStroop Results with Standard Error.
+The data was also not normal for the cognitive flexibility task as indicated by the Shapiro-Wilk
+test (p = .005), but also upon visual inspection, did not look strongly skewed or with outliers.
+Further, variances for the WCS were homogenous as assessed by Levene’s test (p = .68), so we
+continued with the one-way ANOVA. The results of this ANOVA indicate that the difference
+17
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+between the control, LKM, and FAM groups on the measure of cognitive flexibility was not
+significant (F(2,46) = 0.25, p = .78; Fig. 4).
+Figure 4
+WCS Results with Standard Error.
+Note. The average number incorrect is out of 30 trials.
+A path model was used to test the indirect effect of meditation on emotion regulation via
+cognitive flexibility (the second hypothesis of this study) and to test for the direct effect of
+cognitive flexibility on emotion regulation. The first path analysis compared only the meditation
+groups as the control group was initially excluded. Results indicated that meditation did not have
+a direct effect on emotional regulation, β(37) = 44.94, SE = 63.02, p = .48, or cognitive
+flexibility β(37) = 0.69, SE = 2.50, p = .78 (Fig. 5). There was no direct effect of cognitive
+flexibility on emotion regulation β(37) = -5.21, SE = 3.86, p = .18 (Fig. 5). The indirect effect,
+tested using the Sobel test and percentile bootstrapping, was not significant β(37) = -3.61, SE =
+18
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+17.18, p = .83. A second path analysis was conducted with the meditation groups collapsed into
+one and the control group was added as there was no significant difference in the ANOVAS and
+no significant effect in the first path analysis. Results indicated that meditation had a marginally
+significant effect on emotional regulation β(49) = -251.02, SE = 138.55, p = .07, and no effect on
+cognitive flexibility β(49) = -0.41, SE = 2.26, p = .86. There was no direct effect of cognitive
+flexibility on emotion regulation β(49) = -1.11, SE = 4.34, p = .80. The indirect effect, tested
+using the Sobel test and percentile bootstrapping, was not significant β(49) = -0.46, SE = 10.71,
+p = .97.
+Figure 5
+Path analysis results with control group excluded.
+Note. Path A – direct effect of meditation on CF, path B – direct effect of CF on ER, path C –
+direct effect of meditation on ER.
+Figure 6
+19
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+Path analysis results with control group included.
+Note. Path A – direct effect of meditation on CF, path B – direct effect of CF on ER, path C –
+direct effect of meditation on ER.
+Discussion
+In this study, the effect of two types of brief meditation exposure on cognitive and
+emotional processes was assessed. Emotion regulation was assessed with an emotional counting
+stroop task (ecStroop), and cognitive flexibility was assessed with a Wisconsin Card Sort task
+(WCS). Prior to task completion, participants were randomly assigned to watch 10 minutes of
+FAM, LKM, or cartoons. Then, participants downloaded and completed the WCS and ecStroop
+tasks. Based on findings from previous studies, the hypotheses of this study were that meditation
+would have a direct effect on emotion regulation and on cognitive flexibility.
+The results of the current study indicate that there is no variation in cognitive or
+emotional abilities that is dependent on meditation technique. Further, meditation did not directly
+impact cognitive flexibility or emotion regulation and there was no effect on emotional
+regulation mediated by cognitive flexibility. Thus, the results of the current study do not support
+the hypothesis that meditation will have cognitive flexibility-mediated influences on emotion
+regulation. This is supported by the study from Basso et al. (2019) that concluded improvements
+in emotion regulation were a direct result of meditation and not mediated by any cognitive
+20
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+changes. However, while brief meditation did not significantly impact emotional regulation or
+cognitive flexibility in the current study, path analysis showed there was a marginally significant
+effect of the control group versus the meditation group on emotion regulation. Therefore, the
+results of the current study provide moderate support for the hypothesis that meditation will have
+a direct effect on emotion regulation. Further, the finding that a brief 10-minute exposure to
+meditation may yield measurable results coincides with previous research from Wolff and Beste
+(2020). In that study, 11 of 19 participants had a measurable reduction in cognitive flexibility
+after a 15-minute guided FAM session. While the results of that study were not in favor of
+increased cognitive flexibility, the results indicate that a brief, one-time exposure to meditation
+may have measurable effect.
+The failure of the current study to fully support the hypotheses may indicate that there is
+simply no effect or there was interference by extraneous variables. For example, some
+participants may have mood or cognitive patterns that result in poor performance on measures of
+these processes. According to Matt et al. (1992), participants’ mood patterns influence the
+interpretation of stimuli, and thus, the response patterns to emotional tasks. Participants’
+responses to the current mood assessment may be an additional consideration for future analyses.
+Further, as this study was completed entirely online, controlling the participants’ environment to
+limit distractions was not possible. Future studies in this subject may aim to conduct in-person
+studies to eliminate possible distractions and task interference. Additionally, the limited duration
+of meditation may have also prevented this study from providing support for the hypotheses.
+While Wolff and Beste (2020) found deleterious effects on cognitive flexibility with a single
+15-minute FAM session, this has not been the standard for many meditation studies. For
+example, Basso et al. (2019) found effect on emotional regulation after 8 weeks of brief (15
+21
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+minute) daily meditation, but not when participants were assessed after only 4 weeks. Linn et al.
+(2020) did not find any significant effect after a single 20-minute OMM session, and Wu et al.
+(2019) found a significant effect with one week of daily meditation. Therefore, it may be that
+effects of meditation increase in strength with duration of at least one week. Perhaps this is due
+to variation in mood at the time of meditation and the interference of this variable with the effect
+of the practice. In other words, participants’ mood at the time of meditation likely influences task
+responses, as explained by Matt et al. (1992). Therefore, when exposed to meditation
+consistently for at least a week, this interference may not influence emotional and cognitive
+abilities as significantly as may be the case with a single meditation session. Thus, as mentioned
+previously, participants’ responses to the current mood assessment could be added to a more
+complex path analysis if there were a larger sample size. Another potential interference with data
+collection includes the method of task delivery. Only 49 participants completed the entire study
+out of the 114 participants that completed the survey and watched a video. This indicates that the
+download of the task files to complete the cognitive flexibility and emotion regulation tasks was
+likely a barrier to completion for many. Future research may aim to identify a different task
+delivery software that doesn’t require download to make this process more user-friendly.
+An additional reason why the current study failed to support the hypothesis is that there
+may not be enough power to yield significant effect due to the lack of a large enough sample
+size. Of the 49 participants data files were received for, 19 were assigned to LKM, 18 to FAM,
+and 12 to cartoons. A larger sample size would likely increase the power and improve the ability
+to detect significant effects. Additionally, any generalizable conclusions may be difficult to
+extrapolate from the results as the small sample size consisted only of psychology students and
+was comprised almost entirely of females (91.84%). Previous research suggests that females
+22
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+react more strongly than males on measures of emotion and possibly respond differently to
+mindfulness meditation (Rojiani et al., 2017). It is for this reason that Lin et al. (2020) conducted
+their study comprised entirely of females. One likely explanation for the differences between the
+sexes on measures of emotion is that female and male brains are structurally different, as
+identified with neuroimaging studies. Gur and Gur (2016) explain that female brains have more
+inter-hemispheric connections, limbic activity, and orbitofrontal volume than male brains and
+these differences are connected to differences between the sexes in emotion regulation. In other
+words, the female brain is structurally and functionally conducive to emotion sensitivity.
+Important to note, these are all generalizations based on imaging studies and there are more
+differences within the sexes than between. However, these observed differences are a likely
+explanation for why a majority female meditation study may skew data in favor of meditation.
+In summary, the results indicate there was no significant effect of brief meditation on
+cognitive flexibility and emotion regulation. However, these findings do not rule out the
+possibility of effects due to extraneous variables, duration of meditation, and limited sample size.
+Considering the limitations of the current study, the effect of meditation on emotional and
+cognitive processes warrants further assessment to confirm if there is a significant difference
+between brief LKM and FAM on these processes. A better understanding of how these practices
+or stimuli impact our mental capabilities may aid in psychological treatment and personal
+wellbeing. Researchers may yield a more definitive answer by conducting a similar study
+in-person, utilizing an alternative software for task delivery, and/or utilizing a larger and more
+diverse sample size. Overall, this topic is one that is ripe with potential for future studies to
+advance the science of meditation.
+23
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION
+24
+MEDITATION, COGNITIVE FLEXIBILITY, AND EMOTION REGULATION

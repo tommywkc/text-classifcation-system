@@ -1,0 +1,658 @@
+Mindfulness (2017) 8:1623–1633
+DOI 10.1007/s12671-017-0735-9
+
+    ORIGINAL PAPER
+
+
+
+Positive Emotion Correlates of Meditation
+Practice: a Comparison of Mindfulness Meditation
+and Loving-Kindness Meditation
+Barbara L. Fredrickson 1 & Aaron J. Boulton 1 & Ann M. Firestine 1 &
+Patty Van Cappellen 1 & Sara B. Algoe 1 & Mary M. Brantley 2 & Sumi Loundon Kim 3 &
+Jeffrey Brantley 2,4 & Sharon Salzberg 5
+
+
+
+Published online: 29 May 2017
+# Springer Science+Business Media New York 2017
+
+Abstract The purpose of this study was to uncover the day-                persons. Moreover, the within-person dose-response relation
+to-day emotional profiles and dose-response relations, both               was stronger for loving-kindness meditation than for mindful-
+within persons and between persons, associated with initiating            ness meditation. Similar dose-response relations were ob-
+one of two meditation practices, either mindfulness meditation            served for the frequency of meditation practice. In the context
+or loving-kindness meditation. Data were pooled across two                of prior research on the mental and physical health benefits
+studies of midlife adults (N = 339) who were randomized to                produced by subtle increases in day-to-day experiences of
+learn either mindfulness meditation or loving-kindness medi-              positive emotions, the present research points to evidence-
+tation in a 6-week workshop. The duration and frequency of                based practices—both mindfulness meditation and loving-
+meditation practice was measured daily for 9 weeks, com-                  kindness meditation—that can improve emotional well-being.
+mencing with the first workshop session. Likewise, positive
+and negative emotions were also measured daily, using the                 Keywords Affect . Contemplative science . Mental health .
+modified Differential Emotions Scale (Fredrickson,                        Positive psychology . Midlife
+Advances in Experimental Social Psychology 47:1–53,
+2013). Analysis of daily emotion reports over the targeted 9-
+week period showed significant gains in positive emotions
+and no change in negative emotions, regardless of meditation              Introduction
+type. Multilevel models also revealed significant dose-
+response relations between duration of meditation practice                People’s day-to-day experiences of even mild positive emo-
+and positive emotions, both within persons and between                    tions hold value as resources in the face of life’s demands.
+                                                                          Empirical evidence has shown that positive emotions can
+                                                                          Bundo^ the lingering cardiovascular aftereffects of stressful
+Electronic supplementary material The online version of this article      experiences and negative emotions (Fredrickson and
+(doi:10.1007/s12671-017-0735-9) contains supplementary material,
+which is available to authorized users.
+                                                                          Levenson 1998; Fredrickson et al. 2000; Kraft and Pressman
+                                                                          2012) and fuel resilience to adversity (Cohn et al. 2009;
+* Barbara L. Fredrickson                                                  Galatzer-Levy et al. 2013; Ong et al. 2006; Tugade and
+  blf@unc.edu                                                             Fredrickson 2004). Independent of changes in negative
+                                                                          emotions, day-to-day positive emotions have been linked to
+1
+                                                                          reductions in depressive symptoms (Fredrickson et al. 2008)
+     Department of Psychology and Neuroscience, University of North
+     Carolina at Chapel Hill, CB# 3270, Chapel Hill, NC 27599, USA
+                                                                          and remission from major depressive disorder (Geschwind
+2
+                                                                          et al. 2011a).
+     Duke Integrative Medicine, Duke University, Durham, NC, USA
+                                                                             These findings are consistent with the broaden-and-build
+3
+     Office of Religious Life, Duke University, Durham, NC, USA           theory of positive emotions (Fredrickson 1998, 2013). This
+4
+     Department of Psychiatry and Behavioral Sciences, Duke University,   theory holds that the human capacity to experience pleasant
+     Durham, NC, USA                                                      emotions was selectively advantageous, as these states broad-
+5
+     Barre, MA, USA                                                       en momentary awareness in ways that build personal
+1624                                                                                                  Mindfulness (2017) 8:1623–1633
+
+
+resources (e.g., resilience, social integration, mental and         hearted positive emotions. The scientific study of LKM has
+physical health). Ample empirical evidence supports this            mushroomed since 2008, which marked the first published
+theory (for a review, see Fredrickson 2013), as do longitudinal     scientific studies on LKM (Fredrickson et al. 2008;
+studies showing that frequent daily experiences of positive         Hutcherson et al. 2008). Two recent meta-analyses conclude
+emotions forecast longevity (Steptoe and Wardle 2012), even         that LKM interventions improve health and well-being more
+after accounting for the health-diminishing effects of negative     generally (Galante et al. 2014) and, with medium effect size,
+emotions (Chida and Steptoe 2008).                                  positive emotions specifically (Zeng et al. 2015). LKM has
+    Even so, people are not always successful in their pursuit of   also been shown to reduce depressive symptoms (Fredrickson
+positive emotional experiences in daily life. Research shows,       et al. 2008), increase compassion and altruistic behavior
+for instance, that individuals who excessively value happiness      (Jazaieri et al. 2013; Klimecki et al. 2013; Leiberg et al.
+display poorer mental health (Ford et al. 2014) and that when       2011; Weng et al. 2013), and yield functional neural plasticity
+people deliberately try to feel more positive in the midst of a     in brain circuits associated with positive affect and empathy
+pleasant event, their efforts can backfire (Mauss et al. 2011).     (Klimecki et al. 2013; Weng et al. 2013). Despite the surge in
+By contrast, those who prioritize positivity by deliberately        scientific publications on LKM, the two meta-analyses cited
+seeking out activities and contexts from which positive emo-        above conclude that research on LKM remains in Bthe begin-
+tions may naturally arise display better mental health              ning stages^ (Zeng et al. 2015, p. 13) and is Bunderpowered^
+(Catalino et al. 2014). One way that individuals might priori-      and Bgenerally underresourced^ (Galante et al. 2014, p. 1111).
+tize positivity within their daily routines is by maintaining a     As such, any meta-analytic conclusions are at best provisional.
+regular meditation practice.                                           To date, only a handful of studies have directly compared
+    Meditation has been increasingly studied for its ability to     MM and LKM. The largest study to do so (Feldman et al.
+improve emotional well-being (Dimidjian and Segal 2015).            2010) evaluated the effects of a one-time, 15-min exposure
+Although mindfulness-based meditation practices were the            to each practice in novice undergraduate women (N = 190).
+first to draw sustained scientific attention (e.g., Kabat-Zinn      MM, relative to LKM, lowered negative affective reactivity;
+1982; Segal et al. 2002), a growing number of researchers           effects on positive emotions were not reported (Feldman et al.
+have also investigated the effects of loving-kindness medita-       2010). Two other studies that compared MM and LKM used
+tion (Salzberg 1995) and closely related practices (e.g., com-      small sample sizes and were likely underpowered. One ran-
+passion meditation). Both mindfulness and loving-kindness           domized first-year college students (N = 31) to 5 weeks of
+practices emanate from Buddhist contemplative traditions            training in MM or LKM and reported nonsignificant changes
+and are often taught together in a holistic approach to well-       in positive and negative affect for both practices (May et al.
+being (Salzberg 2013). Because these two meditation prac-           2014). Another, which assessed brain activity via EEG, ran-
+tices deploy distinct psychological processes, they may differ-     domized previously depressed individuals (N = 15) to a one-
+entially influence emotion experiences.                             time, 15-min exposure to either MM or LKM and found that
+    Mindfulness meditation (MM) involves the concentration          both practices showed pre- to post increases in left prefrontal
+of attention to observe, with an open and accepting attitude,       activation, a neural pattern consistent with greater positive
+the contents of consciousness within the present moment.            emotionality (Barnhofer et al. 2010). Altogether, the evidence
+Mindfulness-based therapies, a recent comprehensive meta-           regarding potential differences in affective responses to MM
+analysis concludes, have large and clinically significant ef-       and LKM is scant and unreliable.
+fects in the treatment of anxiety and depression, which pro-           Most reviews of meditation research conclude by noting
+duce lasting improvements in emotional well-being (Khoury           widespread methodological shortcomings (Galante et al.
+et al. 2013; see also Gotink et al. 2015). Most research on MM      2014; Ospina et al. 2008; Zeng et al. 2015). Among these
+targets the alleviation of negative affect and remains silent       limitations are (a) small sample sizes, which lead to both lower
+regarding the effects of MM on positive affect. One notable         statistical power and greater baseline imbalances (May et al.
+exception is an experience sampling study that randomized           2016); (b) failure to report participants’ actual practice time
+adults with residual symptoms of major depression                   despite the need to elucidate dose-response relations
+(N = 130) to an 8-week mindfulness-based intervention or            (Edenfield and Saeed 2012); (c) failure to examine within-
+waitlist control. It reported pre- to postintervention increases    person relations, which offer insight into day-to-day processes
+in day-to-day positive emotions and reward responsiveness           and better match theoretical questions about change over time
+(e.g., Geschwind et al. 2011b). Less known, at present, are         (Curran and Bauer 2011; Kanning et al. 2013); (d) a lack of
+the effects of MM on day-to-day positive emotions within            longitudinal, randomized controlled trials (RCTs) with novice,
+nonclinical samples.                                                nonclinical samples, which enable stronger inference about
+    Loving-kindness meditation (LKM), like MM, involves             the effects of learning a new meditation practice; and (e) in-
+the concentration of attention. Unlike MM, however, LKM             adequate measurement of positive emotions by relying either
+involves the intentional cultivation of authentic, warm-            on global, retrospective reports of happiness, or on measures
+Mindfulness (2017) 8:1623–1633                                                                                                1625
+
+
+(e.g., PANAS; Watson et al. 1988) that omit the low activation      a larger study on health behavior change. [Data from this
+positive emotions (e.g., Bcalm,^ Brelaxed,^ Bpeaceful^) often       larger, NIH-supported study (R01NR012899) have been re-
+sought by meditation practitioners (Koopmann-Holm et al.            ported on elsewhere (Fredrickson et al. 2015, Confirmation
+2013).                                                              Study; Isgett et al. 2016) and will continue to support other
+   The current work overcomes these limitations and is moti-        and related investigations.]
+vated by three research questions: (1) Do MM and LKM each
+increase people’s day-to-day experiences of positive emotions       Study 2 Participants in study 2 were recruited from the same
+over time? Specifically, given the explicit focus on warm-          region and screened with the same eligibility requirements.
+heartedness in LKM, does it produce greater gains in positive       Those who provided informed consent (N = 231) were ran-
+emotions than MM? (2) Is there a dose-response relation be-         domized to one of two experimental conditions: mindfulness
+tween time spent meditating and daily experiences of positive       meditation (MM; n = 113) or loving-kindness meditation
+emotions? And (3) if a dose-response relation exists, does it       (LKM; n = 118). Fourteen participants were ultimately ex-
+(a) emerge within individuals, between individuals, or both;        cluded from analyses for various reasons (7 each in MM and
+(b) rest on the frequency of meditation practice, the duration of   LKM), resulting in a final sample of N = 217 (for details, see
+episodes of meditation practice, or both; and (c) differ between    CONSORT diagram in OSM Fig. S2). Participants received
+MM and LKM? We address these questions by pooling data              compensation after completing various portions of a larger
+from two longitudinal RCTs (identified as study 1 and study 2       study on health behavior change. [Data from this larger,
+below) and following the principles of integrative data analy-      NIH-supported study (R01CA170128) have been reported
+sis (Curran and Hussong 2009; Hussong et al. 2013). Novice          on elsewhere (Rice and Fredrickson 2016, study 2) and will
+midlife adults (pooled N = 339) were randomized to learn            continue to support other and related investigations.]
+either MM or LKM in a 6-week workshop. In each RCT,                 Demographic characteristics for studies 1 and 2 are similar
+participants reported nightly on their experiences of ten posi-     and shown in Table 1.
+tive and ten negative emotions as well as on the time they
+devoted to meditation practice. We analyze 9 weeks of nightly       Procedure
+reports, which included the 6-week intervention plus 3 weeks
+postworkshop. We use multilevel models to test group differ-        The Institutional Review Board of the University of North
+ences in emotion trajectories as well as in within- and             Carolina at Chapel Hill approved all procedures for the two
+between-person dose-response relations.                             studies, which were similar in research design. In study 1,
+                                                                    participants joined one of two waves of data collection, with
+                                                                    daily reports collected between August 2012 and May 2013;
+Method                                                              study 2 required five waves, with daily reports collected be-
+                                                                    tween May 2013 and May 2015. Participants completed daily
+Participants                                                        online reports of their emotions and meditation practice (mea-
+                                                                    sures described below). The current investigation drew on
+Study 1 Participants in study 1 were recruited in Durham and        9 weeks of these daily reports, beginning the first day of the
+Orange counties of North Carolina via paper and electronic          meditation workshop (described below) and extending
+advertisements. Eligible participants were between 35 and           3 weeks after the 6-week workshop ended. (A few participants
+64 years old (inadvertently, three enrolled participants report-    started the meditations workshops a bit earlier or later due to
+ed ages outside this range: 65, 65, and 67), fluent in English,     scheduling issues. All daily data were aligned to the day of
+new to meditation, without any chronic illnesses or disabil-        each participant’s first workshop session.)
+ities, and able to access the internet from home. Those who
+provided informed consent (N = 176) were randomized to one          Meditation Interventions
+of three experimental conditions: mindfulness meditation
+(MM; n = 63), loving-kindness meditation (LKM; n = 62),             The MM and LKM workshops were created in collaboration
+or waitlist control (n = 51). The Online supplementary mate-        with meditation experts (SS, JB, MMB, SLK). The format of
+rial (OSM) provides recruitment details and the CONSORT             each was designed to be identical, using a secular, health-
+diagram (Fig. S1). Given our interest here in the two medita-       based format and six progressive, 1-h small group sessions
+tion groups (i.e., the effects of time devoted to meditation        with comparable resources and encouragement for individual
+practice), the waitlist condition is not considered further.        home practice (see OSM for details on workshop develop-
+Three participants were ultimately excluded from analyses           ment). At the first workshop session, attendees received writ-
+for failing to attend any workshop sessions (2 in MM; 1 in          ten outlines of each of the six sessions, including each week’s
+LKM), resulting in a final sample of N = 122. Participants          homework assignment, plus audio-recordings of five 20-min
+received compensation after completing various portions of          guided meditations. All attendees were instructed to cultivate
+1626                                                                                                          Mindfulness (2017) 8:1623–1633
+
+Table 1   Demographic characteristics by study and condition
+
+                                                       Study 1 (N = 122)                                     Study 2 (N = 217)
+                                         MM (n = 61)              LKM (n = 61)                MM (n = 106)               LKM (n = 111)
+                                           M            SD           M              SD           M             SD           M             SD
+Age (years)                              48.75         9.56        48.56           8.48         49.68         9.01        47.56          8.90
+                                             N           %             N             %              N           %             N            %
+Sex (female)                                46         75.4           42           68.9            67         63.2           63          56.8
+Race
+  Am. Indian/Alaskan Native                   1         1.6            0           0.0              1         0.9                0       0.0
+  Asian                                       5         8.2            3           4.9              6         5.7                5       4.5
+  Native Hawaiian/Pacific Islander            1         1.6            0           0.0              0         0.0             0         0.0
+  Black                                       4         6.6           11          18.0             19        17.9            20        18.0
+  White                                     50         82.0           47          77.0             80        75.5            86        77.5
+Hispanic ethnicity                            4         6.6            2           3.3              3         2.8                2       1.8
+
+
+
+a daily meditation practice, realistically benchmarked at 3–5              Measures
+meditation practice sessions per week. They were encouraged
+(but not required) to use the guided meditations. If participants          Emotions Daily emotional experiences were measured each
+missed a workshop session, they were instructed to progress                evening in both studies via the modified Differential Emotions
+with their homework assignments nevertheless.                              Scale (mDES). The mDES is a 20-item measure that assesses
+                                                                           the degree to which respondents experience different emo-
+Mindfulness Meditation In the context of an open and non-                  tions, both positive and negative, within a given time frame
+judgmental attitude, the workshop instructor (SLK) presented               (Fredrickson 2013). Ten positive emotions (PE) (amusement,
+the intention of MM as to be in the present moment. The                    awe, gratitude, hope, inspiration, interest, joy, love, pride, and
+attention of the practitioner was directed toward the contents             serenity) and ten negative emotions (NE) (anger, shame, fear,
+of consciousness within the present moment. Progressively,                 hate, disgust, embarrassment, guilt, sadness, scorn, and stress)
+over the 6 weeks, the targets of consciousness expanded, with              are assessed, each with a trio of adjective (e.g., Bamused, fun-
+practice directed toward breathing and hearing (week 1), the               loving, or silly^ or Bangry, irritated, or annoyed^). For each
+body (week 2), emotions (week 3), thoughts (week 4), and                   item, participants were asked to indicate the greatest degree to
+choiceless awareness (week 5), with week 6 reserved for                    which they experienced the given feelings over the past 24 h
+review and integration. Following prior research (Shapiro                  using a 5-point scale ranging from 0 (Not at all) to 4
+et al. 2006), the hallmark meta mechanism of MM was                        (Extremely). Daily positive and negative emotion scale scores
+designed to be a fundamental shift toward Breperceiving,^                  were calculated by computing the mean across the ten items
+defined as the ability to Bdisidentify from the contents of                within each day. Respective reliabilities (omega coefficients
+consciousness (i.e., one’s thoughts [and emotions]) and view               for between-person differences and within-person changes;
+[one’s] moment-by-moment experience with greater clarity                   Bolger and Laurenceau 2013, p. 138–140) were 0.87 and
+and objectivity^ (Shapiro et al. 2006, p. 5).                              0.96 for positive emotions and 0.79 and 0.96 for negative
+                                                                           emotions. See the OSM for more details on the reliability
+Loving-Kindness Meditation Likewise, in the context of an                  calculations.
+open and nonjudgmental attitude, the workshop instructor
+(MMB) presented the intention of LKM as to self-generate                   Meditation Practice Two items were used to assess medita-
+warm and friendly feelings. The attention of the practitioner              tion practice. In study 1, participants were asked whether they
+was directed toward various social targets as well as to phys-             had engaged in any meditation since the last time they had
+ical sensations in the heart region. Progressively, over 6 weeks,          filled out the questionnaire. If the response was Byes,^ partic-
+the social targets of loving-kindness expanded, with practice              ipants were then asked: BHow much time (in minutes) did you
+directed toward a loved one (week 1), oneself (week 2), an                 spend on meditation since the last time you answered this
+acquaintance (week 3), a difficult person (week 4), and all                question? If there were multiple episodes, make sure to add
+beings (week 5), with week 6 reserved for review and integra-              them all together.^ If the response to the first question was
+tion. The hallmark meta mechanism of LKM was thus                          Bno,^ the duration variable was coded with a value of 0. These
+designed to be a fundamental shift toward warmth, kindness,                two items were also included in study 2 but differed with
+and connection.                                                            regard to time frame. Specifically, participants were asked
+Mindfulness (2017) 8:1623–1633                                                                                                  1627
+
+
+about their meditation practice Bin the last 24 h.^ We found        estimation. See the OSM for details on missing data handling,
+little evidence that these different time frames influenced         model specification, and model testing.
+participants’ responses (see analyses in OSM).
+
+Analytic Strategy                                                   Results
+
+The data were analyzed with multilevel models (e.g., Hox            Daily Emotions and Meditation Practice
+2010; Snijders and Bosker 2012) using PROC MIXED in
+the SAS 9.2 software. Two-level models, with daily reports          Across the targeted 9 weeks, positive emotion reports were
+(level 1) nested within individuals (level 2), were specified       approximately equal on average between those in the MM
+with the positive and negative emotion composites serving           condition (M = 1.76, SD = 0.88) and those in the LKM con-
+as dependent variables in separate models.                          dition (M = 1.79, SD = 0.81), t (337) = 0.17, p = 0.86. The
+    Our model building strategy was as follows. First, linear       intraclass correlation coefficient (ICC) was 0.69 suggesting
+growth curve models were estimated to examine whether pos-          that approximately two thirds of the variance in daily positive
+itive and negative emotions increased or decreased on average       emotions was attributable to between-person differences in
+over the targeted 9-week period. Differences between experi-        average positive emotion levels. Likewise, negative emotion
+mental conditions (a level-2 variable) in the linear trends were    reports did not differ between the MM condition (M = 0.44,
+also examined. Next, the indices of daily meditation prac-          SD = 0.47) and the LKM condition (M = 0.45, SD = 0.48), t
+tice—either total minutes of practice or frequency of practice,     (338) = 0.15, p = 0.88. Approximately one half of the variance
+modeled separately—were added to the growth curve models            (ICC = 0.50) in daily negative emotions was associated with
+to investigate the dose-response relations between duration         between-person differences. Compared to those in the MM
+[frequency] of meditation practice and daily emotion experi-        condition, participants in the LKM condition reported higher
+ences. In each model, the target meditation variable was per-       daily practice duration averages (MM: M = 13.63, SD = 12.53,
+son mean-centered (Enders and Tofighi 2007) and entered as a        min = 0, max = 150; LKM: M = 15.32, SD = 13.23, min = 0,
+predictor along with each participant’s mean level of the target    max = 200), t (333) = 2.06, p = 0.04. After the 6-week work-
+practice variable averaged over the 9-week period, thus corre-      shops ended, participants rated their Boverall satisfaction with
+sponding to within- and between-person Bdose-response               the class^ on a 1 (Poor) to 5 (Excellent) scale. Class ratings
+relations,^ respectively. The linear time effect was retained       were high in both conditions (MM: Mdn = 4.5; LKM:
+in these models to detrend the data (Curran and Bauer 2011;         Mdn = 4.0) with participants in the MM condition reporting
+Wang and Maxwell 2015); consequently, the within-person             somewhat more satisfaction compared to those in the LKM
+dose-response relation was estimated after controlling for ob-      condition, Wilcoxon rank-sum W = 11,241, p = 0.026.
+served growth or decline in emotions over time, a potential            Figure 1 displays condition-specific linear trends in the
+confound. Finally, to these models, we added two interaction        emotion and meditation practice variables. As shown in
+terms, crossing experimental condition (MM vs. LKM) with            Fig. 1a, positive emotions increased over the duration of the
+the meditation practice variables (i.e., person mean-centered       study in both experimental conditions at approximately the
+and average meditation practice), respectively. These terms         same rate. Negative emotions decreased slightly over time,
+allowed us to examine whether the within- and between-              again at approximately the same rate in each experimental
+person dose-response relations differed by meditation type.         condition. In the remaining plots, nonlinear trends in practice
+We tested four final models (i.e., PE/duration, PE/frequency,       duration (Fig. 1b) and frequency (Fig. 1c) were observed,
+NE/duration, NE/frequency). Although we use the term                represented by smoothed trend lines (i.e., LOESS curve;
+Bdose-response^ to refer to the relation between meditation         Cleveland et al. 1992). For both duration and frequency of
+practice and daily emotion experience, we recognize that the        meditation, and in both experimental conditions, participants
+effects we report are not causal estimates of the effect of prac-   increased their practice time during (approximately) the first
+tice on positive and negative emotions.                             5 weeks of learning meditation, followed by a decline and
+    To control for between-study heterogeneity when analyz-         leveling off for the remainder of the study.
+ing the pooled dataset, we adopted a fixed-effects approach
+(Curran and Hussong 2009; Hussong et al. 2008) such that, in        Changes in Daily Emotions
+all models, study membership (study 1 vs. study 2) was en-
+tered as a level-2 covariate and interactions between study         To formally assess whether participants’ daily experiences of
+membership and model predictors were tested at all stages of        positive and negative emotions increased or decreased over
+model fitting. If significant, interactions with study member-      the targeted 9 weeks, we estimated linear growth curve models
+ship were retained in subsequent models. All models were            by including time (scaled in weeks and centered at individ-
+estimated using restricted maximum likelihood (REML)                uals’ first workshop session) as a level-1 predictor of the daily
+1628                                                                                                                                                        Mindfulness (2017) 8:1623–1633
+
+  (a)                                                                                                              Fig. 1    Trends in emotion and meditation practice, by condition. Time
+                                              3.0                                                                    was coded in days and centered at the initial daily report following the
+                                                                                                                     first workshop attended. a Linear trends for positive and negative emotion
+                                                                                                                     composites. b Loess trend lines of the average number of minutes spent
+                                              2.5                                                                    practicing meditation each day. c Loess trend lines of the proportion of
+                                                                                                                     participants meditating each day to represent practice frequency. Loess
+  Daily Emotion Reports (mDES)
+
+
+
+
+                                                                                                                     lines in plots b and c had a windowing parameter of 0.75
+                                              2.0
+
+
+                                                                                                          LKM PE
+                                                                                                          MM PE
+                                                                                                                     emotion reports. For positive emotions, the effect of time was
+                                              1.5
+                                                                                                          LKM NE     significantly different from zero, suggesting that on average
+                                                                                                          MM NE
+                                                                                                                     participants’ daily experiences of positive emotions increased
+                                              1.0                                                                    linearly over the duration of the study, b = 0.017, SE = 0.002,
+                                                                                                                     p < 0.001. In contrast, participants’ levels of daily negative
+                                              0.5
+                                                                                                                     emotions did not change significantly over time, b = −0.003,
+                                                                                                                     SE = 0.002, p = 0.15. For both positive and negative emotions,
+                                                                                                                     initial levels (i.e., intercepts) and rates of change (i.e., slope
+                                              0.0
+                                                                                                                     coefficients) varied significantly across participants, suggest-
+                                                    0   10   20      30     40        50        60
+                                                                   Day In Study
+                                                                                                                     ing individual differences in the emotion trajectories.
+                                                                                                                        Experimental condition did not significantly predict initial
+  (b)
+                                                                                                                     positive emotion levels (b = 0.014, SE = 0.077, p = 0.857),
+                                              30
+                                                                                                                     positive emotion growth rates (b = −0.0001, SE = 0.006,
+                                                                                                                     p = 0.992), initial negative emotion levels (b = −0.0004,
+  Meditation Practice Duration (in Minutes)
+
+
+
+
+                                              25                                                                     SE = 0.037, p = 0.990), or negative emotion growth rates
+                                                                                                                     (b = 0.004, SE = 0.004, p = 0.345). Thus, regardless of wheth-
+                                              20                                                                     er participants practiced MM or LKM (and in the context of
+                                                                                                                     significant variation among individuals), they showed signif-
+                                                                                                             MM
+                                                                                                                     icant improvements in positive emotions over time with no
+                                              15
+                                                                                                             LKM     significant changes in their negative emotions. For positive
+                                                                                                                     emotions, using model-implied means on the first (1.600)
+                                              10                                                                     and last (1.753) days of the targeted 9-week period, as well
+                                                                                                                     as the standard deviation of the daily emotion reports during
+                                               5                                                                     the 2-week baseline period (0.855) as a divisor, the within-
+                                                                                                                     sample standardized increase in positive emotions after
+                                                                                                                     9 weeks of meditation practice is approximately 0.179.
+                                               0
+
+                                                    0   10    20       30        40        50        60
+                                                                    Day In Study
+  (c)                                                                                                                Dose-Response Relations
+                                              1.0
+                                                                                                                     To assess the impact of time spent meditating on positive
+                                                                                                                     emotions, the person mean-centered and mean practice
+                                              0.8                                                                    duration variables were added to the growth curve model.
+  Meditation Practice Frequency
+
+
+
+
+                                                                                                                     Fixed effects estimates from this model are shown in the upper
+                                                                                                                     left section of Table 2. Coefficients for both practice variables
+                                              0.6                                                                    were positive and significantly different from zero. This re-
+                                                                                                            MM       flects a within-person dose-response relation such that partic-
+                                                                                                            LKM
+                                                                                                                     ipants who spent more minutes meditating on a given day,
+                                              0.4
+                                                                                                                     compared to their own typical level of daily practice, reported
+                                                                                                                     greater levels of positive emotions on that day; in addition, a
+                                              0.2
+                                                                                                                     between-person effect emerged, such that relative to others in
+                                                                                                                     the sample, participants who maintained longer average
+                                                                                                                     lengths of practice throughout the study had higher average
+                                              0.0                                                                    levels of daily positive emotions. To determine whether these
+                                                    0   10    20      30         40        50        60
+                                                                                                                     dose-response relations differed across meditation type, two
+                                                                    Day In Study                                     interaction terms were added to the model by crossing
+Mindfulness (2017) 8:1623–1633                                                                                                          1629
+
+Table 2 Fixed effect estimates
+for dose-response models                                  Duration                                     Frequency
+
+                                                          b                    95% CI                  b                    95% CI
+
+                                 Positive emotions
+                                     Intercept                 1.260**         [1.038, 1.483]               1.244**         [0.962, 1.526]
+                                     Practice_PC               0.002**         [0.001, 0.003]               0.051**         [0.027, 0.075]
+                                     Practice_M                0.014**         [0.003, 0.025]               0.312           [−0.026, 0.651]
+                                     Time                      0.019**         [0.012, 0.025]               0.017**         [0.011, 0.023]
+                                     Cond                      0.251*          [0.001, 0.500]               0.266*          [0.014, 0.517]
+                                     Study                     0.359**         [0.139, 0.579]               0.373**         [0.152, 0.593]
+                                   Cond × Studya              −0.406*          [−0.717, −0.096]            −0.412**         [−0.725, −0.100]
+                                   −2LL                   20,881.2                                     21,435.1
+                                 Negative emotions
+                                     Intercept                 0.495**         [0.396, 0.594]               0.545**         [0.422, 0.667]
+                                     Practice_PC              −0.000           [−0.001, 0.000]             −0.010           [−0.026, 0.005]
+                                     Practice_M               −0.004           [−0.010, 0.002]             −0.157           [−0.313, −0.001]
+                                     Time                     −0.003           [−0.007, 0.001]             −0.003           [−0.007, 0.001]
+                                     Cond                      0.012           [−0.061, 0.086]              0.009           [−0.062, 0.081]
+                                     Study                     0.047           [−0.023, 0.117]              0.037           [−0.033, 0.107]
+                                     −2LL                 10,438.7                                     10,582.0
+
+                                 Practice_PC person mean-centered meditation practice, in number of minutes spent meditating; Practice_M
+                                 mean meditation practice levels; Cond experimental condition (MM = 0, LKM = 1); −2LL = −2 × ln(model
+                                 likelihood), a.k.a. model deviance
+                                 **p < 0.01; *p < 0.05.
+                                 a
+                                  The Cond × Study interaction was retained in the dose-response models for positive emotions in light of a
+                                 significant Cond × Study interaction in the linear growth curve model for positive emotions (see the OSM for
+                                 details)
+
+
+experimental condition with both duration of practice vari-            practice. The overall pattern of results remained largely the
+ables separately. The results revealed that, compared to the           same (see Table 2, right columns), albeit with two minor dif-
+MM condition, the within-person dose-response relation was             ferences: (a) the between-person relation for positive emotions
+larger in the LKM condition (b = 0.003, SE = 0.001,                    was not significantly different from zero (see Table 2); (b) for
+p = 0.001), whereas the between-person dose-response rela-             negative emotions, the within-person dose-response relation
+tion did not differ between conditions (b = 0.012, SE = 0.011,         did not differ between conditions, b = −0.029, SE = 0.016,
+p = 0.280).                                                            p = 0.06. Analyses of simple slopes for the significant inter-
+    Regarding negative emotions, both coefficients for the             actions described above are provided in the OSM.
+duration of practice variables were negative but neither was
+significantly different from zero (Table 2, lower left).
+Nevertheless, we subsequently tested whether condition dif-            Discussion
+ferences were evident. The results suggested that, compared to
+the MM condition, the within-person dose-response relation             People need evidence-based tools to improve their emotional
+was further from zero in the negative direction in the LKM             well-being. The research presented here provides relevant ev-
+condition (b = −0.002, SE = 0.001, p = 0.005), whereas the             idence. We sought to learn whether novices who initiate a
+between-person dose-response relation did not differ between           regular meditation practice experience changes over time in
+conditions (b = −0.004, SE = 0.006, p = 0.542). This pattern           their day-to-day positive and negative emotions, and whether
+suggests that participants who spent more minutes engaged in           MM and LKM differ in their emotional impact. We also
+LKM (vs. MM) on a given day, compared to their own typical             sought to learn whether and how the duration and frequency
+level of daily practice, reported lower levels of negative emo-        of meditation practice mattered by testing for dose-response
+tions on that day.                                                     relations (a) within and between individuals and (b) for MM
+    We repeated each of the above tests for dose-response re-          and LKM practices comparatively.
+lations replacing variables that represented the duration of              We pooled data from two fairly large longitudinal RCTs,
+meditation practice with those reflecting the frequency of             which produced a sample of 339 midlife women and men who
+1630                                                                                                    Mindfulness (2017) 8:1623–1633
+
+
+were new to meditation. Each had been randomized to learn            Strengths and Limitations
+either MM or LKM in a 6-week workshop. Results revealed
+that MM and LKM were similarly associated with increases in          One strength of the work presented here is the focus on pos-
+participants’ day-to-day experiences of positive emotions over       itive emotions, which contrasts with the focus on negative
+time. This was contrary to our expectation that LKM, given its       emotions in the mainstream scientific literature on MM. A
+explicit focus on warm-heartedness, would increase positive          second strength is the densely repeated use of the mDES,
+emotion trajectories at a steeper rate. Even so, the statistically   which captures the low activation positive emotions that are
+significant, albeit subtle gains in positive emotions were sim-      especially relevant for studies of contemplative practices
+ilar in direction and magnitude to the effects observed in two       (Koopmann-Holm et al. 2013; Van Cappellen et al. 2016).
+prior studies that randomized participants to either LKM or a        This work thus advances understanding of meditation by iden-
+waitlist control group and used similar measures of daily emo-       tifying positive emotions as important short-term indicators
+tions (Fredrickson et al. 2008; Kok et al. 2013). Even subtle        that, according to theory and past evidence, produce longer-
+gains in positive emotions, these and other RCTs suggest, may        term improvements in mental and physical health. A third
+improve mental and physical health.                                  clear strength of this investigation is the large sample size
+    Results also revealed that, regardless of meditation type,       (N = 339) gained through dataset pooling. By combining
+the duration and frequency of practice time was related to           datasets from two RCTs with similar designs and measures,
+daily emotional experiences: significant dose-response rela-         we had the rare opportunity to study a relatively large number
+tions emerged both within and between individuals (although          of participants who were randomized to one of two contem-
+the between-person effect for the frequency of practice was          plative interventions.
+not significant at p = 0.07). That is, on average, when a par-           Despite these many strengths, this research also has limita-
+ticipant reported meditating more on a given day, compared to        tions. Participants were all midlife adults interested in (or open
+their own average level of practice, they also reported              to) learning a meditation practice. Even though many individ-
+experiencing more positive emotions that day. In addition,           uals who begin a meditation practice may be drawn from a
+comparing across individuals, those who reported meditating          similar population, generalization to other age groups or to
+more on average also reported higher than average positive           those uninterested in meditation may be inappropriate.
+emotions. Moreover, a significant difference emerged be-             Likewise, MM and LKM were each taught by just one work-
+tween MM and LKM for the within-person dose-response                 shop instructor (who differed slightly from the other in course
+relations such that, relative to those practicing MM, for those      evaluations), so the effects of each teacher’s unique pedagog-
+randomized to practice LKM, the duration and frequency of            ical approach cannot be evaluated here. Also, the nature and
+meditation practice was more tightly coupled to same-day             cause(s) of the differing dose-response relations between MM
+reports of positive emotions.                                        and LKM remain unknown at this time. Finally, in this study,
+    The results for negative emotions were more limited. Day-        MM and LKM were taught in group-based, face-to-face work-
+to-day negative emotions did not change over time for either         shop sessions that progressed over 6 weeks. Generalization to
+MM or LKM. This null finding for LKM coincides with one              other instruction modalities (e.g., online, telephone, self-
+of the prior RCTs mentioned above (Fredrickson et al. 2008,          paced) may be inappropriate.
+N = 139), but not the other (Kok et al. 2013, N = 65). Results           Perhaps most significantly, although study participants
+also revealed that, regardless of meditation type, the duration      were randomly assigned to experimental condition (MM or
+and frequency of meditation practice did not appear to influ-        LKM), they were not randomly assigned to differing amounts
+ence day-to-day negative emotions. The sole exception was            of practice time. As such, although causal claims about the
+that the within-person effect for duration of practice differed      effects of MM vs. LKM are appropriate, such claims are not
+between conditions, suggesting that, relative to MM, days            appropriate regarding the effects of practice time because
+with longer LKM practice (compared to individual-specific            the amount of time devoted to meditation practice was
+averages) were associated with lower negative emotion                participants’ own choice. These choices may have been
+scores. We interpret effects for negative emotions with              driven by many factors, including the emotions that
+caution, however, because (as in past published studies)             participants experienced that day or in previous days. In
+the negative emotion scores demonstrated a floor effect              addition, the nightly reports examined here inquired about
+and, as a result, model residuals were not normally                  all the emotions experienced in a day, not just the emotions
+distributed. Although multilevel models are generally                experienced during, or resulting from meditation practice. As
+robust to model assumption violations such as residual               such, the dose-response relations between meditation
+nonnormality (Maas and Hox 2004), and robust procedures              duration [frequency] and positive [negative] emotions
+were implemented to try to remedy this issue (see OSM), it is        reported here are correlational relations, and the direction
+unclear whether and to what extent floor effects impacted the        of causality (if any) between practice time and emotions
+results.                                                             remains unknown.
+Mindfulness (2017) 8:1623–1633                                                                                                                        1631
+
+
+Future Research                                                                 References
+
+Additional questions about how MM and LKM affect practi-                        Barnhofer, T., Chittka, T., Nightingale, H., Visser, C., & Crane, C. (2010).
+tioners’ emotional well-being point to further avenues for re-                       State effects of two forms of meditation on prefrontal EEG asym-
+                                                                                     metry in previously depressed individuals. Mindfulness, 1, 21–27.
+search. Ecological momentary assessment (EMA) of affect,
+                                                                                     doi:10.1007/s12671-010-0004-7.
+for instance, may be better suited for capturing subtle or                      Bolger, N., & Laurenceau, J.-P. (2013). Intensive longitudinal methods:
+short-lived emotions that may be forgotten by the end of the                         an introduction to diary and experience sampling research. New
+day. In addition, event-contingent EMA could illuminate af-                          York: Guilford.
+fect immediately before and after meditation. Investigation of                  Catalino, L. I., Algoe, S. B., & Fredrickson, B. L. (2014). Prioritizing
+                                                                                     positivity: an effective approach to pursuing happiness? Emotion,
+moderators and boundary effects will also be useful to uncov-                        14, 1155–1161. doi:10.1037/a0038029.
+er individual differences—whether biological or psychologi-                     Chida, Y., & Steptoe, A. (2008). Positive psychological well-being and
+cal—that may increase or reduce the gains in positive emo-                           mortality: a quantitative review of prospective observational studies.
+tions linked to meditation. For instance, recent work (that used                     Psychosomatic Medicine, 70, 741–756. doi:10.1097/PSY.
+                                                                                     0b013e31818105ba.
+the same sample as study 1) reported that genetic differences
+                                                                                Cleveland, W. S., Grosse, E., & Shyu, W. M. (1992). Local regression
+related to oxytocin signaling (i.e., OXTR rs1042778) moder-                          models. In J. M. Chambers & T. J. Hastie (Eds.), Statistical models
+ated positive emotion growth for LKM, but not MM (Isgett                             in S (pp. 309–376). New York: Chapman & Hall.
+et al. 2016). Relatedly, another recent study found that oxyto-                 Cohn, M. A., Fredrickson, B. L., Brown, S. L., Mikels, J. A., & Conway,
+cin, administered intranasally in a randomized, double-blind                         A. M. (2009). Happiness unpacked: positive emotions increase life
+                                                                                     satisfaction by building resilience. Emotion, 9, 361–368. doi:10.
+design, elevated positive emotions (assessed implicitly and                          1037/a0015952.
+explicitly) after a one-time, 20-min guided meditation of ei-                   Curran, P. J., & Bauer, D. J. (2011). The disaggregation of within-person
+ther MM or LKM (Van Cappellen et al. 2016). Further re-                              and between-person effects in longitudinal models of change.
+search is also needed to test for generalization to other popu-                      Annual Review of Psychology, 62, 583–619. doi:10.1146/annurev.
+                                                                                     psych.093008.100356.
+lations, including clinical samples, younger and older age
+                                                                                Curran, P. J., & Hussong, A. M. (2009). Integrative data analysis: the
+groups, other cultures and geographical regions, and individ-                        simultaneous analysis of multiple data sets. Psychological
+uals who have progressed beyond the novice stage of their                            Methods, 14, 81–100. doi:10.1037/a0015914.
+meditation practice. Finally, greater understanding is needed                   Dimidjian, S., & Segal, Z. V. (2015). Prospects for a clinical science of
+regarding the mechanisms through which meditation may in-                            mindfulness-based intervention. American Psychologist, 70, 593–
+                                                                                     620. doi:10.1037/a0039589.
+fluence day-to-day positive emotions, which theory suggests
+                                                                                Edenfield, T. M., & Saeed, S. A. (2012). An update on mindfulness
+may differ between MM and LKM. The mindfulness-to-                                   meditation as a self-help treatment for anxiety and depression.
+meaning theory (Garland et al. 2015), for instance, suggests                         Psychology Research and Behavior Management, 5, 131–141. doi:
+that MM improves emotional well-being through the                                    10.2147/PRBM.S34937.
+intraindividual psychological processes of decentering and                      Enders, C. K., & Tofighi, D. (2007). Centering predictor variables in
+                                                                                     cross-sectional multilevel models: a new look at an old issue.
+positive reappraisal. By contrast, a recent extension of the                         Psychological Methods, 12, 121–138. doi:10.1037/1082-989X.12.
+broaden-and-build theory of positive emotions unpacks the                            2.121.
+complex momentary experience of love (Fredrickson 2016)                         Feldman, G., Greeson, J., & Senville, J. (2010). Differential effects of
+and suggests that LKM improves emotional well-being                                  mindful breathing, progressive muscle relaxation, and loving-
+                                                                                     kindness meditation on decentering and negative reactions to repet-
+through the social psychological processes of other - focus
+                                                                                     itive thoughts. Behaviour Research and Therapy, 48, 1002–1011.
+and positivity resonance between and among individuals.                              doi:10.1016/j.brat.2010.06.006.
+                                                                                Ford, B. Q., Shallcross, A. J., Mauss, I. B., Floerke, V. A., & Gruber, J.
+Acknowledgements This research was supported by two research                         (2014). Desperately seeking happiness: valuing happiness is associ-
+grants awarded by the U.S. National Institutes of Health (NIH) to                    ated with symptoms and diagnosis of depression. Journal of Social
+Barbara L. Fredrickson. These were, for study 1, a National Institute for            and Clinical Psychology, 33, 890–905. doi:10.1521/
+Nursing Research Grant (R01NR012899), an award supported by the                      jscp20143310890.
+NIH Common Fund, which is managed by the NIH Office of the                      Fredrickson, B. L. (1998). What good are positive emotions? Review of
+Director/Office of Strategic Coordination; and, for study 2, a National              General Psychology, 2, 300–319. doi:10.1037/1089-2680.2.3.300.
+Cancer Institute Research Grant (R01CA170128). Additional support               Fredrickson, B. L. (2013). Positive emotions broaden and build.
+for the authors’ time came from an NIH National Center for                           Advances in Experimental Social Psychology, 47, 1–53. doi:10.
+Complementary and Integrative Health Research Grant (R01AT007884)                    1016/B978-0-12-407236-7.00001-2.
+and an NIH National Institute on Aging Research Grant                           Fredrickson, B. L. (2016). Love: positivity resonance as a fresh,
+(R01AG048811), each also awarded to Fredrickson. These funding agen-                 evidence-based perspective on an age-old topic. In L. F. Barrett,
+cies played no role in study design, data collection, data analysis, decision        M. Lewis, & J. M. Haviland-Jones (Eds.), Handbook of emotions
+to publish, or preparation of the manuscript. The authors wish to thank              (4th ed., pp. 847–858). New York: Guilford.
+Susan S. Girdler for sharing laboratory space and Cara Arizmendi for her        Fredrickson, B. L., & Levenson, R. W. (1998). Positive emotions speed
+role as study coordinator. Special thanks are offered to the study partici-          recovery from the cardiovascular sequelae of negative emotions.
+pants who devoted time and energy across months to be involved in this               Cognition and Emotion, 12, 191–220. doi:10.1080/
+research.                                                                            026999398379718.
+1632                                                                                                                    Mindfulness (2017) 8:1623–1633
+
+Fredrickson, B. L., Mancuso, R. A., Branigan, C., & Tugade, M. M.               Kabat-Zinn, J. (1982). An outpatient program in behavioral medicine for
+      (2000). The undoing effect of positive emotions. Motivation and                chronic pain patients based on the practice of mindfulness medita-
+      Emotion, 24, 237–258. doi:10.1023/A:1010796329158.                             tion. General Hospital Psychiatry, 4, 33–47. doi:10.1016/0163-
+Fredrickson, B. L., Cohn, M. A., Coffey, K. A., Pek, J., & Finkel, S. M.             8343(82)90026-3.
+      (2008). Open hearts build lives: positive emotions, induced through       Kanning, M. K., Ebner-Priemer, U. W., & Schlicht, W. M. (2013). How to
+      loving-kindness meditation, build consequential personal resources.            investigate within-subject associations between physical activity
+      Journal of Personality and Social Psychology, 95, 1045–1062. doi:              and momentary affective states in everyday life: a position statement
+      10.1037/a0013262.                                                              based on a literature overview. Frontiers in Psychology, 4, 187. doi:
+Fredrickson, B. L., Grewen, K. M., Algoe, S. B., Firestine, A. M.,                   10.3389/fpsyg.2013.00187.
+      Arevalo, J. M. G., Ma, J., & Cole, S. W. (2015). Psychological            Khoury, B., Lecomte, T., Fortin, G., Masse, M., Therien, P., Bouchard, V.,
+      well-being and the human conserved transcriptional response to ad-             et al. (2013). Mindfulness-based therapy: a comprehensive meta-
+      versity. PloS One, 10, e0121839. doi:10.1371/journal.pone.                     analysis. Clinical Psychology Review, 33, 763–771. doi:10.1016/j.
+      0121839.                                                                       cpr.2013.05.005.
+Galante, J., Galante, I., Bekkers, M.-J., & Gallacher, J. (2014). Effect of     Klimecki, O. M., Leiberg, S., Lamm, C., & Singer, T. (2013). Functional
+      kindness-based meditation on health and well-being: a systematic               neural plasticity and associated changes in positive affect after com-
+      review and meta-analysis. Journal of Consulting and Clinical                   passion training. Cerebral Cortex, 23, 1552–1561. doi:10.1093/
+      Psychology, 82, 1101–1114. doi:10.1037/a0037249.                               cercor/bhs142.
+Galatzer-Levy, I. R., Brown, A. D., Henn-Haase, C., Metzler, T. J.,             Kok, B. E., Coffey, K. A., Cohn, M. A., Catalino, L. I.,
+      Neylan, T. C., & Marmar, C. R. (2013). Positive and negative emo-              Vacharkulksemsuk, T., Algoe, S. B., et al. (2013). How positive
+      tion prospectively predict trajectories of resilience and distress             emotions build physical health: perceived positive social connec-
+      among high-exposure police officers. Emotion, 13, 545–553. doi:                tions account for the upward spiral between positive emotions and
+      10.1037/a0031314.                                                              vagal tone. Psychological Science, 24, 1123–1132. doi:10.1177/
+Garland, E. L., Farb, N. A., Goldin, P., & Fredrickson, B. L. (2015).                0956797612470827.
+      Mindfulness broadens awareness and builds eudaimonic meaning:             Koopmann-Holm, B., Sze, J., Ochs, C., & Tsai, J. L. (2013). Buddhist-
+      a process model of mindful positive emotion regulation.                        inspired meditation increases the value of calm. Emotion, 13, 497–
+      Psychological Inquiry, 26, 293–314. doi:10.1080/1047840X.2015.                 505. doi:10.1037/a0031070.
+      1064294.                                                                  Kraft, T. L., & Pressman, S. D. (2012). Grin and bear it: the influence of
+Geschwind, N., Nicolson, N. A., Peeters, F., van Os, J., Barge-                      manipulated facial expression on the stress response. Psychological
+      Schaapveld, D., & Wichers, M. (2011a). Early improvement in pos-               Science, 23, 1372–1378. doi:10.1177/0956797612445312.
+      itive rather than negative emotion predicts remission from depres-        Leiberg, S., Klimecki, O., & Singer, T. (2011). Short-term compassion
+      sion after pharmacotherapy. European Neuropsychopharmacology,                  training increases prosocial behavior in a newly developed prosocial
+      21, 241–247. doi:10.1016/j.euroneuro.2010.11.004.                              game. PloS One, 6, e17798. doi:10.1371/journal.pone.0017798.
+Geschwind, N., Peeters, F., Drukker, M., van Os, J., & Wichers, M.              Maas, C. J. M., & Hox, J. J. (2004). The influence of violations of as-
+      (2011b). Mindfulness training increases momentary positive emo-                sumptions on multilevel parameter estimates and their standard er-
+      tions and reward experience in adults vulnerable to depression: a              rors. Computational Statistics and Data Analysis, 46, 427–440. doi:
+      randomized controlled trial. Journal of Consulting and Clinical                10.1016/j.csda.2003.08.006.
+      Psychology, 79, 618–628.                                                  Mauss, I. B., Tamir, M., Anderson, C. L., & Savino, N. S. (2011). Can
+Gotink, R. A., Chu, P., Busschbach, J. J. V., Benson, H., Fricchione, G.             seeking happiness make people unhappy? Paradoxical effects of
+      L., & Hunink, M. G. M. (2015). Standardised mindfulness-based                  valuing happiness. Emotion, 11, 807–815.
+      interventions in healthcare: an overview of systematic reviews and        May, C. J., Weyker, J. R., Spengel, S. K., Finkler, L. J., & Hendrix, S. E.
+      meta-analyses of RCTs. PloS One, 10, e0124344. doi:10.1371/                    (2014). Tracking longitudinal changes in affect and mindfulness
+      journal.pone.0124344.                                                          caused by concentration and loving-kindness meditation with hier-
+Hox, J. (2010). Multilevel analysis: techniques and applications.                    archical linear modeling. Mindfulness, 5, 249–258. doi:10.1007/
+      Mahway: Lawrence Erlbaum Associates.                                           s12671-012-0172-8.
+Hussong, A. M., Cai, L., Curran, P. J., Flora, D. B., Chassin, L. A., &         May, C. J., Johnson, K., & Weyker, J. R. (2016). Experimental ap-
+      Zucker, R. A. (2008). Disaggregating the distal, proximal, and time-           proaches to loving-kindness meditation and mindfulness that bridge
+      varying effects of parent alcoholism on children’s internalizing               the gap between clinicians and researchers. In E. Shonin, W. Van
+      symptoms. Journal of Abnormal Child Psychology, 36, 335–346.                   Gordon, & M. D. Griffiths (Eds.), Mindfulness and Buddhist-
+      doi:10.1007/s10802-007-9181-9.                                                 derived approaches in mental health and addiction (pp. 85–93).
+Hussong, A. M., Curran, P. J., & Bauer, D. J. (2013). Integrative data               Cham: Springer.
+      analysis in clinical psychology research. Annual Review of Clinical       Ong, A. D., Bergeman, C. S., Bisconti, T. L., & Wallace, K. A. (2006).
+      Psychology, 9, 61–89. doi:10.1146/annurev-clinpsy-050212-                      Psychological resilience, positive emotions, and successful adapta-
+      185522.                                                                        tion to stress in later life. Journal of Personality and Social
+Hutcherson, C. A., Seppala, E. M., & Gross, J. J. (2008). Loving-                    Psychology, 91, 730–749. doi:10.1037/0022-3514.91.4.730.
+      kindness meditation increases social connectedness. Emotion, 8,           Ospina, M. B., Bond, K., Karkhaneh, M., Buscemi, N., Dryden, D. M.,
+      720–724. doi:10.1037/a0013237.                                                 Barnes, V., et al. (2008). Clinical trials of meditation practices in
+Isgett, S. F., Algoe, S. B., Boulton, A. J., Way, B., & Fredrickson, B. L.           health care: characteristics and quality. Journal of Alternative and
+      (2016). Common variant in OXTR predicts growth in positive emo-                Complementary Medicine, 14, 1199–1213. doi:10.1089/acm.2008.
+      tions from loving-kindness training. Psychoneuroendocrinology, 73,             0307.
+      244–251.                                                                  Rice, E. L., & Fredrickson, B. L. (2016). Of passions and positive spon-
+Jazaieri, H., Jinpa, G. T., McGonigal, K., Rosenberg, E. L., Finkelstein, J.,        taneous thoughts. Cognitive Therapy and Research, 40, 1–12. doi:
+      Simon-Thomas, E., et al. (2013). Enhancing compassion: a random-               10.1007/s10608-016-9755-3.
+      ized controlled trial of a compassion cultivation training program.       Salzberg, S. (1995). Lovingkindness: the revolutionary art of happiness.
+      Journal of Happiness Studies, 14, 1113–1126. doi:10.1007/s10902-               Boston: Shambhala Publications.
+      012-9373-z.                                                               Salzberg, S. (2013). Real happiness. New York: Workman Publishing.
+Mindfulness (2017) 8:1623–1633                                                                                                                      1633
+
+Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). Mindfulness-          responses to meditation. Social Cognitive and Affective
+     based cognitive therapy for depression. New York: Guilford.                  Neuroscience, 11, 1579–1587. doi:10.1093/scan/nsw078.
+Shapiro, S. L., Carlson, L. E., Astin, J. A., & Freedman, B. (2006).          Wang, L., & Maxwell, S. E. (2015). On disaggregating between-person
+     Mechanisms of mindfulness. Journal of Clinical Psychology, 62,               and within-person effects with longitudinal data using multilevel
+     373–386. doi:10.1002/jclp.20237.                                             models. Psychological Methods, 20, 63–83. doi:10.1037/
+Snijders, T. A. B., & Bosker, R. J. (2012). Multilevel analysis: an intro-        met0000030.
+     duction to basic and advanced multilevel modeling (2nd ed.).             Watson, D., Clark, L. A., & Tellegen, A. (1988). Development and val-
+     London: Sage.                                                                idation of brief measures of positive and negative affect: the PANAS
+Steptoe, A., & Wardle, J. (2012). Enjoying life and living longer. Archives       scales. Journal of Personality and Social Psychology, 54, 1063–
+     of Internal Medicine, 172, 273–275. doi:10.1001/archinternmed.               1070. doi:10.1037/0022-3514.54.6.1063.
+     2011.1028.                                                               Weng, H. Y., Fox, A. S., Shackman, A. J., Stodola, D. E., Caldwell, J. Z.,
+Tugade, M. M., & Fredrickson, B. L. (2004). Resilient individuals use             Olson, M. C., et al. (2013). Compassion training alters altruism and
+     positive emotions to bounce back from negative emotional experi-             neural responses to suffering. Psychological Science, 24, 1171–
+     ences. Journal of Personality and Social Psychology, 86, 320–333.            1180. doi:10.1177/0956797612469537.
+     doi:10.1037/0022-3514.86.2.320.                                          Zeng, X., Chiu, C. P. K., Wang, R., Oei, T. P. S., & Leung, F. Y. K. (2015).
+                                                                                  The effect of loving-kindness meditation on positive emotions: a
+Van Cappellen, P., Way, B., Isgett, S. F., & Fredrickson, B. L. (2016).
+                                                                                  meta-analytic review. Frontiers in Psychology, 6, 1693. doi:10.
+     Effects of oxytocin administration on spirituality and emotional
+                                                                                  3389/fpsyg.2015.01693.
+Reproduced with permission of copyright owner. Further reproduction
+                  prohibited without permission.
+

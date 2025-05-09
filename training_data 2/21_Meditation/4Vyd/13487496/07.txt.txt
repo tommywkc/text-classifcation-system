@@ -1,0 +1,1583 @@
+                                                                                      HYPOTHESIS AND THEORY
+                                                                                       published: 09 October 2018
+                                                                                     doi: 10.3389/fnhum.2018.00397
+
+
+                           Breath of Life: The Respiratory Vagal
+                           Stimulation Model of Contemplative
+                           Activity
+
+                           Roderik J. S. Gerritsen 1,2* and Guido P. H. Band 1,2
+
+                           1Institute of Psychology, Cognitive Psychology, Faculty of Social and Behavioural Sciences, Leiden University, Leiden,
+                           Netherlands, 2Leiden Institute for Brain and Cognition, Leiden University, Leiden, Netherlands
+
+                           Contemplative practices, such as meditation and yoga, are increasingly popular among
+                           the general public and as topics of research. Beneﬁcial effects associated with these
+                           practices have been found on physical health, mental health and cognitive performance.
+                           However, studies and theories that clarify the underlying mechanisms are lacking or
+                           scarce. This theoretical review aims to address and compensate this scarcity. We will
+                           show that various contemplative activities have in common that breathing is regulated
+                           or attentively guided. This respiratory discipline in turn could parsimoniously explain the
+                           physical and mental beneﬁts of contemplative activities through changes in autonomic
+                           balance. We propose a neurophysiological model that explains how these speciﬁc
+                           respiration styles could operate, by phasically and tonically stimulating the vagal nerve:
+                           respiratory vagal nerve stimulation (rVNS). The vagal nerve, as a proponent of the
+                           parasympathetic nervous system (PNS), is the prime candidate in explaining the effects
+                           of contemplative practices on health, mental health and cognition. We will discuss
+                           implications and limitations of our model.
+                Edited by:
+          Yusuf Ozgur Cakmak, Keywords: meditation, mind-body exercises, mindfulness, respiration, vagus nerve, heart rate variability,
+  University of Otago, New Zealand cognition, stress
+              Reviewed by:
+         Antonio Ivano Triggiani,
+        University of Foggia, Italy INTRODUCTION
+             Thomas E. Dick,
+  Case Western Reserve University, The past 50 years have shown an increasing interest in eastern contemplative traditions in
+               United States Europe and North-America. These traditions include meditation styles and mindfulness, as well
+           *Correspondence: as mind-body exercises like tai chi chuan (TCC) and yoga. What most of these practices have
+         Roderik J. S. Gerritsen in common is not only their origin in eastern philosophy and religion, but also the goal to
+    r.j.s.gerritsen@fsw.leidenuniv.nl enhance individual physical and mental health. Scientific research has followed the popularity
+                           of contemplative activities (ContActs). Figure 1 shows that the cumulative number of relevant
+        Received: 03 May 2018 publications since 1945 follows a quadratic pattern, with total number of publications within a
+   Accepted: 14 September 2018
+     Published: 09 October 2018 decade increasing from 2,412 between 1997–2006 to 12,395 between 2007–2016 (Web of Science,
+                           February 2018). The number of clinical trials on meditation, mindfulness, yoga, TCC or qi gong
+                  Citation: each year alone increased from a little under 20 in the year 2000 to about 250 in 2014, citations in
+     Gerritsen RJS and Band GPH
+(2018) Breath of Life: The Respiratory the same timeframe going up from 20 in 2000 to 7,112 in 2014 (Web of Science, February 2018).
+       Vagal Stimulation Model of
+         Contemplative Activity. Abbreviations: CAN, Central Autonomic Network; ContAct, Contemplative Activity, such as meditation, mindfulness
+    Front. Hum. Neurosci. 12:397. and yoga.; FA, Focused Attention meditation; OM, Open Monitoring meditation; PNS, Parasympathetic Nervous System;
+   doi: 10.3389/fnhum.2018.00397 rVNS, respiratory Vagal Nerve Stimulation; SNS, Sympathetic Nervous System; TCC, Tai Chi Chuan; VN, Vagus Nerve.
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 1                          October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+                                                        The most common, the most referenced, the most studied
+                                                      and largest subgroup of ContActs is meditation. Most meditation
+                                                      traditions come from east and south Asia and are originally
+                                                      Buddhist or Hindu  in nature. Zen Buddhist meditation
+                                                      (originating in China from a marriage of Buddhism and
+                                                      Taoism), loving-kindness meditation (Tibet), vipassana (India)
+                                                      and transcendental meditation (India) are popular styles. Yet
+                                                      there are also European and Middle-Eastern forms such
+                                                      as acem from Norway, Christian monastic traditions (Egan,
+                                                      1991; Studzinski, 2009) and Sufi Islamic meditation: muraqaba
+                                                      and whirling (Cakmak et al., 2011, 2017; Nizamie et al.,
+                                                      2013).
+                                                        In an attempt to classify meditation traditions according to
+                                                      their differentiated instructions, a distinction has been proposed
+                                                      between two types: focused attention meditation (FA) and open
+                                                      monitoring meditation (OM, Lutz et al., 2008; Lippelt et al.,
+                                                      2014). FA instructions emphasize attention to a particular focus,
+ FIGURE 1 | Cumulative number of scientiﬁc publications on contemplative almost always the breath, along with means how to handle
+ activity (ContAct), from the 1945–1996 bracket to 2017 per individual year. distractions and refocus attention. Zen meditation is commonly
+ Obtained from Web of Science in January 2018 using the search terms: seen as an archetypical form of FA. OM stresses the spreading
+ “mindfulness” OR “meditation” OR “yoga” OR “tai chi.” of attention on multiple endogenic and exogenic stimuli, having
+                                                      fleeting awareness of multiple sensory modalities, emotions and
+  The current article reviews scientific insights in potential thought. Vipassana is popularly regarded as an exemplar of this
+health benefits. In particular, we investigate the role of style. There is no strict separation between the two types in zen
+particular breathing techniques (low respiration rate, long and vipassana, and most traditions blend one style into the other.
+exhalations) integral to contemplative activities and show that Overall, OM is frequently seen as a more advanced level exercise
+these techniques are prime candidates in explaining the benefits than FA, and is thus practiced more by experts as compared to
+of ContActs for health and mental health. Furthermore, we novices.
+provide mechanisms and a neurophysiological model that can In a further categorization attempt by Lutz and colleagues
+explain how respiratory patterns produce these effects; through (Dahl et al., 2015; for another three-dimensional classification,
+vagal nerve stimulation.                              see Lutz et al., 2015), more meditation styles are classified
+  Studies on contemplative practices have reported a plethora based on their most emphasized and practiced techniques.
+of positive effects on health, mental health and cognition The resulting framework has three meditation families: the
+(for reviews, see Shapiro et al., 2003; Grossman et al., attentional, the constructive and the deconstructive. Both FA
+2004; Ospina et al., 2007; Wahbeh et al., 2008; Büssing and OM styles belong to the attentional family. The constructive
+et al., 2012; Lee and Ernst, 2012; Forbes et al., 2013). meditations are aimed at improving the well-being of oneself
+However, not much literature has been devoted to revealing and others, exemplified by compassion and loving-kindness
+the mechanism underlying reported benefits. The current mediation. The deconstructive practices focus on breaking habits
+article is intended to fill this gap. Hereby, we hope to of perception, affect, thought and behavior: most mindfulness
+give extra incentive for research on the mechanisms of meditation falls in this category. Note however, that the term
+ContAct action and inform traditional practices, thereby giving mindfulness has been used in a different meaning as well. It refers
+opportunity to innovate styles with new exercises and targeted not only to a category of meditative practice; it can also refer
+interventions.                                        to a mental state, or even the ultimate enlightenment goal of
+                                                      these practices. As a mental state, mindfulness refers to a state
+CONTEMPLATIVE TRADITIONS                              of meta-awareness, in which the practitioner observes emerging
+                                                      feelings and thoughts without judgment (non-judgmentality).
+For the purpose of this article we define contemplative The state of mindfulness can actually be the target of both FA
+activities as activities that involve conscious and attentive and OM exercises.
+exercise aimed at changing one’s mental state, contemplation Another subgroup within ContAct, here referred to as
+in meaning  comparable to ‘‘praying’’ and ‘‘meditating.’’ mind-body exercises, is more multi-modal. It involves both
+We have deliberately not chosen the concept mindfulness meditation and physical exercise; such as stances, positions,
+because it is associated with particular practices, instructions complex movements and muscle relaxation techniques.
+and states, as we will discuss later. Despite the similarities Common traditions are the many styles of Indian yoga and
+between  ContActs reflected in the definition, a few  Chinese styles like TCC and qi gong. Origins of these styles
+differences among ContActs are worth explaining here, differ, but most also have religious or mystical roots like
+because they are also used to position interventions in meditation traditions, even when developed as a martial art (e.g.,
+research.                                             Taoism in TCC).
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 2                          October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+THE POSITIVE EFFECTS OF ConTact                       (Grossman et al., 2004; Kirkwood et al., 2005; Jahnke et al., 2010;
+                                                      Wang et al., 2010a; Keng et al., 2011; Eberth and Sedlmeier, 2012).
+Research has found a vast array of beneficial effects in the Furthermore, a recent meta-analysis that collapsed studies using
+three domains of physical health, mental health and cognitive different meditation interventions, such as FA and OM, showed
+performance.                                          that they reduce multiple physiological stress markers across
+                                                      styles: heart rate, blood pressure, cortisol levels and inflammatory
+Physical Health                                       bodies (Pascoe et al., 2017).
+Cardiopulmonary Effects
+                                                      Stress-Related Psychopathology
+Multiple reviews on different ContActs report a decrease in
+                                                      ContActs, and notably mindfulness-based cognitive therapy,
+cardiometabolic risk factors and an increase in cardiopulmonary
+                                                      reduce symptoms in affective psychopathology (Chiesa and
+health and fitness, according to a meta-analysis this is most
+                                                      Serretti, 2011; Kuyken et al., 2015). Most reviews and
+consistently reflected in lowered heart rate, blood pressure
+                                                      meta-analyses report decrease in symptoms of depression,
+and blood lipid profile across practices (Ospina et al., 2007).
+                                                      anxiety disorders and post-traumatic stress disorder, as measured
+Reviews on separate practices confirm this for meditation styles
+                                                      by structured clinical interview and common clinical scales, such
+such as mindfulness meditation and transcendental meditation
+                                                      as the Beck Depression Inventory (Klainin-Yobas et al., 2012;
+(Grossman et al., 2004; Walton et al., 2004), as well as the
+                                                      Balasubramaniam et al., 2013; Chi et al., 2013; Cramer et al., 2013;
+mind-body exercises yoga (Büssing et al., 2012; Posadzki et al.,
+                                                      Kim et al., 2013; Wang et al., 2013).
+2014) and TCC (Jahnke et al., 2010; Lan et al., 2013), where
+one meta-analysis indicates increased erobic capacity as well Cognitive Performance
+(Taylor-Piliae and Froelicher, 2004). However, Cochrane reviews
+on transcendental meditation, TCC and qi gong state that even Cognitive Control
+though there is suggestion to their positive effect, definitive Some studies show that ContActs enhance executive functioning
+conclusions on their efficacy cannot be drawn because of a lack and working memory or act as a buffer against age-related
+of high-quality long-term trials (Hartley et al., 2014a,b, 2015). decline of executive functions and working memory: this applies
+                                                      to mindfulness meditation (Zeidan et al., 2010; Gard et al.,
+Anti-Inﬂammation                                      2013), yoga (Gothe and Mcauley, 2015; Luu and Hall, 2016)
+ContAct reviews also report immunological improvements; and TCC (Wu et al., 2013; Wayne et al., 2014; Zheng et al.,
+most studies find functional anti-inflammatory effects, where 2015). Most of the reported evidence for ContActs boosting
+meta-analyses indicate that the most commonly reported executive functioning comes from cognitive inhibition tasks,
+decreases of pro-inflammatory markers are in C-reactive protein such as the Stroop and flanker tasks, whereas the support for
+and pro-inflammatory cytokines, such as tumor necrosis factor-a working memory improvement comes from span and n-back
+(Morgan et al., 2014; Bower and Irwin, 2016). Again, this tasks. Furthermore, cognitive control states can be acutely
+enhancement can be seen with different ContActs: loving- affected through very short ContAct interventions (Colzato
+kindness meditation (Hofmann et al., 2011), yoga (Black et al., et al., 2012, 2015a,b; Gothe et al., 2013), although these effects
+2013) and TCC (Jahnke et al., 2010; Lan et al., 2013). are typically smaller and less robust than following prolonged
+                                                      ContAct practice.
+Physical Function
+Like other physical exercises, mind-body exercises improve Attentional Control
+general physical function, most notably bone density, balance, ContActs also seem to have specific effects on attentional
+strength and flexibility (Jahnke et al., 2010; Büssing et al., 2012). control and have been reported for FA and OM (Shapiro
+Mindfulness-based stress reduction, yoga and TCC seem to et al., 2003; van Vugt and Slagter, 2014; Colzato et al., 2015a),
+ameliorate (chronic) pain conditions, as indicated by pain scales mindfulness meditation (Chiesa and Serretti, 2010; Eberth and
+in conditions such as: migraine, fibromyalgia and osteoarthritis Sedlmeier, 2012) and yoga (Gothe and Mcauley, 2015), with most
+(Grossman et al., 2004; Wahbeh et al., 2008; Büssing et al., 2012). studies reporting enhancement effects on attentional network
+As mindfulness-based stress reduction also includes yoga-like task components and the attentional blink. These effects are
+exercises, these results can be reserved to mind-body exercises differentiable according to specific practices and can be in
+and might best be interpreted as coming from the physical opposite directions (Slagter et al., 2011; Hommel and Colzato,
+exercise part of these programs, as exercise-induced analgesia is 2017). For example, practices high in FA are associated with
+well-established (Koltyn et al., 2014) and is even comparable to better sustained attention, and those emphasizing OM support
+medication in chronic pain conditions according to a review of flexibility in allocation of attentional resources (Lutz et al., 2009;
+multiple Cochrane reviews (Geneen et al., 2017).      van Vugt and Slagter, 2014; Colzato et al., 2015a). Jha et al.
+                                                      (2007) used the attentional network test (Fan et al., 2005) to
+Mental Health                                         compare FA with OM in terms of attentional subcomponents
+Stress Relief                                         as distinguished by Posner and Petersen(1990). Jha et al.
+Reviewed ContActs decrease stress and negative affect, and in (2007) showed that FA has its effects on the alerting component
+parallel increase well-being and self-efficacy, as indicated by stress (detecting a stimulus) and OM on the orienting component
+and (trait) anxiety rating scales and quality of life questionnaires (allocating attentional resources). Surprisingly, they found no
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 3                          October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+differences on performance monitoring. Andreu et al.(2017), as resulting in a shift towards either more or less (attentional)
+however, did find acutely enhanced performance monitoring control than as a unidirectional change. Both directions of
+by meditation. In people diagnosed with attention deficit change can be adaptive to the practitioner’s intention because
+hyperactivity disorder, meditation and mind-body exercises such metacontrol shifts result in either more persistence or more
+actually enhanced attentional functioning (Rubia, 2009; Mitchell flexibility in thought (Hommel, 2015; Hommel and Wiers, 2017).
+et al., 2015; Herbert and Esparham, 2017), although an earlier A limitation to the effective strength of attention training is
+Cochrane review was unable to draw conclusions due to a lack of that transfer of effects to other contexts and untrained skills
+clinical trials (Krisanaprakornkit et al., 2010).     is known to be rather limited (Seitz and Watanabe, 2005;
+                                                      Green and Bavelier, 2012; Keshavan et al., 2014; Simons et al.,
+Global Cognition and Creativity                       2016).
+Attention and control are not the only psychological outcome
+variables of ContAct research. Shapiro et al.(2003) observed Affect Training
+enhanced creativity through transcendental meditation, while Exercises we define as affect training are aimed at removing
+the meta-analysis of Ospina et al.(2007) indicated increased or transforming negative emotions or moods. These start with
+verbal creativity as the most reliable cognitive outcome of diverse becoming aware and paying attention to negative feelings or
+ContActs. However, these acute effects can be in different and thoughts. This is comparable to exposure therapy (Hölzel et al.,
+even opposing directions, as shown by a study on convergent 2011b). Subsequent instructions serve to modify the mental state.
+and divergent thinking that used short FA and OM interventions By decentering the meditator attempts to distance the self from
+(Colzato et al., 2012). There is also evidence that global cognitive the (negative) thought or feeling, trying to observe it as just
+functioning, as measured by the mini-mental state examination a fleeting and subjective sensation, instead of a feeling that is
+or activities of daily living questionnaire is positively influenced taken personal, in effect trying to detach the observer from the
+by ContAct in aging populations with mild cognitive impairment observed (Bernstein et al., 2015). Associated with decentering
+or dementia. Studied ContActs include mindfulness meditation is the attempt to treat thoughts and feelings as not necessarily
+(Eberth and Sedlmeier, 2012) and yoga and TCC (Wu et al., representing an objective reality. This is known as dereification.
+2013), as evidenced by a Cochrane review (Forbes et al., 2013). Finally, the detachment that results from decentering and
+                                                      dereification helps the meditator to avoid judgment about
+EFFECTIVE FACTORS IN ConTActs                         invasive and recurring thoughts, feelings or external events, such
+                                                      as surrounding noise. This non-judgmentality is also explicitly
+As a first step towards explaining the highly overlapping effects instructed. Taking these three mental exercises together, it is easy
+of diverse ContActs on physical, mental and cognitive health, to maintain that they can help to reappraise negative feelings
+a straightforward approach is to analyze what they have in (Hölzel et al., 2011b). Therefore, affect training, as comprising
+common. Three of the common factors we distinguish were also both exposure and reappraisal, could explain findings in the area
+proposed by Hölzel et al.(2011b) for mindfulness mediation, of mental health, and possibly by extension, through (chronic)
+but we formulate them in terms of activities rather than goals stress reduction: immune function and cardiovascular health.
+and propose three additional factors: attention training, affect
+training, metacognitive adjustment, body awareness training, Metacognitive Adjustment
+physical exercise and the central addition: breathing techniques. Both the decentering and dereification techniques belong to
+The first three can be seen as forms of mental training and the the domain of meta-awareness and metacognition: being aware
+last three as more embodied cognitive exercises. We will cover the of awareness, thinking about thinking (Flavell, 1976). By
+first five factors and other proposed models before we introduce metacognitive adjustment practitioners try to change the way
+the breathing exercises.                              they process information. Many thoughts and perceptions follow
+                                                      a default processing route, resulting in a default interpretation
+Attention Training                                    and categorization of what is perceived. ContActs that involve
+The focus of attention in ContAct practices can involve many thought monitoring try to identify and deconstruct fixed thought
+sensory or cognitive modalities; any of the external senses, pattern, thereby deviating from this default processing route.
+the body, the breath, thoughts or feelings. Although explicit This effect may transfer to daily life in the form of a tolerance
+attentional training might be absent from some mind-body for ambiguity and an increase in mental flexibility. As such,
+exercises, many ContActs are aimed at sustaining attention, some forms of ContAct can be seen as executive function
+handling distraction and refocusing or shifting and spreading training, possibly transferring to situations where overruling
+of attention. These attentional techniques can explain the pre-potent responses, ignoring irrelevant information, switching
+frequently reported effects on attention and perhaps some in between tasks and rules, or keeping working memory up to
+the cognitive control domain. However, as stated earlier, these date is relevant. Therefore, metacognitive strategies can explain
+effects can be differentiated and in opposite directions according beneficial effects of ContAct in the cognitive control domain.
+to specific instructions, showing increased sustained attention However, even apparently very similar cognitive training or
+and decreased attentional flexibility by one manipulation (FA), gaming paradigms show very little transfer of training attentional
+and showing opposed functional differences by another (OM). control or working memory (Green and Bavelier, 2012; Melby-
+Attention training in ContAct might thus be better described Lervåg and Hulme, 2013).
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 4                          October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+Body Awareness Training                                 Models that describe the benefits of mind-body exercises
+Exercises instructing for attention to different parts of the body, (Wayne and Kaptchuk, 2008; Gard et al., 2014; Clark et al.,
+mostly to the skin and muscles, but also the viscera, make up the 2015) incorporate movement, mindfulness and attention. One
+body awareness training factor. These could be mistaken as being refers to TCC as ‘‘meditative movement,’’ clearly naming the
+part of the attention training factor. However, body perception two aspects of physical and mental training (Larkey et al., 2009).
+is also uniquely central in affective processing and the sense of However, despite labeling movement as a functional component,
+self (Damasio, 2003; Ochsner et al., 2004; Araujo et al., 2013). none of these models handle physical exercise as a full factor on
+Some researchers even theorize that body awareness is central its own. In the component ‘‘movement,’’ exercise is reduced to
+in the cultivation of empathy (Grossman, 2014). This makes us motor coordination and skill learning, or the training of physical
+treat body awareness as a factor on its own. Kerr and colleagues strength. Even though TCC is classified as mildly erobic (Chang
+(Kerr et al., 2008, 2011, 2013; Kemp and Quintana, 2013) have et al., 2010), the benefits of its erobic aspect are neglected. This
+shown that interoception can be enhanced in practitioners of is peculiar in light of the extensive support for the contribution
+mindfulness meditation and TCC: tactile acuity goes up, and of erobic exercise to physical health, mental health and cognitive
+activity in related somatosensory and visceral cortical areas (S1, performance.
+insula, anterior cingulate cortex (ACC)) shows a pattern of
+increased attention to specific body parts on instruction and Breathing Techniques
+filtering of irrelevant somatosensory information. They state Two of the mind-body models also incorporate a factor that
+that metacognition and cognitive enhancement starts in the has been conspicuously absent from other models: breathing
+body: somatosensory exercises are in their view early versions techniques (Wayne and Kaptchuk, 2008; Gard et al., 2014). In
+of the techniques involved in attention, meta-awareness and both of these accounts, one on yoga and the other on TCC,
+metacognition. This being the case, body awareness could be the breathing type described as effective is slow, deep and
+involved in producing effects on emotional and cognitive levels. diaphragmatic.
+
+                                                      Effects of Respiration in Theory and Research
+Physical Exercise                                     The breathing techniques used in ContAct include, but are
+One could argue that physical exercise is the most likely candidate not restricted to, slowing down respiration cycles, shifting
+for broad enhancement. Many studies provide evidence that to longer exhalations compared to inhalations, shifting the
+physical exercise of different kinds (erobic, endurance, strength) main locus of respiration from the thorax to the abdomen
+is a strong cognitive control enhancer, resulting in better (diaphragmatic breathing), or paying attention to ‘‘natural’’
+cognitive and response inhibition, and lower dual-task costs, breathing. Especially slow and deep breathing with emphasis
+though reviews on working memory performance are mixed on long exhalation is dominant across traditions, including zen
+(Colcombe and Kramer, 2003; Smith et al., 2011; Roig et al., and vipassana—though there are a few practices stimulating
+2013; Voelcker-Rehage and Niemann, 2013; Voss et al., 2013; faster respiration patterns (i.e., the yoga technique ‘‘breath of
+Berryman et al., 2014; Wong et al., 2015). Exercise is also fire’’). In the physically active mind-body exercises respiration
+generally accepted as a cardiovascular health booster (Di can be synchronized with movement techniques; moving with
+Francescomarino et al., 2009; Heran et al., 2011; Korsager the breath. For example, in some TCC styles moving towards
+Larsen and Matchkov, 2016). However, the evidence for the the body is performed on inhale and moving outward on exhale.
+supposed therapeutic effect of physical exercise on depression, Note that in yoga, qi gong and TCC moving is performed slowly,
+anxiety and other stress-related conditions has been sparse, as and thus so is the breathing cycle.
+indicated by a Cochrane review (Mead et al., 2009), despite Although the word breathing is frequently mentioned in the
+high expectations and invested resources (Salmon, 2001). Most scientific literature on ContAct, this is almost exclusively done
+importantly, only a small minority of the reported ContActs in a purely descriptive and not an explanatory fashion. Indeed,
+provide any erobic or endurance exercise quality: the mind-body research on breathing as a ContAct mechanism is sparse, though
+exercises, and perhaps to a smaller degree the mindfulness-based there are concrete physiological grounds to look at breathing as
+clinical programs (i.e., mindfulness-based stress reduction). This an effective factor (Brown and Gerbarg, 2005). As far as we know
+seems to rule it out as the prime candidate.          there are only a few articles looking at respiration in the context
+                                                      of ContActs directly, varying wildly in aims and measures.
+Theories and Models of ContAct Efﬁcacy                Danucalov et al.(2008) found increases in metabolism and
+There is a large gap between the amount of research done oxygen uptake during yogic breathing exercises (pranayamas)
+on ContAct and the number and amount of detail of models in experts, as compared to rest and meditation conditions in
+proposed to explain the benefits (Schmalzl et al., 2015). (Neuro) a within-subjects design. The breathing exercises used included
+cognitive models that have been put forward so far attribute holding the breath and extending exhalation. A similar slow
+the benefits of meditation to top-down factors such as attention breathing pranayama was used by Pramanik et al.(2009)
+and metacognition. For example, Vago and Silbersweig(2012) showing reduced blood pressure and heart rate at post-measure.
+emphasized the role of the self in the effectiveness of mindfulness Brown and Gerbarg(2009) reviewed their own studies on the
+meditation, whereas Sperduti et al.(2012) highlighted the role of psychophysiological effects of various breathing techniques used
+executive functions in all branches of meditation.    in Sudarshan Kriya Yoga and reported a general tendency
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 5                          October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+among the breathing exercises towards relaxation: activating functional effects associated with ContAct practice. Therefore,
+the parasympathetic nervous system (PNS) and deactivating the the breathing exercise component of ContAct is a prime
+sympathetic nervous system (SNS). Cysarz and Büssing(2005) candidate mechanism behind the beneficial effects found on
+observed increased cardiorespiratory synchronization with a mental and physical health.
+slow breathing zen meditation intervention in naïve subjects.
+Though there is clearly a lack of studies on breathing in ContAct Cardiopulmonary Control
+practice, fundamental neurophysiological studies on respiration Efferent VN fibers innervate the heart and the lungs. The
+mechanics and styles do abound.                       pulmonary efferents regulate airway size and thus volume, they
+  In several studies respiration types have been manipulated in lower respiration rate and indirectly endocrine secretion (Yuan
+an attempt to influence autonomic nervous system functioning. and Silberstein, 2016a). Exhalation is under direct control of VN
+A  study of the effect of diaphragmatic relative to normal (Chang et al., 2015), whereas VN activity is attenuated during
+breathing on metabolism among male cyclists, before and after a inhalation (Eckberg and Eckberg, 1982; Canning, 2006). The
+meal found reductions in heart rate and glycemia, and increases vagal cardiac outputs to the sinoatrial node causes slowing of
+in insulin (Martarelli et al., 2011). Bernardi et al.(2001) induced heart rate, whereas SNS innervation is responsible for heart rate
+hypoxia in participants and found that slow breathing exercises increase. The SNS cardiac effector is under tonic inhibition of
+not only increased blood oxygenation, but also down-regulated VN, indicating indirect control on heart rate increase (Olshansky
+SNS activity. Similar results are reported by Critchley et al. et al., 2008).
+(2015) study on hypoxia. Many other studies show that slow Anti-Inﬂammation
+and diaphragmatic breathing increases PNS activity, as measured There is evidence that VN also influences physical health
+by blood pressure, heart rate or heart rate variability (HRV; by suppressing inflammation. An anti-inflammatory reflex,
+Hirsch and Bishop, 1981; Lee et al., 2003; Pal et al., 2004; Lehrer known as the cholinergic anti-inflammatory pathway has
+and Gevirtz, 2014; Van Diest et al., 2014; Mortola et al., 2015; been put forward from findings in animal studies on rats
+Perciavalle et al., 2017; Tavares et al., 2017; for some conflicting (Tracey, 2002, 2007; Pavlov and Tracey, 2015). This response
+results see and Montgomery, 1994; Conrad et al., 2007). In sum, is thought to inhibit a cascade of inflammatory activity and
+experimental slowing of respiration seems to shift the balance is triggered by vagal afferents monitoring immune status.
+between SNS and PNS activity towards the latter. Next, in light However, an alternative sympathetic anti-inflammatory reflex
+of these findings, we will look at the part of the nervous system has been proposed, explaining conflicting results in rat studies:
+responsible for such a shift: the vagus nerve (VN) and measures the splanchnic anti-inflammatory pathway, where VN plays an
+of its tone (i.e., HRV).                              afferent role at most (Bratton et al., 2012; Martelli et al., 2014a,c,
+                                                      2016). A complete discussion of these competing pathways lies
+THE VAGUS NERVE AND HEART RATE                        outside the scope of this review. Suffice it to say that the VN
+                                                      seems to be involved in anti-inflammation in humans: studies
+VARIABILITY                                           using VN  stimulation paradigms report anti-inflammatory
+                                                      effects as well (Browning et al., 2017; Johnson and Wilson, 2018).
+Vagus Nerve                                           Furthermore, after vagotomy inflammatory activity goes up. This
+The autonomic nervous system (Langley, 1903) is a dual-system resembles the earlier mentioned tonic inhibition on heart rate
+divided in the SNS and PNS with mutual inhibitory connections, (Borovikova et al., 2000). This merits the proposition that VN
+though the dual innervation can also work complementary in mediates effects of ContAct on immunological health, specifically
+organs such as the heart (Jänig et al., 1983; McCorry, 2007). anti-inflammatory, and potentially those on auto-immune
+The SNS is responsible for the fight/flight mode of organisms. diseases.
+It raises heart rate, blood pressure and indirectly respiration
+rate. It dampens currently irrelevant homeostatic processes, but System State Monitoring
+stimulates immediate availability of energy. The PNS acts as an VN afferents reach the medulla from the heart, airways, liver and
+opposing force. It is the rest/digest system of the organism. It gastrointestinal track. It monitors cardiorespiratory, endocrinal
+lowers heart rate, respiration rate and increases digestion. The and immune parameters (Berthoud and Neuhuber, 2000).
+VN is the main affector and effector of the PNS.      Mechanoreceptors in the airways signal on airway size and thus
+  The VN is a cranial nerve complex with widespread afferents on respiration cycle and style (Undem and Carr, 2001; Canning,
+and efferents on glands and visceral organs (Berthoud and 2006). VN afferents on the adrenal glands relay information
+Neuhuber, 2000), consists of approximately 20% efferent and on the release of stress hormones, such as epinephrine and the
+80%  afferent fibers (Agostoni et al., 1957) and has many glucocorticoids (Coupland et al., 1989; Niijima, 1992; Kessler
+independently operating functions (Chang et al., 2015). Overall et al., 2012). The afferent branch of the VN constantly send up
+it is well-suited for relaying relaxation from the central nervous homeostatic parameters to the CNS, monitoring the state of the
+system (CNS) to the body and checking the arousal and visceral system. This branch has been characterized as the ‘‘great
+homeostatic state of the viscera. VN activity is modulated by wandering protector’’ (Andrews and Lawes, 1992).
+respiration. It is suppressed during inhalation and facilitated Clearly, these functions all move the system towards the
+during exhalation and slow respiration cycles (Chang et al., rest/digest mode of operation and away from fight-or-flight. Not
+2015). Efferent and afferent VN functions overlap with the only does VN control heart rate and slow deep breathing, slow
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 6                          October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+respiration rates with extended exhalation could also activate As stated earlier, HRV is regarded as an indicator of physical,
+the PNS by VN  afferent function in the airways. This is a but also cognitive health. Indeed, there is a concrete link
+form of respiratory biofeedback. Slow breathing techniques between HRV and cognition, first sketched in the neurovisceral
+with long exhalation will signal a state of relaxation by VN, integration model of Thayer and Lane(2000).
+resulting in more VN activity and further relaxation. Though
+VN involvement can explain effects on health and mental health, HRV and Cognition
+the link with cognition is less clear. One of the links between The neurovisceral integration model (Thayer and Lane, 2000;
+respiration and cognition is HRV.                     Thayer, 2007; Thayer et al., 2009) posits bi-directional cortical
+                                                      influences on autonomic functioning and integrates CNS and
+HRV                                                   autonomic functioning. It builds on the work of Benarroch
+Vagal Tone                                            (1993, 1997) on the Central Autonomic Network (CAN), a
+HRV, the fluctuations in beat-to-beat intervals of the heart, network of brain areas for goal-directed behavior involved
+has been related to VN and some measures are believed to in modulating the viscera. These areas are mostly limbic
+reflect ‘‘vagal tone.’’ As only the VN cardiac output and not the and include the insula, ACC, amygdala and hippocampus.
+sympathetic innervation would be able to produce rapid changes The neurovisceral integration model extends this to prefrontal
+in heart rate. HRV is used as an indicator for individual physical structures (orbitofrontal, medial and lateral PFC). These regions
+conditioning, general health, reactivity to and recovery from high are able to influence HRV and initiate endocrine responses
+stress levels. Higher HRV is related to lower stress levels, better through the VN. But the integration of CNS and autonomic
+health and disease outcomes (Thayer et al., 2012). A frequently nervous system also works bottom-up: projections from VN
+used HRV metric to assess vagal tone is the respiratory sinus afferent medular termini reach limbic and cortical regions,
+arrhythmia, by some maintained to be the best reflection of vagal affecting cognitive control. This framework provides a basis for
+tone (Porges, 2001, 2007). This refers to the acceleration of heart a connection between executive functions on the one hand, and
+rate during inhalation and deceleration during exhalation. body relaxation on the other. Indeed, studies by Thayer and
+  HRV can either be obtained in the time or the frequency others show evidence of a positive association between HRV
+domain (Task Force, 1996; for a recent review of HRV methods and PFC activity and subsequent improvements in executive
+see: Laborde et al., 2017). High frequency HRV (HF), also functions, notably cognitive inhibition. PFC seems to exert tonic
+referred to as respiratory sinus arrhythmia, is seen as a measure inhibition on heart rate (and the amygdala), and greater activity
+of vagal tone, whereas low frequency HRV (LF) is thought of the PFC is associated with higher HRV (Lane et al., 2001,
+to represent sympathetic activity. The ratio between the two 2009). Hansen et al.(2003, 2004) provided further evidence of
+(LF/HF) represents autonomic balance, where a smaller number this relation in individual differences studies: higher HRV is
+indicates vagal dominance. However, studies have shown that associated with better executive functions and working memory
+vagal activity is also reflected in LF and furthermore that LF performance. In the view of Thayer and colleagues, HRV
+does not reflect the SNS (Martelli et al., 2014b), making the ratio can be seen as a peripheral index of the adaptability of the
+unusable as an indicator of autonomic balance. Currently, most nervous system and thus the organism. HRV increases with
+studies confirm that specific measures in the time domain (e.g., goal-directed behavior and emotion regulation, and reduced
+root mean square of successive differences, peak-valley method) HRV is indicative of cognitive stress. Clearly, the CAN and these
+best reflect vagal tone (Penttilä et al., 2001), though some experimental findings give grounds for explaining executive
+studies state that HRV, notably respiratory sinus arrhythmia, function enhancement following ContActs as originating from
+is not a reliable indicator of vagal tone at all (Grossman and VN, through upward projections producing functional and
+Taylor, 2007). Individual HRV varies widely through time and structural changes in the executive network.
+during various activities, such as physical exercise (Hottenrott In a recent update of the neurovisceral integration model
+et al., 2006). Three types of measurements in time can be (Smith et al., 2017), which adopts a hierarchical network
+defined: resting or baseline HRV, reactivity HRV and recovery architecture, the relative weight of top-down and bottom-up
+HRV (Laborde et al., 2017). Resting HRV is obtained with the influences can be adjusted. This leaves room for learning or the
+participant sitting down, not performing any specific activity and training of autonomic responses. For example, a non-adaptive
+can be seen as an individual’s baseline level. Reactivity HRV is dysfunctional stress response can be modulated or go extinct
+obtained during an activity or intervention, such as a cognitive by the reappraisal of threat (top-down) or exposure to the
+task or a breathing exercise. This short-term HRV tends to drop stressor (bottom-up). This means that stress levels could be
+during a cognitive challenge (Wood et al., 2002). Recovery HRV downregulated by lower level state feedback that is associated
+refers to the return to baseline afterwards. In this article, when with unthreatening situations. In our account these are the
+we mention HRV we refer to resting state HRV measures that pulmonary parameters: low respiration rate and long exhalation.
+best reflect vagal tone (HF and aforementioned time-domain
+measures), unless stated otherwise. Changes in these measures Vagal Nerve Stimulation
+thus reflect changes in tonic vagal tone. An exception consists of The many functions of VN have led researchers and clinicians to
+most of the reported studies on respiration patterns: in this case develop electrical or behavioral intervention techniques for VN
+the HRV concerns reactive HRV and in some cases recovery, and stimulation (VNS). These techniques are promising for clinical
+thus phasic changes in vagal tone.                    application and for improving cognitive performance. At the
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 7                          October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+same time, the pattern of results observed following VNS mirror tone HRV measures (Ylikoski et al., 2017). Neuroimaging studies
+those obtained by ContAct, making VN involvement likely, and have also shown that cortical and sub-cortical regions identified
+thus breathing exercises a promising candidate for stimulation. in CAN are activated during both cervical and auricular tVNS
+                                                      (Dietrich et al., 2008; Frangos et al., 2015).
+Electrical VNS                                          Few studies have been conducted using tVNS to influence
+Electrical VNS (Henry, 2002; Groves and Brown, 2005; Yuan and cognitive behavioral performance. However, two studies have
+Silberstein, 2016b) was originally used to treat epilepsy. However, shown phasic changes in associative memory (Jacobs et al., 2015)
+because it also increased the mood of stimulated patients it found and in response selection (Steenbergen et al., 2015) following
+its way as an approved therapy for depression (Johnson and tVNS. Interestingly, tVNS also causes effects that would be
+Wilson, 2018), especially treatment resistant depression (Müller expected if VN efferent function would be modulated, by
+et al., 2018). It is also used to treat cardiovascular disease (Das, increases in vagal tone. Multiple studies and reviews show an
+2011; Johnson and Wilson, 2018) and as mentioned earlier, increase of PNS activity, and some also show a decrease of
+VNS has also shown acute anti-inflammatory effects (Browning SNS activity (Popov et al., 2013; Clancy et al., 2014; Murray
+et al., 2017; Johnson and Wilson, 2018), possibly through the et al., 2016; Zhou et al., 2016). Furthermore, tVNS is also
+anti-inflammatory pathway (Borovikova et al., 2000; Yuan and associated with anti-inflammatory effects (Wang et al., 2014,
+Silberstein, 2016c).                                  2015). These results overlap strongly with those obtained in
+  VNS is also applied to respiratory conditions. A study ContAct studies.
+on  guinea pigs has shown that strength of stimulation
+makes a difference: high voltage produces the predicted VN Behavioral VNS
+effects bronchoconstriction, reduced heart rate and blood There are also behavioral forms of VNS (vagal maneuvers),
+pressure, while low voltage only produces the pulmonary effects which are supposed to stimulate VN bilaterally. The Valsalva
+(Hoffmann et al., 2012). Studies in humans, in contrast, show that technique; pinching the nose closed and then trying to exhale
+VNS can actually produce airway relaxation in asthma patients through the nose, is best known for returning normal pressure
+during acute episodes, as indicated by an increase in forced to the inner-ear cavities when changing altitudes (Arnold, 1999).
+expiratory volume (Miner et al., 2012; Steyn et al., 2013). In other It is initiated by flexing the abdominal muscles and extending
+words: stimulating afferent branches of VN during exacerbations exhalation (in clinical or laboratory setting by blowing into a
+(shortness of breath) produces longer exhalations and therefore balloon), showing a strong similarity with breathing techniques
+slowing of respiration rate.                          in ContAct. Even further, extending, slowing and holding
+  VNS has been shown to affect cognitive functioning, for respiration are all considered vagal maneuvers on their own,
+example memory consolidation and recognition (Clark et al., stimulating the VN. All of these vagal maneuvers have been
+1999; Ghacibeh et al., 2006; Vonck et al., 2014). Effects shown to slow heart rate (bradycardia). We propose that the
+found on mood and memory can be interpreted through   breathing exercises of ContAct might be seen as a form of
+the vagal projections into the central autonomous network. behavioral VNS.
+It is also supposed that by vagal projections to the locus Overviewing the functions and applications of VN, one can
+ceruleus, norepinephrine levels are influenced in midbrain see its potential as a mediator between respiratory patterns
+and forebrain structures. This proposition is paradoxical as employed in ContActs and the reported effects on health, mental
+norepinephrine increase is more associated with sympathetic health and cognition. This will be further outlined in our
+than with parasympathetic activity, and indeed evidence for model.
+norepinephrine release by VNS is mixed (Ventura-Bort et al.,
+2018). We propose that VNS actually increases PNS activity and THE RESPIRATORY VAGAL STIMULATION
+that norepinephrine projections play a minor role, as shown by MODEL OF CONTEMPLATIVE ACTIVITY
+recent neuroimaging studies (Frangos et al., 2015). Clearly, VNS
+not only shows effects on well-documented afferent and efferent The model, as depicted in Figures 2A–D, has a number of
+functions of VN, but also fits with the neurovisceral and CAN assumptions, inductions and predictions. These can be roughly
+account of cortical VN projections.                   divided into: (a) ContAct breathing; (b) respiratory stimulation;
+                                                      and (c) long-term effects. This will be followed by a definition of
+Transcutaneous VNS                                    terms and measures.
+Transcutaneous VNS (tVNS) is a new non-invasive tool that
+is used to electrically excite the auricular or cervical branches ContAct Breathing
+(afferent) through electrodes placed on the ear or neck. Though ContActs are multi-modal interventions that can incorporate
+this line of research is in its infancy, preliminary results also show many different techniques and instructions. However, one of the
+an association between tVNS and VN-related afferent functions most prominent and common ContAct techniques is respiratory
+and projections. Shiozawa et al.(2014) concluded from a review regulation, in other words: breathing exercises. These breathing
+of neuropsychiatric studies that tVNS can reduce symptoms of exercises have in common the instructions to focus on and
+depression. Furthermore, a recent study has shown that (cervical) slow down respiration, and/or extend exhalation. In Figure 2
+tVNS indeed shifts autonomic balance from the SNS to the PNS this is represented by the node ‘‘breathing regulation’’ inhibiting
+in tinnitus patients, as indicated by the increase of multiple vagal the nodes for respiration rate and inhalation/exhalation ratio,
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 8                          October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+
+ FIGURE 2 | Panel (A) represents an overview of the respiratory vagal nerve stimulation (rVNS) model of ContAct. See the text body for more details. There are two
+ pathways through which respiration style stimulates VN: direct and indirect (biofeedback through afferent projections), shown in (B,C) respectively. (D) The tonic
+ changes in the networks and the long-term effects. Color coding: red = VN, blue = other anatomy, purple = physiology, green = function, dark blue = direct route,
+ orange = indirect route. Arrow-ends represent role: triangle = activating or increasing, circle = deactivating or decreasing, bladed = structural increase,
+ ellipsis = structural decrease, diamond = afferent. Numbers on lines represent the temporal sequence during stimulation and the thickness of lines the phasic relative
+ synaptic weight of the connection as a result. The dashed line represents the hypothetical afferent pathway of the thoracic/abdominal ratio to VN. RR, respiration
+ rate; I/E, inhalation/exhalation ratio; T/A, thoracic/abdominal respiration ratio; HR, heart rate; HRV, heart rate variability; INF, inﬂammation state; SNS, sympathetic
+ nervous system; HPA, hypothalamic pituitary adrenal axis; CAN, central autonomous network; DMN, default mode network.
+
+in other words: these exercises lower respiration rate and VNS (rVNS). The styles of respiration providing rVNS are
+ratio. However, even exercises where the breath is just an controlled breathing techniques that slow and deepen respiration
+attentional focus will lead to non-volitional adjustments of and extend expiration (Garcia et al., 2013), and possibly
+respiration. Practitioners just being aware of their breath enter those that put emphasis on relatively stronger diaphragmatic
+slower and deeper respiration cycles. This can be caused by breathing. Note that rVNS is bilateral stimulation by nature, as
+individuals’ previous experience with slow and deep breathing opposed to unilateral electrical stimulation of VNS and tVNS. In
+techniques, whose respiratory patterns will be automatically Figure 2 this is represented by the nodes respiration ratio and
+superimposed on current respiration. Another way is through inhalation/exhalation ratio inhibiting VN. As such, rVNS is one
+the commonly slow pace of guided meditation instructions of the main mechanisms of ContAct efficacy. rVNS can have
+themselves: practitioners will sync their respiration to this two routes: direct and indirect. Figure 2B represents the direct
+rhythm. As focusing supposedly also leads to respiratory stimulation and Figure 2C the indirect pathway of rVNS, which
+adjustments, similar to the breathing exercises, this is fit in is temporally ordered by connection numbering.
+the model overview (Figure 2A) by the node ‘‘breathing focus’’
+showing a dashed line towards the node ‘‘breathing regulation.’’ Direct Route
+Frequently adopting these respiration patterns (slowed and with As can be seen in the dark blue path in Figure 2B, adopting
+longer exhalations) can explain a significant part of the efficacy a low respiration rate and small inhalation/exhalation ratio can
+found within ContAct practice. Though the ContActs are diverse, directly stimulate VN, top-down from the executive network,
+they have shown a similar pattern of beneficial effects on by its own efferents (connections 2). This phasic increase in
+health, mental health and cognition: mostly in stress-related vagal activity increases reactive HRV, lowers heart rate and
+conditions and performance. This pattern can be explained by blood pressure (also by cardiorespiratory coupling), inhibits
+these controlled breathing exercises.                 the SNS and indirectly the hypothalamic pituitary adrenal
+                                                      axis, and potentially activates an anti-inflammatory pathway
+Respiratory Stimulation                               (connections 3), resulting in a decrease of acute stress levels
+The main mediator of controlled breathing exercises on the (connections 4). Critically, we also posit that VN activation
+described health, mental health and cognitive effects is VN. statically increases cognitive control through CAN projections
+We posit that specific respiration patterns serve as respiratory (connections 5).
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 9                          October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+Indirect Route                                        psychopathology, shown by the stress node inhibiting the health
+Indirectly, afferent VN pathways constantly signal respiratory and negative affect nodes, but also the general cognition node.
+patterns upwards, in this case characterizing a state of relaxation Furthermore, vagal dominance also leads to better immune
+and low-threat. As a result, efferent VN activation further functioning and attenuation of inflammatory conditions. As
+increases vagal tone and produces associated physiological can be seen in Figure 2D: VN inhibits the inflammation
+consequences (e.g., lowering heart rate, blood pressure, node, which inhibits the health node. These structural and
+increasing HRV); a loop of relaxation ensues. In Figure 2C tonic physiological changes in the networks are represented
+this route is represented by orange diamond arrows (afferent) by bladed (activation) and elliptic arrows (inhibition) in
+that signal on respiratory patterns, possibly including the Figure 2D.
+ratio of thoracic and abdominal expansion (connections 1),
+and the cardiac patterns influenced by the direct route Cognitive Performance
+(connections 2). This relaxed body state goes up from VN rVNS increases vagal dominance in both resting state and in
+to the limbic system (connections 3), that in turn re-activates active states demanding behavioral and cognitive flexibility.
+VN  (connections 4), increasing its excitatory weight on The CAN (Benarroch, 1993) is a CNS network that receives
+cardiac and inflammatory patterns of physiological acute stress its projections from VN and overlaps with the executive
+(connections 5 and 6) and statically enhances cognitive control functioning network. The executive functioning network is not
+(connections 7). The indirect route can be seen as a form only dependent on autonomic balance for proper functioning,
+of biofeedback and is responsible for long-term changes in but can also be functionally and structurally changed by CAN
+vagal tone. In this the respiratory patterns play a key role: activity. Enhancement of executive functions in ContAct practice
+a recent study using electroneurogram to map respiratory results from rVNS of CAN, by structurally changing and
+pattern signaling of the left VN, showed a near perfect overlap activating the hubs of the executive functioning network and
+between this mapping and actual respiratory cycles (Sevcencu increasing their connectivity. In Figure 2D this is represented by
+et al., 2018). Note that the left afferent VN is the locus of the bladed red arrow path going up from VN to the limbic system
+(t)VNS.                                               to the executive network and then to the executive function node.
+  Diaphragmatic breathing might provide rVNS independent Likewise, we hypothesize that default mode network (DMN,
+of respiration rate and inhalation/exhalation ratio, represented Raichle et al., 2001) hubs and internal functional connectivity are
+by the dashed inhibitory path of the thoracic-abdominal ratio decreased, while DMN connectivity with the executive network
+to VN in Figure 2C. When oxygen demand is high during is increased. The role of the DMN can be visualized as being
+exercise or stress, SNS becomes active, and thoracic respiration inhibited by vagal projections and having a two-way inhibitory
+goes up, and abdominal muscles are actively inhibited (Secher pathway with the executive network, as represented in Figure 2.
+and Amann, 2012). When oxygen demand is low, in times of rest These pathways are activated both phasically (Figures 2B,C) and
+and digest, the vagal dominant state, the ratio shifts more towards tonically (Figure 2D).
+abdominal respiration. The abdominal-thoracic respiration ratio
+of the rest-and-digest mode of the PNS should thus be similar
+to the ratio during ContAct practice. rVNS produces a wide Terms and Measures
+range of effects in health, mental health and cognitive flexibility 1. Different forms of volitional control of respiration are defined
+of the practicing individual, in the short as well as the long- as controlled breathing techniques. For this definition to be
+term.                                                   valid it should be possible for humans to put respiration under
+                                                        volitional control, overriding central pattern generated drive,
+Long-Term Effects of Respiratory                        and this has indeed proven possible for the diaphragm (Kolár
+                                                        et al., 2009).
+Stimulation                                           2. Vagal tone is a construct relating to intra-individual tonal
+Stress Reduction and Anti-Inﬂammation                   levels of PNS activity. Vagal tone can indirectly be indexed
+Though rVNS produces a phasic change in PNS activity during using HRV, notably respiratory sinus arrhythmia.
+and right after practice, in the long term it also results in 3. Vagal dominance refers to a relatively higher activity of
+a tonic shift in autonomic balance, shown in Figure 2D. PNS over SNS. Vagal dominance (PNS hyperactivity and
+As PNS activity goes up, SNS activity goes down. This shift SNS hypoactivity) should be observable in physiological
+is known as vagal dominance. In vagal dominance chronic measures of PNS (i.e., HRV) and SNS (i.e., pre-ejection
+stress and stress-related conditions are attenuated. Relaxation period, skin conductance, cortisol) activity. Vagal dominance
+or rest and digest behavior increases. VN is responsible for can be increased both in acute and chronic time settings
+the physiological effects of the red arrows in Figure 2D: heart (Porges, 2001, 2007). However, in this work it is defined as
+rate, blood pressure and inflammatory response go down, a macro-state of autonomic balance, spanning minutes and
+whereas HRV goes up, which in turn also affects (chronic) hours, not a micro-state, changing millisecond to millisecond,
+stress. This works directly through tonal activity of the PNS, for example: in heart node activation.
+but also indirectly through inhibition of the SNS by VN. 4. HRV is also a suitable inverse measure of acute and chronic
+Specifically, reduction of the (chronic) stress response has (psychological) stress (Porges, 1992, 1995). HRV can be
+positive effects on cardiovascular health and on stress-related used as an indirect indicator of intra-individual and possibly
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 10                         October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+  inter-individual differences in executive functions (Thayer that playing any piping instrument involves extreme extended
+  et al., 2009).                                      exhalation.
+5. As rVNS is a form of VNS, results obtained from studies using As far as we know, few studies report a decrease in HRV
+  other modes of VNS should resemble those from ContAct after controlled breathing, and these are primarily found outside
+  studies in similar conditions, although not necessarily with the domain of ContActs. Sasaki and Maruyama(2014) gave
+  perfect overlap.                                    instructions to participants to ‘‘control breathing,’’ without
+6. The stress release refers to stress responses over larger scales of emphasizing a particular style (rate or ratio), and compared that
+  time; not the acute adaptive arousal employed in challenging to spontaneous breathing. This resulted in lower HRV, which
+  situations, but the perseverative and chronic kind; in other may be the result of an increase in mental effort, stress, and
+  words: the default stress response (Brosschot, 2017). thus SNS activity. Indeed, earlier reports also show a decrease
+                                                      of HRV when breathing is only ‘‘controlled’’ (Bernardi et al.,
+rVNS: Evidence and Possible Mechanisms                2000) as compared to directed in a specific direction. Note
+What evidence is there for respiration as a mode of VNS? here the apparent contradiction with our own view that paying
+In our model there are two ways respiration can stimulate attention to the breath would result in lower respiration rate
+VN: directly and indirectly. In the direct route, slow breathing and possibly smaller inhalation/exhalation ratios: instructing to
+and extended exhalation are caused by vagal activity. This ‘‘control’’ vs. ‘‘focus on’’ seems to have opposing results on
+follows from the previously mentioned role of VN in respiratory autonomic balance.
+affective and effective processing (slowing and exhalation). As we are reviewing breathing techniques that are practiced
+Controlled breathing in this form thus uses the vagal nerve in ContActs, studies that look into autonomic functioning
+as effector and increases its activity volitionally, if only through ContActs employing these kinds of techniques should
+momentarily. The indirect route involves stimulation through report increased vagal tone. Indeed, HRV increases in almost
+biofeedback and follows from physiological feedback theory: all forms of ContAct, consistent with the rVNS hypothesis.
+by adopting physiological body patterns associated with Different forms of meditation (e.g., body scan, FA, OM acem,
+relaxation and low threat situations (i.e., slow breathing) zen) and mind-body exercises such as yoga, all show increases
+vagal afferents project this state to the CNS, which interprets in vagal tone HRV in healthy participants (Ditto et al., 2006;
+this as a reflection of the current contextual threat level, Phongsuphap et al., 2008; Wu and Lo, 2008; Tang et al., 2009;
+and proceeds by further adopting a rest-and-digest state top- Markil et al., 2012; Melville et al., 2012; Nesvold et al., 2012;
+down, again through VN. The indirect route is responsible Telles et al., 2013). One exception is a study that involved
+for more long-term tonic changes of vagal tone. By either the earlier mentioned ‘‘breath of fire’’ (Peng et al., 2004) that
+route, breathing styles with low respiration rate and low showed a decrease in HF, LF and LF/HF ratio. This is not
+inhalation/exhalation ratio should show increases in vagal surprising and consistent with our biofeedback perspective, as
+tone, though in slightly different timeframes (Keyl et al., breath of fire is strictly speaking controlled hyperventilation and
+2001).                                                would thus rather result in SNS activation and PNS inhibition.
+                                                      Though ContActs by great majority do not employ this particular
+Evidence                                              rare technique, this nonetheless stresses the importance of
+Most experimental studies show higher HRV following breathing mapping actual practiced techniques in every ContAct to their
+instructions, consistent with the involvement of rVNS. In outcomes. From these abundant, though correlational, findings
+particular, there is ample evidence that slow and deep breathing on respiration and vagal tone we conclude that a form of
+increase HRV indices of vagal tone (Hirsch and Bishop, 1981; rVNS plays a role in ContAct efficacy. However, less clear
+Pal et al., 2004; Larsen et al., 2010; Lehrer and Gevirtz, 2014; is what the exact physiological mechanisms of stimulation
+Critchley et al., 2015; Mortola et al., 2015; Tavares et al., might be.
+2017) and lowers stress markers such as: heart rate, blood
+pressure and salivary cortisol (Lee et al., 2003; Pramanik Possible Mechanisms
+et al., 2009; Perciavalle et al., 2017). Van Diest et al.(2014) The first possible physiological mechanism for these respiratory
+looked specifically at the effects of different inhalation/exhalation patterns to stimulate VN (as biofeedback) is by way of the
+ratio at either slow or normal respiration rate on different baroreceptor reflex (Vaschillo et al., 2002; Lehrer et al., 2003).
+HRV measures (peak-valley, HF): higher HRV (both measures) This reflex is responsible for regulating blood pressure and is
+was reported in the slow respiration condition, but only triggered by stretch-activated mechanoreceptors (baroreceptors)
+for extended exhalation, inhalation/exhalation ratio: 0.24, and in blood vessels, which leads to activation of the vagal branch of
+not for extended inhalation, inhalation/exhalation ratio: 2.33. the heart node, that reduces heart rate and subsequently blood
+Though normal ratios were not included, this study most clearly pressure. The threshold for triggering this reflex (cardiovagal
+shows the stimulating effects of the specific respiration styles baroreflex sensitivity) can be lowered by a respiration rate
+on VN. For another example of extended exhalation, albeit around 0.1 Hz or about 6 breaths per minute. Interestingly,
+with a completely different aim and context: a study on native this is exactly the same respiration rate that is reported in
+American flute playing showed significant increases in HRV respiration studies as having the highest increase of HRV.
+during playing, contrary to what one would expect during Lowering the sensitivity results in more frequent reflexes, lower
+exerting activity (Miller and Goss, 2014). It needs no mention heart rate, and increased vagal tone (Song and Lehrer, 2003;
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 11                         October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+Lin et al., 2012; Wang et al., 2010b; Lehrer and Gevirtz, goes together with PNS inactivity and vice versa. Therefore,
+2014; though see Tzeng et al., 2009; for an exception). This PNS hyperactivity (as indicated by HRV) also reflects SNS
+mechanism is a faster indirect route between respiration rate hypoactivity: vagal dominance. Plainly stated: relaxation means
+and heart rate, as mediated by VN, than the biofeedback route absence of stress. If ContActs work through relaxation by
+through VN afferent subcortical projections signaling broad respiratory stimulation of the PNS, then stress should go down.
+relaxation.                                           This explains the observation that syndromes relieved after
+  The second possible feedback mechanism is even more ContAct practice are often those associated with stress and SNS
+direct and comes from the lungs themselves: the pulmonary dominance.
+mechanoreceptors. These VN afferents directly relay tidal The role of (chronic) stressors on the development of
+volume upstream and are responsible for initiating particular cardiovascular disease, through the cardiovascular response
+physiological responses, notably the Hering-Breuer reflex (Obrist, 1981) of the SNS causing atherosclerosis and
+(Breuer, 1868; Hering, 1868). The reflex is triggered by significant hypertension, is well documented (Allen and Patterson,
+lung volume increase (e.g., during inhalation) and inhibits the 1995; Rozanski et al., 1999; Thayer et al., 2010). That stress
+central inflation drive, resulting in extended exhalation and influences immune function is also well-known. Initially and
+slower respiration. In this way, when a practitioner starts a acutely, stress suppresses immune function, but chronically
+breathing exercise with a deep breath (a long inhalation), this it exacerbates immune response (Sapolsky et al., 2000;
+immediately triggers the reflex, resulting both in activation of Haroon et al., 2011; Ménard et al., 2017). Additionally,
+VN as well as the initiation of respiration styles that further stress seems to worsen auto-immune disease (Elenkov and
+relay relaxation. Furthermore, the dominant and supported view Chrousos, 2002). Furthermore, there are indications that
+is that the mechanoreceptors, together with central pattern the two systems are related in their morbidity by SNS-PNS
+generated drive, are also responsible for respiratory sinus imbalance: recovery of both cardiovascular and immunological
+arrhythmia (Taha et al., 1995; Eckberg, 2003; Mortola et al., markers is impaired after stressors, when baseline vagal
+2015).                                                tone is low (Weber et al., 2010). Also noteworthy is the
+  The slowest of the indirect routes: biofeedback, where low existence of an inverse relationship between HRV and both
+respiration rate and small inhalation/exhalation ratio signal inflammation and the risk of cardiovascular disease (Haensel
+a resting state to the CNS is consistent with the James- et al., 2008). Bringing these findings together, HRV seems
+Lange physiological feedback hypothesis of emotion and similar suitable as a multi-index of health: of physiological stress
+accounts (Levenson, 1994; Critchley and Garfinkel, 2015). The (Porges, 1995), as a measure of cardiovascular risk (Thayer
+theory, independently proposed by William James and Carl et al., 2010) and of immunomodulation (Thayer and Sternberg,
+Lange, maintains that the identification and experience of 2010).
+an emotion follows from peripheral physiological responses In the mental health domain, mood disorders such as
+(e.g., arousal), instead of the other way around. The kind depression are widely recognized as being stress-related. They
+of emotion experienced depends on the interpretation of the are often accompanied or triggered by acute or chronic life event
+physiological state and the appraisal of the context in which it stressors in the prodromal phase (Gold and Chrousos, 2002;
+is triggered. So, the physiological stress response precedes the Duman and Monteggia, 2006; Orosz et al., 2017). Depression
+subjective emotional experience of fear or sadness. Following has also shown a relation with the other stress-related diseases:
+this argument, bottom-up changes to dysfunctional emotional there is a link of depression with occurrence of cardiovascular
+states can be produced by changing the physiological state disease (Hare et al., 2014) and with the likelihood of having an
+of the body; in other words: relaxing the body relaxes the overreacting immune system (Dantzer et al., 2008; Miller et al.,
+mind.                                                 2009; Felger and Lotrich, 2013). All in all, these systems and
+  In sum, there is evidence that particular breathing exercises their pathologies seem to be interrelated, wherein the common
+(with low respiration rate, small inhalation/exhalation ratio) denominator is autonomic balance.
+are capable of stimulating the vagal nerve (rVNS), though the A healthy autonomic balance is vagally dominated and
+exact mechanisms of stimulation are proposed, not proven comes about by stress relief produced by PNS activation
+(i.e., baroreflex). The next question is how prolonged increase and SNS deactivation. If this is the way the aforementioned
+in vagal tone results in the beneficial effects found on health pathologies are positively affected, then there should be a
+and mental health. Vagal dominance is contingent on consistent clear negative relationship between vagal tone and the risk
+physiological relaxation. It therefore produces (chronic) stress factors and symptoms of these conditions. Indeed, HRV shows
+release, and thereby prevents or ameliorates stress-related a negative correlation with cardiovascular disease in children
+pathology and etiology.                               and adults (Tully et al., 2013; Oliveira et al., 2017) and even
+                                                      directly predicts hypertension (Schroeder et al., 2003). It has
+                                                      an inverse relationship with inflammation (Lampert et al.,
+Relaxation vs. Stress: Health and Mental              2008; Kemp and Quintana, 2013), inflammation in depression
+Health Outcomes                                       (Carney et al., 2007), depressive symptoms in children and
+Although SNS and PNS can be simultaneously active in a adults (Sgoifo et al., 2015; Koenig et al., 2016), perseverative
+particular domain, they mostly operate as opposing forces cognition (Ottaviani et al., 2016), bipolar disorder symptomology
+(Berntson and Cacioppo, 1999; Freeman, 2006). SNS activity (Faurholt-Jepsen et al., 2017), general anxiety and disorders
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 12                         October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+(Cohen and Benjamin, 2006; Tully et al., 2013; Chalmers et al., attentional lapses (Williams et al., 2016), and it is involved
+2014) and has recently even shown a negative correlation in cognitive inhibition, proactive cognitive control (Capuana
+with schizophrenia (Clamor et al., 2016). Though schizophrenia et al., 2012, 2014) and emotional inhibition of conditioned
+is not considered a stress-related disorder, the role of HRV fear (Wendt et al., 2015). A recent meta-analysis also supports
+in schizophrenia is intriguing considering the interplay of a relationship between HRV and cognitive control: executive
+dysfunctional emotional regulation and executive functions in its functioning, pooled across the subdivisions of Miyake et al.
+symptomology.                                         (2000), showed a positive average association with HRV level,
+  Stress has a negative association with executive or PFC though the authors note a strong publication bias (Zahn et al.,
+function. Chronic stress has a degenerative effect on PFC 2016). The effects can especially be observed in cognitively
+structure and functioning (Arnsten, 2009, 2015; McEwen and demanding settings. A brain imaging study shows that functional
+Morrison, 2013) and seems to adversely affect its plasticity connectivity of the amygdala and medial PFC are associated with
+(McEwen et al., 2012). A study by Zhang et al.(2014), that higher HRV in both younger and older people (Sakaki et al.,
+builds on the correlational work of Nagai and others (Nagai 2016).
+et al., 2004, see Critchley and Garfinkel, 2015, for a review) The link between HRV and the PFC seems to be very direct:
+shows a causal involvement of ventromedial PFC in physiological they share a common genetic background (Thayer et al., 2009)
+arousal: when ventromedial PFC activity goes up, electrodermal and HRV and executive functions show a similar ontogenetic
+activity (skin conductance level) goes down. In other words: developmental trajectory; going up until early adulthood and
+prefrontal structures suppress stress. A conclusive review by going down again with advancing age (Umetani et al., 1998;
+the international behavioral neuroscience meeting (Radley et al., Zelazo et al., 2004). This is expected if VN and PFC form
+2015) stated the negative effects of stress on the plasticity of a single system: CAN. Another clue to the involvement of
+the limbic network (amygdala, hippocampus and PFC) and its VN in executive functions comes from the work of van der
+pivotal role in the etiology of aforementioned (mental) health Molen(2000) into the development of inhibitory control. During
+conditions.                                           successful cognitive inhibition of action representations, heart
+  In sum, (chronic) stress is a significant negative mediator in rate deceleration can be observed, after which heart rate goes up
+all of the domains that benefit from ContAct. It is here proposed again (Schel et al., 2013). As we have seen, heart rate slowing is
+that these beneficial effects occur by (chronic) stress relief as a under direct control of VN, indicating vagal dominance during
+result of vagal dominance by rVNS. In other words: breathing employment of cognitive control.
+exercises produce stress relief (Lee et al., 2003; Pramanik et al.,
+2009; Perciavalle et al., 2017). We have also already indicated Changes in CAN Regions Through ContAct
+that chronic and high levels of stress are negatively related to As we hypothesize that in ContAct rVNS is responsible
+executive functions and PFC functioning. Next, we will show for the emotional and cognitive enhancement by changes in
+that there is also a positive relation between vagal tone, CAN CAN, studies looking at functional and structural changes
+areas and the executive functioning network, as predicted by in the brain in practitioners should show these changes
+the neurovisceral integration model, and between changes in along this whole network—in the limbic system and executive
+CAN and ContAct practice as predicted by the rVNS model of functioning network; in the levels of the updated neurovisceral
+ContAct.                                              integration model (see Smith et al., 2017). Studies on ContAct
+                                                      practice have shown this for the limbic part of CAN. For
+CAN: Regulated Emotion and Enhanced                   example, a decrease in volume and activity has been observed
+Cognition                                             in the amygdala (Hölzel et al., 2010; Tang et al., 2015)
+The link from VN to PFC (Ter Horst and Postema, 1997; Wager and in the hippocampus (Luders et al., 2009, 2012c) in
+et al., 2009a,b) is a critical element of the CAN in mediating practitioners of different styles of meditation (both FA and
+rVNS effects of ContAct onto executive functions. Likewise, OM). Insular cortex and posterior cingulate also increase in
+projections into limbic parts of the CAN allow ContAct to activity and volume in the same populations (Lazar et al.,
+enhance positive affect via rVNS. If these projections are actually 2005; Hölzel et al., 2011a,b; Kirk et al., 2011; Luders et al.,
+used, vagal tone should have a positive correlation: (i) with 2012b; Tang et al., 2015). The practice of yoga shows the
+executive functions or PFC activation and (ii) with emotional same pattern (Froeliger et al., 2012; Desai et al., 2015),
+control or medial PFC activation. See Thayer and Lane(2000) while a TCC study shows the most significant morphological
+for the CAN network as adapted in the original neurovisceral changes in the insula and dorsolateral PFC (Wei et al.,
+integration model.                                    2013).
+                                                        The ACC is a limbic structure, but is also part of executive
+HRV, Cognitive Control and PFC                        functioning network and active in cognitive control, and is
+There indeed is an association between HRV and executive central in CAN. Notably its dorsal part has been implicated
+functions, as first shown by Thayer and Fischer(2009), especially in autonomic control, as it modulates cardiovascular stress
+in emotional control: HRV predicts inhibition of attention responses (Critchley et al., 2003). Following the previous
+to emotional stimuli (Park et al., 2012, 2013), it shows a argument, ACC should also be implicated in imaging studies
+positive relation to attentional control and negative relation of ContAct efficacy, and indeed, functional and structural
+to risk aversion in anxiety (Ramírez et al., 2015), predicts enhancement in ACC has been reported in meditation styles
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 13                         October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+and in mind-body exercises (Cahn and Polich, 2006; Tang hub (posterior cingulate) and in the limbic system (insula),
+et al., 2009, 2010, 2015; Hölzel et al., 2011b; Xue et al., concurrently increasing activity in dorsolateral PFC of the
+2011; Wei et al., 2013). The frontal end stations of CAN also executive network (Kosel et al., 2011). Another imaging study
+show predicted structural changes: PFC gray matter density is (on epilepsy), reports a decrease in regional cerebral blood
+increased by diverse meditation styles and mind-body exercises flow in the DMN hub parahippocampus, as well as in the
+(Lazar et al., 2005; Luders et al., 2009, 2012a; Lutz et al., hippocampus and the thalamus by chronic VNS (Van Laere et al.,
+2015; Hölzel et al., 2011a; Froeliger et al., 2012; Tang et al., 2002).
+2015; Wei et al., 2013; Yin et al., 2014; Desai et al., 2015). The few tVNS studies so far show a similar pattern as those
+In sum, there is a large overlap between the brain regions obtained with VNS. One study of major depression reports
+changed by ContAct—amygdala, hippocampus, insula, ACC and that tVNS decreases the resting-state functional connectivity
+multiple areas of the PFC—and those identified in CAN. Note, between main DMN hubs and parahippocampus—the DMN
+however, that these areas have been implicated in behavioral hub that connects to the limbic system—and anterior insula
+studies with very diverse tasks and contexts—not only in (Fang et al., 2016). Contrarily, it increases the resting-
+ContAct.                                              state functional connectivity of DMN with the precuneus
+                                                      and orbitofrontal cortex (executive network). In addition, all
+Default Mode and Executive Network Plasticity by      these connectomic changes were associated with reductions
+VNS                                                   in depression severity. A fMRI study in a normal population
+In general, brain connectivity seems to increase by ContAct shows that tVNS can acutely reduce activity in DMN hubs:
+practice across multiple projections, commissures and parahippocampal and posterior cingulate (Kraus et al., 2013).
+associatedsociative networks, as shown by several diffusion There are also indications that tVNS produces changes in
+tensor imaging studies (Luders et al., 2011, 2012b). Meditation the executive network itself. Badran et al.(2018) are the
+practice (and trait mindfulness) is associated with greater first to show increases in metabolic activity between the
+connectivity between the executive, DMN and salience networks main hub axis of dorsolateral PFC and ACC by tVNS.
+specifically (Brewer et al., 2011; Hasenkamp and Barsalou, Another tVNS study produces changes between the executive
+2012; Doll et al., 2015). Notably the DMN is implicated in network and limbic system, by decreasing functional connectivity
+neuroimaging studies among ContAct practitioners. DMN is between rostral ACC and medial hypothalamus in depression,
+active when external stimulation and work demand is low. all associated with clinical improvement (Tu et al., 2018).
+Its main hubs are medial PFC, posterior cingulate cortex Somewhat paradoxically, a study on patients diagnosed with
+and parahippocampal region (Raichle et al., 2001); the last major depressive disorder showed a decrease in symptoms
+of which is believed to operate as the hub between DMN due to tVNS, but combined with an increase in resting-state
+and limbic areas (Ward et al., 2014). The role of DMN functional connectivity between the amygdala and dorsolateral
+in cognitive control can be seen as opposing that of the PFC, so between the limbic and executive systems (Liu et al.,
+executive network; lapses of attentional control (i.e., mind 2016).
+wandering) are contingent on DMN activity over executive Concluding: it has clearly been shown that activity in
+network activity (Gratton et al., 2018), in this way DMN can afferent branches of VN can affect areas and networks in
+be viewed as a ‘‘task-negative’’ network (Fox et al., 2005). the CNS, both acutely (e.g., by tVNS) and chronically (e.g.,
+Studies on changes in connectivity by ContAct experience by chronic VNS). This notably affects the DMN, which is a
+show deactivation of DMN hubs (i.e., posterior cingulate critical CAN level in the latest version of the neurovisceral
+and  medial PFC) and  decreased functional connectivity integration model (see Smith et al., 2017 for details). Central
+between these hubs. At the  same time  the functional changes as a result of ContAct practice within DMN and
+connectivity between the DMN  and  executive networks between DMN and executive network are practically identical
+goes up (Brewer et al., 2011; Hasenkamp and Barsalou, 2012). to those observed by (t)VNS studies. This makes vagal
+This mirrors what is consistently found in imaging studies involvement and thus the mechanism of rVNS highly likely
+that apply VNS  to individuals with (treatment-resistant) in producing these neurobiological effects and the concomitant
+depression.                                           improvements in cognition and affect. Concretely stated:
+  Depression is associated with a disrupted DMN, particularly: DMN deactivation and increased DMN-executive network
+hyperactivity and hyper-connectivity among DMN hubs, as connectivity is caused by rVNS and will lead to improvements
+well as hyper-connectivity between DMN and limbic system, in cognitive control (e.g., cognitive inhibition) and performance
+and hypo-connectivity between DMN and executive network monitoring.
+(Drevets et al., 2008; Gong and He, 2015; Kaiser et al.,
+2015). Clinical trials employing chronic VNS in patients with DISCUSSION
+depression show a normalization of this etiology, obtaining
+results very similar to ContAct practice. One study on patients We have shown that ContAct practices, though diverse, have
+with depression not responding to regular treatment showed a number of components in common that can explain their
+increased metabolism in the DMN hub ventromedial PFC  efficacy in individual physical health, mental health and
+(Pardo et al., 2008). While a similar study reported decreased cognition. Furthermore, one of these components: breathing
+activity (regional cerebral blood flow) in another DMN techniques, is a prime candidate to explain the complete
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 14                         October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+pattern of results, notably in the stress-related domain. We controlled), than in ContActs that do not emphasize this
+have further provided a neurophysiological model in which distinction.
+slow respiration and extended exhalation stimulate VN via Some ContAct practitioners might proclaim that their
+two possible routes: rVNS. This results in PNS over SNS particular tradition (notably FA) does not involve any breathing
+dominance, structural and functional changes in higher cortical exercises. That the exercises only instruct to pay attention to
+areas through autonomic projections, and is thus responsible for the breath, and not to modulate respiration in any way; that
+aforementioned effects.                               instructions to change anything in breathing patterns are absent.
+  In these claims, one of the main arguments for the rVNS They might also state that the breath is only one of many foci.
+model of ContAct concerns the dovetailing between specific For example: it could be a visual focus, such as a flickering
+functions of VN with the pattern of effectivity shown by diverse candle flame or verbal, as in a mantra. But the fact is, that
+ContActs; providing beneficial effects on cardiopulmonary across these diverse FA traditions it usually is not another kind
+fitness, immune function, psychological health, stress, anxiety of focus, it usually is the breath, and we maintain that this
+and executive functions. The neurophysiological link between is not arbitrary. As previously stated, we maintain that it is
+the two can be found in vagal tone: the existent relationship unlikely that focusing on the breath does not affect respiratory
+between the aforementioned functions and conditions with HRV patterns. In our view, directed conscious awareness to breathing
+and that of HRV with the VN. Evidently HRV is then an index of will slow respiration in expert and layman alike, through direct
+adaptability in a broad sense.                        and indirect experience with different breathing exercises and the
+  We realize that there might be more common factors  implicit or explicit idea, an ideomotor representation if you will,
+involved in ContAct interventions than we have covered and what it should be like to meditate: meditating involves relaxed
+categorized here. There also might be unique components to breathing. Furthermore, the rhythm of auditory instructions is in
+particular traditions, as well as emergent properties of specific a slower pace than normal breathing, thereby slowing respiration
+combinations of components; almost all ContAct interventions as well. Of course, these are assumptions that should be tested in
+are multi-modal. For example, many of the covered traditions further experiments. But, if attention does slow respiration, this
+are not practiced in isolation, but in group sessions. Social, makes all these traditions fall under the explanatory umbrella of
+and even physical, contact could be a factor in relieving stress the rVNS model of ContAct.
+and in alleviating depression. Though we do not discount the So far, the picture painted from rVNS has been optimistic.
+other factors covered and those possibly left out, we believe However, there might be circumstances and doses where no
+that respiration style and vagal functioning fit the evidence beneficial effects can be expected. For example: in chronically
+best, and following Occam’s razor, it stands out as the most stressed individuals vagal activation might have such a high
+parsimonious of explanations. However, also rVNS might benefit threshold that rVNS will have no noticeable effect; they might
+from a specific combination. For instance, combining rVNS prove resistant to the intervention. rVNS might even have
+with affect training: exposure and reappraisal procedures could adverse effects, such as overstimulation. In a condition known
+be strengthened by the concurrent body relaxation brought on as vasovagal syncope, vagal efferents reduce heart rate to such a
+by rVNS, the biofeedback would weaken the stress response degree that blood pressure drops to dangerous levels, resulting
+and negative emotion brought up by an aversive or traumatic in fainting and symptoms of chronic fatigue. As indicated by
+memory.                                               VNS studies showing bronchoconstriction, stimulation might
+  Following the observation on the multi-modality of ContAct, be dangerous for pulmonary pathology, such as chronic
+we maintain that many null-findings and conflicting results asthma (Hajnšek et al., 2010). However, studies varying VNS
+in the literature could be ascribed to the presence or absence voltage suggest that strength of stimulation could make the
+of particular effective components. For example, a yoga class difference between beneficial or detrimental (Hoffmann et al.,
+only focusing on stretching and shifting positions might 2012). Respiratory VNS might be as beneficial and healthy
+not have any executive functions benefits other than those as the individual baselines (e.g., autonomic balance) allow.
+stemming from some form  of relaxation, but does show By extension, these dangers could be present for ContAct
+changes associated with mild exercise. Studies performing practices as well. But as far as we know, there are no studies
+systematic analyses that compare functional ContAct elements, on adverse effects produced by ContActs. This does not deny
+based on concrete predictions, are therefore sorely needed. their existence as the absence could be a result of publication
+Reported findings that show controlled breathing increasing bias.
+SNS activity further underline the importance of making On a similar note: higher vagal tone HRV is not always better.
+clear what kind of techniques are employed. This includes Much like arousal levels optimal levels of HRV for physical
+reporting on the exact instructions given and controlling for and mental functioning might follow an inverted U-shape, as in
+compliance to these instructions. Our predictions are only valid the Yerkes-Dodson law (Yerkes and Dodson, 1908). Individuals
+as far as interventions result in slow, deep (diaphragmatic) with a resting HRV at the right side of their personal curve
+breathing—not in other breathing styles, such as fast and might actually present adverse effects if HRV levels are further
+deep breathing during physical exercise. Thus, the described increased, autonomic balance shifting too far away from the
+beneficial effects on health and cognition are predicted to sympathetic. In contrast, individuals with HRV levels falling at
+occur more in ContActs with breathing exercises stressing the left end of that curve might benefit the most from increasing
+relatively short inhale (SNS controlled) and long exhale (PNS HRV (by rVNS), being ‘‘parasympathetically compromised.’’
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 15                         October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                 Breathing in Contemplative Practice
+
+Also, there might be differences between populations in the activity and balance should be developed. In any case, the
+shape of this curve and there might be different curves for rVNS model of ContAct still provides testable and falsifiable
+different VN functions. For example, as first reported by Wang predictions.
+et al.(2005), but see Hill et al.(2015) for a review, African Though we are not able to definitively prove a causal
+Americans’ resting HRV is on average higher than that of link between breathing, VNS and improvements in body and
+Caucasian Americans, while the prevalence of cardiovascular mind, we believe we have provided ample evidence suggesting
+disease is higher in African than in Caucasian Americans. the existence of this link, largely by providing overlapping
+This is counterintuitive if HRV is seen as a pure measure of patterns of specific phenomena. Empirical studies need to
+vagal tone. At the same time, the relationship with anxiety put our hypotheses to the test. Furthermore, other concrete
+and depression does follow the predicted direction: African neurobiological mechanisms for the systems described in this
+Americans suffer less from these conditions than Caucasian work need to be proposed and charted by experimental studies,
+Americans (Breslau et al., 2006). Further research has to address as prescribed for the field by Thayer et al.(2011). Studies on
+the question whether there is an inverse relationship between different respiration styles, using psychophysiological measures
+HRV and cardiovascular disease in this population, whether for PNS and SNS activity and tasks assessing executive functions
+relatively higher HRV for this population is not optimal HRV acutely and longitudinally could provide concrete tests of our
+regarding cardiopulmonary function, giving room for further hypotheses. Imaging studies mapping structural and functional
+enhancement, or perhaps whether this is a HRV methodological changes in the CAN following rVNS are critical for our
+artifact.                                             hypotheses on cognitive functioning, especially: changes in DMN
+  In light of the necessity to report the specific instructions and executive network mirroring VNS results are expected.
+and exercises in every intervention study, mention has to Other indirect tests include experiments comparing ContAct
+be made of mindfulness meditation. When we and many   interventions with (t)VNS manipulations. As an established
+other authors report on mindfulness meditation, this usually phenomenon, studies of rVNS dose-response relationships, with
+refers to two clinical programs: mindfulness-based stress personal baseline levels, could follow. What is the ‘‘vagus code’’
+reduction and mindfulness-based cognitive therapy. Both of of rVNS (Kwan et al., 2016)? What are observed differences
+these are multi-modal interventions, in which not only caused by specific modes of stimulation? For instance, electrical
+mindfulness meditation and other meditation techniques play VNS and behavioral rVNS differ also in laterality: unilateral vs.
+a role, but also physical exercises (some form of yoga), bilateral stimulation, which might produce different effects (and
+mental strategies, and in mindfulness-based cognitive therapy: strength of stimulation).
+cognitive-behavioral therapy. Most studies that report on the Lastly, as for the reasons why breathing techniques have gone
+effects of mindfulness or mindfulness meditation, that use these pretty much unnoticed as a mechanism of ContAct efficacy,
+programs as interventions, should therefore strictly speaking while being so prevalent and well-known, we propose that it
+not be taken as ‘‘pure’’ mindfulness meditation; subsequently, perhaps has to do with this prevalence: it is such an unremarkable
+caution is advised in interpreting result.            fact, so plainly observable and a starting point of practice. This
+  We want to note that HRV (respiratory sinus arrhythmia) could be coupled with a tendency to focus on ‘‘higher’’ levels of
+as a valid measure of vagal tone, also maintained by Thayer consciousness among practitioners, and on higher level processes
+and colleagues, is not without its critics (Grossman and Taylor, and structures in cognitive neuroscientific research. Relaxation
+2007). Grossman and colleagues have shown in their experiments might also be assumed and uninteresting, breathing exercises
+that under different respiration conditions, respiratory sinus are automatically factored in, something for novices, hardly
+arrhythmia does not reflect changes in vagal tone accurately remembered by the expert. We hope that through this work
+(Kollai and Mizsei, 1990; Grossman and Kollai, 1993; Taylor future research on ContActs will recognize and study breathing
+et al., 2001). They maintain that HRV measures should always techniques as an effective component, and that neuroscience will
+be controlled for by respiration. Since these studies, there has focus on rVNS respiratory patterns as potential cognitive and
+been limited follow-up of these criticisms, as can be seen in a (mental) health enhancers.
+recent review of HRV methods (Laborde et al., 2017). We believe
+this issue should be addressed resolutely. More neuroscientific
+experiments directly assessing the relation between the different AUTHOR CONTRIBUTIONS
+HRV  measures and vagal tone are needed. As far as the
+                                                      RG  conceived the presented idea, developed the model,
+implications for the rVNS model of ContAct: it includes
+                                                      posited possible mechanisms and wrote the main drafts. GB
+assumptions made by the polyvagal and the neurovisceral
+                                                      supervised the project, and edited and rewrote manuscript
+integration accounts; and it loads evidence for the existence of
+                                                      drafts. All authors contributed to the final version of the
+rVNS on those assumptions. However, we maintain that HRV
+                                                      manuscript.
+does not need to be a ‘‘pure’’ measure of vagal tone for it
+to be useful as a measurement—a relational representation is
+enough. But even if respiration confounds on vagal tone are ACKNOWLEDGMENTS
+insurmountable, making HRV unusable as its measure, this
+will not affect the core assumptions of our model and the We want to thank Marieke van Vugt and Henk van Steenbergen
+predictions it makes. In the future, other measures of SNS/PNS for commenting on an earlier version of this work.
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org 16                         October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                                            Breathing in Contemplative Practice
+
+
+REFERENCES                                                              Borovikova, L. V., Ivanova, S., Zhang, M., Yang, H., Botchkina, G. I.,
+                                                                           Watkins, L. R., et al. (2000). Vagus nerve stimulation attenuates the
+Agostoni, E., Chinnock, J. E., De Daly, M. B., and Murray, J. G. (1957).   systemic inflammatory response to endotoxin. Nature 405, 458–462.
+   Functional and histological studies of the vagus nerve and its branches to doi: 10.1038/35013070
+   the heart, lungs and abdominal viscera in the cat. J. Physiol. 135, 182–205. Bower, J. E., and Irwin, M. R. (2016). Mind-body therapies and control of
+   doi: 10.1113/jphysiol.1957.sp005703                                     inflammatory biology: a descriptive review. Brain Behav. Immun. 51, 1–11.
+Allen, M., and Patterson, S. (1995). Hemoconcentration and stress: a review of doi: 10.1016/j.bbi.2015.06.012
+   physiological mechanisms and relevance for cardiovascular disease risk. Biol. Bratton, B. O., Martelli, D., McKinley, M. J., Trevaks, D., Anderson, C. R.,
+   Psychol. 41, 1–27. doi: 10.1016/0301-0511(95)05123-r                    and McAllen, R. M. (2012). Neural regulation of inflammation: No neural
+Andreu, C. I., Moënne-Loccoz, C., López, V., Slagter, H. A., Franken, I. H. A., and connection from the vagus to splenic sympathetic neurons. Exp. Physiol. 97,
+   Cosmelli, D. (2017). Behavioral and electrophysiological evidence of enhanced 1180–1185. doi: 10.1113/expphysiol.2011.061531
+   monitoring in meditators. Mindfulness 8, 1603–1614. doi: 10.1007/s12671-017- Breslau, J., Aguilar-Gaxiola, S., Kendler, K. S., Su, M., Williams, D., and
+   0732-z                                                                  Kessler, R. C. (2006). Specifying race-ethnic differences in risk for
+Andrews, P. L. R., and Lawes, I. N. C. (1992). ‘‘A protective role for vagal psychiatric disorder in a USA national sample. Psychol. Med. 36, 57–68.
+   afferents: an hypothesis,’’ in Neuroanatomy and Physiology of Abdominal Vagal doi: 10.1017/s0033291705006161
+   Afferents, eds S. Ritter, R. C. Ritter, and C. D. Barnes (Boca Raton: CRC Press), Breuer, J. (1868). Die Selbststeuerung der Athmung durch den Nervus vagus.
+   280–303.                                                                Sitzungsber. Kaiserlichen Akad. Wiss. 58, 909–937.
+Araujo, H. F., Kaplan, J., and Damasio, A. (2013). Cortical midline structures Brewer, J. A., Worhunsky, P. D., Gray, J. R., Tang, Y.-Y., Weber, J., and
+   and autobiographical-self processes: an activation-likelihood estimation meta- Kober, H. (2011). Meditation experience is associated with differences in
+   analysis. Front. Hum. Neurosci. 7:548. doi: 10.3389/fnhum.2013.00548    default mode network activity and connectivity. Proc. Natl. Acad. Sci. U S A
+Arnold, R. W. (1999). The human heart rate response profiles to five vagal 108, 20254–20259. doi: 10.1073/pnas.1112029108
+   maneuvers. Yale J. Biol. Med. 72, 237–244.                           Brosschot, J. F. (2017). Ever at the ready for events that never happen. Eur.
+Arnsten, A. F. T. (2009). Stress signaling pathways that impair prefrontal J. Psychotraumatol. 8:1309934. doi: 10.1080/20008198.2017.1309934
+   cortex structure and function. Nat. Rev. Neurosci. 10, 410–422. doi: 10.1038/ Brown, R. P., and Gerbarg, P. L. (2005). Sudarshan kriya yogic breathing in the
+   nrn2648                                                                 treatment of stress, anxiety and depression: part I-neurophysiologic model.
+Arnsten, A. F. T. (2015). Stress weakens prefrontal networks: molecular insults to J. Altern. Complement. Med. 11, 189–201. doi: 10.1089/acm.2005.11.189
+   higher cognition. Nat. Neurosci. 18, 1376–1385. doi: 10.1038/nn.4087 Brown, R. P., and Gerbarg, P. L. (2009). Yoga breathing, meditation and longevity.
+Badran, B. W., Dowdle, L. T., Mithoefer, O. J., LaBate, N. T., Coatsworth, J., Ann. N Y Acad. Sci. 1172, 54–62. doi: 10.1111/j.1749-6632.2009.04394.x
+   Brown, J. C., et al. (2018). Neurophysiologic effects of transcutaneous auricular Browning, K. N., Verheijden, S., and Boeckxstaens, G. E. (2017). The vagus nerve
+   vagus nerve stimulation (taVNS) via electrical stimulation of the tragus: in appetite regulation, mood and intestinal inflammation. Gastroenterology
+   a concurrent taVNS/fMRI study and review. Brain Stimul. 11, 492–500.    152, 730–744. doi: 10.1053/j.gastro.2016.10.046
+   doi: 10.1016/j.brs.2017.12.009                                       Büssing, A., Michalsen, A., Khalsa, S. B. S., Telles, S., and Sherman, K. J. (2012).
+Balasubramaniam, M., Telles, S., and Doraiswamy, P. M. (2013). Yoga on our Effects of yoga on mental and physical health: a short summary of reviews. Evid.
+   minds: a systematic review of yoga for neuropsychiatric disorders. Front. Based Complement. Alternat. Med. 2012:165410. doi: 10.1155/2012/165410
+   Psychiatry 3:117. doi: 10.3389/fpsyt.2012.00117                      Cahn, B. R., and Polich, J. (2006). Meditation states and traits: EEG, ERP and
+Benarroch, E. E. (1993). The    central autonomic network: functional      neuroimaging studies. Psychol. Bull. 132, 180–211. doi: 10.1037/0033-2909.132.
+   organization, dysfunction and perspective. Mayo Clin Proc. 68, 988–1001. 2.180
+   doi: 10.1016/s0025-6196(12)62272-1                                   Cakmak, Y. O., Ekinci, G., Afsar, N., and Cavdar, S. (2011). Structural cortical
+Benarroch, E. E. (1997). ‘‘The central autonomic network,’’ in Clinical Autonomic plasticity induced by the mindfullness meditation of the Sufi Whirling
+   Disorders, ed. P. A. Low (Philadelphia: Lippincott-Raven), 17–23.       Derwishes. Neurosci. Res. 71:e96. doi: 10.1016/j.neures.2011.07.412
+Bernardi, L., Passino, C., Wilmerding, V., Dallam, G. M., Parker, D. L., Cakmak, Y. O., Ekinci, G., Heinecke, A., and Çavdar, S. (2017). A possible role of
+   Robergs, R. A., et al. (2001). Breathing patterns and cardiovascular autonomic prolonged whirling episodes on structural plasticity of the cortical networks
+   modulation during hypoxia induced by simulated altitude. J. Hypertens. 19, and altered vertigo perception: the cortex of sufi whirling dervishes. Front.
+   947–958. doi: 10.1097/00004872-200105000-00016                          Hum. Neurosci. 11:3. doi: 10.3389/fnhum.2017.00003
+Bernardi, L., Wdowczyk-Szulc, J., Valenti, C., Castoldi, S., Passino, C., Canning, B. J. (2006). Reflex regulation of airway smooth muscle tone. J. Appl.
+   Spadacini, G., et al. (2000). Effects of controlled breathing, mental activity and Physiol. 101, 971–985. doi: 10.1152/japplphysiol.00313.2006
+   mental stress with or without verbalization on heart rate variability. J. Am. Coll. Capuana, L. J., Dywan, J., Tays, W. J., Elmers, J. L., Witherspoon, R., and
+   Cardiol. 35, 1462–1469. doi: 10.1016/s0735-1097(00)00595-7              Segalowitz, S. J. (2014). Factors influencing the role of cardiac autonomic
+Bernstein, A., Hadash, Y., Lichtash, Y., Tanay, G., Shepherd, K., and      regulation in the service of cognitive control. Biol. Psychol. 102, 88–97.
+   Fresco, D. M. (2015). Decentering and related constructs: a critical review doi: 10.1016/j.biopsycho.2014.07.015
+   and meta-cognitive processes model. Perspect. Psychol. Sci. 10, 599–617. Capuana, L. J., Dywan, J., Tays, W. J., and Segalowitz, S. J. (2012). Cardiac
+   doi: 10.1177/1745691615594577                                           workload and inhibitory control in younger and older adults. Biol. Psychol. 90,
+Berntson, G. G., and Cacioppo, J. T. (1999). Heart rate variability: a neuroscientific 60–70. doi: 10.1016/j.biopsycho.2012.02.018
+   perspective for further studies. Card. Electrophysiol. Rev. 3, 279–282. Carney, R. M., Freedland, K. E., Stein, P. K., Miller, G. E., Steinmeyer, B.,
+   doi: 10.1023/A:1009920002142                                            Rich, M. W., et al. (2007). Heart rate  variability and markers of
+Berryman, N., Bherer, L., Nadeau, S., Lauzière, S., Lehr, L., Bobeuf, F., et al. (2014). inflammation and coagulation in depressed patients with coronary heart
+   Multiple roads lead to Rome: combined high-intensity aerobic and strength disease. J. Psychosom. Res. 62, 463–467. doi: 10.1016/j.jpsychores.2006.12.004
+   training vs. gross motor activities leads to equivalent improvement in executive Chalmers, J., Quintana, D., Abbott, M., and Kemp, A. (2014). Anxiety disorders are
+   functions in a cohort of healthy older adults. Age 36:9710. doi: 10.1007/s11357- associated with reduced heart rate variability: a meta-analysis. Front. Psychiatry
+   014-9710-8                                                              5:80. doi: 10.3389/fpsyt.2014.00080
+Berthoud, H. R., and Neuhuber, W. L. (2000). Functional and chemical anatomy Chang, Y., Nien, Y., Tsai, C., and Etnier, J. L. (2010). Physical activity and cognition
+   of the afferent vagal system. Auton. Neurosci. 85, 1–17. doi: 10.1016/S1566- in older adults: the potential of Tai Chi Chuan. J. Aging Phys. Act. 18, 451–472.
+   0702(00)00215-0                                                         doi: 10.1123/japa.18.4.451
+Black, D. S., Cole, S. W., Irwin, M. R., Breen, E., St. Cyr, N. M., Nazarian, N., Chang, R. B., Strochlic, D. E., Umans, B. D., Liberles, S. D., and Williams, E. K.
+   et al. (2013). Yogic meditation reverses NF-kB and IRF-related transcriptome (2015). Vagal sensory neuron subtypes that differentially control breathing. Cell
+   dynamics in leukocytes of family dementia caregivers in a randomized    161, 622–633. doi: 10.1016/j.cell.2015.03.022
+   controlled trial. Psychoneuroendocrinology 38, 348–355. doi: 10.1016/j. Chi, I., Jordan-Marsh, M., Guo, M., Xie, B., and Bai, Z. (2013). Tai chi
+   psyneuen.2012.06.011                                                    and reduction of depressive symptoms for older adults: a meta-analysis of
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org                 17                                    October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                                            Breathing in Contemplative Practice
+
+
+   randomized trials. Geriatr. Gerontol. Int. 13, 3–12. doi: 10.1111/j.1447-0594. Das, U. N. (2011). Vagal nerve stimulation in prevention and management of
+   2012.00882.x                                                            coronary heart disease. World J. Cardiol. 3, 105–110. doi: 10.4330/wjc.v3.i4.105
+Chiesa, A., and Serretti, A. (2010). A systematic review of neurobiological and Desai, R., Tailor, A., and Bhatt, T. (2015). Effects of yoga on brain waves and
+   clinical features of mindfulness meditations. Psychol. Med. 40, 1239–1252. structural activation: a review. Complement. Ther. Clin. Pract. 21, 112–118.
+   doi: 10.1017/S0033291709991747                                          doi: 10.1016/j.ctcp.2015.02.002
+Chiesa, A., and Serretti, A. (2011). Mindfulness based cognitive therapy for Dietrich, S., Smith, J., Scherzinger, C., Hofmann-Preiß, K., Freitag, T.,
+   psychiatric disorders: a systematic review and meta-analysis. Psychiatry Res. Eisenkolb, A., et al. (2008). A novel transcutaneous vagus nerve stimulation
+   187, 441–453. doi: 10.1016/j.psychres.2010.08.011                       leads to brainstem and cerebral activations measured by functional MRI.
+Clamor, A., Lincoln, T. M., Thayer, J. F., and Koenig, J. (2016). Resting vagal Biomed. Tech. 53, 104–111. doi: 10.1515/bmt.2008.022
+   activity in schizophrenia: meta-Analysis of heart rate variability as a potential Di Francescomarino, S. D., Sciartilli, A., Valerio, V. D., Baldassarre, A. D., and
+   endophenotype. Br. J. Psychiatry 208, 9–16. doi: 10.1192/bjp.bp.114.160762 Gallina, S. (2009). The effect of physical exercise on endothelial function. Sports
+Clancy, J., Mary, D., and Witte, K. (2014). Non-invasive vagus nerve stimulation in Med. 39, 797–812. doi: 10.2165/11317750-000000000-00000
+   healthy humans reduces sympathetic nerve activity. Brain Stimul. 7, 871–877. Ditto, B., Eclache, M., and Goldman, N. (2006). Short-term autonomic and
+   doi: 10.1016/j.brs.2014.07.031                                          cardiovascular effects of mindfulness body scan meditation. Ann. Behav. Med.
+Clark, D., Schumann, F., and Mostofsky, S. H. (2015). Mindful movement and 32, 227–234. doi: 10.1207/s15324796abm3203_9
+   skilled attention. Front. Hum. Neurosci. 9:297. doi: 10.3389/fnhum.2015.00297 Doll, A., Hölzel, B. K., Boucard, C. C., Wohlschläger, A. M., and Sorg, C. (2015).
+Clark, K. B., Naritoku, D. K., Smith, D. C., Browning, R. A., and Jensen, R. A. Mindfulness is associated with intrinsic functional connectivity between default
+   (1999). Enhanced recognition memory following vagus nerve stimulation in mode and salience networks. Front. Hum. Neurosci. 9:461. doi: 10.3389/fnhum.
+   human subjects. Nat. Neurosci. 2, 94–98. doi: 10.1038/4600              2015.00461
+Cohen, H., and Benjamin, J. (2006). Power spectrum analysis and cardiovascular Drevets, W. C., Price, J. L., and Furey, M. L. (2008). Brain structural and functional
+   morbidity in anxiety disorders. Auton. Neurosci. 128, 1–8. doi: 10.1016/j. abnormalities in mood disorders: implications for neurocircuitry models of
+   autneu.2005.06.007                                                      depression. Brain Struct. Funct. 213, 93–118. doi: 10.1007/s00429-008-0189-x
+Colcombe, S., and Kramer, A. F. (2003). Fitness effects on the cognitive function Duman, R. S., and Monteggia, L. M. (2006). A neurotrophic model for stress-
+   of older adults. Psychol. Sci. 14, 125–130. doi: 10.1111/1467-9280.t01-1-01430 related mood disorders. Biol. Psychiatry 59, 1116–1127. doi: 10.1016/j.biopsych.
+Colzato, L. S., Ozturk, A., and Hommel, B. (2012). Meditate to create: the impact of 2006.02.013
+   focused-attention and open-monitoring training on convergent and divergent Eberth, J., and Sedlmeier, P. (2012). The effects of mindfulness meditation: a meta-
+   thinking. Front. Psychol. 3:116. doi: 10.3389/fpsyg.2012.00116          analysis. Mindfulness 3, 174–189. doi: 10.1007/s12671-012-0101-x
+Colzato, L. S., Sellaro, R., Samara, I., Baas, M., and Hommel, B. (2015a). Eckberg, D. L. (2003). The human respiratory gate. J. Physiol. 548, 339–352.
+   Meditation-induced states predict attentional control over time. Conscious. doi: 10.1113/jphysiol.2002.037192
+   Cogn. 37, 57–62. doi: 10.1016/j.concog.2015.08.006                   Eckberg, D. L., and Eckberg, M. J. (1982). Human sinus node responses
+Colzato, L. S., Sellaro, R., Samara, I., and Hommel, B. (2015b). Meditation-induced to repetitive, ramped carotid baroreceptor stimuli. Am. J. Physiol. 242,
+   cognitive-control states regulate response-conflict adaptation: evidence from H638–H644. doi: 10.1152/ajpheart.1982.242.4.h638
+   trial-to-trial adjustments in the Simon task. Conscious. Cogn. 35, 110–114. Egan, H. D. (1991). An Anthology of Christian Mysticism. Collegeville: The
+   doi: 10.1016/j.concog.2015.04.012                                       Liturgical Press.
+Conrad, A., Müller, A., Doberenz, S., Kim, S., Meuret, A. E., Wollburg, E., Elenkov, I. J., and Chrousos, G. P. (2002). Stress hormones, proinflammatory
+   et al. (2007). Psychophysiological effects of breathing instructions for stress and antiinflammatory cytokines, and autoimmunity. Ann. N Y Acad. Sci. 966,
+   management. Appl. Psychophysiol. Biofeedback 32, 89–98. doi: 10.1007/s10484- 290–303. doi: 10.1111/j.1749-6632.2002.tb04229.x
+   007-9034-x                                                           Fan, J., McCandliss, B. D., Fossella, J., Flombaum, J. I., and Posner, M. I. (2005).
+Coupland, R. E., Parker, T. L., Kesse, W. K., and Mohamed, A. A. (1989). The The activation of attentional networks. Neuroimage 26, 471–479. doi: 10.1016/j.
+   innervation of the adrenal gland. III. Vagal innervation. J. Anat. 163, 173–181. neuroimage.2005.02.004
+Cramer, H., Lauche, R., Langhorst, J., and Dobos, G. (2013). Yoga for depression: Fang, J., Rong, P., Hong, Y., Fan, Y., Liu, J., Wang, H., et al. (2016). Transcutaneous
+   a systematic review and meta-analysis. Depress. Anxiety 30, 1068–1083.  vagus nerve stimulation modulates default mode network in major depressive
+   doi: 10.1002/da.22166                                                   disorder. Biol. Psychiatry 79, 266–273. doi: 10.1016/j.biopsych.2015.
+Critchley, H. D., and Garfinkel, S. N. (2015). Interactions between visceral afferent 03.025
+   signaling and stimulus processing. Front. Neurosci. 9:286. doi: 10.3389/fnins. Faurholt-Jepsen, M., Kessing, L. V., and Munkholm, K. (2017). Heart rate
+   2015.00286                                                              variability in bipolar disorder: a systematic review and meta-analysis. Neurosci.
+Critchley, H. D., Mathias, C. J., Josephs, O., O’Doherty, J., Zanini, S.,  Biobehav. Rev. 73, 68–80. doi: 10.1016/j.neubiorev.2016.12.007
+   Dewar, B. K., et al. (2003). Human cingulate cortex and autonomic control: Felger, J., and Lotrich, F. (2013). Inflammatory cytokines in depression:
+   converging neuroimaging and clinical evidence. Brain 126, 2139–2152.    neurobiological mechanisms and therapeutic implications. Neuroscience 246,
+   doi: 10.1093/brain/awg216                                               199–229. doi: 10.1016/j.neuroscience.2013.04.060
+Critchley, H. D., Nicotra, A., Chiesa, P. A., Nagai, Y., Gray, M. A., Minati, L., Flavell, J. H. (1976). ‘‘Metacognitive aspects of problem solving,’’ in The Nature of
+   et al. (2015). Slow breathing and hypoxic challenge: cardiorespiratory  Intelligence, ed. L. B. Resnick (Hillsdale, NJ: Lawrence Erlbaum), 231–235.
+   consequences and their central neural substrates. PLoS One 10:e0127082. Forbes, D., Forbes, S. C., Blake, C. M., Thiessen, E. J., and Blake, C. M. (2013).
+   doi: 10.1371/journal.pone.0127082                                       Exercise programs for people with dementia. Cochrane Database Syst. Rev.
+Cysarz, D., and Büssing, A. (2005). Cardiorespiratory synchronization during Zen 4:CD006489. doi: 10.1002/14651858.CD006489.pub3
+   meditation. Eur. J. Appl. Physiol. 95, 88–95. doi: 10.1007/s00421-005-1379-3 Fox, M. D., Snyder, A. Z., Vincent, J. L., Corbetta, M., Van Essen, D. C., and
+Dahl, C. J., Lutz, A., and Davidson, R. J. (2015). Reconstructing and deconstructing Raichle, M. E. (2005). From The Cover: the human brain is intrinsically
+   the self: cognitive mechanisms in meditation practice. Trends Cogn. Sci. 19, organized into dynamic, anticorrelated functional networks. Proc. Natl. Acad.
+   515–523. doi: 10.1016/j.tics.2015.07.001                                Sci. U S A 102, 9673–9678. doi: 10.1073/pnas.0504136102
+Damasio, A. (2003). Feelings of emotion and the self. Ann. N Y Acad. Sci. 1001, Frangos, E., Ellrich, J., and Komisaruk, B. R. (2015). Non-invasive access to the
+   253–261. doi: 10.1196/annals.1279.014                                   vagus nerve central projections via electrical stimulation of the external ear:
+Dantzer, R., O’Connor, J. C., Freund, G. G., Johnson, R. W., and Kelley, K. W. fMRI evidence in humans. Brain Stimul. 8, 624–636. doi: 10.1016/j.brs.2014.
+   (2008). From inflammation to sickness and depression: when the immune   11.018
+   system subjugates the brain. Nat. Rev. Neurosci. 9, 46–56. doi: 10.1038/nrn2297 Freeman, R. (2006). Assessment of cardiovascular autonomic function. Clin.
+Danucalov, M. Á. D., Simões, R. S., Kozasa, E. H., and Leite, J. R. (2008). Neurophysiol. 117, 716–730. doi: 10.1016/j.clinph.2005.09.027
+   Cardiorespiratory and metabolic changes during yoga sessions: the effects of Froeliger, B., Garland, E. L., and McClernon, F. J. (2012). Yoga meditation
+   respiratory exercises and meditation practices. Appl. Psychophysiol. Biofeedback practitioners exhibit greater gray matter volume and fewer reported
+   33, 77–81. doi: 10.1007/s10484-008-9053-2                               cognitive failures: results of a preliminary voxel-based morphometric analysis.
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org                 18                                    October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                                            Breathing in Contemplative Practice
+
+
+   Evid. Based Complement. Alternat. Med. 2012:821307. doi: 10.1155/2012/ Haroon, E., Raison, C. L., and Miller, A. H. (2011). Psychoneuroimmunology
+   821307                                                                  meets neuropsychopharmacology: translational implications of the impact
+Garcia, A. J. III., Koschnitzky, J. E., Dashevskiy, T., and Ramirez, J. M. (2013). of inflammation on behavior. Neuropsychopharmacology 37, 137–162.
+   Cardiorespiratory coupling in health and disease. Auton. Neurosci. 175, 26–37. doi: 10.1038/npp.2011.205
+   doi: 10.1016/j.autneu.2013.02.006                                    Hartley, L., Flowers, N., Lee, M. S., Ernst, E., and Rees, K. (2014a). Tai chi for
+Gard, T., Hölzel, B. K., and Lazar, S. W. (2013). The potential effects of meditation primary prevention of cardiovascular disease. Cochrane Database Syst. Rev.
+   on age-related cognitive decline: a systematic review. Ann. N Y Acad. Sci. 1307, 4:CD010366. doi: 10.1002/14651858.cd010366
+   89–103. doi: 10.1111/nyas.12348                                      Hartley, L., Mavrodaris, A., Flowers, N., Ernst, E., and Rees, K. (2014b).
+Gard, T., Noggle, J. J., Park, C. L., Vago, D. R., and Wilson, A. (2014). Potential Transcendental meditation for the primary prevention of cardiovascular
+   self-regulatory mechanisms of yoga for psychological health. Front. Hum. disease (Review). Cochrane   Database  Syst.  Rev.  12:CD010359.
+   Neurosci. 8:770. doi: 10.3389/fnhum.2014.00770                          doi: 10.1002/14651858.cd010359
+Geneen, L. J., Moore, R. A., Clarke, C., Martin, D., Colvin, L. A., and Hartley, L., Lee, M. S., Kwong, J. S. W., Flowers, N., Todkill, D., Ernst, E., et al.
+   Smith, B. H. (2017). Physical activity and exercise for chronic pain in adults: (2015). Qigong for the primary prevention of cardiovascular disease. Cochrane
+   an overview of Cochrane Reviews. Cochrane Database Syst. Rev. 1:CD011279. Database Syst. Rev. 6:CD010390. doi: 10.1002/14651858.cd010390
+   doi: 10.1002/14651858.CD011279.pub2                                  Hasenkamp, W., and Barsalou, L. W. (2012). Effects of meditation experience on
+Ghacibeh, G. A., Shenker, J. I., Shenal, B., Uthman, B. M., and Heilman, K. M. functional connectivity of distributed brain networks. Front. Hum. Neurosci.
+   (2006). The influence of vagus nerve stimulation on memory. Cogn. Behav. 6:38. doi: 10.3389/fnhum.2012.00038
+   Neurol. 19, 119–122. doi: 10.1097/01.wnn.0000213908.34278.7d         Henry, T. R. (2002). Therapeutic mechanisms of vagus nerve stimulation.
+Gold, P. W., and Chrousos, G. P. (2002). Organization of the stress system and Neurology 59, S3–S14. doi: 10.1212/wnl.59.6_suppl_4.s3
+   its dysregulation in melancholic and atypical depression: high vs. low CRH/NE Heran, B. S., Chen, J. M., Ebrahim, S., Moxham, T., Oldridge, N., Rees, K.,
+   states. Mol. Psychiatry 7, 254–275. doi: 10.1038/sj.mp.4001032          et al. (2011). Exercise-based cardiac rehabilitation for coronary heart disease.
+Gong, Q., and He, Y. (2015). Depression, neuroimaging and connectomics: a  Cochrane Database Syst. Rev. 7:CD001800. doi: 10.1002/14651858.CD001800.
+   selective overview. Biol. Psychiatry 77, 223–235. doi: 10.1016/j.biopsych.2014. pub2
+   08.009                                                               Herbert,  A.,  and  Esparham,   A.  (2017).  Mind-Body   therapy  for
+Gothe, N. P., and Mcauley, E. (2015). Yoga and cognition: a meta-analysis of children with attention-deficit/hyperactivity disorder. Children 4:E31.
+   chronic and acute effects. Psychosom. Med. 77, 784–797. doi: 10.1097/psy. doi: 10.3390/children4050031
+   0000000000000218                                                     Hering, K. E. K. (1868). Die Selbststeuerung der Athmung durch den Nervus
+Gothe, N., Pontifex, M. B., Hillman, C., and McAuley, E. (2013). The acute vagus. Sitzungsber. Kaiserlichen Akad. Wiss. 57, 672–677.
+   effects of yoga on executive function. J. Phys. Act. Health 10, 488–495. Hill, L. K., Hu, D. D., Koenig, J., Sollers, J. J. III., Kapuku, G., Wang, X., et al.
+   doi: 10.1123/jpah.10.4.488                                              (2015). Ethnic differences in resting heart rate variability: a systematic review
+Gratton, C., Sun, H., and Petersen, S. E. (2018). Control networks and hubs. and meta-analysis. Psychosom. Med. 77, 16–25 doi: 10.1097/psy.0000000000
+   Psychophysiology 55:e13032. doi: 10.1111/psyp.13032                     000133
+Green, C. S., and Bavelier, D. (2012). Learning, attentional control and action video Hirsch, J. A., and Bishop, B. (1981). Respiratory sinus arrhythmia in humans:
+   games. Curr. Biol. 22, R197–R206. doi: 10.1016/j.cub.2012.02.012        how breathing pattern modulates heart rate. Am. J. Physiol. 241, H620–H629.
+Grossman, P. (2014). Mindfulness: awareness informed by an embodied ethic. doi: 10.1152/ajpheart.1981.241.4.h620
+   Mindfulness 6, 17–22. doi: 10.1007/s12671-014-0372-5                 Hoffmann, T. J., Simon, B. J., Zhang, Y., and Emala, C. W. (2012). Low voltage
+Grossman, P., and Kollai, M. (1993). Respiratory sinus arrhythmia, cardiac vagal nerve stimulation reduces bronchoconstriction in guinea pigs through
+   vagal tone, and respiration: within- and between-individual relations.  catecholamine release. Neuromodulation 15, 527–535. doi: 10.1111/j.1525-
+   Psychophysiology 30, 486–495. doi: 10.1111/j.1469-8986.1993.tb02072.x   1403.2012.00454.x
+Grossman, P., Niemann, L., Schmidt, S., and Walach, H. (2004). Mindfulness- Hofmann, S. G., Grossman, P., and Hinton, D. E. (2011). Loving-kindness
+   based stress reduction and health benefits: a meta-analysis. J. Psychosom. Res. and compassion meditation: potential for psychological interventions. Clin.
+   57, 35–43. doi: 10.1016/S0022-3999(03)00573-7                           Psychol. Rev. 31, 1126–1132. doi: 10.1016/j.cpr.2011.07.003
+Grossman, P., and Taylor, E. W. (2007). Toward understanding respiratory sinus Hölzel, B. K., Carmody, J., Evans, K. C., Hoge, E. A., Dusek, J. A., Morgan, L., et al.
+   arrhythmia: relations to cardiac vagal tone, evolution and biobehavioral (2010). Stress reduction correlates with structural changes in the amygdala. Soc.
+   functions. Biol. Psychol. 74, 263–285. doi: 10.1016/j.biopsycho.2005.   Cogn. Affect. Neurosci. 5, 11–17. doi: 10.1093/scan/nsp034
+   11.014                                                               Hölzel, B. K., Carmody, J., Vangel, M., Congleton, C., Yerramsetti, S. M., Gard, T.,
+Groves, D. A., and Brown, V. J. (2005). Vagal nerve stimulation: a review of et al. (2011a). Mindfulness practice leads to increases in regional brain gray
+   its applications and potential mechanisms that mediate its clinical effects. matter density. Psychiatry Res. 191, 36–43. doi: 10.1016/j.pscychresns.2010.
+   Neurosci. Biobehav. Rev. 29, 493–500. doi: 10.1016/j.neubiorev.2005.01.004 08.006
+Haensel, A., Mills, P. J., Nelesen, R. A., Ziegler, M. G., and Dimsdale, J. E. Hölzel, B. K., Lazar, S. W., Gard, T., Schuman-Olivier, Z., Vago, D. R., and Ott, U.
+   (2008). The relationship between heart rate variability and inflammatory (2011b). How does mindfulness meditation work? Proposing mechanisms of
+   markers in cardiovascular diseases. Psychoneuroendocrinology 33, 1305–1312. action from a conceptual and neural perspective. Perspect. Psychol. Sci. 6,
+   doi: 10.1016/j.psyneuen.2008.08.007                                     537–559. doi: 10.1177/1745691611419671
+Hajnšek, S., Šulenti ´c,V., Samarzˇ ija, M., Mijatovi ´c,D., Petelin, Z., Nankovi ´c,S., Hommel, B. (2015). Between persistence and flexibility: the Yin and Yang of action
+   et al. (2010). Bronchoconstriction induced by vagus nerve stimulation for the control. Adv. Motiv. Sci. 2, 33–67. doi: 10.1016/bs.adms.2015.04.003
+   management of pharmacoresistant epilepsy in a patient with bronchial asthma: Hommel, B., and Colzato, L. S. (2017). Meditation and metacontrol. J. Cogn.
+   case report. Neurol. Croat. 59, 89–93.                                  Enhanc. 1, 115–121. doi: 10.1007/s41465-017-0017-4
+Hansen, A. L., Johnsen, B. H., Sollers, J. J. III., Stenvik, K., and Thayer, J. F. Hommel, B., and Wiers, R. W. (2017). Towards a unitary approach to
+   (2004). Heart rate variability and its relation to prefrontal cognitive function: human action control. Trends Cogn. Sci. 12, 940–949. doi: 10.1016/j.tics.2017.
+   the effects of training and detraining. Eur. J. Appl. Physiol. 93, 263–272. 09.009
+   doi: 10.1007/s00421-004-1208-0                                       Hottenrott, K., Hoos, O., and Esperer, H. D. (2006). Heart rate variability and
+Hansen, A. L., Johnsen, B. H., and Thayer, J. F. (2003). Vagal influence on working physical exercise. Current status. Herz 31, 544–552. doi: 10.1007/s00059-006-
+   memory and attention. Int. J. Psychophysiol. 48, 263–274. doi: 10.1016/s0167- 2855-1
+   8760(03)00073-4                                                      Jacobs, H. I., Riphagen, J. M., Razat, C. M., Wiese, S., and Sack, A. T. (2015).
+Hare, D. L., Toukhsati, S. R., Johansson, P., and Jaarsma, T. (2014). Depression Transcutaneous vagus nerve stimulation boosts associative memory in older
+   and cardiovascular disease: a clinical review. Eur. Heart J. 35, 1365–1372. individuals. Neurobiol. Aging 36, 1860–1867. doi: 10.1016/j.neurobiolaging.
+   doi: 10.1093/eurheartj/eht462                                           2015.02.023
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org                 19                                    October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                                            Breathing in Contemplative Practice
+
+
+Jahnke, R., Larkey, L., Rogers, C., Etnier, J., and Lin, F. (2010). A comprehensive Kolárˇ , P., Neuwirth, J., Sˇ anda, J., Suchánek, V., Svatá, Z., Volejník, J., et al.
+   review of health benefits of Qigong and Tai Chi. Am. J. Health Promot. 24, (2009). Analysis of diaphragm movement during tidal breathing and during
+   e1–e25. doi: 10.4278/ajhp.081013-lit-248                                its activation while breath holding using MRI synchronized with spirometry.
+Jänig, W., Krauspe, R., and Wiedersatz, G. (1983). Reflex activation of    Physiol. Res. 58, 383–392. doi: 10.1093/ehjci/jeu087
+   postganglionic vasoconstrictor neurones supplying skeletal muscle by Kollai, M., and Mizsei, G. (1990). Respiratory sinus arrhythmia is a limited
+   stimulation of arterial chemoreceptors via non-nicotinic synaptic mechanisms measure of cardiac parasympathetic control in man. J. Physiol. 424, 329–342.
+   in sympathetic ganglia. Pflugers Arch. 396, 95–100. doi: 10.1007/bf006  doi: 10.1113/jphysiol.1990.sp018070
+   15511                                                                Koltyn, K. F., Brellenthin, A. G., Cook, D. B., Sehgal, N., and Hillard, C.
+Jha, A. P., Krompinger, J., and Baime, M. J. (2007). Mindfulness training  (2014). Mechanisms of exercise-induced hypoalgesia. J. Pain 15, 1294–1304.
+   modifies subsystems of attention. Cogn. Affect. Behav. Neurosci. 7, 109–119. doi: 10.1016/j.jpain.2014.09.006
+   doi: 10.3758/cabn.7.2.109                                            Korsager Larsen, M., and Matchkov, V. V. (2016). Hypertension and physical
+Johnson, R. L., and Wilson, C. G. (2018). A review of vagus nerve stimulation exercise: the role of oxidative stress. Medicina 52, 19–27. doi: 10.1016/j.medici.
+   as a therapeutic intervention. J. Inflamm. Res. 11, 203–213. doi: 10.2147/jir. 2016.01.005
+   s163248                                                              Kosel, M., Brockmann, H., Frick, C., Zobel, A., and Schlaepfer, T. E. (2011).
+Kaiser, R. H., Andrews-Hanna, J. R., Wager, T. D., and Pizzagalli, D. A.   Chronic vagus nerve stimulation for treatment-resistant depression increases
+   (2015). Large-scale network dysfunction in major depressive disorder: a regional cerebral blood flow in the dorsolateral prefrontal cortex. Psychiatry
+   meta-analysis of resting-state functional connectivity. JAMA Psychiatry 72, Res. 191, 153–159. doi: 10.1016/j.pscychresns.2010.11.004
+   603–611. doi: 10.1001/jamapsychiatry.2015.0071                       Kraus, T., Kiess, O., Hösl, K., Terekhin, P., Kornhuber, J., and Forster, C. (2013).
+Kemp, A. H., and Quintana, D. S. (2013). The relationship between mental   CNS BOLD fMRI effects of sham-controlled transcutaneous electrical nerve
+   and physical health: insights from the study of heart rate variability. Int. stimulation in the left outer auditory canal—a pilot study. Brain Stimul. 6,
+   J. Psychophysiol. 89, 288–296. doi: 10.1016/j.ijpsycho.2013.06.018      798–804. doi: 10.1016/j.brs.2013.01.011
+Keng, S. L., Smoski, M. J., and Robins, C. J. (2011). Effects of mindfulness on Krisanaprakornkit, T., Witoonchart, C., Ngamjarus, C., and Piyavhatkul, N.
+   psychological health: a review of empirical studies. Clin. Psychol. Rev. 31, (2010). Meditation therapies for attention deficit/hyperactivity disorder.
+   1041–1056. doi: 10.1016/j.cpr.2011.04.006                               Cochrane Database Syst. Rev. 6:CD006507. doi: 10.1002/14651858.cd006507
+Kerr, C. E., Agrawal, U., and Nayak, S. (2016). The effects of Tai Chi practice Kuyken, W., Hayes, R., Barrett, B., Byng, R., Dalgleish, T., Kessler, D., et al. (2015).
+   on intermuscular beta coherence and the rubber hand illusion. Front. Hum. Effectiveness and cost-effectiveness of mindfulness-based cognitive therapy
+   Neurosci. 10:37. doi: 10.3389/fnhum.2016.00037                          compared with maintenance antidepressant treatment in the prevention of
+Kerr, C. E., Jones, S. R., Wan, Q., Pritchett, D. L., Wasserman, R. H., Wexler, A., depressive relapse or recurrence (PREVENT): a randomised controlled trial.
+   et al. (2011). Effects of mindfulness meditation training on anticipatory alpha Lancet 386, 63–73. doi: 10.1016/S0140-6736(14)62222-4
+   modulation in primary somatosensory cortex. Brain Res. Bull. 85, 96–103. Kwan, H., Garzoni, L., Liu, H. L., Cao, M., Desrochers, A., Fecteau, G., et al. (2016).
+   doi: 10.1016/j.brainresbull.2011.03.026                                 Vagus nerve stimulation for treatment of inflammation: systematic review of
+Kerr, C. E., Sacchet, M. D., Lazar, S. W., Moore, C. I., and Jones, S. R. (2013). animal models and clinical studies. Bioelectron. Med. 3, 1–6.
+   Mindfulness starts with the body: somatosensory attention and top-down Laborde, S., Mosley, E., and Thayer, J. F. (2017). Heart rate variability and
+   modulation of cortical alpha rhythms in mindfulness meditation. Front. Hum. cardiac vagal tone in psychophysiological research—recommendations for
+   Neurosci. 7:12. doi: 10.3389/fnhum.2013.00012                           experiment planning, data analysis and data reporting. Front. Psychol. 8:213.
+Kerr, C. E., Shaw, J. R., Wasserman, R. H., Chen, V. W., Kanojia, K., Bayer, T., doi: 10.3389/fpsyg.2017.00213
+   et al. (2008). Tactile acuity in experienced Tai Chi practitioners: evidence for Lampert, R., Bremner, J. D., Su, S., Miller, A., Lee, F., Cheema, F., et al. (2008).
+   use dependent plasticity as an effect of sensory-attentional training. Exp. Brain Decreased heart rate variability is associated with higher levels of inflammation
+   Res. 188, 317–322. doi: 10.1007/s00221-008-1409-6                       in middle-aged men. Am. Heart J. 156, 759.e1–759.e7. doi: 10.1016/j.ahj.2008.
+Keshavan, M. S., Vinogradov, S., Rumsey, J., Sherrill, J., and Wagner, A. (2014). 07.009
+   Cognitive training in mental disorders: update and future directions. Am. Lan, C., Chen, S.-Y., Wong, M.-K., and Lai, J. S. (2013). Tai Chi Chuan exercise for
+   J. Psychiatry 171, 510–522. doi: 10.1176/appi.ajp.2013.13081075         patients with cardiovascular disease. Evid. Based Complement. Alternat. Med.
+Kessler, W., Diedrich, S., Menges, P., Ebker, T., Nielson, M., Partecke, L. I., 2013:e983208. doi: 10.1155/2013/983208
+   et al. (2012). The role of the Vagus Nerve: modulation of the inflammatory Lane, R. D., McRae, K., Reiman, E. M., Chen, K., Ahern, G. L., and Thayer, J. F.
+   reaction in murine polymicrobial sepsis. Mediators Inflamm. 2012:467620. (2009). Neural correlates of heart rate variability during emotion. Neuroimage
+   doi: 10.1155/2012/467620                                                44, 213–222. doi: 10.1016/j.neuroimage.2008.07.056
+Keyl, C., Schneider, A., Dambacher, M., and Bernardi, L. (2001). Time delay Lane, R. D., Reiman, E. M., Ahern, G. L., and Thayer, J. F. (2001). 21.
+   of vagally mediated cardiac baroreflex response varies with autonomic   Activity in medial prefrontal cortex correlates with vagal component
+   cardiovascular control. J. Appl. Physiol. 91, 283–289. doi: 10.1152/jappl.2001. of heart rate variability during emotion. Brain Cogn. 47, 97–100.
+   91.1.283                                                                doi: 10.1006/brcg.2000.1275
+Kim, S. H., Schneider, S. M., Kravitz, L., Mermier, C., and Burge, M. R. (2013). Langley, J. D. (1903). The autonomic nervous system. Brain 26, 1–26.
+   Mind-body practices for posttraumatic stress disorder. J. Investig. Med. 61, doi: 10.1093/brain/26.1.1
+   827–834. doi: 10.2310/JIM.0b013e3182906862                           Larkey, L., Jahnke, R., Etnier, J., and Gonzalez, J. (2009). Meditative movement as
+Kirk, U., Downar, J., and Montague, P. R. (2011). Interoception drives increased a category of exercise: implications for research. J. Phys. Act. Health 6, 230–238.
+   rational decision-making in meditators playing the ultimatum game. Front. doi: 10.1123/jpah.6.2.230
+   Neurosci. 5:49. doi: 10.3389/fnins.2011.00049                        Larsen, P. D., Tzeng, Y. C., Sin, P. Y. W., and Galletly, D. C. (2010). Respiratory
+Kirkwood, G., Rampes, H., Tuffrey, V., Richardson, J., and Pilkington, K. (2005). sinus arrhythmia in conscious humans during spontaneous respiration. Respir.
+   Yoga for anxiety: a systematic review of the research evidence. Br. J. Sports Med. Physiol. Neurobiol. 174, 111–118. doi: 10.1016/j.resp.2010.04.021
+   39, 884–891. doi: 10.1136/bjsm.2005.018069                           Lazar, S. W., Kerr, C. E., Wasserman, R. H., Gray, J. R., Greve, D. N.,
+Klainin-Yobas, P., Cho, M. A. A., and Creedy, D. (2012). Efficacy of mindfulness- Treadway, M. T., et al. (2005). Meditation experience is associated with
+   based interventions on depressive symptoms among people with mental     increased cortical thickness. Neuroreport 16, 1893–1897. doi: 10.1097/01.wnr.
+   disorders: a meta-analysis. Int. J. Nurs. Stud. 49, 109–121. doi: 10.1016/j. 0000186598.66243.19
+   ijnurstu.2011.08.014                                                 Lee, M. S., and Ernst, E. (2012). Systematic reviews of t’ai chi: an overview. Br.
+Koenig, J., Kemp, A. H., Beauchaine, T. P., Thayer, J. F., and Kaess, M.   J. Sports Med. 46, 713–718. doi: 10.1136/bjsm.2010.080622
+   (2016). Depression and resting state heart rate variability in children and Lee, J. S., Lee, M. S., Lee, J. Y., Cornélissen, G., Otsuka, K., and Halberg, F. (2003).
+   adolescents—A systematic review and meta-analysis. Clin. Psychol. Rev. 46, Effects of diaphragmatic breathing on ambulatory blood pressure and heart
+   136–150. doi: 10.1016/j.cpr.2016.04.013                                 rate. Biomed. Pharmacother. 57, 87s–91s. doi: 10.1016/j.biopha.2003.08.011
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org                 20                                    October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                                            Breathing in Contemplative Practice
+
+
+Lehrer, P. M., and Gevirtz, R. (2014). Heart rate variability biofeedback: how and cardiac sympathetic tone nor of baroreflex sensitivity. Am. J. Physiol. Heart
+   why does it work? Front. Psychol. 5:756. doi: 10.3389/fpsyg.2014.00756  Circ. Physiol. 307, H1005–H1012. doi: 10.1152/ajpheart.00361.2014
+Lehrer, P. M., Vaschillo, E., Vaschillo, B., Lu, S.-E., Eckberg, D. L., Edelberg, R., Martelli, D., Yao, S. T., McKinley, M. J., and McAllen, R. M. (2014c). Reflex
+   et al. (2003). Heart rate variability biofeedback increases baroreflex gain control of inflammation by sympathetic nerves, not the vagus. J. Physiol. 592,
+   and peak expiratory flow. Psychosom. Med. 65, 796–805. doi: 10.1097/01.psy. 1677–1686. doi: 10.1113/jphysiol.2013.268573
+   0000089200.81962.19                                                  McCorry, L. M. (2007). Physiology of the autonomic nervous system. Am.
+Levenson, R. W. (1994). Human emotion: a functional view. The Nature of    J. Pharm. Educ. 71:78. doi: 10.5688/aj710478
+   Emotion: Fundamental Questions, eds P. Ekman and R. Davidson (New York, McEwen, B. S., Eiland, L., Hunter, R. G., and Miller, M. M. (2012). Stress
+   NY: Oxford University Press), 123–126.                                  and anxiety: structural plasticity and epigenetic regulation as a consequence
+Lin, G., Xiang, Q., Fu, X., Wang, S., Wang, S., Chen, S., et al. (2012). Heart rate of stress. Neuropharmacology 62, 3–12. doi: 10.1016/j.neuropharm.2011.
+   variability biofeedback decreases blood pressure in prehypertensive subjects by 07.014
+   improving autonomic function and baroreflex. J. Altern. Complement. Med. 18, McEwen, B., and Morrison, J. (2013). The brain on stress: vulnerability and
+   143–152. doi: 10.1089/acm.2010.0607                                     plasticity of the prefrontal cortex over the life course. Neuron 79, 16–29.
+Lippelt, D. P., Hommel, B., and Colzato, L. S. (2014). Focused attention,  doi: 10.1016/j.neuron.2013.06.028
+   open monitoring and loving kindness meditation: effects on attention, Mead, G. E., Morley, W., Campbell, P., Greig, C. A., McMurdo, M., and
+   conflict monitoring and creativity—A review. Front. Psychol. 5:1083.    Lawlor, D. A. (2009). Exercise for depression. Cochrane Database Syst. Rev.
+   doi: 10.3389/fpsyg.2014.01083                                           3:CD004366. doi: 10.1002/14651858.CD004366.pub3
+Liu, J., Fang, J., Wang, Z., Rong, P., Hong, Y., Fan, Y., et al. (2016). Transcutaneous Melby-Lervåg, M., and Hulme, C. (2013). Is working memory training
+   vagus nerve stimulation modulates amygdala functional connectivity in   effective? A meta-analytic review. Dev. Psychol. 49, 270–291. doi: 10.1037/a00
+   patients with depression. J. Affect. Disord. 205, 319–326. doi: 10.1016/j.jad.2016. 28228
+   08.003                                                               Melville, G. W., Chang, D., Colagiuri, B., Marshall, P. W., and Cheema, B. S.
+Luders, E., Clark, K., Narr, K. L., and Toga, A. W. (2011). Enhanced brain (2012). Fifteen minutes  of chair-based yoga  postures or  guided
+   connectivity in long-term meditation practitioners. Neuroimage 57, 1308–1316. meditation performed in the office can elicit a relaxation response.
+   doi: 10.1016/j.neuroimage.2011.05.075                                   Evid. Based Complement. Alternat. Med. 2012:501986. doi: 10.1155/2012/
+Luders, E., Kurth, F., Mayer, E. A., Toga, A. W., Narr, K. L., and Gaser, C. 501986
+   (2012a). The unique brain anatomy of meditation practitioners: alterations Ménard, C., Pfau, M. L., Hodes, G. E., and Russo, S. J. (2017). Immune
+   in cortical gyrification. Front. Hum. Neurosci. 6:34. doi: 10.3389/fnhum.2012. and neuroendocrine mechanisms of stress vulnerability and resilience.
+   00034                                                                   Neuropsychopharmacology 42, 62–80. doi: 10.1038/npp.2016.90
+Luders, E., Phillips, O. R., Clark, K., Kurth, F., Toga, A. W., and Narr, K. L. (2012b). Miller, E. B., and Goss, C. F. (2014). An exploration of physiological responses to
+   Bridging the hemispheres in meditation: thicker callosal regions and enhanced the Native American flute. ArXiv:1401.6004
+   fractional anisotropy (FA) in long-term practitioners. Neuroimage 61, 181–187. Miller, A. H., Maletic, V., and Raison, C. L. (2009). Inflammation and its
+   doi: 10.1016/j.neuroimage.2012.02.026                                   discontents: the role of cytokines in the pathophysiology of major depression.
+Luders, E., Thompson, P. M., Kurth, F., Hong, J. Y., Phillips, O. R., Wang, Y., et al. Biol. Psychiatry 65, 732–741. doi: 10.1016/j.biopsych.2008.11.029
+   (2012c). Global and regional alterations of hippocampal anatomy in long-term Miner, J. R., Lewis, L. M., Mosnaim, G. S., Varon, J., Theodoro, D., and
+   meditation practitioners. Hum. Brain Mapp. 34, 3369–3375. doi: 10.1002/hbm. Hoffmann, T. J. (2012). Feasibility of percutaneous vagus nerve stimulation for
+   22153                                                                   the treatment of acute asthma exacerbations. Acad. Emerg. Med. 19, 421–429.
+Luders, E., Toga, A. W., Lepore, N., and Gaser, C. (2009). The underlying  doi: 10.1111/j.1553-2712.2012.01329.x
+   anatomical correlates of long-term meditation: larger hippocampal and frontal Mitchell, J. T., Zylowska, L., and Kollins, S. H. (2015). Mindfulness meditation
+   volumes of gray matter. Neuroimage 45, 672–678. doi: 10.1016/j.neuroimage. training for attention-deficit/hyperactivity disorder in adulthood: current
+   2008.12.061                                                             empirical support, treatment overview and future directions. Cogn. Behav.
+Lutz, A., Jha, A. P., Dunne, J. D., and Saron, C. D. (2015). Investigating Pract. 22, 172–191. doi: 10.1016/j.cbpra.2014.10.002
+   the phenomenological matrix of mindfulness-related practices from a  Miyake, A., Friedman, N. P., Emerson, M. J., Witzki, A. H., Howerter, A., and
+   neurocognitive perspective. Am. Psychol. 70, 632–658. doi: 10.1037/a00  Wager, T. D. (2000). The unity and diversity of executive functions and their
+   39585                                                                   contributions to complex ‘‘Frontal Lobe’’ tasks: a latent variable analysis. Cogn.
+Lutz, A., Slagter, H. A., Dunne, J. D., and Davidson, R. J. (2008). Attention Psychol. 41, 49–100. doi: 10.1006/cogp.1999.0734
+   regulation and monitoring in meditation. Trends Cogn. Sci. 12, 163–169. Montgomery, G. T. (1994). Slowed respiration training. Biofeedback Self Regul. 19,
+   doi: 10.1016/j.tics.2008.01.005                                         211–225. doi: 10.1007/bf01721068
+Lutz, A., Slagter, H. A., Rawlings, N. B., Francis, A. D., Greischar, L. L., Morgan, N., Irwin, M. R., Chung, M., and Wang, C. (2014). The effects
+   and  Davidson, R. J. (2009). Mental training  enhances  attentional     of mind-body therapies on the immune system: meta-analysis. PLoS One
+   stability: neural and behavioral evidence. J. Neurosci. 29, 13418–13427. 9:e100903. doi: 10.1371/journal.pone.0100903
+   doi: 10.1523/JNEUROSCI.1614-09.2009                                  Mortola, J., Marghescu, D., and Siegrist-Johnstone, R. (2015). Respiratory sinus
+Luu, K., and Hall, P. A. (2016). Hatha Yoga and executive function: a systematic arrhythmia in young men and women at different chest wall configurations.
+   review. J. Altern. Complement. Med. 22, 125–133. doi: 10.1089/acm.2014.0091 Clin. Sci. 128, 507–516. doi: 10.1042/cs20140543
+Markil, N., Whitehurst, M., Jacobs, P. L., and Zoeller, R. F. (2012). Yoga Nidra Müller, H. H. O., Moeller, S., Lücke, C., Lam, A. P., Braun, N., and Philipsen, A.
+   relaxation increases heart rate variability and is unaffected by a prior bout of (2018). Vagus nerve stimulation (VNS) and other augmentation strategies for
+   Hatha Yoga. J. Altern. Complement. Med. 18, 953–958. doi: 10.1089/acm.2011. therapy-resistant depression (TRD): review of the evidence and clinical advice
+   0331                                                                    for use. Front. Neurosci. 12:239. doi: 10.3389/fnins.2018.00239
+Martarelli, D., Cocchioni, M., Scuri, S., and Pompei, P. (2011). Diaphragmatic Murray, A. R., Atkinson, L., Mahadi, M. K., Deuchars, S. A., and Deuchars, J.
+   breathing reduces postprandial oxidative stress. J. Altern. Complement. Med. (2016). The strange case of the ear and the heart: the auricular vagus nerve and
+   17, 623–628. doi: 10.1089/acm.2010.0666                                 its influence on cardiac control. Auton. Neurosci. 199, 48–53. doi: 10.1016/j.
+Martelli, D., Farmer, D. G. S., and Yao, S. T. (2016). The splanchnic      autneu.2016.06.004
+   anti-inflammatory pathway: could it be the efferent arm of the inflammatory Nagai, Y., Critchley, H. D., Featherstone, E., Trimble, M. R., and Dolan, R. J.
+   reflex? Exp. Physiol. 101, 1245–1252. doi: 10.1113/ep085559             (2004). Activity in ventromedial prefrontal cortex covaries with sympathetic
+Martelli, D., McKinley, M. J., and McAllen, R. M. (2014a). The cholinergic skin conductance level: a physiological account of a ‘‘default mode’’ of brain
+   anti-inflammatory pathway: a critical review. Auton. Neurosci. 182, 65–69. function. Neuroimage 22, 243–251. doi: 10.1016/j.neuroimage.2004.01.019
+   doi: 10.1016/j.autneu.2013.12.007                                    Nesvold, A., Fagerland, M. W., Davanger, S., Ellingsen, Ø., Solberg, E. E.,
+Martelli, D., Silvani, A., McAllen, R. M., May, C. N., and Ramchandra, R. (2014b). Holen, A., et al. (2012). Increased heart rate variability during nondirective
+   The low frequency power of heart rate variability is neither a measure of meditation. Eur. J. Prev. Cardiol. 19, 773–780. doi: 10.1177/1741826711414625
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org                 21                                    October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                                            Breathing in Contemplative Practice
+
+
+Niijima, A. (1992). Electrophysiological study on the vagal innervation of the Porges, S. W. (1995). Cardiac vagal tone: a physiological index of stress. Neurosci.
+   adrenal gland in the rat. J. Auton. Nerv. Syst. 41, 87–92. doi: 10.1016/0165- Biobehav. Rev. 19, 225–233. doi: 10.1016/0149-7634(94)00066-a
+   1838(92)90130-9                                                      Porges, S. W. (2001). The polyvagal theory: phylogenetic substrates of a
+Nizamie, S. H., Katshu, M. U. H., and Uvais, N. (2013). Sufism and mental health. social nervous system. Int. J. Psychophysiol. 42, 123–146. doi: 10.1016/s0167-
+   Indian J. Psychiatry 55, s215–s223. doi: 10.4103/0019-5545.105535       8760(01)00162-3
+Obrist, P. A. (1981). Cardiovascular Psychophysiology: A Perspective. New York, Porges, S. W. (2007). The polyvagal perspective. Biol. Psychol. 74, 116–143.
+   NY: Plenum Press.                                                       doi: 10.1016/j.biopsycho.2006.06.009
+Ochsner, K. N., Knierim, K., Ludlow, D. H., Hanelin, J., Ramachandran, T., Posadzki, P., Cramer, H., Kuzdzal, A., Lee, M. S., and Ernst, E. (2014). Yoga for
+   Glover, G., et al. (2004). Reflecting upon feelings: an fMRI study of neural hypertension: a systematic review of randomized clinical trials. Complement.
+   systems supporting the attribution of emotion to self and other. J. Cogn. Ther. Med. 22, 511–522. doi: 10.1016/j.ctim.2014.03.009
+   Neurosci. 16, 1746–1772. doi: 10.1162/0898929042947829               Posner, M. I., and Petersen, S. E. (1990). The attention system of the human brain.
+Oliveira, R. S., Barker, A. R., Wilkinson, K. M., Abbott, R. A., and Williams, C. A. Annu. Rev. Neurosci. 13, 25–42. doi: 10.1146/annurev.ne.13.030190.000325
+   (2017). Is cardiac autonomic function associated with cardiorespiratory fitness Pramanik, T., Sharma, H. O., Mishra, S., Mishra, A., Prajapati, R., and Singh, S.
+   and physical activity in children and adolescents? A systematic review of cross- (2009). Immediate effect of slow pace Bhastrika Pranayama on blood pressure
+   sectional studies. Int. J. Cardiol. 236, 113–122. doi: 10.1016/j.ijcard.2017.02.022 and heart rate. J. Altern. Complement. Med. 15, 293–295. doi: 10.1089/acm.
+Olshansky, B., Sabbah, H. N., Hauptman, P. J., and Colucci, W. S. (2008).  2008.0440
+   Parasympathetic nervous system  and  heart  failure pathophysiology  Radley, J., Morilak, D., Viau, V., and Campeau, S. (2015). Chronic stress and
+   and  potential implications for therapy. Circulation 118, 863–871.      brain plasticity: mechanisms underlying adaptive and maladaptive changes
+   doi: 10.1161/CIRCULATIONAHA.107.760405                                  and implications for stress-related CNS disorders. Neurosci. Biobehav. Rev. 58,
+Orosz, A., Federspiel, A., Haisch, S., Seeher, C., Dierks, T., and Cattapan, K. (2017). 79–91. doi: 10.1016/j.neubiorev.2015.06.018
+   A biological perspective on differences and similarities between burnout and Raichle, M. E., MacLeod, A. M., Snyder, A. Z., Powers, W. J., Gusnard, D. A., and
+   depression. Neurosci. Biobehav. Rev. 73, 112–122. doi: 10.1016/j.neubiorev. Shulman, G. L. (2001). A default mode of brain function. Proc. Natl. Acad. Sci.
+   2016.12.005                                                             USA  98, 676–682. doi: 10.1073/pnas.98.2.676
+Ospina, M. B., Bond, K., Karkhaneh, M., Tjosvold, L., Vandermeer, B., Liang, Y., Ramírez, E., Ortega, A. R., and Reyes Del Paso, G. A. (2015). Anxiety, attention
+   et al. (2007). Meditation practices for health: state of the research. Evid. Rep. and decision making: the moderating role of heart rate variability. Int.
+   Technol. Assess. 155, 1–263.                                            J. Psychophysiol. 98, 490–496. doi: 10.1016/j.ijpsycho.2015.10.007
+Ottaviani, C., Thayer, J. F., Verkuil, B., Lonigro, A., Medea, B., Couyoumdjian, A., Roig, M., Nordbrandt, S., Geertsen, S. S., and Nielsen, J. B. (2013). The effects
+   et al. (2016). Physiological concomitants of perseverative cognition:   of cardiovascular exercise on human memory: a review with meta-analysis.
+   a systematic review and  meta-analysis. Psychol. Bull. 142, 231–259.    Neurosci. Biobehav. Rev. 37, 1645–1666. doi: 10.1016/j.neubiorev.2013.
+   doi: 10.1037/bul0000036                                                 06.012
+Pal, G. K., Velkumary, S., and    Madanmohan, A. (2004). Effect   of    Rozanski, A., Blumenthal, J. A., and Kaplan, J. (1999). Impact of psychological
+   short-term practice of breathing exercises on autonomic  functions      factors on the pathogenesis of cardiovascular disease and implications for
+   in normal human    volunteers. Indian J. Med. Res.  120, 115–121.       therapy. Circulation 99, 2192–2217. doi: 10.1161/01.cir.99.16.2192
+   doi: 10.1161/hypertensiona.112.194225                                Rubia, K. (2009). The neurobiology of meditation and its clinical effectiveness
+Pardo, J. V., Sheikh, S. A., Schwindt, G. C., Lee, J. T., Kuskowski, M. A., Surerus, C., in psychiatric disorders. Biol. Psychol. 82, 1–11. doi: 10.1016/j.biopsycho.2009.
+   et al. (2008). Chronic vagus nerve stimulation for treatment-resistant  04.003
+   depression decreases resting ventromedial prefrontal glucose metabolism. Sakaki, M., Yoo, H. J., Nga, L., Lee, T.-H., Thayer, J. F., and Mather, M. (2016).
+   Neuroimage 42, 879–889. doi: 10.1016/j.neuroimage.2008.04.267           Heart rate variability is associated with amygdala functional connectivity with
+Park, G., Van Bavel, J. J., Vasey, M. W., and Thayer, J. F. (2012). Cardiac vagal MPFC across younger and older adults. Neuroimage 139, 44–52. doi: 10.1016/j.
+   tone predicts inhibited attention to fearful faces. Emotion 12, 1292–1302. neuroimage.2016.05.076
+   doi: 10.1037/a0028528                                                Salmon, P. (2001). Effects of physical exercise on anxiety, depression and
+Park, G., Van Bavel, J. J., Vasey, M. W., and Thayer, J. F. (2013). Cardiac vagal sensitivity to stress. Clin. Psychol. Rev. 21, 33–61. doi: 10.1016/s0272-
+   tone predicts attentional engagement to and disengagement from fearful faces. 7358(99)00032-x
+   Emotion 13, 645–656. doi: 10.1037/a0032971                           Sapolsky, R. M., Romero, L. M., and Munck, A. U. (2000). How do glucocorticoids
+Pascoe, M. C., Thompson, D. R., Jenkins, Z. M., and Ski, C. F. (2017).     influence stress responses? Integrating permissive, suppressive, stimulatory and
+   Mindfulness mediates the physiological markers of stress: systematic review preparative actions. Endocr. Rev. 21, 55–89. doi: 10.1210/er.21.1.55
+   and meta-analysis. J. Psychiatr. Res. 95, 156–178. doi: 10.1016/j.jpsychires.2017. Sasaki, K., and Maruyama, R. (2014). Consciously controlled breathing decreases
+   08.004                                                                  the high-frequency component of heart rate variability by inhibiting
+Pavlov, V. A., and Tracey, K. J. (2015). Neural circuitry and immunity. Immunol. cardiac parasympathetic nerve activity. Tohoku J. Exp. Med. 233, 155–163.
+   Res. 63, 38–57. doi: 10.1007/s12026-015-8718-1                          doi: 10.1620/tjem.233.155
+Peng, C. K., Henry, I. C., Mietus, J. E., Hausdorff, J. M., Khalsa, G., Benson, H., et al. Schel, M. A., Windhorst, D. A., van der Molen, M. W., and Crone, E. A.
+   (2004). Heart rate dynamics during three forms of meditation. Int. J. Cardiol. (2013). Developmental change in intentional action and inhibition: a heart rate
+   95, 19–27. doi: 10.1016/j.ijcard.2003.02.006                            analysis. Psychophysiology 50, 812–819. doi: 10.1111/psyp.12065
+Penttilä, J., Helminen, A., Jartti, T., Kuusela, T., Huikuri, H. V., Tulppo, M. P., et al. Schmalzl, L., Powers, C., and Henje Blom, E. (2015). Neurophysiological and
+   (2001). Time domain, geometrical and frequency domain analysis of cardiac neurocognitive mechanisms underlying the effects of yoga-based practices:
+   vagal outflow: effects of various respiratory patterns. Clin. Physiol. 21, 365–376. towards a comprehensive theoretical framework. Front. Hum. Neurosci. 9:235.
+   doi: 10.1046/j.1365-2281.2001.00337.x                                   doi: 10.3389/fnhum.2015.00235
+Perciavalle, V., Blandini, M., Fecarotta, P., Buscemi, A., Di Corrado, D., Bertolo, L., Schroeder, E. B., Liao, D., Chambless, L. E., Prineas, R. J., Evans, G. W., and
+   et al. (2017). The role of deep breathing on stress. Neurol. Sci. 38, 451–458. Heiss, G. (2003). Hypertension, blood pressure, and heart rate variability:
+   doi: 10.1007/s10072-016-2790-8                                          the Atherosclerosis Risk in Communities (ARIC) study. Hypertension 42,
+Phongsuphap, S., Pongsupap, Y., Chandanamattha, P., and Lursinsap, C. (2008). 1106–1111. doi: 10.1161/01.HYP.0000100444.71069.73
+   Changes in heart rate variability during concentration meditation. Int. Secher, N. H., and Amann, M. (2012). Human   investigations into the
+   J. Cardiol. 130, 481–484. doi: 10.1016/j.ijcard.2007.06.103             exercise pressor reflex. Exp. Physiol. 97, 59–69. doi: 10.1113/expphysiol.2011.
+Popov, S. V., Afanasiev, S. A., Kurlov, I. O., and Pisklova, A. V. (2013). Drug-free 057679
+   correction of the tone of the autonomic nervous system in the management of Seitz, A., and Watanabe, T. (2005). A unified model for perceptual learning. Trends
+   cardiac arrhythmia in coronary artery disease. Int. J. Biomed. 3, 74–77. Cogn. Sci. 9, 329–334. doi: 10.1016/j.tics.2005.05.010
+Porges, S. W. (1992). Vagal tone: a physiological marker of stress vulnerability. Sevcencu, C., Nielsen, T. N., Kjærgaard, B., and Struijk, J. J. (2018). A
+   Pediatrics 90, 498–504.                                                 respiratory marker derived from left vagus nerve signals recorded with
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org                 22                                    October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                                            Breathing in Contemplative Practice
+
+
+   implantable cuff electrodes. Neuromodulation 21, 269–275. doi: 10.1111/ner. meditative states described in yoga texts. J. Altern. Complement. Med. 19,
+   12630                                                                   35–42. doi: 10.1089/acm.2011.0282
+Sgoifo, A., Carnevali, L., Pico Alfonso, M. L., and Amore, M. (2015). Autonomic Ter Horst, G. J., and Postema, F. (1997). Forebrain parasympathetic control of
+   dysfunction and heart rate variability in depression. Stress 18, 343–352. heart activity: retrograde transneuronal viral labeling in rats. Am. J. Physiol.
+   doi: 10.3109/10253890.2015.1045868                                      273, H2926–H2930. doi: 10.1152/ajpheart.1997.273.6.h2926
+Shapiro, S. L., Walsh, R., and Britton, W. B. (2003). An analysis of recent Thayer, J. F. (2007). What the heart says to the brain (and vice versa) and
+   meditation research and suggestions for future directions. Hum. Psychol. 31, why we should listen. Psychol. Top. 16, 241–250. doi: 10.1016/j.ijcard.2012.
+   86–114. doi: 10.1080/08873267.2003.9986927                              02.004
+Shiozawa, P., Silva, M. E., Carvalho, T. C., Cordeiro, Q., Brunoni, A. R., and Thayer, J. F., Ahs, F., Fredrikson, M., Sollers, J. J. III., and Wager, T. D. (2012). A
+   Fregni, F. (2014). Transcutaneous vagus and trigeminal nerve stimulation meta-analysis of heart rate variability and neuroimaging studies: implications
+   for neuropsychiatric disorders: a systematic review. Arq. Neuropsiquiatr. 72, for heart rate variability as a marker of stress and health. Neurosci. Biobehav.
+   542–547. doi: 10.1590/0004-282x20140061                                 Rev. 36, 747–756. doi: 10.1016/j.neubiorev.2011.11.009
+Simons, D. J., Boot, W. R., Charness, N., Gathercole, S. E., Chabris, C. F., Thayer, J. F., and Fischer, J. E. (2009). Heart rate variability, overnight
+   Hambrick, D. Z., et al. (2016). Do ‘‘brain-training’’ programs work? Psychol. urinary norepinephrine and C-reactive protein: evidence for the cholinergic
+   Sci. Public Interest 17, 103–186. doi: 10.1177/1529100616661983         anti-inflammatory pathway in healthy human adults. J. Intern. Med. 265,
+Slagter, H. A., Davidson, R. J., and Lutz, A. (2011). Mental training as a tool in the 439–447. doi: 10.1111/j.1365-2796.2008.02023.x
+   neuroscientific study of brain and cognitive plasticity. Front. Hum. Neurosci. Thayer, J. F., Hansen, A. L., Saus-Rose, E., and Johnsen, B. H. (2009). Heart
+   5:17. doi: 10.3389/fnhum.2011.00017                                     rate variability, prefrontal neural function and cognitive performance: the
+Smith, P. J., Blumenthal, J. A., Hoffman, B. M., Strauman, T. A., Welsh-bohmer, K., neurovisceral integration perspective on self-regulation, adaptation and health.
+   Jeffrey, N., et al. (2011). Aerobic exercise and neurocognitive performance: Ann. Behav. Med. 37, 141–153. doi: 10.1007/s12160-009-9101-z
+   a meta- analytic review of randomized controlled trials. Psychosom. Med. 72, Thayer, J. F., and Lane, R. D. (2000). A model of neurovisceral integration
+   239–252. doi: 10.1097/psy.0b013e3181d14633                              in emotion regulation and dysregulation. J. Affect. Disord. 61, 201–216.
+Smith, R., Thayer, J. F., Khalsa, S. S., and Lane, R. D. (2017). The hierarchical doi: 10.1016/s0165-0327(00)00338-4
+   basis of neurovisceral integration. Neurosci. Biobehav. Rev. 75, 274–296. Thayer, J. F., Loerbroks, A., and Sternberg, E. M. (2011). Inflammation and
+   doi: 10.1016/j.neubiorev.2017.02.003                                    cardiorespiratory control: the role of the vagus nerve. Respir. Physiol. Neurobiol.
+Song, H. S., and Lehrer, P. M. (2003). The effects of specific respiratory rates on 178, 387–394. doi: 10.1016/j.resp.2011.05.016
+   heart rate and heart rate variability. Appl. Psychophysiol. Biofeedback 28, 13–23. Thayer, J. F., and Sternberg, E. M. (2010). Neural aspects of immunomodulation:
+   doi: 10.1023/A:1022312815649                                            focus on the vagus nerve. Brain Behav. Immun. 24, 1223–1228. doi: 10.1016/j.
+Sperduti, M., Martinelli, P., and Piolino, P. (2012). A neurocognitive model of bbi.2010.07.247
+   meditation based on activation likelihood estimation (ALE) meta-analysis. Thayer, J. F., Yamamoto, S. S., and Brosschot, J. F. (2010). The relationship of
+   Conscious. Cogn. 21, 269–276. doi: 10.1016/j.concog.2011.09.019         autonomic imbalance, heart rate variability and cardiovascular disease risk
+Steenbergen, L., Sellaro, R., Stock, A. K., Verkuil, B., Beste, C., and Colzato, L. S. factors. Int. J. Cardiol. 141, 122–131. doi: 10.1016/j.ijcard.2009.09.543
+   (2015). Transcutaneous vagus nerve stimulation (tVNS) enhances response Tracey, K. J. (2002). The inflammatory reflex. Nature 420, 853–859.
+   selection during action cascading processes. Eur. Neuropsychopharmacol. 25, doi: 10.1038/nature01321
+   773–778. doi: 10.1016/j.euroneuro.2015.03.015                        Tracey, K. J. (2007). Physiology and  immunology   of the  cholinergic
+Steyn, E., Mohamed, Z., and Husselman, C. (2013). Non-invasive vagus nerve antiinflammatory pathway. J. Clin. Invest. 117, 289–296. doi: 10.1172/jci30555
+   stimulation for the treatment of acute asthma exacerbations—results from an Tu, Y., Fang, J., Cao, J., Wang, Z., Park, J., Jorgenson, K., et al. (2018). A distinct
+   initial case series. Int. J. Emerg. Med. 6:7. doi: 10.1186/1865-1380-6-7 biomarker of continuous transcutaneous vagus nerve stimulation treatment in
+Studzinski, R. (2009). Reading To Live: The Evolving Practice of Lectio Divina. major depressive disorder. Brain Stimul. 11, 501–508. doi: 10.1016/j.brs.2018.
+   Collegeville: Liturgical Press.                                         01.006
+Taha, B. H., Simon, P. M., Dempsey, J. A., Skatrud, J. B., and Iber, C. Tully, P. J., Cosh, S. M., and Baune, B. T. (2013). A review of the affects of worry
+   (1995). Respiratory sinus arrhythmia in humans: an obligatory role for vagal and generalized anxiety disorder upon cardiovascular health and coronary
+   feedback from the lungs. J. Appl. Physiol. 78, 638–645. doi: 10.1152/jappl.1995. heart disease. Psychol. Health Med. 18, 627–644. doi: 10.1080/13548506.2012.
+   78.2.638                                                                749355
+Tang, Y., Hölzel, B. K., and Posner, M. I. (2015). The neuroscience of mindfulness Tzeng, Y. C., Sin, P. Y. W., Lucas, S. J. E., and Ainslie, P. N. (2009). Respiratory
+   meditation. Nat. Rev. Neurosci. 16, 312–312. doi: 10.1038/nrn3916       modulation of cardiovagal baroreflex sensitivity. J. Appl. Physiol. 107, 718–724.
+Tang, Y. Y., Lu, Q., Geng, X., Stein, E. A., Yang, Y., and Posner, M. I. (2010). doi: 10.1152/japplphysiol.00548.2009
+   Short-term meditation induces white matter changes in the anterior cingulate. Umetani, K., Singer, D. H., McCraty, R., and Atkinson, M. (1998). Twenty-four
+   Proc. Natl. Acad. Sci. U S A 107, 15649–15652. doi: 10.1073/pnas.10110  hour time domain heart rate variability and heart rate: relations to age and
+   43107                                                                   gender over nine decades. J. Am. Coll. Cardiol. 31, 593–601. doi: 10.1016/s0735-
+Tang, Y.-Y., Ma, Y., Fan, Y., Feng, H., Wang, J., Feng, S., et al. (2009). Central 1097(97)00554-8
+   and autonomic nervous system interaction is altered by short-term meditation. Undem, B. J., and Carr, M. J. (2001). Pharmacology of airway afferent nerve
+   Proc. Natl. Acad. Sci. U S A 106, 8865–8870. doi: 10.1073/pnas.09040    activity. Respir. Res. 2, 234–244. doi: 10.1186/rr62
+   31106                                                                Vago, D. R., and Silbersweig, D. A. (2012). Self-awareness, self-regulation
+Tavares, B. S., de Paula Vidigal, G., Garner, D. M., Raimundo, R. D., de abreu, L. C., and self-transcendence (S-ART): a framework for understanding the
+   and Valenti, V. E. (2017). Effects of guided breath exercise on complex neurobiological mechanisms of mindfulness. Front. Hum. Neurosci. 6:296.
+   behaviour of heart rate dynamics. Clin. Physiol. Funct. Imaging 37, 622–629. doi: 10.3389/fnhum.2012.00296
+   doi: 10.1111/cpf.12347                                               van der Molen, M. W. (2000). Developmental changes in inhibitory processing:
+Taylor, J. A., Myers, C. W., Halliwill, J. R., Seidel, H., and Eckberg, D. L. (2001). evidence from psychophysiological measures. Biol. Psychol. 54, 207–239.
+   Sympathetic restraint of respiratory sinus arrhythmia: implications for vagal- doi: 10.1016/s0301-0511(00)00057-0
+   cardiac tone assessment in humans. Am. J. Physiol. Heart Circ. Physiol. 280, Van Diest, I., Verstappen, K., Aubert, A. E., Widjaja, D., Vansteenwegen, D.,
+   H2804–H2814. doi: 10.1152/ajpheart.2001.280.6.h2804                     and  Vlemincx, E. (2014). Inhalation/exhalation ratio modulates the
+Taylor-Piliae, R. E., and Froelicher, E. S. (2004). The effectiveness of Tai Chi effect of slow breathing on heart rate variability and relaxation. Appl.
+   exercise in improving aerobic capacity: a meta-analysis. J. Cardiovasc. Nurs. 19, Psychophysiol. Biofeedback 39, 171–180. doi: 10.1007/s10484-014-
+   48–57. doi: 10.1097/00005082-200401000-00009                            9253-x
+Telles, S., Raghavendra, B. R., Naveen, K. V., Manjunath, N. K., Kumar, S., Van Laere, K., Vonck, K., Boon, P., Versijpt, J., and Dierckx, R. (2002). Perfusion
+   and Subramanya, P. (2013). Changes in autonomic variables following two SPECT changes after acute and chronic vagus nerve stimulation in relation
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org                 23                                    October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                                            Breathing in Contemplative Practice
+
+
+   to prestimulus condition and long-term clinical efficacy. J. Nucl. Med. 43, cortical network with the medial temporal lobe memory system. Hum. Brain
+   733–744.                                                                Mapp. 35, 1061–1073. doi: 10.1002/hbm.22234
+van Vugt, M. K., and Slagter, H. A. (2014). Control over experience? Magnitude of Wayne, P. M., and Kaptchuk, T. J. (2008). Challenges inherent to Tai Chi
+   the attentional blink depends on meditative state. Conscious. Cogn. 23, 32–39. research: part I—Tai Chi as a complex multicomponent intervention. J. Altern.
+   doi: 10.1016/j.concog.2013.11.001                                       Complement. Med. 14, 95–102. doi: 10.1089/acm.2007.7170A
+Vaschillo, E., Lehrer, P., Rishe, N., and Konstantinov, M. (2002). Heart Wayne, P. M., Walsh, J. N., Taylor-Piliae, R. E., Wells, R. E., Papp, K. V.,
+   rate variability biofeedback as a method for assessing baroreflex function: Donovan, N. J., et al. (2014). Effect of Tai Chi on cognitive performance in
+   a preliminary study of resonance in the cardiovascular system. Appl.    older adults: systematic review and meta-analysis. J. Am. Geriatr. Soc. 62, 25–39.
+   Psychophysiol. Biofeedback 27, 1–27. doi: 10.1023/A:1014587304314       doi: 10.1111/jgs.12611
+Ventura-Bort, C., Wirkner, J., Genheimer, H., Wendt, J., Hamm, A. O., and Weber, C. S., Thayer, J. F., Rudat, M., Wirtz, P. H., Zimmermann-Viehoff, F.,
+   Weymar, M. (2018). Effects of transcutaneous vagus nerve stimulation (tVNS) Thomas, A., et al. (2010). Low vagal tone is associated with impaired post
+   on the P300 and alpha-amylase level: a pilot study. Front. Hum. Neurosci. stress recovery of cardiovascular, endocrine and immune markers. Eur. J. Appl.
+   12:202. doi: 10.3389/fnhum.2018.00202                                   Physiol. 109, 201–211. doi: 10.1007/s00421-009-1341-x
+Voelcker-Rehage, C., and Niemann, C. (2013). Structural and functional  Wei, G.-X., Xu, T., Fan, F. M., Dong, H. M., Jiang, L. L., Li, H. J., et al. (2013).
+   brain changes related to different types of physical activity across the life Can Taichi reshape the brain? A brain morphometry study. PLoS One 8:e1038.
+   span. Neurosci. Biobehav. Rev. 37, 2268–2295. doi: 10.1016/j.neubiorev.2013. doi: 10.1371/journal.pone.0061038
+   01.028                                                               Wendt, J., Neubert, J., Koenig, J., Thayer, J. F., and Hamm, A. O. (2015).
+Vonck, K., Raedt, R., Naulaerts, J., De Vogelaere, F., Thiery, E., Van Roost, D., Resting heart rate variability is associated with inhibition of conditioned fear.
+   et al. (2014). Vagus nerve stimulation. . .25 years later! What do we know about Psychophysiology 52, 1161–1166. doi: 10.1111/psyp.12456
+   the effects on cognition? Neurosci. Biobehav. Rev. 45, 63–71. doi: 10.1016/j. Williams, D. P., Thayer, J. F., and Koenig, J. (2016). Resting cardiac vagal tone
+   neubiorev.2014.05.005                                                   predicts intraindividual reaction time variability during an attention task
+Voss, M. W., Vivar, C., Kramer, A. F., and Van Praag, H. (2013). Bridging animal in a sample of young and healthy adults. Psychophysiology 53, 1843–1851.
+   and human models of exercise-induced brain plasticity. Trends Cogn. Sci. 17, doi: 10.1111/psyp.12739
+   525–544. doi: 10.1016/j.tics.2013.08.001                             Wong, C. N., Chaddock-Heyman, L., Voss, M. W., Burzynska, A. Z., Basak, C.,
+Wager, T. D., van Ast, V. A., Hughes, B. L., Davidson, M. L., Lindquist, M. A., and Erickson, K. I., et al. (2015). Brain activation during dual-task processing
+   Ochsner, K. N. (2009a). Brain mediators of cardiovascular responses to social is associated with cardiorespiratory fitness and performance in older adults.
+   threat, Part II: prefrontal-subcortical pathways and relationship with anxiety. Front. Aging Neurosci. 7:154. doi: 10.3389/fnagi.2015.00154
+   Neuroimage 47, 836–851. doi: 10.1016/j.neuroimage.2009.05.044        Wood, R., Maraj, B., Lee, C. M., and Reyes, R. (2002). Short-term heart rate
+Wager, T. D., Waugh, C. E., Lindquist, M., Noll, D. C., Fredrickson, B. L., and variability during a cognitive challenge in young and older adults. Age Ageing
+   Taylor, S. F. (2009b). Brain mediators of cardiovascular responses to social 31, 131–135. doi: 10.1093/ageing/31.2.131
+   threat. Part I: reciprocal dorsal and ventral sub-regions of the medial prefrontal Wu, S.-D., and Lo, P.-C. (2008). Inward-attention meditation increases
+   cortex and heart-rate reactivity. Neuroimage 47, 821–835. doi: 10.1016/j. parasympathetic activity: a study based on heart rate variability. Biomed. Res.
+   neuroimage.2009.05.043                                                  29, 245–250. doi: 10.2220/biomedres.29.245
+Wahbeh, H., Elsas, S. M., and Oken, B. S. (2008). Mind-body interventions: Wu, Y., Wang, Y., Burgess, E. O., and Wu, J. (2013). The effects of Tai Chi exercise
+   applications in neurology. Neurology 70, 2321–2328. doi: 10.1212/01.wnl. on cognitive function in older adults: a meta-analysis. J. Sport Health Sci. 2,
+   0000314667.16386.5e                                                     193–203. doi: 10.1016/j.jshs.2013.09.001
+Walton, K. G., Schneider, R. H., and Nidich, S. (2004). Review of controlled Xue, S., Tang, Y.-Y., and Posner, M. I. (2011). Short-term meditation increases
+   research on the transcendental meditation program and cardiovascular    network efficiency of the anterior cingulate cortex. Neuroreport 22, 570–574.
+   disease. Risk factors, morbidity and mortality. Cardiol. Rev. 12, 262–266. doi: 10.1097/wnr.0b013e328348c750
+   doi: 10.1097/01.crd.0000113021.96119.78                              Yerkes, R. M., and Dodson, J. D. (1908). The relation of strength of stimulus
+Wang, C., Bannuru, R., Ramel, J., Kupelnick, B., Scott, T., and Schmid, C. H. to rapidity of habit-formation. J. Comp. Neurol. Psychol. 18, 459–482.
+   (2010a). Tai Chi on psychological well-being: systematic review and meta- doi: 10.1002/cne.920180503
+   analysis. BMC Complement. Altern. Med.  10:23. doi: 10.1186/1472-68  Yin, S., Zhu, X., Li, R., Niu, Y., Wang, B., Zheng, Z., et al. (2014). Intervention-
+   82-10-23                                                                induced enhancement in intrinsic brain activity in healthy older adults. Sci. Rep.
+Wang, S.-Z., Li, S., Xu, X.-Y., Lin, G.-P., Shao, L., Zhao, Y., et al. (2010b). Effect 4:7309. doi: 10.1038/srep07309
+   of slow abdominal breathing combined with biofeedback on blood pressure Ylikoski, J., Lehtimäki, J., Pirvola, U., Mäkitie, A., Aarnisalo, A., Hyvärinen, P.,
+   and heart rate variability in prehypertension. J. Altern. Complement Med. 16, et al. (2017). Non-invasive vagus nerve stimulation reduces sympathetic
+   1039–1045. doi: 10.10.1089/acm.2009.0577                                preponderance in patients with tinnitus. Acta Otolaryngol. 137, 426–431.
+Wang, F., Lee, E. K., Wu, T., Benson, H., Fricchione, G. F., Wang, W., et al. doi: 10.1080/00016489.2016.1269197
+   (2013). The effects of tai chi on depression, anxiety and psychological well- Yuan, H., and Silberstein, S. D. (2016a). Vagus nerve and vagus nerve stimulation,
+   being: a systematic review and meta-analysis. Int. J. Behav. Med. 21, 605–617. a comprehensive review: Part I. Headache 56, 71–78. doi: 10.1111/head.12647
+   doi: 10.1007/s12529-013-9351-9                                       Yuan, H., and Silberstein, S. D. (2016b). Vagus nerve and vagus nerve stimulation,
+Wang, X., Thayer, J. F., Treiber, F., and Snieder, H. (2005). Ethnic differences and a comprehensive review: Part II. Headache 56, 259–266. doi: 10.1111/head.
+   heritability of heart rate variability in African- and European American youth. 12650
+   Am. J. Cardiol. 96, 1166–1172. doi: 10.1016/j.amjcard.2005.06.050    Yuan, H., and Silberstein, S. D. (2016c). Vagus nerve and vagus nerve stimulation,
+Wang, Z., Yu, L., Huang, B., Wang, S., Liao, K., Saren, G., et al. (2015). Low-level a comprehensive review: Part III. Headache 56, 479–490. doi: 10.1111/head.
+   transcutaneous electrical stimulation of the auricular branch of vagus nerve 12649
+   ameliorates left ventricular remodeling and dysfunction by downregulation of Zahn, D., Adams, J., Krohn, J., Wenzel, M., Mann, C. G., Gomille, L. K., et al.
+   matrix metalloproteinase 9 and transforming growth factor β1. J. Cardiovasc. (2016). Heart rate variability and self-control—A meta-analysis. Biol. Psychol.
+   Pharmacol. 65, 342–348. doi: 10.1097/fjc.0000000000000201               115, 9–26. doi: 10.1016/j.biopsycho.2015.12.007
+Wang, Z., Yu, L., Wang, S., Huang, B., Liao, K., Saren, G., et al. (2014). Chronic Zeidan, F., Johnson, S. K., Diamond, B. J., David, Z., and Goolkasian, P. (2010).
+   intermittent low-level transcutaneous electrical stimulation of auricular Mindfulness meditation improves cognition: evidence of brief mental training.
+   branch of vagus nerve improves left ventricular remodeling in conscious Conscious. Cogn. 19, 597–605. doi: 10.1016/j.concog.2010.03.014
+   dogs with healed myocardial infarction. Circ. Heart Fail. 7, 1014–1021. Zelazo, P. D., Craik, F. I. M., and Booth, L. (2004). Executive function across the
+   doi: 10.1161/CIRCHEARTFAILURE.114.001564                                life span. Acta Psychol. 115, 167–183. doi: 10.1016/j.actpsy.2003.12.005
+Ward, A. M., Schultz, A. P., Huijbers, W., Van Dijk, K. R. A., Hedden, T., and Zhang, S., Hu, S., Chao, H. H., Ide, J. S., Luo, X., Farr, O. M., et al. (2014).
+   Sperling, R. A. (2014). The parahippocampal gyrus links the default-mode Ventromedial prefrontal cortex and the regulation of physiological
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org                 24                                    October 2018 | Volume 12 | Article 397
+Gerritsen and Band                                                                                            Breathing in Contemplative Practice
+
+
+   arousal. Soc. Cogn. Affect. Neurosci. 9, 900–908. doi: 10.1093/scan/ Conﬂict of Interest Statement: The authors declare that the research was
+   nst064                                                               conducted in the absence of any commercial or financial relationships that could
+Zheng, G., Liu, F., Li, S., Huang, M., Tao, J., and Chen, L. (2015). Tai Chi and be construed as a potential conflict of interest.
+   the protection of cognitive ability: a systematic review of prospective studies
+   in healthy adults. Am. J. Prev. Med. 49, 89–97. doi: 10.1016/j.amepre.2015. Copyright © 2018 Gerritsen and Band. This is an open-access article distributed
+   01.002                                                               under the terms of the Creative Commons Attribution License (CC BY). The use,
+Zhou, X., Zhou, L., Wang, S., Yu, L., Wang, Z., Huang, B., et al. (2016). The use of distribution or reproduction in other forums is permitted, provided the original
+   noninvasive vagal nerve stimulation to inhibit sympathetically induced sinus author(s) and the copyright owner(s) are credited and that the original publication
+   node acceleration: a potential therapeutic approach for inappropriate sinus in this journal is cited, in accordance with accepted academic practice. No use,
+   tachycardia. J. Cardiovasc. Electrophysiol. 27, 217–223. doi: 10.1111/jce.12859 distribution or reproduction is permitted which does not comply with these terms.
+
+
+Frontiers in Human Neuroscience| www.frontiersin.org                 25                                    October 2018 | Volume 12 | Article 397

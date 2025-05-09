@@ -1,0 +1,823 @@
+Brain education-based meditation for patients
+with hypertension and/or type 2 diabetes
+A pilot randomized controlled trial
+Seung-Ho Lee, PhDa,b, Sun-Mi Hwang, MSc
+, Do-Hyung Kang, MD, PhDd
+, Hyun-Jeong Yang, PhDa,e,f,∗
+Abstract
+Background: Hypertension and type 2 diabetes are chronic diseases, which generally require lifetime care. Meditation and yoga
+can be complementary to pharmacological therapies according to the scientific evidences so far. Brain education-based meditation
+(BEM) is a technique, which has been known to change brain structure, psychology, and physiology of healthy adult participants. This
+randomized, nonblinded pilot trial aimed to examine whether BEM affects the conditions of patients with hypertension and/or type 2
+diabetes compared with health education classes.
+Methods: We randomly allocated 48 patients with hypertension and/or type 2 diabetes to BEM (n=24) or health education (n=24)
+classes in the Ulsan Junggu Public Health Center in Korea, where the classes were run during the same period and explored the impact
+of 8-week practice on the serum glutamic-oxaloacetic transaminase, serum glutamic pyruvic transaminase, gamma glutamyl
+transpeptidase, creatinine, high-density lipoprotein cholesterol, and low-density lipoprotein (LDL) cholesterol. Total RNA was extracted
+to examine inflammatory gene expressions from the whole blood using PAXgene blood RNA System. In addition, self-reports on mental/
+physical health were evaluated. The Student’s t test, chi-squared test, and analysis of covariance were used for statistical analysis.
+Results: The number of people who participated until the completion of the study was 14 in the control and 21 in the BEM group.
+After 8 weeks, LDL cholesterol level was significantly decreased in the BEM group after the intervention (13.82mg/dL reduction,
+P<.05), while it was not significantly altered in the control group. The expression of inflammatory genes was significantly reduced
+after 8 weeks of the BEM training (0.3-, 0.5-, and 0.2-fold change for NFKB2, RELA, and IL1B, respectively, all P<.05). In the item
+analysis of mental/physical health self-reports, a significant improvement was confirmed as follows: increases in focus, confidence,
+relaxation, and happiness; decreases in fatigue, anger, and loneliness (all P<.05). There were no important adverse events or sideeffects by BEM intervention.
+Conclusion: Compared to health education, BEM helps lower LDL cholesterol level and the inflammatory gene expression in the
+patients with hypertension and/or type 2 diabetes. Moreover, BEM induces positive effects on the self-reported mental/physical
+states, warranting further study.
+Abbreviations: ANCOVA = analysis of covariance, BEM = brain education-based meditation, GGT = g-glutamyl transferase,
+HDL = high-density lipoprotein, HPA = hypothalamic–pituitary–adrenal, IL1B = interleukin 1 beta, LDL = low-density lipoprotein, NFkB = nuclear factor kappa B subunit, SGOT = serum glutamic-oxaloacetic transaminase, SGPT = serum glutamic pyruvic
+transaminase.
+Keywords: brain education-based meditation, hypertension, inflammatory gene, low-density lipoprotein cholesterol, type 2
+diabetes
+1. Introduction
+There were 1.13 billion people worldwide with high blood
+pressure in 2015[1] and 422 million people with diabetes in
+2014,[2] respectively. Hypertension and type 2 diabetes can cause
+other fatal complications. For example, pooled data from 54
+countries show that at least 80% of cases of end-stage renal
+disease are caused by diabetes, hypertension, or a combination of
+the 2.[3] Furthermore, adults with diabetes have a 2 or 3 times
+higher rate of cardiovascular disease than adults without
+diabetes.[4]
+Many evidences have shown that stress affects the risk of the
+hypertension. Temporary increase in blood pressure appears as
+part of the immediate response to stress; exposure to stress for
+long period may contribute to the development of persistent
+hypertension.[5] Indeed, stress increases the sympathetic nervous
+activity, for example, elevation of blood pressure.[6,7] In addition,
+stress affects the risks of type 2 diabetes. Activation of the
+physiologic stress response from chronic exposure to stressors,
+low socioeconomic status, severe mental health problems, or
+aggressive behavior increases the risk of type 2 diabetes.[8]
+Exposure to chronic stressors lead to health-adverse behaviors
+and physiologic stress response, resulting in chronic subclinical
+inflammation, followed by central obesity, insulin resistance,
+dyslipidemia, hypertension, and depression, eventually causing
+type 2 diabetes or cardiovascular diseases.[8]
+Low-density lipoprotein (LDL) cholesterol contributes to fat
+accumulation in arteries; this narrows the arteries, induces
+hypertension, increases the risk of cardiovascular diseases; LDL
+cholesterol-lowering therapy reduces the risk of cardiovascular
+disease.[9] In the action of drugs for type 2 diabetes, LDL was
+found to be included in the mechanism, suggesting the close
+relations between type 2 diabetes and LDL.[10] Moreover
+interestingly, LDL seems also affected by higher function of
+human brain. Chronic work stress elevates serum LDL
+cholesterol in an occupationally homogeneous group of healthy
+middle-aged men.[11] Moreover, higher LDL cholesterol was
+found in participants with higher self-perceived stress scores.[12]
+These studies imply the relationship between stress and LDL
+cholesterol.
+In inflammation, nuclear factor kappa B subunit (NF-kB)
+family is activated by canonical and noncanonical signaling
+pathways. The noncanonical NF-kB pathway, which includes
+NFKB2 and RELB, has been revealed to be involved with
+metabolic diseases such as obesity and type 2 diabetes.[13–15]
+Psychological stress contributes to chronic activation of acutephase inflammation.[16] As mentioned above, stress increases the
+risk of hypertension/type 2 diabetes. Inflammation has been
+shown to play an important role in the pathogenesis of type 2
+diabetes[17] and hypertension.[18]
+Brain education-based meditation (BEM) is a training system
+applying 5 steps of brain education (BE), which is a modernized
+method of traditional mind–body training in Korea[19] and has
+been also known as brain wave vibration meditation.[20–31] Since
+BEM has both the characteristics of yoga and meditation, it is
+involved in the improvement of both physical and mental features
+of participants. Its effects have been investigated in various
+settings such as randomized controlled trials for novice or crosssectional studies for long-term meditators; off/online training;
+healthy individuals, and breast cancer patients. They include
+psychological improvements such as decreases in stress,[24]
+anxiety,[28] depression,[23] fatigue[28] and increases in positive
+effect,[24] quality of life[28]; behavioral improvements such as
+increases in sleep quality,[22,23] problem solving[31]; physiological
+effects such as increases in plasma nitric oxide,[21] dopamine,[24]
+and interleukin 10[30]; brain structural changes such as
+thickening of prefrontal cortex area[27] and alterations in
+conectivities between insula and several brain regions.[20]
+Findings in certain psychological improvements indicate its
+association with epigenetic changes.[26,29]
+Since mental health significantly affects hypertension and type
+2 diabetes,[8] BEM, which improves mental health, may have
+beneficial effects on the physiology of the diseases. People with
+hypertension and/or type 2 diabetes should control the body
+condition throughout their lifetime, and nonpharmacological
+interventions can be used as complementary treatments. This
+suggests that mind–body interventions such as BEM may be
+beneficial. However, there have been no studies of BEM on
+patients with hypertension and/or type 2 diabetes. Herein, we
+performed a randomized controlled pilot trial to investigate the
+effectiveness of BEM on physiological and psychological changes
+in people with hypertension and/or type 2 diabetes under
+medication.
+2. Methods
+2.1. Participants
+The research was approved by the Ethics Committee of the
+University of Brain Education (IRB201709-01) and informed
+consents were obtained for experimentation with all the
+participants. The participants with hypertension and/or type 2
+diabetes under regular medication, aged 57 to 87 years, were
+recruited among registered patients in the Hypertension/Diabetes
+Registration Education Center of the Ulsan Junggu Public Health
+Center in Republic of Korea through advertisements over 1
+month (September 2017). Excluded were people who have other
+diseases except hypertension/type 2 diabetes. Forty-nine participants were recruited and 1 person declined to participate because
+of the schedule. They were simply randomized into 2 groups by a
+computer-generated list of random numbers, each including 24
+people. Thirty-five participants (BEM: 21; control: 14) completed
+the study, with 13 dropouts (BEM: 3; control: 10). The dropouts
+said their schedules do not fit the experimental schedule (2
+controls) or they do not have interests (BEM: 3; control: 8)
+(Supplemental Content 1, http://links.lww.com/MD/C971).
+For inflammatory gene expression analysis, a matched group
+design was used: 9 people were equally selected from the aboverandomized groups in terms of sex, diseases, and age (Table 5).
+Fourteen participants (BEM: 8; control: 6) completed the study,
+with 4 dropouts (BEM: 1; control: 3). The dropouts said they do
+not have interests.
+Random allocation sequence was generated by the researchers.
+Staffs of the Ulsan Junggu Public Health Center, who do not
+know the detail of the research, enrolled participants and
+assigned participants to interventions.
+2.2. Interventions
+The participants allocated to the BEM group attended BEM
+classes, designed to improve the conditions of patients of
+hypertension and/or type 2 diabetes, 16 times during 8 weeks
+(twice per week, from October 10, 2017 to December 1, 2017),
+while the participants in the control group participated in the
+health education class provided by the Ulsan Junggu Public
+Health Center. The BEM classes were taught by a certified
+BRAIN TRAINER (Korean Government Certification 2016-14),
+who is a trained instructor for BEM. The BEM classes basically
+followed as described previously[23] with slight modifications;
+each week has an individual topic following BE 5 steps
+(Supplemental Content 3, http://links.lww.com/MD/C971).
+The attendance of participants was taken care of by the
+education center during the study. Full protocols are available
+from the authors on request.
+2.3. Blood preparations and biochemical measurements
+Venous blood was collected by phlebotomy with butterfly needle
+from subjects with their consent in the Ulsan Junggu Public
+Health Center. Excessive exercise, herbal medicine, and fasting
+were prohibited for 1 week before the blood collection, as well as
+during the experimental period. Sampling was performed after 8
+hours of fasting. Blood was collected into serum separating tube
+(5mL) and PAXgene tube (2.5mL blood + 6.9 mL buffer). All the
+samples were inverted 10 times immediately after the collection.
+Serum separating tubes underwent centrifugation and serum was
+collected to measure serum glutamic-oxaloacetic transaminase
+(SGOT), serum glutamic pyruvic transaminase (SGPT), g-glutamyl transferase (GGT), creatinine, high-density lipoprotein
+(HDL) cholesterol, and LDL cholesterol. The biochemical
+measurements were performed on the same day in the pathology
+laboratory of the Ulsan Junggu Public Health Center by COBAS
+INTEGRA 400 PLUS/800 analyzers. PAXgene RNA tubes were
+transferred in room temperature to the University of Brain
+Education on the same day and stored at 80°C upon arrival
+until RNA isolation.
+2.4. Total RNA extraction, cDNA synthesis, and real-time
+quantitative polymerase chain reaction
+For this purpose, initially 9 participants per group were selected
+by matching sex, diseases, and age (Table 5). Because of the high
+expense of the experiment, not all the participants were included
+for RNA extraction, followed by cDNA synthesis and qPCR.
+Among them, 6 and 8 participants in the control and BEM
+groups, respectively, completed the designed study (Table 6). For
+RNA isolation, the frozen blood samples were returned to room
+temperature, and procedures followed the “Purification of Total
+RNA from human whole Blood Collected into PAXgene Blood
+RNA Tubes” protocol in the PAXgene Blood RNA Kit
+Handbook (PreAnalytiX GmbH, 08/2005, REF: 762174),
+including a DNAse treatment. cDNA was synthesized from
+0.5mg total RNA using the Super Script IV Reverse Transcriptase
+(Invitrogen, Cat No. 18090010, Carlsbad, California) following
+the manufacturer’s guidelines with Oligo-dT primer. For qPCR,
+each reaction comprised of 7.5mL 2 PowerUp SYBR Green
+Master Mix (A25780, Applied biosystems, Waltham, MA), 0.9m
+L 10mM primer mix, 1.6mL ultrapure water, and 5mL cDNA
+(1:10). Samples were then amplified on an ABI StepOnePlus.
+Following specific primer sets were used for each gene: NFKB2
+(forward, 50
+-CCATTGTGGAACCCAAGGAG-30
+; reverse, 50
+-
+GGATAGGTCTTTCGGCCCTT-30
+), RELA (forward, 50
+-
+GATACCACCAAGACCCACCC-30
+; reverse, 50
+-GCTCAGCCTCATAGAAGCCAT-30
+), RELB (forward, 50
+-CTCGTGGGGAAAGACTGCAC-30
+; reverse, 50
+-TCCTGATGGTTCTTCAGGGAC30
+), interleukin 1 beta (IL1B) (forward, 50
+-GGG ACA GGA TAT
+GGA GCA AC-30
+; reverse, 50
+-CGCTTTTCCATCTTCTTCTTT
+GG-30
+), and ACTB (forward, 50
+-CATCGAGCACGG
+CATCGTCA-30
+; reverse, 50
+-TAGCACAGCCTGGATAGCAAC30
+). ACTB was used as a reference gene. All the reactions were
+carried out in triplicate.
+2.5. Mental/physical health self-reports
+Self-report questionnaires were used in this study to assess mental
+and physical health. The questionnaires were reconstructed on
+the basis of the Personality Assessment Inventory[32] and
+Minnesota Multiphasic Personality Inventory.[33] In particular,
+the scales were validated for the elderly, based on the dynamic
+aspects of everyday life and the static aspects of the individual life
+cycle. Both mental and physical health self-reports are composed
+of 20 items, using a 5-point Likert-type scale ranging from “1 =
+strongly disagree” to “5 = strongly agree.” In the scoring
+calculation, positive items (Table 3: Item no. 1, 3, 4, 5, 6, 7, 8, 11,
+12, 14, 17, 18, 20; Table 4: Item no. 1, 4, 7, 9, 11, 12, 13) were
+reversed scored so that lower scores reflect a healthier state and
+they can be included in the total scale scores. The internal
+consistency for the scales in the study was acceptable with
+Cronbach alpha values 0.93 (mental health) and 0.86 (physical
+health).
+2.6. Statistical data analysis
+All data analyses were done in blind manner without knowing the
+group information. Analyses for self-reports and blood tests were
+conducted with the SPSS 18.0 software package (IBM, Seoul). Chisquared (for gender and disease) and independent samples t tests
+(for age, self-reports, biochemical analysis, and inflammatory gene
+expression analysis) were performed to assess the success of
+randomization and examine pretest differences between groups.
+The statistical significance of pre–post differences within each
+group and between groups was verified by paired samples t tests
+and independent samples t tests. Statistical values of the Welch–
+Aspin test were used when Levene’s equivariant was not assumed
+in the independent samples t test. When the postscores between
+groups were statistically significant by independent samplest tests,
+with low P value of the prescore (.05<P<1.00), the difference
+between groups was finally analyzed by analysis of covariance
+(ANCOVA), which controls prescores.
+3. Results
+3.1. Comparison of blood biochemical characteristics
+between meditation and control group
+In this pilot study, to find out the complementary effects of BEM
+on the health state of the patients, subjects who have diagnosed
+with hypertension and/or type 2 diabetes under medication
+participated in either BEM or health education class, both of
+which were run by the public healthcare center during the same
+period. The subjects were randomly allocated into 2 groups
+(Table 1, Supplemental Content 1, http://links.lww.com/MD/
+C971). The numbers of people who participated in the
+premeasurement were 24 (BEM) and 22 (control), and there
+were no significant differences in the ratio of sex (50% each),
+disease (P=.42, chi-squared test), and age (P=.36, independent
+samplest test) between them. The period after the initial diagnosis
+of type 2 diabetes and hypertension was 8.84±2.94 and 8.94±
+Baseline characteristics of randomized participants.
+BEM (n=24) Control (n=22) Total (n=46)
+Characteristics n % n % n % P
+Sex
+Male 12 50 11 50 23 50 1.00
+Female 12 50 11 50 23 50
+Diseases
+Hypertension 12 50 10 45.5 22 47.8 .42
+Diabetes 6 25 3 13.6 9 19.6
+Hyper. + Dia. 6 25 9 40.9 15 32.6
+Mean SD Mean SD DMean P
+Age 67.88 4.95 69.55 7.22 1.67 .36
+Self-reports
+Mental health 54.54 9.39 56.82 11.82 2.28 .47
+Physical health 56.46 7.86 59.50 10.50 3.04 .26
+Blood tests
+SGOT, U/L 30.38 9.44 31.27 11.70 0.90 .77
+SGPT, U/L 26.54 15.97 24.27 10.42 2.27 .57
+GGT, U/L 26.33 14.74 33.14 20.53 6.80 .20
+Creatinine, mg/dL 0.98 0.95 0.71 0.16 0.27 .18
+HDL Chol, mg/dL 51.29 13.05 46.00 10.75 5.29 .14
+LDL Chol, mg/dL 105.76 31.35 103.18 44.54 2.58 .82
+Chi-squared (sex and diseases) and independent samples t tests (self-reports and blood tests) were performed to assess the success of randomization and to examine the pretest differences between groups.
+BEM=brain education-based meditation, Chol=cholesterol, Dia.=diabetes, GGT=g-glutamyl transferase, HDL=high-density lipoprotein, Hyper.=hypertension, LDL=low-density lipoprotein, SD=standard
+deviation, SGOT=serum glutamic-oxaloacetic transaminase, SGPT=serum glutamic pyruvic transaminase.
+2.39 years, respectively, for BEM; 5.02±2.01 and 8.00±2.59
+years, respectively, for control (average ± standard error of the
+mean, Supplemental Content 2, http://links.lww.com/MD/
+C971). There were no significant differences in the baseline
+scores of the groups for mental and physical health scores, SGOT,
+SGPT, GGT, creatinine, HDL, and LDL cholesterol, as examined
+by independent samples t test (Table 1). There were 3 (BEM) and
+8 (control) dropouts, resulting in 21 (BEM) and 14 (control)
+participants for the final analysis (Table 2). The BEM group with
+high attendance (BEM [Att≥5]) was analyzed additionally.
+There were no significant differences in the premeasurement of
+the above-mentioned parameters between the control and BEM
+group (or BEM [Att≥5]) (Table 2).
+The results showed no significant changes between BEM and
+control, as well as between preintervention and postintervention
+of each group in SGOT, SGPT, GGT, creatinine, and HDL
+cholesterol (Table 2). However, LDL level in the total BEM group
+was significantly reduced after the intervention (13.82mg/dL
+reduction, #
+P=.04, paired samples t test, n=21) (Table 2,
+Fig. 1H). The D LDL cholesterol level (=LDL [post]  LDL [pre])
+was significantly lower in the BEM (Att≥5) (∗
+P=.04, independent samples t test, Fig. 1H) as well as the total BEM group
+(
+∗
+P=.01, independent samples t test, Fig. 1H) than the control
+group, while other markers did not show significant changes
+(Fig. 1A–G).
+3.2. Comparison of self-report scores between meditation
+and control group
+To check whether the BEM program affects the mental and
+physical health state, the subjects were asked to complete selfreport questionnaires. In the physical health self-report, the score
+of 1 item “I always feel tired” showed significant reductions
+(better physical health) after the intervention (BEM=2.76±0.77
+[n=21], Cont=3.36±0.93 [n=14], P=.04, independent samples t test), while other items did not show significant changes
+(Table 3). When the mental health scores were compared between
+preintervention and postintervention, there were significant
+reductions in scores (meaning better mental health) only in the
+BEM group for the following items (Table 4): “I feel
+comfortable” (pre=3.24±1.00, post=2.76±0.94, P=.03,
+paired samples t test, n=21), “Sometimes I get angry without
+a reason” (pre=2.52±0.93, post=2.14±0.65, P=.02, paired
+sample t test, n=21), and “These days are the happiest days in my
+life” (pre=3.10±0.77, post=2.76±0.70, P=.01, paired samples t test, n=21). When the mental health scores of postintervention between BEM and control were compared, there
+were significant reductions (thus, better mental health) in the
+BEM group than in the control group in the following items:
+“Sometimes I get angry without a reason” (BEM=2.14±0.65
+[n=21], Cont=2.79±1.12 [n=14], P=.04, independent samples t test), “Sometimes my thoughts are all mixed up” (BEM=
+2.38±0.59 [n=21], Cont=3.14±0.77 [n=14], P<.01, independent samples t test), “No one is close to me” (BEM=2.14±
+0.65 [n=21], Cont=3.07±1.21 [n=14], P=.01, independent
+samples t test), and “I have a confidence that I can do anything”
+(BEM=2.52±0.81 [n=21], Cont=3.50±0.94 [n=14], P<.01,
+independent samples t test). ANCOVA was performed for
+following 2 items with low P value (.05<P<.10) in the prescores
+between groups: “No one is close to me” (ANCOVA SS(I)=2.60,
+df=1, F=4.34, P=.04) and “I have a confidence that I can do
+anything” (ANCOVA SS(I)=3.38, df=1, F=6.20, P=.01). The
+results indicate that BEM has significant reductions in mental
+scores (thus, better mental health) in both items. To summarize,
+BEM intervention was beneficial for physical health in terms of
+fatigue relief (item no. 9). Moreover, it was beneficial for mental
+health in the following aspects: increases in relaxation (item no.
+1), focus (item no. 5), happiness (item no. 7), and confidence (item
+Pre and post mean, SD, t test for self-reports and blood tests.
+BEM (Att≥5) BEM Control
+(n=8) (n=21) (n=14) BEM (Att≥5)
+vs control
+BEM vs
+control
+Pre vs post
+n % n % n% P P
+Sex
+Male 4 50 11 52.4 9 64.3 — .48 BEM
+(Att≥5)
+BEM Control
+Female 4 50 10 47.6 5 35.7
+Mean SD Mean SD Mean SD PP P PP
+Age 66.88 4.61 68.48 4.96 68.29 5.24 .52 .91 — ——
+Self-reports
+Mental health Pre 53.00 9.20 55.10 9.77 56.93 15.00 .51 .66 .59 .12 .87
+Post 52.13 6.17 53.29 7.35 57.43 13.82 .32 .25
+Physical health Pre 52.00 5.13 56.43 7.74 59.36 12.94 .07 .40 .95 .32 .38
+Post 51.88 7.43 54.86 8.66 57.43 12.83 .27 .48
+Blood tests
+SGOT, U/L Pre 26.13 5.91 31.24 9.79 31.79 11.83 .15 .88 .28 .56 .95
+Post 36.13 25.51 33.43 17.79 31.57 16.01 .61 .75
+SGPT, U/L Pre 27.00 23.26 27.67 16.80 23.29 10.18 .60 .38 .68 .55 .41
+Post 22.33 16.23 25.12 12.78 20.93 8.99 .79 .29
+GGT, U/L Pre 20.38 9.65 26.81 15.04 31.00 24.20 .16 .53 .50 .65 .79
+Post 21.75 11.79 26.10 13.18 32.56 26.55 .20 .34
+Creatinine, mg/dL Pre 0.71 0.19 0.97 0.98 0.71 0.14 .97 .13 .06 .34 .87
+Post 0.76 0.18 0.77 0.30 0.72 0.15 .54 .55
+HDL Chol, mg/dL Pre 52.63 14.55 49.33 12.35 44.79 10.33 .15 .26 .39 .89 .19
+Post 49.25 16.63 49.10 13.07 47.71 10.51 .81 .74
+LDL Chol, mg/dL Pre 98.13 36.33 104.49 32.73 86.57 35.82 .47 .13 .22 .04 .14
+Post 80.25 40.13 90.67 35.54 97.36 38.14 .33 .60
+“BEM (Att≥5)” presents BEM group with high attendance rate: more than 5 times of attendance. Chi-squared was used to test the sex homogeneity between groups (BEM vs control). It was not performed in
+“BEM (Att≥5)” group, because of a small sample size (n=4 for male and 4 for female). Student independent t tests were conducted to contrast the mean value differences between groups (BEM (Att≥5) vs
+control or BEM vs control) at preintervention and postintervention. Paired sample t tests were performed to compare the means from the same group of different time points (pre vs post). A lower score in the selfreports is associated with a healthier state of the body.
+Att=attendance, BEM=brain education-based meditation, Chol=cholesterol, GGT=g-glutamyl transferase, HDL=high-density lipoprotein, LDL=low-density lipoprotein, Post=postintervention, Pre=
+preintervention, SD=standard deviation, SGOT=serum glutamic-oxaloacetic transaminase, SGPT=serum glutamic pyruvic transaminase.
+Alterations in values of self-reports and blood markers between preintervention and postintervention. “BEM (Att≥5)” presents brain education-based
+meditation (BEM) group with high attendance rate: more than 5 times of attendance. The indicated values stand for the subtraction of values at preintervention from
+values at postintervention. Dots at the midline (y=0) mean no changes between the values of preintervention and postintervention. The values of following selfreports and blood markers are shown: (A) mental health; (B) physical health; (C) serum glutamic-oxaloacetic transaminase (SGOT); (D) serum glutamic pyruvic
+transaminase (SGPT); (E) g-glutamyl transferase (GGT); (F) creatinine; (G) high-density lipoprotein (HDL) cholesterol; (H) low-density lipoprotein (LDL) cholesterol. ∗
+P=.04, an independent samples t test between BEM (Att≥5) and control; ∗
+P=.01, an independent samples t test between BEM and control; #
+P=.04, a paired
+samples t test from the same group at preintervention and postintervention; n=8 (BEM (Att≥5)), 21 (BEM), and 14 (control). Dots and error bars indicate the mean
+values and standard of errors, respectively. Att=attendance, GGT=g-Glutamyl transferase, HDL=high-density lipoprotein, LDL=low-density lipoprotein, SGOT=
+serum glutamic-oxaloacetic transaminase, SGPT=serum glutamic pyruvic transaminase.
+Pre and post mean, SD, t tests for physical health score.
+BEM (n=21) Cont (n=14) BEM vs cont
+Mean SD
+Pre vs post,
+Mean SD
+Pre vs post,
+P PP
+1. I am physically healthy
+Pre 3.00 0.89 .64 3.36 1.01 .05 .27
+Post 3.10 0.77 2.93 1.14 .60
+2. I have restrictions on physical activity due to my physical condition
+Pre 2.71 1.15 .57 2.64 1.34 .88 .86
+Post 2.81 0.98 2.71 1.07 .78
+3. My weight is quite stable
+Pre 2.81 1.03 .24 2.79 1.19 .53 .95
+Post 2.52 0.87 2.57 1.16 .89
+4. I am rarely worried about my health
+Pre 3.24 1.18 1.00 3.29 1.20 .67 .90
+Post 3.24 0.89 3.14 0.95 .76
+5. I do not get tired easily when I work
+Pre 2.67 1.06 .39 3.00 1.18 .61 .39
+Post 2.90 0.83 2.86 0.86 .87
+6. My health condition is good
+Pre 3.33 0.86 .64 3.43 1.22 .26 .80
+Post 3.24 0.83 3.14 1.03 .76
+7. I eat well
+Pre 2.10 0.70 .82 2.29 0.47 1.00 .37
+Post 2.14 0.48 2.29 0.73 .48
+8. I maintain my health
+Pre 2.48 0.68 1.00 2.57 0.76 1.00 .70
+Post 2.48 0.60 2.57 0.94 .71
+9. I always feel tired
+Pre 3.14 0.96 .05 3.07 1.00 .21 .83
+Post 2.76 0.77 3.36 0.93 .04
+10. I have very complicated health issues
+Pre 2.95 1.12 .82 2.64 0.84 .67 .38
+Post 2.90 1.04 2.57 1.02 .35
+11. Over the past few years I have been generally healthy
+Pre 2.62 0.80 .78 2.93 1.00 .67 .31
+Post 2.57 0.81 3.00 1.04 .18
+12. I feel energetic in daily life
+Pre 3.19 0.75 .05 3.57 1.16 .11 .28
+Post 2.90 0.77 3.07 0.83 .54
+13. I often have a fitful night’s sleep
+Pre 3.10 1.09 1.00 2.86 1.29 .48 .56
+Post 3.10 0.83 3.07 1.14 .94
+14. Now I am healthier than ever
+Pre 3.19 0.75 .17 3.36 1.01 .30 .57
+Post 2.95 0.74 3.07 0.83 .66
+15. My head is always aching
+Pre 2.19 1.12 .72 2.64 0.84 .05 .20
+Post 2.29 0.85 2.29 0.83 1.00
+16. Sometimes I feel pain only by touching my head
+Pre 1.90 0.77 .41 2.43 1.16 .45 .11
+Post 2.05 0.67 2.71 1.20 .07
+17. I get a regular checkup
+Pre 2.10 0.70 .54 2.50 0.85 1.00 .15
+Post 2.00 0.00 2.50 1.09 .11
+18. I take nutritional supplements or herbal tonics
+Pre 3.76 1.00 .08 3.86 1.03 .09 .78
+Post 3.29 1.06 3.21 1.25 .85
+19. My arms and legs feel weak
+Pre 2.71 0.90 .29 2.71 1.07 .38 1.00
+Post 2.52 0.93 2.93 1.07 .24
+20. I feel more alive than ever
+Pre 3.24 0.70 .18 3.43 1.02 1.00 .51
+Post 3.10 0.70 3.43 0.94 .21
+Student independent t tests were conducted to contrast the mean value differences for the groups at preintervention and postintervention. Paired samples t tests were performed to compare the means from the
+same group at different time points. A statistically significant item is indicated in block letters (item 9).
+BEM=brain education-based meditation, cont=control, Post=postintervention, Pre=preintervention, SD=standard deviation.
+Pre and post mean, SD, t tests for mental health scores.
+BEM (n=21) Cont (n=14) BEM vs cont
+Mean SD
+Pre vs post,
+Mean SD
+Pre vs post,
+P PP
+1. I feel comfortable
+Pre 3.24 1.00 .03 2.86 0.95 .58 .26
+Post 2.76 0.94 2.71 0.99 .88
+2. Sometimes I feel scared without a reason
+Pre 2.81 0.93 1.00 2.43 0.94 .13 .24
+Post 2.81 0.87 2.86 1.17 .89
+3. Sometimes I get angry without a reason
+Pre 2.52 0.93 .02 2.86 1.10 .85 .34
+Post 2.14 0.65 2.79 1.12 .04
+4. My memory is good
+Pre 2.95 0.80 .71 3.14 1.17 .75 .57
+Post 3.00 0.77 3.21 0.80 .43
+5. Sometimes my thoughts are all mixed up
+Pre 2.52 0.75 .41 2.86 1.23 .43 .37
+Post 2.38 0.59 3.14 0.77 .00
+6. Sometimes I am so anxious that I feel like I will die
+Pre 2.24 1.00 .80 2.36 0.93 .38 .72
+Post 2.29 0.56 2.14 0.53 .45
+7. These days are the happiest days in my life
+Pre 3.10 0.77 .01 2.79 0.97 .27 .30
+Post 2.76 0.70 3.00 1.11 .44
+8. I often feel lonely
+Pre 2.52 0.98 .20 3.00 1.18 .56 .20
+Post 2.76 0.94 3.21 1.12 .20
+9. I think there will be a lot of fun around me
+Pre 2.67 0.80 .37 3.14 0.86 .13 .10
+Post 2.81 0.75 2.79 0.97 .93
+10. No one is close to me∗
+Pre 2.29 0.64 .48 3.00 1.30 .79 .07
+Post 2.14 0.65 3.07 1.21 .01
+11. I have a confidence that I can do anything†
+Pre 2.67 0.86 .41 3.29 1.07 .42 .06
+Post 2.52 0.81 3.50 0.94 .00
+12. I am satisfied with my current life
+Pre 2.57 0.68 .74 2.64 0.63 .30 .06
+Post 2.62 0.74 2.93 1.00 .29
+13. I mostly feel happy
+Pre 2.81 0.68 .71 3.07 0.83 .48 .31
+Post 2.86 0.73 2.86 0.86 1.00
+14. I have a lot of worries
+Pre 3.14 0.91 .49 2.86 1.03 .83 .39
+Post 3.05 0.80 2.79 1.12 .42
+15. I often feel depressed and upset
+Pre 2.57 0.87 .26 2.79 1.05 .33 .51
+Post 2.43 0.81 2.57 1.02 .64
+16. Now is the loneliest time of my life
+Pre 2.62 0.92 .83 2.71 1.07 .27 .78
+Post 2.67 0.73 2.93 1.21 .47
+17. I am worried about money
+Pre 2.90 0.94 .09 2.71 0.83 .85 .54
+Post 2.57 0.81 2.79 1.25 .54
+18. I am often upset even though I do not express my feeling
+Pre 3.14 0.91 .77 3.07 1.14 .35 .83
+Post 3.10 0.89 2.71 1.14 .27
+19. I am stressed a lot
+Pre 2.81 0.75 .74 2.79 0.97 .16 .93
+Post 2.76 0.77 3.21 1.05 .15
+20. Sometimes I feel a lump in my throat
+Pre 2.52 0.75 .05 2.57 1.09 .20 .88
+Post 2.24 0.54 2.21 0.80 .91
+Student independent t tests were conducted to contrast the mean value differences for the groups at preintervention and postintervention. Paired samples t tests were performed to compare the means from the
+same group at different time points. On the item whose postscore between groups was significant by independent samples t tests with low P value of the prescore (.05<P<1.00), analysis of covariance
+(ANCOVA) was further used to confirm the differences (ANCOVA: ∗
+SS(I)=2.605, df=1, F(1, 31)=4.345, P=.045; †
+SS(I)=3.386, df=1, F(1,32)=6.209, P=.018). Statistically significant items are indicated
+in block letters (items 1, 3, 5, 7, 10, and 11).
+BEM=brain education-based meditation, cont=control, Post=postintervention, Pre=preintervention, SD=standard deviation.
+Baseline characteristics of sex/disease/age-matched participants
+for inflammatory gene expression analysis.
+Characteristics BEM, n (n=9) Control, n (n=9)
+Sex
+Male 5 5
+Female 4 4
+Diseases
+Hypertension 2 2
+Diabetes 1 1
+Hyper. + Dia. 6 6
+Mean SD Mean SD
+Age 70.00 4.64 69.67 4.61
+Nine participants were selected by matching sex, diseases, and age from the initial randomized groups
+(Table 1) for analysis of inflammatory gene expression.
+BEM=brain education-based meditation, Dia.=diabetes, Hyper.=hypertension, SD=standard
+deviation.
+no. 11); reductions in anger (item no. 3); and loneliness (item no.
+10).
+3.3. Comparison of inflammatory gene expression
+between meditation and control group
+Inflammatory conditions are associated with type 2 diabetes,[34]
+as well as hypertension,[35] which suggest that inflammation
+participates in the pathogenesis of the diseases. To know whether
+inflammatory markers are changed by the intervention, we
+performed qPCR on cDNA synthesized from RNA derived from
+the whole peripheral blood at preintervention and postintervention. Nine participants for gene expression analysis were selected
+by matching sex, disease, and age from each group. Baseline
+characteristics of sex, diseases, and age between groups were
+comparable (Table 5). Among them, 8 participants for BEM and
+6 participants for control completed the study. They did not show
+significant differences in mental/physical health self-report scores
+as well as blood biochemical analysis (Table 6). However, there
+were significant changes in inflammatory gene expression level
+between preintervention and postintervention by meditation
+training (Fig. 2). We investigated NFKB2 and RELB for
+noncanonical NF-kB pathway, RELA for canonical NF-kB
+pathway,[36] and IL1B which is a risk factor for type 2
+diabetes.[37] Because of the changes in temperature between
+preintervention and postintervention which may affect the gene
+expression, we normalized the ACTB-normalized gene expression of BEM group by the correspondence of control group of the
+same time point. As a result, the expressions of NFKB2, RELA,
+and IL1B were significantly reduced by meditation training
+(Fig. 2A, B, D: NFKB2, 0.3-fold change, ∗
+P=.01; RELA, 0.5-fold
+change, ∗
+P=.03; RELB, P=.34; IL1B, 0.2-fold change, ∗∗P<.01
+[BEM, n=8; control, n=6], paired samplest test). The expression
+of RELB showed a reduction by meditation training without a
+significant difference (Fig. 2C). To summarize, 8-week BEM
+Pre and post mean, SD, t tests for self-reports and blood tests of participants of inflammatory gene expression analysis.
+BEM, n (n=8) Control, n (n=6) Pre vs post
+Sex
+Male 5 3 BEM vs control
+Female 3 3
+Diseases
+Hypertension 2 1
+Diabetes 1 0 BEM Control
+Hyper. + Dia. 5 5
+Mean SD Mean SD PPP
+Age 70.38 4.81 70.50 4.89 .96 — —
+Self-reports
+Mental health Pre 58.13 10.02 54.83 19.48 .68 .23 .37
+Post 55.63 8.80 58.83 16.68 .64
+Physical health Pre 60.25 9.00 61.67 13.13 .81 .94 .17
+Post 60.13 8.92 57.50 12.47 .65
+Blood tests
+SGOT, U/L Pre 32.63 7.05 37.67 15.06 .41 .90 .58
+Post 32.25 12.79 33.00 21.31 .93
+SGPT, U/L Pre 24.50 9.52 29.83 12.06 .37 .56 .29
+Post 26.50 9.01 22.83 12.09 .52
+GGT, U/L Pre 32.38 16.38 27.83 22.23 .66 .44 .20
+Post 29.63 13.66 36.33 29.67 .57
+Creatinine, mg/dL Pre 1.36 1.55 0.69 0.11 .31 .34 .47
+Post 0.82 0.44 0.71 0.11 .57
+HDL Chol, mg/dL Pre 48.38 16.07 46.17 12.46 .78 .60 .30
+Post 47.00 11.76 43.83 13.15 .64
+LDL Chol, mg/dL Pre 106.13 27.26 72.50 28.92 .04 .31 .51
+Post 94.88 36.18 78.83 32.94 .41
+Student independent t tests were conducted to contrast the mean value differences between groups (BEM vs control) at preintervention and postintervention. Paired sample t tests were performed to compare the
+means from the same group of different time points (pre vs post). A lower score in the self-reports is associated with a healthier state of the body.
+BEM=brain education-based meditation, Chol=cholesterol, GGT=g-glutamyl transferase, HDL=high-density lipoprotein, LDL=low-density lipoprotein, Post=postintervention, Pre=preintervention, SD=
+standard deviation, SGOT=serum glutamic-oxaloacetic transaminase, SGPT=serum glutamic pyruvic transaminase.
+Figure 2. Relative inflammatory gene expressions of the meditation group at preintervention and postintervention. Expression of inflammatory genes was all initially
+normalized by ACTB expression and the normalized values were used for further analysis. Second normalizations for values of brain education-based meditation
+(BEM) group at preintervention and postintervention were done by using values of control group of the same time point; this was performed due to the gene
+expression changes by the temperature at preintervention and postintervention. Dots indicate the mean values of the following relative gene expressions of BEM
+group, which are normalized by the value of the control group: (A) Nuclear Factor kappa B subunit 2 (NF-kB2), ∗
+P=.01; (B) RELA,
+∗
+P=.03; (C) RELB, P=.34; (D)
+interleukin 1 beta (IL1B), ∗∗P<.01, a paired samples t test (n=6 and 8 for control and BEM, respectively). Error bars indicate standard of errors.
+training reduces the inflammatory gene expressions; NFKB2,
+RELA, and IL1B.
+4. Discussion
+Type 2 diabetes and hypertension are diseases which demand
+continuous lifetime care because of their notorious complications.[38,39] Since they require lifetime care, nondrug approaches
+are pursued to manage long-term health care. This study is the
+first randomized controlled trial using BEM, whose subjects are
+patients of hypertension and/or type 2 diabetes. The purpose of
+the study is to investigate the effectiveness of 8-week BEM
+intervention, as a complementary care to a conventional drug
+treatment. Our results showed that the use of BEM with drug
+therapy is significantly more effective than drug-only therapy in
+certain aspects.
+Plasma lipids and lipoproteins such as LDL are among the most
+important risk factors for cardiovascular diseases.[40] In the meta
+analyses of data from 170,000 participants in 26 randomized
+trials, the reduction of major vascular event is directly
+proportional to the absolute LDL reduction, even if LDL
+cholesterol is lower than 2.0mmol/L (=77.34mg/dL).[41] If there
+is a nonpharmacological way to lower LDL cholesterol, it can be
+a useful complementary method for patients with chronic
+hypertension/diabetes to maintain their health state and prevent
+potential complications. BEM program significantly reduced the
+concentration of LDL cholesterol in the serum of the subjects
+(Table 2, Fig. 1). Although the mechanism is unknown, the
+current beneficial effect of BEM on cardiovascular diseases is
+consistent with a previous finding; the amount of plasma nitric
+oxide is twice higher in the BEM group than in the control
+group.[21] Since established cardiovascular risk factors such as
+hypertension and diabetes mellitus decrease endothelial NO
+production,[42] its increase in plasma level suggests beneficial
+effects of NO on potential prevention of cardiovascular diseases.
+According to a recent systemic review,[43] 7 of 8 randomized
+controlled trials (total 838 participants) using yoga-based
+programs reported significant beneficial changes in serum lipids,
+including a significant decline in LDL, compared to standard
+care, group education, or a moderate intensity exercise program.
+However, LDL level is not significantly changed in several
+meditation studies, including 12-week Buddhist walking meditation,[44] and a community-based mind–body meditative Tai Chi
+program.[45] Sometimes yoga-based program includes more
+physical activity than static regular meditation. BEM has
+combinatory features, which include dynamic physical activities
+as well as mental meditative characters.[23] Considering the
+above-mentioned yoga, meditative techniques, and BEM, it is
+interesting to predict that the reduction of LDL cholesterol may
+be associated with techniques that use more dynamic physical
+activities than relatively static meditation, if the subjects are
+novice meditators, which is the case for most randomized
+controlled studies. This is because novice meditators may have
+difficulties in reaching the level of experienced meditators who
+can quickly change their metabolism by simple breathing or
+walking mediation alone. On the contrary, novice meditators can
+relatively easily follow dynamic physical activities, which may
+induce physiological changes on the limited training period.
+Subjects in the current pilot study did not have previous
+experiences on meditation; the characteristics of BEM containing
+both dynamic and static activities seem to contribute to induce
+the alterations in physiology-lowering LDL cholesterol level—
+during the limited training period.
+Data have suggested that low-grade inflammations play a role
+in the development and progression of hypertension and endorgan damage.[18] Moreover, the role of inflammation in the
+pathogenesis of type 2 diabetes and associated complications is
+now well understood.[34] Clinical studies are using antiinflammatory approaches to treat patients with type 2 diabetes.
+Its mechanisms of action include the inhibition of NF-kB
+pathway and IL-1b.
+[34] The reductions in the expression level of
+NFKB2, RELA, and IL1B by BEM practice (Fig. 2) suggest
+BEM may reverse low-grade inflammation occurring in patients
+with hypertension and/or type 2 diabetes. The other blood
+biochemical markers did not show significant changes in these
+patients (Table 6). This may be derived from the different
+sensitivity of the detection method: biochemical analysis using
+serum (Table 6) and real-time PCR using cDNA synthesized
+from blood RNA (Fig. 2). The current result of inhibitory effects
+of NF-kB family expression by BEM (Fig. 2) is also consistent
+with a previous BEM study which showed the increase of
+plasma NO,[21] which inhibits NF-kB-mediated gene expression.[46,47] The reduced expression of pro-inflammatory IL1B
+by BEM training is also consistent with the previous finding
+which showed the increased expression of anti-inflammatory
+IL10 by BEM,[30] which suggests that BEM helps reduce
+inflammation. Our results suggest that BEM training reduces
+low-grade inflammation by reducing the expression of NF-kB,
+RELA, and IL1B.
+Studies have shown that people with type 2 diabetes have
+poorer general mental health,[48] and are more likely to be alcohol
+dependent,[49] and have more cognitive decline and dementia,[50]
+compared with those who do not have type 2 diabetes. Reversely,
+Joseph and Golden proposed that psychological stress contributes to the development of type 2 diabetes through alterations in
+the hypothalamic–pituitary–adrenal (HPA) axis, autonomic
+nervous system, and immune system.[51] Depression and
+depressive symptoms elevate the risk for progressive insulin
+resistance[52] and diabetes.[53] Moreover, it is clear that
+hypertension increases one’s risk of cognitive decline and
+dementia.[54] These suggest a correlation between mental health
+and diabetes/hypertension. In the current study, mental health
+self-report score suggests that BEM significantly improves
+relaxation, focus, happiness, and confidence; decreases anger,
+and loneliness in patient with hypertension and/or diabetes
+(Table 4). This is consistent with previous findings of the
+beneficial effects of BEM on mental health of healthy individuals:
+reductions in stress,[23,24,26,31] depression,[21,23] anxiety,[21,28]
+neuroticism[29]; increases in extraversion and openness to
+experience,[29] positive effect,[24] quality of life,[28] problem
+solving, emotional intelligence, and resilience.[31] The positive
+effects of BEM on mental health indicate its beneficial use in
+patients with diabetes to prevent diabetes-related complications
+related with cognitive decline. In the physical health self-report
+score, BEM significantly relieves the feeling of fatigue (Table 3).
+This is consistent with a result from the previous research
+performed on breast cancer patients.[28] Improvement in sleep
+quality by BEM may contribute to the relief of fatigue.[22,23]
+When the brain perceives the environment as stress, HPA axis
+and sympathetic nervous system are activated. If it becomes
+chronic, various psychological symptoms, changes in metabolism, immune system are led to development of diseases[55]
+(Supplemental Content 4A, http://links.lww.com/MD/C971). In
+the current research, BEM training reduces the chronic activation
+through reducing stress itself by changing the way of thinking.
+Moreover, it induces balanced recovery of automatic nervous
+system by activating parasympathetic nervous system through
+breathing. The indicated main observations of the current study
+are supposed to be led by those mechanisms (Supplemental
+Content 4B, http://links.lww.com/MD/C971).
+The present study has following limitations. Since this is a pilot
+study, the number of subjects is relatively small. To validate the
+current results, a follow-up study is needed with a larger sample
+size as well as measurements of other related components such as
+body mass index and hemoglobin A1c. BEM includes static
+meditation as well as dynamic elements. To know which element
+contributed to the current results, not only education control but
+also element-corresponding controls will be needed. The drug
+type was not controlled since the subject registration was
+performed in the public healthcare center not in the clinic where
+each subject was prescribed for his/her disease. Therefore, there is
+a possibility that the drug types might affect the results, with
+different molecular mechanisms. The subjects include both
+hypertension and type 2 diabetes. Although their correlation is
+well known, it is desirable to investigate each condition
+separately in the future study with a larger number of subjects
+to see the specific effects of BEM on each disease.
+5. Conclusions
+In this pilot randomized controlled trial, our results showed that
+8-week-BEM training reduces LDL cholesterol and inflammatory
+gene expression and improves some elements of the investigated
+physical/mental health of patients with type 2 diabetes/hypertension, which suggest that BEM induces beneficial changes in
+physical/mental health of the patients. Since type 2 diabetes and
+hypertension are chronic, slowly progressing and systemic
+diseases, patients need to take care of their body for long term
+to prevent complications. In this aspect, noninvasive and
+nonpharmacologic methods such as BEM are very useful for a
+long-term complementary care of hypertension/type 2 diabetes.
+Acknowledgments
+This work was supported by University of Brain Education
+(2017-03). The funders had no role in study design, data
+collection and analysis, decision to publish, or preparation of the
+manuscript. The authors have declared that no competing
+interests exist. The authors thank the patients who gave their
+consents to participate in this study, and all staffs in the
+Hypertension/Diabetes Registration Education Center of the
+Ulsan Junggu Public Health Center, for their support of the study.
+The authors also thank Enago for the English language review.
+Author contributions
+Conceptualization: Hyun-Jeong Yang, Seung-Ho Lee, Sun-Mi
+Hwang, Do-Hyung Kang
+Data curation: Hyun-Jeong Yang, Seung-Ho Lee, Sun-Mi
+Hwang, Do-Hyung Kang
+Formal analysis: Seung-Ho Lee
+Funding acquisition: Hyun-Jeong Yang
+Investigation: Hyun-Jeong Yang
+Methodology: Hyun-Jeong Yang, Seung-Ho Lee, Sun-Mi
+Hwang, Do-Hyung Kang
+Project administration: Hyun-Jeong Yang, Seung-Ho Lee, SunMi Hwang, Do-Hyung Kang
+Resources: Hyun-Jeong Yang, Seung-Ho Lee, Sun-Mi Hwang
+Software: Seung-Ho Lee, Sun-Mi Hwang
+Supervision: Hyun-Jeong Yang, Do-Hyung Kang
+Validation: Hyun-Jeong Yang, Seung-Ho Lee, Sun-Mi Hwang,
+Do-Hyung Kang
+Visualization: Hyun-Jeong Yang
+Writing – original draft: Hyun-Jeong Yang
+Writing – review & editing: Hyun-Jeong Yang, Do-Hyung Kang

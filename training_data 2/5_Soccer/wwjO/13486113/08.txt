@@ -1,0 +1,149 @@
+
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/378634623
+Intratest reliability of the modified 505 test in adult male professional soccer players
+Article  in  Journal of Physical Education and Sport · February 2024
+DOI: 10.7752/jpes.2024.02049
+
+CITATIONS	READS
+0	37
+Rodrigo Villaseca-Vicuña
+Universidad Católica Silva Henríquez
+23 PUBLICATIONS   110 CITATIONS   
+Pablo Merino-Muñoz
+Federal University of Rio de Janeiro	Federal University of Rio de Janeiro 230 PUBLICATIONS   3,632 CITATIONS   	40 PUBLICATIONS   116 CITATIONS   
+All content following this page was uploaded by Felipe Hermosilla Palma on 01 March 2024.
+The user has requested enhancement of the downloaded file.
+Journal of Physical Education and Sport (r) (JPES), Vol. 24 (issue 2), Art 49, pp. 407 - 411, February 2024 online ISSN: 2247 - 806X; p-ISSN: 2247 - 8051; ISSN - L = 2247 - 8051 (c) JPES 
+Original Article 
+ 
+ 
+Intratest reliability of the modified 505 test in adult male  professional soccer players 
+ 
+JORGE PÉREZ-CONTRERAS1, RODRIGO VILLASECA-VICUÑA2, BIANCA MIARKA3, PABLO MERINO-MUÑOZ4, FELIPE HERMOSILLA-PALMA5, ESTEBAN AEDO-MUÑOZ6 
+1 Escuela de Ciencias del Deporte, Facultad de Salud, Universidad Santo Tomas, CHILE. 
+6 Departamento de Educación Física, Deportes y Recreación. Universidad Metropolitana de Ciencias de la Educación, CHILE. 
+2 Escuela de Ciencias y Tecnología de Pedagogía en Educación Física. Universidad Católica Silva Henríquez (UCSH), CHILE. 
+3,4,6 Programa de Posgraduación en Educación Física. Universidad Federal de Rio de Janeiro, BRASIL.  
+4, Núcleo de Investigación en Ciencias de la Motricidad Humana, Universidad Adventista de Chile, CHILE. 
+5 Universidad Autónoma de Chile, CHILE. 
+6 Escuela de Ciencias de la Actividad Física, el Deporte y la Salud. Facultad de Ciencias Médicas. Universidad de Santiago de Chile. CHILE. 
+6 Laboratorio de Biomecánica Deportiva, Unidad de Ciencias Aplicadas al Deporte, Instituto Nacional de Deportes, Santiago, CHILE. 
+1 Escuela de Doctorado de la Universidad de Las Palmas de Gran Canaria, SPAIN 
+ 
+Published online: February 29, 2024 
+(Accepted for publication February 15, 2024 
+DOI:10.7752/jpes.2024.02049 
+ 	 	 	 	 	 	 	 	 
+Abstract 
+Objective: This study assessed the intratest reliability of the modified 505 180° change of direction test in adult male professional players. Methods: 37 adult male players (age= 23.4±4.88 years, body mass= 75.7±6.46 kg, height=176.2±6.74 cm), affiliated with a professional club in the Chilean first B division, performed 4 attempts (two per profile) of the modified 505 test. Absolute reliability was evaluated using coefficient of variation, while relative reliability was assessed via the intraclass correlation coefficient, with a 95% confidence interval (CI). Bland-Altman graphs and statistics. Results: Acceptable absolute reliability was found in the right and left profile (CV=1.82 and 2.16% respectively). Poor to good relative reliability was found in the right profile (ICC=0.586, 95% CI=0.335 to 0.759) and poor to moderate reliability in the left profile (ICC=0.562, 95% CI=0.309 to 0.742). Bland-Altman statistics found a Bias and standard deviation of Bias in the right profile of 0.015±0.79 seconds and in the left profile of 0.03±0.091 seconds. Conclusion: From the results it is concluded that the modified 505 test has moderate relative reliability and acceptable absolute reliability. In practical terms, this means that trainers should evaluate more than 1 attempt per profile. The reliability of the test should be taken into consideration to analyze subsequent changes, so familiarization sessions with the test would be necessary to improve its relative reliability. The data obtained can serve as a reference for teams belonging to the same league, as well as to analyze substantial minimal changes outside the intratest noise, according to the reported CVs. 
+Keywords: football, change of direction, athletic performance, physical performance, reliability 
+ 
+Introduction 
+       Soccer is a sport of intermittent nature that combines high-intensity actions, such as jumping, accelerating, running, braking, and change of direction with brief periods of rest (Dolci et al., 2020; Freire et al., 2022; Rites et al., 2022; Villaseca-Vicuña et al., 2021). In relation to change of direction (COD), defined as the ability to decelerate, reverse or change the direction of movement and re-accelerate (Pardos-Mainer et al., 2020), professional soccer players can perform more than 700 per match (Dolci et al., 2020)  and the activity of the players during the matches has been divided into 4 individual acceleration categories: A1, acceleration from 0 to 13 km/h; A2, acceleration from 0 to 13 km/h and reaching 18 km/h; A3, acceleration that starts from 13 km/h to 18 km/h; A4, acceleration starting at a speed >18 km/h (Nuñez et al., 2018). In addition, it has been verified that it is a concurrent action prior to the goal conversion by the author and the assist, in the main European leagues (Martínez-Hernández et al., 2022) and it has been found to be a concurrent action prior to goal conversion by the scorer and assisted, in the two of five main leagues in Europe (Faude et al., 2012; Martínez-Hernández et al., 2022), so its analysis and optimization becomes crucial for coaches.  
+       The COD framed as a component of agility (Barnes et al., 2007), is influenced by several physical and technical components such as, accelerating, decelerating, concentric and eccentric strength and power (Dos'Santos et al., 2019; Jones et al., 2017; Merino-Muñoz et al., 2021). 
+-----------------------------------------------------------------------------------------------------------------------------------407 
+Corresponding Author: ESTEBAN AEDO-MUÑOZ, E-mail: esteban.aedo@umce.cl 
+       Several tests have been used to evaluate the COD in different exit angles as approach speed (MerinoMuñoz et al., 2021; Suarez-Arrones et al., 2020), since in soccer these actions occur with variability (Ade et al., 2016). One of them is the modified 505 test, which evaluates the time to perform a 180° COD (Gabbett et al., 2008; Merino-Muñoz et al., 2021) and in a recent review, it was concluded that 180° COD tests could be the most appropriate, because they replicate the movement patterns in soccer, as well as, that during the test only one COD with a duration of less than 5 seconds is performed (Pardos-Mainer et al., 2020), and the modified 505 test has these characteristics. Performance in this test has been shown to have association with vertical jump and 10meter sprint (Merino-Muñoz et al., 2021), remarking the influence of different physical components in of performance of CODs. 
+       To date, few studies have analyzed the reliability of this test (Suarez-Arrones et al., 2020; MerinoMuñoz et al., 2021; Arboix-Alió et al., 2021). The reliability of a test plays an important role in understanding the variability within the test, to determine the changes that may occur due to training programs or fatigue, to make an effective interpretation of the data (Atkinson & Nevill, 1998). It has also been mentioned that the reliability of COD tests depends on the instruments (photocells), surface (natural or synthetic grass) and sport level, so the reliability in the modified 505 in other populations and conditions could vary (Pardos-Mainer et al., 2020). Thus, the aim of the present study is to analyze the intratest reliability of the modified 505 180° change of direction test in adult male professional players. 
+ 
+Methods Design 
+       The present research is of a quantitative approach, non-experimental type, with a descriptive scope and a cross-correlational design. 
+Procedures 
+       The players were evaluated during the second week of the precompetitive period of the year 2021 at the club's sports complex, on the second day of the microcycle, at 10 hours AM, on synthetic grass and players were instructed to use soccer pads. The tests were conducted by the team's physical trainer. The agreements of the Helsinki treaty on human studies were respected (General Assembly of the World Medical Association, 2013). It should be noted that physical evaluations are inherent to the sports training process with which professional soccer players are familiar. 
+Participants 
+       The sample consisted of 37 adult male players, composed of 5 goalkeepers, 6 central defenders, 6 lateral defenders, 10 midfielders and 10 forwards (age=23.4±4.88 years, body mass=75.7±6.46 kg and height=176.2±6.74 cm), belonging to a professional club of the first division B of Chile. The players had not completed a familiarization session prior to this evaluation. To be included in the evaluation, the players had to have participated in all the training sessions up to the evaluation date and not have presented physical discomfort during the same period. Four players did not meet these criteria and were therefore excluded from the evaluations. 
+505 modified 
+       Prior to the test, a standardized warm-up was performed by the physical trainer's assistant, which consisted of 3 laps of the field, 5 minutes of active stretching, 10 minutes of coordination and running technique exercises plus dynamic stretching, ending with 3 accelerations and a 5-meter brake.  The protocols for this test have already been documented in the literature (Merino-Muñoz et al., 2021; Pardos- Mainer et al., 2019). With a single beam photocell (Witty gate, Microgate, Bolzano, Italy), placed at the start at a vertical height of 1 meter, players positioned with one foot 0.5 meters back from the starting gate, had to leave and step on the mark (white tape) at 5 meters to return (Figure 1). A mark was left two meters from the start and a researcher verbally encouraged the players not to stop until they crossed the mark. Four attempts were made, and 2 changes of direction were indicated for each profile, where the result was obtained by averaging both attempts. When a player did not reach the indicated mark of 5 meters, the attempt was considered null and void and was repeated until two valid attempts were reached. Players had 2 minutes rest between attempts. 
+ 
+Figure 1 - Representation of test 505 modified 
+408
+
+Statistical analysis 
+       The distribution of the data was analyzed using the Shapiro Wilk test. All data will be described through the mean (M) and standard deviation (SD). The analyses were performed by profiles, because asymmetries between profiles could decrease the reliability in case of analyzing all attempts together (Arboix-Alió et al., 2021). Absolute reliability was analyzed through the coefficient of variation expressed as % (SD/M*100) per subject, and the mean was calculated, considering acceptable values <10% (Atkinson & Nevill, 1998) and relative reliability through the intraclass correlation coefficient (ICC) with a two-factor mixed model of single measured form absolute agreement type (Trevethan, 2017), using the following thresholds for qualitative categorization: <0. 49 poor; 0.5 to 0.74 moderate; 0.75 to 0.89 good and >0.9 excellent, presenting their 95% confidence intervals (CI) and were complemented with Bland-Altman plots and statistics. All analyses will be performed in SPSS version 25 software with an alpha of 0.05 and figures with GraphPad version 8. 
+ 
+Results 
+       Table 1 and Figure 2 show the test description by profile and the total average number of attempts and the absolute and relative reliability of the modified 505 test. Acceptable absolute reliability was found in the right and left profile (CV=1.82 and 2.16% respectively). Poor to good relative reliability was found in the right profile (ICC=0.586, 95% CI=0.335 to 0.759) and poor to moderate reliability in the left profile (ICC=0.562, 95% CI=0.309 to 0.742). 
+Table 1. Description and reliability of the modified 505 test. 
+Profile M ±SD CV (%) ICC IL 95% UL 95% Reliability Right (s) 2.54 0.09 1.82 0.586 0.335 0.759 Poor to good Left (s) 2.55 0.10 2.16 0.562 0.309 0.742 Poor to moderate Average (s) 2.54 0.08   	        M mean; ±SD standard deviation; CV coefficient of variation; ICC intraclass correlation coefficient; IL inferior limit; UL upper limit. 
+ 
+Figure 2- Individual values of two tries by right and left profile of 505 modified. 
+ 
+Table 2 and Figure 2 show the Bland-Altman descriptive statistics and their graphs. 
+Table 2. Bland-Altman statistic 
+Profile Bias SD of bias 95% Limits of Agreement Right (s) 0.015 0.079 -0.139 	0.169 Left (s) 0.030 0.091 -0.147 	0.208 SD standard deviation. 
+ 
+Figure 2- Bland-Altman plots. s=standard deviation of bias. 
+409
+Discussion 
+       The aim of the present study was to analyze the intratest reliability of the modified 180° 505 change of direction test in adult male professional players. The main findings were poor to good relative reliability in the right profile and poor to moderate in the left profile and acceptable absolute reliability in both profiles. 
+       There is scarce literature about intratest reliability in this test. Regarding absolute reliability, SuarezArrones et al., (2020), analyzed the absolute and relative reliability of two attempts of the 505m of both legs, in healthy adults, who practiced team sports 3-4 times a week and found CVs of 1.4% (right) and 1.1 (left). MerinoMuñoz et al., (2021), analyzed reliability in adult professional players from Chile and found an acceptable CV of 1.86 (range=2.7-4.8%). Arboix-Alió et al., (2021) analyzed reliability in young female athletes of team sports and found a CV of 5.79% in right profile and 5.61% in left profile in two attempts but performed a familiarization session one week prior to the evaluation. The values reported are similar to those of the present study where acceptable levels were always achieved. 
+       On the other hand, regarding relative reliability, Suarez-Arrones et al., (2020) also analyzed reliability and found excellent reliability in both profiles (ICC=0.92 right; ICC=0.96 left). Merino-Muñoz et al., (2021) found moderate to excellent ICC (ICC=0.82; CI 90%= 0.67-0.91), considering the 4 attempts. Arboix-Alió et al., (2021), found excellent reliability in both profiles (ICC=0.954; 95% CI=0.901-0.979 right and ICC=0.976; 95% CI 0.951-0.989 left). Another study analyzed test-retest reliability (7-day difference) in young soccer players and their findings were poor to good reliability (Taylor et al., 2019). The difference in relative reliability may be due to the form of analysis of the CCI, because the model, type and form of the CCI analysis, can produce higher values and it usually happens that the authors do not mention it within the statistical analysis (Trevethan, 2017), as well as to what has already been mentioned by the review of Pardos-Mainer et al., (2020), where it is indicated that factors such as instruments, surface and sport level could influence the reliability of this type of tests. 
+       Future lines of research could be to analyze the possible relationships between the performance of this modified 505 test and the neuromuscular variables obtained with GPS in official matches, or if the differences between the performance of both profiles are associated with the risk of injury. 
+ 
+Conclusion 
+       From the results it can be concluded that the modified 505 test has moderate relative reliability and acceptable absolute reliability. In practical terms, this means that trainers should evaluate more than 1 attempt per profile and as well as whether the skillful profile of hitting the ball coincides with the profile that takes less time to complete the modified 505 test. The reliability of the test should be taken into consideration to analyze subsequent changes, so familiarization sessions with the test would be necessary to improve its relative reliability. The data obtained can serve as a reference for teams belonging to the same league, as well as to analyze substantial minimal changes outside the intratest noise, according to the reported CVs. 
+Conflicts of interest  
+       The authors have no conflicts of interest to declare. Acknowledgements We would like to thank the players and staff at the Football Association of Chile for their cooperation throughout the study. 
+ 
+References 
+Ade, J., Fitzpatrick, J., & Bradley, P. S. (2016). High-intensity efforts in elite soccer matches and associated movement patterns, technical skills and tactical actions. Information for position-specific training drills. Journal of Sports Sciences, 34(24), 2205-2214. https://doi.org/10.1080/02640414.2016.1217343 
+Arboix-Alió, J., Bishop, C., Benet, A., Buscà, B., Aguilera-Castells, J., & Fort-Vanmeerhaeghe, A. (2021). Assessing the Magnitude and Direction of Asymmetry in Unilateral Jump and Change of Direction Speed Tasks in Youth Female Team-Sport Athletes. Journal of Human Kinetics, 79(1), 15-27. https://doi.org/10.2478/hukin-2021-0061 
+Atkinson, G., & Nevill, A. M. (1998). Statistical methods for assessing measurement error (reliability) in variables relevant to sports medicine. Sports Medicine, 26(4), 217-238. https://doi.org/10.2165/00007256-199826040-00002 
+Barnes, J. L., Schilling, B. K., Falvo, M. J., Weiss, L. W., Creasy, A. K., & Fry, A. C. (2007). Relationship of jumping and agility performance in female volleyball athletes. Journal of Strength and Conditioning Research, 21(4), 1192-1196. https://doi.org/10.1519/R-22416.1 
+Bradley, P. S., & Ade, J. D. (2018). Are current physical match performance metrics in elite soccer fit for purpose or is the adoption of an integrated approach needed? International Journal of Sports Physiology and Performance, 13(5), 656-664. https://doi.org/10.1123/ijspp.2017-0433 
+Dolci, F., Hart, N. H., Kilding, A. E., Chivers, P., Piggott, B., & Spiteri, T. (2020). Physical and Energetic Demand of Soccer: A Brief Review. Strength & Conditioning Journal, 42(3), 70-77. https://doi.org/10.1519/ssc.0000000000000533 
+410
+Dos'Santos, T., Thomas, C., Comfort, P., & Jones, P. A. (2019). Role of the penultimate foot contact during change of direction: Implications on performance and risk of injury. Strength and Conditioning Journal, 41(1), 87-104. https://doi.org/10.1519/SSC.0000000000000395 
+Faude, O., Koch, T., & Meyer, T. (2012). Straight sprinting is the most frequent action in goal situations in professional football. Journal of Sports Sciences, 30(7), 625-631. https://doi.org/10.1080/02640414.2012.665940 
+Freire, L. de A., Merino-muñoz, P., Aedo-muñoz, E., Soto, A. S., Brito, C. J., & Miarka, B. (2022). Soccer pacing strategy: chronological intracomparison of the same soccer athletes, disputing with the same opponent during the same year. Journal of Physical Education and Sport, 22(5), 1333-1339. https://doi.org/10.7752/jpes.2022.05167 
+Gabbett, T. J., Kelly, J. N., & Sheppard, J. M. (2008). Speed, change of direction speed, and reactive agility of rugby league players. Journal of Strength and Conditioning Research, 22(1), 174-181. https://doi.org/10.1519/JSC.0b013e31815ef700 
+General Assembly of the World Medical Association World Medical Association declaration of Helsinki: Ethical principles for medical research involving human subjects. JAMA - J. Am. Med. Assoc. 2013, 310, 2191- 2194. 
+Jones, P., Thomas, C., Dos'Santos, T., McMahon, J., & Graham-Smith, P. (2017). The Role of Eccentric 
+Strength in 180° Turns in Female Soccer Players. Sports, 5(4), 42. https://doi.org/10.3390/sports5020042 
+Martínez-Hernández, D., Quinn, M., & Jones, P. (2022). Linear advancing actions followed by deceleration and turn are the most common movements preceding goals in male professional soccer. Science and Medicine in Football, 00(00), 1-9. https://doi.org/10.1080/24733938.2022.2030064 
+Merino-Muñoz, P., Vidal-Maturana, F., Aedo-Muñoz, E., Villaseca-Vicuña, R., & Pérez-Contreras, J. (2021). Relationship between vertical jump, linear sprint and change of direction in chilean female soccer players. Journal of Physical Education and Sport, 21(5), 2737-2744. https://doi.org/10.7752/jpes.2021.05364 
+Núñez, F.J.; Toscano-Bendala, F.J.; Suarez-Arrones, L.; Martínez-Cabrera, F.I.; De Hoyo, M. Individualized thresholds to analyze acceleration demands in soccer players using GPS (Umbrales individualizados para analizar las demandas en la aceleración en futbolistas usando GPS). Retos 2018, 2041, 75-79, doi:10.47197/retos.v0i35.60402. 
+Pardos- Mainer, E., Casajús, J. A., & Gonzalo-Skok, O. (2019). Reliability and sensitivity of jumping, linear sprinting and change of direction ability tests in adolescent female football players. Science and Medicine in Football, 3(3), 183-190. https://doi.org/10.1080/24733938.2018.1554257 
+Pardos-Mainer, E., Casajús, J. A., Julián, C., Bishop, C., & Gonzalo-Skok, O. (2020). Determining the reliability and usability of change of direction speed tests in adolescent female soccer players: A systematic review. Journal of Sports Medicine and Physical Fitness, 60(5), 720-732. https://doi.org/10.23736/S00224707.20.10178-6 
+Rites, A., Viana, D., Merino-Muñoz, P., Miarka, B., Aedomuñoz, E., Peréz-Contreras, J., & Salerno, V. P. (2022). Do contextual factors, tournament level, and location affect external match load in elite Brazilian youth soccer players? Journal of Physical Education and Sport, 22(11), 2898-2903. https://doi.org/10.7752/jpes.2022.11366 
+Suarez-Arrones, L., Gonzalo-Skok, O., Carrasquilla, I., Asián-Clemente, J., Santalla, A., Lara-Lopez, P., & Núñez, F. J. (2020). Relationships between Change of Direction, Sprint, Jump, and Squat Power Performance. Sports, 8(3), 38. https://doi.org/10.3390/sports8030038 
+Taylor, J. M., Cunningham, L., Hood, P., Thorne, B., Irvin, G., & Weston, M. (2019). The reliability of a modified 505 test and change-of-direction deficit time in elite youth football players. Science and Medicine in Football, 3(2), 157-162. https://doi.org/10.1080/24733938.2018.1526402 
+Trevethan, R. (2017). Intraclass correlation coefficients: clearing the air, extending some cautions, and making some requests. Health Services and Outcomes Research Methodology, 17(2), 127-143. https://doi.org/10.1007/s10742-016-0156-6 
+Villaseca-Vicuña, R., Jesam-Sarquis, F., Mardones, C., Moreno, C., & Pérez-Contreras, J. (2021). Comparison of physical fitness and anthropometric profiles among Chilean female national football teams from U17 to senior categories. Journal of Physical Education and Sport, 21(December), 3218-3226. 
+https://doi.org/10.7752/jpes.2021.s6440 
+ 
+ 
+411
+View publication stats
+
+
+JORGE PÉREZ-CONTRERAS, RODRIGO VILLASECA-VICUÑA, BIANCA MIARKA, PABLO MERINOMUÑOZ, FELIPE HERMOSILLA-PALMA, ESTEBAN AEDO-MUÑOZ 
+--------------------------------------------------------------------------------------------------------------------------------------- 
+
+
+
+---------------------------------------------------------------------------------------------------------------------------- 
+JPES (r)      www.efsupit.ro  
+
+
+
+
+
+JORGE PÉREZ-CONTRERAS, RODRIGO VILLASECA-VICUÑA, BIANCA MIARKA, PABLO MERINOMUÑOZ, FELIPE HERMOSILLA-PALMA, ESTEBAN AEDO-MUÑOZ 
+--------------------------------------------------------------------------------------------------------------------------------------- 
+
+JORGE PÉREZ-CONTRERAS, RODRIGO VILLASECA-VICUÑA, BIANCA MIARKA, PABLO MERINOMUÑOZ, FELIPE HERMOSILLA-PALMA, ESTEBAN AEDO-MUÑOZ 
+--------------------------------------------------------------------------------------------------------------------------------------- 
+
+---------------------------------------------------------------------------------------------------------------------------- 
+JPES (r)      www.efsupit.ro  
+
+---------------------------------------------------------------------------------------------------------------------------- 
+JPES (r)      www.efsupit.ro  
+
+JORGE PÉREZ-CONTRERAS, RODRIGO VILLASECA-VICUÑA, BIANCA MIARKA, PABLO MERINOMUÑOZ, FELIPE HERMOSILLA-PALMA, ESTEBAN AEDO-MUÑOZ 
+--------------------------------------------------------------------------------------------------------------------------------------- 
+
+---------------------------------------------------------------------------------------------------------------------------- 
+JPES (r)      www.efsupit.ro  
+

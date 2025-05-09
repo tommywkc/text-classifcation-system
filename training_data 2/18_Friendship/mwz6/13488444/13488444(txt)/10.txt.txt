@@ -1,0 +1,436 @@
+Curse of friendship: IMF programme,
+friendship with the United States and foreign
+direct investment
+Chungshik Moon1 | Byungwon Woo2
+1
+Department of Political Science and
+International Relations, Chung-Ang
+University, Seoul, Korea
+2
+Department of Political Science and
+International Studies, Yonsei University,
+Seoul, Korea
+Correspondence
+Byungwon Woo, Department of Political
+Science and International Studies, Yonsei
+University, Seoul, Korea.
+Email: bwwoo@yonsei.ac.kr
+Funding Information
+This research was supported by the
+Yonsei University Research Fund of
+2021-22-0081.
+Abstract
+How do investors respond when a country participates
+in an International Monetary Fund (IMF) programme?
+While there exists some optimism in and around the IMF
+on the catalytic effect of a Fund programme, empirical
+research on the catalytic finance reports rather diverse
+findings; contrary to most theoretical research, empirical studies report both positive and negative effects as
+well as null effects. This paper revisits the question of
+whether and how an IMF programme catalyses other finances, focusing on the catalytic effect on foreign direct
+investment (FDI). We modify the core theoretical logic
+behind the catalytic finance to identify conditions under
+which an IMF programme is more likely to catalyse
+FDI: we highlight the credibility of an IMF programme
+as a key determinant of any positive catalytic effect it
+may have and reason that politically motivated lending by the IMF can attenuate a programme’s credibility,
+depressing the catalytic effect. We empirically capture
+politically motivated lending by looking at the relationship between a borrowing country and the United States
+and demonstrate that IMF loans to countries closely
+aligned with the United States are less likely to catalyse
+FDI than loans to countries that are not aligned with the
+United States.
+KEYWORDS
+catalytic effect, credibility, FDI, IMF
+ | MOON and WOO 2189
+1 | INTRODUCTION
+How do investors respond when a country participates in an International Monetary Fund (IMF,
+Fund) programme? While there exists some optimism in and around the IMF on the catalytic
+effect of Fund programmes—the idea that IMF finance stimulates other private and public financial flows into a programme-participating economy—empirical research on the catalytic effect
+recounts rather diverse findings: contrary to most theoretical research justifying the positive catalytic effect, most empirical studies demonstrate negative or null effects while only a few report
+positive effects, often under particular conditions. This paper revisits the question as to whether
+and how IMF programmes catalyse private finances, focusing on the catalytic effect on foreign
+direct investment (FDI).
+We focus on FDI for two reasons. First, the importance of FDI in the national economy has
+been growing and the possibility of linking this to IMF programmes merits more careful scholarly attention. The size of FDI has rapidly increased over the last few decades because FDI is expected to benefit local economies by transferring advanced technologies and management skills
+as well as creating local jobs. The amount of global FDI inflows, for example, has increased 36
+times from approximately $50 billion in 1980 to $1.8 trillion in 2015. FDI is particularly important for developing countries, as FDI has become one of the largest sources of foreign capital in
+the developing world. As one of the international organisations featured as ‘the globalisers’ promoting economic globalisation around the world (Woods, 2006), both proponents and opponents
+of the IMF recognise that IMF programmes may be closely linked to FDI flows. Investigating how
+IMF programmes affect FDI inflows would thus add significantly to the literature related to the
+political and institutional circumstances under which FDI is likely to be promoted (e.g. Jensen,
+2003; Li & Resnick, 2003).
+Second, as we will review shortly, the core logic buttressing the catalytic effect of an IMF programme relies on the prospect for market-oriented economic reforms, which, in turn, should be
+a key factor in attracting FDI. IMF programmes contain conditionality—policy conditions that
+would provide more favourable business environment for firms when properly implemented—
+thus, there is a theoretical reason to believe that FDI should follow IMF programmes. In comparison, shorter-term and often more volatile portfolio flows depend less on the prospect for
+economic reforms that IMF programmes intend to promote and more on the possibility of
+shorter-term profit-making or loss-minimising. This implies that while portfolio flows might be
+influenced by the initial announcement of an IMF programme, including the size of a loan, it
+might be less to do with prospects for longer-term economic reforms. Thus, we choose to examine the catalytic effect of IMF programmes on FDI as we believe that this will provide a more
+promising ground on which we theorise and empirically test the catalytic effects of IMF programmes and their conditionality for economic reforms.
+Theoretically, we modify the conventional logics behind the catalytic finance to identify the conditions under which an IMF programme is more likely to stimulate FDI flows.
+Specifically, we single out the credibility of an IMF programme as a key determinant of any
+positive catalytic effect the programme may have and reason that politically motivated lending by the IMF would attenuate the credibility of an IMF programme, thus depressing its
+catalytic effect. Apolitical lending by the IMF, in comparison, should have a more positive
+catalytic effect on FDI.
+We capture politically motivated IMF lending by assessing how strongly and likely the strategic interests of the United States—by far the largest stakeholder in the IMF—intervene in the
+IMF’s decision-making process. When IMF programmes are influenced by ‘high politics’ and 
+2190 | MOON and WOO
+thus affected by U.S. strategic interests, programmes lose the credibility of being strictly designed
+and enforced to generate meaningful policy reforms that investors seek; hence, multinational
+corporations (MNCs), which make most of FDI, are less willing to invest in countries that are favourably treated by the United States and the IMF. In comparison, IMF programmes that follow
+standard technocratic procedures and without undue U.S. strategic intervention should credibly
+appeal to MNCs and thus stimulate more FDI inflows in subsequent years.
+Following the standard practice of existing studies of the IMF, we approximate U.S. strategic
+interests with United Nations General Assembly (UNGA) voting alignment between a borrowing
+country and the United States and empirically test our argument, using data sets on IMF programmes and FDI data from 1979 to 2013. We find robust empirical evidence for the conditional
+argument that ‘friends’ of the United States are less able to attract FDI when they participate
+in IMF programmes than those countries that are not closely aligned with the United States.
+The findings indicate that while friendship with the United States can be helpful when a country deals with the IMF initially (Barro & Lee, 2005; Dreher & Jensen, 2007; Dreher et al., 2009;
+Nooruddin & Woo, 2015; Stone, 2004; Sturm et al., 2005; Thacker, 1999; Vreeland & Dreher, 2014;
+Woo, 2010), it can also backfire, particularly in attracting much-coveted FDI for programmeparticipating countries.
+The remainder of this article is organised as follows. The next section briefly introduces catalytic finance and its theoretical underpinnings. The following section reviews extant empirical
+studies on the catalytic effect of IMF programmes. The fourth section theorises the relationship
+between U.S. influence over IMF lending and its effects on stimulating FDI inflows. The next two
+sections introduce the empirical research design and report the results from statistical analysis.
+The concluding section discusses policy implications of the main findings and highlights academic contributions and policy implications of the paper.
+2 | CATALYTIC FINANCE AND ITS
+THEORETICAL UNDERPINNINGS
+When the Executive Board of the IMF approved a Stand-by Agreement for Suriname in May
+2016, the initial hope for economic recovery was relatively high. Announcing the closing of the
+deal of approximately US$478 million, the IMF’s press release highlighted many fiscal, monetary and structural policy reforms that would restore the resilience of Suriname’s economy,
+which should, in turn, catalyses support from creditors, investors and other multilateral development banks (IMF, 2016). Mitsuhiro Furusawa, Deputy Managing Director and Acting Chair
+of the Board, was quick to follow up the press release in stressing the close link between policy
+reform measures in the IMF programme, catalysed external finance and expected economic
+recovery.
+The idea that IMF financial resources can be used to reinforce the confidence of financial
+markets and stimulate private finance has a long history in the Washington DC policy community. As early as in 1977, Anthony Solomon, Undersecretary of the Treasury for Monetary Affairs,
+testified before the U.S. House of Representatives that:
+The very fact that [countries] are meeting the IMF's performance criteria and thus
+continue to be eligible to draw from the IMF tends to represent a kind of Good
+Housekeeping seal of approval. Good performance under an IMF program tends 
+ | MOON and WOO 2191
+to result in private capital inflows, private banks being willing to lend more to the
+country concerned.
+(United States & House of Representatives, 1977, 72)
+This optimistic outlook was soon echoed by IMF staff who emphasised the signalling effect of
+‘the stamp of approval of the IMF’ in Zaire in 1976 and 1977 (de Vries, 1985) and ‘the side effect of
+the mix of [IMF] adjustment and financing … to help members attract flows of capital from sources
+other than the Fund’ (Guitian, 1982). A prominent IMF scholar, Bird (2007), declares that a very
+commonly held view is that the Fund’s catalytic effect is (or should be) indeed significant and positive, because an IMF programme works as ‘a seal of approval’.
+The casual ‘stamp of approval’ story was later formally theorised by scholars of the IMF.
+Marchesi and Thomas (1999), for instance, model the interaction between the IMF and a borrowing country such that the IMF can use an IMF programme to screen out those ‘bad’ countries—
+those that are willing to default or that are not committed to economic reforms—from ‘good’
+countries—those that show good faith to avoid default or that are committed to politically costly
+reforms. The IMF is able to do that because it is better equipped to access the private information of a borrowing country than private investors or creditors through its various institutional
+arrangements. Thus, when the IMF lends to a country, it provides ‘the stamp’, signalling that the
+country is likely to be a ‘good’ one for investment.
+Cottarelli and Giannini (2003) and Penalver (2004) provide a comprehensive list of the theoretical underpinnings of the catalytic effect. They delineate five mechanisms: (1) policy design
+(better policy design due to IMF involvement and expertise); (2) information (signalling the
+economic conditions of a borrowing country); (3) conditionality as a commitment device; (4) a
+screening device (IMF would only lend to those who are genuinely committed to implementing
+onerous economic reforms); and (5) insurance. Chapman et al. (2017) and Woo (2013) also elaborate on how conditionality works as a commitment mechanism.
+The positive catalytic effect argument has more recently been specifically tailored and applied
+to explain a particular type of finance: FDI inflows. The connection between IMF programmes
+and FDI seems a logical extension of the link between IMF programmes and debt rescheduling
+or some other portfolio investment. When a country participates in an IMF programme that
+includes both IMF financial resources and economic and institutional reform policies aiming to
+stabilise macroeconomic indicators and to address structural constraints to economic growth,
+the participating country's prospects for economic recovery and policy reforms for better business environment should, in principle, improve, encouraging investors to embark on longer-term
+investment projects (Al-Sadiq, 2015). As long as the close link between an IMF programme and
+ensuing reforms holds, IMF programmes should stimulate FDI, reasonably assuming that investors seek a more advantageous business environment provided by implementation of IMF
+programme led policy reforms.
+In his groundbreaking study exploring the link between IMF programmes and FDI, Jensen
+(2004) states that ‘conventional wisdom would lead us to believe that IMF programs should be associated with higher inflows of FDI … Ceteris paribus, countries in financial crisis improve their
+ability to attract FDI inflows by signing IMF agreements’. Some later works elaborate on the theoretical mechanisms. Biglaiser and DeRouen (2010) contend that embracing IMF programmes
+should signal participating countries’ commitment to adopting economic reforms that investors
+favour or that present more investment opportunities. Alternatively, Bauer et al. (2012) focus on
+the IMF’s ability to levy ex post costs on a country participating in the IMF programme and argue 
+2192 | MOON and WOO
+that IMF monitoring and sanctioning increase investors’ confidence in reform prospects, as the
+IMF can punish those countries that do not implement the agreed-upon policy reforms.
+Importantly, this logic does not require MNCs to be ever-vigilant in garnering IMF programmerelated information in great detail. Rather, the causal mechanisms weakly assume that MNCs
+are aware of general contents of an agreed programme between the IMF and a programmeparticipating country so that they can build a reasonable and informed expectation of how business environment would change during and after the completion of the programme.
+In sum, a number of theoretical studies provide the logic behind the positive catalytic effect of an IMF programme. They focus on diverse theoretical mechanisms, yet converge on the
+clear theoretical prediction: IMF programme participation catalyses other finances, including
+FDI. Working as either a costly signal or a credible commitment device, signing up for IMF programmes allows countries to demonstrate a greater political will to reform their economic policies. Thus, those countries that sign IMF programmes can appeal better to creditors and investors
+than those that do not.
+3 | EMPIRICAL STUDIES OF CATALYTIC FINANCE
+The unequivocal theoretical prediction of the positive catalytic effect of an IMF programme has
+not received much empirical support. To the contrary, studies that have empirically investigated
+the effect of IMF programmes on FDI, portfolio investment or debt rescheduling have often
+reported negative effects, and when studies do identify positive catalytic effects, they are only
+under limited circumstances (Steinwand & Stone, 2008).
+Edwards (2006) demonstrates that signing an IMF programme results in significant outflows
+of portfolio investment, which he attributes to the austerity measures commonly imposed. In
+comparison, examining the effect of IMF programmes on credit ratings, Gehring and Lang (2020)
+report that once the negative selection effect is taken into account, IMF programmes help participating countries restore their credit ratings. Acknowledging the diverging findings, Bird and
+Rowlands (1997, 2000) report that there are few consistent empirical patterns, and to the extent
+that they exist, they are weak. Thus, they conclude that ‘the effect of the international financial institutions on other lenders varies across time and location’ (Bird & Rowlands, 1997, 983).
+Rowlands (2001) similarly reports that the IMF's most common lending arrangements—Standby
+agreements and loans through Extended Fund Facilities—tend to act as a catalyst for capital
+flows only under particular circumstances: the positive effect is present only in the 1980s and in
+cases of lending to low-income developing countries. Similarly, Cottarelli and Giannini (2003)
+find little evidence that IMF programmes catalyse investment.
+Empirical studies of the catalytic effect on FDI also report negative or conditional findings.
+For instance, Jensen (2004) demonstrates that IMF agreements result in a lower level of FDI.
+Specifically, Jensen (2004) reports that countries signing an IMF programme receive on average
+25% less FDI inflows than countries not under an IMF programme, after controlling for selection
+into an IMF programme. More recent studies identify conditions under which IMF programmes
+serve as a catalyst: Al-Sadiq (2015) reports that for low-income countries, participation in IMF
+programmes is associated with a significant increase in FDI inflows. Biglaiser and DeRouen
+(2010) find that IMF borrowers tend to become more attractive only to U.S. investors.
+To summarise, few clear and consistent empirical patterns have emerged with respect to the
+catalytic effect of IMF programmes on FDI, portfolio investment or debt rescheduling. If any,
+when non-conditional effects are reported, they seem to run opposite to the theoretical prediction 
+ | MOON and WOO 2193
+(Edwards, 2006; Jensen, 2004). Comprehensive surveys of IMF studies concur with the sceptical
+conclusion that there seem to be few empirical studies supporting for the positive catalytic effect:
+‘one clear finding of this new literature is that the catalytic effects of IMF lending are not uniform
+across countries’ (Steinwand & Stone, 2008, 143). Similarly, in their survey of the empirical literature on catalytic finance, Bird and Rowlands conclude:
+To the extent that there is a catalytic effect… it appears to be weak and partial, and
+dependent on the countries and capital flows involved as well as the nature of IMF
+involvement. The evidence… also suggests that the effects of IMF programs are
+highly idiosyncratic, with some results appearing sensitive to sampling and econometric procedures. Any generalization must be viewed with caution. However, it
+does appear that large scale empirical research provides little support for the idea of
+strong, consistent and positive catalysis (Bird & Rowlands, 2002, 241).
+Existing studies discuss a few possible reasons for these conflicting effects of IMF programmes.
+Most importantly, many point the negative signal that participation in an IMF programme generates.
+That is, signing an IMF programme works as revelation of economic weakness and financial distress
+of a participating country, and this signal of economic distress discourages investment (Gehring &
+Lang, 2020; Zwart, 2007).
+Given the negative, weak and often conflicting empirical evidence, both Bird (2007), Bird
+and Rowlands (2002) and Steinwand and Stone (2008) advise moving away from seeking a generalisable argument and towards a more nuanced approach of identifying circumstances where
+the catalytic effect is more positive and significant. In particular, they call for more theoretical
+studies to identify such conditions.
+More recent studies have investigated under which conditions IMF programmes work, and
+they have identified some circumstances under which the catalytic effect is more likely to be
+positive. The recent theoretical literature has developed models to argue that when the economic
+fundamentals are neither too bad nor too sound, an IMF programme will most likely stimulate
+private financing (Brandes & Schule, 2008; Corsetti et al., 2006; Morris & Shin, 2006). Bordo et al.
+(2004) and Mody and Saravia (2006) have tested this hypothesis and report that IMF programmes
+are indeed likely to have positive catalytic effects when they are signed before economic fundamentals have significantly deteriorated. Zwart (2007) argues that only when large liquidity
+support is made, we would observe the catalytic effect as the liquidity support would off-set the
+negative signalling effect. In addition, Bauer et al. (2012) argue that the effect of IMF agreements
+on a country's access to FDI depends on its domestic institutions. They further argue that access
+to FDI depends on a country's ability to commit credibly to implementing an IMF programme,
+and this ability varies systematically across regime type. In democracies, where governments can
+commit more credibly, IMF programme participation has a positive effect on FDI inflows, while
+in autocracies, where governments cannot credibly do this as well, IMF programme participation has a weak, negative effect (Bauer et al., 2012). Woo (2013) contends that the catalytic effect
+is stronger when IMF conditions are harsher because stricter programmes are more credible.
+Examining the effect of IMF programmes on U.S. FDI, Biglaiser and DeRouen (2010) report
+that IMF borrowers tend to attract U.S. investment, although the effect varies across loan types:
+standby agreements are more likely to catalyse than agreements under the Poverty Reduction and
+Growth Facility. Examining the variation in loan sizes, Benelli (2006) reports that larger financial assistance is negatively related to private capital flows. Disaggregating FDI by sectors, Breen
+and Egan (2019) find that while the effect of IMF programmes on FDI is overall negative, the 
+2194 | MOON and WOO
+anti-catalytic effect is concentrated in economic sectors that are characterised by low sunk costs
+but high dependency on foreign capital, such as financial industry and construction. Chapman
+et al. (2017) delineate four different effects a programme can have on bond yields and contend
+that controlling for amount of loan and conditionality, IMF programmes are associated with
+higher bond yields because of the adverse selection effect, and politically biased programmes in
+particular are associated with higher bond yields due to the moral hazard effect. Dang and Stone
+(2021) demonstrate that US banks increase their FDI through merge acquisition in countries
+with financial conditionality by the IMF, and they argue that this is due to favourable treatment
+US banks receive thanks to the overwhelming US influence in the IMF.
+These recent studies certainly advance our understanding of the catalytic effects of IMF programmes. Examining various characteristics of IMF programmes and circumstances that warrant IMF programme participation has helped researchers to identify the conditions under which
+IMF programmes can function as a ‘seal of approval’. At the same time, one of the most important political factors of IMF programmes identified, the political influence of the major shareholder, the United States, has yet to be theoretically explored and empirically examined, except
+for the latest study by Chapman et al. (2017). Focusing on bond yields, Chapman et al. (2017) use
+an interactive statistical model to show that programmes for countries with close ties to the
+United States have worse bond yields because of intense moral hazard.1
+ The omission is problematic, given that theoretical channels of the Fund's catalytic effect, such as screening, credible
+commitment and signalling mechanisms, may hinge on the possibility of political intervention
+by the United States and hence the credibility of an IMF programme and proposed reforms.
+Building on existing studies including Chapman et al., the following section presents a theoretical argument of how IMF programmes and political relations between the United States and
+programme-participating countries affect FDI.
+4 | THEORY
+The proposition that IMF programmes catalyse private capital flows posits a scenario whereby
+MNCs, a country and the IMF interact as follows. Countries that participate in IMF programmes
+signal that they are committed to market-oriented reforms—privatisation, deregulation, capital
+account liberalisation, financial sector reforms, labour reforms—that MNCs deem desirable.2
+When countries agree to IMF programmes, MNCs ‘approve’ and increase their investment in
+those countries. Hence, the catalytic effect of the IMF programmes follows.
+1
+Chapman et al. (2017) make a significant contribution to the literature by delineating four distinct effects of IMF
+programmes—liquidity, conditionality, adverse selection and moral hazard—on bond yields. While we welcome their
+theoretical innovations, we also think that they underestimate the possible heterogeneous consequences of each of the
+four effects. For instance, they assume that the liquidity effect will be positive; that is, the larger the loan, the more
+positive the effect it will have on bond yields. However, we think it is also plausible that a larger loan signals a more
+severe economic crisis a borrowing country is in, and hence possibly has a negative effect on bond yields.
+2
+Kentekelenis et al. (2016) surveys policy conditionality included in all IMF programmes signed between 1985 and 2014
+and concludes that there have been few substantial changes in IMF conditionality and the IMF continues to demand
+privatization of SOEs, capital account liberalization, financial sector reforms labour-market reforms and institutional
+reforms. Kaya and Reay (2019) provides a nuanced look at how the Washington Consensus and pro-market policies
+have shifted over time at the IMF.
+ | MOON and WOO 2195
+The weak link in this logic, we believe, lies in the connection between a country's commitment to policy reform at the point of signature and its actual implementation. As many IMF
+studies report, not all conditions included in an IMF programme are successfully implemented
+(Dreher, 2006; Ivanova et al., 2001; Killick, 1995). Moreover, punishment by the IMF for reneging
+initial promises has been inconsistent and politically driven (Stone, 2004). Thus, we do not accept
+the implicit yet commonly shared assumption in theoretical studies of the catalytic effect that
+IMF conditions are automatically implemented, and hence lead to successful economic reforms
+that appeal to investors. To the contrary, following established research in international relations,
+we suggest that commitment and implementation are two separate issues and only some international commitments are successfully followed up (Fearon, 1997).
+When we posit that only some IMF programmes are successfully implemented, we can single
+out a key problem with the core logic of the catalytic effect proposition: the credibility of the
+commitment to economic reforms. When countries participate in IMF programmes, they signal
+their commitment to politically costly reforms, but how credible is such commitment? Existing
+theoretical argument, based on the assumption of the tight connection between commitment
+and policy implementation, posits that credibility is given and constant across IMF programmes,
+but this assumption is too far removed from the reality: many IMF programmes are incompletely
+implemented, and hence, the credibility of the commitment to economic reforms should vary
+across IMF programmes.
+We locate one source of credibility or lack thereof in the international politics of the IMF.
+The IMF is a political institution: how hard it will push for economic policy reforms and how
+likely it is to punish those countries that do not follow through with their commitment are political decisions. The decision-making body of the IMF, the Executive Board, is composed of
+24 directors, each representing a country or group of countries and these executive directors
+make all the important decisions, including programme approval and suspension. With their
+disproportionally large voting power with their own appointed directors, major stakeholders of
+the IMF—including the United States, Japan, Germany, the U.K. and France—can often steer
+decisions as they wish. Numerous studies of the IMF have demonstrate how major stakeholders,
+and especially the United States, have exerted substantial influence over operations of the IMF
+(Barro & Lee, 2005; Dreher & Jensen, 2007; Dreher et al., 2009; Momani, 2004a, 2004b; Stone,
+2004, 2011; Thacker, 1999).
+We revise the theoretical logics behind catalytic finance to identify the conditions under which
+an IMF programme is more likely to stimulate FDI. We combine two propositions—that the credibility of an IMF programme is not guaranteed but varies and that some IMF programmes are
+politically motivated—to argue that politically motivated lending by the IMF can attenuate the
+credibility of an IMF programme, depressing the catalytic effect of a Fund programme. We reason that IMF programmes initiated by political intention are less likely to be strictly enforced and
+implemented; thus, their credibility is more questionable. In comparison, programmes following
+technocratic procedures and assessment by IMF staff are more likely to be strictly designed and
+enforced; thus, their credibility is stronger.
+The most powerful member of the Executive Board is the Executive Director of the United
+States, slightly under 17% of voting power, and thus can single-handedly block any important
+decision, as such Board decisions require an 85% supermajority. The formal voting power vested
+to the United States is further supplemented and bolstered by the informal influence that the
+United States holds over the IMF (Stone, 2011). The United States enjoys privileged access to the
+IMF management team including the Managing Director, who exclusively holds agenda setting 
+2196 | MOON and WOO
+power at the IMF (Stone, 2011). The combination of the formal and informal influence that the
+United States holds over the IMF thus cannot be overstated. This disproportional advantage has
+enabled the United States to utilise the IMF as a foreign policy tool as required. Studies of the
+IMF have demonstrated U.S. political influence at every stage of an IMF programme, from participation to conditionality design to punishment for non-compliance (Barro & Lee, 2005; Dreher &
+Jensen, 2007; Dreher et al., 2009; Momani, 2004a, 2004b; Stone, 2004, 2011; Thacker, 1999). One
+of the key findings of this research is that close ‘friends’ of the United States are often favoured
+by the IMF and can negotiate programmes with less strict conditions as well as being less likely to
+be punished in cases of non-compliance. This implies that the IMF's push for economic reforms
+and potential punishment for non-compliance might be the weakest when ‘friends’ of the U.S.
+sign up to IMF programmes and the strongest when those countries that the United States does
+not care much about participate.
+We thus operationalise politically motivated IMF lending by examining the degree to which
+strategic interests of the U.S. intervene in the IMF's decision-making process. When IMF programmes are influenced by ‘high politics’ and arranged under U.S. strategic considerations, programmes lose credibility to be strictly designed and enforced; thus, investors are less willing to
+extend investment, resulting in a reduction of FDI inflows in following years. In comparison,
+IMF programmes arranged on the basis of standard technocratic procedures and without undue
+U.S. strategic intervention should credibly appeal to foreign investors, thus stimulating more FDI
+inflows in subsequent years.
+In sum, we argue that the catalytic effect of an IMF programme should vary with its credibility. Credibility is lowest when the political influence of the United States is highest; the
+programme's appeal to investors should, then, be weakest. Thus, the catalytic effect should
+be weaker when ‘friends’ of the United States embark on IMF programmes. In comparison,
+the credibility of an IMF programme and consequently, the prospects for economic reforms,
+should be stronger when countries without significant ties to the United States undertake
+IMF programmes. These programmes should better appeal to investors, resulting in more FDI
+staying and flowing in.
+The theoretical argument is summarised below as the main hypothesis:
+• When friends of the United States—countries close to the United States—undertake an
+IMF programme, the catalytic effect of the programme on FDI should be less positive
+than when countries without significant ties with the United States do so.
+5 | RESEARCH DESIGN
+We employ a time-series cross-sectional design where the unit of analysis is a country-year. The
+temporal domain covers from 1987 to 2013, and the sample includes up to 153 countries for a
+given year. Scholars have long suggested that joining an IMF programme is not a random event;
+underlying economic and political conditions may make certain countries more likely to participate (Biglaiser & DeRouen, 2010; Jensen, 2004; Vreeland, 2003; Woo, 2013). Thus, it has become
+standard in the literature to take the selection issue into account. Researchers have adopted a
+number of approaches to control for such conditions as a first cut. Following the common handling of the matter, we use a treatment effect model (Bauer et al., 2012; Biglaiser & DeRouen,
+2010; Jensen, 2004). A treatment effect model allows us to estimate the effect of a binary variable
+(i.e. an IMF programme), which is a function of a set of variables, on another endogenously 
+ | MOON and WOO 2197
+chosen continuous variable (i.e. FDI).3
+ The treatment effect model consists of two stages: (1)
+outcome and (2) treatment.
+The main dependent variable of the outcome stage is the amount of FDI flow.4
+ FDI flow is a
+proper measure to capture the change in foreign capital given different types of signals.5
+ We use
+logged FDI inflow, measured in millions of current US dollars. Since the FDI variables are reported
+in current US dollars, we convert them to the 2011 constant value to deal with inflation over time,
+and like others, we transform the FDI variables following the standard practice in the literature to
+deal with zero and negative values.6
+ We do not use a rescaled measure of FDI inflows (such as FDI
+as a percentage of GDP) for both theoretical and empirical reasons.7
+ First, FDI as a percentage of
+GDP is close to the concept of FDI openness rather than the amount of investment as in the way
+that scholars measure ‘trade-openness’. While it could be a proper measure to capture the host
+country's economic policy or its reliance on foreign capital, the standardised measure is not suitable
+to capture how firms make an investment decision; it is less reasonable to assume that foreign companies would discount the investment's value due to its relative importance to the host economy.
+Second, since the dependent variable contains both FDI and GDP components, we are not certain
+whether the estimated effects of independent variables mainly result from their association with the
+FDI side, GDP side or both. Allee and Peinhardt raise a similar concern that ‘including some type of
+standardizing variables on the left-hand side of the regression equation (for example, FDI as a percentage of GDP) could create artificially large correlations with some independent variables (for
+example, population, GDP, GDP per capita, etc.)’ (Allee & Peinhardt, 2011, 420). FDI variables come
+from the United Nations Conference on Trade and Development (UNCTAD) data centre.8
+Our key independent variables in the outcome stage equation include IMF participation and
+the relationship between a participating country and the United States First, Sign IMF is assigned
+3
+The interaction between outcome stage independent variable and treatment variable is discussed in Maddala (1983).
+For the formal justification of interaction modelling in the treatment effect model, see the Stata electronic manual of
+‘etregress’ command at https://www.stata.com/manuals14/teetregress.pdf.
+Outcome stage: FDIt+1 =?1IMF participationt +?2Ideal Point Distancet
++?3IMF* Ideal Point Distancet +Controls+?
+Treatment stage: IMF participation = 1, if ??iw + u > 0 and 0, otherwise
+4
+While we are mainly interested in the change of inward foreign capital, there is some critique that FDI stock is a better
+measure of foreign firms’ commercial activities (Kerner, 2014). Thus, we use a logged FDI stock, measured in millions
+of US dollar for test the robustness of our main findings. The results still support our hypothesis.
+5
+We also report the empirical results using FDI stock as the dependent variable in the robustness test section. The
+results still support our hypothesis.
+6
+Eichengreen and Irwin (1995), Kerner (2009), Levy Yeyati et al. (2007), Moon (2015) and Tobin and Rose-Ackerman
+(2011); if FDI = 0 then log FDI = (FDI + 1), if FDI < 0 then log FDI = -log(1 +  FDI ).
+7
+See Li (2009) for a detailed discussion on this issue.
+8
+We also run the models with net FDI inflow from the World Bank as the dependent variable and the models including
+the lagged dependent variables on the right side of the equation. The findings are nearly identical. See Appendix Tables
+A6 and A7.
+2198 | MOON and WOO
+one when a country signs up for an IMF programme in a given year. Theoretically, it is possible
+that a country begin a new programme in a year when an existing programme is still effective Ð
+either by cancelling an existing programme then signing a new programme or by signing a new
+programme following up on an expiring programme. Thus, we assign zero when a country does
+not sign a new programme in a given year even when a country is still under an IMF programme.
+Some may raise a concern for this decision; thus, we also run models with Under IMF, which is
+coded one when a country is under an IMF programme. The results are strikingly similar so the
+subsequent discussion focuses on Sign IMF. The results with Under IMF can be found in Appendix
+Table A5. To capture the relationship between a country and the United States, we utilise the
+country's ideal point distance from that of the United States (Strezhnev & Voeten, 2012). This
+measure is based on the roll-call voting records of a country at the United Nations General
+Assembly (UNGA) and can be used to trace a country's policy position over time. We use Ideal
+Point Distance, which records the absolute distance between a country's ideal point and that of
+the United States. This variable is an updated version of UNGA Voting Affinity, which has been
+widely employed in similar studies (Dreher & Jensen, 2007; Thacker, 1999). The theoretical value
+of the variable ranges from zero to five, whereby the smaller value implies a closer policy alignment between the country and the United States. Lastly, we create the interaction variable
+IMF*IPD by multiplying the IMF participation variable by Ideal Point Distance to examine the
+conditional hypothesis we propose.9
+At the treatment stage, we use the Sign IMF as the main dependent variable. 10For a treatment
+model, it is still possible that any unobserved factors affecting FDI inflows are correlated with
+IMF programme participation, leading to a bias in the estimation of an IMF programme's effect
+on FDI inflows. Thus, to better appraise an IMF programme's causal effect on FDI, we adopt an
+instrumental variables’ approach.
+Good instrumental variables should be endogenous to the independent variable (i.e. IMF participation), but need to be exogenous to the dependent variable (i.e. FDI), and should not be
+correlated with the unobserved factors influencing FDI. We adopt a compound instrumentation
+approach, which has become popular in the studies of aid effectiveness and IMF conditionality
+(Dreher & Langlotz, 2017; Lang, 2016; Lee & Woo, 2021; Nunn & Qian, 2014; Stubbs et al., 2020).
+The idea behind the compound instrumentation is that an instrument variable is created by interacting a time-varying covariate that affects the treatment variable with a unit-specific covariate that also affects the treatment variable. Then, the time and the unit-specific effects are
+controlled for with country and time fixed effects. Following the recent development in the IMF
+literature, we create a compound instrumental variable (IMF COMPD), which interacts the budget constraint of the IMF in a given year (IMF liquidity) with the propensity that the country
+enters an IMF programme (IMF probability). Specifically, IMF liquidity is logged ratio of liquid
+resources (net uncommitted usable resources) to liquid liabilities (total of members’ reserve
+tranche positions plus outstanding IMF borrowing from members) and IMF probability calcu-
+(lates the fraction of years the country has been under a programme between 1987 and year t
+i. e. , St
+T=1987I(IMF programit =1)
+t -1987 )
+. Lang provides a detailed discussion of how the instrument meets
+the exclusion restriction (Lang, 2016).

@@ -1,0 +1,829 @@
+                                         International Journal of Hospitality Management 111 (2023) 103493
+
+                                                     Contents lists available at ScienceDirect 
+
+                              International Journal of Hospitality Management 
+
+                                              journal homepage: www.elsevier.com/locate/ijhm 
+
+
+‘Apparent’ and actual hotel scores under Booking.com new 
+reviewing system 
+
+Veronica Leoni      a,b,*,1, David Boto-García       c,2 
+
+a Center for Advanced Studies in Tourism, University of Bologna, Italy 
+b Department of Applied Economics, University of the Balearic Islands, Spain 
+c Department of Economics, University of Oviedo, Spain   
+
+
+ARTICLE INFO                                  ABSTRACT  
+
+Keywords:                                     In September 2019, Booking.com changed its reviewing system based on the simple average of six items on a 
+Booking.com                                   2.5–10 scale by an unrestricted valuation on a 1–10 scale. This change has resulted in the drop of observed 
+Hotel                                         average scores. However, it is unclear which part of the shrinkage is due to the scale adjustment and which to 
+Rating scores 
+                                              priorly neglected aspects that consumers consider when valuing their satisfaction with the hotel stay. Using a 
+Scale effects 
+                                              dataset of more than 429,000 individual reviews for hotels in Madrid, Barcelona, Rome, Milan and Lisbon before 
+Propensity score matching 
+                                              and after the change, this paper disentangles apparent from actual changes in scores produced by the new scoring 
+                                              system. Using linear regressions and Propensity Score Matching, we show that, once the scale effect is left out, 
+                                              the new system has led to an increase by around 0.1 points in the actual valuation. Our results are potentially 
+                                              explained by the existence of unpacking effects.   
+
+
+1. Introduction                                                            (Anagnostopoulou et al., 2020; Nieto-Garcia et al., 2019). 
+                                                                              Given the importance of user-generated hotel scores, several scholars 
+   The hospitality literature has traditionally devoted great attention to have studied the content and characteristics of hotel reviews in online 
+guests’ evaluation of consumer  services because of its important eco­     platforms like TripAdvisor  (e.g., Taecharungroj and  Mathayomchan, 
+nomic  and  managerial  implications. Together  with  the well-known       2019)  and  Booking.com   (e.g., Mariani et al., 2019). The  latter is 
+positive effects of satisfaction on repeat purchases  (Choi and  Chu,      nowadays the leading Online Travel Agency (OTA) (Martín-Fuentes and 
+2001), intention to recommend (Akinci and Aksoy, 2019) or reputation       Mellinas, 2018),  counting  more   than 28  million  accommodations 
+building (Horner,¨  2002), the development  of Internet user-generated     worldwide. Most studies highlight that the distribution of hotel scores is 
+opinions  in  websites  like  TripAdvisor.com   or  Booking.com   has      highly left skewed, with most hotels exhibiting scores over 8 and very 
+increased the visibility of good and bad experiences to others. Since the  few with bad ratings. In the case of Booking.com, Mellinas et al. (2015) 
+quality of accommodation stays is uncertain ex ante, prospective con­      show  that this is because the reviewing system  implemented   by the 
+sumers use online reviews and ratings as a source of information when      platform uses a 2.5–10  scale for which  the mid-point  is 6.25. Since 
+making their accommodation choices (Fernandez-Barcala´    et al., 2010;    consumers generally judge scales as if they were defined on the 1–10 
+Martín-Fuentes, 2016).  That is, opinions left by other consumers  on      interval (Preston and Colman, 2000), a hotel score of 7 might be inter­
+online  platforms  act as  quality  cues. In  this regard,  electronic     preted as a medium-high score whereas it actually should be deemed 
+word-of-mouth (eWOW) has been shown to increase hotel consideration        simply as good. In this respect, existing works that have compared hotel 
+(Vermeulen and Seegers, 2009), booking intentions (Casalo´ et al., 2015),  scores in Booking.com with other online platforms like Priceline (Mel­
+consumer  trust (Sparks and  Browning,  2011),  hotel occupancy  rates     linas et al., 2015), TripAdvisor (Martín-Fuentes et al., 2018) and Agoda 
+(Viglia et al., 2016) and brand meaning cocreation (Borges-Tiago et al.,   and Atrapalo (Martin-Fuentes et al., 2020) show that average ratings for 
+2021). As a result, online review scores are a strong predictor of market  the same hotels are higher in Booking.com. Accordingly, hotel scores in 
+survivability (Naumzik et al., 2022) and financialprofitability and  sales Booking.com   could be  inflated, making  it difficult for an average 
+
+ * Correspondence to: Center for Advanced Studies in Tourism, Via Anghera,´  22, 47921 Rimini, Italy. 
+   E-mail address: veronica.leoni3@unibo.it (V. Leoni).   
+ 1 ORCID ID: 0000-0001-8419-4241  
+ 2 ORCID: 0000-0001-8065-0983 
+
+https://doi.org/10.1016/j.ijhm.2023.103493 
+Received 28 July 2022; Received in revised form 27 March 2023; Accepted 1 April 2023   
+Available online 12 April 2023
+0278-4319/© 2023 The Authors. Published by Elsevier Ltd. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+V. Leoni and D. Boto-García                                                                                                                                          International                    Journal            of    Hospitality                 Management                   111 (2023) 103493
+
+internet user to properly assess the quality of a hotel.                   scaling from true satisfaction change in hotel scores at the review level. 
+   In September 2019, Booking.com changed its reviewing system by          Our  work  therefore  sheds light on  the  important  implications of 
+shifting from computing  hotel overall scores as the average of scores     changing crowd evaluation mechanisms and scale ranges in the hospi­
+assigned to six aspects on a 2.5–10 scale to asking consumers to directly  tality industry. From this viewpoint, the paper adds to a large literature 
+rate their hotel experience on a 1–10 scale. Moreover, while in the old    on the  non-neutral implications of choice  architecture and  defaults 
+system consumers were asked to choose among four smileys, nowadays         (Cronqvist et al., 2018; Thaler, 2018). 
+they are required to select an integer score on a slider. This change from    Second, we offer a theoretical decomposition of the observed gap in 
+a multi-dimensional to a single-dimensional reviewing system leads to      hotel scores before and  after the change. In particular, the score is 
+two main effects on observed rates. On the one hand, by construction,      decomposed   into four parameters  that we label as the weighting, the 
+the change  in scale produces  a  drop in  overall scores because  the     scaling, the variability and the omitted satisfaction components. Our third 
+midpoint is now 5 rather than 6.5. On the other hand, enabling users to    contribution is methodological.  We  apply  PSM   based on  travelers’ 
+directly enter their overall score makes it to likely depart from  the     characteristics (length of stay, travel party composition and nationality) 
+average of scores given to the six traditional aspects, something which is with exact matching of reviews made for the same hotel, before and after 
+theoretically sustained by ‘unpacking effects’ (Angelini et al., 2017; Van the change. As such, our estimates can be given a causal interpretation 
+Boven and Epley, 2003), dimensional rating bias (Schneider et al., 2021)   (Heckman et al., 1997, 1998). Inverse Probability Weighting regression 
+and priming effects (Chen et al., 2018). This issue has raised concerns    adjustment (Hirano et al., 2003) is also used as a robustness check. As 
+among both hotel managers and prospective users who are not able to        compared  to DiD  methods,  our econometric  strategy avoids potential 
+figureout  the sources of the score discrepancy (Mellinas et al., 2021). On comparability problems when working with individual reviews associ­
+these grounds, the following research question emerge: is the observed     ated with  consumers’  self-selection into OTAs  (Chen  et al., 2021). 
+drop  in scores a mere  scaling issue or does it reflect a truly lower     Moreover, we use a large dataset covering five of the most important 
+satisfaction through previously neglected  dimensions  and/or  behav­      tourist cities in Southern Europe. In this regard, there is an increasing 
+ioural biases like unpacking effects?                                      awareness among scholars in hospitality and tourism about the advan­
+   The goal of this paper is to study the effects of the change in Booking. tages and possibilities of using big data analytics (Lyu et al., 2022; 
+com  review  system  on  both  ‘apparent’ hotel scores (without  scale     Mariani, 2020). Our results offer the great advantage they are not sen­
+adjustment) and ‘actual’ scores (once the scale has been adjusted). The    sitive to the specificidiosyncrasies  of a city or to cultural factors, which 
+latter captures score differences due to the following facts: (i) consumers ensures a high external validity to our findings. 
+might internally attach different subjective weights to the different hotel 
+quality dimensions (instead of forcing all of them to enter the overall    2. Literature review 
+valuation  with equal  weights); (ii) other hotel quality  dimensions 
+beyond  the  fixed six aspects defined  in the  old system  might  be      2.1. Accommodation reviews in used-generated-content platforms 
+considered now, and (iii) consumers can offer a more accurate valuation 
+of their stay through  the wider  range  of the available rating scale        A large body of research has examined consumer reviews and ratings 
+(Preston and Colman, 2000).                                                in different user-generated-content platforms. Detailed reviews of on the 
+   We   use a large dataset involving  429,304  individual reviews  in     topic can be found in Leung et al. (2013), Serra Cantallops and Salvi 
+Booking.com from five of the most important Southern European cities       (2014) and Magnani (2020). Some stylized facts from this literature are 
+(Madrid, Barcelona, Rome, Milan and Lisbon). The dataset covers the        the following. First, scores distributions are highly left skewed, with 
+period October  2018-January  2019  (old scoring system) and  October      mean ratings around 8 (Mariani and Borghi, 2018; Mariani et al., 2019; 
+2019-January   2020  (new  scoring  system). As  opposed  to previous      Racherla et al., 2013). Some authors indicate that hotel scores in online 
+descriptive  analyses  (Amblee    and   Ullah,  2022;   Mellinas  and      platforms might not be accurate and credible because of manipulation 
+Martin-Fuentes, 2021), we implement Propensity Score Matching (PSM)        from the firms’ perspective (Mayzlin et al., 2014) together with con­
+technique to match individual review scores for the same hotel and for     sumers’ fake reviews  (Luca and  Zervas, 2016) and  self-selection into 
+travelers with similar characteristics who rate their accommodation        online platforms  (Shen  et al., 2021).  Nonetheless,  Martín-Fuentes 
+before and  after the change.  Therefore, our  econometric  modelling      (2016) provides  evidence that scores in websites like TripAdvisor or 
+strategy allows us to estimate the effect of the change in Booking.com     Booking  are well-aligned with  official hotel star-rate classifications. 
+reviewing system on hotel scores.                                          Furthermore, Smironva et al. (2020) show that both online and offline 
+   Our results show that observed hotel scores decreased, on average, by   rating show similar distributions, supporting the notion that valuations 
+around 0.15 points after the implementation of the new system. How­        offered in online settings are similar to the ones provided offline. 
+ever, once scale differences are removed,  we  find that actual scores        Second,  the presence of hotels in user-generated online platforms 
+increased by about 0.1 points on average. This effect is quite homoge­     depends on the size, category and independent vs. chained nature of the 
+neous across cities and remains robust under a battery of checks. We       hotel (Martín-Fuentes and  Mellinas, 2018). In this vein, autonomous 
+discuss the sources and implications of these differences in detail later in hotels are better in satisfying the customer in value for money while 
+the paper.                                                                 those affiliatedto  small chains have a greater ability to satisfy in comfort 
+   This work makes three contributions to the tourism and hospitality      (Moreno-Perdigon´  et al., 2021). Third, the submission device and the 
+literature. First, evidence on how the reviewing change in Booking.com     presentation format  for the  reviews  seems  to be  non-neutral. For 
+has affected observed and  actual hotel scores is scarce to date. Some     instance, Mariani et al. (2019) show that mobile reviews are shorter but 
+previous studies have predicted that the new Booking.com review sys­       with greater valence than that from desktop eWOM. Kim et al. (2021) 
+tem  might cause  observed changes  in hotel scores that dot not truly     provide evidence that visual information in the form of photos of rooms 
+reflect changes in customer satisfaction (Mellinas and Martin-Fuentes,     and facilities exert a positive effect on review ratings and sentiments. 
+2021)  or studied how  to harmonize   overall scores that mix reviews      Fourth, attribute ratings are mutually dependent,  implying  that the 
+from the old and the new system (Amblee and Ullah, 2022). Kim et al.       assessment of satisfaction with one hotel dimension is affected by others 
+(2022) have gone beyond and examined the causal impact of the new          (Nicolau et al., 2020a). Accordingly, dissatisfaction with one attribute 
+system  on overall scores using  a difference-in-differences (hereafter    has the power to drop the overall evaluation through consumers’ biased 
+DiD) research design. Whereas these studies focus on changes in overall    tendency to punish the hotel if one dimension is not as desired (Mellinas 
+scores at the hotel level, we still know little about how review systems’  et al., 2019). 
+design affect consumers’ individual scores in online platforms. To the        Fifth, online ratings vary across tourist profiles.Online  reviews differ 
+best of our knowledge, this is the firstpaper  that attempts to disentangle depending on the length of the stay (Kim and Han, 2022), nationality 
+
+                                                                        2
+V. Leoni and D. Boto-García                                                                                                                                          International                    Journal            of    Hospitality                 Management                   111 (2023) 103493
+
+(Rita et al., 2022) or the composition of the travel party (Radojevic et al., former is said to be more reliable because whereas reviews on  Tri­
+2015; Banerjee and Chua, 2016). Furthermore, factors like customer’s       pAdvisor are not constrained to those who stayed overnight at the ac­
+cultural traits (Mariani and Predvoditeleva, 2019), the use of domestic    commodation (anyone can post a comment), Booking.com implements a 
+vs. foreign language  (Mariani et al., 2019), geographic  and psychic      verifieduser  system by which only actual consumers can rate the hotel. 
+distance (Phillips et al., 2020) or traveller experience (Gao et al., 2018) In this regard, consumers have been shown to be quite sceptical about 
+have been shown to shift hotel ratings. In this respect, recent evidence   eWOW because of the users’   anonymity (Sparks and Browning, 2011; 
+by Nicolau et al. (2022) shows that the use of language by the hotel staff Leung et al., 2013). Martín-Fuentes et al. (2018) compare hotels reviews 
+exerts positive but asymmetric effects on satisfaction scores. Addition­   in both platforms and document that although scores and rankings in the 
+ally, ratings notably  differ depending   on  whether   the monetary       two  platforms are positively correlated, the score  means  are quite 
+component is considered. For example, Nicolau et al. (2020b) indicate      different. Similarly, Figini et al. (2020) analyse the distribution of scores 
+that hotel  scores are lower  when   evaluating  value for  money   as     of the two  leading platforms. These authors  find that scores left on 
+compared to satisfaction scores that only involve non-monetary aspects.    non-verified systems  are  more   volatile, also displaying a  slower 
+   Lastly, another typical findingis  that consumers seem to be sensitive  convergence to longer-term scores. 
+to prior ratings when evaluating their stay at a hotel, particularly when     Most of the literature has assumed that Booking.com uses a 10- or 11- 
+those ratings are above the average (Cicognani et al., 2021). This pattern point Likert scale, as it is customary in satisfaction studies. However, 
+is consistent also with herding and informational cascades documented      Mellinas et al. (2015) were among the first that warned that Booking. 
+in other online rating systems like those of movies (Lee et al., 2015) or  com actually used a scoring system on a 2.5–10 scale. The fact that the 
+restaurant dishes (Cai et al., 2009). Furthermore, in line with the theory lower bound of the scale was 2.5 rather than 0 or 1 explains the common 
+of first-impression bias developed by Rabin  and  Schrag (1999), con­      finding that most hotels exhibit scores above 7. Martín-Fuentes et al. 
+sumers who choose a hotel due to recommendation have been found to         (2018) argue that the higher scores of Booking.com compared to Tri­
+be more subsequently satisfied with hotel services because people tend     pAdvisor are in fact the result of the differences in the scales used. 
+to sustain ex-ante perceptions (Boto-García et al., 2021).                    Tourism  scholars have  investigated the implications of the differ­
+                                                                           ences in the scale used for ratings. Mariani and Borghi (2018) exploit 
+2.2. Choice architecture and measurement scales                            more than 1.2 million online reviews for hotels in London and show the 
+                                                                           overall distribution of scores is left-skewed, with most hotel scores 
+   In recent years, a large body of research has started to pay attention  concentrated in the 7.5–10 interval. Interestingly, skewness is associated 
+to the role of choice architecture on people’s behaviour, defined as the   with hotel class. These authors argue that the non-normality of ratings’ 
+construction and definition of the set of options available to decision    distribution is highly dependent on the 2.5–10 scoring system deployed 
+makers. This stream of literature has shown that default options can act   by Booking.com. Mellinas et al. (2015) compare the scores in Booking. 
+as nudge-like  interventions aimed  at framing  and  targeting several     com with those in Priceline (which uses a 1–10 scale) for the same hotel. 
+choices, some of which are deemed better from a social welfare view­       Average  scores are found to be  significantly higher in Booking.com, 
+point (Cronqvist et al., 2018; Thaler, 2018). The way choice options are   being the difference larger for hotels with low scores. Similarly, Mar­
+defined can  exert non-negligible impacts on  how  people choose  and      tín-Fuentes et al. (2020) compare  hotel scores in Booking.com   with 
+behave. For  instance, in a famous study, Thaler and  Benartzi (2004)      several other user-generated content platforms and  obtain some  puz­
+provide evidence that reframing the “decision to save”  from reducing      zling results: as expected, Booking.com and Agoda (which uses a 2–10 
+consumption now to how much future increase in salary will be allo­        scale) give higher rating scores than other OTAs like Atrapalo, Travel 
+cated to savings reduces the impact of impatience and increases savings.   Republic and hotel reservation services (where 0–10 and 1–10 scales are 
+Using a series of experiments, Angelini et al. (2017) show that asking     in use); however, when  scores are rescaled, Booking.com   and Agoda 
+people to report satisfaction with life domains before overall satisfaction produce the worst ratings. Bigne´ et al. (2020) do not detect significant 
+with life generates ‘unpacking effects’ that shift upwards the subsequent  differences in online review scores across 11 different platforms. Inter­
+mean    overall   life  satisfaction  evaluations.  Based    on   two      estingly, these authors document some inconsistencies between scores 
+quasi-experiments in Britain, Conti and Pudney (2011) exploit a change     received by attributes individually and the overall score. 
+in question design to show that apparently minor differences in survey        In a recent study, Kim et al. (2022) evaluate the change in overall 
+design can produce misleading conclusions.                                 hotel scores in Booking.com  caused  by the new  scoring system.  The 
+   In the tourism context, several scholars have shown that the defini­    authors use reviews in Priceline in the same period as the comparison 
+tion of measurement scales and choice alternatives can impact the ob­      group. Using a difference-in-differences design, they find that the new 
+tained results (Dolnicar and Grün, 2013; Arana˜  and Leon,´  2013). The    system has a positive impact on highly positive reviews but a negative 
+definition of the number of alternatives in Likert-type measures when      one on  those with medium-to-high   scores. Their analysis focuses on 
+assessing satisfaction has also been shown to matter for reliability and   guests’ evaluation at the hotel level, with an emphasis on the change in 
+response bias (Pizam et al., 2016). The study by Preston and Colman        the scores’ distribution. We, instead, take individual scores as the unit of 
+(2000) shows  that scales with response categories above  7 are better     analysis, preventing the mix between  reviews under  both systems. In 
+suited for the purpose of assessing consumer  satisfaction in terms of     doing so, we focus on changes in mean values by a vis-a-vis`  matching of 
+reliability, validity and discriminating power.  They  document   that     travellers of the same profile before and after. 
+people prefer 10-point scales. Based on a between-subject experiment, 
+Chen  (2017) reports that five-star rating systems can make users feel     3. Conceptual framework 
+more fun than binary-textual and visual rating systems. In the light of all 
+this evidence, how  online platforms define hotel valuation metrics is        After the hotel stay, customers receive an e-mail from Booking.com 
+likely to be non-neutral  and  deserves a  closer examination. In  the     asking for their opinion about the experience  in the hotel. They are 
+following  section, we  review  existing  differences in hotel  scores     required to grade six different aspects using four different smiley faces 
+depending on the platform, with particular attention to Booking.com’s      that have  their numeric  equivalent  (Poor=2.5;  Fair=5;  Good=7.5; 
+review system design.                                                      Excellent=10). The six aspects considered are the following: cleanness, 
+                                                                           comfort, location, facilities, staff and value for money. A visual repre­
+2.3. Booking.com review system                                             sentation of this traditional multi-evaluation system is presented in  
+                                                                           Fig. 1. In the former reviewing  system, Booking.com   calculated the 
+   Booking.com   and  TripAdvisor are  the leading platforms for elec­     overall score as the plane average of the ratings assigned to each of the 
+tronic word-of-mouth  communication   in the hospitality industry. The     six aspects. Since the minimum   valuation allowed is 2.5, the overall 
+
+                                                                        3
+V. Leoni and D. Boto-García                                                                                                                                          International                    Journal            of    Hospitality                 Management                   111 (2023) 103493
+
+                                                                           point. This might exert non-negligible negative effects on future booking 
+                                                                           intentions through the above-mentioned herding-behaviour mechanism 
+                                                                           (Figini et al., 2020). 
+                                                                              In a seminal  study, Schneider et al. (2021) provide  a theoretical 
+                                                                           characterization of the expected differences in service evaluations be­
+                                                                           tween multi-dimensional (the review poster is required to make several 
+                                                                           ratings) and single-dimensional scoring systems (only an overall rating 
+                                                                           is required). These authors show that although multi-dimensional rat­
+                                                                           ings tend toward the mean of overall ratings, the choice among one type 
+                                                                           or another is non-neutral. In particular, single-dimensional systems tend 
+                                                                           to prime the most relevant dimension of the service experience whereas 
+                                                                           multi-dimensional  systems,  apart from  imposing   greater cognitive 
+                                                                           burden and survey fatigue, make some dimensions more accessible to 
+                                                                           memory.  A key  insight from their work is that overall ratings do not 
+                                                                           necessarily match the mean of multidimensional ratings; they could be 
+                                                                           either higher or lower. Their framework closely relates to the ‘unpacking 
+                                                                           effect’ firstly developed by Rottenstreich and Tversky (1997) and later 
+                                                                           presented in Van Boven and Epley (2003): the whole is less than the sum 
+                                                                           of its parts, making overall judgements to depart from the sum of indi­
+                                                                           vidual valuations. At the empirical level, both positive and negative 
+                                                                           deviations between   overall  (single-dimensional)  and  item-specific 
+                                                                           (multi-dimensional) valuations have been widely documented (Angel­
+                                                                           ini et al., 2017; Bateman et al., 1997; Chen et al., 2018). 
+                                                                              In what  follows, we provide  a theoretical characterization of the 
+                                                                           expected effects of Booking.com review system change on hotel scores 
+                                                                           and why the gap in scores could be either positive or negative. Let us 
+                                                                           assume the overall latent satisfaction of a given consumer i with hotel j 
+                                                                                                   ∗
+                                                                           services at period t (SATij ) can be expressed as an additive sum of three 
+                                                                           terms as follows: 
+                                                                                   ∑6
+Fig. 1. Example of the review process of the old Booking.com system.                  wijkSATijk
+                                                                           SAT ∗ = k=1         + η  + ε
+Source: own elaboration based on Booking.com multi-attribute review system.    ij     ∑6          ij   i                                     (1)  
+                                                                                         wijk
+                                                                                      k=1
+score was also bounded between 2.5 and 10. 
+
+   In September 2019, Booking.com introduced two important changes         where SATijk measures the satisfaction with aspect k for k = {cleanness,
+                                                  –
+in the scoring system: First, they switched the 2.5 10 scale to a more     comfort, location, facilities, staff, valueformoney}, wik indicates the indi­
+conventional 1–10 scale. Second, consumers are now allowed to select 
+                                                                           vidual weight assigned to each aspect in the overall valuation, ηij refers 
+an overall score themselves. This implies that the visible score associated to the satisfaction with any hotel characteristic other than the six aspects 
+to each hotel is no longer the plain average of the six aspects considered 
+                                                                           considered (e.g. sleep or food quality), and εi is a zero-mean normally 
+                                                        –
+(whose  valuation has been  nonetheless kept  in the 2.5 10 scale and      distributed error term that reflects individual idiosyncratic effects that 
+measured through smileys but does not enter in the overall score eval­
+                                                                           affect overall valuation (e.g., mood). The term ηij is likely to be het­
+uation). Fig. 2 presents an illustration of the new review system. As a 
+                                                                           erogeneous across consumers and hotels so that η  ∼ N(μ, ση). 
+result of these changes, hotel scores have  shrunk, especially among                                                       ij
+                                                                              Before the change in the scoring system (hereafter denoted by sub­
+hotels  with   current  low   and   medium    scores   (Mellinas  and 
+                                                                           index 0), we observe in contrast the following indicator of satisfaction: 
+Martin-Fuentes, 2021). Assuming that the quality of hotel services is the 
+same before and after the change (i.e., the underlying quality has not             ∑6
+                                                                                      SAT
+been affected by the valuation change), the new system makes scores to                    ijk
+                                                                           SAT   = k=1
+be individually lower because the minimum value allowed is now lower.          ij0     6                                                     (2) 
+Since Booking.com   uses a 3-year rolling window,  the new  individual 
+                                                                              That is, under the old system, hotel scores for each guest are calcu­
+scores also pull down  aggregate scores. As discussed in Mellinas and 
+                                                                           lated as the average satisfaction with the six aspects under the restrictive 
+Martin-Fuentes, 2021, some hoteliers and prospective guests might be 
+                                                                           assumption that wik =  1∀k. Beyond that, there could be measurement 
+concerned when they notice overall scores have dropped by almost one 
+                                                                           error in SATijk because hotel guests are restricted to choose among four 
+                                                                           discrete rates (2.5, 5, 7.5 and 10) for each aspect k. Therefore, hotel 
+                                                                           scores in the old system might  be a biased  representation of guests’ 
+                                                                           underlying satisfaction. 
+                                                                              One caveat is in order. The individual assessment of satisfaction with 
+                                                                           each aspect k could be also affected by idiosyncratic factors εikso that 
+                                                                                          ∗
+                                                                           SATijk = SATijk  +  εik, where  SATijk indicates the observed   rating 
+                                                                                                      ∗
+                                                                           assigned to item k and SATijk denotes the latent satisfaction with item k. 
+                                                                           For simplicity, we assume that the expected value of the idiosyncratic 
+Fig. 2. Example of new Booking.com  review process. Note: The evaluation                              )
+                                                                                                        =
+process displayed in Figure 1 is still part of the new system, but the new overall factor is equal to zero (E εijk 0). Under this assumption, we therefore 
+score is independent of it. As shown in this example, the overall score is now consider that positive and negative deviations from the real satisfaction 
+                                                                                                         ˇ
+8.0, which does not correspond to the plain average of the six sub-items (5.8). due other factors like weather (Stumpf et al., 2022) or mood effects (Kim 
+Source: own   elaboration based  onBooking.com   review  system  since     and Mattila, 2010) are compensated in the population. 
+September 2019 
+
+                                                                        4
+V. Leoni and D. Boto-García                                                                                                                                          International                    Journal            of    Hospitality                 Management                   111 (2023) 103493
+
+   After the review system change (hereafter denoted by subindex 1),                   ̃
+                                                                           where now Diff ij measures the difference in ‘actual’ scores leaving scale 
+the consumer has the freedom to enter any integer value on a 1–10 scale.                                                        ̃
+                                                                           effects (δ) aside. Because γ, θ and μ can take any value, Diff can be either 
+As a result, the overall score we observe can be expressed as follows:                                                             ij 
+                                                                           positive or negative, in line with Schneider et al. (2021). 
+         ∑6
+           wijkSATijk
+SAT   =  k=1        +  η + ε                                               4. Data and methods 
+    ij1    ∑6           ij  ij                                     (3)  
+              wijk
+           k=1                                                             4.1. Dataset and descriptive statistics 
+
+where  SATij1 gathers a weighted  average  of satisfaction with the six       The data used in the analysis have been retrieved from Booking.com 
+         ∑6
+             w  SAT
+           ∑k=1 ijk ijk                                                    website using an ad-hoc designed web-crawler. The crawler allows us to 
+aspects (    6      ), satisfaction with other facets (ηij) and idiosyn­
+               w
+             k=1 ijk                                                       obtain information about reviews both at the hotel and at the individual 
+cratic effects (εij). As such, the score provided under the new system is  level. Since we are interested in potential changes in individual ratings, 
+likely to be a more accurate measure of the real overall satisfaction with we  work  with  the review-level dataset. Since the  new  system  was 
+                                                      ∗
+the hotel so that SATij1 is an unbiased measure of SATij .                 implemented  in September   2019, and  to avoid overlapping  with the 
+   If we  now  take the expectation of the difference in the observed      changes in demand induced by COVID-19 pandemic (starting on March 
+scores between before and after the change, we get the following:          2020), we  use data  for the first four months under  the new  system 
+                                                                           (October 2019-January   2020).  For comparability  purposes,  we  also 
+                              ∑6            ∑6
+                                wijkSATijk     SATijk                      consider reviews under  the old system  for the same period  one year 
+                              k=1           k=1
+Diff ij = E(SATij   SATij ) = E(                    +  ηij + εij)  (4)     ahead (October  2018-January  2019).  This is done to ensure a mean­
+               1       0        ∑6             6
+                                   wijk                                    ingful comparison  leaving aside potential seasonal differences. None­
+                                k=1                                        theless, a wider  comparison  in  terms of  the time  period  window 
+                       (  ) =        (  ) =                                (October 2018-August 2019) is also used for robustness (see subsection 
+   Since it holds that E εij  0 and E ηij   μ, the difference in means 
+                                                                           5.2). 
+can be rewritten as the sum of four components as follows: 
+                                                                              The  dataset involves 429,304 individual reviews  from guests who 
+Diff ij = γ + δ + θ + μ                                            (5)     stayed overnight in 1458  hotels located in five of the most relevant 
+                                                                           South-European  destinations: Milan (252), Rome   (639), Madrid  (77), 
+   The term γ captures the part of the difference that is due to imposing 
+                                                                           Barcelona (192)  and  Lisbon (239). Each  observation  consists of the 
+equal weights for the six aspects in the old system as opposed to allowing 
+                                                                           overall individual score left by tourist i, staying in hotel j, at period t 
+the consumer   to freely weigh them.  Several works  have shown   that 
+                                                                           (SATijt). The period corresponds to the exact calendar date when  the 
+consumers do not assign the same importance to all facets that integrate 
+                                                                           review was left on the platform, which by definitionis  subsequent to the 
+a hotel stay (Nieto-Garcia et al., 2019; Zhang et al., 2021). We call γ the 
+                                                         ∑6                hotel stay. In addition to the city, the hotel and the date of the review, 
+                                                             w SAT
+                                                           ∑k=1 ijk ijk                                                                ’
+weighting component. This term can take any value since      6             we also avail of the following information about each guest  s profile: 
+                                                               w
+                                                             k=1 ijk       travel party composition (solo traveller, travelling in a couple, with the 
+∑6
+    SAT
+  k=1  ijk                                                                                            ’ 
+         ≥ 0 or vice versa. The parameter δ  measures the part of the      family or in a group), guests nationality and the length of the stay at the 
+    6                                                                                             )
+difference that emerges  due to scale differences: recall that whereas     hotel (number of nights . 
+                                                                              Fig. 3 presents histogram plots of observed hotel scores at the city 
+SATij1 is bounded between 1 and 10, SATij0 only ranges between 2.5 and 
+                                                                           level, both before (SAT  ) and after (SAT ) the review system change. 
+10. As such, δ < 0 by construction. We call δ the scaling component. The                         ijt0              ijt1
+term  θ reflects the part of the difference that is due to the reduced     Overall, scores exhibit the classic left-skewed distribution documented 
+                                                                           in previous studies (Mariani and Borghi, 2019). Considering the pooled 
+variability in SATijk in the old system (people can choose among only 
+                                                                           dataset, the average score is 8.70 under the old system but 8.52 under 
+four discrete values: 2.5, 5.0., 7.5 or 10.0) as compared to SATijk in the 
+                                                                           the new  one. Note  that, as discussed in Section 3.1, by construction 
+new system (which can take any continuous value on the 1–10 interval). 
+                                                                           SAT    is expected to have a lower mean. 
+In principle, θ could be positive or negative because the measurement          ijt1 
+                                                                              Fig. 3. (cont.) Histogram of scores per city before (Pre) and after 
+error associated with SATijk can be  of either sign. We label θ as the 
+                                                                           (Post) the review system change. 
+variability component. Finally, the parameter μ gathers the mean  dif­
+                                                                              Table 1  presents descriptive statistics of the variables used in the 
+ference in scores attributed to the potential consideration of more di­
+                                                                           analysis, separately for each city. The share of observations under the 
+mensions  when  judging  hotel services under the new  system. In this 
+                                                                           new system is about 63%, which allows for a fair comparison between 
+regard, some authors have shown that hotel guests value aspects like 
+                                                                           treated and controls. From a geographical standpoint, observations are 
+sleep and food quality (Zhang et al., 2021) or WiFi flaws (Mellinas and 
+                                                                           quite homogenously    distributed across  cities, with 25%   of them 
+Nicolau, 2020) when assessing their overall satisfaction. We call μthe 
+                                                                           belonging to hotels located in Rome, 22% in Lisbon, 13% in Milan, 17% 
+omitted satisfaction component. 
+                                                                           in Madrid and 27% in Barcelona. On average, each hotel received 2309 
+   The  value of Diff  would  inform  about  the change  in ‘apparent’ 
+                     ij                                                    scores, on average, during the study period but with high heterogeneity 
+scores, which are the ones prospective guests see in the platform when 
+                                                                           across hotels (SD=2286).   Regarding  the type  of traveller, most re­
+they are searching for an accommodation. Since part of the discrepancy 
+                                                                           viewers travelled in couple  (41%),  followed  by family  (20%), solo 
+is attributed to the scaling component, we could remove that part of the 
+                                                                           travellers (22%) and groups (17%). About 20% of reviews belongs to 
+score gap by re-scaling SAT   on the 1–10 interval as follows: 
+                           ij0                                             domestic travellers and, on average, tourists stayed 2.6 days at the hotel. 
+             ⎛            ⎞
+               ∑6
+                 SATik
+             ⎜ k=1        ⎟                                                4.2. Methodology 
+             ⎝   6     2.5⎠
+ ̃
+SATij =  10 ∗                                                      (6)        Our  empirical  strategy aims  at isolating the effect of the new 
+     0             7.5
+                                                                           reviewing system by comparing similar reviews left before and after the 
+   If we take again the difference in expectations, we have:               change. For this purpose, we first rely on standard regression analysis. 
+ ̃                 ̃                                                       Next, we move to formal causal inference methods. 
+Diff ij = E(SATij1   SATij0) = γ + θ + μ                           (7)  
+
+
+                                                                        5
+V. Leoni and D. Boto-García                                                                                                                                          International                    Journal            of    Hospitality                 Management                   111 (2023) 103493
+
+
+                                     Fig. 3.  Histogram of scores per city before (Pre) and after (Post) the review system change.  
+
+4.3.  Regression analysis                                                                     The model in (8) is estimated using Ordinary least Squares both using 
+                                                                                                                                                                    ̃
+                                                                                          the  original  scores  (SATijt)  as  well  as  its rescaled  version   (SATijt)  as 
+    We first propose the following regression model:                                      dependent variables (i) for each city separately, and (ii) for the pooled 
+                                                                                          dataset. Tobit regression is used as a robustness check (see subsection 
+SATijt =  α + τNewSystemijt   + βXijt + HotelFEj  + Mt  + εijt                  (8)  
+                                                                                          5.2). It is important to make it clear that we assume cardinality in hotel 
+
+where Scoreij   is the individual score left by individual i who stayed at the            satisfaction because overall scores are continuous indicators (at least in 
+hotel j in period t; Xijt  is a vector of tourist characteristics (nationality,           the old system for SATijt    and for all observations in the rescaled version 
+                                                                                           ̃
+travel party indicators and length of stay); Hotel      FEjis a set of hotel fixed        SATijt). 
+effects absorbing variation in satisfaction stemming from hotel generic 
+attributes; Mt  are month fixedeffects;     τ is the main parameter of interest, 
+which captures the effect of the change in the reviewing system ceteris                   4.4.  Matching estimator 
+paribus; and εij   is a normally distributed error term. 
+                                                                                              As an alternative estimation strategy, we move to matching estima­
+
+                                                                                      6
+V. Leoni and D. Boto-García                                                                                                                                          International                    Journal            of    Hospitality                 Management                   111 (2023) 103493
+
+Table 1 
+Descriptive statistics of the city sub-samples and the pooled sample.   
+
+                       Barcelona             Madrid                 Rome                 Milan                 Lisbon             Pooled sample 
+
+  Variable         Mean       SD         Mean       SD         Mean       SD        Mean        SD        Mean       SD         Mean       SD 
+
+  SAT              8.61       1.49       8.61       1.49       8.59       1.53      8.41        1.61      8.65       1.43        8.59      1.50 
+  SAT rescaled     8.51       1.59       8.51       1.59       8.50       1.63      8.30        1.72      8.55       1.53        8.49      1.61 
+  Length of Stay   2.83       1.58       2.34       1.48       2.65       1.65      2.00        1.24      2.55       1.69        2.55      1.59  
+                   %                     %                     %                    %                     %       
+  New system       60.37                 62.46                 62.90                61.24                 61.66                 61.67   
+  Single           22.14                 21.61                 20.41                18.56                 19.57                 20.61   
+  Couple           36.02                 42.79                 45.34                34.53                 46.39                 41.27   
+  Group            20.79                 16.13                 14.06                18.56                 14.62                 14.41   
+  Family           21.03                 19.45                 20.17                20.94                 19.40                 20.25   
+  Domestic         12.74                 43.68                 27.04                30.52                 17.08                 19.95   
+  October          27.00                 29.84                 28.49                20.09                 26.31                 27.86   
+  November         32.43                 29.79                 32.19                28.94                 29.60                 30.70   
+  December         17.73                 23.68                 22.75                24.96                 25.72                 24.09   
+  January          22.14                 16.67                 16.54                16.99                 18.34                 17.33   
+  N                117,305               53,150                109,574              56,913                92,362                429,304  
+
+tors within the potential outcomes framework originally developed by       further methodological details. 
+Rubin (1974). Even though the regression model in (8) cleans up the           Before moving on, it is important to indicate that we could use re­
+part of the variability in scores associated with time-invariant hotel at­ views from other OTAs as a comparison group and examine the change 
+tributes and tourist personal characteristics, τ could be an imprecise     in Booking.com in a  difference-in-differences (DiD) setup, as done by 
+estimate of the causal effect of the new review system on hotel scores in  Kim  et al. (2022). We disregard this approach  in our setting for the 
+case there is an unbalance in the characteristics of hotel guests before   following reason. When   working  at the hotel-level, the DiD method 
+and after the change (limited overlap). To guarantee a better compari­     identifiesthe  causal change in the overall score due to the system change 
+son, we match reviews under the new system with reviews  under)  the old   by observing mean scores for the same hotel in a treated and non-treated 
+system based on the similarity of their propensity scores p Xijt , defined platform. However, our goal here is different, as we aim to evaluate the 
+as the conditional probabilities of being in the new system given  the     change in reviews at the individual rather than aggregate level. When 
+tourist-specific covariates (Rosenbaum and Rubin, 1983):                   working at the individual level, reviews made by distinct consumers in 
+                                                                           different platforms might be difficult to compare. Besides platform se­
+p(X  )=Prob(NewSystem   =1|X  )                                                       
+   ijt                ijt   ijt                                    (9)     lection effects by which consumers opt for gathering information in one 
+   The  propensity scores are estimated  using a Logit regression and      OTA or another non-randomly (Chen et al., 2021), the platform design 
+                                                                                                    ’ 
+units are subsequently matched using kernel matching (Heckman et al.,      itself influences reviewers sentiment and tone of voice. For instance, 
+1998). We  look for statistical ‘twins’ of individual reviews in the old   Rita et al. (2022) report that written reviews in TripAdvisor are much 
+system based  on similarity in the guest profile to derive the counter­    more positive than in Booking.com, being this strongly associated with 
+                                                                                 ’ 
+factual. Importantly, we apply exact matching by hotel, meaning that       guests nationality. The structural difference of reviews on non-verified 
+only reviews belonging to the same hotel are compared. This is done        (such as TripAdvisor) and verified platforms (such as Booking.com) is 
+using the kmatch  Stata package  with  automatic bandwidth   selection     also confirmed  by Figini et al. (2020). Moreover, hotel-level overall 
+(Jann, 2017).                                                              scores mix reviews under the old and new system due to the three-year 
+   Matching on a single propensity score rather than on a set of cova­     rolling window that Booking.com uses to construct the average score. 
+riates helps to alleviate the dimensionality problem to a single scalar    Therefore, we prefer to create the counterfactual based on reviews for 
+dimension (Rosenbaum and Rubin, 1983), as well as ensuring balancing       the same  hotel, written by travellers sharing a similar profile, on the 
+and unconfoundedness.  The first implies that treatment and covariates     same platform, and during exactly the same period (October-January) 
+are independent conditional on the propensity scores. The latter implies   one year before. This identification strategy allows also to leave aside 
+that  assignment   to  treatment   is  random    conditional  on   the     potential seasonality effects. 
+propensity-scores (Cerulli, 2015, pp.78–79). 
+                                                                           5. Results 
+   Assuming that the ‘treatment’ (NewSystemijt) is exogenously given (i. 
+e., the timing around the adoption of the new system is independent of 
+                                                                           5.1. Main findings 
+tourist characteristics and their hotel experience), the Average Treat­
+ment Effect (ATE) of the new system on apparent satisfaction scores is 
+                                                                              Table  2 presents the coefficient estimates from separate  OLS  re­
+given by averaging the pairwise differences in scores between matched 
+                                                                           gressions per city. Results show a negative effect of the new system on 
+treated and control reviews as follows:                                                 ’ 
+        {        ⃒    )                    [          )                    the ‘apparent  satisfaction, with an average reduction of about  0.15 
+                 ⃒
+ATE  = E  E[SATijt p Xijt , NewSystem = 1]   E SATijt|p Xijt , NewSystem   points on individual scores. The magnitude  of the effect is quite ho­
+        ] }                                                                                                  = –              =  –             =
+     = 0                                                                   mogenous across cities (Barcelona    0.147; Madrid     0.147; Rome
+                                                                           –0.175 and Lisbon=  –0.167), except for Milan where the drop appears to 
+                                                                  (10)  
+                                                                           be stronger (–0.223  points). These results are in line with previous 
+where as that for actual satisfaction scores is:                           descriptive evidence on the effect of the change  of the Booking.com 
+        {        ⃒     )                   [           )                   reviewing system on hotel scores (Mellinas and Martin-Fuentes, 2021). 
+             ̃   ⃒                           ̃
+ATE  = E  E[SATijt⃒p Xijt , NewSystem = 1]   E SATijt|p Xijt , NewSystem   However,  when   we  move   to the rescaled scores, we  document   an 
+        ] }                                                                interesting pattern: actual satisfaction after the change is about 0.1 
+     = 0                                                                   points higher. That is, leaving the scale effect aside, allowing consumers 
+                                                                  (11)     to freely rate their satisfaction in an unrestricted manner translates into 
+                                                                           a consistent average increase in satisfaction scores. Again, the pattern is 
+   The reader is referred to Heckman et al. (1998) and Cerulli (2015) for  very similar for all the cities (Barcelona=+0.109;   Madrid=+0.118; 
+
+                                                                        7
+V. Leoni and D. Boto-García                                                                                                                                          International                    Journal            of    Hospitality                 Management                   111 (2023) 103493
+
+Table 2 
+Coefficient estimates from OLS regressions.   
+
+                           (1)            (2)              (3)            (4)           (5)            (6)           (7)            (8)            (9)            (10) 
+  Sample                   Barcelona      Barcelona        Madrid         Madrid        Milan          Milan         Rome           Rome           Lisbon         Lisbon 
+
+  Explanatory variables    SAT            SAT rescaled     SAT            SAT           SAT            SAT           SAT            SAT            SAT            SAT 
+                                                                          rescaled                     rescaled                     rescaled                      rescaled 
+  New system               -0.147 ***     0.109 ***        -0.147 ***     0.118 ***     -0.223 ***     0.072 ***     -0.176 ***     0.084 ***      -0.167 ***     0.085 ***  
+                           (0.009)        (0.010)          (0.014)        (0.015)       (0.014)        (0.015)       (0.010)        (0.010)        (0.010)        (0.011) 
+  Length of Stay           -0.021 ***     -0.023 ***       -0.021***      -0.021 ***    -0.001         -0.001        -0.024 ***     -0.026 * **    -0.016 ***     -0.018 ***  
+                           (0.003)        (0.003)          (0.004)        (0.005)       (0.005)        (0.006)       (0.003)        (0.003)        (0.003)        (0.003) 
+  Couple                   0.054 ***      0.054 ***        0.124 ***      0.128 ***     0.027          0.027         -0.058 ***     -0.064 ***     0.001          -0.003  
+                           (0.013)        (0.013)          (0.017)        (0.018)       (0.018)        (0.019)       (0.012)        (0.013)        (0.013)        (0.014) 
+  Family                   0.017          0.014            0.170 ***      0.178 ***     0.022          0.019         -0.051 ***     -0.057 * **    -0.026*        -0.027 *  
+                           (0.014)        (0.015)          (0.020)        (0.022)       (0.020)        (0.021)       (0.014)        (0.015)        (0.015)        (0.016) 
+  Group                    0.076 ***      0.079 ***        0.137 ***      0.144 ***     0.043 **       0.046 **      -0.028 *       -0.030 *       0.036 **       0.036 **  
+                           (0.013)        (0.014)          (0.021)        (0.022)       (0.020)        (0.021)       (0.015)        (0.016)        (0.016)        (0.017) 
+  Domestic                 -0.071 ***     -0.071 ***       -0.036 ***     -0.034 **     -0.010         -0.011        -0.059 ***     -0.058 ***     -0.091 ***     -0.094 ***  
+                           (0.013)        (0.014)          (0.014)        (0.015)       (0.015)        (0.016)       (0.011)        (0.012)        (0.014)        (0.015) 
+  Constant                 8.433 ***      8.181 ***        7.274 ***      6.931 ***     8.149 ***      7.817 ***     9.692 ***      9.525 ***      9.802 ***      9.634 ***  
+                           (0.056)        (0.060)          (0.046)        (0.049)       (0.210)        (0.225)       (0.284)        (0.303)        (0.061)        (0.065) 
+  Hotel FE                 YES            YES              YES            YES           YES            YES           YES            YES            YES            YES 
+  Month FE                 YES            YES              YES            YES           YES            YES           YES            YES            YES            YES 
+  Number of hotels         192            192              78             78            264            264           684            684            240            240 
+  Observations             117,305        117,305          53,150         53,150        56,913         56,913        109,574        109,574        92,362         92,362 
+
+Standard errors in parentheses. ***   p <  0.01, ** p < 0.05, * p <  0.1 
+
+Milan=+0.072; Rome=+0.084 and Lisbon=+0.085).                                             Lisbon. Pooling together all the cities,       we find an Average Treatment 
+    The regression results also indicate that hotel scores are negatively                 Effect of –0.174. This effect is statistically significantin      all cases. When 
+correlated with the length of the stay in all the cities except Madrid. That              looking at the effect on actual scores, PSM also produces very similar 
+is, long stayers tend to give lower scores. Satisfaction with hotel services              estimates   to the  ones  obtained    from  the  linear  regression   in  Table  2: 
+also varies depending on the composition of the travel party, in line with                satisfaction increased on average by 0.096 points in Barcelona, 0.117 in 
+some previous evidence in the related literature (Radojevic et al., 2015;                 Madrid, 0.075 in Milan, 0.084 in Rome and 0.099 in Lisbon. The overall 
+Banerjee and Chua, 2016). In this case, we detect relevant heterogeneity                  average effect is estimated to be an increase in 0.09 points. 
+depending on the city considered. Couples and groups give higher rates 
+than   solo  travellers  in  Barcelona    and   Madrid    whereas    the  opposite 
+pattern   applies  to Rome.    Furthermore,    domestic    tourists  are  found  to       5.2.  Robustness checks 
+give significantlylower     scores. This is consistent with Rita et al. (2022), 
+who also report differences in online WOM depending on the tourist’s                          We performed several robustness checks to inspect the sensitivity of 
+nationality.                                                                              our  findings.   First, we   re-estimated    the  model   in  (8)  using  a  Tobit 
+    To ensure a more thorough comparison between scores before (non-                      regression.   The  results  are  presented    in  Table  A2   in  Supplementary 
+treated) and after (treated) the change, in Table 3 we report the esti­                   Material. The estimates are very similar to the ones using OLS regres­
+mates of the Propensity Score Matching model (PSM), run on the five                       sion. Second, we run a pooled OLS regression using the review scores of 
+city subsamples and considering the pooled dataset. The corresponding                     the five cities together including interaction terms between NewSystem 
+coefficientestimates     of the logit model are presented in Supplementary                and the city dummies (Supplementary Material, Table A3) to formally 
+Material (Table A1). Cumulative distribution plots and box plots for raw                  evaluate potential heterogeneous effects by city. Relative to Barcelona, 
+and   matched    reviews    per  city  are  presented    in Figures   A1-A5.    We        the  drop  in  apparent   scores  is larger  in  Milan,  Rome    and   Lisbon   but 
+impose the common support condition so that observations that do not                      smaller in Madrid. In contrast, the increase in actual scores is higher in 
+have a close match based on characteristics are discarded, and that is                    Madrid    followed   by  Barcelona,    Rome,    Lisbon   and  Milan.   Third,   the 
+why the matching procedure uses fewer observations per city. Results                      kernel matching used in Table 3 gives larger weights to controls with 
+are consistent with the estimates in Table 2: after the introduction of the               smaller distances (Epanechnikov kernel). Instead, we re-estimated the 
+new scoring method, apparent satisfaction suffers a 0.162-point drop in                   model using nearest-neighbour matching. The results are robust to this 
+Barcelona, 0.149 in Madrid, 0.221 in Milan, 0.155 in Rome and 0.155 in                    alternative   matching    procedure    (Supplementary      Material,   Table  A4). 
+                                                                                          Fourth,   we  use  Regression    Adjustment     (RA)   and   Inverse  Probability 
+
+Table 3 
+Average Treatment effects from Propensity Score Matching using kernel matching.  
+
+  Outcome                       City                            Treated                   Controls                 ATE                        SE                     t 
+
+  SAT                           Barcelona                       69,673                    46,228                   -0.162***                  0.009                  -17.22 
+  SAT                           Madrid                          28,739                    19,952                   -0.149***                  0.015                  -10.06 
+  SAT                           Milan                           32,569                    22,034                   -0.221***                  0.015                  -14.97 
+  SAT                           Rome                            63,677                    40,580                   -0.179***                  0.011                  -16.04 
+  SAT                           Lisbon                          51,246                    35,408                   -0.155***                  0.012                  -12.55 
+  SAT                           Pooled Dataset                  246,857                   164,234                  -0.174***                  0.005                  -33.68 
+  SAT Rescaled                  Barcelona                       69,673                    46,228                   0.096***                   0.011                    9.08 
+  SAT Rescaled                  Madrid                          28,739                    19,952                   0.117***                   0.167                    7.00 
+  SAT Rescaled                  Milan                           32,569                    22,034                   0.075***                   0.017                    4.55 
+  SAT Rescaled                  Rome                            63,677                    40,580                   0.084***                   0.013                    6.67 
+  SAT Rescaled                  Lisbon                          51,246                    35,408                   0.099***                   0.014                    6.98 
+  SAT Rescaled                  Pooled Dataset                  246,857                   164,234                  0.089***                   0.006                   15.37 
+
+*** p <  0.01. ** p <  0.05. * p < 0.1 
+
+                                                                                      8
+V. Leoni and D. Boto-García                                                                                                                                          International                    Journal            of    Hospitality                 Management                   111 (2023) 103493
+
+Weighting  (IPW)  methods  instead of PSM.  These are alternative pro­     the theory of unpacking effects (Van Boven and Epley, 2003) and the 
+cedures to compute  the effect of the change using  the counterfactual     theoretical results presented in Schneider et al. (2021): asking people to 
+scores that we  would  have had  in the absence of the review  system      rate their satisfaction with different domains before making an overall 
+change that rebalance the data to account for differences in observables   valuation make people less likely to express mild judgements and makes 
+between  consumers   before and  after (Horvitz and Thompson,   1952;      it easier for them to recall features that they would have not considered 
+Hirano et al., 2003). The results remain consistent using these alterna­   otherwise. In the Booking.com context, since satisfaction with the six 
+tive procedures (Supplementary Material, Table A5). Fifth, we repeated     items is still posited before the overall valuation, reminding people some 
+the analysis using an expanded sample that considers all the reviews in    hotel features but not  others makes  some  of them   more  salient to 
+the period October 2018-January 2020. The OLS and PSM estimates for        memory and produces an upward shift in rescaled scores (i.e., dimen­
+this larger sample are presented in Tables A6 and A7 in Supplementary      sional rating bias as conceptualized in Schneider et al. (2021)). From this 
+Material and are very similar to the ones reported in Tables 2 and 3.      perspective, our results closely connect to those presented in Angelini 
+   Our analysis lies on the assumption that, in the absence of the review  et al. (2017), who show that overall life satisfaction scores are higher the 
+system  change,  the mean   overall scores would  have  remained  un­      question  is posited after reporting  satisfaction with different life 
+changed. Despite we leave away seasonal differences by considering the     domains. 
+same  period before and  after, the estimates could be biased if unob­        Nonetheless, it is important to highlight that, in the short run, the 
+served factors are responsible for the change in scores between the two    change in the review system is expected to produce important negative 
+periods. To  explore this, we have  performed  a  placebo exercise by      effects for the sector. On the one hand, consumers   infer unobserved 
+generating two  different fake treatments. The details and estimation      quality based on observed scores left by previous consumers (Fernan´ ­
+results are shown  in Tables  A8 and  A9  in Supplementary   Material.     dez-Barcala et al., 2010; Martín-Fuentes, 2016), which have suffered a 
+Except  for Barcelona, no  significant differences in mean scores  are     decrease. Previous higher rates act as an anchor (Cicognani et al., 2021) 
+detected before and after for the rest of cities, offering further evidence that likely makes people judge the decline in hotel rates as a quality 
+that the change in scores presented in Tables 2 and 3 can be attributed to worsening instead of a mere scaling effect. Although one might consider 
+the review system change.                                                  this drop is common to all hotels, this is not the case. The hotel total 
+                                                                           overall score is computed as a weighted average of all scores received in 
+6. Discussion                                                              the last three years. Depending on the percentage share of added reviews 
+                                                                           to the overall hotel score under the new system, some hotels (especially 
+   This work constitutes a novel endeavour in this research field,being    the most demanded) suffer a relatively larger decrease in observed rates 
+among the first studies that conducts an econometric analysis to assess    than others. As a  result, the pervasive effects of the review system 
+the impact  of Booking.com   review  system  change  on  hotel scores.     change will not disappear until September 2022, when the hotel overall 
+Firstly, we offer a theoretical decomposition  of  the sources of  the     score will be computed using only the reviews under the new system 
+observed gap in scores before and after the platform replaced its multi-   (Amblee and Ullah, 2022; Mellinas et al., 2021). 
+dimensional scoring system to a single-dimensional one for deriving the 
+overall rating. Next, we exploit information for a total of 429,304 re­    7. Conclusions 
+views for 1391 hotels in fiveof  the most iconic European cities to draw 
+causal inference about  its effect on both apparent and actual scores.     7.1. Contributions 
+Based on both OLS regressions and Propensity Score Matching, we show 
+that scores decreased on average by 0.15 points under the new system.         Our  findings offer relevant theoretical and methodological contri­
+However, once the scaling effect is adjusted, we document that the real    butions to the tourism  literature. From a theoretical viewpoint, the 
+scores increased by around + 0.09 points. These effects are quite similar  paper expands existing work on online reputation in the hospitality in­
+across cities and remain consistent under different robustness checks.     dustry by showing how the design and characteristics of crowd evalu­
+   Mellinas and Martin-Fuentes (2021) note that the change in Booking.     ation systems can produce non-neutral effects on both apparent and real 
+com review system simply produces a scale change in scores since the       hotel scores. Our findingsfall  within the choice architecture framework 
+underlying consumer satisfaction is likely to have remained unchanged.     that postulates that the way choice options are presented to consumers 
+If this were the case, actual hotel scores after the scale adjustment should affects their behavioural outcomes (Thaler, 2018; Schneider  et al., 
+have  been the  same  as in the previous system, at least on average.      2021). Our conceptual framework is also a novel contribution since it 
+However, we provide evidence this is not the case.                         offers a decomposition of the observed gap in Booking.com hotel scores, 
+   Consistent with  the framework  developed  in Section 3, the docu­      before and after the evaluation system change. Such gap is definedas  the 
+mented positive shift in actual scores is the sum of what we labelled the  sum  of what we call the weighting, the scaling, the variability, and the 
+weighting, variability, and omitted satisfaction components. Allowing      omitted satisfaction components. 
+consumers  to freely weight hotel attributes, to consider aspects other       From  a  methodological  perspective, and  consistent with a  large 
+than the pre-determined six items, and to introduce their rates using a    literature on how  to define measurement   scales in tourism research 
+wider scale has led to positive increases in the real underlying satis­    (Dolnicar and Grün, 2013; Arana˜  and Leon,´  2013), our study emphasises 
+faction with hotel services revealed through  consumers’  scores. This     the need  for a careful design of satisfaction measurement  in online 
+suggests that either (i) attributes and service quality dimensions other   platforms.  As   we   show,   moving    from   multi-dimensional   to 
+than the six pre-determined items (e.g., aesthetics, sleep quality) seem to single-dimensional scoring systems has non-neutral effects on the re­
+be positively valued by consumers, on average; (ii) consumers weight       ported level of satisfaction. Based on Propensity Score  Marching  on 
+more positive than negative aspects when asked to provide an overall       guests with similar profilesthat  stayed at the same hotel before and after 
+assessment of the satisfaction with their hotel stay; or a combination of  the review policy change, our empirical analysis has offered causal ev­
+both. In this respect, Nicolau  et al. (2020b)  show  that customers’      idence on how the review system change introduced by Booking.com 
+satisfaction is lower when  the  value for money   is considered. The      has shifted apparent and actual scores at the individual review level. In 
+removal of value for money from the computation of hotel scores under      this vein, our econometric strategy could be a promising methodology 
+the new system might explain the increased in actual scores, since hotel   for future works interested in examining consumers’  behavioural pat­
+guests might weight other aspects more when making their evaluation.       terns following related external changes in online platforms’ design. 
+For instance, good  language  skills by the hotel staff could be more 
+valued under the new valuation system (Nicolau et al., 2022). 
+   From a broader perspective, our findings could be reconciled with 
+
+                                                                        9
+V. Leoni and D. Boto-García                                                                                                                                          International                    Journal            of    Hospitality                 Management                   111 (2023) 103493
+
+7.2.  Managerial implications                                                             Angelini, V., Bertoni, M., Corazzini, L., 2017. Unpacking the determinants of life 
+                                                                                              satisfaction: a survey experiment. J. R. Stat. Soc. A 180 (1), 225–246. 
+                                                                                          Arana,˜  J.E., Leon,´  C.J., 2013. Correction for scale perception bias in tourist satisfaction 
+    From   a  managerial    perspective,    the  observed    drop  in  scores  is a           surveys. J. Travel Res. 52 (6), 772–788. 
+matter of concern for hotel managers due to its implications on booking                   Banerjee, S., Chua, A.Y.K., 2016. In search of patterns among travellers’ hotel ratings in 
+                                                                                                                               –
+patterns through herding-behaviour (Figini et al., 2020). To avoid pro­                       TripAdvisor. Tour. Manag. 53, 125 131. 
+                                                                                          Bateman, I., Munro, A., Rhodes, B., Starmer, C., Sugden, R., 1997. Does part-whole bias 
+spective   guests   to  misjudge    observed    rates,  awareness    messages    to           exist? An experimental investigation. Econ. J. 107 (441), 322–332. 
+inform people about the change in the review system could have been                       Bigne,´  E., William, E., Soria-Olivas, E., 2020. Similarity and consistency in hotel online 
+very informative. Beyond that, hotel managers could benefit from the                          ratings across platforms. J. Travel Res. 59 (4), 742–758. 
+                                                                                          Borges-Tiago, M.T., Arruda, C., Tiago, F., Rita, P., 2021. Differences between TripAdvisor 
+use of web-scrapping procedures as the ones developed in this work to                         and Booking.com in branding co-creation. J. Bus. Res. 123, 380–388. 
+examine whether observed drops in scores are simply the result of the                     Boto-García, D., Escalonilla, M., Zapico, E., Banos-Pino,˜  J.F., 2021. Scale heterogeneity in 
+scale  adjustment    or  reflect low  satisfaction   with  previously   neglected             hotel guests’ satisfaction relative to room rates. Appl. Econ. Anal. 29 (87), 208–225. 
+                                                                                          Cai, H., Chen, Y., Fang, H., 2009. Observational learning: evidence from a randomized 
+service quality dimensions. Although our analysis has been performed at                       natural field experiment. Am. Econ. Rev. 99 (3), 864–882. 
+the city level, our methods could be easily extended to the hotel level.                  Casalo,´  L.V., Flavian,´  C., Guinalíu, M., Ekinci, Y., 2015. Do online hotel rating schemes 
+                                                                                              influence booking behaviors? Int. J. Hosp. Manag. 49, 28–36. 
+                                                                                          Cerulli, G., 2015. Econometric evaluation of socio-economic programs. Theory and 
+7.3.  Limitations and avenues for future research                                             applications. Springer. 
+                                                                                          Chen, C.W., 2017. Five-star or thumbs-up? The influenceof  rating system types on users’ 
+                                                                                              perceptions of information quality, cognitive effort and continuance intention. 
+    The   paper   has   some   limitations.   First,  our  analysis   lies  on  the           Internet Res. 27 (3), 478–494. 
+assumption     that mean    scores  would   have   remained    unchanged     if the       Chen, N., Li, A., Talluri, K., 2021. Reviews and self-selection bias with operational 
+review system had not been modified.Although             we inspected this using              implications. Manag. Sci. 67 (12), 7472–7492. 
+                                                                                          Chen, P.Y., Hong, Y., Liu, Y., 2018. The value of multidimensional rating systems: 
+a placebo exercise, we cannot completely rule out the possibility that                        Evidence from a natural experiment and randomized experiments. Manag. Sci. 64 
+external   factors  might   have  contributed    to  the detected    difference  in           (10), 4629–4647. 
+scores.  This  limitation   is similar   to the  parallel  trend   assumption    in       Choi, T.Y., Chu, R., 2001. Determinants of hotel guests’ satisfaction and repeat patronage 
+                                                                                                                                                             –
+difference-in-differences settings. Second, our data do not allow us to                       in the Hong Kong hotel industry. Int. J. Hosp. Manag. 20 (3), 277 297. 
+                                                                                          Cicognani, S. , Figini, P., Magnani, M. , 2021. Social influence bias in ratings: A field 
+disentangle which part of the documented increase in actual scores is                         experiment in the hospitality sector. Tourism Economics, forthcoming. 
+due   to what   we   label  as  the  weighting,    the  variability  and   omitted        Conti, G., Pudney, S., 2011. Survey design and the analysis of satisfaction. Rev. Econ. 
+                                                                                                               –
+satisfaction components. Future studies should expand our analysis by                         Stat. 93 (3), 1087 1093. 
+                                                                                          Cronqvist, H., Thaler, R.H., Yu, F., 2018. When nudges are forever. Am. Econ. Rev.: Pap. 
+trying to examine which of them dominates. Third, although we control                         Proc. 108, 153–158. 
+for  several  relevant   traveller’s  characteristics,   our  empirical   analysis        Dolnicar, S., Grün, B., 2013. Validity measuring destination image in survey studies. 
+uses a full set of hotel fixed effects and does not distinguish between                       J. Travel Res. 52 (1), 3–14. 
+                                                                                          Fernandez-Barcala,´  M., Gonzalez-Diaz,´  M., Prieto-Rodríguez, J., 2010. Hotel quality 
+hotel  size  and   category.   Future   research   could   expand   our   work   by           appraisal on the Internet: a market for lemons? Tour. Econ. 16 (2), 345–360. 
+inspecting   potential   heterogeneity     in the  impact    of the   new   review        Figini, P., Vici, L., Viglia, G., 2020. A comparison of hotel ratings between verified and 
+system   based   on  hotel   typology.   Fourth,   the  worldwide     outbreak   of           non-verified online review platforms. Int. J. Cult. Tour. Hosp. Res. 14 (2), 157–171. 
+                                                                                          Gao, B., Li, X., Liu, S., Fang, D., 2018. How power distance affects online hotel ratings: 
+COVID-19 in February 2020 forced us to consider a relatively short time                       the positive moderating roles of hotel chain and reviewers’ travel experience. Tour. 
+span that mainly used reviews left during the low season. Since ex-ante                       Manag. 65, 176–186. 
+expectations    and    the  quality   of  hotel   services   might   be   seasonal        Heckman, J.J., Ichimura, H., Todd, P., 1997. Matching as an econometric evaluation 
+                                                                                              estimator: evidence from evaluating a job training programme. Rev. Econ. Stud. 64 
+dependent,    future   work   should   investigate   potential   satisfaction  het­           (4), 605–654. 
+erogeneity between the high and the low season. As a finalremark,             given       Heckman, J.J., Ichimura, H., Todd, P., 1998. Matching as an econometric evaluation 
+the high importance of hotel reviews on online platforms as quality cues,                     estimator. Rev. Econ. Stud. 65 (2), 261–294. 
+applied researchers using Booking.com are recommended to take into                        Hirano, K., Imbens, G.W., Ridder, G., 2003. Efficient estimation of average treatment 
+                                                                                              effects using the estimated propensity score. Econometrica 71 (4), 1161–1189. 
+consideration whether their data are a mixture of reviews from the two                    Horner,¨  J., 2002. Reputation and competition. Am. Econ. Rev. 92 (3), 644–663. 
+valuation systems and, if so, make the corresponding scale adjustments.                   Horvitz, D.G., Thompson, D.J., 1952. A generalization of sampling without replacement 
+                                                                                              from a finite universe. J. Am. Stat. Assoc. 47 (260), 663–685. 
+                                                                                          Jann, B., 2017. KMATCH: Stata module for multivariate-distance and propensity-score 
+Declaration of Competing Interest                                                             matching. Statistical Software Components, Boston College Department of 
+                                                                                              Economics. 
+                                                                                          Kim, J.M., Han, J., 2022. Impact of the length of stay at hotels on online reviews. Int. J. 
+    None.                                                                                     Contemp. Hosp. Manag. 34 (4), 1249–1269. 
+                                                                                          Kim, J.M., Liu, J., Yousaf, S., 2022. Does change in the scoring system impact service 
+                                                                                              evaluation? Evidence from Booking.com. Int. J. Contemp. Hosp. Manag. DOI 
+Acknowledgements                                                                              10.1108/IJCHM-01-2022-0075.  
+                                                                                          Kim, M., Lee, S.M., Choi, S., Kim, S.S., 2021. Impact of visual information on online 
+    The authors wish to thank participants at the 8th Conference of the                       consumer review behavior: evidence from a hotel booking website. J. Retail. 
+International Association of Tourism Economics for helpful comments                           Consum. Serv. 60, 102494. 
+                                                                                          Kim, M.G., Mattila, A.S., 2010. The impact of mood states and surprise cues on 
+and suggestions.                                                                              satisfaction. Int. J. Hosp. Manag. 29 (3), 432–436. 
+                                                                                          Lee, Y.J., Hosanagar, K., Tan, Y., 2015. Do I follow my friends or the crowd? Information 
+                                                                                              cascades in online movie ratings. Manag. Sci. 61 (9), 2241–2258. 
+Appendix A.      Supporting information                                                   Leung, D., Law, R., van Hoof, H., Buhalis, D., 2013. Social media in tourism and 
+                                                                                              hospitality: a literature review. J. Travel Tour. Mark. 30, 3–22. 
+    Supplementary data associated with this article can be found in the                   Luca, M., Zervas, G., 2016. Fake it till you make it: reputation, competition, and Yelp 
+                                                                                                                                    –
+online version at doi:10.1016/j.ijhm.2023.103493.                                             review fraud. Manag. Sci. 62 (12), 3393 3672. 
+                                                                                          Lyu, J., Khan, A., Bibi, S., Chan, J.H., Qi, X., 2022. Big data in action: an overview of big 
+                                                                                              data studies in tourism and hospitality literature. J. Hosp. Tour. Manag. 51, 
+References                                                                                    346–360. 
+                                                                                          Magnani, M., 2020. The economic and behavioral consequences of online user reviews. 
+                                                                                              J. Econ. Surv. 34 (3), 263–292. 
+Akinci, S., Aksoy, S., 2019. The impact of service recovery evaluation on word-of-mouth 
+                                                                                          Mariani, M., 2020. Big data and analytics in tourism and hospitality: a perspective 
+    intention: A moderated mediation model of overall satisfaction, household income 
+                                                                                              article. Tour. Rev. 75 (1), 299–303. 
+    and gender. Tour. Manag. Perspect. 31, 184–194. 
+                                                                                          Mariani, M., Predvoditeleva, M., 2019. How do online reviewers’ cultural traits and 
+Amblee, N., Ullah, R., 2022. Technique to harmonize Booking.com’s dual rating systems. 
+                                                                                              perceived experience influence hotel online ratings? An empirical analysis of the 
+    Ann. Tour. Res. 97, 103489. 
+                                                                                              Muscovite hotel sector. Int. J. Contemp. Hosp. Manag. 31 (12), 4543–4573. 
+Anagnostopoulou, S.C., Buhalis, D., Kountouri, I.L., Manousakis, E.G., Tsekrekos, A.E., 
+                                                                                          Mariani, M., Borghi, M., Gretzel, U., 2019. Online reviews: differences by submission 
+    2020. The impact of online reputation on hotel profitability. Int. J. Contemp. Hosp. 
+                                                                                              device. Tour. Manag. 70, 295–298. 
+    Manag. 32 (1), 20–39. 
+
+                                                                                      10
+V. Leoni and D. Boto-García                                                                                                                                          International                    Journal            of    Hospitality                 Management                   111 (2023) 103493
+
+Mariani, M.M., Borghi, M., 2018. Effects of the Booking.com rating system: bringing       Racherla, P., Connolly, D.J., Christodoulidou, N., 2013. What determines consumers’ 
+    hotel class into the picture. Tour. Manag. 66, 47–52.                                     ratings of service providers? An exploratory study of online traveler reviews. 
+Martin-Fuentes, E., Mellinas, J.P., Parra-Lopez, E., 2020. Online travel review rating        J. Hosp. Mark. Manag. 22 (2), 135–161. 
+    scales and effects on hotel scoring and competitiveness. Tour. Rev. 76 (3), 654–668.  Radojevic, T., Stanisic, N., Stanic, N., 2015. Solo travellers assign higher ratings than 
+Martín-Fuentes, E., 2016. Are guests of the same opinion as the hotel star-rate               families: Examining customer satisfaction by demographic group. Tour. Manag. 
+    classification system? J. Hosp. Tour. Manag. 29, 126–134.                                 Perspect. 16, 247–258. 
+Martín-Fuentes, E., Mellinas, J.P., 2018. Hotels that most rely on Booking.com - online   Rita, P., Ramos, R., Borges-Tiago, M.T., Rodrigues, D., 2022. Impact of the rating system 
+    travel agencues (OTAs) and hotel distribution channels. Tour. Rev. 73 (4), 465–479.       on sentiment and tone of voice: A Booking.com and TripAdvisor comparison study. 
+Martín-Fuentes, E., Mateu, C., Fernandez, C., 2018. Does verifying uses influence             Int. J. Hosp. Manag. 104, 103245. 
+    rankings? Analyzing Booking.com and TripAdvisor. Tour. Analysis 23 (1), 1–15.         Rosenbaum, P., Rubin, D., 1983. The central role of the propensity score in observational 
+Mayzlin, D., Dover, Y., Chevalier, J., 2014. Promotional reviews: an empirical                studies for causal effects. Biometrika 70, 41–55. 
+    investigation of online manipulation. Am. Econ. Rev. 104 (8), 2421–2455.              Rottenstreich, Y., Tversky, A., 1997. Unpacking, repacking, and anchoring: advances in 
+Mellinas, J.P., Martin-Fuentes, E., 2021. Effects of Booking.com’s new scoring system.        support theory. Psychol. Rev. 104 (2), 406–415. 
+    Tour. Manag. 85, 104280.                                                              Rubin, 1974. Estimating causal effects of treatments in randomized and nonrandomized 
+Mellinas, J.P., Nicolau, J.L., 2020. Let’s hook up fast! Hotel reviews and Wi-Fi flaws.       studies. J. Educ. Psychol. 66, 688–701. 
+    Ann. Tour. Res. 80, 102842.                                                           Schneider, C., Weinmann, M., Mohr, P.N.C., vom Brocke, J., 2021. When the stars shine 
+Mellinas, J.P., Soledad-María Martínez, M.D., Bernal-García, J.J., 2015. Booking.com:         too bright: the influence of multidimensional ratings on online consumer ratings. 
+    the unexpected scoring system. Tour. Manag. 49, 72–74.                                    Manag. Sci. 67 (6), 3871–3898. 
+Mellinas, J.P., Nicolau, J.L., Park, S., 2019. Inconsistent behavior in online consumer   Serra Cantallops, A., Salvi, F., 2014. New consumer behavior: a review of research on 
+    reviews: the effects of hotel attribute ratings on location. Tour. Manag. 71, 421–427.    eWOM and hotels. Int. J. Hosp. Manag. 36, 41–51. 
+Moreno-Perdigon,´  M.C., Guzman-P´ ´erez, B., Ravelo-Mesa, T., 2021. Guest satisfaction in Shen, X., Pan, B., Hu, T., Chen, K., Qiao, L., Zhu, J., 2021. Beyond self-selection: the 
+    independent and affiliated to chain hotels. Int. J. Hosp. Manag. 94, 102812.              multilayered online review biases at the intersection of users, platforms and culture. 
+Naumzik, C., Feuerriegel, S., Weinmann, M., 2022. I will survive: predicting business         J. Hosp. Tour. Insights 4 (1), 77–97. 
+    failures from customer ratings. Mark. Sci. 41 (1), 188–207.                           Smironva, E., Kiatkawsin, K., Lee, S.K., Kim, J., Lee, C.H., 2020. Self-selection and non- 
+Nicolau, J.L., Mellinas, J.P., Martín-Fuentes, E., 2020a. The halo effect: a longitudinal     response biases in customers’ hotel ratings - a comparison of online and offline 
+    approach. Ann. Tour. Res. 83, 102938.                                                     ratings. Curr. Issues Tour. 23 (10), 1191–1204. 
+Nicolau, J.L., Mellinas, J.P., Martín-Fuentes, E., 2020b. Satisfaction measures with      Sparks, B.A., Browning, V., 2011. The impact of online reviews on hotel booking 
+    monetary and non-monetary components: Hotel’s overall scores. Int. J. Hosp.               intentions and perception of trust. Tour. Manag. 32, 1310–1323. 
+                                                                                          ˇ                                                        ˇ
+    Manag. 87, 102497.                                                                    Stumpf, P., Vojtko, V., McGrath, R., Raˇsovska,´  I., Ryglova,´  J., Sacha,´  J., 2022. Destination 
+Nicolau, J.L., de Carlos Villamarín, P., Al´en, E., P´erez-Gonzalez,´  A., 2022. Asymmetric   satisfaction comparison excluding the weather effect. Curr. Issues Tour. 25 (15), 
+    effects of extreme-moderate online reviews in the language-satisfaction relationship.     2404–2421. 
+    Tour. Manag. 91, 104524.                                                              Taecharungroj, V., Mathayomchan, B., 2019. Analysing TripAdvisor reviews of tourist 
+Nieto-Garcia, M., Resce, G., Ishizaka, A., Occhiocupo, N., Viglia, G., 2019. The              attractions in Phuket, Thailand. Tour. Manag. 75, 550–568. 
+    dimensions of hotel customer ratings that boost RevPAR. Int. J. Hosp. Manag. 77,      Thaler, R.H., 2018. From cashews to nudges. Am. Econ. Rev. 108 (6), 1265–1287. 
+    583–592.                                                                              Thaler, R.H., Benartzi, S., 2004. Save more tomorrow: using behavioral economics to 
+Phillips, P., Antonio, N., de Almeida, A., Nunes, L., 2020. The influence of geographic       increase employee saving. J. Political Econ. 112 (S2), S164–S187. 
+    and psychic distance on online hotel ratings. J. Travel Res. 59 (4), 722–741.         Van Boven, L., Epley, N., 2003. The unpacking effect in evaluative judgements: when the 
+Pizam, A., Shapoval, V., Ellis, T., 2016. Customer satisfaction and its measurement in        whole is less than the sum of its parts. J. Exp. Soc. Psychol. 39 (3), 263–269. 
+    hospitality enterprises: a revisit and update. Int. J. Contemp. Hosp. Manag. 28 (1),  Vermeulen, I.E., Seegers, D., 2009. Tried and tested: the impact of online hotel reviews 
+    2–35.                                                                                     on consumer consideration. Tour. Manag. 30, 123–127. 
+Preston, C.C., Colman, A.M., 2000. Optimal number of response categories in rating        Viglia, G., Minazzi, R., Buhalis, D., 2016. The influence of e-word-of-mouth on hotel 
+    scales: realiability, validity, discriminating power and respondent preferences. Acta     occupancy rate. Int. J. Contemp. Hosp. Manag. 28 (9), 2035–2051. 
+    Psychol. 104, 1–15.                                                                   Zhang, C., Xu, Z., Gou, X., Chen, S., 2021. An online reviews-driven method for the 
+Rabin, M., Schrag, J.L., 1999. First impressions matter: a model of confirmatory bias.        prioritization of improvements in hotel services. Tour. Manag. 87, 104382. 
+    Q. J. Econ. 114 (1), 7–82. 
+
+
+                                                                                      11

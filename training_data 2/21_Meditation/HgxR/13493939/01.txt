@@ -1,0 +1,1182 @@
+Acta Psychiatr Scand 2020: 142: 374–393              © 2020 The Authors. Acta Psychiatrica Scandinavica published by John Wiley & Sons Ltd
+All rights reserved                                                        ACTA PSYCHIATRICA SCANDINAVICA
+DOI: 10.1111/acps.13225
+
+
+
+
+Systematic Review or Meta-Analysis
+Adverse events in meditation practices and
+meditation-based therapies: a systematic
+review
+  Farias M, Maraldi E, Wallenkampf KC, Lucchetti G. Adverse events in                   M. Farias1 , E. Maraldi2                        ,
+  meditation practices and meditation-based therapies: a systematic                     K. C. Wallenkampf3,
+  review.                                                                               G. Lucchetti4
+  Objective: Meditation techniques are widely used as therapy and
+                                                                                        1
+  wellbeing practices, but there are growing concerns about its potential                 Brain, Belief, & Behaviour Lab, CTPSR, Coventry
+  for harm. The aim of the present study is to systematically review                    University, Coventry, UK, 2Pontifical Catholic University
+  meditation adverse events (MAEs), investigating its major clinical                    of S~ao Paulo, S~ao Paulo, Brazil, 3School of Medicine,
+                                                                                        Loma Linda University, Loma Linda, CA, USA and
+  categories and its prevalence.                                                        4
+                                                                                          School of Medicine, Federal University of Juiz de Fora,
+  Method: We searched PubMed, PsycINFO, Scopus, Embase and                              Juiz de Fora, Brazil
+  AMED up to October 2019. Eligible studies included original reports of
+  meditation practices (excluding related physical practices such as Yoga
+                                                                                        This is an open access article under the terms of the
+  postures) with adult samples across experimental, observational and
+                                                                                        Creative Commons Attribution-NonCommercial-NoDerivs
+  case studies. We identiﬁed a total of 6742 citations, 83 of which met the             License, which permits use and distribution in any
+  inclusion criteria for MAEs with a total of 6703 participants who                     medium, provided the original work is properly cited, the
+  undertook meditation practice.                                                        use is non-commercial and no modifications or
+  Results: Of the 83 studies analysed, 55 (65%) included reports of at                  adaptations are made.
+  least one type of MAE. The total prevalence of adverse events was
+  8.3% (95% CI 0.05–0.12), though this varied considerably across types
+  of studies – 3.7% (95% CI 0.02–0.05) for experimental and 33.2% (95%                  Key words: meditation; mindfulness; adverse events;
+  CI 0.25–0.41) for observational studies. The most common AEs were                     systematic review; anxiety; depression
+  anxiety (33%, 18), depression (27%, 15) and cognitive anomalies (25%,                 Miguel Farias, Brain, Belief, & Behaviour Lab, Coventry
+  14); gastrointestinal problems and suicidal behaviours (both 11%, 6)                  University, Priory Street, Coventry CV1 5FB, UK. Email:
+  were the least frequent.                                                              Miguel.farias@coventry.ac.uk
+  Conclusion: We found that the occurrence of AEs during or after
+                                                                                        *Joint first authors.
+  meditation practices is not uncommon, and may occur in individuals
+  with no previous history of mental health problems. These results are
+  relevant both for practitioners and clinicians, and contribute to a
+  balanced perspective of meditation as a practice that may lead to both
+  positive and negative outcomes.                                                       Accepted for publication August 7, 2020
+
+
+ Summations
+    • Meditation practices are associated with the report of adverse events, particularly anxiety and depres-
+       sion.
+    • The  overall prevalence of meditation adverse events (8.3%) is similar to those reported for psy-
+       chotherapy practice in general.
+
+ Considerations
+    • There is no standard assessment of adverse events in the reviewed literature, and randomized con-
+       trolled trials are likely to under-report them.
+    • Future research should focus on how meditation outcomes are aﬀected by context and individual dif-
+       ferences, including appraisals of meditation experiences.
+
+
+
+374
+                                                                                Adverse events in meditation
+
+Introduction                                            acknowledging that some individuals may experi-
+                                                        ence harmful or adverse eﬀects after meditating
+Originally developed as a technique for spiritual
+                                                        (18). New studies of long-term meditators indicate
+contemplation, meditation is now widely used as a
+                                                        that challenging, diﬃcult or functionally impairing
+wellbeing and therapeutic practice. The 2012 US
+                                                        eﬀects, which include hospitalization and suicidal-
+National Health Statistics reported that 8% of US
+                                                        ity, have a median duration of 1–3 years (19), and
+adults (18 million) have used some type of medita-
+                                                        tentatively estimate, based on an average 5% rate
+tion technique (1). While the major concern of the
+                                                        of adverse events in the general psychotherapy lit-
+research literature has been to establish the physi-
+                                                        erature, that in the USA alone almost 1 million of
+cal and mental health beneﬁts of meditation prac-
+                                                        individuals may experience negative events associ-
+tices, there have been reports about its potential
+                                                        ated with meditation (20).
+for harm stretching back to the 1970s (2, 3). In
+                                                           There is an important distinction in the medical
+1977, the American Psychiatric Association pub-
+                                                        literature between serious adverse events (SAEs)
+lished a position statement on meditation where it
+                                                        and adverse events (AEs). In the European Union
+strongly recommended that ’research be under-
+                                                        and the USA, SAEs are described within regula-
+taken in the form of well-controlled studies to eval-
+                                                        tions for the testing of new medical products in
+uate the possible speciﬁc usefulness, indication,
+                                                        clinical trials and speciﬁcally refer to occurrences
+contraindications, and dangers of meditative tech-
+                                                        that result in death, signiﬁcant disability or inca-
+niques’. Yet it has taken almost four decades of
+                                                        pacity, congenital anomaly or birth defect, are life-
+research before the literature acknowledged that
+                                                        threatening, or require hospitalization (21, 22).
+there might be a bias towards exaggerating the
+                                                        The deﬁnition of other types of AEs is more
+clinical beneﬁts of meditation practice and dismiss-
+                                                        broadly construed as any ‘undesirable’ or ‘unto-
+ing its potential adverse eﬀects (4–6).
+                                                        ward’ occurrences associated with, though not nec-
+   Although there is a wide range of meditation
+                                                        essarily caused, by the use of a medical product.
+techniques originally developed across religious
+                                                        These regulations are relevant for the study of
+traditions, for the past 50 years the study of medi-
+                                                        MAEs in two ways: meditation-based clinical trials
+tation has overwhelmingly focused on two tech-
+                                                        across the EU and the USA are subjected to these
+niques derived from Hindu and Buddhist
+                                                        regulations and must report all SAEs; on the other
+traditions: transcendental meditation and mindful-
+                                                        hand, they are not required to report other types
+ness (7). More recently, there has been a growing
+                                                        of adverse occurrences that fall outside of this list,
+interest in studying techniques associated with
+                                                        which is likely to lead to an under-reporting of
+prosocial emotions and behaviours, such as loving-
+                                                        MAEs – a general problem found with randomized
+kindness and compassion meditation (8). Diﬀerent
+                                                        controlled trials (23).
+types of meditation are likely to engage diverse
+                                                           Within the psychotherapeutic literature, there is
+cognitive mechanisms (9, 10) and have been found
+                                                        growing evidence that psychological treatments can
+to be associated with contrasting neural correlates,
+                                                        be associated with AEs (13) with estimates ranging
+an exception being the common recruitment of the
+                                                        from 3% to 10% of patients who have become
+insula across meditation types, a region involved in
+                                                        worse following psychotherapy (14). Similar ﬁnd-
+awareness of inner body states (11).
+                                                        ings have been reported for physical relaxation,
+   Meditation practices have been linked to the
+                                                        which may in some individuals stimulate an increase
+triggering of unusual or extraordinary states of
+                                                        in anxiety, an adverse event documented as ‘relax-
+mind, though not all positive (12, 13). Historical
+                                                        ation-induced anxiety’ (15). Rather than referring
+reports indicate that it has been used to deperson-
+                                                        to these events as ‘undesirable’, which may be con-
+alize soldiers (14) and that some individuals can
+                                                        fused with something that is merely ‘unhelpful’, this
+develop a ‘meditation sickness’ (15). The ﬁrst
+                                                        literature has highlighted AEs as ‘harmful’, leaving
+handbook of meditation included contributions
+                                                        no doubt that these are negative occurrences, often
+from leading cognitive psychotherapists (e.g. A
+                                                        including symptom deterioration (24). In this
+Lazarus and A Ellis) about the occurrence of
+                                                        review, we will adopt a similar characterization of
+adverse events associated with these practices (16).
+                                                        MAEs as occurrences that are harmful or distress-
+Despite this early interest in meditation adverse
+                                                        ing, though of varying levels of severity.
+events (MAEs), the prevailing reports of medita-
+                                                           Despite a growing interest in this area, there has
+tion for most of the last 20 years have largely
+                                                        been no systematic review addressing potential
+ignored the possibility of these eﬀects or even
+                                                        AEs across the whole range of meditation reports.
+denied it (17). It is only more recently that clini-
+                                                        Two recent reviews have only included the litera-
+cians and academic centres dedicated to the study
+                                                        ture on mindfulness-based interventions and found
+of meditation-based interventions have begun
+                                                        that these meditation interventions were no more
+
+                                                                                                          375
+Farias et al.
+
+likely to lead to harm than a wait-list control, or     deemed eligible any study showing a harmful event
+they identiﬁed an overall very low rate of adverse      or deterioration of current physical or mental con-
+events (1% across 36 randomized controlled trials)      dition that occurred during or after meditation
+(25, 26). By contrast, the present study aims to        practice. On the other hand, we wanted to focus
+review the wide literature on MAEs by including         speciﬁcally on meditation techniques, broadly
+all types of empirical reports, regardless of their     deﬁned as a mental practice where an individual
+methodological approach.                                brings the focus of attention to a particular object
+                                                        (whether a word, image, sound, breathing or feel-
+                                                        ing) or to the ﬂow of conscious awareness. We thus
+Aims of the study
+                                                        excluded other so-called mind–body interventions,
+The aim of this systematic review is to provide an      such as Qigong and Yoga involving the practice of
+assessment of the major categories of adverse           physical exercise or asanas, for which there are sep-
+events and its prevalence across the meditation lit-    arate literatures on their adverse eﬀects (28, 29).
+erature.
+                                                        Selection of studies
+Methods
+                                                        Two authors (KW, MF) independently reviewed
+This systematic review followed the PRISMA              the titles, abstracts, and screened the methods sec-
+guidelines, and it was registered on PROSPERO           tion of each study using the eligibility criteria. The
+(2016:CRD42016040177). As this is the ﬁrst sys-         full text of potentially eligible studies was read in
+tematic review of the literature involving medita-      full by 3 authors (MF, KW, EM). All disagree-
+tion adverse events (MAEs), we utilized the ‘broad      ments were discussed until resolved.
+sweep’ approach recommended by the Cochrane
+Adverse Eﬀects Methods Group (27) in order to
+                                                        Data extraction
+gain a general view of the variety of adverse events,
+as well as attempting a preliminary estimate of         Data were extracted by one author (EM) and veri-
+their prevalence. This approach is recommended          ﬁed by a second author (MF). The data included
+when speciﬁc adverse eﬀects associated with a ther-     reports about sample size, type of meditation prac-
+apeutic intervention are not known and it is not        tice, length of practice, major clinical categories of
+possible to stipulate which ones will be the most       adverse events with a detailed breakup of symp-
+relevant for the review.                                toms, previous medical or psychiatric history, dura-
+                                                        tion of adverse events and its prevalence. When
+                                                        MAEs were reported in general terms but the speci-
+Search strategies
+                                                        ﬁc symptoms were missing, we contacted authors of
+We searched PUBMED, PSYCINFO, SCOPUS,                   studies to attempt obtaining missing data.
+EMBASE and AMED for articles published up to 31
+October 2019. Our search strategy included the words
+                                                        Risk of bias
+‘meditation’ or ‘mindfulness’ in combination with
+terms concerning somatic, psychological, and neuro-     Methodological quality was rated using the
+logical or cognitive adverse events (see Table S1).     National Institutes of Health Quality Assessment
+                                                        Tools. We chose the tools that assessed case–con-
+                                                        trol studies, observational cohort and cross-sec-
+Eligibility criteria
+                                                        tional studies; for the experimental studies and
+Our inclusion criteria consisted of studies employ-     randomized clinical trials, we used the tools on
+ing a meditation technique or intervention with         controlled intervention studies and before–after
+adult participants (aged 18 years of age or older)      (pre–post) studies with no control group. Two
+that reported original data on MAEs using any           authors (MF and EM) read and graded the quality
+type of methodological approach – case studies,         of studies. Grades where disagreement arose were
+observational group studies (quantitative and           discussed until a consensus was reached. The grad-
+qualitative) and experimental studies (quasi-experi-    ing system considered outcomes of high, medium
+mental and randomized controlled trials) in any         and low quality (see Table S2).
+published language.
+   Here, we consider MAEs the whole range of
+                                                        Data analysis
+experiences associated with the practice of medita-
+tion, or meditation-based therapeutic interven-         A total of 6742 articles were found in the database
+tions, which are harmful or distressing. We             search. Following the removal of duplicates, 5276
+
+376
+                                                                                                       Adverse events in meditation
+
+records were identiﬁed and screened (see Fig. 1).                       observational designs through Der Simonian and
+Of these, 5160 studies did not meet the inclusion                       Laird’s random eﬀects. Freeman–Tukey double
+criteria, which left a total of 116 articles for full                   arcsine transformation was used to stabilize vari-
+text analysis. A total of 33 studies were excluded                      ability in prevalence estimates. We excluded 10
+because they did not assess adverse events, or did                      studies that did not include the number of partici-
+not include original data (e.g. commentaries),                          pants experiencing MAEs, and 1 study that only
+totalling 83 studies for the ﬁnal analysis (see                         sampled individuals who had experienced MAEs.
+Fig. 1). We considered that an MAE had occurred                         Given that case studies were equally not consid-
+if a study reported at least one event. Two authors                     ered, a total of 57 reports were included in the
+(MF and EM) reviewed the extracted data and cate-                       prevalence estimates.
+gorized reported MAEs across broad (somatic, psy-
+chiatric and neurological or cognitive) and speciﬁc
+                                                                        Results
+categories (such as pain, stress, fear or terror, cogni-
+tive anomalies, visual or auditory hallucinations).                     The 83 included articles (6464 meditation partici-
+Some speciﬁc categories included a short range of                       pants; exclusive of control condition participants)
+terms that were employed across studies. For exam-                      were published between 1974 and 2019. There were
+ple, under ‘Visual or Auditory Hallucinations’ we                       54 experimental studies (n = 2673), 14 observa-
+considered the terms ’visual hallucinations’, ’audi-                    tional studies (n = 4023) and 15 case studies
+tory hallucinations’, ‘hearing voices’, and ‘unusual                    (n = 31). All except 3 of the observational studies
+visualisations’; for the ‘Fear and Terror’ category                     (88, 90, 94) employed quantitative methods, and
+we included the terms ‘fear’, ‘terror’, ‘panic attack’,                 its two most recent reports consisted of large sur-
+and ‘agoraphobia’. Other categories were comprised                      veys that accounted for 58% of the total sample
+of a wider range of terms which reﬂected the diﬀer-                     size. (12, 13) The studies employed a wide variety
+ent methods employed, from self-report to biologi-                      of meditation techniques (see Table 1), though the
+cal instruments. For example, the ‘Stress’ category                     majority used either mindfulness or mindfulness-
+included the terms ‘stress’, ‘tension’, ‘restlessness’,                 based interventions (MBIs) (61; 71%), or transcen-
+‘elevated cortisol levels’, and ‘increased blood pres-                  dental meditation (14; 16%).
+sure’; for the ‘Cognitive Anomalies’ category we                           Fifty-ﬁve studies (65%) mentioned the occur-
+included the terms ‘disorientation to time and                          rence of at least one type of MAE. A total of 1102
+place’, ‘confusion’, ‘attention problems’, ‘false mem-                  meditators experienced adverse events: 59 for
+ories’, ‘reduced memory accuracy’, and ‘perceptual                      experimental studies, 1012 for observational stud-
+hypersensitivity’.                                                      ies and 31 for case studies. All case studies
+   In addition, we calculated pooled prevalence                         described clinical cases of individuals who reported
+estimates for studies with experimental and                             severe MAEs, such as psychosis, depersonalization
+                                            Identification
+
+
+
+
+                                                             6742 Records identified           50 Additional records identified
+                                                             through database searching        through other articles and
+                                                                                               researchers
+
+
+
+                                                                        5276 Records after duplicates removed
+                                            Screening
+
+
+
+
+                                                                                  116 Full-text                       33 Full-text
+                                                                                  documents eligible for             documents excluded
+                                                                                  review                               28 Did not report
+                                          Eligibility
+
+
+
+
+                                                                                                                       assessment of
+                                                                                                                       MAEs
+                                                                                                                       5 Did not report data
+
+
+                                                                              83 Studies included in analysis
+                                                                                54 Experimental
+                                            Included
+
+
+
+
+Fig. 1. PRISMA diagram for selection                                            14 Observational
+of studies. [Colour ﬁgure can be viewed                                         15 Case Studies
+at wileyonlinelibrary.com]
+
+                                                                                                                                         377
+      Table 1. Adverse events by type of study
+
+
+
+
+378
+                                   Number of
+                                   meditation                                 Duration of intervention                                                 Neurological or   Psychiatric or       Time period             Frequency
+      Study                        participants   Type of meditation          or practice                  Somatic AEs          Psychiatric AEs        cognitive AEs     medical history      of AEs                  of AEs*
+                                                                                                                                                                                                                                  Farias et al.
+
+
+
+
+      Experimental studies and randomized controlled trials (N = 2649; 54 studies)
+        Chambers et al.               94       Mindfulness (MBCT)               8 weeks; 35 min p/day;     –                                           –                 Prostate cancer      –                       0
+          (2017) (30)                                                             1.25-h class p/week
+        Chadwick et al.               46       Mindfulness (PBCT)               12 weeks; 10 min           Death                –                      –                 Schizophrenia or     NS                      2†
+          (2016) (31)                                                             session p/day +                                                                         schizoaffective
+                                                                                  10 min session p/week                                                                   disorder
+        Daubenmier et al.            100       Mindfulness (MBSR)               5.5 months; 30 min         –                    –                      –                 Obesity              –                       0
+          (2016) (32)                                                             p/day; 2.5-h
+                                                                                  class twice p/week;
+                                                                                  1 day retreat
+        Possemato et al.              36       Mindfulness (PCBMT)              4 weeks; 1.5-h session     –                    –                      –                 PTSD                 –                       0
+          (2016) (33)                                                             p/week
+        Rosenstreich                  50       Mindfulness                      5 weeks; 30 min p/week     –                    –                      Increased false   GP – UnS             During or immediately   NS
+          (2016) (34)                                                             (st 1); one 30-min                                                     memories                              after med.
+                                                                                  session (st 2)
+        Jee et al.                    21       Mindfulness (MBSR)               8 weeks; 2-h               Interpersonal        –                      –                 Trauma               During or immediately   3
+          (2015) (35)                                                             session p/wk               violence;                                                                         after med.
+                                                                                                             increased heart
+                                                                                                             rate
+        Johns et al.                     18       Mindfulness (MBSR)          7 weeks; 20 min p/day;       –                    –                      –                 Cancer survivors     –                       0
+         (2015) (36)                                                           2-h class p/week
+        Kuyken et al.                  176        Mindfulness (MBCT)          8 weeks; 2.25 h p/week; 4    Death; stroke;       Suicide attempt        –                 ≥ 3 depressive       During and at           5†
+         (2015) (37)                                                           follow-up sessions           hemotympanum                                                  episodes             follow-up
+        La Cour et al.                   54       Mindfulness (MBSR)          8 weeks; 45 min p/day; 3-h   –                    Anger; anxiety         –                 Chronic Pain         NS                      4
+         (2015) (38)                                                           class p/week; one
+                                                                               4.5-h class
+        Pavlov et al.                    22       Sahaja Yoga meditation      12.3 years of average        Increased heart      –                      –                 GP                   During or immediately   NS
+         (2015) (39)                                                           practice                      rate                                                                              after med.
+        Wilson et al.                  368        Mindfulness                 One 15 min session           –                    –                      Increased false   GP - UnS             During or immediately   NS
+         (2015) (40)                                                                                                                                     memories                              after med.
+        Blom et al. (2014) (41)          46       Mindfulness (MBSR)          9 weeks: 45 min p/day;       –                    –                      –                 Hypertension         –                       0
+                                                                               1 day retreat
+        Cox et al. (2014) (42)           11       Mindfulness (MBSR)          7 weeks; 30 min p/day;       –                    Anxiety; depression;   –                 Survivors of         During or immediately   3
+                                                                               once a week                                       increase in PTSD                         mechanical           after med.
+                                                                                                                                                                          ventilation
+        Creswell et al.                  31       Mindfulness (MBSR)          3 days; 25 min p/ day        Increased cortisol   –                      –                 GP                   During or immediately   NS
+          (2014) (43)                                                                                        response                                                                          after med.
+        Goldsmith et al.                  9       Mindfulness (MBSR)          8 weeks; once p/ week        –                    Increased PTSD;        –                 PTSD; depression     During or immediately   2†
+         (2014) (44)                                                                                                              depression                                                   after med.
+        Hou et al. (2014) (45)           70       Mindfulness (MBSR)          8 weeks; 45 min p/day;       Muscle & neck        –                      –                 Caregiver Strain     NS                      1
+                                                                               2-h class p/week             strain                                                        Index score>=7
+        Jedel et al. (2014) (46)         26       Mindfulness (MBSR)          8 weeks; 45 min p/day;       –                    –                      –                 Ulcerative colitis   –                       0
+                                                                               2.5-h session p/week
+      Table 1. (Continued)
+
+                                   Number of
+                                   meditation                             Duration of intervention                                                         Neurological or   Psychiatric or        Time period             Frequency
+      Study                        participants   Type of meditation      or practice                        Somatic AEs          Psychiatric AEs          cognitive AEs     medical history       of AEs                  of AEs*
+
+        Taylor et al.                    40       Mindfulness (MBCT-SH)   8 weeks; 20–30 min p/day           –                    –                        –                 GP – UnS              –                       0
+         (2014) (47)
+        Williams et al.                108        Mindfulness (MBCT)      8 weeks + 2 weeks                  Ischaemic attack;    Alcohol overdose         –                 ≥3 depressive         During and at           5†
+         (2014) (48)                                                        follow-up; 2 h p/week              surgery; stomach                                               episodes              follow-up
+                                                                                                               pain; low
+                                                                                                               blood pressure
+        Bhatnagar et al.                  8       Mindfulness (MBSR)      8 weeks                            –                    Increase in PTSD         –                 Combat-related        During or immediately   1
+         (2013) (49)                                                                                                                                                           PTSD                 after med.
+        Centeno (2013) (50)              10       Mindfulness             6 weeks; 15–20 min/ day;           –                    Anxiety                  –                 Intimate partner      During or immediately   2
+                                                                           4 days/week                                                                                         violence, PTSD       after med.
+        De Vibe et al.                 144        Mindfulness (MBSR)      7 weeks; 30 min                    Adverse bodily       Adverse emotional        –                 GP - UnS              During or immediately   NS
+         (2013) (51)                                                       p/day; 1 day                       states               and mental states                                                after med.
+        Hoge et al.                      48       Mindfulness (MBSR)      8 weeks; 20 min p/day; 2-h         Muscle Soreness      –                        –                 Generalized anxiety   NS                      1
+         (2013) (52)                                                       class p/week; 4-h retreat                                                                          disorder
+        Kearney et al.                   25       Mindfulness (MBSR)      8 weeks; 45 min p/day; 2.5-h       –                    Increased PTSD           –                 Veterans with         During or immediately   1
+         (2013) (53)                                                       class p/week; 7-h retreat                                                                          PTSD                  after med.
+        King et al. (2013) (54)          20       Mindfulness (MBCT)      8 weeks; 40 min p/day;             –                    Increased anxiety;       –                 Military Veterans     During or immediately   2
+                                                                           2-h class p/week                                         Trauma re-experience                                            after med.
+        Parswani et al.                  16       Mindfulness (MBSR)      8 weeks; 30 min p/day;             –                    –                        –                 Coronary heart        –                       0
+         (2013) (55)                                                       1.15-h class/week                                                                                  disease
+        Rimes and Wingrove               18       Mindfulness (MBCT)      8 weeks; 2.25-h                    –                    –                        –                 Chronic Fatigue       –                       0
+         (2013) (56)                                                       class p/week                                                                                       Syndrome
+        Britton et al.                   29       Mindfulness (MBCT)      8 weeks;, 2-h class p/week         –                    –                        –                 Partially remitted    –                       0
+         (2012) (57)                                                                                                                                                          depression
+        Hoffman et al.                   95       Mindfulness (MBSR)      8 weeks; 45 min p/day; 2–h         –                    –                        –                 Breast cancer         –                       0
+         (2012) (58)                                                       class p/week; one 6–h retreat
+        Kearney et al.                   94       Mindfulness (MBSR)      8 weeks; 45 min p/day;             –                    –                        –                 PTSD                  During or immediately   0
+         (2012) (59)                                                       2.5-h class p/week; 7-h retreat                                                                                          after med.
+        Nesvold et al.                   27       Acem meditation         One 20 min session                 Increased            –                        –                 GP (n 23),            During or immediately   NS
+         (2012) (60)                                                                                           mean arterial                                                  Hypertension          after med.
+                                                                                                               systolic and                                                   (n 4)
+                                                                                                               mean blood
+                                                                                                               pressure levels
+        Niles et al. (2012) (61)         17       Mindfulness             8 weeks; 5–15 min p/day;           –                    –                        –                 Veterans with         –                       0
+                                                                           45 min class p/2 weeks                                                                             PTSD
+        Van Vugt et al.                  29       Mindfulness (MBCT)      8 weeks                            –                    –                        –                 Depression            –                       0
+         (2012) (62)
+        Brewer et al.                    33       Mindfulness             4 weeks; 1.5-h class twice         –                    –                        –                 Nicotine dependency                           0
+         (2011) (63)                                                       p/week + 18 min p/day
+        Gross et al. (2011) (64)         20       Mindfulness (MBSR)      8 weeks; 45 min/d; 2.5-h           –                    –                        –                 Chronic primary       –                       0
+                                                                           class p/week                                                                                       insomnia
+        Mascaro (2011) (65)              16       Mindfulness             8 weeks; 1 h-2 h                   –                    Anxiety and              –                 None                  Up to 6 months          NS
+                                                                           class p/week                                            depression
+
+
+
+
+379
+                                                                                                                                                                                                                                       Adverse events in meditation
+      Table 1. (Continued)
+
+
+
+
+380
+                               Number of
+                               meditation                          Duration of intervention                                           Neurological or   Psychiatric or         Time period             Frequency
+      Study                    participants   Type of meditation   or practice                    Somatic AEs       Psychiatric AEs   cognitive AEs     medical history        of AEs                  of AEs*
+                                                                                                                                                                                                                   Farias et al.
+
+
+
+
+        Vøllestad et al.             39       Mindfulness (MBSR)   8 weeks; 2.5-h class p/week;   –                 Anxiety           –                 Anxiety disorders      During or immediately   1
+         (2011) (66)                                                34 min p/day; 1                                                                                             after med.
+                                                                    half-day retreat
+        Br€anstr€om                  32       Mindfulness (MBSR)   8 weeks; 2-h class p/week;     –                 –                 –                 Past cancer            During or immediately   0
+         et al. (2013;                                                                                                                                   diagnosis              after med.
+         2010) (67,68)
+        Britton et al.               26       Mindfulness (MBCT)   8 weeks; 3-h class p/week;     –                 –                 –                 Depression             –                       0
+         (2010) (69)                                                1 day retreat;
+        Crane et al.                 19       Mindfulness          Single 15 min class            –                 Increased CGS     –                 GP                     During, imm. after      6
+         (2010) (70)
+        Gross et al.                 72       Mindfulness (MBSR)   8 weeks; 2.5-h class p/week    –                 –                 –                 Solid-organ                                    0
+         (2010) (71)                                                                                                                                     transplant
+        Grossman et al.              76       Mindfulness (MBSR)   8 weeks; 40 min p/day;         –                 –                 –                 Multiple sclerosis     –                       0
+         (2010) (72)                                                2.5-h class p/week;
+                                                                    one 7-h retreat
+        Kimbrough et al.             27       Mindfulness (MBSR)   8 weeks; 30 min p/day;         –                 –                 –                 PTSD secondary         During or immediately   0
+         (2010) (73)                                                2.5–3 h class p/week;                                                                to childhood           after med.
+                                                                    5-h retreat                                                                          sexual abuse
+        Witkiewitz et al.            93       Mindfulness (MBRP)   8 weeks; 2-h class             –                 –                 –                 Substance use          –                       0
+         (2010) (74)                                                p/week;                                                                              disorders
+                                                                    NS daily practice
+        Barnhofer et al.            16        Mindfulness (MBCT)   8 weeks; 1 h p/day;            –                 Suicidal crisis   –                 Chronic depression     During or immediately   1
+         (2009) (75)                                                2-h class p/week                                                                                            after med.
+        Brewer et al.                21       Mindfulness (MBRP)   9 weeks; 1 h p/week            –                 –                 –                 Substance abuse                                0
+         (2009) (76)                                                                                                                                     disorder
+        Kuyken et al.                61       Mindfulness (MBCT)   8 weeks; 40 min p/day;         –                 –                 –                 ≥ 3 depressive                                 0
+         (2008) (77)                                                2-h class p/week                                                                     episodes
+        Morone et al.                19       Mindfulness (MBSR)   8 weeks; 1-h class/week;       –                 –                 –                 Low back pain                                  0
+         (2008) (78)                                                45 min/day; 6–7
+                                                                    days/week
+        Pradhan et al.               31       Mindfulness (MBSR)   8 weeks; 45 min p/day;         –                 –                 –                 Rheumatoid             –                       0
+         (2007) (79)                                                2.5-h class p/week                                                                   arthritis
+        Elder (2006) (80)            30       TM                   NS                             –                 –                 –                 Type 2 diabetes                                0
+        Paul-Labrador et al.         52       TM                   4 months; NS                   –                 –                 –                 Coronary artery                                0
+         (2006) (81)                                                                                                                                     disease
+        Kutz et al.                  20       Mindfulness          10 weeks; 45 min p/day         –                 Trauma re-        –                 Narcissistic &         During or immediately   4
+         (1985) (82)                                                                                                 experience                          borderline             after med.
+                                                                                                                                                         PDs; anxiety &
+                                                                                                                                                         obsessive disorders
+        Heide et al.                 14       Mantra meditation    Single 20 min session          Increased heart   Anxiety           –                 Anxiety symptoms       During or immediately   14
+         (1984) (83)                                                                                rate & skin                                                                 after med.
+                                                                                                    conductance
+      Table 1. (Continued)
+
+                                  Number of
+                                  meditation                                     Duration of intervention                                                     Neurological or        Psychiatric or        Time period             Frequency
+      Study                       participants   Type of meditation              or practice                   Somatic AEs         Psychiatric AEs            cognitive AEs          medical history       of AEs                  of AEs*
+
+        Otis (1984;                     30       TM                              3 months; 15–20 min           Ulcers;             Depression;                Headaches;             GP                    During or immediately   NS
+         study 1) (84)                                                            twice p/day                   gastrointestinal    anxiety                    insomnia                                     after med.
+                                                                                                                upset
+      Observational Studies (N = 4023; 14 studies)
+        Schlosser et al.            1232        Attentional, for example         Average 10 times p/week;                          Unpleasant experiences                            GP                    NS                      315
+         (2019) (13)                             mindfulness, samatha,            median practice = 6 years;                        (e.g. anxiety, fear,
+                                                 mantra (n 1010);                 retreat (n 782)                                   distorted emotions or
+                                                 Constructive,                                                                      thoughts, altered sense
+                                                 for example loving-                                                                of self or the world)
+                                                 kindness, compassion
+                                                 (n 675); Deconstructive,
+                                                 for example
+                                                 Vipassana, Dzogchen
+                                                 (n 435)
+        Vieten et al.               1120        Mindfulness (50%),               Average 14.7 years; daily                         Fear; terror                                      Various               NS                      358
+         (2018) (12)                             TM (28%),                        41%; >weekly                                                                                         psychological
+                                                 breath-focused (67%),            30%; weekly                                                                                         disorders
+                                                 body scan (34%),                 11%; <weekly 12%;                                                                                   (25%); GP
+                                                 contemplative prayer             <monthly 4%;
+                                                 (20%), mantra                    retreat (n 627)
+                                                 repetition
+                                                 (31%), visualization
+                                                 (38%)
+        Banerjee et al.                16       MBCT-SH                          8 weeks; 30 min p/day         –                   Negative thoughts;         –                      GP                    NS                      NS
+         (2017) (85)                                                                                                                sadness; nervousness.
+        Cebolla et al.               342        Focused attention,               Average 5.4 years; Daily      Stomach and         Anxiety; panic;            Visual focus           GP                    During or immediately   87
+         (2017) (86)                             open monitoring,                 22%; 3–4 p/week 16%; 1        muscular            depersonalization;         problems;                                    after med. (n 34)
+                                                 imagination, body                p/week 10%; 1p/ month         pain; nausea        depression; emotional      headache;
+                                                 awareness, compassion,            11%; retreat (n 47)                              lability                   dizziness; loss
+                                                 Informal practice                                                                                             conscious.
+        Lindahl et al.                 60       Concentration (n                 <1 h p/day (n 14),            Pain; physical      Fear; anxiety;             Perceptual             Psychiatric history   During or immediately   N/A
+         (2017) (19)                             20), samatha,                    1–9 h p/day                   tension;            panic; paranoia;           hypersensitivity;      (n = 18); trauma      after med.;> than
+                                                 mindfulness of breathing,        (N 19,); 10                   gastrointestinal    depression; dysphoria;     dizziness; syncope;    history               6 months
+                                                 insight (n 20), vipassana,       or> h p/day (n                distress; nausea    grief; anger;              insomnia; sleep        (n = 25); GP
+                                                 body scan (n 5), analytical n    23); retreat (n 43)                               aggression;                disturbances;
+                                                 1), zazen (n 17), koan (n 3),                                                      agitation; trauma          headache;
+                                                 loving-kindness                                                                    re-experience;             involuntary
+                                                 or compassion                                                                      hallucinations;            movements
+                                                 (n 2), tonglen (n 4),                                                              suicidality;
+                                                 Vajrayana (n 8),                                                                  social anhedonia
+                                                 visualization
+                                                 (n 7), mantra (n 1),
+                                                 Other (n 8)
+
+
+
+
+381
+                                                                                                                                                                                                                                               Adverse events in meditation
+      Table 1. (Continued)
+
+
+
+
+382
+                                  Number of
+                                  meditation                                Duration of intervention                                                           Neurological or       Psychiatric or        Time period             Frequency
+      Study                       participants   Type of meditation         or practice                  Somatic AEs               Psychiatric AEs             cognitive AEs         medical history       of AEs                  of AEs*
+                                                                                                                                                                                                                                               Farias et al.
+
+
+
+
+        Rodr
+            ıguez Fernandez          115        Mindfulness (n 37),        Several times p/day          Pain                      Anxiety; hallucinations;    Memory problems;      GP                    NS                      28
+         (2015) (87)                              Vipassana (n 29),          (n 22); once                                           sadness; emotional          sleep paralysis;
+                                                  Zen (n 21), TM (n 12),     p/day (n 38);                                          disconnection;              sleepiness
+                                                  Christian contemplation    several times                                          loneliness; fear;
+                                                  (n 25), active             p/week (n 25); > once                                  emptiness; isolation;
+                                                  imagination                p/month (n 14);                                        mood swings; traumatic
+                                                  (n 14), Other (n 22)       occasionally (n 5)                                     re-experiencing;
+                                                                                                                                    derealization;
+                                                                                                                                    loss of identity
+        Lomas et al.                    30       Mindfulness (n 29), LKM    0–5 years (n 7);             Physical discomfort       Psychotic symptoms;         –                     Psychiatric history   During or immediately   22
+         (2015) (88)                              (n 29), Six Element        5–10 (n 8);                                            depersonalization; fear;                          (n = 4);              after med.
+                                                  (n 10), Other (n 14)       10–15 (n 7); 15–20 (n 4);                              anger; anxiety; low                               psychotherapy
+                                                                             20+ (n 4)                                              mood; depression                                  experience
+                                                                                                                                                                                      (n = 10); GP
+        Van der Valk et al.             13       Mindfulness                8 weeks; 2 p/week;           –                         Negative affect,            Disorganization       Psychotic patients    During or immediately   1
+         (2013) (89)                                                         3–12 min                                                depression                                                             after med.
+        Kerr et al. (2011) (90)          5       Mindfulness                8 weeks; 2–2.5-h             Abdominal                 –                           Distraction           GP                    During or immediately   3
+                                                                             session p/week               pain; lower                                                                                       after med.
+                                                                                                          back pain; knee
+                                                                                                          pain; physical
+                                                                                                          tension;
+                                                                                                          tiredness
+        Dhalla et al.                 105        NS                         NS                           Rash; diarrhoea;          –                           –                     HIV positive          NS                      66
+         (2006) (91)                                                                                      hives; liver problems;
+                                                                                                          abdominal pain
+        Persinger (1993) (92)         221        TM (n 56), Other (n 165)   –                            –                         Auditory and visual         Dizziness; spinning   GP                    NS                      44
+                                                                                                                                    hallucinations              sensations
+        Shapiro (1992) (93)             27       Vipassana (66,7%),         4.27 years; 70%              Pain                      Fear; anxiety, loss of      Disorientation;       GP                    > than 6 months         17
+                                                  other types                of meditators                                          self; social                confusion;
+                                                  (33,3%, mindfulness,       practised > 1 h p/day;                                 alienation                  decreased
+                                                  Zen, mantra)               retreat (n 27)                                                                     attention;
+                                                                                                                                                                perceptual
+                                                                                                                                                                hypersensitivity
+        Otis (1984                    574        TM                         7.4 months (n 121);          Physical tension;         Antisocial behaviour;       Confusion             GP                    > than 6 months         73
+         study 2) (84)                                                       3–6 months                   restlessness              anxiety; depression;
+                                                                             (n 233); 18 +                                          impulsiveness;
+                                                                             months (n 200)                                         suspiciousness;
+                                                                                                                                    withdrawal
+      Table 1. (Continued)
+
+                                   Number of
+                                   meditation                           Duration of intervention                                                        Neurological or       Psychiatric or         Time period             Frequency
+      Study                        participants   Type of meditation    or practice                       Somatic AEs         Psychiatric AEs           cognitive AEs         medical history        of AEs                  of AEs*
+
+        Kornfield (1979) (94)          163        Vipassana;            2-week course (n                  Restlessness        Auditory and visual       Alterations in        GP                     During or immediately   NS
+                                                                         100); 3-month                                         hallucinations; mood       body image;                                 after med; up
+                                                                         course (n 63); retreat                                swings; fear; anger       Involuntary jerks;                           to 6 months
+                                                                         (n 163)                                                                         violent shaking;
+                                                                                                                                                         loss of body
+                                                                                                                                                         awareness;
+                                                                                                                                                         sleepiness
+      Case studies (N = 31;
+       15 studies)
+        Nakaya et al.                     1       Buddhist meditation   Intensive daily practice          Insomnia, loss of   Delusions;                Headaches             None                   Up to 6 months          N/A
+          (2010) (95)                                                                                       appetite           hallucinations
+        Kuijpers et al.                   1       Hindu meditation      1 intensive session               –                   Visual hallucinations;    –                     Depression,            Up to 6 months          N/A
+          (2007) (96)                                                                                                          anxiety; delusions;                             hypomania
+                                                                                                                               feelings of guilt
+        St Louis et al.                   1       TM                                                      Urinary             –                         Amnesia, tongue       None                   > than 6 months         N/A
+         (2006) (97)                                                                                       incontinence                                  biting, confusion
+        Sethi et al. (2003) (98)          2       NS                    4–6 days retreat                  –                   Delusions, auditory       –                     None (n 1)             Up to 6 months          N/A
+                                                                                                                               hallucinations,                                Psychosis (n 1)
+                                                                                                                                aggressive behaviour,
+                                                                                                                               psychosis
+        Yorston (2001) (99)               1       Yoga and Zen          Weekend retreat                   –                   Mania, self-harm          –                     Brief periods of       > than 6 months         N/A
+                                                   meditation                                                                                                                  low mood
+                                                                                                                                                                               10 and six
+                                                                                                                                                                               years previously
+                                                                                                                                                                               (n = 1)
+         Chan-Ob et al.                   3       Buddhist meditation   Intensive meditation              Insomnia            Psychosis,                Loose associations;   None (n 1)             Up to 6 months (n 3)    N/A
+       (1999) (100)                                                       course                                               hallucinations,           poor insight and     Stress, depression,
+                                                                                                                               delusions                 judgment;             schizophrenia (n 2)
+                                                                                                                                                         spatial and
+                                                                                                                                                         temporal
+                                                                                                                                                         disorientation
+        Vanderkooi                        3       Zen; Theravada; TM    6 months(n 1);                    –                   Psychotic symptoms,       –                     None (n = 1)           > than 6 months         N/A
+         (1997) (101)                                                    18 months (n 1); 24 h                                 fear, loneliness                               Depression and
+                                                                                                                                                                               psychosis (n = 2)
+        Miller (1993) (102)               3       Mindfulness; MBSR;    8–10 weeks (n 1); 90-day          Neck pain;          Terror, fear, re-         –                     None (n = 2)           Up to 6 months          N/A
+                                                   TM; Concentration     retreat (n 1); 14 years           insomnia            experiencing                                   Chronic depression,     (n 1); > than
+                                                   meditation                                                                  trauma, visual                                  anxiety, and           6 months (n 2)
+                                                                                                                               hallucinations,                                 alcohol abuse
+                                                                                                                               panic, anxiety,                                 (n = 1)
+                                                                                                                               depression,
+                                                                                                                               dissociation
+        Castillo (1990) (103)             6       TM                    1 year (n 1); 12 years (n 2);     –                   Depersonalization         –                     None (n = 6)           > 6 months (n 6)        N/A
+                                                                         14 years (n 2); 15 years (n 1)
+
+
+
+
+383
+                                                                                                                                                                                                                                         Adverse events in meditation
+      Table 1. (Continued)
+
+
+
+
+384
+                                 Number of
+                                 meditation                                     Duration of intervention                                                               Neurological or        Psychiatric or          Time period             Frequency
+      Study                      participants   Type of meditation              or practice                       Somatic AEs              Psychiatric AEs             cognitive AEs          medical history         of AEs                  of AEs*
+                                                                                                                                                                                                                                                           Farias et al.
+
+
+
+
+        Persinger (1984) (104)          1       TM                              10 years                          –                        –                           Abnormal temporal      None                    During or immediately   N/A
+                                                                                                                                                                        lobe activity                                  after med. (n 1)
+        Walsh, Roche                    3       NS                              Retreat (n = 2); NS                                        Agitation, psychotic        –                      Schizophrenia           During or immediately   N/A
+         (1979) (3)                                                                                                                         episode, suicidal                                  (n = 3)                 after med. (n 1);
+                                                                                                                                            ideation, suicidal                                                         up to 6 months (n 2)
+                                                                                                                                            attempt
+        Walsh (1977) (105)              1       Vipassana                       2 years                           Multiple chronic         Agitation, anxiety,                                NS                      During or immediately   N/A
+                                                                                                                   muscle contractions       fear, depression,                                                         after med.
+                                                                                                                                            hallucinations,
+                                                                                                                                            intense arousal
+        Kennedy (1976) (106)            2       Awareness meditation;           24 months (n = 1); NS                                      Depersonalization,          Out-of-body            None (n = 2)            Up to 6 months          N/A
+                                                 Arica meditation                                                                           panic attacks               experiences                                    (n 1); >6
+                                                                                                                                                                                                                       months (n 1)
+        Lazarus (1976) (2)              2       TM                              Weekend course (n = 1); NS                                 Suicidal attempt,                                  NS                      NS                      N/A
+                                                                                                                                            depersonalization
+        French et al.                   1       TM                              <1 year                           –                        Psychosis, mania,           –                      None                    NS                      N/A
+         (1975) (107)                                                                                                                       delusions
+
+      AEs, adverse events; CBCT, cognitive-based compassion training; CGS, conditional goal setting (’the tendency to regard high-order goals such as happiness, as conditional upon the achievement of lower order goals’, a characteristic usually
+      observed among ’individuals with depression’; Crane et al., 2010, p. 204) ; GP, general population; GP-UnS, general population of university students; LKM, loving-kindness meditation; N/A, not applicable; NS, not specified; MBCT, mindfulness-
+      based cognitive therapy; MBCT-SH, self-help mindfulness-based cognitive therapy; MBRP, mindfulness-based relapse preventions; MBSR, mindfulness-based stress reduction; NS, not specified; PBCT, person-based cognitive therapy; PCBMT, pri-
+      mary care brief mindfulness training; PTSD, post-traumatic stress disorder; TM, transcendental meditation.
+      *Number of participants reporting at least one adverse event.
+      †
+       These adverse events were judged by either the authors or a trial steering committee as unreliable or unrelated to trial procedures.
+                                                                                                   Adverse events in meditation
+
+and mania symptoms. Most randomized con-                                We used OpenMeta software to calculate the
+trolled trials did not state whether they included all                pooled prevalence estimates and levels of hetero-
+types of AEs reported by participants or only                         geneity. The total pooled prevalence of MAEs for
+SAEs.                                                                 57 reports, not including case studies, was 8.3%
+
+
+
+
+Fig. 2. Forest plots showing the pooled prevalence estimates of meditation adverse events for all studies. [Correction added on 10
+October 2020, after ﬁrst online publication: an incorrect version of Figure 2 was published, and this has been corrected.] [Colour ﬁg-
+ure can be viewed at wileyonlinelibrary.com]
+
+
+                                                                                                                                  385
+Farias et al.
+
+(95% CI 0.05–0.12), (see Fig. 2). The prevalence                   participants relive or remember diﬃcult, traumatic
+diﬀered widely according to the methodological                     memories, was also moderately common (9 stud-
+approach; for experimental studies, the pooled                     ies). Six studies (11%) reported suicidal ideation
+prevalence was 3.7% (95% CI 0.02–0.05), and for                    and behaviour, including three mentions of suicide
+observational studies, it was 33.2% (95% CI 0.25–                  attempts across diﬀerent studies (2, 3, 19). The
+0.41) (see Figure S1 and S2). Statistical heterogene-              only study that sampled exclusively individuals
+ity was considerable: I2 = 95% for all studies;                    who experienced MAEs reported that 10 (17%) of
+I2 = 73% for experimental studies, and I2 = 95%                    its participants had experienced suicidality.
+for observational studies. This high level of hetero-                 Somatic MAEs were reported across 26 studies
+geneity is likely to reﬂect the methodologically                   (31%). The most common somatic AEs were stress
+diversity of studies and the lack of a standardized                or physical tension (11 studies), followed by pain
+assessment of adverse events (Figs 3 and 4).                       (9 studies) and gastrointestinal problems (6 stud-
+                                                                   ies). Reports of localized pain varied from the
+                                                                   abdomen or stomach (86, 90) to neck pain. (102)
+Major categories of adverse events
+                                                                   Most variables were assessed through self-report
+Psychiatric MAEs were described in 40 studies                      instruments, though some variables included a
+(49%). The most common symptoms were anxiety                       variety of psychophysiological and biological mea-
+(18 studies) and depression (15 studies). Relatively               sures; for example, stress was measured via heart
+common psychiatric adverse events included psy-                    rate, blood pressure, skin conductance and cortisol
+chotic or delusional symptoms (10 studies), disso-                 measures, as well as self-report instruments.
+ciation or depersonalization (9 studies), and fear or                 Neurological or cognitive MAEs were reported
+terror (9 studies). Trauma re-experience, in which                 across 17 studies (20%). The most common MAEs
+                                                                   in this category were cognitive anomalous experi-
+                                                                   ences reported in 14 studies, including thought dis-
+                                                                   organization (3, 89), amnesia (97), perceptual
+                                                                   hypersensitivity (19) and impaired memory relia-
+                                                                   bility (34, 40). We also found three studies that
+                                                                   reported involuntary bodily movements and mus-
+                                                                   cle contractions while meditating. (19, 94, 105).
+                                                                      For 33 studies (64%), the AEs were experienced
+                                                                   during or immediately after the practice or inter-
+Fig. 3. Proportion of broad types of meditation adverse            vention. Longer-term eﬀects of more than
+events. [Colour ﬁgure can be viewed at wileyonlinelibrary.com]     6 months were reported by only 9 studies (17%),
+
+
+
+
+Fig. 4. Proportion of most common meditation adverse events. [Colour ﬁgure can be viewed at wileyonlinelibrary.com]
+
+386
+                                                                                Adverse events in meditation
+
+all of which were either observational or case stud-    no previous systematic review of this literature,
+ies. For the observational studies, data were based     and our main aims were to address key questions
+on retrospective self-reports.                          concerning the prevalence of MAEs and the major
+   There were mixed reports in the observational        categories of such adverse events. Additionally, we
+studies concerning the association between length       examined the time period of MAEs. Overall, we
+of meditation practice and frequency of AEs.            found that (i) the total pooled prevalence of MAEs
+Three of the earlier studies reported a positive        was 8.3% (95% CI 0.05–0.12); for experimental
+association: one study found that participants who      studies, the prevalence was 3.7% (95% CI 0.02–
+dropped out of meditation classes reported less         0.05), and for observational studies, it was 33.2%
+AEs than those who kept meditating, and the most        (95% CI 0.25 to 0.41); (ii) AEs were varied and
+experienced meditators had higher symptoms of           included somatic, psychiatric and neurological/
+anxiety, confusion and depression (84). Another         cognitive reports; (iii) the most common symptoms
+study found that participants with over 8 years of      reported were anxiety, depression, cognitive
+meditation experience reported the highest fre-         anomalies (e.g. thought disorganization), stress,
+quency of adverse eﬀects, compared to those with        and visual/auditory hallucinations; (iv) most AEs
+<2 years’ experience (93). A survey of 221 medita-      occurred during or immediately after the medita-
+tors reported that length of meditation practice        tion practice or intervention, though this result
+was positively associated with anomalous experi-        must be read with caution given the very limited
+ences, including auditory and visual hallucinations.    number of longitudinal studies and the use of ret-
+(92) However, the largest survey failed to ﬁnd any      rospective self-report methods. Additionally, we
+signiﬁcant association (13).                            found that (v) there were insuﬃcient data from
+   Another variable that has been associated in the     experimental and observational studies to examine
+literature with AEs is meditation retreats (13, 19),    participant factors associated with MAEs, though
+where the practice is done more intensively. The        case studies reported that the majority of individu-
+data from the observational studies show that 42%       als did not have a history of mental health prob-
+(1689) of individuals had taken part in meditation      lems.
+retreats, with most of these (1409) being partici-         The results on the prevalence of MAEs were
+pants in the two largest surveys (12, 13). For case     inconsistent and require further scrutiny. There are
+studies, retreat experience was not unusual though      reasons to suppose that the literature is under-re-
+considerably lower (5;16%).                             porting these adverse events. Our initial pool of
+   One other result which cannot be ascertained         almost 7000 citations resulted in only 83 original
+from the majority of studies concerns whether par-      reports across 45 years of publications. A similar
+ticipant factors, such as a past mental health his-     under-reporting has been found by two meta-anal-
+tory, are likely to make individuals more               yses of mindfulness-based therapeutic interven-
+vulnerable to MAEs. Most randomized controlled          tions. Only 9 trials out of 47 (19%) (108) and 36
+trials are interventions designed to target individu-   trials out of 231 (16%) (25) reported AEs. It is also
+als with particular mental health disorders, but        likely that the majority of randomized controlled
+overall these data do not allow us to ascertain         trials (RCTs) reporting MAEs only assessed seri-
+whether individuals with a mental health history        ous adverse events (SAEs). For example, in a meta-
+are more vulnerable than others to experiencing         analysis of mindfulness-based cognitive therapy
+MAEs. The case studies, however, include such           for relapse prevention in recurrent depression over
+data for most participants (unavailable for 2; 9%).     half of the studies only reported SAEs (109). In the
+We found that most individuals (17; 55%) had no         RCTs included in the experimental studies of our
+mental health history prior to the adverse events       review, the majority that found no MAEs failed to
+during or following meditation practice, compared       report whether they assessed only SAEs or also
+with 11 (36%) participants.                             other AEs of less severity.
+                                                           This under-reporting might be one of the causes
+                                                        of the discrepancy in the prevalence estimates
+Discussion
+                                                        between experimental and observational studies.
+We have systematically reviewed 83 studies pub-         Another possible reason is that individuals in the
+lished from 1975 to 2019 containing an assessment       observational studies are practicing meditation
+of adverse events in association with meditation        within uncontrolled settings, in contrast with the
+practice. Fifty-ﬁve of these studies, with a total of   structured context of MBIs which include psychoe-
+1102 participants, reported at least one type of        ducational sessions on how to manage distressing
+meditation adverse event (MAE), which we catego-        experiences arising during meditation or at other
+rized into broad and speciﬁc categories. There is       times (110). Note, however, that a small
+
+                                                                                                         387
+Farias et al.
+
+proportion of individuals in the observational          ﬁnding which needs to be further explored in
+studies (139; 3.5%) reported undergoing medita-         future studies.
+tion-based therapy.                                        The results of this systematic review give rise to
+   Observational studies might better reﬂect the        various diﬃcult questions. For example, how can
+present context of meditation practice, with many       adverse events be diﬀerentiated from distressing
+individuals practicing without face-to-face interac-    experiences which can be understood as integral to
+tion, either using books or phone Apps. Although        meditation practice? And what is the role of cul-
+there are no estimates for the total universe of        tural–religious context and individual appraisal in
+meditation App users, the number of downloads           framing meditation experiences either as harmful
+during 2019 for a single App, Headspace, was close      or constructive events? Lindahl et al. (116) have
+to 40 million. (111) One other possibility for the      suggested that a person-centred approach is the
+higher prevalence of AEs in these studies was the       most adequate way of understanding the variety of
+relatively common frequency of retreat attendance       unusual experiences stimulated by meditation
+(42% of the sample). It is unclear, however,            practices. This type of approach relies less on for-
+whether this retreat experience falls under the cate-   mal diagnosis and more on the practitioner’s
+gory of a controlled, face-to-face setting, or an       agency and autonomy in deciding when meditation
+uncontrolled one. For example, the popular Vipas-       distressing experiences require additional support
+sana 10-day retreats are undertaken in silence and      through social, psychological or medical interven-
+with very minimal interaction with any teacher          tions.
+(112).                                                     Before such questions can be properly
+   We found a variety of somatic, psychiatric and       addressed, we need to better understand how
+neurological/cognitive symptoms. The most fre-          appraisals might play a moderating role in MAEs.
+quently reported include those which meditation is      This matter has been raised elsewhere. For exam-
+expected to alleviate, such as anxiety, depression      ple, the literature on schizotypal traits and psy-
+and stress. Various explanations have been put for-     chosis suggests that experiences which are usually
+ward for the association between meditation and         categorized as anomalous can be oﬀered positive
+these symptoms, including by participants experi-       appraisals, in which case they will not become dis-
+encing MAEs. These have suggested that adverse          tressing and harmful (117, 118). To put this into
+events are either initial barriers or diﬃculties that   the context of meditation, if we consider the expe-
+are ultimately beneﬁcial for personal growth (3, 9,     rience of an altered sense of self, including the loss
+88, 93, 105). Similar symptoms have been recorded       of body awareness or loss of individual self
+in the traditional meditation literature. For exam-     reported in some of the reviewed studies (93, 94), a
+ple, one early compendium of Buddhist meditation        religious framework may appraise this as a positive
+techniques from the 5th century CE, the Dhar-           event, though for some it is likely to be appraised
+matrata Meditation Scripture, reports that if the      negatively, for example as a negative realization of
+meditation is not carried out properly, the mind        aloneness or a loss of one’s fundamental sense of
+can become unstable, restless or confused, and the      identity. Further research into how appraisals
+meditator feel dull, confused and sunken (113).         might moderate meditation adverse events is likely
+Such adverse symptoms are not looked upon in a          to bring important insights.
+positive light, as may be the case with some mod-          This systematic review has a number of limita-
+ern meditators, but as consequences of practicing       tions. The absence of standardized measures in the
+meditation incorrectly (114).                           literature, as well as the passive monitoring of AEs
+   Other explanations put forth in the medical and      (or exclusively reporting SAEs), is likely to have
+psychological literature include the intensity of       led to an underestimation of the actual rate of
+meditation practice (19, 115), the competence of        AEs, particularly in experimental studies. On the
+the teacher and participant vulnerabilities,            other hand, the observational data preclude any
+although the latter have sometimes been found to        clear causality assessment between meditation
+enhance the positive eﬀects of meditation – such as     practice and AEs. In addition to the factors men-
+for recurrently depressed individuals with higher       tioned earlier, such as the high frequency of retreat
+rates of childhood trauma (48, 110). Concerning         experiences in this sample, it is also possible that
+participant vulnerability, one factor that has been     participants predisposed to heightened levels of
+suggested to precipitate MAEs (110), the analysis       anxiety and depression are more likely to begin or
+of case studies indicated that the majority of indi-    maintain a meditation practice to manage their
+viduals suﬀering from severe MAEs had no previ-         symptoms – in support of this hypothesis, a recent
+ous mental health record. This is an important          study of over 12,000 individuals who use the
+
+
+388
+                                                                                     Adverse events in meditation
+
+meditation App Calm has found that over 40%              Acknowledgements
+reported mental health diagnoses (119).                  EM was supported by S~     ao Paulo Research Foundation
+   There is a long away ahead before we can ascer-       (FAPESP research grant 2016/00368-6), and GL received a
+tain for whom, when and under what circumstances         Research Productivity Scholarship (Level 2 Medicine) from
+do particular types of negative meditation-related       the Brazilian National Council for Scientiﬁc and Technological
+experiences arise, and what are their long-term          Development (CNPq).
+eﬀects. We urgently need to move from passive
+monitoring of AEs to an active standard assess-          Declaration of interest
+ment of meditation experiences which include
+                                                         MF receives royalties from one popular science book on medi-
+negative eﬀects. This could be achieved by using a       tation and one academic Handbook of meditation. The
+combination of relevant validated scales (e.g. for       remaining authors have no conﬂict of interest to declare.
+positive and negative aﬀect, and depersonaliza-
+tion), and, given the likely moderating role of          Peer Review
+appraisals, assessing the frequency and interpreta-
+tion of unusual experiences may prove particu-           The peer review history for this article is available
+larly important (120).                                   at https://publons.com/publon/10.1111/acps.13225.
+   Signiﬁcant advances in this area are also
+likely to result from changing the way results           References
+are reported. If studies were to provide the              1. Clarke TC, Black LI, Stussman BJ, Barnes PM, Nahin
+individual-level data, even if in a supplement or            RL. Trends in the use of complementary health
+archive, instead of only reporting the group-                approaches among adults: United States, 2002–2012. Natl
+level data, this would generate the datasets we              Health Stat Rep 2015;79:1–16.
+                                                          2. Lazarus AA. Psychiatric problems precipitated by Tran-
+are currently missing to analyse how individuals
+                                                             scendental Meditation. Psychol Rep 1976;39:601–602.
+with diﬀerent baseline characteristics, or under-         3. Walsh R, Roche L. Precipitation of acute psychotic epi-
+taking meditation within diﬀerent contexts, may              sodes by intensive meditation in individuals with a history
+be variably aﬀected.                                         of schizophrenia. Am J Psychiatry 1979;136:1085–1086.
+   How should clinicians address the results of this      4. Dobkin PL, Irving JA, Amar S. For whom may participa-
+                                                             tion in a mindfulness-based stress reduction program be
+systematic review, which indicates that MAEs are
+                                                             contraindicated? Mindfulness 2012;3:44–50.
+not uncommon or rare, and articulate them with            5. Farias M, Wikholm C, Delmonte R. What is mindfulness-
+the beneﬁts of meditation practice, as well as the           based therapy good for? Lancet Psychiatry 2016;3:1012–
+popular interest in these practices? A ﬁrst step is to       1013.
+inform individuals of the possibility of these AEs.       6. Van Dam NT, van Vugt MK, Vago DR et al. Mind the
+                                                             hype: a critical evaluation and prescriptive agenda for
+Researchers and centres involved in the study of
+                                                             research on mindfulness and meditation. Perspect Psychol
+meditation have the ethical duty of informing all            Sci J Assoc Psychol Sci 2018;13:36–61.
+taking their courses about the existence and preva-       7. Oman D. Studying the eﬀects of meditation: the ﬁrst ﬁfty
+lence of MAEs, and clinical trials should include            years. In: Farias M, Brazier D, Lalljee M, eds. Oxford
+consent forms that acknowledge that these adverse            Handbook of Meditation. Oxford, UK: Oxford University
+                                                             Press; 2020. Available from: https://www.oxfordhandbooks.
+events may occur.
+                                                             com/view/10.1093/oxfordhb/9780198808640.001.0001/
+   A greater awareness of this topic would not               oxfordhb-9780198808640 [cited 2020 May 7].
+only help dealing more promptly with potential            8. Kreplin U, Farias M, Brazil IA. The limited prosocial
+adverse events, but it would have an important               eﬀects of meditation: a systematic review and meta-analy-
+additional beneﬁt: dispel prejudice about those              sis. Sci Rep 2018;8:2403.
+                                                          9. Lutz A, Slagter HA, Dunne JD, Davidson RJ. Attention
+who suﬀer them. Raising awareness of potential
+                                                             regulation and monitoring in meditation. Trends Cogn
+AEs will disseminate a less hyped (6) and more               Sci. 2008;12:163–169.
+objective understanding of meditation as a prac-         10. Dahl CJ, Lutz A, Davidson RJ. Reconstructing and
+tice that may lead to both positive and negative             deconstructing the self: Cognitive mechanisms in medita-
+experiences.                                                 tion practice. Trends Cogn Sci 2015;19:515–523.
+                                                         11. Fox KCR, Dixon ML, Nijeboer S et al. Functional neu-
+   In conclusion, this ﬁrst systematic review of medi-
+                                                             roanatomy of meditation: A review and meta-analysis of
+tation adverse events covering almost 5 decades of           78 functional neuroimaging investigations. Neurosci
+studies has found a wide range of potential negative         Biobehav Rev. 2016;65:208–228.
+symptoms. The ethical obligation to do no harm           12. Vieten C, Wahbeh H, Cahn BR et al. Future directions in
+urges clinicians and researchers to promote prac-            meditation research: Recommendations for expanding
+                                                             the ﬁeld of contemplative science. PLoS One 2018;13:
+tices of active monitoring of MAEs. Given the pop-
+                                                             e0205740.
+ularity of meditation practices, further research into   13. Schlosser M, Sparby T, V€or€os S, Jones R, Marchant NL.
+this area should become a priority.                          Unpleasant meditation-related experiences in regular
+
+
+
+                                                                                                                    389
+Farias et al.
+
+      meditators: Prevalence, predictors, and conceptual con-           32. Daubenmier J, Moran PJ, Kristeller J et al. Eﬀects of a
+      siderations. PLoS One 2019;14:e0216643.                               mindfulness-based weight loss intervention in adults with
+14.   Victoria B. Meditation to kill and be killed by: The use of           obesity: A randomized clinical trial. Obes Silver Spring
+      Samadhi Power in Imperial Japan. In: Farias M, Brazier                Md 2016;24:794–804.
+      D, Lalljee M, eds. Oxford Handbook of Meditation.                 33. Possemato K, Bergen-Cico D, Treatman S, Allen C, Wade
+      Oxford, UK: Oxford University Press; in press.                        M, Pigeon W. A randomized clinical trial of primary care
+15.   Sharf RH.Is mindfulness Buddhist? (and why it matters):               brief mindfulness training for veterans with PTSD. J Clin
+      Transcult Psychiatry [Internet], 2014. Available from: https://       Psychol 2016;72:179–193.
+      journals.sagepub.com/doi/10.1177/1363461514557561 [cited          34. Rosenstreich E. Mindfulness and false-memories: the
+      2020 Mar 2].                                                          impact of mindfulness practice on the DRM paradigm. J
+16.   Shapiro D, Walsh R, editors. Meditation: classic and con-             Psychol 2016;150:58–71.
+      temporary perspectives. New York, NY: Aldine; 1984.               35. Jee SH, Couderc J-P, Swanson D et al. A pilot randomized
+17.   Turner L-A, Singh K, Garritty C et al. An evaluation of               trial teaching mindfulness-based stress reduction to trau-
+      the completeness of safety reporting in reports of comple-            matized youth in foster care. Complement Ther Clin
+      mentary and alternative medicine trials. BMC Comple-                  Pract 2015;21:201–209.
+      ment Altern Med. 2011;11:67.                                      36. Johns SA, Brown LF, Beck-Coon K, Monahan PO, Tong
+18.   Lustyk MKB, Chawla N, Nolan RS, Marlatt GA. Mind-                     Y, Kroenke K. Randomized controlled pilot study of
+      fulness meditation research: issues of participant screen-            mindfulness-based stress reduction for persistently fati-
+      ing, safety procedures, and researcher training. Adv                  gued cancer survivors. Psychooncology 2015;24:885–893.
+      Mind Body Med 2009;24:20–30.                                      37. Kuyken W, Hayes R, Barrett B et al. Eﬀectiveness and
+19.   Lindahl JR, Fisher NE, Cooper DJ, Rosen RK, Britton                   cost-eﬀectiveness of mindfulness-based cognitive therapy
+      WB. The varieties of contemplative experience: A mixed-               compared with maintenance antidepressant treatment in
+      methods study of meditation-related challenges in Wes-                the prevention of depressive relapse or recurrence (PRE-
+      tern Buddhists. PLoS One 2017;12:e0176239.                            VENT): a randomised controlled trial. Lancet
+20.   Van Dam NT, van Vugt MK, Vago DR et al. Reiterated                    2015;386:63–73.
+      concerns and further challenges for mindfulness and med-          38. la Cour P, Petersen M. Eﬀects of mindfulness meditation
+      itation research: a reply to Davidson and Dahl. Perspect              on chronic pain: a randomized controlled trial. Pain Med
+      Psychol Sci J Assoc Psychol Sci 2018;13:66–69.                        Malden Mass 2015;16:641–652.
+21.   Regulation (EU) No 536/2014 of the European Parlia-               39. Pavlov SV, Reva NV, Loktev KV, Korenyok VV, Aftanas
+      ment and of the Council of 16 April 2014 on clinical trials           LI. Impact of long-term meditation practice on cardio-
+      on medicinal products for human use, and repealing                    vascular reactivity during perception and reappraisal of
+      Directive 2001/20/EC. Oﬃcial Journal of the European                  aﬀective images. Int J Psychophysiol Oﬀ J Int Organ Psy-
+      Union; 2014.                                                          chophysiol 2015;95:363–371.
+22.   What is a Serious Adverse Event? FDA [Internet]; 2019.            40. Wilson BM, Mickes L, Stolarz-Fantino S, Evrard M, Fan-
+      Available from: https://www.fda.gov/safety/reporting-                 tino E. Increased false-memory susceptibility after mind-
+      serious-problems-fda/what-serious-adverse-event [2020                 fulness meditation. Psychol Sci 2015;26:1567–1573.
+      Jun 28].                                                          41. Blom K, Baker B, How M et al. Hypertension analysis of
+23.   Zorzela L, Golder S, Liu Y et al. Quality of reporting in             stress reduction using mindfulness meditation and yoga:
+      systematic reviews of adverse events: systematic review.              results from the HARMONY randomized controlled
+      BMJ 2014;348:f7668.                                                   trial. Am J Hypertens 2014;27:122–129.
+24.   Dimidjian S, Hollon SD. How would we know if psy-                 42. Cox CE, Porter LS, Buck PJ et al. Development and pre-
+      chotherapy were harmful? Am Psychol 2010;65:21–                       liminary evaluation of a telephone-based mindfulness
+      33.                                                                   training intervention for survivors of critical illness. Ann
+25.   Wong SYS, Chan JYC, Zhang D, Lee EKP, Tsoi KKF.                       Am Thorac Soc 2014;11:173–181.
+      The safety of mindfulness-based interventions: A system-          43. Creswell JD, Pacilio LE, Lindsay EK, Brown KW. Brief
+      atic review of randomized controlled trials. Mindfulness              mindfulness meditation training alters psychological and
+      2018;9:1344–1357.                                                     neuroendocrine responses to social evaluative stress. Psy-
+26.   Hirshberg M, Goldberg S, Rosenkranz M, Davidson R.                    choneuroendocrinology 2014;44:1–12.
+      Prevalence of Harm in Mindfulness-Based Stress Reduc-             44. Goldsmith RE, Gerhart JI, Chesney SA, Burns JW, Klein-
+      tion preprint, 2020.                                                  man B, Hood MM. Mindfulness-based stress reduction for
+27.   Loke YK, Price D, Herxheimer A. Cochrane Adverse                      posttraumatic stress symptoms: building acceptance and
+      Eﬀects Methods Group. Systematic reviews of adverse                   decreasing shame. J Evid-Based Complement Altern Med
+      eﬀects: framework for a structured approach. BMC Med                  2014;19:227–234.
+      Res Methodol 2007;7:32.                                           45. Hou RJ, Wong SY-S, Yip BH-K et al. The eﬀects of mind-
+28.   Cramer H, Krucoff C, Dobos G. Adverse events associ-                  fulness-based stress reduction program on the mental
+      ated with yoga: a systematic review of published case                 health of family caregivers: a randomized controlled trial.
+      reports and case series. PLoS One 2013;8:e75515.                      Psychother Psychosom 2014;83:45–53.
+29.   Ng BY. Qigong-induced mental disorders: a review. Aust            46. Jedel S, Hoffman A, Merriman P et al. A randomized con-
+      N Z J Psychiatry 1999;33:197–206.                                     trolled trial of mindfulness-based stress reduction to pre-
+30.   Chambers SK, Occhipinti S, Foley E et al. Mindfulness-                vent ﬂare-up in patients with inactive ulcerative colitis.
+      based cognitive therapy in advanced prostate cancer: a                Digestion 2014;89:142–155.
+      randomized controlled trial. J Clin Oncol Oﬀ J Am Soc             47. Lever Taylor B, Strauss C, Cavanagh K, Jones F. The
+      Clin Oncol 2017;35:291–297.                                           eﬀectiveness of self-help mindfulness-based cognitive
+31.   Chadwick P, Strauss C, Jones A-M et al. Group mindful-                therapy in a student sample: a randomised controlled
+      ness-based intervention for distressing voices: a pragmatic           trial. Behav Res Ther 2014;63:63–69.
+      randomised       controlled       trial.  Schizophr       Res     48. Williams JMG, Crane C, Barnhofer T et al. Mindfulness-
+      2016;175:168–173.                                                     based cognitive therapy for preventing relapse in
+
+390
+                                                                                                   Adverse events in meditation
+
+      recurrent depression: a randomized dismantling trial. J          65. Mascaro JS. A longitudinal investigation of empathic
+      Consult Clin Psychol. 2014;82:275–286.                               behavior and neural activity and their modulation by
+49.   Bhatnagar R, Phelps L, Rietz K et al. The eﬀects of mind-            compassion meditation. Vol. 72. USA: ProQuest Infor-
+      fulness training on post-traumatic stress disorder symp-             mation & Learning; 2012. p. 4629.
+      toms and heart rate variability in combat veterans. J            66. Vøllestad J, Sivertsen B, Nielsen GH. Mindfulness-based
+      Altern Complement Med N Y N 2013;19:860–861.                         stress reduction for patients with anxiety disorders: evalu-
+50.   Centeno E. Mindfulness meditation and its eﬀects on sur-             ation in a randomized controlled trial. Behav Res Ther
+      vivors of intimate partner violence. Pasadena, CA; 2013.             2011;49:281–288.
+51.   de Vibe M, Solhaug I, Tyssen R et al. Mindfulness training       67. Br€anstr€om R, Kvillemo P, Brandberg Y, Moskowitz JT.
+      for stress management: a randomised controlled study of              Self-report mindfulness as a mediator of psychological
+      medical and psychology students. BMC Med Educ                        well-being in a stress reduction intervention for cancer
+      2013;13:107.                                                         patients–a randomized study. Ann Behav Med Publ Soc
+52.   Hoge EA, Bui E, Marques L et al. Randomized controlled               Behav Med 2010;39:151–161.
+      trial of mindfulness meditation for generalized anxiety          68. Br€anstr€om R, Kvillemo P, Akerstedt T. Eﬀects of mind-
+      disorder: eﬀects on anxiety and stress reactivity. J Clin            fulness training on levels of cortisol in cancer patients.
+      Psychiatry 2013;74:786–792.                                          Psychosomatics 2013;54:158–164.
+53.   Kearney DJ, McDermott K, Malte C, Martinez M, Simp-              69. Britton WB, Haynes PL, Fridel KW, Bootzin RR.
+      son TL. Eﬀects of participation in a mindfulness program             Polysomnographic and subjective proﬁles of sleep conti-
+      for veterans with posttraumatic stress disorder: a ran-              nuity before and after mindfulness-based cognitive ther-
+      domized controlled pilot study. J Clin Psychol                       apy in partially remitted depression. Psychosom Med
+      2013;69:14–27.                                                       2010;72:539–548.
+54.   King AP, Erickson TM, Giardino ND et al. A pilot study           70. Crane C, Jandric D, Barnhofer T, Williams JMG. Dispo-
+      of group mindfulness-based cognitive therapy (MBCT)                  sitional Mindfulness, Meditation, and Conditional Goal
+      for combat veterans with posttraumatic stress disorder               Setting. Mindfulness. 2010;1:204–14.
+      (PTSD). Depress Anxiety. 2013;30:638–645.                        71. Gross CR, Kreitzer MJ, Thomas W et al. Mindfulness-
+55.   Parswani MJ, Sharma MP, Iyengar S. Mindfulness-based                 based stress reduction for solid organ transplant recipi-
+      stress reduction program in coronary heart disease: a ran-           ents: a randomized controlled trial. Altern Ther Health
+      domized control trial. Int J Yoga 2013;6:111–117.                    Med 2010;16:30–38.
+56.   Rimes KA, Wingrove J. Mindfulness-based cognitive ther-          72. Grossman P, Kappos L, Gensicke H et al. MS quality of life,
+      apy for people with chronic fatigue syndrome still experi-           depression, and fatigue improve after mindfulness train-
+      encing excessive fatigue after cognitive behaviour                   ing: a randomized trial. Neurology 2010;75:1141–1149.
+      therapy: a pilot randomized study. Clin Psychol Psy-             73. Kimbrough E, Magyari T, Langenberg P, Chesney M, Ber-
+      chother 2013;20:107–117.                                             man B. Mindfulness intervention for child abuse sur-
+57.   Britton WB, Shahar B, Szepsenwol O, Jacobs WJ. Mind-                 vivors. J Clin Psychol. 2010;66:17–33.
+      fulness-based cognitive therapy improves emotional reac-         74. Witkiewitz K, Bowen S. Depression, craving, and sub-
+      tivity to social stress: results from a randomized                   stance use following a randomized trial of mindfulness-
+      controlled trial. Behav Ther 2012;43:365–380.                        based relapse prevention. J Consult Clin Psychol
+58.   Hoffman CJ, Ersser SJ, Hopkinson JB, Nicholls PG, Har-               2010;78:362–374.
+      rington JE, Thomas PW. Eﬀectiveness of mindfulness-              75. Barnhofer T, Crane C, Hargus E, Amarasinghe M, Winder
+      based stress reduction in mood, breast- and endocrine-re-            R, Williams JMG. Mindfulness-based cognitive therapy
+      lated quality of life, and well-being in stage 0 to III breast       as a treatment for chronic depression: A preliminary
+      cancer: a randomized, controlled trial. J Clin Oncol Oﬀ J            study. Behav Res Ther 2009;47:366–373.
+      Am Soc Clin Oncol 2012;30:1335–1342.                             76. Brewer JA, Sinha R, Chen JA et al. Mindfulness training
+59.   Kearney DJ, McDermott K, Malte C, Martinez M, Simp-                  and stress reactivity in substance abuse: results from a
+      son TL. Association of participation in a mindfulness                randomized, controlled stage I pilot study. Subst Abuse
+      program with measures of PTSD, depression and quality                2009;30:306–317.
+      of life in a veteran sample. J Clin Psychol 2012;68:101–         77. Kuyken W, Byford S, Taylor RS et al. Mindfulness-based
+      116.                                                                 cognitive therapy to prevent relapse in recurrent depres-
+60.   Nesvold A, Fagerland MW, Davanger S et al. Increased                 sion. J Consult Clin Psychol 2008;76:966–978.
+      heart rate variability during nondirective meditation. Eur       78. Morone NE, Greco CM, Weiner DK. Mindfulness medi-
+      J Prev Cardiol 2012;19:773–780.                                      tation for the treatment of chronic low back pain in older
+61.   Niles BL, Klunk-Gillis J, Ryngala DJ, Silberbogen AK,                adults: a randomized controlled pilot study. Pain
+      Paysnick A, Wolf EJ. Comparing mindfulness and psy-                  2008;134:310–319.
+      choeducation treatments for combat-related PTSD using            79. Pradhan EK, Baumgarten M, Langenberg P et al. Eﬀect of
+      a telehealth approach. Psychol Trauma Theory Res Pract               Mindfulness-Based Stress Reduction in rheumatoid
+      Policy 2012;4:538–547.                                               arthritis patients. Arthritis Rheum 2007;57:1134–1142.
+62.   van Vugt MK, Hitchcock P, Shahar B, Britton W. The               80. Elder C, Aickin M, Bauer V, Cairns J, Vuckovic N. Ran-
+      eﬀects of mindfulness-based cognitive therapy on aﬀec-               domized trial of a whole-system ayurvedic protocol
+      tive memory recall dynamics in depression: a mechanistic             for type 2 diabetes. Altern Ther Health Med
+      model of rumination. Front Hum Neurosci 2012;6:257.                  2006;12:24–30.
+63.   Brewer JA, Mallik S, Babuscio TA et al. Mindfulness              81. Paul-Labrador M, Polk D, Dwyer JH et al. Eﬀects of a
+      training for smoking cessation: results from a randomized            randomized controlled trial of transcendental meditation
+      controlled trial. Drug Alcohol Depend 2011;119:72–80.                on components of the metabolic syndrome in subjects
+64.   Gross CR, Kreitzer MJ, Reilly-Spong M et al. Mindful-                with coronary heart disease. Arch Intern Med.
+      ness-based stress reduction versus pharmacotherapy for               2006;166:1218–1224.
+      chronic primary insomnia: a randomized controlled clini-         82. Kutz I, Leserman J, Dorrington C, Morrison CH, Bory-
+      cal trial. Explore N Y N 2011;7:76–87.                               senko JZ, Benson H. Meditation as an adjunct to
+
+                                                                                                                                   391
+Farias et al.
+
+       psychotherapy. An outcome study. Psychother Psycho-          102. Miller JJ. The unveiling of traumatic memories and emo-
+       som. 1985;43:209–218.                                             tions through mindfulness and concentration meditation:
+83.    Heide FJ, Borkovec TD. Relaxation-induced anxiety:                Clinical implications and three case reports. J Transpers
+       mechanisms and theoretical implications. Behav Res Ther           Psychol. 1993;25:169–180.
+       1984;22:1–12.                                                103. Castillo RJ. Depersonalization and meditation. Psychia-
+84.    Otis L. Adverse eﬀects of transcendental meditation. In:          try 1990;53:158–168.
+       Shapiro D, Walsh R, editors. Meditation: classic and con-    104. Persinger MA. Striking EEG proﬁles from single episodes
+       temporary perspectives. New York, NY: Aldine; 1984: pp            of glossolalia and transcendental meditation. Percept
+       201–8.                                                            Mot Skills. 1984;58:127–133.
+85.    Banerjee M, Cavanagh K, Strauss C. A Qualitative study       105. Walsh R. Initial meditative experiences: Part I. J Trans-
+       with healthcare staﬀ exploring the facilitators and barri-        pers Psychol. 1977;9:151–192.
+       ers to engaging in a self-help mindfulness-based interven-   106. Kennedy RB. Self-induced depersonalization syndrome.
+       tion. Mindfulness 2017;8:1653–1664.                               Am J Psychiatry. 1976;133:1326–1328.
+86.    Cebolla A, Demarzo M, Martins P, Soler J, Garcia-Cam-        107. French AP, Schmid AC, Ingalls E. Transcendental medi-
+       payo J. Unwanted eﬀects: Is there a negative side of medi-        tation, altered reality testing, and behavioral change: a
+       tation? A multicentre survey. PLoS One 2017;12:e0183137.          case report. J Nerv Ment Dis 1975;161:55–58.
+87.    Rodrıguez FM. Estudio sobre “Efectos Adversos” Rela-        108. Goyal M, Singh S, Sibinga EMS et al. Meditation Pro-
+       cionados con la Meditaci    on Study about Meditation            grams for Psychological Stress and Well-being: A Sys-
+       Related “Side Eﬀects”. J Transpers Res 2015;7:188–198.            tematic Review and Meta-analysis. JAMA Intern Med
+88.    Lomas T, Cartwright T, Edginton T, Ridge D. A Qualita-            2014;174:357–368.
+       tive analysis of experiential challenges associated with     109. Kuyken W, Warren FC, Taylor RS et al. Eﬃcacy of
+       meditation practice. Mindfulness 2015;6:848–860.                  mindfulness-based cognitive therapy in prevention of
+89.    van der Valk R, van de Waerdt S, Meijer CJ, van den               depressive relapse: an individual patient data meta-analy-
+       Hout I, de Haan L. Feasibility of mindfulness-based ther-         sis from randomized trials. JAMA Psychiatry
+       apy in patients recovering from a ﬁrst psychotic episode:         2016;73:565–574.
+       a pilot study. Early Interv Psychiatry 2013;7:64–70.         110. Baer R, Crane C, Miller E, Kuyken W. Doing no harm in
+90.    Kerr CE, Josyula K, Littenberg R. Developing an observ-           mindfulness-based programs: Conceptual issues and
+       ing attitude: A qualitative analysis of meditation diaries        empirical ﬁndings. Clin Psychol Rev 2019;71:101–114.
+       in a MBSR clinical trial. Clin Psychol Psychother            111. Top 22 Meditation Statistics Reveal Data and Trends
+       2011;18:80–93.                                                    for 2019 [Internet]. The Good Body, 2019. Available
+91.    Dhalla S, Chan KJ, Montaner JSG, Hogg RS. Comple-                 from: https://www.thegoodbody.com/meditation-statistics/
+       mentary and alternative medicine use in British Columbia          [2020 Jun 28].
+       —A survey of HIV positive people on antiretroviral ther-     112. Pagis M.The sociology of meditation. In: Farias M, Bra-
+       apy. Complement Ther Clin Pract 2006;12:242–248.                  zier D, Lalljee M, eds. Oxford Handbook of Meditation.
+92.    Persinger MA. Transcendental MeditationTM and Gen-                Oxford, UK: Oxford University Press; in press.
+       eral Meditation are Associated with Enhanced Complex         113. Chan Y. An English Translation of the Dharmatr       ata-
+       Partial Epileptic-Like Signs: Evidence for “Cognitive”            Dhy ana S
+                                                                                   utra [Internet]. Pokfulam, Hong Kong: University
+       Kindling?: Percept Mot Skills. 1993. Available from:              of Hong Kong; 2013. Available from: http://hdl.handle.net/
+       https://journals.sagepub.com/doi/10.2466/pms.1993.76.1.           10722/184239
+       80 [2020 Mar 2].                                             114. Ahn J. Meditation sickness. In: Farias M, Brazier D,
+93.    Shapiro DH. Adverse eﬀects of meditation: a preliminary           Lalljee M eds. Oxford Handbook of Meditation. Oxford,
+       investigation of long-term meditators. Int J Psychosom            UK: Oxford University Press; in press.
+       Oﬀ Publ Int Psychosom Inst 1992;39:62–67.                    115. Britton WB. Can mindfulness be too much of a good
+94.    Kornfield J.Intensive insight meditation: A phenomeno-            thing? The value of a middle way. Curr Opin Psychol
+       logical study. [Internet], 1979. Available from: /paper/          2019;28:159–165.
+       Intensive-insight-meditation%3A-A-phenomenological-          116. Lindahl JR, Britton WB, Cooper DJ, Kirmayer LJ.Challeng-
+       Kornfield/7e162f9966ad70a5c3cb9c446c041e43f14e6eb5                ing and Adverse Meditation Experiences: Toward a Per-
+       [2020 Mar 2].                                                     son-Centered Approach [Internet]. The Oxford Handbook
+95.    Nakaya M, Ohmori K. Psychosis induced by spiritual                of Meditation; 2019 [cited 2020 Jun 28]. Available from:
+       practice and resolution of pre-morbid inner conﬂicts. Ger         https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/
+       J Psychiatry 2010;13:161–163.                                     9780198808640.001.0001/oxfordhb-9780198808640-e-51.
+96.    Kuijpers HJH, van der Heijden FMMA, Tuinier S, Verho-        117. Peters E, Ward T, Jackson M et al. Clinical relevance of
+       even WMA. Meditation-induced psychosis. Psy-                      appraisals of persistent psychotic experiences in people
+       chopathology 2007;40:461–464.                                     with and without a need for care: an experimental study.
+97.    St Louis EK, Lansky EP. Meditation and epilepsy: a still          Lancet Psychiatry 2017;4:927–936.
+       hung jury. Med Hypotheses 2006;67:247–250.                   118. Farias M, Underwood R, Claridge G. Unusual but sound
+98.    Sethi S, Bhargava SC. Relationship of meditation and psy-         minds: Mental health indicators in spiritual individuals.
+       chosis: case studies. Aust N Z J Psychiatry. 2003;37:382.         Br J Psychol 2013;104:364–381.
+99.    Yorston GA. Mania precipitated by meditation: A case         119. Huberty J, Vranceanu A-M, Carney C, Breus M, Gordon
+       report and literature review. Ment Health Relig Cult.             M, Puzia ME. Characteristics and usage patterns among
+       2001;4:209–213.                                                   12,151 paid subscribers of the calm meditation app:
+100.   Chan-Ob T, Boonyanaruthee V. Meditation in association            cross-sectional survey. JMIR MHealth UHealth 2019;7:
+       with psychosis. J Med Assoc Thail Chotmaihet Thang-               e15648.
+       phaet 1999;82:925–930.                                       120. Brett CMC, Peters EP, Johns LC, Tabraham P, Valmaggia
+101.   VanderKooi L. Buddhist teachers’ experience with                  LR, McGuire P. Appraisals of Anomalous Experiences
+       extreme mental states in western meditators. J Transpers          Interview (AANEX): a multidimensional measure of
+       Psychol 1997;29:31.
+
+392
+                                                                                          Adverse events in meditation
+
+     psychological responses to anomalies associated with      Figure S1 Forest Plots showing the pooled prevalence esti-
+     psychosis. Br J Psychiatry Suppl 2007;51:s23–s30.         mates of meditation adverse events for experimental studies.
+                                                               Figure S2 Forest Plots showing the pooled prevalence esti-
+                                                               mates of meditation adverse events for observational studies
+Supporting Information                                         Table S1 Electronic Database Search Strategy
+                                                               Table S2 Quality ratings based on the National Institutes of
+Additional Supporting Information may be found in the online   Health and quality assessment tool.
+version of this article:
+
+
+
+
+                                                                                                                       393
+Copyright of Acta Psychiatrica Scandinavica is the property of Wiley-Blackwell and its
+content may not be copied or emailed to multiple sites or posted to a listserv without the
+copyright holder's express written permission. However, users may print, download, or email
+articles for individual use.
+

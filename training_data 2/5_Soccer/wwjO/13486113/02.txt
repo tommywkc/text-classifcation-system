@@ -1,0 +1,230 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/378593541
+The Effect of Hypoxic Exercise Combined with Crocodile Blood
+Supplementation on Aerobic Capacity and Hematological Variables in Athletes
+Article  in  ?????? ?? ???????? ????????? ????????? · February 2024
+DOI: 10.17309/tmfv.2024.1.12
+
+CITATIONS	READS
+0	2
+
+All content following this page was uploaded by Worrawut Thuwakum on 29 February 2024.
+The user has requested enhancement of the downloaded file.
+   
+	?????? ?? ???????? ????????? ?????????	ISSN 1993-7989 (print)  
+	Physical Education Theory and Methodology	ISSN 1993-7997 (online)  
+	Teorìâ ta Metodika Fìzicnogo Vihovannâ	ISSN-L 1993-7989
+Original scientific article
+The Effect of Hypoxic Exercise Combined with Crocodile Blood Supplementation on Aerobic Capacity and Hematological Variables in Athletes
+Worrawut Thuwakum1ABCDE, Apiwan Manimmanakorn2BD, Win Chaeychomsri3BD, Jindawan Siruntawineti3BD and Sasithorn Sukjit1BCD
+1Uttaradit Rajabhat University 
+2Khon Kaen University 
+3Kasetsart University
+Authors' Contribution: A - Study design; B - Data collection; C - Statistical analysis; D - Manuscript Preparation; E - Funds Collection
+Corresponding Author: Worrawut Thuwakum, E-mail: worrawutt@uru.ac.th 
+Accepted for Publication: February 18, 2024 
+Published: February 29, 2024
+DOI: 10.17309/tmfv.2024.1.12
+Abstract 
+Study purpose. This study aimed to compare the effects of hypoxic exercise combined with crocodile blood supplementation on hematological and maximum oxygen consumption parameters in soccer players. 
+Materials and methods. This study included 39 male soccer players aged 21.69 ± 1.98 years who were randomized to three groups. All groups performed the same training program, which comprised treadmill exercise at 70%-75% of maximum heart rate for 7 weeks with sessions of 30 min/day and 3 days per week. The first group was the control placebo group (CG, n = 13), the second group received one capsule per day (60 mg) of a freeze-dried crocodile blood supplement (SUP, n = 13), and the third group received the freeze-dried crocodile blood supplement and performed the training program under hypoxic conditions (H-SUP, n = 13, FiO2 = 16.3%). A hematological evaluation was conducted and maximal oxygen uptake (VO2max) was measured using the Bruce protocol treadmill test. 
+Results. The H-SUP group demonstrated significantly higher erythropoietin (EPO) levels (14.40 ± 2.41 mIU/mL) compared to the SUP group (11.50 ± 2.08 mIU/mL) and CG (12.01 mIU/mL) after the intervention. From pre- to post-intervention, VO2max significantly increased in the H-SUP (Pre: 45.63 ± 4.75, Post: 49.33 ± 5.81) and SUP groups (Pre: 44.59 ± 4.75, Post: 47.30 ± 5.68) but not in the CG. 
+Conclusions. This study reveals that a combination of freeze-dried crocodile blood supplementation and hypoxic exercise causes hematological alterations, particularly the activation of EPO secretion, and increases VO2max in soccer players. 
+Keywords:  crocodile blood supplement, hematological, aerobic capacity, hypoxic training, amateur male soccer 
+   
+player.
+Introduction
+   Hypoxia and physical exercise are two distinct and powerful metabolic stressors that cause molecular alterations and changes in oxygen supply and utilization throughout the body. Physical training in hypoxic conditions is thus commonly employed to improve athlete aerobic performance by combining the benefits of both stimuli to elicit peripheral adaptations (Ponsot et al., 2006). Systematically reducing PO2 
+(c) 	Thuwakum, W., Manimmanakorn, A., Chaeychomsri, W., 
+Siruntawineti, J., & Sukjit, S., 2024.
+???? 
+??? ???
+95during the training process may trigger various biochemical and structural changes in skeletal muscle that favor oxidative processes (Czuba et al., 2011). According to one concept, hypoxic exposure during training (intermittent hypoxic training; IHT) may stimulate serum erythropoietin (EPO) synthesis, which increases erythrocyte count and enhances oxygen supply to the working muscles (Powell & Garcia, 2000). Unfortunately, the findings of several previous studies have not supported this hypothesis (Katayama et al., 2004; Roels et al., 2005). However, Hamlin et al. (2010) reported an increase in hemoglobin (Hb) concentration and hematocrit (Hct) value after IHT in their most recent study. These hematological adaptations that occur in response to hypoxia are primarily responsible for the beneficial effects of altitude training on sea-level performance. In addition to potentially improving endurance performance, IHE and IHT may benefit anaerobic exercise performance (Bonetti et al., 2006; Hendriksen & Meeuwsen, 2003), possibly via increases in muscle buffering capacity (Gore et al., 2001) and glycolytic enzyme activity (Katayama et al., 2004). Variables that have been identified as affecting these physiological responses include erythropoietic response, ventilatory limitations, genetic factors, and hypoxic dose. 
+   Iron is a major substrate required in the synthesis of heme as well as mitochondrial iron-dependent proteins (Gupta, 2014). The effects of iron deficiency on human endurance performance are well known. After iron-depleted female athletes with mild anemia, a decrease in post VO2max (Schoene et al., 1983). It is thus typically recommended that athletes ingest a daily oral iron supplement to facilitate altitude adaptations and maintain iron balance. The exact role of iron in the hematological and non-hematological response to hypoxia has not been investigated in detail thus far. Some studies have shown that iron supplementation during altitude training improves Hb mass (Govus et al., 2015; Ryan et al., 2014) while others have found that Hb mass does not increase with supplementation during altitude training (Friedmann et al., 1999). This inconsistency in the existing evidence makes it difficult to reach a consensus on the appropriate iron status and supplementation regimen to employ during altitude training. 
+While cutoff values have been defined for Hb and serum 
+ferritin levels beyond which iron supplementation is recommended in athletes undergoing training at sea level (Nielsen & Nachtigall, 1998), there are currently no clear guidelines on iron supplementation practices during altitude training. Given the conflicting findings regarding the need for supplementation at altitude and the absence of proper recommendations, the role of iron during high-altitude training requires further investigation (T. D. P. Nandadeva et al., 2019). 
+The Thailand Food and Drug Administration has ap-
+proved crocodile blood products as a dietary supplement for human consumption at a maximum allowance level of 1 g per day (Chaeychomsri et al., 2013). One study found that an 18-day supplementation regimen of crocodile blood (1 g day-1) aids in the maintenance of functional performance and prevention of muscle swelling after exercise (Paratthakonkun et al., 2021). Blood from crocodilians has notably lower concentrations of copper, iron, and zinc compared with human and pig blood. Despite the substantial difference in iron content between fresh crocodilian and pig blood, the iron content of freeze-dried crocodile blood (164 mg/100 g) has been reported to be similar to that of freeze-dried pig (149.01 ± 3.81 mg/100 g) and chicken (181.66 ± 1.01 mg/100 g) blood (Chook et al., 2021). No studies have evaluated changes in hematological response and aerobic capacity with freeze-dried crocodile blood supplementation combined with hypoxic training. Hence, the aim of the study was to compare the effects of hypoxic exercise combined with crocodile blood supplementation on hematological and maximum oxygen consumption parameters in soccer players.
+Materials and methods
+Study participants
+   Thirty-nine male soccer players (mean age ± standard deviation [SD], 21.7 ± 1.9 years) were recruited to participate in this study. The players were recruited from the local university soccer team and represented typical clublevel players. All players were free from injury, had lived at sea level for the previous 6 months, had no history of severe acute mountain sickness or contraindicative health conditions, and were not undergoing any medication regimens (e.g., anabolic steroids, creatine, sympathoadrenal drugs) during the study. All players were in their preseason training phase and typically completed 5-6 training sessions per week, which included soccer-specific and conditioning sessions. All players underwent training at the same time at low altitude (67 m above sea level in the Uttaradit province). Ethical approval was obtained from the Research Ethics Committee of Uttaradit Rajabhat University (reference COA No. 020/2020). Informed written consent was obtained from each participant prior to the beginning of the study.
+Freeze-dried crocodile blood preparation
+   Crocodile blood supplementation (CB) was produced from Siamese crocodile (Crocodylus siamensis) by C S G Products (THAILAND) Co. Ltd., under Good Manufacturing Practice (GMP) and Hazard Analysis Critical Control Point (HACCP) certification scheme for processing and safety management which has subsequently approved by the Food and Drug Administration (FDA) of Thailand, Ministry of Public Health, as a dietary supplement (Chaeychomsri et al., 2013). Both male and female healthy crocodiles were selected for the CB production procedures, which included collecting blood samples in an antiseptic environment, pasteurizing, and lyophilizing the samples before freezedrying the CB and putting them in capsule form.
+Study organization 
+   This study was a randomized controlled trial comparing changes in hematological parameters and VO2max after 7 weeks of training. The participants were randomly divided into three experimental groups: a control placebo group (CG, n = 13), a group who consumed one capsule per day (60 mg) of supplemental freeze-dried crocodile blood (SUP, n = 13), and another group who consumed one capsule per day of supplemental freeze-dried crocodile blood (H-SUP, n = 13). The training program employed during the study was the same for all groups and consisted of treadmill exercise at 70%-75% of maximum heart rate. The total experimental period was 30 min/day, 3 days/week, every Monday, Wednesday, and Friday. The CG and SUP groups exercised while breathing room air and the H-SUP group exercised while breathing air with a 16.3% oxygen concentration (hypoxic condition), as shown in Figure 1. The hypoxic condition was generated using a hypoxicator machine (ATS-HP-Hyperoxic; Altitude Technology Solutions Co., Ltd. [ATS], Australia).
+Measures Hematological parameters
+   A 10 mL blood samples were drawn by medical technologist from the players' median cubital vein while they were seated and resting for 5 minutes on the day before commencing (PRE) and 4 days after ending (POST) 
+
+Fig 1. Outline of training and testing schedule
+the intervention period. The participants were instructed to refrain from engaging in strenuous physical activity for 24 hours prior to testing. The blood samples were immediately stored on ice, transported to the Fort Pichaidaphak Hospital, and analyzed for red blood cell (RBC) count, Hct, and Hb and EPO concentrations. All blood samples were taken during the morning hours.
+Measurement of VO2max
+   VO2max testing was performed using the Bruce protocol, which consists of graded exercise on a treadmill, with speed and elevation increasing every 3 minutes until the player can no longer continue the test. Once all equipment was set up, the test began with the treadmill set at a speed of 1.7 miles per hour and incline of 10%. Every 3 minutes, the speed and incline increased by 10%. After each stage, the players were asked if they were able to continue, and a thumbs-up signal indicated that they could continue while a thumbsdown signal indicated that the test should be stopped. When participants felt that they could only continue for another 10-15 seconds, they waved their hand and gave a thumbsdown signal to terminate the test. 
+Heart rate and SpO2 monitoring
+   In all groups, heart rate and oxygen saturation were monitored daily before and during treadmill exercise using a Polar heart rate monitor (model: V800) and pulse oximeter (Beurer model: PO30, USA), respectively.
+Statistical analysis
+   The values were expressed as means ± SD. All data were tested for normal distribution using the Kolmogorov- Smirnov statistic. Differences between baseline measures were assessed by performing a one-way analysis of variance (ANOVA). As the sample sizes were unequal, the Bonferroni post hoc test was employed for pairwise comparisons when one-way ANOVA results showed a significant difference between groups. A p-value of less than 0.05 was considered statistically significant.
+Results
+   The baseline characteristics of the CG, SUP, and H-SUP groups are presented in Table 1. There were no significant differences in mean age, weight, height, body mass index, VO2max, or blood parameters between the three groups, indicating that the athletes in all groups had similar baseline anthropometric, aerobic performance, and blood parameter measures. 
+   The hematological evaluation performed before and after the 7-week intervention period consisted of RBC count, Hct, and Hb and EPO concentrations, as presented in Table 2. Subgroup analysis, delineating participants based on experimental group, revealed no statistically significant differences in RBC, Hb, or Hct in all groups from PRE to POST. A statistically significant difference was observed only in EPO concentrations (p < 0.05), which significantly increased in the SUP and H-SUP groups from PRE to POST. In the betweengroup comparison of POST hematological parameters, a significant difference was only found in EPO concentration between the H-SUP group (14.4 ± 2.4 mIU/mL) and the CG (12.0 ± 2.2 mIU/mL), as illustrated in Figure 2.
+   
+Table 1. Comparison of baseline parameters between the three groups
+ParametersCG 
+(n = 13)SUP 
+(n = 13)H-SUP  (n = 13)One-way ANOVAF	p-valueAge (y)22.00 ± 1.2921.69 ± 1.2521.38 ± 3.010.3000.743Weight (kg)68.00 ± 5.2269.00 ± 3.6568.46 ± 3.010.1420.868Height (cm)172.69 ± 4.83173.07 ± 4.73173.92 ± 6.130.1850.832BMI (kg/m2)22.77 ± 0.9423.04 ± 1.0222.60 ± 0.970.6440.531VO2max (mL/kg/min)45.10 ± 5.0544.59 ± 4.7545.63 ± 4.750.1510.861RBC (106/µL)5.54 ± 0.525.38 ± 0.435.24 ± 0.321.5200.232Hemoglobin (g/dL)14.69 ±1.0114.87 ± 0.7815.37 ± 0.662.3510.110Hematocrit (%)44.92 ± 1.6845.00 ± 1.3545.68 ± 1.261.0830.349EPO (mIU/mL)11.23 ± 3.5710.37 ± 2.0611.46 ± 1.780.6360.535
+ 	The data presented are means ± standard deviation. CG, control group; SUP, supplement group; H-SUP, supplement with hypoxic training group; BMI, body mass index; VO2max, maximal oxygen consumption; RBC, red blood cell; EPO, erythropoietin
+RBC
+(106/µL)Hb
+(g/dL)Hct (%)EPO
+(mIU/mL)CGPretest
+Posttest
+95% CI5.54 ± 0.52
+5.62 ± 0.72
+-0.31 to 0.1614.69 ± 1.01
+14.60 ± 1.22
+-0.79 to 0.9744.92 ± 1.68
+45.23 ± 1.50
+-1.85 to 1.2211.23 ± 3.57
+12.01 ± 2.25
+-1.92 to 0.35p-value0.5010.8240.6630.159SUPPretest
+Posttest
+95% CI5.38 ± 0.43
+5.41 ± 0.56
+-0.46 to 0.4014.87 ± 0.78
+14.92 ± 0.94
+-0.45 to 0.3645.00 ± 1.35
+45.25 ± 1.05
+-0.74 to 0.2410.37 ± 2.06
+11.50 ± 2.08*
+-2.12 to -0.12p-value0.8860.7110.3000.031Table 2. Comparison of pre-intervention and post-intervention hematological parameters within the three groups
+	Pretest	5.24 ± 0.32	15.37 ± 0.66	45.68 ± 1.26	11.46 ± 1.78
+	Posttest	5.40 ± 0.33	15.40 ± 0.77	45.94 ± 1.38	14.40 ± 2.41*
+H-SUP
+	95% CI	-0.41 to 0.11	-0.12 to 0.25	-01.32 to 0.80	-4.15 to -1.70
+	p-value	0.234	0.858	0.603	0.001
+ 	The data presented are means ± standard deviation. *p < 0.05 for pretest to posttest comparisons. CG, control group; SUP, supplement group; H-SUP, supplement with hypoxic training group; RBC, red blood cell; Hb, hemoglobin; Hct, hematocrit; EPO, 
+   
+erythropoietin
+   In the CG, mean PRE VO2max was 45.1 ± 5.1 mL/kg/ min and POST VO2max was 44.8 ± 4.3 mL/kg/min; in the SUP group, PRE VO2max was 45.6 ± 4.7 mL/kg/min and 
+
+Fig 2. Changes in erythropoietin (EPO) concentration before 
+ (PRE) and after (POST) the 7-week intervention. The data presented are means ± standard deviation. *p < 0.05 (PRE vs 
+POST), **p < 0.05 (POST between-group comparison)
+POST VO2max was 49.3 ± 5.8 mL/kg/min; and in the H-SUP group, PRE VO2max was 44.6 ± 4.8 mL/kg/min and POST VO2max was 47.3 ± 5.7 mL/kg/min (Figure 3a). Compared to baseline, the percent change in VO2max in the CG, SUP, and H-SUP groups was -0.5% ± 3.4%, 6.1% ± 5.8%, and 8.0% ± 5.1%, respectively. There was a significant increase in VO2max in the SUP and H-SUP groups. Univariate ANOVA accompanied by post hoc pairwise comparisons revealed that the SUP and H-SUP groups had significantly larger percent changes in VO2max compared to the CG following the 7-week intervention (Figure 3b).
+Discussion
+
+Fig 3. a) Changes in maximal oxygen consumption (VO2max) before (PRE) and after (POST) the 7-week intervention. b) Comparison of percent change in VO2max between groups after the 7-week intervention. 
+Values are presented as means ± standard deviation. *p < 0.05   This was the first study to investigate the effects of a freezedried crocodile blood supplement combined with hypoxic training conditions on soccer players. The primary findings of the study were taken after 7 weeks of aerobic exercise training. Endurance performance as measured by VO2max and EPO concentration improved in the groups receiving supplementation and supplementation in combination with hypoxic training compared to the control group, and it appears that supplementation with hypoxic training conditions may be slightly better than supplementation with normoxic training conditions. 
+   An absolute increase in VO2max of 6%-8% was observed in both groups receiving crocodile blood supplementation. In contrast, players in the non-supplement and normoxic training group did not demonstrate a significant change in VO2max. These results suggest that the increase in VO2max in the supplement groups was due to the freeze-dried crocodile blood supplement, which has micronutrients, particularly iron, that are essential for numerous functions related to physical activity and exercise. The International Olympic Committee recommends that female athletes have iron deficiency screenings to optimize performance (Ljungqvist et al., 2009). In addition, several studies have found that taking 100 mg of iron per day combined with 8 weeks of aerobic exercise increases VO2max when compared to a control condition. VO2max values in one such study were 41.7 ± 1.0 mL/kg/min in the iron supplement group and 39.4 ± 2.0 mL/kg/min in the control group. A significant decrease in lactate was additionally observed in the ironsupplemented group after an endurance test compared with the control group (LaManca & Haymes, 1993). Researchers have reported decreased time to exhaustion during submaximal and maximal work in nonanemic, irondeficient groups. Increases in submaximal endurance were associated with improvements in iron-dependent oxidative enzyme capacity within muscles, and the enzyme increases in turn were correlated with improved iron stores. Both time to exhaustion during endurance activities and enzyme activity continued to improve with iron repletion after hemoglobin concentration and VO2max were returned to normal in iron-depleted rats (Davies et al., 1984; Davies et al., 1982).  Moreover, Schumacher and colleagues compared the blood markers of iron status among various male athlete groups and found a marker in endurance runners, in contrast to endurance cyclists, that suggested that runners may experience more hemolysis due to foot impact (Schumacher et al., 2002). However, supplementation demonstrated no significant effect on post-test lactate (Klingshirn et al., 1992). The discrepancy in findings between the two studies may be attributed to differences in participants' initial iron status. In addition, the study showed a single-time oral treatment of crocodile blood supplement that upregulated the antioxidative enzymes catalase and superoxide dismutase (Chook et al., 2021) may lead to an adaptive response resulting in increased resistance to oxidative stress, which is related to the relationship between VO2 and TNF-a inflammation in the exercising muscles (Rosado-Perez & Mendoza-Nunez, 2018). Another possible explanation for the lack of supplementation effect on lactate in the time trial is the large training effect observed in the study, which may have obscured any supplementation effect. Although hemoglobin is known as a chemical buffering system which may cause improvement in lactic acid levels in the bloodstream or metabolic acidosis resulting from exercise. However, hemoglobin from crocodile may have different characteristic compare to human hemoglobin, which less information to confirm the effective dose and the duration of the supplement.
+   The increase in EPO found in the SUP and H-SUP groups in this study is in accordance with previous findings confirming the stimulatory effect of iron supplementation on erythropoiesis (T. D. P. Nandadeva et al., 2019). Interestingly, in the present study the players who received supplementation while training in hypoxic conditions demonstrated a higher EPO concentration than both the CG and SUP groups. The mechanism underlying this result may relate to renal oxygen supply, as the kidney is a highly sensitive oxygen sensor that plays a key function in modulating RBC formation in hypoxic conditions. The identification of EPO, which is required for normal erythropoiesis, and the purification of hypoxia-inducible factor, the transcription factor that regulates EPO synthesis and mediates the cellular adaptation to hypoxia, have both contributed to a better understanding of the molecular basis of oxygen-regulated erythropoiesis (Haase, 2010). Along these lines, Eckardt et al. found a significant increase in EPO after 5 hours of intermittent hypoxia exposure per day at an altitude of 3000-4000 meters (Friedmann et al., 1999). A study conducted on triathletes found contradictory results as in the present study increases in erythrocytes and EPO after intermittent hypoxic training (Ramos-Campo et al., 2015). Moreover, data have shown that 8 weeks of low-altitude (825 meters above sea level) training, supplemented with regular bouts of intermittent hypoxic training at higher altitudes, produced beneficial performance improvements and increases in EPO levels in soccer players (Wonnabussapawich et al., 2017). 
+Conclusions
+   The most important finding of this work is the increased VO2max and EPO levels found in soccer players receiving 7 weeks of freeze-dried crocodile blood supplementation with both normoxic and hypoxic (16.3% FiO2) training conditions compared to those receiving no supplementation and training in normoxic conditions. These results suggest that a freeze-dried crocodile blood supplement with hypoxic exercise conditions is an effective strategy to improve aerobic capacity and hematological parameters in soccer players.
+Acknowledgment
+   We would like to thank Thailand Science Research and Innovation (TSRI) for a research scholarship to the lead author. Thank you also to all the soccer player involved in this study. Including the Fort Pichaidaphak Hospital, which supports technician and laboratory, as well as the Department of Physiology Faculty of Medicine Khon Kaen University, Department of Zoology Faculty of Science Kasetsart University to support equipment. 
+Conflict of interest 
+The authors guarantee that no conflicts of interest exist.
+References
+Ponsot, E., Dufour, S. P., Zoll, J., Doutrelau, S., N'Guessan, B., Geny, B., . . . Richard, R. (2006). Exercise training in normobaric hypoxia in endurance runners. II. Improvement of mitochondrial properties in skeletal muscle. J Appl Physiol (1985), 100(4), 1249-1257.  
+https://doi.org/10.1152/japplphysiol.00361.2005 
+Czuba, M., Waskiewicz, Z., Zajac, A., Poprzecki, S., Cholewa, J., & Roczniok, R. (2011). The effects of intermittent hypoxic training on aerobic capacity and endurance performance in cyclists. J Sports Sci Med, 10(1), 175-183. 
+https://www.ncbi.nlm.nih.gov/pubmed/24149312 
+Powell, F. L., & Garcia, N. (2000). Physiological effects of intermittent hypoxia. High Alt Med Biol, 1(2), 125-136. https://doi.org/10.1089/15270290050074279 
+Katayama, K., Sato, K., Matsuo, H., Ishida, K., Iwasaki, K., & Miyamura, M. (2004). Effect of intermittent hypoxia on oxygen uptake during submaximal exercise in endurance athletes. Eur J Appl Physiol, 92(1-2), 75-83.  
+https://doi.org/10.1007/s00421-004-1054-0 
+Roels, B., Millet, G. P., Marcoux, C. J., Coste, O., Bentley, D. J., & Candau, R. B. (2005). Effects of hypoxic interval training on cycling performance. Med Sci Sports Exerc, 37(1), 138-146.  https://doi.org/10.1249/01.mss.0000150077.30672.88 
+Hamlin, M. J., Marshall, H. C., Hellemans, J., Ainslie, P. N., & Anglem, N. (2010). Effect of intermittent hypoxic training on 20 km time trial and 30 s anaerobic performance. 
+Scand J Med Sci Sports, 20(4), 651-661.  https://doi.org/10.1111/j.1600-0838.2009.00946.x 
+Bonetti, D. L., Hopkins, W. G., & Kilding, A. E. (2006). High-intensity kayak performance after adaptation to intermittent hypoxia. Int J Sports Physiol Perform, 1(3), 
+246-260. https://doi.org/10.1123/ijspp.1.3.246 
+Hendriksen, I. J., & Meeuwsen, T. (2003). The effect of intermittent training in hypobaric hypoxia on sea-level exercise: a crossover study in humans. Eur J Appl Physiol, 88(4-5), 396-403. https://doi.org/10.1007/s00421-002-0708-z 
+Gore, C. J., Hahn, A. G., Aughey, R. J., Martin, D. T., Ashenden, M. J., Clark, S. A., . . . McKenna, M. J. (2001). Live high:train low increases muscle buffer capacity and submaximal cycling efficiency. Acta Physiol Scand, 173(3), 275-286. https://doi.org/10.1046/j.1365-201X.2001.00906.x 
+Gupta, D. (2014). Role of Iron (Fe) in Body. IOSR Journal of Applied Chemistry, 7, 38-46.  https://doi.org/10.9790/5736-071123846 
+Schoene, R. B., Escourrou, P., Robertson, H. T., Nilson, K. 
+L., Parsons, J. R., & Smith, N. J. (1983). Iron repletion decreases maximal exercise lactate concentrations in female athletes with minimal iron-deficiency anemia. 
+J Lab Clin Med, 102(2), 306-312.  https://www.ncbi.nlm.nih.gov/pubmed/6864076 
+Govus, A. D., Garvican-Lewis, L. A., Abbiss, C. R., Peeling, P., & Gore, C. J. (2015). Pre-Altitude Serum Ferritin Levels and Daily Oral Iron Supplement Dose Mediate Iron Parameter and Hemoglobin Mass Responses to Altitude Exposure. PLoS One, 10(8), e0135120.  
+https://doi.org/10.1371/journal.pone.0135120 
+Ryan, B. J., Wachsmuth, N. B., Schmidt, W. F., Byrnes, W. C., Julian, C. G., Lovering, A. T., . . . Roach, R. C. (2014). 
+AltitudeOmics: rapid hemoglobin mass alterations with early acclimatization to and de-acclimatization from 5260 m in healthy humans. PLoS One, 9(10), e108788.  https://doi.org/10.1371/journal.pone.0108788 
+Friedmann, B., Jost, J., Rating, T., Weller, E., Werle, E., Eckardt, K. U., . . . Mairbaurl, H. (1999). Effects of iron supplementation on total body hemoglobin during endurance training at moderate altitude. Int J Sports Med, 
+20(2), 78-85. https://doi.org/10.1055/s-2007-971097 
+Nielsen, P., & Nachtigall, D. (1998). Iron supplementation in athletes. Current recommendations. Sports Med, 26(4), 207- 216. https://doi.org/10.2165/00007256-199826040-00001 
+T. D. P. Nandadeva, A. M. S. D. M. Dissanayake, A. A. J. Rajaratne, & S. D. I. Nanayakkara. (2019). Effect of iron supplementation during high altitude training on haemoglobin and iron status of Sri Lankan middle- and long-distance athletes. Sri Lanka Journal of Medicine, 28(1), 29. https://doi.org/10.4038/sljm.v28i1.114 
+Chaeychomsri, W., Siruntawineti, J., Chaeychomsri, S., Hengsawadi, D., Cuptapan, Y., & Rungtaweechai, W. 
+(2013, October 2013). Successful Development and 
+Commercialization of Freeze-dried Crocodile Blood Product. The 39th Congress on Science and Technology of Thailand, Thailand.
+Paratthakonkun, C., Vimuttipong, V., Nana, A., Chaijenkij, K., Soonthornworasiri, N., & Arthan, D. (2021). The Effects of Crocodile Blood Supplementation on Delayed-Onset Muscle Soreness. Nutrients, 13(7).  
+https://doi.org/10.3390/nu13072312 
+Chook, C. Y. B., Chen, F. M., Leung, F. P., Chen, Z. Y., & Wong, W. T. (2021). Potential of crocodile blood as a medication and dietary supplement: A systemic review. Clin Exp Pharmacol Physiol.  https://doi.org/10.1111/1440-1681.13524 
+Ljungqvist, A., Jenoure, P. J., Engebretsen, L., Alonso, J. M., Bahr, R., Clough, A. F., . . . Dubi, C. (2009). The International Olympic Committee (IOC) consensus statement on periodic health evaluation of elite athletes, March 2009. Clin J Sport Med, 19(5), 347-365.  
+https://doi.org/10.1097/JSM.0b013e3181b7332c 
+LaManca, J. J., & Haymes, E. M. (1993). Effects of iron repletion on VO2max, endurance, and blood lactate in women. Med Sci Sports Exerc, 25(12), 1386-1392.  
+https://www.ncbi.nlm.nih.gov/pubmed/8107547 
+Davies, K. J., Donovan, C. M., Refino, C. J., Brooks, G. A., Packer, L., & Dallman, P. R. (1984). Distinguishing effects of anemia and muscle iron deficiency on exercise bioenergetics in the rat. Am J Physiol, 246(6 Pt 1), E535-
+543. https://doi.org/10.1152/ajpendo.1984.246.6.E535 
+Davies, K. J., Maguire, J. J., Brooks, G. A., Dallman, P. R., & Packer, L. (1982). Muscle mitochondrial bioenergetics, oxygen supply, and work capacity during dietary iron deficiency and repletion. Am J Physiol, 242(6), E418-427. https://doi.org/10.1152/ajpendo.1982.242.6.E418 
+Schumacher, Y. O., Schmid, A., Grathwohl, D., Bultermann, D., & Berg, A. (2002). Hematological indices and iron status in athletes of various sports and performances. 
+Med Sci Sports Exerc, 34(5), 869-875.  https://doi.org/10.1097/00005768-200205000-00022 
+Klingshirn, L. A., Pate, R. R., Bourque, S. P., Davis, J. M., & Sargent, R. G. (1992). Effect of iron supplementation on endurance capacity in iron-depleted female runners. Med Sci Sports Exerc, 24(7), 819-824.  https://www.ncbi.nlm.nih.gov/pubmed/1501568 
+Rosado-Perez, J., & Mendoza-Nunez, V. M. (2018). Relationship Between Aerobic Capacity With Oxidative Stress and Inflammation Biomarkers in the Blood of Older Mexican Urban-Dwelling Population. Dose Response, 16(2), 1559325818773000.  
+https://doi.org/10.1177/1559325818773000
+Haase, V. H. (2010). Hypoxic regulation of erythropoiesis and iron metabolism. Am J Physiol Renal Physiol, 299(1), F1-13. https://doi.org/10.1152/ajprenal.00174.2010 
+Ramos-Campo, D. J., Martinez-Sanchez, F., Esteban-Garcia, 
+P., Rubio-Arias, J. A., Clemente-Suarez, V. J., & Jimenez-
+Diaz, J. F. (2015). The effects of intermittent hypoxia training on hematological and aerobic performance in triathletes. Acta Physiol Hung, 102(4), 409-418.  
+https://doi.org/10.1556/036.102.2015.4.8 
+Wonnabussapawich, P., Hamlin, M. J., Lizamore, C. A., 
+Manimmanakorn, N., Leelayuwat, N., Tunkamnerdthai, 
+O., . . . Manimmanakorn, A. (2017). Living and Training at 825 m for 8 Weeks Supplemented With Intermittent Hypoxic Training at 3,000 m Improves Blood Parameters and Running Performance. J Strength Cond Res, 31(12), 3287-3294.  https://doi.org/10.1519/JSC.0000000000002227 
+   
+
+????? ???????????? ?????????? ? ?????????? ? ?????????? ?? ??????? ???????????? ????? ?? ??????? ?????????????? ?? ????????????? ????????? ? ???????????
+???????? ????????1ABCDE,  ?????? ?????????????2BD, ??? ?????????3BD, 
+????????? ?????????????3BD, ???????? ???????1BCD
+1?????????????? ??????????? ????????? 
+2????????????? ??????????? 
+3??????????? ?????????
+?????????? ?????: A - ?????? ???????????; B - ???? ?????; C - ??????????; D - ?????????? ????????; E - ???? ?????? ???????. ??????: 7 ?., 2 ????., 3 ???., 29 ??????.
+
+    ???? ???????????. ????? ????? ??????????? ???? ??????? ????? ????????? ?? ??????? ???????????? ????? ? ????????? ? ??????????? ??????????? ?? ?????? ?????????? ????? ?? ????????????? ????????? ? ???????????.
+   ????????? ?? ??????. ? ??????????? ????? ?????? 39 ???????????-????????? ????? 21,69 ± 1,98 ????, ??? ???? ????????????? ?? ??? ?????. ??? ????? ?????????? ????????? ??????????? ????????, ??? ???????? ?????????? ?? ??????? ??????? ? ?????? 70%-75% ???????????? ??????? ???????? ????????? ???????? 7 ?????? ?? ????????? ?????????? 30 ??/???? ?? 3 ??? ?? ???????. ????? ????? ???? ??????????? ??????, ??? ??????? ??????? (??, n = 13), ????? ????? ?????????? ???? ??????? ?? ???? (60 ??) ???????????? ??????? ? ???????????? ????? (???, n = 13), ? ????? ????? ?????????? ??????????? ??????? ? ???????????? ????? ?? ?????????? ??????????? ???????? ? ?????? ???????? (?-???, n = 13, FiO2 = 16,3%). ???? ????????? ????????????? ?????? ?? ????????? ???????? ????????????? ?????????? ????? (VO2max) ?? ????????? ???????-????? (???? ?? ??????? ???????) ?? ?????????? ?????.
+   ??????????. ???????????? ????? (?-???), ?? ?????????? ??????????? ??????? ? ???????????? ????? ?? ?????????? ??????????? ???????? ? ?????? ????????,  ???????? ?????? ???? ????? ????????????? (???) (14,40 ± 2,41 ???/??) ????????? ? ?????? (???), ??? ?????????? ???? ??????? ?? ???? (60 ??) ???????????? ??????? ? ???????????? ????? (11,50 ± 2,08 ???/??) ?? ?? (12,01 ???/??) ????? ?????????? ??????????. ??? ??????? ?? ??????? ?????????? ??????????? ?????????????? ??????? ?????????? ????????? VO2max ? ?????? ?-??? (??: 45,63 ± 4,75, ?????: 49,33 ± 5,81) ?? ??? (??: 
+44,59 ± 4,75, ?????: 47,30 ± 5,68), ??? ?? ? ??.
+   ????????. ?? ??????????? ????????, ?? ????????? ??????? ???????????? ??????? ? ???????????? ????? ?? ?????????? ??????????? ????????? ???????? ????????????? ?????, ??????? ????????? ???????? ???, ?? ???????? ???????? VO2max ? ???????????.
+    ??????? ?????: ??????? ? ???????????? ?????, ??????????????, ??????? ??????????????, ?????????? ??????????, ?????????-??????.
+
+Information about the authors:
+Thuwakum, Worrawut: worrawutt@uru.ac.th; https://orcid.org/0000-0002-8810-6672; Department of Sport and Exercise Science, Uttaradit Rajabhat University, 27 Injaimee Rd., Muang District, Uttaradit 53000, Thailand.
+Manimmanakorn, Apiwan: apiwanta@yahoo.com; https://orcid.org/0000-0002-0927-9453; Department of Physiology, Khon Kaen University, 123 Moo 16 Mittraphap Rd., Nai-Muang, Muang District, Khon Kaen 40002, Thailand.
+Chaeychomsri, Win: fsciwcc@ku.ac.th; https://orcid.org/0000-0002-3055-3146; Department of Zoology, Kasetsart University, 50 Ngamwongwan Rd., Lat Yao, Chatuchak, Bangkok 10900, Thailand.
+Siruntawineti, Jindawan: fscijws@ku.ac.th; https://orcid.org/0009-0002-2975-4773; Department of Zoology, Kasetsart University, 50 Ngamwongwan Rd., Lat Yao, Chatuchak, Bangkok 10900, Thailand.
+Sukjit, Sasithorn: sasithorn@uru.ac.th; https://orcid.org/0009-0008-2528-2872; Department of Public Health, Uttaradit Rajabhat University, 27 Injaimee Rd., Muang District, Uttaradit 53000, Thailand.
+
+Cite this article as: Thuwakum, W., Manimmanakorn, A., Chaeychomsri, W., Siruntawineti, J., & Sukjit, S. (2024). The Effect of Hypoxic Exercise Combined with Crocodile Blood Supplementation on Aerobic Capacity and Hematological Variables in Athletes. Physical Education Theory and Methodology, 24(1), 95-101. https://doi.org/10.17309/tmfv.2024.1.12
+
+Received: 11.01.2024. Accepted: 18.02.2024. Published: 29.02.2024
+
+This work is licensed under a Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0). 
+View publication stats
+
+   
+
+   
+
+   
+
+   
+
+   
+
+   
+ISSN 1993-7989. eISSN 1993-7997. ISSN-L 1993-7989. Physical Education Theory and Methodology. Vol. 24, Num. 1
+   
+Thuwakum, W., Manimmanakorn, A., Chaeychomsri, W., Siruntawineti, J., & Sukjit, S. (2024). The Effect of Hypoxic Exercise Combined with Crocodile Blood Supplementation on Aerobic Capacity and Hematological Variables in Athletes
+   
+96
+   
+97
+   
+
+   
+
+   

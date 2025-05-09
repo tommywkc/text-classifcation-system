@@ -1,0 +1,944 @@
+Classroom-Level Predictors of the Social Status of Aggression:
+Friendship Centralization, Friendship Density, Teacher–Student
+Attunement, and Gender
+Hai-Jeong Ahn
+Korean Educational Development Institute, Seoul, Korea
+Philip C. Rodkin
+University of Illinois at Urbana–Champaign
+This study investigated moderating effects of classroom friendship network structures (centralization and
+density), teacher–student attunement on aggression and popularity, and gender on changes in the social
+status of aggression over 1 school year. Longitudinal multilevel analyses with 2 time points (fall and
+spring) were conducted on a sample of 856 fourth and fifth graders from 45 classrooms. Aggressive boys
+lost social status over time in classrooms where friendship networks were egalitarian (not centralized) and
+dense (with many friendship ties) and where the teacher and students were attuned to (shared perceptions
+about) who in their classroom was aggressive and popular. There were no effects for girls. Educational
+implications and prospects for setting-level theory, measurement, and intervention are discussed.
+Keywords: hierarchy, social status, attunement, aggression, gender
+Aggressive children vary widely in social status. From the first
+years of schooling, some aggressive children benefit from high
+peer regard while others are marginalized (Farmer et al., 2010;
+Rodkin & Roisman, 2010). In elementary school, children who are
+particularly motivated to demonstrate to others their social prowess increase in aggressive behavior over a school year (Rodkin,
+Ryan, Jamison, & Wilson, 2013). The high social status that some
+aggressive children enjoy can be seen as an intractable problem:
+why would socially skilled aggressors be motivated to alter behavior that results in instrumental reward and social appeal (Lansford et al., 2009; Rose & Swenson, 2009)?
+One fruitful avenue for investigation might be to extend beyond
+the analysis of individual children to consider as well potentially
+malleable features of educational settings that support or inhibit
+the social status of aggression. Just like individuals, classrooms
+vary widely in the popularity of aggression among their students.
+In Chang’s (2004) study of 82 Chinese middle school classes,
+within-classroom correlations of peer-nominated aggression and
+acceptance ranged from – 0.44 to 0.47 (see also Rodkin & Gest,
+2011). Classrooms in which aggression is associated with high
+peer status do not appear to be healthy settings: such classrooms
+are conducive to bullying (Dijkstra, Lindenberg, & Veenstra,
+2008), show heightened associations of peer victimization to anxiety and rejection (Kärnä, Voeten, Poskiparta, & Salmivalli, 2010),
+and have a low likelihood that potential student bystanders will
+feel the efficacy to intervene and stop bullying that they witness
+(Pöyhönen, Juvonen, & Salmivalli, 2010). In short, the problem of
+the popularity of aggression is an issue of both individual children
+and classroom settings.
+Social Settings of Elementary Classrooms
+An emerging consensus in prevention and education science
+points to the importance of setting-level change, yet the development of setting-level theory and measurement is still in its infancy
+(Gest, Osgood, Feinberg, Bierman, & Moody, 2011; Neal, Neal,
+Atkins, Henry, & Frazier, 2011). From the perspective of the
+community psychologist, Seidman (2012) has called for investment in an action science of settings, stressing the need for
+theoretical, measurement, and intervention research on social regularities such as norms, typical interaction patterns, and social
+networks. From the perspective of the special educator, Farmer,
+Lines, and Hamm (2011, p. 249) wrote of the need for teachers to
+“develop, guide, and direct the classroom as a society” in developing “a collective set of norms and values that define its culture.”
+These perspectives are grounded in ecological theories that stress
+dynamic interdependencies between children and the proximal
+settings in which they develop (e.g., Bronfenbrenner, 1979).
+This article was published Online First March 10, 2014.
+Hai-Jeong Ahn, Korean Educational Development Institute, Seoul, Korea; Philip C. Rodkin, Department of Educational Psychology, University
+of Illinois at Urbana-Champaign.
+This article was modified from Hai-Jeong Ahn’s doctoral dissertation.
+This research was supported by grants to Philip C. Rodkin from the Eunice
+Kennedy Shriver National Institute of Child Health and Human Development (R03 HD48491-01), the Spencer Foundation (Small Grant #20050079),
+the Institute of Education Sciences, Program for Social and Behavioral
+Context for Academic Learning (#R305A100344), and the William T.
+Grant and Spencer Foundations on the Development and Improvement of
+the Measurement of Classroom Quality (#200900174).
+We are extremely thankful to Carolyn J. Anderson, Dorothy L. Espelage,
+Scott D. Gest, and Allison M. Ryan for insightful comments and support at
+various stages of the dissertation and article preparation. We extend our
+gratitude to the children, teachers, and school principals who participated
+in this project.
+Correspondence concerning this article should be addressed to HaiJeong Ahn, School Violence Prevention Research Center, Korean Educational Development Institute, Korea Federation of Teachers’ Association
+Building #808, Seocho-Gu, Seoul, Korea. E-mail: haijeong@gmail.com
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+Journal of Educational Psychology © 2014 American Psychological Association
+2014, Vol. 106, No. 4, 1144 –1155 0022-0663/14/$12.00 DOI: 10.1037/a0036091
+1144
+How might we describe the social aspects of classroom settings?
+The present study contributes to educational research on settinglevel change by considering the social status of aggression with
+respect to what we postulate are two basic features of elementary
+classroom settings: (a) the peer social ecology of children’s friendship choices and (b) teacher attunement (Hamm, Farmer, Dadisman, Gravelle, & Murray, 2011) to which students are perceived
+by their peers to be popular and aggressive. Our study hypothesis
+was that aggressive behavior would become less popular and less
+socially preferred over the course of a school year under conditions
+indicative of a healthy classroom setting—namely, when peer social
+ecologies could be characterized by an egalitarian, dense pattern of
+friendship nominations and when teachers are well attuned to which
+students are perceived as being popular and aggressive.
+Peer Social Ecologies
+A peer social ecology perspective stresses that the classroom is
+akin to a small society, or social network, in which children
+interact with, influence, and socialize one another (Rodkin & Gest,
+2011). As Lewin (1943, p. 115) wrote, “all education is group
+work.” The peer social ecology is a proximal setting, a microsystem, which Bronfenbrenner (1996, p. xv) described as “the ultimate mechanism through which development occurs.” Interaction
+within the peer social ecology can take many forms, including
+frequent affiliation, joint participation in activities, and even negative forms such as bullying–victimization and antipathy. The
+present research focuses on the basic interpersonal tie of friendship. Friendships are fundamental to children’s social development
+(Hartup & Stevens, 1997). Friends can ameliorate negative outcomes that are associated with peer rejection and victimization
+(Adams, Santo, & Bukowski, 2011; Hodges, Boivin, Vitaro, &
+Bukowski, 1999), and friends can escalate risk in a context of
+deviancy (Dishion & Tipsord, 2011).
+The importance of friendship to individual social development
+is very well established, but less clear is the importance of settinglevel friendship patterns that may characterize classroom peer
+social ecologies. What might be the importance of a peer social
+ecology in which friendships are concentrated within a small set of
+peers, as opposed to one in which friendships are more evenly
+spread out? This question refers to the centralization or hierarchical structure of friendship networks in the peer ecology (Carolan,
+2014). Or what might be the importance of a peer social ecology
+where many children nominate one another as friends, as opposed
+to one where friendship nominations are less frequent? In social
+network terms, this question refers to the density of friendships in
+the peer ecology. In the following sections, we elaborate why
+classroom-level friendship centralization and density may be relevant to the social status of aggression.
+Friendship centralization. The construct of centralization refers to whether network ties (in the present research, friendship
+ties) have a more hierarchical or more egalitarian pattern. As
+Carolan (2014, p. 107) wrote, “Networks that are centralized,
+regardless of their density, are ones in which only a small and
+exclusive set of actors hold positions of power and control. Decentralized networks, conversely, are those in which power and
+control are diffuse and spread over a number of actors.” Classic
+child development studies have shown that egalitarian peer groups
+have more positive social interactions (i.e., cooperation, less peer
+rejection), while hierarchical groups show hostility and less cohesion (Schmuck & Schmuck, 2001). Lewin, Lippitt, and White
+(1939) showed that autocratic, hierarchically organized groups
+were fertile soil for the emergence of victims and scapegoats.
+Sherif (1956) demonstrated that boys participating in hierarchical
+friendship teams were less cohesive and less successful in intergroup competitions than boys in egalitarian group structures. Olweus (1978) argued that a model where hierarchy reduces aggressive behavior (i.e., because there is a clear leader and structure
+where all know their place) is not appropriate for educational
+settings and that in many cases hierarchical peer social ecologies
+supported bullying perpetration.
+Connections between centralized (hierarchical) peer ecologies
+and negative outcomes have been suggested in contemporary
+social network research as well. Ahn and her colleagues found that
+aggressive third and fourth graders tended to achieve higher perceived popularity in more hierarchical (embedded) classrooms
+(Ahn, Garandeau, & Rodkin, 2010), and fourth and fifth grade
+aggressive children were more popular and better liked by peers in
+classrooms with higher levels of peer status hierarchy (Garandeau,
+Ahn, & Rodkin, 2011). Huitsing, Veenstra, Sainio, and Salmivalli
+(2012) derived centralization indices from nominations of bullies
+and victims across 376 third- to fifth-grade classrooms in Finland,
+using the Snijders (1981) centralization metric (which is also
+employed in the current study). They reported that after controlling
+for bullying and victimization prevalence, children were more
+depressed and had lower self-esteem in classrooms where victimization was highly centralized upon a few children (see also
+Serdiouk, Rodkin, Madill, Logis, & Gest, in press). Perhaps more
+striking, in an archival study of third- to seventh-grade classrooms
+from 1950s Scotland, Almquist (2011) reported that children in
+highly centralized classes, with centralization derived from “liked
+most” nominations, were more likely to report psychiatric and
+health problems as adults.
+We expected that the social status of aggression would increase
+over the school year when children’s friendship patterns were
+highly centralized. The reasons are both general, in that highly
+centralized peer ecologies may be broadly associated with indices
+of poor adjustment, and specific to the social status of aggression,
+because hierarchy promotes dominance-related behavior and invites harassment of those on the bottom with no or few friends.
+Emerson (1962), for example, noted that in-group status hierarchies were intrinsically involved in power and dependency relations. On the other hand, it is also possible that egalitarian peer
+social ecologies promote a tolerant atmosphere in which there is a
+wide latitude of acceptable social behavior and in which everyone—including aggressive children— gains in acceptance and status. In this scenario, the social status of aggressors could rise over
+the year, or at least stay flat, in peer social ecologies with low
+friendship centralization.
+Friendship density. Density is a foundational concept in the
+social network literature and has particular relevance to the construct of social capital (Carolan, 2014). Density can be measured in
+a variety of ways and have a number of interpretations. For
+instance, density can be considered as an individual-level measure
+(e.g., Child A’s friends are friends with one another but Child B’s
+friends are not), but in the present research, friendship density is
+considered as a classroom-level variable of the peer social ecology.
+Specifically, children tend to nominate many peers as friends in
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+CLASSROOM-LEVEL PREDICTORS 1145
+classrooms with high friendship density but do not nominate many
+peers as friends in classrooms with low friendship density. Thus, in
+this research, the conceptualization of friendship density and its
+relation to social capital focuses on network closure, or the cohesive strength that accrues when friends are friends of one another.
+Other conceptions of social capital focus on brokerage, or the
+ability of some individuals to bridge networks as liaisons and
+develop unique social ties that enable access to a novel array of
+resources (Burt, 2001).
+The present focus on classroom-level density as an index of
+network closure is similar to Putnam’s (2007) notion of bonding
+social capital and Coleman’s (1990) emphasis on densely interconnected, closed networks that promote collective well-being.
+Classrooms where children nominate many classmates as their
+friends may have more positive sentiments, or bonding social
+capital, than settings in which friendships are less readily acknowledged. It has long been thought in educational research that classrooms with rich positive ties among children lead to better outcomes (Bronfrenbrenner, 1979; Gronlund, 1959; Roseth, Johnson,
+& Johnson, 2008). It might be difficult for aggressors to gain status
+through peer harassment in classrooms where many students are
+connected by friendship and where even the possible targets of
+aggression have friends. Thus, the expectation in this study was
+that high friendship density levels would be reflective of social
+cohesion and trust, conditions that restrain the emergence of norms
+that reinforce the social status of aggression.
+Teacher–Student Attunement
+Teachers are not themselves part of the peer social ecology (as
+teachers are not “peers”), but teachers play a unique leadership role
+in the classroom microsystem. Effective classrooms are ones
+where teachers build positive relationships with their students,
+showing emotional support and a seemingly invisible hand that
+guides classroom dynamics toward learning and away from disruption (Bierman, 2011; Farmer et al., 2011). From a peer ecology
+perspective, potential teacher influences on student socioemotional
+outcomes include factors such as (a) observed responsive teaching
+and emotional support for students (e.g., Gest & Rodkin, 2011);
+(b) self-reported teacher beliefs, practices, and attitudes; and (c)
+teacher knowledge of, or attunement to, the social characteristics
+of their students as their students perceive them. The present
+research focused on this latter characteristic of teacher attunement.
+Given the present study’s focus on aggression and social status,
+student aggression and popularity were the characteristics upon
+which teacher–student attunement was assessed.
+The present emphasis on status- and aggression-based attunement is relatively novel. Most attunement work has been with
+reference to peer group placement. Teachers vary widely in their
+accurate identification of classroom peer groups (Gest, 2006;
+Pearl, Leung, Van Acker, Farmer, & Rodkin, 2007). Neal, Cappella, Wagner, and Atkins (2011) examined teacher–student agreement in perceptions of classroom peer networks, measured through
+cognitive social structure techniques and scaled using Jaccard’s
+similarity coefficients, in a cross-sectional urban sample of 33
+second- through fourth-grade teachers and 669 students. Multiple
+regression analyses using classrooms as the unit of analysis suggested greater teacher–student attunement in classrooms with antiaggression norms. Hamm et al. (2011), working with a rural
+sample of 26 sixth-grade teachers and their 242 students, compared
+teacher and youth reports of group membership derived through
+social cognitive mapping procedures. Regression analyses suggested that from fall to spring, students tended to report more
+positive views of their school environment, such as a greater sense
+of school belonging and a greater willingness to defend victims of
+bullying, when they and their teachers agreed on the members of
+their peer group. In both Neal et al. (2011) and Hamm et al. (2011),
+higher levels of attunement on peer group membership were associated with better classroom adjustment.
+Why should attunement to student popularity and aggression be
+associated with the social status of aggressive children? The study
+hypothesis is that teachers who are more aware of the status and
+aggression levels of their students operate from a more knowledgeable position from which to prevent the acquisition of high
+social status by aggressive students. Admittedly, there is little
+research on teacher–student attunement with respect to popularity
+or aggression. Correlations between teacher ratings and peer nominations have ranged widely, from – 0.21 to 0.90 for aggression
+(Hudley, 1993) and from 0.27 to 0.84 for peer acceptance (Gronlund, 1950). Gage, Leavitt, and Stone (1955) suggested that
+teacher–student attunement levels across domains (i.e., sociometric status and intelligence) are largely unrelated. Status attunement
+in particular may be associated with positive teacher characteristics. Gronlund (1955) suggested that more effective teachers know
+how socially preferred their students are with one another, and
+Chang et al. (2004) reported that teachers with a functional,
+authoritative teaching style were most likely to share their students’ nominations of social preference. Therefore, it seemed
+reasonable to examine whether teacher–student attunement on
+aggression and popularity might be independently associated with
+a healthier classroom climate, one in which aggressive children do
+not gain social status over the course of the school year.
+Analytic Strategy
+The overall hypothesis of this study was that aggressive children
+would lose social status over the school year in elementary classrooms where children have a more egalitarian (i.e., not centralized)
+distribution of friendship nominations received and more dense
+friendship ties, and where teachers are well attuned to their students’ sense of who in their classroom is aggressive and popular.
+Student gender and ethnicity were conceptualized as covariates in
+this research, as were other measures such as the overall prevalence of aggression in the classroom, the number of participants in
+the classroom, and prior levels of social status. Interactions involving gender and ethnicity were considered in multilevel models and
+pursued when they improved model fit.
+Method
+Participants
+Time 1 participants were 778 fourth and fifth graders (376 boys,
+402 girls) and their teachers from 45 classrooms in nine elementary schools in the midwestern United States. These participants
+provided data on 951 classmates (480 boys, 471 girls). The ethnic
+composition of the participants was 50% African American, 35%
+European American, 6% Asian, 5% Hispanic, and 4% classified as
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+1146 AHN AND RODKIN
+“other.” Participation rates at Time 1 ranged from 63% to 96%
+(M1  82%, SD1  9%). At Time 2, student and teacher data were
+collected from the same 45 classrooms with 785 participants (383
+boys, 402 girls). Time 2 participants provided data on 939 classmates (479 boys, 460 girls). The ethnicity of the participants
+consisted of 49% African American, 35% European American, 5%
+Asian, 6% Hispanic, and 4% “other.” The actual percentage of
+ethnic minority students in each school ranged from 34.1% to
+86.8% (M  63.1%). The percentage of students in each school
+who received free or reduced-price lunch ranged from 36.0% to
+83.3% (M  59.0%). The neighborhoods (census tracts) in which
+the schools were located varied considerably in socioeconomic
+status as measured by per capita income and the percentage of
+individuals below poverty level (U. S. Census Bureau, 2013).
+Neighborhood per capita income ranged from $11,100 to $36,700,
+with a median of $15,000. The percentage of individuals in each
+neighborhood living below poverty level ranged from 5.6% to
+39.5%, with a median of 21.6%.
+Participation rates at Time 2 ranged from 62% to 100% (M2
+83%, SD2  9%). Overall, 890 students participated at either Time
+1 or Time 2 (overall participation rate  90%). Active parental
+consents and student assents were obtained from all participants at
+both Times 1 and 2.
+Multiple Imputations for Missing Data
+The rates of missing data were 3.1% and 3.8% for Time 1 and
+Time 2, respectively, on the peer nomination measures. To maximally utilize the collected information, we applied multiple imputations. Time 1 and Time 2 student-level missing data were
+imputed together 10 times by using SAS PROX MI. As a result, 10
+sets of imputed data were obtained for 890 participants. The
+imputed scores of the dependent variable (Time 2 social status)
+were deleted for analysis (see von Hippel, 2007). As a result, data
+on 856 students (429 boys, 415 African Americans) from 45
+classrooms were analyzed.
+Student-Level Variables
+During each wave of data collection, children were asked to
+nominate peers in their classroom who best fit descriptors related
+to student social behaviors. Seven items were used in the present
+investigation. Participants were instructed to check off boxes adjacent to the first names and last initials of their classmates; boys
+and girls were presented in separate columns. They were told that
+they could nominate an unlimited number of same- and other-sex
+peers. All self-nominations were excluded from the analysis.
+Social status. Children were asked to nominate who is popular (“These are the most popular kids in my class”), who is not
+popular (“These are the kids in my class who are not popular”),
+peers they like most (“These are the kids who I would like most to
+play with”), and like least (“These are the kids who I would like
+least to play with”) in their classroom. For each item, we computed
+proportion scores by dividing the number of nominations received
+by the number of participants in each classroom. For each time
+point, we computed perceived popularity scores by subtracting not
+popular from popular proportions and obtained social preference
+scores by subtracting liked least from liked most proportions.
+Resulting difference scores for Time 2 perceived popularity, social
+preference, and global status (average of popularity and preference) were used as dependent variables. Time 1 difference scores
+were centered around the class mean and used as a control variable
+(Enders & Tofighi, 2007).
+Aggression. Aggression was measured with three peer nomination items that assessed relational and overt aggression subtypes
+(  .94 at Time 1): make fun of (“These kids make fun of people.
+They like to make fun of other kids and embarrass them in front of
+other people”), say mean things (“These kids say mean things to
+other kids, and they spread nasty rumors about other kids”), and
+start fights (“These kids start fights. These kids push other kids
+around, hit them, or kick them”). A composite score for Time 1
+was obtained by averaging proportion scores for the three items,
+and the composite score was mean-centered within each classroom.
+Gender and ethnicity. Gender and ethnicity information was
+collected based on children’s self-reports. In the cases where
+self-reports were not available, we used information based on
+teacher reports and school records. Gender was dummy coded as
+female  0 and male  1. As African Americans were a majority
+group (50%) in the current sample, ethnicity was coded as nonAfrican American  0 and African American  1. Both gender
+and ethnicity variables were centered within classroom.
+Classroom-Level Variables
+Two within-classroom structure measures (friendship centralization and friendship density) and two teacher–student attunement
+measures (on aggression and popularity) were the classroom-level
+variables of greatest interest. Mean classroom aggression level, the
+proportion of African American students in the classroom, and the
+number of participants in each classroom were used as covariates.
+All classroom-level variables were derived from 45 classrooms of
+Time 1 data and centered at the grand mean for analyses.
+Friendship centralization. The index of centralization was
+obtained from within-classroom friendship nominations at Time 1.
+Children were asked to circle “yes” or “no” to the question: “Some
+kids have a number of close friends, but others have just one best
+friend, and still others don’t have a best friend. What about you?
+Do you have a best friend?” Children responding affirmatively
+were prompted to write the names of the children whom they
+considered to be their best friends and to circle “yes” or “no” to
+indicate if the friend they named was in their class or not. Six lines
+were provided for best-friend identification, but children were told
+that they could list fewer or more than six friends. Only withinclassroom best-friend nominations were used for analyses. Sixteen
+(1.9%) among 856 students reported more than six withinclassroom friends. The mean of giving best-friend nominations
+was 2.95 (SD  1.93; R  0 –10). The variance of received
+best-friend nominations was computed for each classroom to quantify the centralization of within-classroom best-friend nominations
+representing the dispersion or heterogeneity of the received (indegree) friendship nominations among students (Snijders, 1981).
+A small variance indicates that the number of received nominations in the distribution tends to be clustered around the mean,
+which reflects a relatively egalitarian distribution of best-friend
+nominations among students. A large variance indicates that the
+received friendship nominations are widely dispersed around the
+mean and vary greatly from one student to another (see also
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+CLASSROOM-LEVEL PREDICTORS 1147
+Almquist, 2011). Centralization indices differed widely across
+classrooms, ranging from 0.884 to 9.862 (M  3.32, SD  1.75).
+Friendship density. The index of density was obtained based
+on within-classroom best-friend nominations sent (out-degree) at
+Time 1. Density for best-friend nominations was computed as the
+number of best-friend nominations present divided by the number
+of possible nominations in a unit of network (classroom in the
+current study) and ranged from 0 to 1. In the current study,
+best-friend nominations were not necessarily reciprocal (A nominated B, but B did not nominate A as a friend), and thus “n(n 
+1)”—instead of “n(n  1)/2”—was used for the number of possible nominations. The friendship density of each classroom was
+computed, ranging across classrooms from 0.074 to 0.318 (M
+0.133, SD  0.046).
+Teacher–student attunement on aggression. The index of
+teacher–student attunement on aggression was obtained by correlating teacher- and peer-reported aggression scores within each
+classroom. The Interpersonal Competence Scale–Teacher (ICS–T)
+proposed by Cairns, Leung, Gest, and Cairns (1995) was used to
+measure teachers’ perceptions of individual students who participated in this study. The ICS–T consists of 21 items with a 7-point
+Likert scale. In each classroom, teacher-reported aggression scores
+obtained by combining three Time 1 ICS–T items (argues, trouble,
+and fights;   .893) were correlated with the composite score of
+aggression assigned by peer nominations (makes fun of, says mean
+things, and starts fights). Teacher–student aggression correlations
+ranged from 0.10 to 0.94 (M  0.753, SD  0.152).
+Teacher–student attunement on popularity. Like teacher–
+student attunement on aggression, we computed the correlation
+between teacher- and peer-reported popularity in each classroom
+to obtain an index of teacher–student popularity attunement. As
+Cairns et al. (1995) did, we used ICS–T items (popular with boys,
+popular with girls, and lots of friends;   .859) to obtain
+students’ popularity scores measured by teachers. These three
+Time 1 ICS-T items were composited by averaging. Then, teacherreported popularity was correlated with peer-reported popularity
+for each classroom. To make a more accurate comparison, we
+computed peer-reported popularity from the items with the information most similar to teacher-reported popularity— one peer
+nomination item, popular (“These are the most popular kids in my
+class”) and children’s received nominations of friendship reports
+(  .657). Teacher–student popularity correlations ranged from
+0.11 to 0.87 across 45 classrooms (M  0.592, SD  0.179).
+Classroom prevalence of aggression. The proportion scores
+used for the assessment of individual aggression were averaged for
+each classroom to obtain a measure of the overall prevalence of
+aggression in the classroom. Proportions ranged from .084 to .429
+(M  .218, SD  .063). This measure essentially indexes the
+average proportion of children circled for items of the aggressionrelated peer nominations within each classroom.
+Proportion of African American students. We investigated
+classroom ethnic composition via the classroom proportion of
+African American students, the majority group in this sample.
+Percentages of African American students varied from 0% to 91%
+across classrooms. (M  49.5%, SD  21.3).
+Number of classroom participants. Friendship density and
+centralization are sensitive to the number of participants in each
+classroom (r  –.51, p  .01; r  .33, p  .05, respectively).
+Thus, the number of participants was added to the models as a
+classroom-level covariate. The number of participants in each
+classroom varied from 10 to 23 (M  17.3, SD  3.31) and
+covaried strongly with class size (r  .82, p  .001).
+Results
+Preliminary Analyses
+Participants versus nonparticipants. Mean difference tests
+were performed to figure out if the participants significantly differed from the nonparticipants. Multiple independent t tests were
+performed for student-level variables. At Time 1, the participants
+were significantly perceived as more popular (t  –2.33; p  .05)
+and more preferred (t  –3.39; p  .001) by peers, but less
+aggressive (t  3.75; p  .001) than the nonparticipants. However,
+at Time 2, the participants were not different from the nonparticipants in terms of their perceived popularity (t  – 0.28; p  .10)
+or social preference (t  – 0.99; p  .10).
+Bivariate correlations. Correlations among student-level
+variables at Time 1 (fall) and Time 2 (spring) are presented in
+Table 1. Perceived popularity and social preference were positively correlated (rs  .65). Time 1 perceived popularity and social
+preference were strongly correlated with the corresponding Time 2
+variables (rs  .81, and .71, respectively). Time 1 aggression was
+positively associated with Time 2 perceived popularity (r  .18),
+which did not differ by gender (r  .24 for boys; r  .14 for girls;
+Fisher’s Z  1.51, p  .05) but was stronger among African
+Americans (r  .15) than among non-African Americans (r
+–.02; Fisher’s Z  2.49, p  .05). On the other hand, Time 1
+aggression was negatively associated with Time 2 social preference (r  –.26); this effect was weaker among boys (r  –.14)
+than among girls (r  –.39; Fisher’s Z  3.95, p  .001) but did
+Table 1
+Correlations Among Student-Level Variables and Descriptive Statistics
+Variable 1 2 3 4 Mean SD
+1. Perceived popularity (Time 1) 0.031 0.42
+2. Social preference (Time 1) .65 0.022 0.32
+3. Aggression (Time 1) .17 .27 0.215 0.21
+4. Perceived popularity (Time 2) .81 .60 .18 0.021 0.44
+5. Social preference (Time 2) .55 .71 .26 .65 0.001 0.31
+Note. Correlations were obtained by averaging 10 sets of correlations of imputed data. N  856; SD  standard
+deviation.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+1148 AHN AND RODKIN
+not differ by ethnicity (r  –.26 for African Americans; r  –.30
+for non-African Americans; Fisher’s Z  0.63, p  .05).
+Classroom-level correlations are presented in Table 2. Friendship centralization was positively correlated with number of participants (r  .33, p  .05). In classrooms with dense friendship
+relations, it was more difficult for teachers to be attuned to peers’
+perceptions of who is aggressive (r  –.33, p  .05) and popular
+(r  –.35, p  .05). Friendship density was negatively correlated
+with the number of participants in the class (r  –.51, p  .01).
+Teacher–student attunement on aggression and popularity were not
+correlated (r  .08). Classroom mean aggression was positively
+correlated with proportion of African Americans (r  .30, p  .05)
+but negatively correlated with number of classroom participants
+(r  –.32, p  .05).
+Aggregating popularity and preference. Table 1 suggests
+that perceived popularity and social preference are strongly correlated, yet with differential relationships to aggression. In preliminary analyses, perceived popularity and social preference were
+considered separately as dependent variables in multilevel modeling, with the hypothesis that classroom-level moderators of
+aggression–social status relationships might be stronger for perceived popularity (positively correlated with aggression) than for
+social preference (negatively correlated with aggression). However, analyses yielded the same results regardless of whether
+perceived popularity or social preference served as the dependent
+variable, and unique (partialed) versions of these variables did not
+have significant predictors. Thus, in the analyses to follow, perceived popularity and social preference were composited to form
+an overall construct of social status. Within-classroom correlations
+between Time 1 aggression and Time 2 social status ranged widely
+around zero, from r  –.6 in one classroom to r  0.7 in another
+(M  –.02, SD  .32).
+Multilevel Modeling
+Multilevel analyses using hierarchical linear and nonlinear modeling (HLM Version 6) was performed to evaluate whether there
+were classroom-level moderators of status–aggression associations
+(Raudenbush, Bryk, & Congdon, 2004). HLM 6 analyzed 10
+imputed data sets consecutively and provided an averaged output.
+In the HLM models, spring (Time 2) social status was the outcome
+variable, and peer-nominated aggression was the primary independent variable. Fall (Time 1) social status was included to control
+for stability in social status, and fall aggression, gender, ethnicity,
+and interactions between these demographic variables and fall
+aggression were included as student-level (Level-1) predictors.
+Classroom-level (Level-2) predictors included the centralization
+and density of children’s friendship networks and measures of
+teacher–student attunement on aggression and popularity, with the
+additional inclusion of the following covariates: classroom prevalence of aggression, proportion of African American students in
+the classroom, and number of classroom participants. Preliminary
+analyses showed that none of the classroom-level predictors significantly moderated ethnicity-social status and Aggression 
+Ethnicity–Social Status associations. The averaged result of
+likelihood-ratio tests (deviance tests) indicated that removing
+cross-level interactions involving ethnicity did not affect model fit,
+	2
+(14)  13.547, p  .10), and so cross-level interactions involving ethnicity were trimmed. Cross-level interactions involving
+gender significantly improved model fit (	2
+(14)  26.783, p 
+.05), and so cross-level interactions involving gender were retained.
+Variance components. Table 3 shows the values of intraclass
+correlations (ICC) and variances explained (R2
+) computed through
+three steps of model testing (Step 1: unconditional, Step 2: includTable 2
+Correlations Among Classroom-Level Variables and Descriptive Statistics
+Variable 1 2 3 4 5 6 Mean SD
+1. Friendship centralization 3.31 1.75
+2. Friendship density .22 0.13 0.05
+3. Teacher–student aggression attunement .01 .33 0.75 0.15
+4. Teacher–student popularity attunement .16 .35 .08 0.59 0.18
+5. Classroom mean aggression .03 .28 .11 .17 0.22 0.06
+6. Proportion of African Americans .02 .08 .02 .00 .30 49.50 21.35
+7. Number of classroom participants .33 .51 .17 .26 .32 .08 17.30 3.31
+Note. SD  standard deviation.  p  .05.  p  .01.
+Table 3
+Between- (
+) and Within-Classroom (
+2
+) Variance Components
+of Time 2 Social Status
+Analyses Model 1 Model 2
+Step 1 (Unconditional)
+
+00 (Intercept) 0.009 0.009
+
+2 0.108 0.108
+Intraclass correlation .074 .074
+Step 2 (Classroom-level)
+
+00 (Intercept) 0.002 0.002
+
+2 0.108 0.108
+R2 .783 .783
+Step 3 (Student-level)
+
+00 (Intercept) 0.014 0.014
+
+11 (Aggression slope) 0.786 0.397
+
+22 (Gender slope) 0.010 0.011
+
+33 (Ethnicity slope) 0.005 —
+
+44 (Aggression  Gender Slope) 0.108 0.099
+
+55 (Aggression  Ethnicity Slope) 0.134 —
+
+66 (Time 1 Social Status Slope) 0.022 0.021
+
+2 0.021 0.023
+R2 .804 .787
+Note. Model 2 shows variance components with fixed slopes for Ethnicity (
+33) and Aggression  Ethnicity (
+55) interactions.  p  .05.  p  .01.  p  .001.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+CLASSROOM-LEVEL PREDICTORS 1149
+ing Level-2 predictors, Step 3: including Level-1 predictors). For
+the outcome variable, social status at Time 2, ICC was computed
+by using the variance components of the unconditional model. Of
+the variance in Time 2 social status, 7.4% was between classrooms
+(
+00  0.009, 
+2  0.108). For the model in Step 2, 78.3% of the
+explained between-classroom variance in Time 2 social status was
+accounted for by classroom-level predictors of centralization, density, teacher–student attunement on aggression and popularity,
+classroom-aggression level, proportion of African Americans, and
+number of participants (
+00  0.002). For Model 1, including
+student-level predictors (aggression, gender, ethnicity, Aggression  Gender, and Aggression  Ethnicity) reduced the withinclassroom variance in Time 2 social status by 80.4% (
+2  0.021).
+Deviance tests were performed for nonsignificant random slopes
+(i.e., aggression, ethnicity, Aggression  Gender, Aggression 
+Ethnicity) to determine if the slopes should have random or fixed
+coefficients (see Bryk & Raudenbush, 1992). The averaged deviance tests suggested that slopes for aggression and Aggression 
+Gender should be random, 	2
+(7)  18.385, p  .05, and 	2
+(7)
+15.130, p  .05, respectively. However, slopes for ethnicity and
+Aggression  Ethnicity should be fixed, 	2
+(7)  7.801, p  .05,
+and 	2
+(7)  10.677, p  .05, respectively. Therefore, Model 2
+included random slopes for only aggression, gender, and Aggression  Gender in the current analysis. In Model 2, student-level
+predictors reduced the within-classroom variance in Time 2 social
+status by 78.7% (
+2  0.023).
+Modeling results. Table 4 presents results for the hierarchical
+linear model involving social status and aggressive behavior. Table
+4 shows that African American students (  0.063, t  3.21, p 
+.01) and boys who were aggressive at Time 1 (  0.183, t  2.15,
+p  .05) increased their social status by Time 2. Classrooms with
+more dense friendship relations at Time 1 had greater overall
+social status at Time 2 (  1.801, t  4.09, p  .001). Teacher–
+student attunement on aggression was also related to increased
+social status (  0.248, t  2.69, p  .05).
+There were multiple classroom-level moderators of aggression–
+social status associations. Aggressors lost social status in lesscentralized classrooms (  0.215, t  2.48, p  .05), particularly
+among boys (  0.122, t  2.20, p  .05). As shown in Figure
+1, highly aggressive boys lost social status over time in classrooms
+with low friendship centralization but gained social status in classrooms with high centralization. As shown in Figure 2, aggressors
+lost social status in classrooms with high friendship density (
+–16.851, t  –3.95, p  .001), again only for boys (  – 8.392,
+t  –3.14, p  .01).
+When teachers and students agreed on relative student aggression levels, more aggressive students lost social status over the
+school year (  –2.691, t  –2.50, p  .05); this moderating
+effect was apparent only for boys (  –1.711, t  –2.45, p 
+.05). As Figure 3 illustrates, aggressive boys came to have lower
+social status when their teacher was attuned to the students considered to be aggressive by their peers. Likewise, Figure 4 shows
+that aggressive boys lost social status in classrooms where teachers
+and students agreed on who was popular (  – 0.964, t  –2.19,
+p  .05). The number of classroom participants moderated
+aggression–status associations (  – 0.130, t  –2.59, p  .05),
+again for boys only (  – 0.079, t  –2.55, p  .05). In
+classrooms with more study participants, aggressive students
+tended to lose status over the year. Finally, classroom aggression
+level and its associated interactions were not associated with social
+status.
+Discussion
+The fourth- and fifth-grade classrooms that participated in this
+study varied widely in how peer social status and aggressive
+behavior were associated. In some classrooms, children nominated
+Table 4
+Effects of Student- and Class-Level Predictors on Classroom
+Injunctive Norms on Aggression
+Fall (Time 1) predictors
+Spring (Time 2) social status
+ SE t
+Intercept 0.020 0.013 1.565
+Student-level
+Aggression 0.204 0.174 1.169
+Male ( 1) 0.038 0.025 1.555
+African Americans ( 1) 0.063 0.020 3.214
+Aggression  Male 0.183 0.085 2.154
+Aggression  African Americans 0.055 0.077 0.713
+Social status at Time 1 0.822 0.027 30.065
+Classroom-level
+Friendship centralization 0.006 0.010 0.597
+Friendship density 1.801 0.440 4.094
+Teacher–student aggression
+attunement 0.248 0.092 2.688
+Teacher–student popularity
+attunement 0.161 0.081 1.980
+Classroom aggression level 0.437 0.238 1.837
+Proportion of African Americans 0.000 0.001 0.034
+Number of participants 0.000 0.006 0.070
+Cross-level interactions
+Centralization  Aggression 0.215 0.087 2.476
+Centralization  Male 0.008 0.018 0.464
+Centralization  Aggression  Male 0.122 0.056 2.197
+Density  Aggression 16.851 4.262 3.954
+Density  Male 1.683 0.879 1.916
+Density  Aggression  Male 8.392 2.672 3.141
+Aggression Attunement 
+Aggression 2.691 1.076 2.501
+Aggression Attunement  Male 0.222 0.211 1.054
+Aggression Attunement 
+Aggression  Male 1.711 0.698 2.452
+Popularity Attunement  Aggression 1.546 0.716 2.159
+Popularity Attunement  Male 0.047 0.151 0.314
+Popularity Attunement 
+Aggression  Male 0.964 0.440 2.189
+Classroom Aggression Level 
+Aggression 0.564 2.039 0.277
+Classroom Aggression Level  Male 0.486 0.428 1.136
+Classroom Aggression Level 
+Aggression  Male 0.863 1.204 0.717
+Classroom Proportion of African
+Americans  Aggression 0.007 0.007 1.087
+Classroom Proportion of African
+Americans  Male 0.000 0.001 0.163
+Classroom Proportion of African
+Americans  Aggression  Male 0.007 0.004 1.711
+Classroom Participants  Aggression 0.130 0.050 2.594
+Classroom Participants  Male 0.003 0.010 0.299
+Classroom Participants 
+Aggression  Male 0.079 0.031 2.547
+Note. SE  standard error.  p  .05.  p  .01.  p  .001.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+1150 AHN AND RODKIN
+by their peers as aggressive—starting fights, making fun of and
+saying mean things to others—tended also to be nominated as
+popular and likeable. In other classrooms, correlations between
+aggression and social status were zero or negative. The study
+hypothesis was that healthy classroom social dynamics, where
+aggression and status are not positively associated, would be
+promoted by dense peer friendship networks that are inclusively
+distributed, with shared perceptions between teacher and students.
+Results were supportive of this prediction, suggesting two sets of
+setting-level moderators of status–aggression associations: (a) the
+centralization and density of children’s friendship patterns and (b)
+the degree to which teachers and students share perceptions of who
+in the classroom is aggressive and popular. In analyses that were
+significant for boys but not for girls, aggressors lost social status
+over the school year in classrooms where children received relatively equal numbers of friendship nominations from their peers,
+where children nominated more peers as friends, and where teachers and students were well attuned to one another’s perceptions of
+the classroom social reality.
+Figure 1. The moderating effects of Time 1 friendship centralization on
+the Time 1 aggression–Time 2 social status association by gender. The
+values presented reflect the status of students who were high (H; 1 SD
+above the mean) or low (L; –1 SD below the mean) on aggression, were in
+classrooms with high (1 SD above the mean) and low (–1 SD below the
+mean) centralization, and were at the mean on all other variables (Aiken &
+West, 1991).
+Figure 2. The moderating effects of Time 1 friendship density on the
+Time 1 aggression–Time 2 social status association by gender. The values
+presented reflect the status of students who were high (H; 1 SD above the
+mean) or low (L; –1 SD below the mean) on aggression, were in classrooms
+with high (1 SD above the mean) and low (–1 SD below the mean)
+density, and were at the mean on all other variables (Aiken & West, 1991).
+Figure 3. The moderating effect of Time 1 teacher–student aggression
+attunement on the association between Time 1 aggression and Time 2
+social status by gender. The values presented reflect the status of students
+who were high (H; 1 SD above the mean) or low (L; –1 SD below the
+mean) on aggression, were in classrooms with high (1 SD above the
+mean) and low (–1 SD below the mean) teacher–student attunement on
+aggression, and were at the mean on all other variables (Aiken & West,
+1991).
+Figure 4. The moderating effect of Time 1 teacher–student popularity
+attunement on the association between Time 1 aggression and Time 2
+social status by gender. The values presented reflect the status of students
+who were high (H; 1 SD above the mean) or low (L; –1 SD below the
+mean) on aggression, were in classrooms with high (1 SD above the
+mean) and low (–1 SD below the mean) teacher–student attunement on
+popularity, and were at the mean on all other variables (Aiken & West,
+1991).
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+CLASSROOM-LEVEL PREDICTORS 1151
+Friendship Centralization and Density
+A contribution of the present study is to extend a long-standing
+developmental focus on friendships to the setting level, utilizing
+social network measures of friendship centralization and density
+that characterize not just one child or dyad, but the classroom as a
+whole (Gest et al., 2011; Seidman, 2011). Centralization findings
+suggest benefits that accrue from a more cohesive, integrated
+classroom peer ecology. Hierarchy has its functions (Ronay,
+Greenaway, Anicich, & Galinsky, 2012), but it has long been
+thought that egalitarian or democratic peer ecologies are superior
+to those in which social capital is held by just a few (e.g.,
+Schmuck, 1966; Sherif, 1956). For this reason, cooperative learning techniques often attempt to promote egalitarian, democratic
+peer relationships (Roseth et al., 2008). Conversely, the Olweus
+(1978) definition of bullying requires substantial physical or psychological (e.g., social status) power inequality between bullies
+and the children whom they harass. Bullies thrive on hierarchy, as
+hierarchy can legitimate aggression directed at low-status targets
+who have few avenues for obtaining social support and capital
+(Emerson, 1962). Thus, highly centralized peer ecologies have
+been associated with negative outcomes such as (a) more depression for victims of harassment (Huitsing et al., 2010); (b) increased
+peer rejection (Mikami, Lerner, & Lun, 2010; Serdiouk et al., in
+press); (c) higher levels of relational aggression among socially
+central second through fourth graders (Neal & Cappella, 2012); (d)
+less behavioral engagement, less prosocial behavior, and higher
+levels of teacher-reported depression among kindergarteners
+(Boyce et al., 2012); (e) worse health outcomes for adults who as
+children were enrolled in classrooms with highly centralized status
+networks (Almquist, 2011); and (f) greater popularity for aggressive children (Ahn et al., 2010; Garandeau et al., 2011). To this list
+of the negative correlates of social stratification, this study suggests that hierarchically structured peer ecologies may also promote the social status of aggression in elementary school.
+A word is in order concerning our description of egalitarian
+classrooms, and particularly of the declining social status of aggressors in such classrooms, as healthy. At the classroom level, our
+premise is that more positive (or “healthy”) classroom climates are
+ones in which aggression does not promote social status, or vice
+versa. Yet what is best for the collective is not necessarily best for
+every individual in the collective. It may not be positive for a
+particular aggressive child to lose social status, and it is not healthy
+for any child, aggressive or not, to suffer high levels of peer
+rejection (Mikami et al., 2010). In no way does this study suggest
+that rejection is positive for aggressive children; instead, this study
+does suggest that classrooms where aggression and status are not
+positively associated are better for most students in that classroom.
+With respect to density, fourth- and fifth-grade classrooms in
+which many students were nominated as friends also had many
+students nominated as popular and liked, and in these classrooms,
+aggressive boys were most likely to lose social status from fall to
+spring. These findings, while they hold intuitive appeal, could have
+gone the other way. Hartup and Stevens (1997) noted that simply
+having a friend means little without also knowing the quality of the
+friendship and the characteristics of one’s friends. Friends can
+promote depression and co-rumination in one another (Rose,
+2002). Friends engage in more conflict than nonfriends, and iatrogenic effects may occur when antisocial youth befriend one
+another (Dishion & Tipsord, 2011). Classroom-wide measures of
+density may not capture distinctive network subgroups, such as
+small but tightly connected cliques of aggressive boys for whom
+friendship might lead to increases in problem behavior. However,
+in this study, friendship was not studied between dyads, nor was it
+restricted to friendships among children preselected for problem
+behavior. Rather, in the present sample, friendship density may
+refer more to the positive sentiments expressed among a community of children and, thus, to cohesion in the social network
+(Almquist, 2011) or to what Putnam (2007) termed bonding social
+capital, both of which constitute positive setting conditions that
+may discourage aggression.
+Teacher Attunement to Classroom Peer Ecologies
+There has been a real lack of attention to teachers in research on
+children’s peer relationships (Chang et al., 2004). The subject of
+“teachers” appears on only three of the 600-plus pages of Rubin,
+Bukowski, and Laursen’s (2009) Handbook of Peer Interactions
+(all in Wentzel, 2009, pp. 540 –542). Yet classic and recent works
+suggest the importance of synchrony between teachers and peer
+social ecologies and the possibility of revealing the invisible hand
+of successful teachers who guide classroom peer ecologies towards
+achievement and harmony (Bierman, 2011; Farmer et al., 2011;
+Kindermann, 2011). Students take cues from their teacher about
+how to interact with their peers (Chang et al., 2004). Schmuck
+(1966, p. 63) noted that “teachers with more positive social climates,
+compared with others, spoke about . . . psychological principles more.
+They had more detailed ideas about personality dynamics.” In the
+current study, results indicated that (a) teacher–student attunement
+on aggression and popularity were uncorrelated (see also Gage et
+al., 1955) and (b) greater attunement between teachers and students were associated with aggressive boys losing social status
+over the academic year. Potentially relevant teacher characteristics
+are wide-ranging and include demographics, morale, and teaching
+experience, attitudes, beliefs, and practices (Bierman, 2011). Still,
+study findings support Gronlund’s (1955, p. 277) early supposition
+that teachers’ accurate understanding of their students’ personality
+and status may be “a necessary prerequisite” for effective teaching.
+At this point, we are limited in conceptualizing teacher-student
+attunement as either a specific teaching skill that improves classroom management, or as a proxy for a more global index of teacher
+effectiveness. In future work, it will be important to include not
+only teachers’ knowledge of their students’ behavioral and social
+characteristics but also their knowledge of students’ peer groups
+and friendships, antipathies and bully–victim relationships (Ahn,
+Rodkin, & Gest, 2013). It will be essential to go beyond measures
+of attunement to include observations of teacher emotional support
+(e.g., Cappella, Kim, Neal, & Jackson, 2013), teachers’ stated
+practices regarding classroom social dynamics, and even seating charts that reflect teachers’ intuitive ideas about how to
+organize the learning community in front of them (Gest &
+Rodkin, 2011). As researchers include a broader array of information regarding teacher knowledge, beliefs, and practices,
+some more effective strategies—such as teachers’ knowing
+which students in their classroom are aggressive and popular—
+may come to the fore.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+1152 AHN AND RODKIN
+Moderation by Gender
+Why were the significant effects of this study moderated by gender,
+so that only for boys were friendship networks and teacher–student
+attunement related to changing associations between social status and
+aggression? One possibility is that the status–aggression phenomenon
+is more salient for boys, due to greater emphasis on dominance in
+male peer groups (Maccoby, 1998). On the other hand, correlations
+between popularity and aggression were similar among boys and
+girls, although social preference and aggression were more negatively
+correlated among girls than boys. In addition, the aggression peer
+nominations used in this study, items like make fun of others and say
+mean things to others, may not fully characterize the range of behaviors usually categorized as relationally aggressive (Neal & Cappella,
+2012). Girls who are physically aggressive may be highly disliked
+among their peers and thus may not be easily amenable to having their
+peer reputations changed by teacher practices and strategies that work
+for boys (e.g., Chang et al., 2004). Another possibility is that measures
+of the classroom peer ecology could be more relevant for boys than
+girls. Maccoby (1998) wrote that that peer group culture among boys
+and girls shows an asymmetry, namely, that boys’ groups are generally more cohesive and structured than girls’ groups, with girls more
+likely to be positioned in dyadic relationships. Thus, it could be that
+the peer ecological features studied in the present report are more
+sensitive to variation among boys’ groups, especially when dealing
+with aggression and that different or differently measured constructs
+are needed to better capture relationships among girls.
+As with any higher order interaction, it is also possible that the
+present results, however consistent across predictors, are tenuous.
+For instance, Henry, Farrell, Schoeny, Tolan, and Dymnicki (2011)
+found that school-level norms favoring nonviolence and positive
+interpersonal climates, derived from aggregated individual-level
+scores, were better predictors of girls’ aggression-related behaviors
+and attitudes (see also Gest & Rodkin, 2011; Powers, Bierman, & the
+Conduct Problems Prevention Research Group, 2013). In short, gender moderation in the present study has to be cautiously interpreted.
+Study results regarding gender moderation might be considered
+as speaking more broadly about the role of gender in elementary
+classrooms. There are setting-level measures that might better assess
+the quality of relationships between boys and girls, such as the
+proportion of other-sex antipathies and friendships, the prevalence of
+other-sex bullying, and peer group gender integration. Teacher practices that make gender salient (e.g., “Boys line up to the left and girls
+to the right. Let’s go to lunch!” see Bigler & Liben, 2006) help shape
+children’s attitudes regarding gender and may have an influence on
+classroom climate. Teacher understanding of the development of
+gender segregation, preventing negative gender dynamics from becoming entrenched, and promoting the social capital that comes from
+quality cross-gender relationships are important tasks for an educationally relevant study of children’s peer relationships.
+Study Limitations
+There are additional limitations to this study. As the results of
+variance component analyses show, the role of classroom-level
+variables in explaining social status is relatively small (5.8%),
+perhaps because between-classroom variance in the measure used
+to assess social status is also small (7.4%). At the same time, it is
+unclear what constitutes a meaningful educational effect at the
+setting level, given that classrooms have many children and may
+have compounding effects over time (Powers et al., 2012). Another
+limitation might be our unexpected finding concerning number of
+participants, largely a function of class size. Possibly some negative effects that are often attributed to large class sizes are largely
+a byproduct of more centralization and lower density levels in
+friendship networks. In both cases, limitations point to a need to
+better flesh out what Seidman (2012) called the ecometrics of
+setting-level measurement.
+The present analysis was limited in considering classroom friendship networks and teacher–student attunement as predictor variables.
+They could also be examined in relation to one another. As Almquist
+(2011, p. 10) wrote, “Nobody has a better opportunity to shape
+classroom structure and dynamics than the class teacher.” For example, Gest and Rodkin (2011), in a cross-sectional analysis of 39 first-,
+third-, and fifth-grade classrooms, suggested that teachers who are
+observed to be emotionally supportive have classrooms where
+more children have reciprocated friendships and that teachers
+who actively attempt to promote new friendships have, for girls,
+more egalitarian status hierarchies. Neal et al. (2011) reported
+that levels of teacher–student attunement on aggression were
+negatively related to the overall prevalence of aggression. An
+essential step for building on the present report is to examine
+whether classroom teachers and peer ecologies interact or show
+transactional effects over the school year (Bierman, 2011).
+Conclusions
+Aggressors who enjoy high social status may be a leading edge
+for negative peer socialization, influencing aggressive and nonaggressive peers alike (Logis, Rodkin, Gest, & Ahn, 2013). Popular–
+aggressive youth have little reason to change and may not see
+current remedial techniques as right for them (Lansford et al.,
+2009; Rose & Swenson, 2009). Thus, this research focused less on
+changing aggressive behavior within the individual and more on
+highlighting potentially malleable setting-level factors that might
+decrease the social status that aggression can bring. We conceptualized setting-level change via social– ecological frameworks,
+but it is instructive to note that the need for setting-level change
+with respect to aggression has also been voiced from evolutionary
+perspectives. Building from the insight that aggression can be
+adaptive, Ellis et al. (2012, pp. 605– 606) suggested setting-level
+interventions that consider “proactively how to ‘engineer’ social
+networks in early adolescence . . . promoting group structures and
+behavioral strategies that enable adolescents to earn status for
+prosocial behaviors . . . and avoiding dynamics that confer social
+status and peer reward for antisocial behavior.”
+Educators might not want to wait until adolescence to proactively intervene. Even in elementary school, popular–aggressive
+children are an alternative authority structure to teachers and
+educators, and possibly to parents as well, challenging traditional
+socialization goals. “They,” in this case, is also “we,” because
+inherent in having social status is being well integrated into social
+networks. By approaching the phenomenon of popular–aggressive
+children from the perspective of the setting, this study provides the
+first longitudinal demonstration that the nature of classroom
+friendship networks and the shared perceptions between teachers
+and students on student behavioral characteristics are related to
+whether aggressive children lose or gain social status over the
+school year. Future work will have to better specify how malleable
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+CLASSROOM-LEVEL PREDICTORS 1153
+friendship networks and teacher–student attunement—along with
+other measures of teacher and peer social ecologies—are and how
+appropriate teacher training can promote and effect meaningful
+educational change. Since the popular–aggressive child is in some
+sense a product of the social system, it stands to follow that
+setting-level phenomena are an opportune and appropriate means
+of countering the age-old appeal, particularly among males, of
+aggressive and antisocial behavior.

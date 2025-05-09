@@ -1,0 +1,175 @@
+See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/378595431
+Evaluation of a medical after-care intervention among deselected elite male Academy football players: a pilot study
+Article  in  BMJ Open Sport & Exercise Medicine · February 2024
+DOI: 10.1136/bmjsem-2024-001891
+
+CITATIONS	READS
+0	17
+Academisch Medisch Centrum Universiteit van Amsterdam	Amsterdam University Medical Centers / University of Pretoria 729 PUBLICATIONS   15,692 CITATIONS   	180 PUBLICATIONS   5,791 CITATIONS   
+All content following this page was uploaded by Vincent Gouttebarge on 01 March 2024.
+The user has requested enhancement of the downloaded file.
+
+
+To cite: Carmody S, Ranson J, Iqbal Z, et al.  Evaluation of a medical after- care intervention among deselected elite male Academy football players: a pilot study. BMJ Open Sport & Exercise Medicine 2024;10:e001891. doi:10.1136/ bmjsem-2024-001891
+? Additional supplemental material is published online only. To view, please visit the journal online (https:// doi. org/10 . 1136/bmjsem - 2024- 001891).
+
+Accepted 20 February 2024
+
+(c) Author(s) (or their employer(s)) 2024. Re- use permitted under CC BY- NC. No commercial re- use. See rights and permissions. Published by BMJ.
+For numbered affiliations see end of article.
+
+Correspondence to Sean Carmody;  seanocearmaide@ 	 gmail.com 
+
+ABSTRACT
+Objective This pilot study aimed to evaluate the perception and satisfaction of deselected male Academy professional footballers towards a medical after- care intervention. variables.
+Open access Short reportResults Twelve out of 15 eligible participants (80% response rate) provided informed consent and completed the survey (mean age: 19.5 years). All (100%) of the participants were satisfied with receiving the medical information. Ten out of 12 (83.3%) participants agreed that all Academy players should receive this medical intervention on deselection. Nine (75%) players felt more prepared for the next steps in their careers due to the medical information shared with them.
+Conclusion Deselected male Academy footballers expressed high satisfaction with an individualised medical intervention which shared key health information and signposted them to important resources (eg, mental health). Future studies across multiple clubs should explore the broader impact of this intervention among deselected male and female Academy footballers. Football clubs should consider integrating a medical after- care process for deselected players as part of routine care.
+
+INTRODUCTION
+  Elite adolescent footballers experience clinical psychological distress following deselection from professional academies.1 2 The impact of such distress may be compounded by a history of injury, which may increase the risk of deselection and hinder future sporting 
+aspirations.3 There is an emerging emphasis on promoting the health and welfare support that professional footballers receive during 
+WHAT IS ALREADY KNOWN ON THIS TOPIC
+
+? Deselection from Academies is psychologically distressing for adolescent professional footballers.
+? There are no formal guidelines for team medical staff on how to support the deselected Academy footballer proactively.
+? A formal medical after- care programme has the potential to reduce psychological distress for released players and may make the transition to other clubs or professional pursuits easier.
+WHAT THIS STUDY ADDS
+
+? Deselected male Academy footballers expressed high satisfaction with an individualised medical intervention which shared key health information and signposted them to important resources (eg, mental health).
+HOW THIS STUDY MIGHT AFFECT RESEARCH, PRACTICE OR POLICY
+
+? The intervention described here has the potential to become part of standard clinical care for Academy footballers.their time in academies and throughout their career and retirement years.4-7 This relates to the fact that professional footballers may be at risk of mental health symptoms; this could be due to a loss of identity at the time of retirement, a culture that stigmatises help-seeking,  lack of understanding of the spectrum of mental health, or limited resources offered by clubs and other stakeholders.8 9 Additionally, there is emerging evidence that retired professional footballers may be at increased risk of early-onset osteoarthritis and neuro- cognitive concerns.10-12
+  An estimated 12 500 football players are attached to England's male professional football Academy system.13 Although most of these individuals will not play football profes-
+sionally, with many released due to injury (directly or indirectly), there is limited understanding of how to support the deselected 
+
+Evaluation of a medical after- care intervention among deselected elite male Academy football players: a pilot study
+Sean Carmody   ,1,2 Joe Ranson,2 Zafar Iqbal,2 Andrew Massey,3 
+Gino Kerkhoffs,1,4,5 Vincent Gouttebarge   1,4,5,6,7
+
+Carmody S, et al. BMJ Open Sp Ex Med 2024;10:e001891. doi:10.1136/bmjsem-2024-001891	  	1
+
+Open access
+Academy footballer from a medical perspective proactively. It is not unreasonable to suspect that deselected Academy footballers may also be at risk of various health conditions, although there is limited research available to confirm this. Additionally, there may be pragmatic medical considerations for Academy footballers, such as the need for continued surveillance monitoring based on previous cardiac screening findings.14
+  To the best of our knowledge, there are no formal guidelines for team medical staff on proactively supporting the deselected Academy footballer. A formal medical after- care programme has the potential to reduce psychological distress for released players through the provision and signposting of resources. It can potentially improve the experience for the deselected player by sharing key medical information, which may make the transition to other clubs or professional pursuits easier.15 This pilot study aimed to evaluate the perception and satisfaction of deselected male Academy professional footballers towards a medical after- care intervention.
+METHODS
+Study design
+This was a quasiexperimental study design, using the Transparent Reporting of Evaluations with Non- randomised Designs (TREND) guidelines to ensure a high quality of reporting.16 The study was conducted following the principles set out in the Declaration of Helsinki (2013).17
+Participants
+The inclusion criteria for the participants of the study were as follows: (1) a deselected player at a single Category One Premier League Academy during the 2022/2023 season; (2) aged =18 years; and (3) able to read and comprehend text in English. Participants were excluded if they were injured or no longer communicating with the club. As this was a pilot study, a sample size calculation was not performed, and we strived to enrol a convenient sample.
+Medical after-care intervention
+At the time of deselection, participants were provided with medical information, which included the following:
+? Relevant previous clinic letters, investigation results, and (if appropriate) operation notes
+? Previous cardiac screening information
+? Medical contacts and professional resources within the club (eg, Player Care and Medical)
+? External resources (eg, Professional Footballers' Association, National Health Service, professional career advice)
+? Individualised recommendations based on their previous medical history (including cardiac screening), positional demands and career aspirations
+  An example of the information shared is provided in appendix 2.
+Survey
+The authors (SC, JR and VG) developed 14 questions or statements. These questions related to player demographics, ascertaining whether they had received the medical after- care intervention, while the statements related to their perception and satisfaction with respect to the medical after-care intervention (eg, 'I feel more  prepared for my next career steps considering the information that has been shared with me', 'I would recommend that all Academy players receive a medical after- care intervention on leaving their club'), and a final question explored their input into future iterations of the intervention ('Do you have any recommendations for how this medical after- care intervention can be improved?'). Questions were answered on different response scales (eg, 'yes, no' or free-text), while state- ments were scored on a 5- point Likert scale from 'strongly disagree to 'strongly agree'.
+  Based on all questions, an electronic anonymous survey (available in English) was compiled (Google Forms). Information about the study was sent to potential participants. If interested in the study, participants gave their electronic informed consent and completed the survey. Data were collected between September and October 2023. Players participated voluntarily in the study and did not receive any financial remuneration.
+Statistical analyses
+Descriptive analyses (mean, SD, frequency and/or range) were performed for all variables.
+RESULTS
+Demographics
+Fifteen players met the eligibility criteria and were invited to participate in the study. Twelve out of 15 (80% response rate) gave informed consent and completed the survey. The average age of the participants was 19.5 years (range 18-23). All 12 (100%) participants confirmed the receipt of the medical after-care intervention. Participant  characteristics and perception/satisfaction of the intervention are presented in table 1.
+Perception and satisfaction
+Eleven out of 12 (91.7%) participants were satisfied with the medical information received, with one participant (8.3%) very satisfied. Seven (58.3%) participants agreed that all Academy players should receive medical after-care  information on de-selection, with three (25%) strongly  agreeing this should be the case. Nine (75%) players felt more prepared for the next steps in their careers due to the medical information shared with them. The majority (n=11, 91.7%) felt the information shared would be useful in anticipation of signing or trialling with other clubs.
+2	Carmody S, et al. BMJ Open Sp Ex Med 2024;10:e001891. doi:10.1136/bmjsem-2024-001891  Eleven (91.7%) participants reported knowing who they could contact within their former club should they have any medical or welfare queries once deselected. Nine (75%) expressed knowledge of external 
+Table 1 Participant characteristics and perception/ satisfaction of the interventionParticipant characteristics  Age (in years; range)	19.5 years (18-23)  Gender (male; %)	100Position (N)  Goalkeeper	0  Defender	7  Midfielder	3  Striker	2Perception and satisfaction with intervention (%)  Received the medical 	100 information  Felt satisfied/very satisfied 	100 with receiving the medical information  Felt more prepared for next 	75 stage of career  Felt information would be 	91.7 useful to have for future football opportunities  Knowledge of club medical/	91.7 player care points of contact  Knowledge of how to seek 	75 mental health support Knowledge of how to pursue  	7 alternative professional 
+opportunities  Felt individual medical 	91.7 recommendations were useful to their health/well- being Knowledge of next cardiac  	58.3 screen date Recommend all deselected  	83.3 Academy players receive after- care as per studysupport resources should they experience mental health concerns. For circumstances where players wished to pursue a career unrelated to football, a majority (75%) reported awareness of where to seek further information due to the medical information shared with them.
+  Eleven players (91.7%) felt that the individualised medical recommendations they received were useful and relevant to their health and well-being. Nearly half (n=5,  41.7%) of participants were unaware of when their next cardiac screening should occur.
+Participant feedback
+Two participants commented on the intervention and amendments that could be made to improve future iterations. One participant commented positively on including the player's previous injury issues. Another participant Open access
+suggested including details such as the specific mechanism for injuries and the time to return to play following an injury.
+DISCUSSION
+This pilot study explored the impact of medical intervention for supporting deselected Academy footballers at a single club and found high patient satisfaction rates. Larger studies across multiple clubs are needed to assess the broader impact of this intervention and its potential integration as routine care for Academy footballers.
+Developing medical after-care for deselected academy footballers
+One of the findings of this study was that nearly half of the participants were unaware of when their next cardiac screening was due to occur. Up to 1 in 250 male Academy footballers have been found to have a cardiac disorder associated with sudden cardiac death. In contrast, as many as 1 in 50 have congenital or valvular abnormalities, which may require ongoing monitoring.14 To prevent any associated morbidity or mortality, cardiac considerations (including future screening dates) are clearly outlined during any medical after-care intervention for profes- sional footballers.
+  There have been highly publicised incidences of non- recent abuse in football academies in the UK.18 A more recent study has highlighted as many as 79% of athletes recall witnessing or experiencing at least one form of harassment/abuse during their sporting career.19 This pilot study did not assess whether participants had experienced or witnessed harassment/abuse during their time in the Academy, nor did it provide participants with information about how to report or seek help related to harassment/abuse. Future iterations should signpost players to resources where they can report or seek help for safeguarding concerns (eg, harassment/abuse).
+Future research directions
+This study included the 'athlete voice' by inviting participants to provide feedback on how this intervention can be further developed. This has the potential to improve the intervention through leaning on the athlete's 'lived experience'.20 Further studies could include mixed- methods designs with semistructured interviews to assess players' experience of this intervention qualitatively. The inclusion of other key information (eg, performance data, Player Care, Education, etc) should be assessed for its suitability to form part of this overall process.
+Limitations
+Carmody S, et al. BMJ Open Sp Ex Med 2024;10:e001891. doi:10.1136/bmjsem-2024-001891	3A limitation of this pilot study is that it only included male participants. There are gendered environmental disparities in care that female athletes receive in comparison to male athletes,21 and this may amplify negative outcomes experienced by the Academy footballer following deselection. With the standards of medical, performance and support provision growing for the female footballer,22 Open access
+consideration should be given to the female Academy footballer and how to improve outcomes on de- selection.
+CONCLUSION
+Deselected male Academy footballers expressed high satisfaction with an individualised medical intervention which shared key health information and signposted them to important resources (eg, mental health). Future studies across multiple clubs should explore the broader impact of this intervention among deselected male and female Academy footballers. Football clubs should consider integrating a medical after- care process for de- selected players as part of routine care.
+Author affiliations
+1Amsterdam UMC location University of Amsterdam, Department of Orthopedic 
+Surgery and Sports Medicine, Meibergdreef 9, Amsterdam, Netherlands
+2Medical Department, Crystal Palace Football Club, London, UK
+3Medical Department, FIFA, Zurich, Switzerland
+4Amsterdam Movement Sciences, Aging & Vitality, Musculoskeletal Health, Sports, 
+Amsterdam, Netherlands
+5Amsterdam Collaboration on Health & Safety in Sports (ACHSS), IOC Research 
+Center of Excellence, Amsterdam, Netherlands
+6Section Sports Medicine, Faculty of Health Sciences, University of Pretoria, 
+Pretoria, South Africa
+7Football Players Worldwide (FIFPRO), Hoofddorp, Netherlands
+Twitter Vincent Gouttebarge @VGouttebarge
+Contributors SC and JR developed the medical after- care intervention mentioned in the study. SC, JR and VG created the survey for evaluation of the after-care  intervention. SC drafted the initial manuscript, with JR, ZI, GK, AM and VG contributing to subsequent iterations.
+Funding The authors have not declared a specific grant for this research from any funding agency in the public, commercial or not- for- profit sectors.
+Competing interests None declared.
+Patient consent for publication Not applicable.
+Ethics approval This study involves human participants. Ethical approval for the study was provided by the Medical Ethics Review Committee of the Amsterdam University Medical Centers, University of Amsterdam (2023.0537; Amsterdam, The Netherlands). Participants gave informed consent to participate in the study before taking part.
+Provenance and peer review Not commissioned; externally peer reviewed.
+Supplemental material This content has been supplied by the author(s). It has not been vetted by BMJ Publishing Group Limited (BMJ) and may not have been peer- reviewed. Any opinions or recommendations discussed are solely those of the author(s) and are not endorsed by BMJ. BMJ disclaims all liability and responsibility arising from any reliance placed on the content. Where the content includes any translated material, BMJ does not warrant the accuracy and reliability of the translations (including but not limited to local regulations, clinical guidelines, terminology, drug names and drug dosages), and is not responsible for any error and/or omissions arising from translation and adaptation or otherwise.
+Open access This is an open access article distributed in accordance with the Creative Commons Attribution Non Commercial (CC BY- NC 4.0) license, which permits others to distribute, remix, adapt, build upon this work non-commercially 	, and license their derivative works on different terms, provided the original work is properly cited, appropriate credit is given, any changes made indicated, and the use is non-commercial. 	 See: http://creativecommons.org/licenses/by-nc/4.0/.
+ORCID iDs
+Sean Carmody http://orcid.org/0000-0001-8683-5532
+Vincent Gouttebarge http://orcid.org/0000-0002-0126-4177
+REFERENCES
+1 Blakelock DJ, Chen MA, Prescott T. Psychological distress in elite adolescent soccer players following deselection. J Clin Sport Psychol 2016;10:59-77. 
+2 Brown G, Potrac P. You've not made the grade, son': de- selection and identity disruption in elite level youth football. Soccer & Society 2009;10:143-59. 
+3 Larruskain J, Lekue JA, Martin-Gar 	etxana I, et al. Injuries are negatively associated with Player progression in an elite football Academy. Sci Med Footb 2022;6:405-14. 
+4 Carmody S, Jones C, Malhotra A, et al. Put out to pasture: what is our duty of care to the retiring professional footballer? promoting the concept of the 'exit health examination' (EHE). Br J Sports Med 2019;53:788-9. 
+5 Carmody S, Anemaat K, Massey A, et al. Health conditions among retired professional footballers: a scoping review BMJ. BMJ Open Sport Exerc Med 2022;8:e001196. 
+6 Crystal palace enhances after care programme for released Academy players. n.d. Available: https://www.cpfc.co.uk/news/ club/crystal-palace-enhances-after-care-programme-for-released- academy-players/
+7 Gouttebarge V, Goedhart E, Kerkhoffs G. Kerkhoffs G empowering the health of retired professional footballers: the systematic development of an after career consultation and its feasibility BMJ. 
+BMJ Open Sport Exerc Med 2018;4:e000466. 
+8 Gouttebarge V, Frings- Dresen MHW, Sluiter JK. Mental and psychosocial health among current and former professional footballers. Occupat Med 2015;65:190-6. 
+9 McGinty-Minister KL, Champ FM, Eubank ME,  	et al. Stakeholder 
+Conceptualizations of mental health and mental illness in English Premier League football academies. Managing Sport and Leisure 2023:1-20. 
+10 Fernandes GS, Parekh SM, Moses J, et al. Prevalence of knee pain, radiographic osteoarthritis and arthroplasty in retired professional Footballers compared with men in the general population: a cross- sectional study. Br J Sports Med 2018;52:678-83. 
+11 Mackay DF, Russell ER, Stewart K, et al. Neurodegenerative disease mortality among former professional soccer players. N Engl J Med 2019;381:1801-8. 
+12 Ueda P, Pasternak B, Lim C- E, et al. Neurodegenerative disease among male elite football (soccer) players in Sweden: a cohort study. 
+Lancet Public Health 2023;8:e256-65. 
+13 Sothern NA, O'Gorman J. Exploring the mental health and wellbeing of professional Academy Footballers in England. Soccer & Society 2021;22:641-54. 
+14 Malhotra A, Dhutia H, Finocchiaro G, et al. Outcomes of cardiac screening in adolescent soccer players. N Engl J Med 2018;379:524-34. 
+15 McGlinchey TR, Saward C, Healy LC, et al. From everything to nothing in a split second": elite youth players' experiences of release from professional football academies. Front Sports Act Living 2022;4:941482. 
+16 Des Jarlais DC, Lyles C, Crepaz N, et al. Improving the reporting quality of nonrandomized evaluations of behavioral and public health interventions: the TREND statement. Am J Public Health 2004;94:361-6. 
+17 World Medical Association. World medical association declaration of Helsinki: ethical principles for medical research involving human subjects. JAMA 2013;310:2191-4. 
+18 Grey- Thompson T. Duty of care in sport - independent report to government. n.d. Available: https://assets.publishing.service.gov.uk/ media/5a81ff3c40f0b62305b91ed9/Duty_of_Care_Review_-_April_ 
+2017__2.pdf
+19 Thornton J, Rosen C, Davenport M, et al. Beyond the medals: a cross- sectional study exploring retired elite female athletes. BMJ Open Sport Exerc Med 2023;9:e001479. 
+20 Weissensteiner JR. Weissensteiner JR the importance of listening: engaging and incorporating the athlete's voice in theory and practice. Br J Sports Med 2015;49:839-40. 
+21 Parsons JL, Coen SE, Bekker S. Anterior Cruciate ligament injury: towards a gendered environmental approach. Br J Sports Med 2021;55:984-90. 
+22 UEFA. Women's football across the National associations 2016/17. 2017. Available: https://www.uefa.com/MultimediaFiles/Download/ OfficialDocument/uefaorg/Women%27sfootball/02/43/13/56/ 2431356_DOWNLOAD.pdf [Accessed 1 May 2020].
+
+4	Carmody S, et al. BMJ Open Sp Ex Med 2024;10:e001891. doi:10.1136/bmjsem-2024-001891
+View publication stats
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

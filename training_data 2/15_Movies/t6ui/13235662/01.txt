@@ -1,0 +1,552 @@
+Journal of Cultural Economics 23: 269–283, 1999.
+© 1999 Kluwer Academic Publishers. Printed in the Netherlands. 269
+On the Perceived Quality of Movies?
+VICTOR GINSBURGH
+Université Libre de Bruxelles
+SHEILA WEYERS
+CORE, Louvain-la-Neuve
+Abstract. We address the question of the quality of movies produced between 1950 and 1970.
+A first outcome of our analysis is that the quality assessments made during the Cannes Festival,
+and to a lesser degree, by the U.S. Academy are short-lasting. In contrast to this, consumers seem
+consistent over time. There is, however, one issue on which experts agree as well as consumers:
+American movies dominate both in terms of commercial success and in terms of quality. There is less
+agreement, and sometimes there is even dissent concerning other dimensions. This does not come as
+a surprise and merely indicates that there is hardly a common yardstick along which the quality of
+a movie can be measured. Therefore, decomposing a work of art into quantifiable characteristics –
+even in a subjective but possibly unanimous way – would make it possible to explain the divergences
+between audiences and changes of appreciation over time.
+Key words: motion picture, quality measures in art
+1. Introduction
+Quality is an important characteristic in determining the demand for a commodity.
+This is a fortiori true for works of art, since aesthetic quality is often the main, in
+many cases the only, reason for “consuming” them. Economists are more used to
+think of quality in terms of vertically differentiated goods for which consumers are
+unanimous in agreeing that more of a given objective characteristic, say the dimen￾sions of a flat, provides more utility. This concept can hardly be used to describe
+works of art – a large painting does not contain more quality than a small one.
+Works of art can much better be understood as being horizontally differentiated –
+a work by Rubens is preferred to a work by Beuys by some consumers, a Beuys to
+a Rubens by others, even if both are of the same size – but apart from defining the
+concept, economists have had little to add.1
+This is more the playground of philosophers who have been interested in the
+subject for many centuries, starting as early as Plato in his Republic. Since then,
+many have contributed to the literature, but there is little consensus among them on
+issues other than the following three basic ideas:
+(i) Quality assessments should be left to specialists who are familiar with the
+experience of works of art (Budd, 1995, p. 12).
+270 VICTOR GINSBURGH AND SHEILA WEYERS
+(ii) Some unanimous, even if subjective, judgment is necessary (Budd, 1995,
+p. 182).
+(iii) Only time makes it possible to separate fashion from art (Jimenez, 1997,
+p. 427).
+The concept of “unanimity” is invoked by both economists and philosophers, and
+may provide some link between vertical and horizontal differentiation. However
+there are differences that remain important. Philosophers put the burden of the
+proof of quality on specialists, economists think that the choice should be left to
+consumers; philosophers stress the importance of time, and this is not raised by
+economists in this context.
+On the other hand, measuring quality – as is necessary to make operational the
+economic concept of vertical differentiation – is rarely stressed by philosophers,
+and even less so by art historians.2 But, surprisingly, it is even criticized by cultural
+economists. Throsby (1990), for example, believes that quality characteristics do
+not necessarily have to be measured along numerical scales, and that we should
+recognize that “many facets of quality can be specified without measurement”.
+In this paper, we try to contribute to the issue, by analyzing how movies, pro￾duced between 1950 and 1970, can and have been evaluated over time. We chose
+this relatively remote period of production since it allows us to compare judgments
+passed by general audiences as well as by specialists shortly after the movie was
+produced, with those passed many years later, when commercial interests have
+receded and one can, at least according to philosophers, expect judgment to be
+based on artistic quality only.
+Most papers on movies implicitly relate quality to box office results (or rental
+income), i.e., to short-run evaluations made by consumers. Hirschman and Pieros
+(1985) are among the first to study the relationships between three short-term in￾dicators of success: Reviews by professional critics,3 recognition via awards, and
+box office data. They find that reviews and awards produce consistent choices, but
+that both are negatively correlated with audience receipts. Smith and Smith (1986)
+also investigate the determinants of success. They compare the influence of various
+characteristics (mainly types of awards) for movies released during three decades
+(1950s and before, 1960s and 1970s) and find that the short-run determinants of
+success have changed substantially over time. Wallace, Seigerman and Holbrook
+(1993) try to price the worth of movie stars by running hedonic regressions of
+rental income on movie characteristics that include dummy variables representing
+movie stars. These studies are extended by Prag and Casavant (1994), who show
+that academy awards and the presence of major stars contribute significantly to
+revenue only when marketing expenditures are not included in the regressions,
+thus casting doubt on the role of experts who distribute the awards. This result
+may even imply that experts could be influenced by advertising and marketing
+expenditures, when awarding Oscars. Eliashberg and Shugan (1997) concentrate
+on the role of critics on box office revenue and show that positive reviews have no
+impact on box office performance in the short run (weeks 1–4 after the release of
+ON THE PERCEIVED QUALITY OF MOVIES 271
+the movie), but have a significant influence for later weeks (weeks 5–8) as well as
+for cumulative receipts. They believe that if moviegoers were influenced by critics,
+reviews should be correlated with early box office revenue (realized shortly after
+the reviews are published). Since this is not the case, their finding suggests that
+critics are predictors rather than influencers of box office numbers. Throsby (1990)
+uses press reviews of performances, measured against a cardinal scale to estimate
+demand and supply functions for various (theatre) companies. Finally, there exist
+many papers which study the pure dynamics of success (or failure), by using time
+series of box office revenues; see de Vany and Walls (1996, 1997), Krider and
+Weinberg (1998) and Sawhney and Eliashberg (1996). Though in many cases, the
+role of specialists (movie critics and awards) is thus recognized, as suggested by
+philosophers in (i), the role of time, suggested by them in (iii), is never taken into
+consideration. This is particularly important in the case of movies, since short-run
+evaluations and success may be due to heavy marketing, viz. Titanic or Jurassic
+Park, rather than to aesthetic or artistic quality.
+We are not concerned with the determinants of success. Instead we analyze the
+various evaluations made at the time the movie was produced and many years later,
+both by specialists and critics – as suggested by art philosophers – and by con￾sumers – as suggested by economists who believe in consumers’ sovereignty. Our
+paper aims thus at comparing four types of evaluations and examining whether spe￾cialists and consumers have consistent opinions and whether short-run qualitative
+evaluations have some lasting power.
+The paper is organized as follows. Section 2 describes the data set that we
+constructed to analyze the phenomenon, while Section 3 is devoted to the analysis.
+In Section 4, we draw some conclusions.
+2. Data
+We collected judgments made by movie specialists – critics, as well as profession￾als of the motion picture industry, such as actors, directors, etc. – and by consumers.
+For the short-run, awards are probably the best measure of what movie specialists
+think. They pick productions which are fashionable at the time the movie is pro￾duced and which include new technical devices, specific movie stars or topics,
+temporary moral yardsticks, etc. We chose to include two well-known series of
+awards, which existed already in the early 1950s: Oscars for best movies, awarded
+by the U.S. Academy and Palmes d’Or distributed during the Cannes Festival.
+Long-run quality assessments are obtained by using recent lists of “best movies of
+all times”, as well as ratings quoted in two well-known movie guides (an American
+and a French).
+Box office data are used to measure what consumers think of a production.
+These are collected in a relatively consistent way as long as the newly produced
+movie is shown in large theatres (owned or controlled by distributors or producers).
+They are not systematically collected later, when the movie is shown in small
+272 VICTOR GINSBURGH AND SHEILA WEYERS
+theatres, or by film archives. Therefore, we rely on the frequency with which a
+movie is shown on TV as a long-run audience measure. A series of objections
+may come to mind with this measure. First, the choice may reflect the taste of the
+TV-channel rather than the taste of consumers and some movies – especially those
+produced by or belonging to U.S. majors – are more easily accessible than others.
+However, given the increasingly commercial nature of most private and public TV￾channels, it is likely that at least some rationality prevails, and that the public “gets
+what it expects”. Secondly, there is the time of the day during which a movie is
+shown. One may think that movies shown during prime-time should be given more
+importance than those shown after midnight. However, given that many households
+own video-recorders, this may not really be an issue today, since late movies (as
+well as early ones) can be recorded at very little cost.
+The data set that we constructed consists of the union of the following two
+sets of movies produced between 1950 and 1970: (1) productions which were
+distinguished by the U.S. Academy (nominees and Oscars for best movie and best
+foreign movie) or in Cannes (Palme d’Or and other equivalent awards); (2) movies
+which are included in five lists of “best movies of all times”, two of which are
+international, and three are national (British, American and German4). This makes
+for a total of 249 films for which we collected two sets of movie-guide ratings
+(Maltin, 1997; Tulard, 1997), box office data and number of broadcasts by 17
+channels in five European countries in the early 1990s. The database is described
+in more detail in the Appendix.
+In most of the analysis carried out in Section 3, the various quality indicators
+are aggregated, in order to produce results that are statistically meaningful. Awards
+are aggregated into five classes: (a) Palmes d’Or at the Cannes Festival, (b) Other
+Cannes awards, (c) Oscars for best movie, (d) Other U.S. awards (nominees for
+best movie and Oscars for best foreign movie) and (e) no award. Movies included
+in one of the five “best movie” lists are attributed a “1” for present (0 for absent)
+and these numbers are added, so that a movie that is present in m lists gets a mark
+of m ≤ 5 for the “list” variable. We did the same for box office data, attributing a
+“1” to a movie present in a box office list (and 0 otherwise), and added the “1” to
+obtain the “box office” variable.5
+In order to reduce the number of unrated movies by either Maltin or Tulard,
+we attributed to each movie the maximum between the two ratings, instead of
+averaging them, as would have been natural.6
+3. Analysis
+Before turning to the comparisons between evaluations, we provide some descrip￾tive statistics concerning the 249 movies of our sample.
+Table I provides an overview by country of production. As can be seen from the
+first two lines, American movies come out much better than others, though the U.S.
+produces less movies than Europe. The next line of the table shows the number of
+ON THE PERCEIVED QUALITY OF MOVIES 273
+Table I. Quality and country of production (no. of movies and “average” quality)
+France Italy Japan U.K. U.S. Other Total
+Annual production 130 185 540 110 270 . . . . . .
+In database 23 20 12 17 126 51 249
+Cannes (P.O.) and
+U.S. Academy (B.P.) 7 10 1 7 22 13 60
+Best movie lists
+>0 16 16 7 7 56 20 122
+Average (max. 5) 1.26 1.35 1.25 0.59 0.86 . . . 0.89
+Ratings
+≥3.5 13 12 8 16 97 20 166
+Average (max. 4) 3.41 3.32 3.46 3.68 3.59 . . . 3.41
+Box office
+>0 2 1 1 8 77 3 92
+Average (max. 3) 0.09 0.05 0.08 0.88 1.08 . . . 0.63
+Broadcasts
+>0 12 12 0 10 94 14 142
+Average 0.87 1.05 0.00 0.94 1.91 . . . 1.29
+Movies coproduced by two or more countries are not included.
+P.O. means Palme d’Or in Cannes and B.P. means Best Picture at the National
+Academy awards.
+movies which were awarded prizes in Cannes and by the U.S. Academy. American
+movies dominate but there is a slight bias since, the award for Best Movie is only
+given to films produced in the English language (note, however, that Oscars for
+Best Foreign Language Film of the Year are also included). Finally, for each type
+of evaluation (lists, ratings, box office and number of broadcasts), the table gives
+the number of movies which appear at least once (for ratings, it is the number
+of films whose marks are at least equal to 3.5) as well as averages: The average
+number of best movie lists or of box office lists in which a movie is present, the
+average rating, and the average number of TV shows.
+The table clearly indicates that American movies dominate in terms of “qual￾ity”, as judged by specialists and consumers, both in the short and the long run. The
+only exception is that French, Italian and Japanese movies are, on average, present
+in more best movie lists than American movies, but almost half of the movies
+(56/122) that appear in such lists are American.
+Table II is similar to Table I, but compares evaluations made for movies nom￾inated or rewarded in Cannes and by the U.S. Academy. Movies rewarded by the
+U.S. Academy are dominant: They do better than Cannes on all accounts. It is very
+interesting to note that there is an important number of movies (75) which were not
+274 VICTOR GINSBURGH AND SHEILA WEYERS
+Table II. Quality, Cannes and the U.S. Academy (no. of movies and “average”
+quality)
+Cannes U.S. Academy No Total
+P.O. Other B.P. Other award
+In database 24 41 21 98 75 259
+Best movie lists
+>0 10 8 10 24 75 127
+Average (max.5) 0.71 0.34 1.05 0.42 1.83 0.89
+Ratings
+≥3.5 15 11 20 74 54 174
+Average (max.4) 3.17 2.79 3.79 3.56 3.52 3.42
+Box office
+>0 5 3 19 55 15 97
+Average (max.3) 0.25 0.12 1.90 0.95 0.29 0.64
+Broadcasts
+>0 13 11 21 69 38 152
+Average 1.00 0.41 2.95 1.47 1.23 1.31
+The total number of movies is larger than 249, since 10 movies were awarded
+prizes both in Cannes and by the U.S. Academy.
+P.O. means Palme d’Or and B.P. means Best Picture.
+selected in Cannes or by the U.S. Academy (“No award”) and which do quite well
+one generation later. This is an issue to which we will come back.
+Most of the analysis which follows will essentially compare evaluations, the
+consistency of which can be checked according to two criteria:
+(a) Consistency between short- and long-run evaluations. How are movies
+chosen in Cannes and by the U.S. Academy evaluated later (agreement between
+awards and lists or ratings); how are top box office movies considered by con￾sumers many years later (agreement between box office receipts and broadcasting
+frequency).
+(b) Consistency between experts and consumers. Is there agreement between
+judgments made just after the movie was released (awards and box office receipts)
+and one generation later (lists, ratings and broadcasting frequency).
+We also compare evaluations made by experts across countries (for instance, do
+the U.S. and the U.K. lists agree; do the French and the U.S. ratings agree) and
+evaluations made by experts and consumers within a country (e.g. the U.S. list and
+the U.S. box office).
+Since the data are in the form of number of objects which fall in various cat￾egories (number of movies rated 0, 1, 2, etc.), we construct contingency tables and
+use nonparametric statistics, more specifically the χ2-test for independent samples
+ON THE PERCEIVED QUALITY OF MOVIES 275
+Table III. Consistency between short- and long-run evaluations
+Agree Agree Disagree χ2- Agreement
+on yes on no value “significant”
+Experts
+Awards and
+best movie lists 52 0 207 106.8 yes, but –
+Awards and
+ratings ≥ 3.5 58 54 140 0.5 no
+Consumers
+box office and
+broadcasts 75 90 84 34.2 yes +
+The value of χ2 (with 1 d.f.) at a probability level of 0.01 is 6.64.
+(see, e.g., Siegel, 1956). A word of caution is however necessary. The data at hand
+are not randomly drawn, but consist of a selection of 249 among some 20,000
+movies produced between 1950 and 1970. Therefore, the χ2-statistics and the test￾values that we give are merely indications of orders of magnitude and should be
+taken with a pinch of salt. Moreover, the power of the χ2-test decreases if too many
+cells in the contingency tables contain zeros. This led us to aggregate data into two
+categories (characteristic present or absent) and proceed with 2 × 2 contingency
+tables.
+3.1. SHORT- AND LONG-RUN EVALUATIONS
+Table III shows whether short-run evaluations, made in Cannes or in Hollywood,
+stand the test of time. The χ2-statistics show that there is little or no consistency
+between short- and long-run opinions (awards and ratings). But there is even worse
+since the association between the judgments expressed in best movie lists and those
+passed when awards were distributed is strong but negative.
+This leads us to believe that evaluations which are made shortly after the movie
+comes out are prone to fashion, if not to political or economic influence. If one
+follows art philosophers who claim that time plays an important role, this indicates
+that awards do not recognize artistic quality, since their discriminant power is short
+lasting, and they do not select the movies which will last, since many movies get
+listed later, but were not selected.
+Consumers seem to be more consistent in their evaluations, since box office
+receipts are strongly and positively correlated with the number of times a movie
+appears on television long after having been produced.
+276 VICTOR GINSBURGH AND SHEILA WEYERS
+Table IV. Consistency between experts and consumers
+Agree Agree Disagree χ2- Agreement
+on yes on no value “significant”
+Short run
+Awards and
+box office 82 60 117 12.7 yes +
+Long run
+Best movie lists
+and broadcasts 75 60 114 1.6 no
+Ratings ≥3.5
+and broadcasts 77 68 104 17.8 yes +
+Short and long run
+Best movie lists
+and box office 72 37 140 0.02 no
+The value of χ2 (with 1 d.f.) at a probability level of 0.01 is 6.64.
+3.2. MOVIE SPECIALISTS AND CONSUMERS
+The results of the comparisons beween evaluations made by movie experts and
+consumers are displayed in Table IV and show that awards are positively as￾sociated with box office receipts. This is in contrast with the rather surprising
+result in Hirschman and Pieros (1985), who conclude, though on the basis of ten
+observations only, that this correlation is negative.
+There is, however, a serious discrepancy between the judgments made by spe￾cialists and by consumers, as is apparent from the absence of association between
+best movie lists and TV-broadcasts and between lists and box office data. Note that
+this is not the case with ratings, but there are many more movies that are highly
+rated by Maltin and Tulard than there are movies appearing in best movie lists
+(each of which usually includes a hundred movies only).
+3.3. DO MOVIE SPECIALISTS AGREE
+In Table V, we compare all couples of “best movie” lists, as well as the French and
+the U.S. ratings. The association is strong (and positive) between the American and
+the British lists, which is not too surprising, and it is almost significant between the
+British choice and the one made for the Luxembourg film festival in 1995. In all
+other cases, there is no dissent, but no agreement either.
+ON THE PERCEIVED QUALITY OF MOVIES 277
+Table V. Consistency between experts
+Agree Agree Disagree χ2- Agreement
+on yes on no value “significant”
+U.S.–U.K. 11 193 45 10.6 yes +
+U.S.–Int. 4 185 60 0.0 no
+U.S.–Lux. 11 177 61 3.3 no
+U.K.–Int. 9 189 51 3.9 no
+U.K.–Lux. 13 178 58 6.8 yes +
+Int.–Lux. 10 174 65 1.4 no
+U.S.–Fr. 40 39 121 0.0 no
+“Lux.” refers to movies chosen by an international committee, and
+which were shown in Luxembourg in 1995. “Int.” refers to choices
+made by 37 film archives in 29 countries. See the appendix on the
+database for details. The value of χ2 (with 1 d.f.) at a probability level
+of 0.01 is 6.64.
+Table VI. Within country consistency of evaluations
+Agree Agree Disagree χ2- Agreement
+on yes on no value “significant”
+France
+Ratings ≥3.5
+and box office 14 27 190 0.1 no
+U.K.
+Best movie lists
+and box office 16 162 71 6.3 no
+U.S.
+Best movie lists
+and box office 20 162 67 15.7 yes +
+Ratings ≥3.5
+and box office 61 37 102 3.4 no
+Best movie lists
+and ratings ≥3.5 32 48 120 8.5 yes +
+The value of χ2 (with 1 d.f.) at a probability level of 0.01 is 6.64.
+278 VICTOR GINSBURGH AND SHEILA WEYERS
+3.4. WITHIN COUNTRY CONSISTENCY
+We now ask the same question as above, but concentrate on evaluations made
+by experts and consumers within the same country. Our results are displayed in
+Table VI and show that there is no within-country consistency either. The U.S. is
+however an exception, since in two of the three comparisons, there is agreement.7
+It is tempting to conclude that in the U.S., tastes seem to be more uniform over
+individuals and over time.
+4. Conclusions
+A first outcome of our analysis is that the quality assessments made during the
+Cannes Festival, and to a lesser degree, by the U.S. Academy are short-lasting.
+From the 174 movies rewarded or nominated between 1950 and 1970, only 47
+belong to the 122 movies produced during these years and selected, later on, as
+best movies. This could be seen as a consequence of the increasing number of
+movies over time, leaving less room for older movies, which end up disappearing
+from best movie lists (usually, limited to one hundred titles) established much later.
+But this does not explain why 75 out of the 122 movies considered as best movies
+nowadays received no award (and were not even nominated). Judges in Cannes and
+Hollywood are thus both short-sighted and unselective: They cannot discriminate
+between good quality movies and other movies. This is similar to what happens
+for other forms of art, such as paintings, where the appreciation of what is qual￾ity also changes over time: Some artists or entire schools (e.g., the 17th Century
+Bolognese painters, or the Pre-raphaelites, between 1900 and 1960) get forgotten,
+while others, such as Greco or Vermeer are rediscovered (see, e.g., Haskell, 1980).
+In contrast to this, consumers seem to be more time-consistent, since box office
+receipts remain positively associated with the number of times a movie is shown
+on television one generation later.
+Consumers and experts agree when movies come out: Award-winning pictures
+are ranked high in box office statistics, but this may be due to many other factors
+than quality. There is less agreement some years later, and the two groups seem
+either to value different attributes or value differently the same attributes.
+There is, however one issue on which there is an international consensus among
+experts and consumers: American movies dominate both in terms of commercial
+success and in terms of long-lasting quality, since 56 out of a total of 122 best
+movies are American. Even if consumers are likely to be influenced by the power,
+the marketing and the organization of the American film industry, one may hope
+that experts are less so, especially one generation after the movie is out.
+But, being “American” is not a quality per se. In the spirit of Lancaster (1966), it
+should be possible to decompose works of art into basic characteristics which could
+be quantified by as many experts as possible, even if this judgment is subjective (re￾call suggestion (ii) above made by philosophers). It is then the varying appreciation
+over time – by consumers as well as by experts – of each characteristic that could
+ON THE PERCEIVED QUALITY OF MOVIES 279
+explain the differences in the appreciation of global quality, seen as a weighted
+combination of characteristics. In this way, some of the “horizontal” qualities of
+works of art can be made “vertical”. This is probably what, long before Lancaster,
+the French art historian de Piles (1708) had in mind when he wrote that8 “the true
+understanding of painting consists in knowing whether a picture is good or bad, in
+distinguishing between that which is good in a certain work and that which is bad,
+and in giving reasons for one’s judgment”. This led him to grade on a scale of 20,
+characteristics such as composition, drawing, color and expression, for a group of
+painters, and rank them accordingly.
+For movies, an answer in this direction is given by D. Moïsi, deputy director
+of the Paris-based Institut Français des Relations Internationales. Writing about
+the triumph of American culture, and more specifically about the universality of
+American movies, he suggests that9 “[. . . ] The success of Hollywood, beyond pure
+economic factors, can be attributed to two main things: On the one hand, the nature
+of the message, and on the other, its ubiquity and familiarity. From the master￾pieces of Frank Capra [. . . ] to Stephen Spielberg [. . . ], the message is the same –
+individuals can make a difference. If you want to do it, you can. This triumph of
+the individual [. . . ] is universal. It contrasts drastically with the French romance:
+A loves B, who loves C, who loves D”.
+Appendix. The Database
+The data set that we constructed consists of the union of the following sets of
+movies produced between 1950 and 1970.
+(a) U.S. Academy Awards. Movies which were awarded an Oscar for “Best
+Picture of the Year” as well as those nominated for that Oscar (without necessarily
+receiving it); all the movies which won the Oscar for “Best Foreign Language Film
+of the Year”. The list includes 21 Best Picture awards, 84 other nominated and 15
+Best Foreign awards (which are awarded since 1956 only). See Annual Academy
+Awards (1998).
+(b) Cannes Festival. Movies which were awarded one of the following awards
+at the Cannes Festival: “Palme d’Or” (“Grand Prix du Festival International du
+Film” before 1955), “Prix Spécial (du Jury)”, “Mention exceptionnelle” and “Prix
+International”, “Prix de la Critique Internationale” depending on the years, since
+mentions keep changing. No awards were attributed in 1950 and 1968. The data
+include 24 Palmes d’Or (on several occasions, more than one Palme d’Or was
+awarded) and 41 other awards. See Toscan du Plantier (1997).
+(c) “Best movies of all time.” Movies which were listed in a certain number of
+“best movies of all time” lists; we were able to retrieve two “international” lists,
+and three “national” lists produced in the U.K., the U.S. and Germany:10
+− Cinémathèque Municipale du Luxembourg (1995). This list of 100 movies
+was set up as follows: 100 international key figures of the movie world were
+280 VICTOR GINSBURGH AND SHEILA WEYERS
+each asked to quote “their preferred movie”. All the movies so chosen (100 in
+total) were shown by the Cinémathèque Municipale de Luxembourg in 1995,
+year during which the city of Luxemburg had been selected as European City
+of Culture. Out of this total of 100 movies, 50 were produced between 1950
+and 1970.
+− Fédération Internationale des Archives du Film (FIAF) (1995). This list of
+movies was set up as follows: 37 film archives (belonging to 29 countries)
+were asked to select as many movies as they wished, to represent what they
+thought to be “the best movies in the world”. We selected the 110 movies that
+received the largest number of votes (5 or more).11 Out of this total, 35 were
+produced between 1950 and 1970.
+− Norman (1992). This is a choice made by B. Norman for the U.K. Out of the
+total of 100 movies, 34 movies were produced between 1950 and 1970.
+− Movie Guide (1997). This list contains 100 “best movies of all time”, selected
+by U.S. movie critics; 33 were produced between 1950 and 1970.
+− Koelsner (1995). These four volumes contain “best movies” chosen by a
+group of German specialists, but since the number of films listed is much
+larger than 100, we discarded all those which were not included in any of the
+previous lists. No new movie is thus added to the previous ones; the German
+list includes 69 movies.
+This produced a list of 249 movies. For each of these, we added three extra pieces
+of information:
+(a) Box office information. We included box office statistics for the U.K., the
+U.S. and France. See Swern (1995) for the U.K., Reynolds (1995) for the U.S. and
+Alion (1991a,b) for France. Unfortunately, the three sources give very different
+views on box office numbers. For the U.K., we were able to retrieve only the titles
+of the ten top movies for every year (210 movies); for the U.S., the list included
+over 3,000 movies; for France, the only consistent list (there exist other lists, but
+these are marred with inconsistencies) that we could find included the top 75 box
+offices for movies produced between 1956 and 1970. We eventually opted for the
+following choice: since there were no attendance numbers available for the U.K.,
+we only introduced information as to whether the movie was listed or not in the
+box office list. Among the 249 movies selected above, 69 were in the U.K. list of
+210 box office movies, 74 in the top 210 list for the U.S., and 15 in the top 75
+list for France. This introduced an unavoidable asymmetry on box office statistics;
+the information which is provided by aggregate box office numbers should thus be
+taken with some care.
+(b) TV broadcasts. We also computed the number of times each movie was
+shown on the following (freely accessible) TV-channels over the years 1989, 1990
+and 1992 to 199412:
+ON THE PERCEIVED QUALITY OF MOVIES 281
+− Belgium (French speaking channels): RTB (public) and RTB2-Télé 21 (pub￾lic), RTL (private).
+− Belgium (Dutch speaking channels): TV1 (public), TV2 (public), VTM
+(private).
+− France: Antenne 2 (France 2 since 1992) (public), France 3 (public), TF1
+(private).
+− Germany: ARD (public), ZDF (public).
+− Netherlands: NL1 (public), NL2 (public), NL3 (public).
+− United Kingdom: BBC1 (public), BBC2 (public).
+− France and Germany: ARTE (public).
+(c) Ratings by experts. Finally, we included quality (number of stars) given in two
+well-known movie guides, Maltin (1997) and Tulard (1997). Maltin is American
+while Tulard is French, but, of course, they both discuss and rate “foreign” movies.
+Maltin attributes 0 (actually, this is what he qualifies as BOMB), 1.5, 2, 2.5, 3,
+3.5 or 4 stars. Tulard’s classification is somewhat more coarse; he awards 0, 1,
+2, 3 or 4 stars. Note that it was not always possible to retrieve this information
+for the following reasons: (a) some movies are simply not included in the guides;
+(b) Maltin’s guide only gives the title under which the movie was shown in the
+U.S. and, sometimes, we could not find Maltin’s rating if only the original title (in
+Japanese, Indian, Swedish, French, etc.) was available.
+Notes
+?
+We thank O. Ashenfelter and C. Croux for discussions on quality in art, wines, and nonpara￾metric statistics, as well as Pascal Courty, Marie-Paule Orban, Ruth Towse and an anonymous
+referee for comments on previous versions, and for references. We are also grateful to Ms.
+Corbisier from Télé-Moustique, Brussels, M. Covents, Centre de Documentation Catholique,
+Brussels, J.P. Dorchain, Cinémathèque Royale de Belgique, Brussels, R. Laudrin, Centre Na￾tional de la Cinématographie, Paris, for their help in retrieving information and data. The
+paper was presented at the Tenth Conference on Cultural Economics in Barcelona, June
+1998. Financial support from the Belgian Government under contract PAI P4/01 is gratefully
+acknowledged.
+1. See e.g., Gabszewicz and Thisse (1986) for a good exposition of the distinction between vertical
+and horizontal differentiation.
+2. See, however, the very controversial, but historically important, analysis by de Piles (1708).
+3. See also the interesting paper by Cameron (1995) on the “theoretical” role of art critics.
+4. According to the Centre National de la Cinématographie in Paris, no such list exists for France.
+5. It would have been more meaningful to add audiences, but these were available for the U.S. and
+France only, and not for the U.K.
+6. This reduces the number of unrated movies to a total of 7 out of 249. Note that even 7 is a
+surprisingly large number, since each movie in our data comes either from a “best movies” list
+or was attributed an award.
+7. For France and the U.K., available data allow for one comparison only.
+8. We borrow the translation from Rosenberg (1969, p. 33).
+282 VICTOR GINSBURGH AND SHEILA WEYERS
+9. See The Financial Times, 12 February 1998.
+10. According to the Centre National de la Cinématographie in Paris, no such list exists for France.
+11. 110 movies received five votes or more, and only 81 received six or more votes; this forced us
+to select among 110 and not among 100 titles.
+12. The year 1991 is missing, since the original data were not available in a convenient form.
+References
+Alion, Y. (1991a) “Le feuilleton du cinéma”. La Revue de Cinéma 471: 61–69.
+Alion, Y. (1991b) “Le feuilleton du cinéma”. La Revue de Cinéma 473: 65–70.
+Annual Academy Awards (1998), www.oscar.com/.
+Budd, M. (1995) Values of Art. Penguin, London.
+Cameron, S. (1995) “On the Role of Critics in the Culture Industry”. Journal of Cultural Economics
+19: 321–331.
+Cinémathèque Municipale du Luxembourg (1995) 100 Chefs-d’oeuvre pour un Centenaire. Luxem￾bourg.
+de Piles, R. (1708) Cours de Peinture par Principes. Paris.
+de Vany, A. and Walls, W. (1996) “Bose-Einstein Dynamics and Adaptive Contracting in the Motion
+Picture Industry”. Economic Journal 106: 1493–1511.
+de Vany, A. and Walls, W. (1997) “The Market for Motion Pictures: Rank, Revenue and Survival”.
+Economic Inquiry 35: 783–797.
+Eliashberg, J. and Shugan, S. (1997) “Film Critics: Influencers or Predictors?”. Journal of Marketing
+61: 68–78.
+Fédération Internationale des Archives du Film (FIAF) (1995) The Categories Game: A Game for the
+Cinema Centenary. FIAF’s Commission for Programming and Access to Collections, Lisbon.
+Gabszewicz, J.J. and Thisse, J. (1985) “On the Nature of Competition with Differentiated Products”.
+Economic Journal 96: 160–172.
+Gyory, M. and Glas, G. (1992) Statistiques du Cinéma en Europe. Cerica, Brussels.
+Haskell, F. (1980) Rediscoveries in Art. Some Aspects of Taste, Fashion and Collecting in England
+and in France. Phaidon Press, London.
+Hirschman, E. and Pieros, A. (1985) “Relationships Among Indicators of Success in Broadway Plays
+and Motion Pictures”. Journal of Cultural Economics 9: 35–63.
+Jimenez, M. (1997) Qu’est-ce que l’Esthétique? Gallimard, Paris.
+Koelsner, Th. (ed.) (1995), Film Klassieker. Vol. 2 and 3, P. Reklam jun., Stuttgart.
+Krider, R. and Weinberg, C. (1998) “Competitive Dynamics and the Introduction of New Products:
+The Motion Picture Timing Game”. Journal of Marketing Research 35: 1–15.
+Lancaster, K. (1966) “A New Approach to Consumer Theory”. Journal of Political Economy 74:
+132–157.
+Maltin, L. (1997) Movie & Video Guide 1998. Penguin, New York.
+Movie Guide (1997) “Critics Picks: 100 Best Movies of All Time”. www.mr.showbiz.com.
+Norman, B. (1992) 100 Best Films of the Century. Chapman’s, London.
+Prag, J. and Cassavant, J. (1994) “An Empirical Study of the Determinants of Revenues and
+Marketing Expenditures in the Motion Picture Industry”. Journal of Cultural Economics 18:
+217–235.
+Reynolds, Ch. (1995) Hollywood Power Stats. Cineview Publ., Valley Village, CA.
+Rosenberg, J. (1969) On Quality in Art. Phaidon Press, London.
+Sawhney, M. and Eliashberg, J. (1996) “A Parsimonious Model for Forecasting Gross Box-Office
+Revenues of Motion Pictures”. Marketing Science 15: 113–131.
+Siegel, S. (1956) Nonparametric Statistics for the Behavioral Sciences. McGraw-Hill, New York.
+ON THE PERCEIVED QUALITY OF MOVIES 283
+Smith, S. and Smith, K. (1986) “Successful Movies: A Preliminary Empirical Analysis”. Applied
+Economics 18: 501–507.
+Swern, P. (1995), The Guiness Book of Box Office Hits. Guiness Publ., London.
+Throsby, D. (1990) “Perception of Quality in the Demand for Theatre”. Journal of Cultural
+Economics 14: 65–82.
+Toscan du Plantier, D. (1997) Cinquante Ans du Festival de Cannes. Editions Ramsey, Paris.
+Tulard, J. (1997) Guide des Films. Robert Laffont, Paris.
+Unesco (1970) Film and Cinema Statistics. Unesco, Paris.
+Unesco (1981) Statistics on Film and Cinema 1955–1977. Unesco, Paris.
+Wallace, W., Seigerman, A. and Holbrook, M. (1993) “The Role of Actors and Actresses in the
+Success of Films: How Much is a Movie Star Worth?”. Journal of Cultural Economics 17: 1–27.

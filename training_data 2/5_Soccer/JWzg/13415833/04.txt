@@ -1,0 +1,234 @@
+Physical Demands of Different Positions in FA Premier League Soccer
+Jonathan Bloomfield,✉,1,* Remco Polman,2,* and Peter O'Donoghue3,*
+Author information Article notes Copyright and License information PMC Disclaimer
+Abstract
+The purpose of this study was to evaluate the physical demands of English Football Association (FA) Premier League soccer of three different positional classifications (defender, midfielder and striker). Computerised time-motion video-analysis using the Bloomfield Movement Classification was undertaken on the purposeful movement (PM) performed by 55 players. Recognition of PM had a good inter-tester reliability strength of agreement (κ= 0.7277). Players spent 40.6 ± 10.0% of the match performing PM. Position had a significant influence on %PM time spent sprinting, running, shuffling, skipping and standing still (p < 0.05). However, position had no significant influence on the %PM time spent performing movement at low, medium, high or very high intensities (p > 0.05). Players spent 48.7 ± 9.2% of PM time moving in a directly forward direction, 20.6 ± 6.8% not moving in any direction and the remainder of PM time moving backward, lateral, diagonal and arced directions. The players performed the equivalent of 726 ± 203 turns during the match; 609 ± 193 of these being of 0° to 90° to the left or right. Players were involved in the equivalent of 111 ± 77 on the ball movement activities per match with no significant differences between the positions for total involvement in on the ball activity (p > 0.05). This study has provided an indication of the different physical demands of different playing positions in FA Premier League match-play through assessment of movements performed by players.
+
+Key points
+Players spent ~40% of the match performing Pur-poseful Movement (PM).
+Position had a significant influence on %PM time spent performing each motion class except walking and jogging. Players performed >700 turns in PM, most of these being of 0°-90°.
+Strikers performed most high to very high intensity activity and most contact situations.
+Defenders also spent a significantly greater %PM time moving backwards than the other two posi-tions.
+Different positions could benefit from more specific conditioning programs.
+Key words: Match-play, agility, time-motion analysis, video analysis.
+Go to:
+Introduction
+The management of the physical and physiological status of elite soccer players relies on detailed knowledge regarding the demands of performance. Time-motion analysis is a useful method to quantify the physical demands of individual players during match-play (Rienzi et al., 2000). A main advantage of the non-intrusive method is the production of data concerning durations, frequencies and percentages of various modes of motion and, if pitch measurements are known, distances covered by the players may also be calculated (Reilly, 1997). In turn, this provides crude measurements of energy expenditure through determining exercise-to- rest ratios and intensities of play as well as direct match involvement (e.g. dribbling).
+
+A hybrid of studies involving the investigation of a variety of players, positions, levels and competitions have produced a wide range of time-motion analysis reports (e.g. Di Salvo and Pigozzi, 1998; Reilly and Thomas, 1976; Rienzi et al., 2000). Also, significant differences in age, stature, body mass and body mass index have been recently identified between elite players of different positions suggesting that players of particular size and shape may be suitable for the demands of the various playing positions (Bloomfield et al., 2005). In this respect, positional role appears to have an influence on total energy expenditure in a match, suggesting different physical, physiological and bioenergetic requirements are experienced by players of different positions (Di Salvo and Pigozzi, 1998; Reilly and Thomas, 1976; Reilly, 1997). The greatest overall distances appear to be covered by midfield players who act as links between defence and attack (Reilly and Thomas, 1976; Rienzi et al., 2000). Bangsbo, 1994b reported that elite defenders and forwards (known as strikers in this paper) covered approximately the same mean distance (10-10.5km), but this was significantly less than that covered by the midfield players (11.5km). However, the use of distance covered to assess energy expenditure may be limited as the paradigm is based on the assumption that exertion occurs only when the player significantly changes location on the playing surface. Data is therefore omitted concerning activity performed in non-locomotive circumstances including whole body movements such as vertical jumps, turns, physical contacts with opponents as well as unorthodox movements (e.g. backwards and lateral movements, shuffling, diving, getting up from the ground) and soccer specific movements (e. g. heading, blocking) This perhaps oversimplifies a complex exercise pattern and provides an underestimation of total energy expenditure (Reilly, 1997). In addition, measurement error has been observed in methodologies to quantify distance covered with overestimations of approximately 5.8% in computer-based tracking and 4.8% in global positioning systems (Edgecomb and Norton, 2006). The combination of these errors questions the ecological validity of measuring distance covered to quantify this exercise pattern.
+
+Soccer has been described as stochastic, acyclical and intermittent with uniqueness through its variability and unpredictability (Nicholas et al., 2000; Wragg et al., 2000). It has been estimated that approximately 80-90% of performance is spent in low to moderate intensity activity whereas the remaining 10-20% are high intensity activities (Bangsbo, 1994a, 1997; O'Donoghue, 1998; Reilly and Thomas, 1976; Rienzi et al., 2000). However, the repeated random bouts of high intensity anaerobic and aerobic activity producing elevations in blood lactate concentration are mainly responsible for fatigue in match-play (Reilly, 1997). In this respect, the frequent alterations of activities, numerous accelerations and decelerations, changes of direction, unorthodox movement patterns and the execution of various technical skills significantly contribute to energy expenditure (Bangsbo, 1997; Reilly, 1997). It is estimated that between 1000 and 1500 discrete movement changes occur within each match at a rate of every 5-6s, having a pause of 3s every 2min (Reilly, 2003; Strudwick et al., 2002). To report this, studies have investigated a range of movement activities such as walking, jogging, cruising, sprinting, backwards and lateral movements (e.g. Bangsbo, 1997; Mohr et al., 2003; Reilly and Thomas, 1976). The most recently cited values are in top-class level Danish soccer with observations made in standing 19.5%, walking 41.8%, jogging 16.7%, running 16.8%, sprinting 1.4%, and other 3.7% (Mohr et al., 2003). Previously in FA Premier League soccer, Drust et al. (2000) discovered a mean number of 19 sprints within match-play which occurred every 4-5min and Strudwick and Reilly (2002) observed an average change in activity every 3.5s, a bout of high-intensity activity every 60s, and a maximal effort every 4 minutes. Midfield players appear to engage in low to moderate intensity activity more frequently, and for longer durations (Bangsbo, 1994a) and also being stationary for significantly less time than the other outfield players (O'Donoghue, 1998) corresponding to the further distances covered than defenders and strikers. However, strikers have been found to perform the most maximal sprints and for longer durations, followed by midfielders and defenders (O'Donoghue, 1998). Rienzi et al., 2000 also identified that defenders perform more backward movement than strikers with high intensity backwards and lateral movement requiring an elevated energy expenditure of 20-40% in comparison to forward running (Reilly, 2003; Williford et al., 1998). Furthermore, different soccer related activities such as slide tackling, powerful heading, and long passing provide an extra physiological stress to the player (Bangsbo, 1994b) with different playing positions having to perform specific activities for different proportions of match time. For example, strikers and centre backs are significantly more engaged in situations were they have to jump or are required to head the ball whereas defenders tend to make more tackles (Reilly, 2003; Bangsbo, 1994a). Furthermore, an added exertional cost from dribbling a soccer ball has been reported at 5.2 kJ·min-1 (Reilly, 2003).
+
+Finally, time-motion analysis studies in soccer have reported a summary of the physical requirements by reporting the overall frequency, total and mean duration of motions, average and peak physiological outputs and total distances covered. To progress this knowledge it is important to further investigate aspects within match-play and provide a higher level of specific detail. In his respect, previous methods have not addressed the agility requirements of the game through analysing direction of movement or the frequency of turns within movements. These are important aspects of the game to consider in order to achieve a complete representation of requirements of play (Buttifant et al., 2002). Through acquiring this knowledge it becomes possible to facilitate superior methods of physical and physiological management of players. The aim of this present study was to provide a detailed time- motion analysis of the activity performed during purposeful movement in soccer.
+
+Go to:
+Methods
+Subjects
+Data were collected on professional players from 3 positional groups (defenders, midfielders, strikers) representing various English FA Premier League clubs during the 2003-2004 season from publicly televised matches (Sky Sports, British Sky Broadcasting Group, UK). Ethical approval was granted by committees from the University of Hull and Leeds Metropolitan University. A total of 55 players (18 defenders, 18 midfielders, 19 strikers) from 12 different teams were selected for analysis in the study. Players selected had a mean number of 36.35 ± 25.21 full international appearances for their respective nations at the time of observation.
+
+Procedures
+Individual players were observed and recorded (DVD+R) using a 'PlayerCam' Service (an interactive facility providing a separate camera focused solely upon a single player for a 15min period on 6 occasions throughout a 90min match) which provided clear, unobstructed and close images from an elevated position. Six players were followed by PlayerCam during a match (0- 15min, 15-30min, 30-45min, 45-60min, 60-75min, 75-90min) with the choice of players viewed selected by Sky Sports. As it was unknown as to which players would be chosen by Sky Sports, it was aimed to include 3 different individual players from each positional group for each of the six 15min match periods. The criteria for inclusion were that all players chosen for analysis completed the entire PlayerCam period, they had been on the field from the start of the match and there were no stoppages in play longer than 30s. Players were automatically recruited immediately once the criteria had been achieved and the randomisation provided by Sky Sports eliminated any bias from this study. The Observer system Version 5.1 (Noldus Information Technology, The Netherlands) was selected as the platform for computerised time-motion analysis. This video analysis package provided the facility to enter a timed action (behavior), a non-timed action (event) and up to two descriptors (modifier). The work-station was based in a well-heated research laboratory mounted on a non-reflective surface beside a window with blinds reducing primary and secondary glare. The 15inch screen was set at seated eye level and observers viewed no closer than 40inches (Jaschinski- Kruza, 1988). A maximum of two hours was set for periods of observation to reduce symptoms of eyestrain (Atencio, 1996). In addition, observers took regular 'eye-breaks' by looking away from the screen for a few minutes. This enabled optimal cognitive functioning when coding and enhanced quality of data entry.
+
+Video analysis
+It is recognised that players perform all movements within match-play with some form of intent. In general the movements in soccer may be recognised by those made in possession of the ball, competing for the ball, evading opponents in order to become available to receive the ball, supporting team mates in possession of the ball, tracking and channelling opponents who are in possession or might receive the ball as well as technical and tactical positioning movements. In this study, all these timed-movements were grouped together and labelled as 'purposeful'. The recorded PlayerCam footage of the 55 players was filtered for 'purposeful movements' (PM) using video analysis. The reliability of PM was assessed by 8 independent observers, each with at least ten years experience of playing soccer. The same three 15min PlayerCam observations of FA Premier League players (1 defender, 1 midfielder, 1 striker) were assessed twice at least a week apart. This gave a total of 24 pairs of observations for the purposes of intra-observer reliability assessment, 84 pairs of observations for inter- observer reliability assessment for the first observation period (pre-) and 84 pairs of observations for inter-observer reliability assessment for the second test (post-). The observers familiarised with the coding process in The Observer system Version 5.1 through a practical based workshop and were verbally presented the definition of PM without any visual examples provided. Each observer was blind to all other observers. Short sections (usually less than 15s) of the footage were initially viewed at 1x normal speed and subsequently replayed for data entry. A frame rate of 0.04s was selected for playback and the video was paused and scrolled to give an accurate perceived start and finish time of PM. A high degree of reliability existed with Kappa (κ) values ranging between 0.91-0.98 for intra-observer reliability and 0.85-0.96 for inter-observer reliability (with a pre-test mean of 0.89 and post-test mean of 0.92) each of which are interpreted as very good strengths of agreement (Altman, 1991). Further manual assessment of quality was also regularly made during the video analysis process through playback of the recorded data in the Event Log. In this respect, any coding errors identified by each observer on their own work were subsequently rectified by the observer.
+
+These movements were subsequently coded using the Bloomfield Movement Classification (BMC) for time- motion analysis (Bloomfield et al., 2004). This method provides detail on locomotive and non-locomotive movements as well as direction, intensity, turning/swerving and 'on the ball' activity. The BMC has been shown to have a good inter- tester reliability strength of agreement for movement type (κ= 0.7277), direction of movement (κ= 0. 6968), intensity of movement (κ= 0.7062) and games related activity (κ= 0.7891) and a moderate strength of inter-observer agreement for turning (κ= 0.5639) (Bloomfield et al., 2007). A summary of the method is presented in Table 1.
+
+Table 1.
+The 'Bloomfield Movement Classification' behaviours and modifiers.
+
+BEHAVIORS (Modifiers in parenthesis)	MODIFIERS
+1. TIMED
+Motion
+Sprint (A+B), Run (A+B), Shuffle (A+B), Skip (A+B), Jog (A+B), Walk (A), Stand Still, Slow Down (A+B), Jump (C), Land, Dive (D), Slide (D), Fall, Get Up (B)
+Initial Channel
+Start of Observation	(A) Direction
+Forwards, Forwards Diagonally Right/Left, Sideways Right/Left, Backwards, Backwards Diagonally Right/Left, Arc Forwards Left to Right/Right to Left, Arc Backwards Left to Right/Right to Left, Arc Sideways Right/Left
+(B) Intensity
+Low, Medium, High, Very High
+(C) Jump
+Vertical, Forwards, Backwards, Sideways (E)
+(D) Dive
+Feet first, Head first
+(E) Turn
+Right/Left
+(F) Type
+Push, Pull, Pushed, Pulled, Other
+(G) Control
+Right/Left foot, Head, Chest, Thigh, Other
+(H) Pass/Shoot
+Long Air, Short Air, Long Ground, Short Ground, Other
+(I) How
+Right/Left Foot, Header, Backheel, Overhead, Other
+(J) Dribble
+Start, End
+K) Touches
+Start,1-3, 4-6, 7-10, >10
+2. INSTANTANEOUS (NON-TIMED)
+Other Movement
+Stop (B), Swerve (E), Impact(F+B)
+Turns
+00-900(E)
+900-1800(E)
+1800-2700(E)
+2700-3600(E)
+>3600(E)
+On the Ball Activity
+Receive (G), Pass (H+I), Shoot (H+I), Dribble (J+K), Tackle, Trick, Other
+Open in a separate window
+Statistical analysis
+The three positional groups were compared using a series of Kruskal Wallis H tests. Where a significant positional effect was found (p < 0.05), Mann-Whitney U tests were used to compare each pair of positions.
+
+Go to:
+Results
+Purposeful movement periods
+The 55 players included in the study performed a total of 1563 PMs. Table 2 illustrates that position had a significant influence on the mean duration of PMs. Follow up Mann Whitney U tests revealed that the duration of PMs performed by strikers was significantly shorter than those performed by defenders and midfielders (p < 0.05) and that strikers performed significantly fewer PMs of over 15s than defenders and midfielders (p < 0.05).
+
+Table 2.
+Summary comparison of positional groups, PMs and non-PMs of different durations. Data are means (±SD).
+
+Variables	Position		
+Striker (n=19)	Midfielder (n=18)	Defender (n=18)	All (n=55)	H2	p
+%Time spent performing PM	35.8 (8.0)	44.5 (12.5)	41.9 (7.0)	40.6 (10.0)	5.9	.050
+Frequency of PMs	28.6 (3.3)	28.6 (4.4)	28.1 (5.2)	28.4 (4.3)	.2	.926
+Mean PM duration (s)	11.5 (3.2) *	14.0 (3.2)	13.8 (2.6)	13.1 (3.2)	8.0	.018
+Mean non-PM duration (s)	21.4 (3.6)	19.1 (6.5)	20.8 (5.5)	20.4 (5.3)	2.3	.323
+Frequency of PMs over 15s	6.3 (4.3) *	9.5 (4.0)	9.8 (4.1)	8.5 (4.4)	6.8	.033
+Open in a separate window
+Follow up Mann Whitney U tests:
+
+* significantly different to both other positions.
+
+Detail of Purposeful Movements
+Table 3 shows the detail of the time-motion analysis of PMs for the 55 players according to the BMC. Position had a significant influence on the percentage of time during PM spent standing still, running, sprinting, skipping, shuffling and performing 'other' timed movement (jumping, landing, diving, sliding, slowing down, falling and getting up). There were no significant differences between the positions for the percentage of PM time spent walking or jogging. Figure 1 shows the %PM time of different levels of intensity of each of the motions. Positional group had no significant influence on the proportion of PM time spent performing activity at low, medium or very high intensities. However, there was a significant influence of position on the proportion of PM time spent performing high intensity activity (H2 = 9.9, p = 0.007) with the 27.3 ± 12.4% of PM time spent performing high intensity activity by strikers being significantly greater than the 14.2 ± 9.8% performed by midfielders (p < 0.001).
+
+An external file that holds a picture, illustration, etc.
+Object name is jssm-06-63-g001.jpg
+Figure 1.
+Time-motion and intensity analysis of PM performed by players of different positions.
+
+Table 3.
+%PM time of motions performed by players of different positions. Data are means (±SD).
+
+Variables	Position		
+Striker (n=19)	Midfielder (n=18)	Defender (n=18)	All (n=55)	H2	p
+Standing	5.3 (3.5)	2.1 (1.6) *	6.3 (2.5)	4.6 (3.2)	22.4	<0.001
+Walking	14.1 (3.8)	12.8 (4.2)	15.8 (4.5)	14.2 (4.3)	3.6	0.163
+Jogging	24.7 (8.7)	28.3 (12.0)	31.5 (6.8)	28.1 (9.6)	4.6	0.101
+Running	11.1 (4.5)	14.6 (9.2)	7.6 (3.6) *	11.1 (6.8)	9.6	0.008
+Sprinting	5.5 (3.3)	6.4 (3.1)	2.5 (1.3) *	4.8 (3.2)	17.4	<0.001
+Skipping	8.3 (2.8)	9.1 (3.8)	12.3 (6.2) *	9.9 (4.7)	8.3	0.016
+Shuffling	9.5 (1.6)	7.9 (2.1) *	10.5 (3.2)	9.3 (2.6)	8.0	0.018
+Other	21.5 (7.7)	18.8 (5.6)	13.6 (8.0) *	18.1 (7.8	7.8	0.020
+Open in a separate window
+Follow up Mann Whitney U tests:
+
+* significantly different to both other positions.
+
+Tables 4 and 5 show the directions travelled within the analysed motion. The directions shown in Table 4 exclude the remaining diagonal and arced directions which were used for only 5.7% of observed PM time altogether. Kruskal Wallis H tests also revealed significant differences between the playing positions for the %time of each PM spent moving directly backwards, lateral left and lateral right (Table 4). Position had no significant influence on the percentage of each PM in any of the other directions.
+
+Table 4.
+%Time of direction travelled within PM performed by players of different positions. Data are means (±SD).
+
+Variables	Position		
+Striker (n=19)	Midfielder (n=18)	Defender (n=18)	All (n=55)	H2	p
+Directly forwards	46.9 (10.1)	54.1 (7.5)	45.3 (7.7)	48.7 (9.2)	.4	.827
+Directly backwards	5.6 (2.7)	5.2 (2.8)	10.1 (3.5) *	7.0 (3.7)	22.2	<.001
+Lateral left	3.7 (1.6)	3.4 (1.4)	6.5 (2.9) *	4.5 (2.5)	16.0	<.001
+Lateral right	3.5 (1.6)	3.2 (1.7) †	5.0 (3.0) †	3.9 (2.3)	6.3	.044
+Forward diagonal left	4.5 (1.7)	4.9 (2.0)	4.5 (2.2)	4.6 (1.9)	1.1	.574
+Forward diagonal right	5.4 (2.2)	4.4 (2.7)	5.1 (2.9)	5.0 (2.6)	4.5	.106
+None	24.4 (6.6) *	18.8 (5.1)	18.3 (7.0)	20.6 (6.8)	8.3	.015
+Open in a separate window
+Follow up Mann Whitney U tests:
+
+* significantly different to both other positions
+
+† pair of positions annotated is significantly different.
+
+Table 6 contains the frequency of turns and swerves within match-play based on the product of number of PMs and the number of turns performed per PM. Players performed a total of 727 ± 203 turns and swerves during match-play. Position had a significant influence on the total number of turns and swerves performed (H2 = 9.1, p = 0.010) with midfielders performing significantly fewer turns and swerves than defenders and strikers (p < 0.05). Position had a significant influence on the number of 0° to 90° left, 0° to 90° right and 270° to 360° left turns made in a match. Position also had a significant influence on the number of swerve left movements made per match. The frequency per match of the remaining turns or swerves were not significantly different between the positions.
+
+Table 6.
+Frequency of turning and swerving within a match performed by players of different positions. Data are means (±SD).
+
+Variables	Position		
+Striker (n=19)	Midfielder (n=18)	Defender (n=18)	All (n=55)	H2	p
+0-90° right	323.7 (105.1)	248.3 (97.3) *	344.3 (91.0	305.8 (104.7)	9.2	.010
+0-90° left	302.2 (81.2)	243.0 (93.5) *	364.3 (88.4	303.2 (99.3)	14.3	.001
+90-180° right	43.3 (15.6)	49.3 (25.0)	43.0 (16.8	45.2 (19.4)	.2	.898
+90-180° left	51.5 (13.9)	47.0 (24.5)	49.3 (21.4	49.3 (20.1)	1.1	.578
+180-270° right	2.5 (4.2)	4.7 (3.9)	2.3 (3.0	3.2 (3.8)	4.6	.098
+180-270° left	2.2 (3.6)	3.0 (4.7)	2.0 (2.9	2.4 (3.8)	.2	.926
+270-360° right	1.3 (2.5)	.7 (1.9)	.0 (.0)	.7 (1.9)	4.1	.126
+270-360° left	.6 (1.9)	2.3 (3.6)	.0 (.0)	1.0 (2.5)	8.4	.015
+Swerve right	8.5 (8.3)	5.7 (7.3)	7.7 (6.4)	7.3 (7.4)	1.7	.424
+Swerve left	12.0 (9.6) †	4.0 (6.5) †	9.3 (10.3)	8.5 (9.4)	8.4	.015
+Total	748 (173)	608 (207) *	822 (175)	727 (203)	9.1	.010
+Open in a separate window
+Follow up Mann Whitney U tests:
+
+* significantly different to both other positions
+
+† pair of positions annotated is significantly different
+
+Table 7 contains a profile of soccer (on the ball) activity, excluding those activities performed less than 5 times during the match by the mean player. A Kruskal Wallis H test revealed that there was no significant difference between the total numbers of on the ball movements performed in a match by players of different positions. The frequency of only four individual on the ball activities were significantly different between the positions; pass long air with the right foot, pass long air with the head, pass short ground with the right foot and receiving the ball on the chest. There were no significant differences between the playing positions for the frequency of any of the other on the ball activities performed in a match.
+
+Table 7.
+Frequency of ‘On the ball’ Activity within total match-play performed by players of different positions. Data are means (±SD).
+
+Variables	Position		
+Striker (n=19)	Midfielder (n=18)	Defender (n=18)	All (n=55)	H2	p
+Pass long air (right foot)	1.3 (2.5) *	7.0 (6.9)	9.7 (6.9)	5.9 (6.7)	15.6	<.001
+Pass short air (header)	8.8 (9.2)	5.0 (6.6)	7.0 (6.9)	7.0 (7.7)	2.2	.325
+Pass short ground (right foot)	13.9 (9.6)	27.3 (28.8) †	9.0 (7.8) †	16.7 (19.3)	6.1	.046
+Receive (right foot)	14.8 (11.2)	22.7 (20.4)	11.7 (12.1)	16.4 (15.5)	4.3	.118
+Receive (left foot)	6.3 (7.6)	11.0 (10.3)	5.0 (8.0)	7.4 (8.9)	5.6	.061
+Dribble	18.0 (13.4)	22.7 (24.3)	12.0 (12.5)	17.6 (17.7)	3.6	.152
+Total	102.3 (51.1)	139.7 (111.1)	90.3 (47.6)	110.6 (76.9)	2.9	.234
+Open in a separate window
+Follow up Mann Whitney U tests:
+
+* significantly different to both other positions
+
+† pair of positions annotated is significantly different
+
+Go to:
+Discussion
+The aim of the present study was to identify and detail the physical demands of English FA Premier League soccer through a detailed time- motion analysis of the 'purposeful movement' (PM) of 55 professional players applying the BMC (Bloomfield et al., 2004). Significant differences were found between the three positional groups for time spent in various motions within PM of a higher intensity than walking and jogging with exception to time spent standing still. Defenders performed the highest amount of jogging, skipping and shuffling movements and spent a significantly less amount of time sprinting and running than the other positions. The midfielders were engaged in a significantly less amount of time standing still and shuffling and the most time running and sprinting. This is supported by the previous findings of midfield players covering the greatest overall distances during matches and time spent standing still (O'Donoghue, 1998; Reilly and Thomas, 1976; Rienzi et al., 2000). Furthermore, the lower levels of shuffling movements and high levels of possession actions in midfielders in contrast to the strikers who also had a high level of possession actions and a similar amount of sprinting but performed a significantly higher level of shuffling movements than midfielders may reflect upon the different spatial and time demands of match-play for these positions.
+
+Midfielders and strikers also engaged in significantly more of the 'other' type movements (jumping, landing, diving, sliding, slowing down, falling and getting up) with strikers performing the most of the three positions. As identified by Bangsbo, 1994b, extra physiological costs are created through on the ball and other movement activities. In terms of the latter, strikers and defenders fall to the ground most in match-play with defenders required to get-up quickly more times suggesting this is another area important for physical preparation. These positions also perform the most jumping which supports the findings of Bangsbo, 1994a and Reilly, 2003 with defenders performing significantly more backward jumping. However, it also appears to be important for midfielders to have the ability to jump vertically. Finally, defenders were also observed to perform significantly more diving with feet first which may be related to attempts to intercept passes or block shots and crosses rather than making tackles as there were no differences seen in the number of tackles made by all positions.
+
+Strikers may also need to be the physically strongest players as they were found to perform the most physical contact at high intensity. Efficacy in pushing and pulling activities in the upper body as well as have abilities to withstand being pushed and pulled is desirable. In addition, strikers were also observed to have higher levels of stopping at high intensity as well as swerving and slowing more rapidly. These activities produce shearing forces on the lower limbs and appropriate strength training and prehabilitation practices must be adopted and emphasised (Besier et al., 2001). In similar respect, defenders should also have sufficient body strength in order to compete with the strikers. To this end, FA Premier League defenders and strikers have been found to be heavier and with higher BMI, although only slightly taller, than midfielders (Bloomfield et al., 2005). This was not a universal finding across four different European Leagues and the differences discovered suggest either differences in playing style and physical demands of the different leagues, different physical conditioning methods or, alternatively, that there are desirable characteristics of players with teams in all four leagues seeking such players to suit the respective styles of play. This would also indicate that the findings of this paper are only specific to the FA Premier League.
+
+In terms of directions travelled, midfielders were also found to perform the most directly forward movements with defenders engaged in the highest amount of backwards and lateral movements. This is similar to previous findings of Rienzi et al., 2000. The majority of diagonal and arc movements were performed in forward directions with midfielders and strikers performing more than defenders which suggest these are important directions in order to manipulate and create space or to evade a marker and be in a position to receive a pass from a teammate. In this respect, high frequencies of turns were made within match-play with the majority between 0° to 90°. Approximately 700 per match were made by defenders, 500 by midfielders and 600 by strikers. However, midfielders and strikers performed more turns of 270° to 360°. This could be due to efforts in close encounters to evade a marker or aspects of match-play were players are required to face their own goal and the ball is transferred overhead (e.g. goal-kick). The amount of 90° to 180° turns is relatively evenly distributed with all positions performing approximately between 90 and 100 in match-play. To this end, it may be possible to question the validity of soccer specific endurance fitness field tests such as the Loughborough Intermittent Shuttle Test (Nicholas et al., 2000) and other Multi-Stage Fitness Tests. Although these 'gold standard' tests have been assessed for external validity through physiological measurements and related closely with the physiological load imposed through match-play, they appear to lack ecological validity with respect to the motion types, directions, turns and intensities of the physical demands as well as under-providing protocols for different positions. Alternatively, the Interval Field Test (Bangsbo and Lindquist, 1992) may be considered a more valued test as it aims to link the physical and physiological demands together, although should be modified and related to modern match-play for each position. The information provided in this manuscript should facilitate the design of more specific field tests for soccer.
+
+In terms of intensity, a mean of 40.6% of the game was spent performing PM (strikers 35.8%, midfielders 44.5%, defenders 41.9%) with a mean frequency of 28 PMs every ~15mins. The mean duration of each PM was 13.1 ± 3.2s and mean time between PM (all low intensity) was 20.4 ± 5.3s. This equates to a mean ratio of 1:1.6. However, this is not to be confused with a physiological work:rest ratio as some PM also included low intensity movement. The percentage of match time spent performing high or very high intensity activity was 5.6 ± 2.1%; 6.6 ± 2.0% for the strikers, 5.2 ± 2.4% for the midfielders and 4.9 ± 1.7% for the defenders. These values are much lower than reported in studies that have used alternative methods (e.g. Bangsbo et al., 1991; O'Donoghue, 1998). Furthermore, previous investigations have found the midfielders to spend a greater percentage of match time performing high intensity activity than other positions. While the current finding that the strikers perform more high to very high intensity activity may be due to different methods of data capture it may also be explained by strikers usually being outnumbered by defenders.
+
+Finally, the highest frequency of passes was made by midfielders with a significant majority played short and on the ground. Players mostly used their feet to receive a pass, however strikers used their chest and thigh more than the other players. Also, twice as many 'receives' were made by the right foot than the left foot for all positions which may be related to a lateral dominance in the right leg by most players. This appears to be typical in professional soccer as more right footed players than left footed have been observed in studies of mixed footedness (Carey et al., 2001; Grouios et al., 2002). Unsurprisingly, strikers had the most shots and performed the most tricks and midfielders dribbled more and indeed made more tackles than defenders. This is different to the findings reported by Bangsbo, 1994a. These factors should all be considered when evaluating the energetic costs of match-play as events such as dribbling which create an additional energy cost (Reilly, 2003) as well as the extra costs from locomotion, non-locomotion movement, direction, intensity and turning (Reilly, 2003; Williford et al., 1998).
+
+Go to:
+Conclusion
+In conclusion, this analysis has shown that less than half of 'purposeful movement' is performed in a forward direction, players perform the different types of movement with a range of intensities and players perform frequent turns during movement patterns. Significant differences exist between striker, midfield and defending players with defenders spending a significantly lower %PM time running and sprinting than the other positions but a significantly greater %PM time skipping than the other positions. Defenders also spent a significantly greater %PM time moving backwards than the other two positions. Midfielders performed significantly less turns during match play than strikers and defenders. These differences would indicate that players in different positions could benefit from more specific conditioning programs. For example, defenders and strikers could benefit from speed and agility type conditioning whereas midfielders would benefit more from interval running over longer distances in accordance to the findings of this study.
+
+​
+Table 5.
+Percentage direction travelled of different motions within PM performed by players of different positions. Data are means (±SD).
+
+Direction	Sprint	Run	Jog	Skip	Shuffle	Walk	Other
+Directly forward	3.6 (2.3)	7.2 (5.3)	20.5 (8.4)	1.2 (.9)	5.1 (2.0)	9.7 (.0)	1.4 (1.0)
+Directly backwards	N/A	.1 (.2)	1.3 (2.0)	1.5 (1.0)	1.0 (.7)	3.1 (.9)	N/A
+Lateral left	N/A	N/A	N/A	3.5 (2.0)	1.0 (.7)	N/A	N/A
+Lateral right	N/A	N/A	N/A	3.0 (2.0)	.9 (.7)	N/A	N/A
+Forward diagonal left	.3 (.4)	1.0 (.9)	2.1 (1.3)	.1 (.2)	.5 (4)	.5 (5)	.2 (.3)
+Forward diagonal right	.3 (.5)	1.2 (1.2)	1.9 (1.2)	.2 (.4)	.6 (5)	.6 (7)	.2 (.3)
+Backward diagonal left	N/A	.0 (.1)	.1 (.3)	.1 (.2)	.1 (2)	.1 (2)	N/A
+Backward diagonal right	N/A	.0 (.2)	.1 (.1)	.1 (.2)	.1 (2)	.0 (2)	N/A
+Arc backward left-right	N/A	N/A	.1 (.6)	N/A	N/A	N/A	N/A
+Arc backward right-left	N/A	N/A	N/A	N/A	N/A	N/A	N/A
+Arc forward right-left	.4 (.5)	.8 (.9)	1.0 (.9)	.0 (.1)	.1 (2)	.0 (1)	.1 (1)
+Arc forward left-right	.3 (.4)	.7 (.6)	1.0 (1.0)	.0 (.1)	.0 (1)	.1 (2)	.1 (1)
+Arc lateral left	N/A	N/A	N/A	.0 (.1)	.0 (1)	N/A	N/A
+Arc lateral right	N/A	N/A	N/A	.1 (.2)	.1 (3)	N/A	N/A
+Open in a separate window
+Note: there was also 20.6 ± 6.8% of PM performing movement without any direction not included in this table
+

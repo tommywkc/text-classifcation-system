@@ -1,0 +1,830 @@
+                                                                                          ORIGINAL RESEARCH
+                                                                                          published: 11 April 2022
+                                                                                    doi: 10.3389/fpsyg.2022.747983
+
+
+                           Meditation in the Workplace: Does 
+                           Mindfulness Reduce Bias and 
+                           Increase Organisational Citizenship 
+                           Behaviours?
+
+                           Emma Constance Williams  and Vince Polito *
+
+                           Department of Cognitive Science, Macquarie University, Sydney, NSW, Australia
+
+                           Mindfulness is becoming increasingly popular in the workplace. This likely relates to a 
+                           growing body of research linking mindfulness to a range of psychological outcomes such 
+                           as reduced anxiety, depression and increased subjective wellbeing. However, while 
+                           mindfulness has received a great deal of attention in clinical research, the evidence for 
+                           workplace relevant benefits is less established. Additionally, outside of clinical research, 
+                           mindfulness studies have rarely been replicated. Recent evidence suggests that the 
+                           cognitive skills cultivated during meditation may be instrumental in reducing biased thinking 
+                           and increasing prosocial behaviour, but these findings have not been previously tested in 
+                 Edited by: a workplace setting. Specifically, mindfulness has been linked to reductions in implicit age 
+           Dan-Cristian Dabija, bias, sunk-cost decision-making bias and increases in organisational citizenship behaviours 
+   Babes-Bolyai̦  University, Romania
+                           (OCB). In two experiments using a workplace and laboratory sample, the present 
+              Reviewed by: 
+             Deborah Phillips, investigation aimed to test the reliability and generalisability of previous findings that a 
+   Harvard University, United States brief mindfulness meditation can reduce age and sunk-cost decision-making biases. To 
+               Olga Berkout, 
+         University of Pittsburgh, more directly test the potential positive benefits of mindfulness in a workplace setting, 
+               United States this study also investigated the impact of a mindfulness intervention on intention to perform 
+           *Correspondence: OCB. While meditation significantly increased OCB intent, predictions relating to bias 
+                Vince Polito were not supported. Considerations for the degree to which empirical evidence aligns 
+         vince.polito@mq.edu.au
+                           with claims in popular culture, along with implications for the practical uses of mindfulness 
+           Specialty section: in the workplace are explored.
+      This article was submitted to 
+  Personality and Social Psychology, Keywords: mindfulness, organisational citizenship behaviours, implicit bias, decision making, age bias, sunk-cost 
+         a section of the journal bias
+         Frontiers in Psychology
+
+      Received: 01 October 2021
+      Accepted: 03 March 2022 INTRODUCTION
+       Published: 11 April 2022
+                  Citation: Mindfulness programs are now common in organisations with large corporations, such as 
+    Williams EC and Polito V (2022) Google and Intel, using mindfulness as a tool for enhancing employee wellbeing and productivity 
+  Meditation in the Workplace: Does (Schaufenbuel, 2015; Steward, 2015). Mindfulness can be cultivated through a range of practices. 
+     Mindfulness Reduce Bias and 
+  Increase Organisational Citizenship The most well-established technique in western psychology is mindfulness meditation Good(  
+                Behaviours? et  al., 2016), although there is also evidence that mindfulness can be  developed outside of 
+      Front. Psychol. 13:747983. the context of meditation through increased attention to novelty (Langer, 1992, 2014). While 
+   doi: 10.3389/fpsyg.2022.747983 definitions of mindfulness vary, in western academic research, it is typically understood as a 
+
+
+Frontiers in Psychology | www.frontiersin.org       1                             April 2022 | Volume 13 | Article 747983
+Williams and Polito                                                        Mindfulness, Bias, and Organisational Citizenship
+
+state of sustained attention to experiences occurring in the decision-making (Evans and Curtis-Holmes, 2005). Conversely, 
+present moment (Brown and Ryan, 2003). These experiences reliant on semantic knowledge rather than implicit assumptions, 
+are observed as they are, without manipulation, discrimination the explicit and controlled style is associated with less biased 
+or resistance. Mindfulness can also be  conceived as a trait, decision-making than automatic thinking styles (Evans, 2003). 
+such that some people may generally have more capacity to According to dual-process theories, because humans may have 
+enter mindful states than others (Kabat-Zinn, 2003).  a limited cognitive capacity, to conserve cognitive resources, 
+  The popularity of mindfulness relates to a growing body the automatic style may be  employed by default, whereas the 
+of research linking mindfulness to a range of psychological conscious, effortful, explicit style is likely to be  only applied 
+and physiological outcomes. Brief mindfulness interventions where necessary (Evans and Stanovich, 2013).
+have been linked to reductions in stress, negative affect, symptoms Mindfulness may increase prosocial behaviour and reduce 
+of depression, anxiety, chronic pain and increases in subjective biased thinking via increasing the use of the explicit and 
+wellbeing (Baer, 2003; Khoury et  al., 2013; Good et  al., 2016; controlled thinking style (Hyland et  al., 2015). There are two 
+Ngnoumen and Langer, 2016; Sanko et  al., 2016). Long-term potential mechanisms by which this may occur: (1) broadening 
+mindfulness practice is correlated with structural changes in an individual’s awareness of information in the present moment 
+brain areas associated with executive attention and emotion and (2) increasing one’s cognitive capacity.
+regulation (e.g., Hölzel et  al., 2011; Fox et  al., 2014). However, 
+despite promising evidence supporting the benefits of mindfulness Present Moment Awareness
+in laboratory and clinical settings, relatively little is understood Mindfulness is the practice of cultivating an un-manipulated 
+about how these benefits might translate to more practical perception of the present moment. Accurately perceiving the 
+workplace aspects of performance and behaviour (Gallant, present moment requires serial analysis of the available 
+2016). Most research has been conducted in university settings information (the controlled and explicit thinking style) rather 
+with samples consisting of paid participants or students, than automatic assumptions (the automatic and immediate 
+potentially limiting the generalisability of findings to corporate thinking style; Shapiro et  al., 2006). A reduced reliance on 
+working populations.                                  automatic thinking styles following meditation is supported 
+  Evidence suggests that the skills cultivated during meditation by research associating mindfulness with an increased ability 
+may be instrumental in reducing biased thinking and increasing to respond based on new information rather than habitual 
+prosocial behaviour (Kiken and Shook, 2011; Hopthrow et al., responses, this may be  associated with an increased openness 
+2017; Oyler et  al., 2021), possibly through an increase in to new information (Frewen et  al., 2008; Ostafin et  al., 2012). 
+cognitive flexibility Moore(  and Malinowski, 2009; Colzato For example, Ostafin and Kassman (2012) found that university 
+et  al., 2016), although this has not yet been tested via a students performed better on insight problem-solving questions 
+randomised and controlled experiment in a workplace setting. (that must be  answered using present facts rather than prior 
+Specifically, mindfulness has been linked to increases in associations) following 10-min of meditation compared to a 
+organisational citizenship behaviours (OCB; Reb et al., 2015), relaxation control. Similarly, a brief mindfulness meditation 
+reductions in implicit age bias (Lueke and Gibson, 2014) was found to increase performance on two cognitive tasks 
+and reductions in sunk-cost decision-making bias (Hafenbrack that required participants to quickly categorise information 
+et  al., 2014). Responding to a call for greater scientific rigor using new, non-habitual groupings (e.g., the colour red and 
+in investigating the practical benefits of mindfulness meditation the word blue) rather than prior automatic associations (e.g., 
+(Van Dam et  al., 2017), the present investigation aims to the colour red and the word red; Wenk-Sormaz, 2005). Together, 
+explore whether these findings translate to a corporate these findings imply that mindfulness reduces reliance on 
+working population.                                   automatic thinking styles and increases controlled and 
+                                                      explicit reasoning.
+                                                        Present moment awareness also increases consideration of 
+Mindfulness and Bias: A Dual-Process                  both external and internal cues, enabling greater objectivity 
+Perspective                                           in judgements (Hyland et  al., 2015). By contrast, reliance on 
+Mindfulness practice may reduce biased thinking by influencing internal cues when processing information (internal encoding), 
+how individuals process new information. Dual-process theories is characteristic of the automatic style of thinking, whereby 
+of reasoning propose that there are two main ways of processing judgements are made from prior assumptions and heuristics 
+information: automatic and immediate vs. controlled and explicit rather than external cues. Internal encoding can be  associated 
+(Kahneman, 2011; Evans and Stanovich, 2013). The automatic with recalling false memories based on prior experiences 
+and immediate style relates to experience-based decision-making, (Roediger and McDermott, 1995; Dehon et  al., 2011). Internal 
+using mental heuristics, and prior automatic associations to encoding is also correlated with self-perpetuation errors, whereby 
+guide quick and reflexive decisions that demand minimal one maintains a pre-existing belief despite a consistent lack 
+cognitive resources. Conversely, the explicit and controlled style of supporting evidence (Hill et  al., 1989). An example of a 
+requires systematic processing of information in a slow, serial self-perpetuation error is where an individual may believe an 
+and attentionally demanding manner (Frankish, 2010). As the older worker is less effective than a younger worker, despite 
+automatic and immediate style does not require deliberation a lack of evidence indicating inferior work, or after encountering 
+on all available knowledge, it is associated with more biased a high-performing older worker. By shifting one’s focus towards 
+
+
+Frontiers in Psychology | www.frontiersin.org       2                             April 2022 | Volume 13 | Article 747983
+Williams and Polito                                                        Mindfulness, Bias, and Organisational Citizenship
+
+a greater range of available information, mindfulness may assist to the workplace has received little investigation (Good et  al., 
+individuals in detecting external cues that correct prior errors 2016). In the workplace, prosocial behaviour is often 
+in judgement (Herndon, 2008).                         operationalised in terms of OCB. OCBs are behaviours beyond 
+                                                      an employee’s contractual obligations that benefit others in the 
+Increased Cognitive Capacity                          workplace. OCBs include altruism towards one’s colleagues, 
+Mindfulness also enhances an individual’s ability to engage in representing the organisation positively outside of the work 
+controlled and explicit reasoning styles by expanding one’s context and taking on tasks beyond one’s role (Smith et  al., 
+cognitive capacity. Both brief and long-term mindfulness 1983). OCBs are attracting increasing attention in the field of 
+interventions are linked to improved performance on tasks organisational psychology due to links with increased job 
+measuring working memory and sustained attention (e.g., Jha satisfaction and reduced turnover intention (LePine et  al., 2002; 
+et  al., 2007; Chambers et  al., 2008; Zeidan et  al., 2010). This Tsai and Wu, 2010). Building on evidence suggesting that 
+is supported by the findings that long-term mindfulness mindfulness may promote positive social attitudes and prosocial 
+practitioners show greater grey matter volume in areas of the behaviours, here we investigate whether mindfulness also increases 
+brain linked to executive attention, working memory and self- OCBs. Correlational and cross-sectional research provides 
+regulation than matched novices (e.g., Froeliger et  al., 2012; preliminary support for this, showing a link between mindfulness 
+Fox et  al., 2014; Villemure et  al., 2015). Longitudinal studies practices, trait mindfulness and OCBs (Shekari, 2014; Reb et al., 
+show changes in similar brain regions following 8 weeks of 2015; Patel, 2017; Petchsawang and McLean, 2017; Nguyen et al., 
+meditation (e.g., Hölzel et  al., 2011; Kilpatrick et  al., 2011), 2019). However, the relationship between mindfulness and OCBs 
+providing evidence for a causal relationship between mindfulness has not yet been tested in an experimental research design. 
+practice and increased cognitive capacity. Overall, this evidence The first aim of the present study was to fill this gap by empirically 
+supports the view that mindfulness enhances aspects of cognitive testing the effect of mindfulness on intention to engage in OCBs.
+capacity required to engage in explicit reasoning styles.
+                                                      Bias in the Workplace
+Mindfulness and Positive Social Attitudes             In addition to potentially encouraging beneficial behaviours, 
+The shift towards deliberative processing during mindfulness mindfulness may also be  protective against common biases. 
+may be  associated with increased orientation towards external Two forms of bias resulting from using automatic rather than 
+social cues (Herndon, 2008). Greater attention to cues from controlled thinking styles that can be  extremely costly to 
+others may in turn promote a greater ability to empathise organisations are prejudiced implicit attitudes and over-reliance 
+and correspondingly, promote more positive social attitudes. on heuristics in decision-making.
+Indeed, both trait and state mindfulness have been linked to 
+increases in aspects of empathy, such as perspective taking Implicit Age Bias
+and feelings of compassion towards others (Shapiro et al., 1998; Mindfulness may provide a potential tool for altering implicit 
+Block-Lerner et  al., 2007; Krasner et  al., 2009; Birnie et  al., attitudes. Implicit attitudes are automatic associations 
+2010; Boellinghaus et  al., 2014). In addition, individuals show unconsciously held by an individual (Greenwald et  al., 2002). 
+increased explicit and implicit positive feelings towards strangers Implicit attitudes are an important issue in the workplace due 
+(mediated by an increase in positive feelings towards others) to their significant link to overt behaviour. Indeed, they are 
+and reduced racial bias following as little as 7-min of meditation consistently more reliable predictors of negative out-group 
+(Hutcherson et  al., 2008; Stell and Farsides, 2016). behaviour than self-reported, explicit attitudes (Greenwald et al., 
+  These increased positive feelings towards others may translate 2009). Age bias is a common and concerning form of negative 
+to more frequent prosocial behaviours (Good et  al., 2016). implicit attitude that is common across workplaces (Rupp et al., 
+Trait and state mindfulness have been linked to self-reported 2006; Finkelstein et  al., 2018). These attitudes can impact 
+real-life helping behaviour and greater cooperation in computer- workplace decisions related to recruitment, compensation and 
+based economic games (Weng et  al., 2013; Cameron and advancement opportunities (Dennis and Thomas, 2007). In 
+Fredrickson, 2015). Consistent with these findings,Condon  fact, it has been argued that implicit attitudes more strongly 
+et  al. (2013) found that individuals were significantly more predict discriminatory decisions than do explicit attitudes 
+likely to give up their chair for a disabled confederate following (Rudman and Glick, 2001; Ziegert and Hanges, 2005; 
+8 weeks of meditation than following a wait-list control. A Rooth, 2010).
+moderate effect size φ(  = 0.36) was found even when a bystander Implicit age biases can be  assessed through the Implicit 
+manipulation was introduced whereby other seated confederates Association Test (IAT), a computer-based behavioural task that 
+displayed no care for the disabled confederate. Together, these measures the strength of automatic associations between concepts 
+findings suggest that mindfulness could be  used to promote in memory (Greenwald et  al., 2003). IAT scores can give an 
+prosocial behaviour.                                  indication of both hidden and explicit attitudes towards particular 
+                                                      groups (McConnell and Leibold, 2001; Dovidio et  al., 2002; 
+Organisational Citizenship Behaviours                 Gawronski, 2002). IAT scores have proven resistant to change 
+While growing evidence suggests that mindfulness may be  used using interventions attempting to address prejudice in an explicit 
+to promote prosocial behaviour, whether these effects transfer manner (Malinen and Johnston, 2013).
+
+
+Frontiers in Psychology | www.frontiersin.org       3                             April 2022 | Volume 13 | Article 747983
+Williams and Polito                                                        Mindfulness, Bias, and Organisational Citizenship
+
+Lueke and Gibson (2014) measured responses to an IAT task, identified byLueke  and Gibson (2014) on implicit age bias 
+assessing attitudes related to age, following either a 10-min and Hafenbrack et  al. (2014) on sunk-cost bias resistance in 
+mindfulness audio recording or a 10-min descriptive control in a corporate working sample.
+undergraduate university students. Those in the mindfulness 
+condition showed significantly less implicit age bias on the IAT. As Hypotheses
+Lueke and Gibson (2014) only tested undergraduate university We predicted that a mindfulness intervention would increase 
+students, whether this finding translates to a working population deliberative reasoning. Specifically, compared to a relaxation 
+is an important question. The second aim of the present study control intervention, we  hypothesised that a mindfulness 
+was to assess whether the finding of reduced implicit bias following intervention would: (1) increase intentions to perform OCBs; 
+meditation, could be reproduced in a corporate working population. (2) reduce implicit age bias; (3) reduce explicit age bias; and 
+                                                      (4) increase sunk-cost bias resistance.
+Decision-Making: The Sunk-Cost Bias
+Mindfulness may also reduce the use of biased heuristics in 
+making work-related decisions. One common heuristic is the EXPERIMENT ONE
+sunk-cost bias. The sunk-cost bias is the tendency to continue 
+with a project once time, money or resources have been invested, Method
+even when evidence that relinquishing the project may provide Experiment one assessed whether a brief mindfulness meditation 
+a better overall outcome is presented (Arkes and Blumer, 1985). increased OCB intent and reduced bias, compared to a 
+This bias relates to placing more weight on past investments relaxation control in a working population. This experiment 
+or anticipated future regret rather than objectively evaluating utilised a repeated measures design with participants 
+present facts during decision-making (Keil et  al., 1995; Wong experiencing both a meditation and control intervention, in 
+and Kwong, 2007). The sunk-cost bias becomes a problem for counterbalanced order, on two different occasions separated 
+organisations when individuals continue investing in failing by a week or more. Approval for this research was granted 
+projects in the hopes that the original investment will be recouped. by the Macquarie University Human Ethics Committee. The 
+Thus, the sunk-cost bias can result in elevated losses. For instance, study was preregistered at https://osf.io/mtgqc. Data and 
+individuals who have invested money in a project expect the Supplementary Materials for both studies can be  found at 
+project to be  more successful than those who have not invested https://osf.io/y4mju/.
+money in the same project (Arkes and Blumer, 1985). Consequently, 
+managers may continue to invest money and resources in failing Participants
+projects that have received high investment (Parayre, 1995). Fifty participants working in corporate settings in Sydney, 
+Evidence suggests that mindfulness may increase resistance to Australia were recruited. Thirty-eight of these were recruited 
+the sunk-cost bias. Hafenbrack et  al. (2014) compared the from a large finance corporationvia  flyers distributed within 
+effects of a 15-min meditation and a 15-min mind-wandering the workplace and emails. Twelve were recruited via social 
+control (where participants were repeated asked to think about media posts (Linkedin and Facebook). Advertisements specified 
+whatever came to mind) on resistance to the sunk-cost bias that participants needed to be  working at least 8 h a week in 
+in university students. They found that 78% of those in the a corporate office in Sydney. A $200 gift voucher prize draw 
+mindfulness condition resisted the sunk-cost bias whereas only was offered as a participation incentive. Three participants 
+44% resisted the bias in the control condition. Hafenbrack were excluded for reporting that they did not pay attention 
+et al. (2014) found the same relationship when the experiment or for not listening during the intervention (listening scale 
+was replicated in a paid, online sample. These experiments score of 5). In the final sample, ages ranged from 23 to 55 
+suggest that both trait and state mindfulness may increase the (M = 34.32, SD = 7.66). Thirteen participants were males and 
+likelihood of resisting the sunk-cost bias. As discussed above, 34 were females. Thirty-seven worked full-time and 10 worked 
+a feature of mindfulness is increased present-moment focus. part-time. Thirty participants had practiced meditation in the 
+It has been shown that focusing more on the present situation last 6 months. Of these, 10 practiced regularly (at least once 
+rather than past costs or anticipated regret can reduce the per week).
+sunk-cost bias, perhaps by inviting awareness of new opportunities 
+that may arise from abandoning previous efforts (Wong and 
+Kwong, 2007; Strough et al., 2011). However, these effects have Materials
+only been shown in first-year university students and a paid Mindfulness Intervention
+online sample, making generalisability unclear. The final aim The mindfulness intervention consisted of a 10-min guided 
+of the present investigation was to assess whether mindfulness mindfulness meditation audio recording developed by Cropley 
+could increase sunk-cost bias resistance in a working population. et  al. (2007) and also used by Lueke and Gibson (2014). This 
+                                                      recording instructed participants to gently direct their attention 
+                                                      to the present moment, specifically, their bodily sensations 
+The Current Study                                     (breath and heartbeat). Participants were directed to attend to 
+We aimed to explore the relationship between mindfulness these sensations without control, judgement or resistance. The 
+and OCB intent. Additionally, we  aimed to replicate effects recording was played digitally through a computer.
+
+
+Frontiers in Psychology | www.frontiersin.org       4                             April 2022 | Volume 13 | Article 747983
+Williams and Polito                                                        Mindfulness, Bias, and Organisational Citizenship
+
+Relaxation/Control Intervention                       The IAT has previously demonstrated satisfactory test–retest 
+The relaxation/control intervention consisted of a 10-min natural reliability (r = 0.60) and high internal consistency Cronbach’s 
+history audio recording originally developed by Cropley et  al. α = 0.80  (Greenwald et  al., 2002).
+(2007) and also used by Lueke and Gibson (2014). This recording 
+discussed features of the English countryside in the same voice Explicit Bias
+as the mindfulness intervention. An advantage of an active The explicit bias question was drawn from the Project Implicit 
+control condition is that it allows us deduce that the results Website and consisted of a single item measuring explicit 
+are related to the active effects of the mindfulness intervention, attitudes towards old and young people (Project Implicit, 2011). 
+rather than general effects of participating in an intervention. Participants were asked to score the statement which best 
+                                                      described them on a seven-point scale from 1, ‘I strongly prefer 
+Demographics Questions                                old people to young people’ to 7 ‘I strongly prefer young people 
+A demographics questionnaire collected information regarding to old people’. Higher scores indicated greater explicit bias 
+participants age, employment status, hours of work per week, towards young people and lower scores indicated greater bias 
+cultural background, gender and previous mindfulness experience. towards old people. A score of 4 indicated no preference for 
+                                                      old or young people.
+The Mindfulness Attention Awareness Scale (MAAS)
+The MAAS measures trait mindfulness, the attribute of being Sunk-Cost Resistance Test
+mindful in general life (Brown and Ryan, 2003). The scale consists The Sunk-Cost Resistance Test consists of two hypothetical 
+of 15 self-statements (e.g., ‘I find it difficult to stay focused on scenarios measuring resistance to the sunk-cost bias and used 
+what’s happening in the present’). Participants rated the extent by Hafenbrack et  al. (2014). Participants answered ‘yes’ or ‘no’ 
+to which each statement applied to them on a six-point Likert to each scenario to indicate their decision (see Supplementary 
+scale, from 1 = almost  always to 6 = almost  never. Scores are Materials: https://osf.io/y4mju/). Correct answers indicated 
+summed, with a higher score indicating greater trait mindfulness. greater sunk-cost resistance. The two scenarios were used as 
+The MAAS has previously demonstrated good test–retest reliability alternate forms, administered after each intervention (mindfulness 
+(r = 0.81), consistent with the scale’s function as a trait measure. and control) in counterbalanced order (Arkes and Blumer, 1985).
+Internal consistency has been previously demonstrated as good, 
+Cronbach’s α = 0.86  (Brown and Ryan, 2003; Baer et  al., 2006). Organisational Citizenship Behaviour Checklist 
+For the current study, Cronbach’s α was 0.91.         (OCB-C)
+                                                      The OCB-C is a 24-item self-report questionnaire Fox(  et  al., 
+The Implicit Association Test (IAT)                   2012). The questionnaire was adapted from the original 
+The IAT is a behavioural, computer-administered measure of retrospective format to measure projected OCBs. To achieve 
+implicit attitudes (Greenwald et al., 1998). The present investigation this, the original instruction ‘How often have you  done each 
+used the same parameters as Lueke and Gibson (2014), measuring of the following things on your present job?’ was changed to 
+attitudes towards old and young age groups. Stimuli for the ‘Thinking about your job, in the next few months how compelled 
+IAT were images of six old and six young faces and eight do you  feel to engage in the following things?’ Additionally, the 
+positive word (Joy, Pleasure, Happy, Peace, Love, Glorious, structure of the questions was changed to future tense, for 
+Laughter) and eight negative words (Hurt, Nasty, Terrible, Agony, example, ‘Lent a compassionate ear when someone had a work 
+Awful, Horrible, Evil). The IAT was delivered using the EasyIAT problem’ became ‘Lend a compassionate ear when someone has 
+Program (Thompson et al., 2016) and was presented in seven a work problem’. Participants rated the extent to which they 
+blocks, consistent with standard IAT methodologies (see felt compelled to engage in each behaviour on a five-point 
+Supplementary Tables S1 and S2; Greenwald et  al., 2003). Likert scale, from 1 = not  at  all to 5 = a  great  deal. Scores were 
+  In the IAT, participants were asked to sort the images and summed with higher values indicating greater intention to 
+words into categories of ‘good’, ‘bad’, ‘old’, and ‘young’ as quickly perform OCBs. The OCB-C has previously demonstrated high 
+as possible. Categories were displayed on the left and right internal consistency, Cronbach’s α = 0.89 and satisfactory predictive 
+sides of a black screen with the stimuli presented in the middle validity based on co-worker ratings (r = 0.29; Fox et  al., 2012). 
+of the screen. Test blocks displayed one word and one image The OCB-C was split into two equal alternative forms that 
+category on each side of the screen. Pressing the ‘E’ key were administered after each intervention (mindfulness and 
+indicated that an item belonged to the category displayed on control) in counterbalanced order. Cronbach’s α was 0.61 and 
+the left. Pressing the ‘I’ key indicated that the item belonged 0.77 for these split versions, demonstrating acceptable reliability.
+to the category on the right. Reaction times on stereotype 
+congruent blocks (e.g., ‘old’ paired with ‘bad’) were compared State Mindfulness
+to reaction times on stereotype incongruent blocks (e.g., ‘old’ The state mindfulness measure, used by Hafenbrack et  al. 
+paired with ‘good’).                                  (2014), assessed the extent to which participants felt they were 
+  Responses were scored using the D-Scoring algorithm from in a state of mindfulness during the interventions. The measure 
+Greenwald et  al. (2003) without error penalties. A higher consists of three questions (e.g., ‘To what extent were you focused 
+D-score indicated greater bias towards young over old individuals. on your breathing during the audio recording?’) answered on 
+
+
+Frontiers in Psychology | www.frontiersin.org       5                             April 2022 | Volume 13 | Article 747983
+Williams and Polito                                                        Mindfulness, Bias, and Organisational Citizenship
+
+a 5-point Likert scale from 1 = Always to 5 = Never. The total EXPERIMENT ONE RESULTS
+score was reversed such that a higher score indicated greater 
+state mindfulness.                                    Manipulation Check
+                                                      To test the effectiveness of the meditation intervention in 
+Listening Scale                                       inducing mindfulness, we  compared State Mindfulness scores 
+                                                      between the experimental conditions. State mindfulness was 
+A single item listening scale was used to assess the extent to 
+                                                      significantly higher following the mindfulness intervention 
+which participants were listening during the intervention (‘To 
+                                                      (M = 10.98, SD = 2.18) than following the control intervention 
+what extent where you  listening during the recording?’). This 
+                                                      (M = 6.81, SD = 2.16), F(1,46) = 113.72, p < 0.001, η2 = 0.71, 
+item was scored on a five-point Likert scale from1  = Always 
+                                                      suggesting that the meditation intervention was leading 
+to 5 = Never.
+                                                      participants to experience subjective changes in their 
+                                                      psychological state. Additionally, participants reported spending 
+Distraction Scale                                     significantly more time listening during the mindfulness 
+A single item distraction scale was used to assess the extent intervention (M = 1.89, SD = 0.84) than during the control 
+to which participants were distracted during the intervention intervention (M = 2.66, SD = 0.89), F(1,46) = 21.71, p < 0.001, 
+(‘Did you  do anything else while the recording was playing η2 = 0.32. Participants reported no difference in distraction 
+(e.g., open another window or read something)?’). This item during the mindfulness (M = 2.81, SD = 1.62)  and  control 
+was scored on a five-point Likert scale from 1 = Always to (M = 3.09, SD = 1.54) intervention recordings (F(1,46) = 0.39, 
+5 = Never.                                            p = 0.535, η2 = 0.01). Descriptive statistics for all outcome variables 
+                                                      are shown in Table  1.
+Social Desirability Scale (SDS-17)
+The SDS-17 is a 17-item self-report measure of socially desirability, Analysis Strategy
+consisting of self-statements (e.g., ‘I sometimes litter’; Stöber, For each dependent variable, we  investigated the difference 
+2001). Participants responded ‘yes’ or ‘no’ to indicate whether between the relaxation and mindfulness conditions, controlling 
+each statement applied to them. Summed scores represented for Trait Mindfulness. For OCB Intent and Explicit Bias, 
+each participant’s total, where a higher score indicated greater we  additionally controlled for Social Desirability (using the 
+social desirability. The SDS-17 has previously demonstrated SDS-17) due to the susceptibility of these scales to 
+satisfactory to high internal consistency, Cronbach’s α = 0.70–0.92 demand characteristics.
+(Blake et  al., 2006). For this study, Cronbach’s α was 0.64.
+                                                      Organisational Citizenship Behaviour 
+Procedure                                             Intent
+Experiment one was implemented as an online study in two Consistent with Hypothesis One, a repeated measures ANCOVA 
+parts. In part one participants received an email containing with intervention type as a within subjects factor, and Social 
+a link to begin the experiment. In the email, participants were Desirability and Trait Mindfulness as covariates, revealed that 
+reminded that participation was voluntary and instructed to OCB was significantly higher in the mindfulness condition 
+only begin the experiment when they had a laptop or desktop (M = 26.78, SD = 5.13) than the control condition (M = 24.42, 
+                                                                                    2
+computer, headphones and 30-min of uninterrupted time. SD = 4.56), F(1,44) = 5.48, p = 0.024, η  = 0.11.
+Following an auditory sound check (to ensure that sounds 
+could play successfully through the headphones), participants IAT (Implicit Age Bias)
+completed the demographic questions and the MAAS. They Contrary to Hypothesis Two, a repeated measures ANCOVA, 
+then listened to either the 10-min mindfulness recording or controlling for Trait Mindfulness, revealed no significant 
+the 10-min control recording (random allocation). Next, difference in Implicit Age Bias between the mindfulness (M = 0.38, 
+participants completed the IAT. Following this, one Sunk-Cost SD = 0.35) and control interventions (M = 0.37, SD = 0.29), 
+Resistance Test and OCB-C form were presented in      F(1,45) = 0.96, p = 0.333, η2 = 0.02.
+counterbalanced order. Finally, participants completed the State 
+Mindfulness, Listening and Distraction scales, the SDS-17 and 
+the Explicit Bias question. Part one took approximately 30-min TABLE 1 |  Descriptive statistics for dependent variables by condition.
+to complete.
+  An email was sent 1 week later requesting participants to                          Condition
+                                                      Measure
+complete part two of the experiment. An additional follow-up               Mindfulness        Control
+email was sent after another week had passed to those who 
+had not yet completed part two. Part two followed the same OCB intent       26.34 (5.51)     24.75 (4.83)
+procedure as part one, but omitted the demographics questions, Implicit bias 0.38 (0.35)      0.37 (0.29)
+MAAS and SDS-17. Alternate forms of the audio recording, Explicit bias      3.74 (0.99)       3.55 (1.23)
+                                                      Sunk-cost resistance  0.38 (0.49)       0.43 (0.50)
+Sunk-Cost Resistance Test and OCB-C were presented. Part 
+two took approximately 20-min to complete.            Scores are mean values with SDs in parentheses.
+
+
+Frontiers in Psychology | www.frontiersin.org       6                             April 2022 | Volume 13 | Article 747983
+Williams and Polito                                                        Mindfulness, Bias, and Organisational Citizenship
+
+Explicit Age Bias                                     EXPERIMENT ONE DISCUSSION
+Contrary to Hypothesis Three, a repeated measures ANCOVA, 
+controlling for Social Desirability and Trait Mindfulness, The hypothesis that the mindfulness intervention would lead 
+revealed no significant difference in Explicit Age Bias to an increase in OCB intent was supported in experiment 
+between the mindfulness (M = 3.74, SD = 0.99)  and  control one. However, the hypotheses relating to cognitive biases (i.e., 
+interventions (M = 3.55, SD = 1.23), F(1,44) = 0.00, p = 0.981, implicit age bias and sunk-cost resistance) were not supported. 
+η2 = 0.00.                                            The lack of findings related to biases are surprising, particularly 
+                                                      considering that this study closely followed the parameters of 
+Sunk-Cost Bias                                        Lueke and Gibson (2014), who found a clear effect of mindfulness 
+                                                      on implicit biases. Additionally, increases in sunk-cost bias 
+Contrary to Hypothesis Four, a binary logistic regression resistance were previously found in two experiments by 
+analysis, controlling for Trait Mindfulness, showed no Hafenbrack et  al. (2014) following a similar mindfulness 
+significant difference in Sunk-Cost Resistance between the intervention. The present study used identical stimuli, 
+mindfulness (M = 0.38, SD = 0.49) and control interventions interventions and measures to Lueke and Gibson, but differed 
+                         χ2
+(M = 0.43, SD = 0.50), Wald  (1, N = 94) = 1.01, p = 0.315, slightly in design: Lueke and Gibson tested student participants 
+OR = 1.19.                                            in a between-subject design in a laboratory setting, whereas 
+                                                      experiment one tested working adults in a repeated measures 
+Exploratory Analyses                                  design that was implemented as an online study.
+Table  2 shows correlations between measures in Experiment In light of these findings, experiment two aimed to directly 
+one. Of note, were patterns of association between Trait replicate the design of Lueke and Gibson (2014) in order to 
+Mindfulness, State Mindfulness, Social Desirability and key confirm that the findings regarding cognitive biases are indeed 
+outcome measures. There was an association between State replicable. Experiment two used an identical between-subject, 
+Mindfulness and OCB Intent following the mindfulness  laboratory design and recruited a sample from the same 
+intervention (r = 0.41, p = 0.005), such that individuals who population (students) as Lueke and Gibson.
+experienced greater levels of state mindfulness had greater 
+positive intentions for prosocial work behaviours. Higher 
+levels of Trait Mindfulness was associated with greater State EXPERIMENT TWO
+Mindfulness in the control condition (r = 0.31, p = 0.039), 
+but not in the mindfulness condition. Surprisingly, Trait Design and Procedure
+Mindfulness was also associated with increased implicit bias Experiment two utilised a between-subject laboratory design. 
+in the mindfulness condition (r = 0.313, p = 0.032).  Social Participants were randomly allocated to either the mindfulness 
+desirability was negatively associated with Trait Mindfulness or control condition. Following written informed consent, 
+(r = −0.33, p = 0.025) and also negatively correlated with State participants were directed to individual computer booths. The 
+Mindfulness following both the mindfulness (r = −0.41, experiment then followed the same procedure as part one of 
+p = 0.005) and control (r = −0.29, p = 0.047)  interventions. experiment one, except that full versions of the OCB-C and 
+Together these findings indicate that increased levels of Sunk-Cost Resistance Tests were administered (rather than the 
+mindfulness are associated with reduced tendency to give split-half versions used in experiment one). Due to the controlled 
+socially desirable responses.                         setting, the distraction scale was removed. The entire procedure 
+
+
+TABLE 2 |  Associations between measures in Study 1.
+
+                                                                                  Explicit Explicit Sunk-
+               MAAS     SDS    SM med  SM con  OCB med  OCB con IAT med  IAT con
+                                                                                   med     con    costs med
+
+SDS           −0.326*
+SM med         0.178  −0.406**
+SM con         0.302* −0.291*  0.239
+OCB med       −0.071  −0.249   0.407**  0.080
+OCB con        0.174   0.006   0.030    0.014    0.064
+IAT med        0.313* −0.144   0.083   −0.116    0.086   0.015
+IAT con        0.182   0.116   0.078   −0.029   −0.028   0.046    0.361*
+Explicit med   0.173  −0.061   0.169    0.251    0.028   0.282   −0.179  −0.223
+Explicit con   0.175  −0.092   0.191    0.220   −0.025   0.054   −0.021  −0.106   0.727**
+Sunk-costs med −0.005 −0.044  −0.094    0.009   −0.210  −0.333*  −0.155   0.156  −0.018    0.073
+Sunk-costs con 0.042  −0.302*  0.008   −0.104    0.120   0.082    0.068  −0.092   0.005   −0.144   −0.147
+
+MAAS, mindful attention awareness scale; SDS, social desirability scale; SM, state mindfulness scale; OCB, organisational citizenship behaviour; IAT, implicit attribution task; Med, 
+meditation condition; and Con, control condition. *Correlation is significant at the 0.05 level.
+**Correlation is significant at the 0.01 level (2-tailed).
+
+
+Frontiers in Psychology | www.frontiersin.org       7                             April 2022 | Volume 13 | Article 747983
+Williams and Polito                                                        Mindfulness, Bias, and Organisational Citizenship
+
+took approximately 30-min to complete. Cronbach’s α was 0.85 interventions, F(1,113) = 4.72, p = 0.032, η2 = 0.04. This relationship 
+for the MAAS, 0.70 for the OCB-C and 0.62 for the SDS-17. was such that those in the mindfulness condition showed 
+                                                      significantly higher OCB Intent than those in the control condition.
+Participants
+One hundred and nineteen undergraduate psychology students Implicit Age Bias
+participated for course credit. Ages ranged from 17 to 53 Due to a data collection error, six participants failed to complete 
+(M = 21.66, SD = 7.54). Twenty-eight were male and 91 were the IAT and were excluded from the following analyses. Contrary 
+female. Nine worked full-time, 44 worked part-time, 65 worked to Hypothesis Two, an ANCOVA, controlling for Trait 
+casually and one participant was unemployed. Seventy-two had Mindfulness, revealed no significant difference in Implicit Age 
+practiced meditation in the last 6 months. Of these, six practiced Bias between the mindfulness and control interventions, 
+regularly (at least once per week).                   F(1,110) = 1.07, p = 0.303, η2 = 0.01.
+
+                                                      Explicit Age Bias
+EXPERIMENT TWO RESULTS                                Contrary to Hypothesis Three, an ANCOVA controlling for 
+                                                      Social Desirability and Trait mindfulness revealed no significant 
+Preliminary Data Analysis                             difference in Explicit Age Bias between the mindfulness and 
+Baseline Demographic and Trait Mindfulness scores were control interventions, F(1,115) = 0.01, p = 0.970, η2 = 0.00.
+compared to check randomisation between groups (mindfulness 
+or control). Groups did not differ in age F[ (1,117) = 2.42, Sunk-Cost Bias
+p = 0.123, η2 = 0.02], hours of work per week [F(1,117) = 0.05, 
+                                                      Contrary to Hypothesis Four, a multinomial logistic regression 
+p = 0.824, η2 = 0.00], Trait Mindfulness [F(1,117) = 0.06, p = 0.808, 
+                                                      analysis controlling for Trait Mindfulness showed no significant 
+η2 = 0.00] or prior mindfulness experience [F(1,117) = 0.50, 
+                                                      difference in Sunk-Cost Resistance scores between the mindfulness 
+p = 0.478, η2 = 0.00]. Descriptive statistics for all outcome variables 
+                                                      or control interventions, χ2 (2, N = 119) = 1.10, p = 0.577, OR = 1.14.
+are shown in Table  3.
+                                                      Exploratory Analysis
+Manipulation Check
+                                                      Table  4 shows correlations between measures in Experiment 
+State Mindfulness was significantly higher following the 
+                                                      Two. State Mindfulness was again positively associated with 
+mindfulness intervention (M = 9.05, SD = 1.91) compared to the 
+                                                      OCB Intent (r = 0.18, p = 0.046), indicating that individuals who 
+control intervention (M = 5.43, SD = 2.08), F(1,117) = 97.50, 
+                                                      experienced more mindfulness states were more likely to intend 
+p < 0.001, η2 = 0.00. Additionally, participants in the mindfulness 
+                                                      prosocial work behaviours. Social Desirability was negatively 
+condition reported spending significantly more time listening 
+                                                      associated with both Trait Mindfulness (r = 0.30, p = 0.001)  and 
+(M = 1.64, SD = 0.731) than those in the control intervention 
+                                                      OCB Intent (r = −0.25, p = 0.002), indicating that more mindful 
+(M = 3.00, SD = 0.838), F(1,117) = 89.37, p < 0.001, η2 = 0.43.
+                                                      and prosocial individuals were less likely to answer in an 
+                                                      artificial manner. Finally, there was a positive association between 
+Organisational Citizenship Behaviour                  Trait Mindfulness and Explicit Bias (r = 0.22, p = 0.018). However, 
+Intent                                                total scores for Explicit Bias indicated very little bias overall 
+One participant was excluded from all OCB analyses because (mean scores for both conditions were <4, indicating a slight 
+they did not meet the inclusion criteria of working at least preference for older people rather than any stereotypical age bias).
+8 h per week, and a further participant was excluded for reporting 
+that they did not understand the OCB questions. Consistent 
+with Hypothesis One, an ANCOVA controlling for Social EXPERIMENT TWO DISCUSSION
+Desirability and Trait Mindfulness revealed a significant difference 
+in OCB Intent scores between the mindfulness and control The results for experiment two mirror those identified in experiment 
+                                                      one. Experiment two again failed to replicate age and sunk-cost 
+                                                      bias findings byLueke  and Gibson (2014) and Hafenbrack et  al. 
+TABLE 3 |  Descriptive statistics for dependent variables by condition. (2014). Experiment two did replicate findings relating to OCB 
+                                                      intent, supporting the reliability of findings from experiment one.
+                               Condition
+Measure
+                     Mindfulness        Control       GENERAL DISCUSSION
+OCB intent           73.67 (8.99)      70.79 (9.67)
+Implicit bias         0.36 (0.25)       0.42 (0.33)   Across two experiments, using a corporate working sample 
+Explicit bias         3.57 (1.16)       3.55 (1.37)   and a university student sample, the present investigation sought 
+Sunk-cost resistance  0.59 (0.67)       0.55 (0.60)   to extend research showing positive social impacts of mindfulness 
+Scores are mean values with SDs in parentheses. OCB and sunk-cost scores are by investigating the impact of mindfulness on OCB intent. 
+increased relative to Experiment 1 as full versions of these measures were used. Additionally, the present study aimed to assess whether previous 
+
+
+Frontiers in Psychology | www.frontiersin.org       8                             April 2022 | Volume 13 | Article 747983
+Williams and Polito                                                        Mindfulness, Bias, and Organisational Citizenship
+
+
+TABLE 4 |  Associations between measures in Study 2.
+
+                    MAAS            SDS            SM             OCB            IAT           Explicit
+
+SDS                −0.301**
+SM                 −0.036          0.007
+OCB                −0.028         −0.284**        0.184*
+IAT                −0.027          0.002         −0.070          0.070
+Explicit            0.216*        −0.056         −0.005          0.166         −0.030
+Sunk-costs          0.003          0.043         −0.058          0.075          0.088          0.040
+
+MAAS, mindful attention awareness scale; SDS, social desirability scale; SM, state mindfulness scale; OCB, organisational citizenship behaviour; and IAT, implicit attribution task. 
+*Correlation is significant at the 0.05 level.** Correlation is significant at the 0.01 level (2-tailed).
+
+findings that a brief mindfulness intervention reduced implicit This finding is surprising given that this hypothesis aimed to 
+age bias and increased resistance to the sunk-cost bias could replicate significant findings from a study byLueke  and Gibson 
+be replicated. Predictions regarding OCB intent were supported (2014). Both of the current experiments used identical measures 
+by both experiments. However, predictions relating to reductions and intervention audio recordings to the original study. Additionally, 
+in bias were not supported by either experiment one or two. Experiment Two replicated the exact procedure used by Lueke 
+                                                      and Gibson (2014), including the setting (individual computer 
+Organisational Citizenship Behaviours                 labs) and an equivalent sample (first-year university students). 
+The first prediction, that mindfulness meditation would lead Advice was sought from the original researchers to ensure an 
+to greater intention to perform OCBs than a relaxation control accurate replication of the original procedure. These considerations 
+intervention was supported in both experiments. These findings reduce the likelihood that the failure to replicate Lueke and 
+are consistent with previous correlational research by Patel Gibson’s findings can be attributed to methodological differences.
+(2017), Reb et  al. (2015) and Shekari (2014) that showed a One potential explanation for these inconsistent results is 
+link between mindfulness practice and OCBs. Furthermore, that Lueke and Gibson (2014) original findings are not robust 
+these findings imply that prosocial behaviours following to deviations in sample characteristics. Original findings, which 
+mindfulness meditation observed by Condon et  al. (2013) are assessed first-year university students in the United  States of 
+likely to transfer to workplace contexts. The present findings America, may not transfer to an Australian corporate working 
+provide preliminary evidence for a linear relationship between population (Experiment One). Additionally, cultural differences 
+mindfulness and OCBs. Additionally, exploratory correlational between American and Australian university students may have 
+analyses revealed a positive relationship between state mindfulness led to different experimental effects observed in experiment 
+and OCB intent in both experiments. Individuals who reported two. As such, the present null results imply that, brief mindfulness 
+that they were mindful during the intervention were more interventions cannot be used to reliably impact implicit age bias.
+likely to report prosocial workplace intentions.
+  While the present findings represent an important step Explicit Age Bias
+forward in our understanding of the nature of the relationship The third prediction, that mindfulness would lead to greater 
+between mindfulness and OCB intentions, it is important to reductions in explicit age bias than a relaxation control, was 
+highlight that the observed effect sizes were small. This may also unsupported. In fact, scores on this measure indicated no 
+be  due to the format of the OCB scale, which required overall preference for either old or young people. This finding 
+participants to imagine how likely they were to perform a list is less surprising than the implicit bias results. A key reason 
+of OCBs over the next few weeks. The abstract nature of this for biases being an issue in the workplace is that people are 
+task may have reduced participant’s ability to respond with often unaware of biases they hold. This has previously been 
+precision, reducing the sensitivity of the measure. Future research demonstrated by studies showing differences between implicit 
+should investigate this by analysing the impact of mindfulness bias scores (on the IAT) and explicit self-reported ratings (Malinen 
+on OCBs more directly with measures of overt behaviour. and Johnston, 2013). The high face validity of the scale likely 
+This would also help to determine whether self-reported findings led participants to present themselves as not possessing biases.
+translate to actual behaviour or simply reflect positive intentions 
+susceptible to social desirability. The small effect sizes may Sunk-Cost Bias
+also reflect the brevity of the mindfulness intervention (only The final prediction, that mindfulness meditation would lead 
+10-min). An important question moving forward is whether to greater resistance to the sunk-cost bias than a relaxation 
+a longer intervention would produce larger effects.   control, was not supported in either experiment. This finding 
+                                                      is unexpected given that Hafenbrack et  al. (2014) previously 
+Implicit Age Bias                                     observed increases in sunk-cost bias resistance following 
+The second prediction, that mindfulness would lead to greater mindfulness meditation. This inconsistency may be  due to 
+reductions in implicit age bias than a relaxation control, was methodological differences between studies. Although both studies 
+not supported in either the workplace or university samples. utilised a similar mindfulness intervention, the present intervention 
+
+
+Frontiers in Psychology | www.frontiersin.org       9                             April 2022 | Volume 13 | Article 747983
+Williams and Polito                                                        Mindfulness, Bias, and Organisational Citizenship
+
+was 10-min in duration, whereas Hafenbrack et  al. (2014) related to social attitudes. Conversely, these results suggest that 
+intervention was 15-min long. Thus, the present lack of significant short doses of mindfulness meditation may not be  practically 
+effects may suggest that 10-min of mindfulness meditation is useful in changing deep seated implicit reasoning capacities, 
+not sufficient to reliably impact sunk-cost bias resistance. such as biases. As mindfulness may have more robust impacts 
+  An alternative explanation for these unexpected findings relates on social attitudes, investigations within this domain may yield 
+to differences between the comparison conditions used in the more practically useful results. Future studies could assess 
+original and present experiments. The present experiments whether the present self-reported attitude change following 
+compared a mindfulness audio recording to a relaxation control mindfulness meditation translates into positive workplace 
+recording (consistent with Lueke and Gibson, 2014). Conversely, behaviour. This could be  done, for example, through indirect 
+Hafenbrack et al. (2014) compared their mindfulness intervention measures of extra-curricular work activities.
+to a mind-wandering audio induction. While mindfulness involves One limitation of the study is that participants differed in 
+active attention to features of the present moment, mind-wandering prior meditation experience, which may have influenced results. 
+involves passively letting the mind drift towards the past and In fact, more than half the participants reported practicing 
+future. As such, mind-wandering is usually conceptualised as meditation within the last 6 months in both studies. As meditation 
+involving the opposite pattern of mental activity to mindfulness has become a popular activity, a challenge for research 
+(Killingsworth and Gilbert, 2010). This increased distinctiveness investigating mindfulness in the general population is finding 
+between the two conditions in Hafenbrack et al. (2014) experiment truly naïve samples. Future research would benefit from recruiting 
+may account for the different findings.               carefully pre-screened participants based on lack of prior 
+                                                      meditation experience.
+Exploratory                                             Additionally, one important unresolved methodological issue 
+                                                      is determining the appropriate duration of mindfulness 
+The exploratory correlational analyses revealed a negative 
+                                                      interventions. The 10-min intervention here had no impact on 
+association between State Mindfulness and Social Desirability 
+                                                      sunk-cost resistance, whereas 15-min interventions have repeatedly 
+in both experiments. In its essence, Social Desirability is 
+                                                      been reported to influence this measure. In general, Western 
+responding in ways that present oneself in a more favourable 
+                                                      mindfulness interventions vary from single sessions of five to 
+light. This tendency to present ourselves in favourable ways 
+                                                      30-min duration through to an extended period of sessions 
+is often driven by largely unconscious processes. Mindfulness 
+                                                      varying in length. With this wide variation in intervention lengths, 
+increases one’s deliberation on the present moment, which may 
+                                                      the ‘dose–response’ of mindfulness is unclear. For instance, it is 
+in turn make individuals more aware of inaccurate self-
+                                                      unclear whether there is a linear relationship between the amount 
+attributions. This heightened awareness may increase an 
+                                                      of mindfulness meditation and the strength of the effects, or 
+individual’s tendency to respond objectively rather than based 
+                                                      whether a plateau effect occurs after a certain amount of meditation. 
+on unconscious emotional triggers such as social presentation 
+                                                      Future research should include meditation interventions of varying 
+(Ruedy and Schweitzer, 2010). Indeed, previous research has 
+                                                      length to explore the effect of dose on outcomes.
+found links between mindfulness and increased ethical behaviour. 
+For instance, individuals high in trait mindfulness are less 
+likely to cheat on anagram tasks (Ruedy and Schweitzer, 2010). Conclusion
+Additionally, Shapiro et  al. (2012) found an increase in ethical In two preregistered studies, we  showed that mindfulness 
+decision-making following an 8-week meditation course. While intervention led to a marked increase in organisational citizenship 
+conclusions about causation cannot be  made from the present intentions. However, we  failed to replicate previous findings 
+correlational data, the present findings support the link between showing that a brief mindfulness meditation would reduce 
+mindfulness and ethical behaviour.                    implicit age bias or sunk-cost bias. These results provide 
+                                                      preliminary evidence for a causal relationship between 
+Future Directions                                     mindfulness practices and prosocial workplace attitudes, although, 
+Meditation research in general has been criticised for the degree to which improved attitudes may translate to changes 
+methodological inconsistencies and low reliability (Sedlmeier in behaviour is not yet known.
+et  al., 2012). These issues are particularly pertinent in the 
+context of strong public and media interest in the applications 
+of meditation for wellbeing and productivity (Van Dam et  al., DATA AVAILABILITY STATEMENT
+2017). Accordingly, it is important to be  cautious in making 
+claims based on these results.                        Data and Supplementary Materials for both experiments can 
+  The present two experiments showed an influence of  be  found at: https://osf.io/y4mju/.
+mindfulness on OCB intent. These findings support a link 
+between mindfulness and increased attention to one’s impact 
+on others. This may relate to increased deliberate attention to ETHICS STATEMENT
+external cues, particularly socially relevant cues. This result is 
+compatible with Sedlmeier et  al. (2012) meta-analytic findings The studies involving human participants were reviewed and 
+showing that the strongest effects in the mindfulness literature approved by Macquarie University Ethics Committee. The 
+
+
+Frontiers in Psychology | www.frontiersin.org       10                            April 2022 | Volume 13 | Article 747983
+Williams and Polito                                                                                  Mindfulness, Bias, and Organisational Citizenship
+
+patients/participants provided their written informed consent           the manuscript. All authors contributed to the article and 
+to participate in this study.                                           approved the submitted version.
+
+AUTHOR CONTRIBUTIONS                                                    SUPPLEMENTARY MATERIAL
+
+EW and VP designed the project and analysed the data. EW                The Supplementary Material for this article can be found online 
+collected the data and drafted the manuscript. VP reviewed              at: https://osf.io/y4mju/
+
+
+ 
+REFERENCES                                                              Evans, J. S. B. T., and Curtis-Holmes, J. (2005). Rapid responding increases 
+                                                                           belief bias: evidence for the dual-process theory of reasoning. Think. Reason. 
+                                                                           11, 382–389. doi: 10.1080/13546780542000005
+Arkes, H. R., and Blumer, C. (1985). The psychology of sunk cost.Organ.  
+                                                                        Evans, J. S. B. T., and Stanovich, K. E. (2013). Dual-process theories of higher 
+   Behav. Hum. Decis. Process. 35, 124–140. doi: 10.1016/0749-5978(85)90049-4
+                                                                           cognition: advancing the debate. Perspect. Psychol. Sci. 8, 223–241. doi: 
+Baer, R. A. (2003). Mindfulness training as a clinical intervention: a conceptual 
+                                                                           10.1177/1745691612460685
+   and empirical review. Clin. Psychol. Sci. Pract. 10, 125–143. doi: 10.1093/
+                                                                        Finkelstein, L. M., Hanrahan, E. A., and Thomas, C. L. (2018). “An expanded 
+   clipsy.bpg015
+                                                                           view of age bias in the workplace,” in Aging and Work in the 21st Century. 
+Baer, R. A., Smith, G. T., Hopkins, J., Krietemeyer, J., and Toney, L. (2006). 
+                                                                           2nd Edn. eds. K. S. Schultz and G. Adams (Routledge),  59–101.
+   Using self-report assessment methods to explore facets of mindfulness. 
+                                                                        Fox, K. C. R., Nijeboer, S., Dixon, M. L., Floman, J. L., Ellamil, M., Rumak, S. P., 
+   Assessment 13, 27–45. doi: 10.1177/1073191105283504
+                                                                           et al. (2014). Is meditation associated with altered brain structure? A systematic 
+Birnie, K., Speca, M., and Carlson, L. E. (2010). Exploring self-compassion review and meta-analysis of morphometric neuroimaging in meditation 
+   and empathy in the context of mindfulness-based stress reduction (MBSR). practitioners. Neurosci. Biobehav. Rev. 43, 48–73. doi: 10.1016/j.
+   Stress. Health 26, 359–371. doi: 10.1002/smi.1305                       neubiorev.2014.03.016
+Blake, B. F., Valdiserri, J., Neuendorf, K. A., and Nemeth, J. (2006). Validity Fox, S., Spector, P. E., Goh, A., Bruursema, K., and Kessler, S. R. (2012). The 
+   of the SDS-17 measure of social desirability in the American context. Personal. deviant citizen: measuring potential positive relations between 
+   Individ. Differ. 40, 1625–1636. doi: 10.1016/j.paid.2005.12.007         counterproductive work behaviour and organizational citizenship behaviour. 
+Block-Lerner, J., Adair, C., Plumb, J. C., Rhatigan, D. L., and Orsillo, S. M. J. Occup. Organ. Psychol. 85, 199–220. doi: 10.1111/j.2044-8325.2011.02032.x
+   (2007). The case for mindfulness-based approaches in the cultivation of Frankish, K. (2010). Dual-process and dual-system theories of reasoning. Philos 
+   empathy: does nonjudgmental, present-moment awareness increase capacity Compass 5, 914–926. doi: 10.1111/j.1747-9991.2010.00330.x
+   for perspective-taking and empathic concern? J. Marital. Fam. Ther. 33, Frewen, P. A., Evans, E. M., Maraj, N., Dozois, D. J. A., and Partridge, K. 
+   501–516. doi: 10.1111/j.1752-0606.2007.00034.x                          (2008). Letting go: mindfulness and negative automatic thinking. Cogn. Ther. 
+Boellinghaus, I., Jones, F. W., and Hutton, J. (2014). The role of mindfulness Res. 32, 758–774. doi: 10.1007/s10608-007-9142-1
+   and loving-kindness meditation in cultivating self-compassion and other- Froeliger, B., Garland, E. L., and McClernon, F. J. (2012). Yoga meditation 
+   focused concern in health care professionals. Mindfulness 5, 129–138. doi: practitioners exhibit greater gray matter volume and fewer reported cognitive 
+   10.1007/s12671-012-0158-6                                               failures: results of a preliminary voxel-based morphometric analysis. Evid. 
+Brown, K. W., and Ryan, R. M. (2003). The benefits of being present: mindfulness Based Complement. Alternat. Med. 2012, 1–8. doi: 10.1155/2012/821307
+   and its role in psychological well-being. J. Pers. Soc. Psychol. 84, 822–848. Gallant, S. N. (2016). Mindfulness meditation practice and executive functioning: 
+   doi: 10.1037/0022-3514.84.4.822                                         breaking down the benefit. Conscious. Cogn. 40, 116–130. doi: 10.1016/j.
+Cameron, C. D., and Fredrickson, B. L. (2015). Mindfulness facets predict  concog.2016.01.005
+   helping behavior and distinct helping-related emotions. Mindfulness 6, Gawronski, B. (2002). What does the implicit association test measure? A test 
+   1211–1218. doi: 10.1007/s12671-014-0383-2                               of the convergent and discriminant validity of prejudice-related IATs. Exp. 
+Chambers, R., Lo, B. C. Y., and Allen, N. B. (2008). The impact of intensive Psychol. 49, 171–180. doi: 10.1026/1618-3169.49.3.171
+   mindfulness training on attentional control, cognitive style, and affect.Cogn.  Good, D. J., Lyddy, C. J., Glomb, T. M., Bono, J. E., Brown, K. W., Duffy, M. K., 
+   Ther. Res. 32, 303–322. doi: 10.1007/s10608-007-9119-0                  et al. (2016). Contemplating mindfulness at work: an integrative review. J. 
+Colzato, L. S., van der Wel, P., Sellaro, R., and Hommel, B. (2016). A single Manag. 42, 114–142. doi: 10.1177/0149206315617003
+   bout of meditation biases cognitive control but not attentional focusing: Greenwald, A. G., Banaji, M. R., Rudman, L. A., Farnham, S. D., Nosek, B. A., and 
+   evidence from the global–local task. Conscious. Cogn. 39, 1–7. doi: 10.1016/j. Mellott, D. S. (2002). A unified theory of implicit attitudes, stereotypes, self-
+   concog.2015.11.003                                                      esteem, and self-concept. Psychol. Rev. 109, 3–25. doi: 10.1037/0033-295X.109.1.3
+Condon, P., Desbordes, G., Miller, W. B., and DeSteno, D. (2013). Meditation Greenwald, A. G., McGhee, D. E., and Schwartz, J. L. K. (1998). Measuring 
+   increases compassionate responses to suffering. Psychol. Sci. 24, 2125–2127. individual differences in implicit cognition: the implicit association test.J.  
+   doi: 10.1177/0956797613485603                                           Pers. Soc. Psychol. 74, 1464–1480. doi: 10.1037//0022-3514.74.6.1464
+Cropley, M., Ussher, M., and Charitou, E. (2007). Acute effects of a guided Greenwald, A. G., Nosek, B. A., and Banaji, M. R. (2003). Understanding and 
+   relaxation routine (body scan) on tobacco withdrawal symptoms and cravings using the implicit association test: I. An improved scoring algorithm. J. 
+   in abstinent smokers. Addiction 102, 989–993. doi: 10.1111/j.1360-      Pers. Soc. Psychol. 85, 197–216. doi: 10.1037/0022-3514.85.2.197
+   0443.2007.01832.x                                                    Greenwald, A. G., Poehlman, T. A., Uhlmann, E. L., and Banaji, M. R. (2009). 
+Dehon, H., Larøi, F., and Linden, M. V. (2011). The influence of encoding  Understanding and using the implicit association test: III. Meta-analysis of 
+   style on the production of false memories in the DRM paradigm: new      predictive validity. J. Pers. Soc. Psychol. 97, 17–41. doi: 10.1037/a0015575
+   insights on individual differences in false memory susceptibility?Personal.  Hafenbrack, A. C., Kinias, Z., and Barsade, S. G. (2014). Debiasing the mind 
+   Individ. Differ. 50, 583–587. doi: 10.1016/j.paid.2010.11.032           through meditation: mindfulness and the sunk-cost bias. Psychol. Sci. 25, 
+Dennis, H., and Thomas, K. (2007). Ageism in the workplace.Generations  31, 369–376. doi: 10.1177/0956797613503853
+   84–89.                                                               Herndon, F. (2008). Testing mindfulness with perceptual and cognitive factors: 
+Dovidio, J. F., Kawakami, K., and Gaertner, S. L. (2002). Implicit and explicit external vs. internal encoding, and the cognitive failures questionnaire. 
+   prejudice and interracial interaction. J. Pers. Soc. Psychol. 82, 62–68. doi: Personal. Individ. Differ. 44, 32–41. doi: 10.1016/j.paid.2007.07.002
+   10.1037/0022-3514.82.1.62                                            Hill, T., Lewicki, P., Czyzewska, M., and Boss, A. (1989). Self-perpetuating 
+Evans, J. S. B. T. (2003). In two minds: dual-process accounts of reasoning. development of encoding biases in person perception. J. Pers. Soc. Psychol. 
+   Trends Cogn. Sci. 7, 454–459. doi: 10.1016/j.tics.2003.08.012           57, 373–387. doi: 10.1037//0022-3514.57.3.373
+
+
+Frontiers in Psychology | www.frontiersin.org                        11                                      April 2022 | Volume 13 | Article 747983
+Williams and Polito                                                                                  Mindfulness, Bias, and Organisational Citizenship
+
+
+Hölzel, B. K., Carmody, J., Vangel, M., Congleton, C., Yerramsetti, S. M., Oyler, D. L., Price-Blackshear, M. A., Pratscher, S. D., and Bettencourt, B. A. 
+   Gard, T., et al. (2011). Mindfulness practice leads to increases in regional (2021). Mindfulness and intergroup bias: a systematic review. Group Process. 
+   brain gray matter density. Psychiatry Res. Neuroimaging 191, 36–43. doi: Intergr. Relat. doi: 10.1177/1368430220978694
+   10.1016/j.pscychresns.2010.08.006                                    Parayre, R. (1995). The strategic implications of sunk costs: a behavioral 
+Hopthrow, T., Hooper, N., Mahmood, L., Meier, B. P., and Weger, U. (2017). perspective. J. Econ. Behav. Organ. 28, 417–442. doi: 10.1016/0167- 
+   Mindfulness reduces the correspondence bias. Q. J. Exp. Psychol. 70, 351–360. 2681(95)00045-3
+   doi: 10.1080/17470218.2016.1149498                                   Patel, T. (2017). Benefits of Mindfulness in the Workplace: The Effects of Mindful 
+Hutcherson, C. A., Seppala, E. M., and Gross, J. J. (2008). Loving-kindness Practices on Counterproductive Workplace Behaviors and Organizational 
+   meditation increases social connectedness. Emotion 8, 720–724. doi: 10.1037/ Citizenship Behaviors. Auburn University, Alabama.
+   a0013237                                                             Petchsawang, P., and McLean, G. N. (2017). Workplace spirituality, mindfulness 
+Hyland, P. K., Lee, R. A., and Mills, M. J. (2015). Mindfulness at work: a new meditation, and work engagement. J. Manag. Spiritual. Relig. 14, 216–244. 
+   approach to improving individual and organizational performance. Ind. Organ. doi: 10.1080/14766086.2017.1291360
+   Psychol. 8, 576–602. doi: 10.1017/iop.2015.41                        Project Implicit (2011). Available at: https://implicit.harvard.edu/implicit/
+Jha, A. P., Krompinger, J., and Baime, M. J. (2007). Mindfulness training modifies Reb, J., Narayanan, J., and Ho, Z. W. (2015). Mindfulness at work: antecedents 
+   subsystems of attention. Cogn. Affect. Behav. Neurosci. 7, 109–119. doi: and consequences of employee awareness and absent-mindedness. Mindfulness 
+   10.3758/CABN.7.2.109                                                    6, 111–122. doi: 10.1007/s12671-013-0236-4
+Kabat-Zinn, J. (2003). Mindfulness-based interventions in context: past, Roediger, H. L., and McDermott, K. B. (1995). Creating false memories: 
+   present, and future. Clin. Psychol. Sci. Pract. 10, 144–156. doi: 10.1093/ remembering words not presented in lists. J. Exp. Psychol.: Learn. Mem. 
+   clipsy.bpg016                                                           Cogn. 21, 803–814.
+Kahneman, D. (2011). Thinking, Fast and Slow. Penguin Books.            Rooth, D. O. (2010). Automatic associations and discrimination in hiring: real 
+Keil, M., Truex, D. P., and Mixon, R. (1995). The effects of sunk cost and world evidence. Labour Econ. 17, 523–534. doi: 10.1016/j.labeco.2009.04.005
+   project completion on information technology project escalation. IEEE Trans. Rudman, L. A., and Glick, P. (2001). Prescriptive gender stereotypes and backlash 
+   Eng. Manag. 42, 372–381. doi: 10.1109/17.482086                         toward agentic women. J. Soc. Issues 57, 743–762. doi: 10.1111/0022-4537.00239
+Khoury, B., Lecomte, T., Fortin, G., Masse, M., Therien, P., Bouchard, V., et al. Ruedy, N. E., and Schweitzer, M. E. (2010). In the moment: the effect of 
+   (2013). Mindfulness-based therapy: a comprehensive meta-analysis. Clin. mindfulness on ethical decision making. J. Bus. Ethics 95, 73–87. doi: 10.1007/
+   Psychol. Rev. 33, 763–771. doi: 10.1016/j.cpr.2013.05.005               s10551-011-0796-y
+Kiken, L. G., and Shook, N. J. (2011). Looking up: mindfulness increases Rupp, D. E., Vodanovich, S. J., and Credé, M. (2006). Age bias in the workplace: 
+   positive judgments and reduces negativity bias. Soc. Psychol. Personal. Sci. the impact of ageism and causal attributions. J. Appl. Soc. Psychol. 36, 
+   2, 425–431. doi: 10.1177/1948550610396585                               1337–1364. doi: 10.1111/j.0021-9029.2006.00062.x
+Killingsworth, M. A., and Gilbert, D. T. (2010). A wandering mind is an Sanko, J., Mckay, M., and Rogers, S. (2016). Exploring the impact of mindfulness 
+   unhappy mind. Science 330:932. doi: 10.1126/science.1192439             meditation training in pre-licensure and post graduate nurses. Nurse Educ. 
+Kilpatrick, L. A., Suyenobu, B. Y., Smith, S. R., Bueller, J. A., Goodman, T., Today 45, 142–147. doi: 10.1016/j.nedt.2016.07.006
+   Creswell, J. D., et al. (2011). Impact of mindfulness-based stress reduction Schaufenbuel, K. (2015). Why Google, Target, and General Mills Are Investing 
+   training on intrinsic brain connectivity. NeuroImage 56, 290–298. doi: 10.1016/j. in Mindfulness. Harvard Business Review. Available at: https://hbr.org/2015/12/
+   neuroimage.2011.02.034                                                  why-google-target-and-general-mills-are-investing-in-mindfulness
+Krasner, M. S., Epstein, R. M., Beckman, H., Suchman, A. L., Chapman, B., Sedlmeier, P., Eberth, J., Schwarz, M., Zimmermann, D., Haarig, F., Jaeger, S., 
+   Mooney, C. J., et al. (2009). Association of an educational program in  et al. (2012). The psychological effects of meditation: a meta-analysis.Psychol.  
+   mindful communication with burnout, empathy, and attitudes among primary Bull. 138, 1139–1171. doi: 10.1037/a0028168
+   care physicians. JAMA 302, 1284–1293. doi: 10.1001/jama.2009.1384    Shapiro, S. L., Carlson, L. E., Astin, J. A., and Freedman, B. (2006). Mechanisms 
+Langer, E. J. (1992). Matters of mind: mindfulness/mindlessness in perspective. of mindfulness. J. Clin. Psychol. 62, 373–386. doi: 10.1002/jclp.20237
+   Conscious. Cogn. 1, 289–305. doi: 10.1016/1053-8100(92)90066-J       Shapiro, S. L., Jazaieri, H., and Goldin, P. R. (2012). Mindfulness-based stress 
+Langer, E. J. (2014). “Mindfulness forward and back,” in The Wiley Blackwell reduction effects on moral reasoning and decision making.J.  Posit. Psychol. 
+   Handbook of Mindfulness. eds. A. Ie, C. T. Ngnoumen and E. J. Langer    7, 504–515. doi: 10.1080/17439760.2012.723732
+   (Wiley), 7–20.                                                       Shapiro, S. L., Schwartz, G. E., and Bonner, G. (1998). Effects of mindfulness-
+LePine, J. A., Erez, A., and Johnson, D. E. (2002). The nature and dimensionality based stress reduction on medical and premedical students. J. Behav. Med. 
+   of organizational citizenship behavior: a critical review and meta-analysis. 21, 581–599. doi: 10.1023/A:1018700829825
+   J. Appl. Psychol. 87, 52–65. doi: 10.1037/0021-9010.87.1.52          Shekari, H. (2014). Promoting organizational citizenship behaviors in organizations: 
+Lueke, A., and Gibson, B. (2014). Mindfulness meditation reduces implicit age a reflection on workplace spirituality approach. J. Educ. Manag. Stud. 4, 
+   and race bias: the role of reduced automaticity of responding. Soc. Psychol. 100–107.
+   Personal. Sci. 6, 284–291. doi: 10.1177/1948550614559651             Smith, C. A., Organ, D. W., and Near, J. P. (1983). Organizational citizenship 
+Malinen, S., and Johnston, L. (2013). Workplace ageism: discovering hidden behavior: its nature and antecedents. J. Appl. Psychol. 68, 653–663. doi: 
+   bias. Exp. Aging Res. 39, 445–465. doi: 10.1080/0361073X.2013.808111    10.1037/0021-9010.68.4.653
+McConnell, A. R., and Leibold, J. M. (2001). Relations among the implicit Stell, A. J., and Farsides, T. (2016). Brief loving-kindness meditation reduces 
+   association test, discriminatory behavior, and explicit measures of racial racial bias, mediated by positive other-regarding emotions. Motiv. Emot. 40, 
+   attitudes. J. Exp. Soc. Psychol. 37, 435–442. doi: 10.1006/jesp.2000.1470 140–147. doi: 10.1007/s11031-015-9514-x
+Moore, A., and Malinowski, P. (2009). Meditation, mindfulness and cognitive Steward, H. (2015). Five Big Companies Who Swear by Mindfulness. Available 
+   flexibility. Conscious. Cogn. 18, 176–186. doi: 10.1016/j.concog.2008.12.008 at: https://www.linkedin.com/pulse/five-big-companies-who-swear-mindfulness-
+Ngnoumen, C. T., and Langer, E. J. (2016). “Mindfulness: the essence of well- henry-stewart/ (Accessed May 23, 2017).
+   being and happiness,” in Mindfulness in Positive Psychology. eds. I. Ivtzan Stöber, J. (2001). The social desirability scale-17 (SDS-17): convergent validity, 
+   and T. Lomas (London: Taylor & Francis), 107–117.                       discriminant validity, and relationship with age. Eur. J. Psychol. Assess. 17, 
+Nguyen, T. N. Q., Ngo, L. V., and Surachartkumtonkun, J. (2019). When do-  222–232. doi: 10.1027//1015-5759.17.3.222
+   good meets empathy and mindfulness. J. Retail. Consum. Serv. 50, 22–29. Strough, J., Schlosnagle, L., and DiDonato, L. (2011). Understanding decisions 
+   doi: 10.1016/j.jretconser.2019.03.020                                   about sunk costs from older and younger adults’ perspectives. J. Gerontol. 
+Ostafin, B. D., Bauer, C., and Myxter, P. (2012). Mindfulness decouples the B Psychol. Sci. Soc. Sci. 66, 681–686. doi: 10.1093/geronb/gbr057
+   relation between automatic alcohol motivation and heavy drinking. J. Soc. Thompson, G., Cintawan, C. I., and Kerster, B. (2016). EasyIAT. Available at: 
+   Clin. Psychol. 31, 729–745. doi: 10.1521/jscp.2012.31.7.729             https://github.com/bunnylab/EasyIAT
+Ostafin, B. D., and Kassman, K. T. (2012). Stepping out of history: mindfulness Tsai, Y., and Wu, S. W. (2010). The relationships between organisational citizenship 
+   improves insight problem solving. Conscious. Cogn. 21, 1031–1036. doi:  behaviour, job satisfaction and turnover intention. J. Clin. Nurs. 19, 3564–3574. 
+   10.1016/j.concog.2012.02.014                                            doi: 10.1111/j.1365-2702.2010.03375.x
+
+
+Frontiers in Psychology | www.frontiersin.org                        12                                      April 2022 | Volume 13 | Article 747983
+Williams and Polito                                                                                  Mindfulness, Bias, and Organisational Citizenship
+
+
+Van Dam, N. T., van Vugt, M. K., Vago, D. R., Schmalzl, L., Saron, C. D., Ziegert, J. C., and Hanges, P. J. (2005). Employment discrimination: the role 
+   Olendzki, A., et al. (2017). Mind the hype: a critical evaluation and prescriptive of implicit attitudes, motivation, and a climate for racial bias. J. Appl. Psychol. 
+   agenda for research on mindfulness and meditation. Perspect. Psychol. Sci. 90, 553–562. doi: 10.1037/0021-9010.90.3.553
+   13, 36–61. doi: 10.1177/1745691617709589
+Villemure, C., Čeko, M., Cotton, V. A., and Bushnell, M. C. (2015).     Conflict of Interest: The authors declare that the research was conducted in 
+   Neuroprotective effects of yoga practice: age-, experience-, and frequency- the absence of any commercial or financial relationships that could be  construed 
+   dependent plasticity. Front. Hum. Neurosci. 9:281. doi: 10.3389/     as a potential conflict of interest.
+   fnhum.2015.00281
+Weng, H. Y., Fox, A. S., Shackman, A. J., Stodola, D. E., Caldwell, J. Z. K., Publisher’s Note: All claims expressed in this article are solely those of the 
+   Olson, M. C., et al. (2013). Compassion training alters altruism and neural authors and do not necessarily represent those of their affiliated organizations, 
+   responses to suffering.Psychol.    Sci. 24, 1171–1180. doi:          or those of the publisher, the editors and the reviewers. Any product that may 
+   10.1177/0956797612469537                                             be evaluated in this article, or claim that may be made by its manufacturer, is 
+Wenk-Sormaz, H. (2005). Meditation can reduce habitual responding. Altern. not guaranteed or endorsed by the publisher.
+   Ther. Health Med. 11, 42–58. 
+Wong, K. F. E., and Kwong, J. Y. Y. (2007). The role of anticipated regret in Copyright © 2022 Williams and Polito. This is an open-access article distributed 
+   escalation of commitment. J. Appl. Psychol. 92, 545–554. doi: 10.1037/0021- under the terms of the Creative Commons Attribution License (CC BY). The use, 
+   9010.92.2.545                                                        distribution or reproduction in other forums is permitted, provided the original 
+Zeidan, F., Johnson, S. K., Diamond, B. J., David, Z., and Goolkasian, P. (2010). author(s) and the copyright owner(s) are credited and that the original publication 
+   Mindfulness meditation improves cognition: evidence of brief mental training. in this journal is cited, in accordance with accepted academic practice. No use, 
+   Conscious. Cogn. 19, 597–605. doi: 10.1016/j.concog.2010.03.014      distribution or reproduction is permitted which does not comply with these terms.
+
+
+Frontiers in Psychology | www.frontiersin.org                        13                                      April 2022 | Volume 13 | Article 747983

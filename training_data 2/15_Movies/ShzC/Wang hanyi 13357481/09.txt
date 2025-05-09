@@ -1,0 +1,1138 @@
+The Economic Value of Online User Reviews with Ad Spending on Movie Box-Office Sales
+Young-Jin Lee 1 & Kellie B. Keeling1 & Andrew Urbaczewski 1
+# Springer Science+Business Media, LLC 2017
+Abstract Our objective in this paper is to assess the values of
+online user reviews for movies compared with the sales im pact of post-release ad spending for movies. We use weekly
+box-office sales and ad spending data for 304 movies released
+in the U.S. along with online ratings and user characteristics
+from a social network site for movies. By exploiting the fixed effects two-stage instrumental variable approach to account
+for movie heterogeneity and simultaneous relationships
+among user reviews, ad spending and sales, we found that
+improving the volume and valence of ratings can have the
+equivalent effect that ad spending can provide.
+Keywords Online user reviews . Online social media .
+Advertising .Fixed-effectstwo-stage regression .Instrumental
+variables . Internet marketing
+1 Introduction
+Since entering into the Web 2.0 era, users have been more
+active and effective in creating their own opinions, sharing
+information, and connecting with peers of the same interest.
+This powerful network effect has allowed a small number of
+platforms to attract a large amount of traffic. As a result, online
+video and social networking sites are becoming the most pop ular websites worldwide (Wunsch-Vincent and Vickery
+2007). In such sites, users post and share their product expe riences which have the potential to affect significantly product
+sales (Chevalier and Mayzlin 2006; Dellarocas et al. 2007; Li
+et al. 2011; Li and Hitt 2008; Luo and Zhang 2013; Moe and
+Trusov 2011). Also, firms are seeking favorable and cred ible recommendations and ratings of their products from
+users (Ansari et al. 2000; Charband and Jafari Navimipour
+2016; Godes and Mayzlin 2004; Hoffman 2000; Murthi
+and Sarkar 2003), as rational consumers pay more atten tion to anonymous online product reviews to make more
+informed decisions. As such, online product reviews in e commerce context is one type of recommendation system
+that explicitly or implicitly collects a consumer’s prefer ences and recommends products or services (Li and
+Karahanna 2015; Wei et al. 2013).
+As consumers become more engaged and generate opin ions about products in the online environment, consumer created information becomes more prominent and relevant
+to consumers than other product information created by
+sellers. Also, online consumer reviews take on a special role
+in traditional marketing communications by gaining benefits
+from social network technologies; that is, the reviews influ ence not only product attractiveness by valence of the reviews
+but also product awareness from an increased level of online
+Bbuzz^ in the market (Xiong and Bharadwaj 2014; Zhang and
+Piramuthu 2016) and online social networks. However, this
+powerful element acting as a free Bsales assistant^ does not
+come without risks because marketers cannot fully control the
+online conversation taking place around their products, unlike
+other information created by sellers.
+In spite of the reviews’ crucial role in social media, most
+extant studies have focused on examining direct or indirect
+* Young-Jin Lee
+YoungJin.Lee@du.edu
+Kellie B. Keeling
+Kellie.Keeling@du.edu
+Andrew Urbaczewski
+Andrew.Urbaczewski@du.edu
+1 Department of Business Information and Analytics, Daniels College
+of Business, University of Denver, Denver, CO, USA
+DOI 10.1007/s10796-017-9778-7
+Inf Syst Front (2019) 21:829–844
+Published online: 15 July 2017
+relationships between online consumer reviews and product
+sales in the absence of the traditional marketing mix, mainly
+due to the difficulty to obtain firms’ private marketing data.
+Hence, only few studies (Bruce et al. 2012; Trusov et al. 2009)
+have illustrated whether dynamically changing online con sumer reviews can create comparable effects to the advertising
+effects over time. These studies employ different empirical
+approaches for addressing the potential estimation issue of
+endogeneity among online consumer reviews, marketing
+mix, and product sales. However, their approaches (e.g.,
+Vector autoregressive regression in Trusov et al. (2009) and
+Bayesian dynamic modeling in Bruce et al. (2012)) might
+present some limitations to effectively deal with the
+endogeneity concern. Our modeling effort in this article aims
+to find more unbiased estimates of the dynamic and relative
+effects of ad spending and online user reviews on sales than
+prior empirical approaches by handling every possible
+endogeneity issue. Our rich dataset featuring both cross sectional and time-series aspects of online user reviews, such
+users’ social and demographic characteristics, ad spending,
+and product sales enables us to achieve this goal by control ling for endogeneity concerns stemming from the static and
+dynamic interrelationships among online user reviews, ad
+spending and product sales.
+In conducting this research, we consider movies as the
+products of interest and model weekend box-office sales using
+post-release weekly ad spending and the valence and volume
+of weekly online user movie ratings. To address the aforemen tioned endogeneity issues in the sales model, we use a two stage instrumental variable approach based on the fixed ef fects estimation by mainly using social and demographic char acteristics of rating users as instrumental variables.
+Our results indicate that there is a substantial and dynamic
+effect of post-release ad spending on the subsequent box office sales, as expected. In addition, we show specifically
+that the dynamics observed in a movie’s valence (average
+rating) and volume of users’ ratings can have direct and im mediate impacts on its subsequent sales. We also compare the
+effects of the rating dynamics with the effect of post-release ad
+spending and demonstrate the economic value of online con sumer ratings as a type of online social media.
+In contrast with many of the published studies in this area
+of research that use most commonly available cross-sectional
+data on product ratings and sales rank at a fixed point in time
+(see, e.g.,Chevalier & Mayzlin 2006), we model variation in
+box-office sales over a large set of movies over time. Our
+unique data differentiate our research from those previous
+studies, as we can observe longitudinal user ratings from a
+social network site where we can identify the demographics
+and social characteristics (such as number of friends) of the
+posters. Also, the longitudinal nature of advertising spending
+and box-office sales data allow us to examine changes in box office sales from period to period as a function of changes in
+the ratings and the advertising spending. The richness of this
+dataset enables us to control for unobserved and time invariant movie heterogeneity and the simultaneous relation ships between the ratings, ad spending and sales.
+In the next section, we review the existing literature study ing sales impacts of online consumer ratings. After the litera ture review, we present a conceptual framework that defines
+the relationships between box-office sales, post-release adver tising, and online consumer ratings. Then, we describe the
+data which include movie level and individual level informa tion. In particular, we highlight in our data some of the char acteristics of the rating users in the social network site featured
+that are highly relevant instrumental variables for the estima tion techniques we use. We then develop models of post release advertising, volume and valence of ratings, and week end box-office sales, all of which enable us to decompose the
+advertising effect and assess the sales impact of user ratings.
+We then present the results and highlight some of the
+implications.
+2 Literature Review of the Sales Impacts of Online
+Consumer Reviews
+There is ample research on the effects of online consumer created information on sales in both the marketing literature
+and the information technology literature (e.g., Bruce et al.
+2012; Chevalier and Mayzlin 2006; Chintagunta et al. 2010;
+Dellarocas et al. 2007; Luo et al. 2013; Maeyer 2012; Moe and
+Trusov 2011; Pathak et al. 2010). These articles have consid ered various forms of online consumer-created information
+such as numerical ratings and text reviews provided by users.
+Most of them focus on three measures of online user reviews –
+the valence of reviews (Chevalier and Mayzlin 2006; Duan
+et al. 2008; Lee and Tan 2013; Liu 2006; Moe & Trusov
+2011), the volume of reviews (Chevalier and Mayzlin 2006;
+Duan et al. 2008; Liu 2006; Moe and Trusov 2011), and the
+variation in reviews (Godes and Mayzlin 2004; Moe and
+Trusov 2011). An average rating score most frequently repre sents valence and the number of posted ratings most common ly represents volume. Statistical variance or entropy measur ing dispersion in ratings often describes variation in the rat ings. There are varying empirical findings in the literature on
+how online consumer reviews of a product impact its sales
+with respect to valence, volume and variation. Several studies
+report positive effects of valence and volume of user reviews
+on book sales for online retailers such as Amazon.com or
+BarnesandNoble.com (Chevalier and Mayzlin 2006; Li and
+Hitt 2008). Chen et al. (2004), however, report no effect of
+user ratings on sales from a similar data source of Amazon.
+com.
+Similarly, Duan et al. (2009) look at the impact of user
+ratings on software adoption and find that user ratings have
+830 Inf Syst Front (2019) 21:829–844
+no significant impact on the adoption of popular software. Liu
+(2006) and Duan et al. (2008) do not find any significant
+impact of rating valence on movie box-office sales of movies
+but significant and positive impact on the volume of reviews.
+Dellarocas et al. (2007) also find that both the valence and
+volume of online user ratings have significant effects on mov ie box-office sales, but they examine the patterns of sales
+growth, rather than modeling weekly sales. Forman et al.
+(2008) find a stronger association between user reviews and
+sales in the presence of reviewer identity disclosure. Moe and
+Trusov (2011) argue that the real value of online customer
+product ratings depends on cross product temporal variations
+in ratings influenced socially and Centeno et al. (2015) con clude that pairwise evaluations should be used in social net works to extract the reputation of entities.
+As such, most extant studies have tended to examine the
+isolated impact of online user reviews on sales or other per formance outcomes, thus neglecting any co-existing effects of
+traditional marketing on sales. Recently, there is an emerging
+area of this field to fill the gap in the literature.
+First, Chintagunta et al. (2010) empirically examine the
+impacts of user reviews on box-office sales by accounting
+for a static measure of pre-release advertising and endogenous
+user reviews. They use the sequential release of movies across
+different markets as instruments for user reviews and show the
+valence of reviews is the main driver of box-office perfor mance, not volume. However, the study cannot examine the
+dynamics of sales impacts of online reviews and ongoing ad vertising simultaneously due to the static pre-release ad spend ing data. Our model includes time-varying post-release ad
+spending data which is mapped to the same time line of user
+reviews. In addition, our identification strategy exploits social
+and demographic characteristics of users as another plausible
+instrument for user ratings, which marketers can alternatively
+seek to find when the sequential release of products across
+markets is not available. Gopinath et al. (2014) also found that
+only the valence of online user reviews has a direct impact on
+sales while the impact of the content of advertisements de creases over time. They use a dynamic hierarchical model
+structure to investigate the evolving dynamic effects of user
+reviews and advertisements while also accounting for the po tential endogeneity concern. However, the absence of actual
+ad spending information in their data limits the ability to quan tify the relative effects economically.
+Second, using a Bayesian dynamic linear model, Bruce
+et al. (2012) show that the dynamics of ad spending and online
+user reviews (valence and volume) influence demand for new
+products. They further argue that, increased review activities
+at a later stage could become more powerful in driving de mand, while increased ad spending is more effective at an
+earlier stage due to synergy with the reviews. Although, the
+findings in our study are quite consistent with their results, our
+modeling effort would be more practical for marketers to
+obtain more consistent and unbiased estimates because other
+models (such as Bayesian dynamic linear model and Vector
+auto regression in Trusov et al. (2009)) provides limitations to
+explicitly testing assumptions to detect different endogenous
+relationships among variables. Our modeling approach to ac counting for the endogeneity by finding the appropriate instru mental variables (IV) allows the researcher to remain agnostic
+about the nature of firm behavior that generates the correlation
+between the observed and unobserved factors (Chintagunta
+et al. 2006). In summary, these articles in this emerging area
+have found the dynamic and relative impacts of marketing
+effort and online user reviews on product performance (See
+Table 1). Our study not only consistently demonstrates the
+relative effects with the prior studies but also provides an
+alternative and practical way of estimating such effects to
+marketers.
+3 Conceptual Framework
+We first conceptualize our model to estimate the sales impacts
+of post-release advertising and online user ratings before
+discussing our data and proposed model. Figure 1 illustrates
+the relationship between box-office sales and user ratings over
+time and includes key constructs from the dynamics of mar keting and user evaluation. In this research, we observe a
+movie’s weekly box-office sales, weekly advertising spending
+on the movie, and weekly user movie ratings for the movie
+from a social network website for movies. We also include the
+characteristics of the site’s posting users, which create valu able constructs to understand how the users generate their
+ratings. By analyzing the relationships in the conceptual
+framework, we attempt to examine comparable effects of
+post-release advertising and online user ratings in order to
+quantify the values of online user ratings as social media.
+Once a movie is released (at t = 0 in Fig. 1), a movie
+marketer may plan the level of post-release advertising to
+increase her subsequent sales. This marketing decision can
+be sequential and influenced by the movie’s prior perfor mance, characteristics, and environmental factors. In contrast
+with pre-release advertising belonging to a fixed portion of the
+product budget (Chintagunta et al. 2010), post-release adver tising is a dynamic and temporal decision making process
+given the progressions of prior product performance and the
+extent of inter-movie competition. After observing current
+performance of a movie, its maker may want to adjust her
+marketing strategy. In theory, the past performance weighs
+most heavily in the maker’s post-release advertising decisions.
+However, the producer may simply choose to execute the
+post-release advertising according to her preplanned market ing strategy. Therefore, we posit that post-release adverting
+reflects the combined effects of the previous week’s movie
+performance and any time invariant prebuilt marketing
+831 Inf Syst Front (2019) 21:829–844
+strategy. As such, when we model box- office sales, post release advertising is potentially endogenous because (1)
+post-release advertising plans vary across movies and (2)
+post-release advertising is simultaneously determined with
+other contemporaneous variables related to sales. Therefore,
+we need to account for the endogeneity of post-release adver tising in modeling box-office sales.
+Online user reviews are generated as moviegoers contrib ute reviews in an online movie community. After a moviegoer
+watches a movie, the consumer may want to contribute her
+own review based on her post evaluation in an online site. In
+theory, this post evaluation is heavily influenced by the con sumer’s perceived quality, independent assessment of the
+movie, and individual characteristics. In addition, the movie’s
+surrounding quality information such as post-release advertis ing, box-office sales, and social dynamics of other users’ rat ings may also affect her rating choice (Lee et al. 2015; Ma
+et al. 2014). In a movie review site, the site usually aggregates
+those user reviews to present a summary of the reviews.
+Therefore, when we model box- office sales as a function of
+online user reviews, the reviews are potentially endogenous
+because the movie ratings can be correlated with current or
+previous sales and advertising (Chintagunta et al. 2010).
+Therefore, we need to account for the endogeneity of these
+user reviews in modeling box-office sales.
+The objective of our modeling effort is to identify the un biased effects of post-release advertising and online user rat ings on box-office sales and, then, to estimate the economic
+values of online user ratings. Hence, our findings can demon strate not only the theoretical importance of online user ratings
+but also practical evidence of its importance. To achieve our
+goal, we should estimate precisely the effects by carefully
+considering potential endogeneity concerns mentioned above.
+To meet this requirement, we develop a modeling framework
+that exploits the instrumental variable (IV) estimation proce dure and the fixed effects estimation approach in panel data.
+In our modeling section, we first propose our post-release
+advertising spending model that enables us to identify influential
+factors in the post-release-advertising decision. Second, we pro pose our rating models in which users’social and demographic
+characteristics are used as instrumental variable for the valence
+and volume of user ratings. Finally, our box-office sales model
+attempts to estimate the dynamic effects of post-release adver tising and online user ratings using predictions from the models
+of advertising spending and the user ratings. We present our
+models after discussing our dataset in the next section.
+Table 1 Comparison of empirical studies on the effectiveness of online user reviews and advertising
+Studies Endogeneity considered Modeling Technique Variables Data
+Structure
+Findings
+Trusov et al.
+(2009)
+Relationship among WOM,
+new sign-ups, and
+traditional marketing
+activity
+Vector autoregressive Dep: new sign-ups to a site
+Indep: WOM referrals,
+marketing events, media
+activity
+Panel WOM referrals have substantially
+longer carryover effects of than
+traditional marketing actions.
+Chintagunta
+et al. (2010)
+Relationship among user
+ratings and Box- office
+sales.
+Product heterogeneity
+Two stage instrumental
+variable approach with
+fixed effects regression
+Dep: Box-office sales
+Indep: Pre-release ad
+spending, Valence and
+Volume of ratings
+Instrument: sequential
+release of movies across
+different markets
+Panel the valence of reviews is the main
+driver of Box-office performance,
+not volume.
+Bruce et al.
+(2012)
+Relationship among ad
+spending, user ratings
+and movie revenue.
+Product heterogeneity
+Bayesian dynamic linear
+model
+Dep: Movie revenue
+Indep: Advertising
+spending, Valence and
+Volume of ratings
+Panel the valence and volume of reviews
+and ad spending impact Box office performance
+The synergy effect between reviews
+and ad
+Gopinath et al.
+(2014)
+Not explicitly specified Dynamic hierarchical
+linear model
+Dep: Cell phone brand
+sales
+Indep: Advertising
+(Attribute vs Emotion),
+Valence and Volume of
+ratings
+Panel the valence of reviews is the main
+driver of Box- office
+performance, not volume.
+Advertisement impression effect
+decrease over time.
+This study Relationship among
+post-release ad spending,
+user ratings, and movie
+revenue.
+Product heterogeneity
+Two stage instrumental
+variable approach with
+fixed effects regression
+Dep: Box-office sales
+Indep: Post-release ad
+spending, Valence and
+Volume of ratings
+Instrument: rating users’
+social and demographic
+characteristics
+Panel the valence and volume of reviews,
+and post-release ad spending
+impact Box- office performance.
+832 Inf Syst Front (2019) 21:829–844
+4 Data Description
+We used web-scraping techniques to collect data from various
+public websites (see Table 2 for data sources) for all movies
+released in theaters in the U.S. in 2007. Our dataset contains
+information on movie characteristics and box-office perfor mance, and individual level online user reviews. In addition,
+the dataset includes weekly advertising spending for each mov ie from Ad$pender.1 From June through November in 2008, we
+collected user-level review, demographics and social network ing data for all the movies considered from Flixster.com (See
+Table 2), which is the largest social movie site.2 After 2008, the
+individual user information from the website was no longer
+publicly available. Therefore, integrating sales and post release ad spending data and user review data from Flixster.
+com for the movies released in 2007 into a single dataset
+provides the best dataset for this study. Like other popular
+Social Network Services (SNS) (e.g., Facebook, Twitter or
+Yelp), each user can make her own account webpage on
+Flixster and manage her online friendship. From users’ profile
+pages on Flixster.com, we download all observable information
+about the users who have generated at least one movie rating.
+Flixster.com also provides information on friendship among
+users. Hence, it enables us to obtain individual specific
+information such as gender, age, the number of generated
+ratings and text reviews, and account status (the number of
+profile views by other users and membership duration) on the
+website. Also, we can partially observe friendship networks
+among users in the site. We considered the intersection of our
+movie-level and user-level review datasets. As a result, our
+dataset contains 304 movies for which 38,532 Flixster users
+have created 76,102 ratings in Flixster.com.
+Our data include weekly box-office sales of 304 movies
+released in 2007 and each movie ran different number of weeks
+in theaters and, hence, our sales data is unbalanced longitudinal
+for 304 movies over week runs between 1 to 44 (See Table 3).
+For the 304 movies in our sample, weekend box-office sales,
+weekly rank of each movie, weekly post-release advertising
+spending are all available, and they are time-varying variables.
+Also, the total number of theaters and opening week’s number
+of theaters, MPAA rating, and running time are observable and
+time-invariant variables. We can also observe the posting users’
+online profiles in Flixster.com, which convey information
+about age, gender, membership period, the number of online
+friends, the numbers of ratings and text reviews, the number of
+profile page views by others, and the number of friends who
+rated the same movies. With the individual level data, we
+1 The expenditure only includes advertising on national broadcast and cable
+network television.
+2 Flixster.com had over 20 million unique users and about 2 billion user generated movie reviews in 2008.
+Fig. 1 Conceptual framework
+833 Inf Syst Front (2019) 21:829–844
+construct the average values of all the variables for each movie,
+so that the measures can indicate posting users’ overall
+characteristics for a movie’s average rating and the number of
+ratings in a week. The measures, however, do not affect box office sales directly as they are overall characteristics of the
+audience of a movie, which do not express any quality to po tential consumers. Therefore, the measures can be used as ap propriate instruments in the sales model estimation.
+5 Model Overview
+Our econometric modeling structure is designed, accurately,
+to identify the sales effects of post-release-advertising spend ing and online user ratings created in a social network com munity. It is necessary to obtain unbiased estimates of the
+effects since our goal is to evaluate the economic values of
+the rating dynamics as a comparable component in the
+Table 2 Data levels and sources
+Data Level Dimension Data Sources
+Movie Level
+- 304* Movies in 2007
+- 76,102 user ratings since the movies’ release
+Movie characteristics BoxOfficemojo.com / ImDb.com/ Numbers.com /Metacritic.com
+Weekly advertising Ad$pender (TNS Media Intelligence)
+Weekly box-office performance BoxOfficemojo.com
+Ratings and Reviews Flixster.com
+Online Movie Reviewer Level
+- 38,532 individuals in Flixster
+Demographic & Online
+Profile Friendship
+Flixster.com
+Rating & Text Review Flixster.com
+* There were total 395 movies in our original dataset. We excluded 108 movies which showed only partial data
+Table 3 Data descriptive statistics
+Dimension Variable Description Mean Min Max
+Movie Level
+(304 movies)
+WGRSALES Weekly Gross Sales of movie j at week t (in $000) 2380 0.05 151,000
+WKGRSALES Weekend Gross Sales of movie j at week t (in $000) 46,600 1.32 337,000
+RANK Rank of movie j at week t 36.80 1 138
+THEATERS Weekly number of theaters of movie j at week t 714.51 1 4362
+OPTHEATERS Total number of opening theaters of movie j 1742.76 1 4362
+ADSPEND Weekly Ad spending of movie j at week t (in $000) 608.25 0 18,848
+RNT Running time of movie j 107.97 76 191
+R Dummy for MPAA Rating R of movie j 0.41 0 1
+PG Dummy for MPAA Rating PG of movie j 0.16 0 1
+PG13 Dummy for MPAA Rating PG13 of movie j 0.35 0 1
+NC17 Dummy for MPAA Rating NC17 of movie j 0.01 0 1
+G Dummy for MPAA Rating G of movie j 0.04 0 1
+WEEKS Weeks since the release 8.29 1 44
+User Level
+(38,532
+users)
+AVG_RAT Average user rating value for movie j at week t 7.50 1 10
+NUMRAT Total number of user ratings for the movie j until week t since the movie is released 330.36 1 5752
+W_NUM_RAT Weekly number of user ratings for the movie j at week t 28.32 1 1608
+AVG_DMEMBER Average Flixster membership duration of all rating users for the movie j at week t
+since the movie is released
+686.97 147 1045
+AVG_NUMRA Average number of ratings in Flixster of all rating users for movie j at week t since
+the movie is released
+1970.58 1 62,996
+AVG_NUMRE Average number of text reviews in Flixster of all rating users for movie j at week t
+since the movie is released
+1401.11 1 55,667
+AVG_NUMFRA Average number of friend ratings for the same movie in Flixster of all rating users
+for movie j at week t since the movie is released
+0.31 0 5
+AVG_PROFV Average number of profile page viewed by others in Flixster of all rating users for
+movie j at week t since the movie is released
+993.44 2 84,345
+AVG_AGE Average age all rating users for movie j at week t since the movie is released 26.34 15 62
+AVG_GENDER Fraction of males of all rating users for movie j at week t since the movie is released 0.54 0 1
+AVG_NUMF Average number of friends in Flixster of all rating users for movie j at week t since
+the movie is released
+62.12 1 500
+834 Inf Syst Front (2019) 21:829–844
+marketing mix. To specify the model correctly, we should
+consider potentially endogenous relationships between sales,
+user ratings, and post-release advertising in modeling. In other
+words, a movie may show higher sales not necessarily because
+of more positive ratings or a greater number of ratings but
+rather due to a higher appeal to consumers, which is also
+reflected in higher ratings and more ratings (Dellarocas et al.
+2010; Moe and Trusov 2011). Also, post-release advertising
+campaign can be correlated with the dynamics of sales and
+user ratings. We can address these potential endogeneity con cerns by leveraging our unique data, which is longitudinal and
+provides instrumental variables from the online characteristics
+of rating users in a social network site for movies.
+First we develop a post-release advertising model that ex plains post-release advertising spending on a movie over time.
+A challenge we face in this modeling effort is that we must
+capture both what are related to future box-office sales and
+what are unrelated to the box-office sales, which allow us to
+determine correctly the effect of post-release advertising
+spending on the box-office sales. To address potential bias
+stemming from unobserved time-varying variables such as
+unobserved marketing and promotional dynamics, we consid er a lag of post-release advertising spending as a valid instru mental variable in our dataset. On average, 90% of advertising
+dollars were allocated and spent before the release date
+(Elberse and Anand 2007) and studios buy nearly all of their
+TVad time during the Bupfront^ marketplace to procure quan tity discounts (Auletta 1992). Hence, studios’ weekly ad
+spending after the release date is more likely planned before
+the release date in relation to their time-invariant strategic
+decisions (e.g., total advertising budget). However, a series
+of weekly ad spends can be still determined after the movie
+release to boost ticket sales in the following weekend based on
+the latest market information available (Rennhoff and Wilbur
+2011). As such, a valid instrumental variable would be the
+third-order lag of post-release advertising which may greatly
+influence the current decision on weekly ad spending and,
+however, the impact of ad spending three weeks prior on the
+current weekend box-office sales is minimal due to the time
+interval and the increasing volatility of later-week revenues
+(Dellarocas et al. 2007).3 Furthermore, we can control for
+another potential bias caused by unobserved time-invariant
+variables (e.g., movie heterogeneity, total prelease ad spend ing, other fixed effects) through our panel dataset.
+Likewise, we develop a user ratings model to address a
+potential endogenous relationship between box-office sales
+and the ratings. A movie with famous actors, directors, and
+sequels may cause more fans to produce more positive re views online and the effects of these factors on box-office
+sales co-exist with the ratings. The longitudinal aspect of our
+data can control for a bias caused by such unobserved time invariant variables using the fixed effects estimation.
+However, it is not trivial to control for another bias caused
+by unobserved time-varying variables such as the marketing
+strategy dynamics, media coverage, and offline word-of mouth, which affect not only sales but also user ratings. We
+address this issue also by finding relevant instrumental vari ables in our dataset. Lee et al. (2015) and Moe and Trusov
+(2011) argue that social influences, social pressure and indi vidual characteristics can influence the extent of online user
+reviews. Hence, such metrics from the posting users in a mov ie review site can be used as a set of instrumental variables,
+because, in theory, user characteristics will not directly affect
+box-office sales. However, one may argue that a particular
+film genre (e.g., animation movies) may appeal more to cer tain consumers (e.g., kids) only and, therefore, the sales of the
+movie might be correlated with user characteristics reflecting
+user preferences and the level of engagement in the movie
+review site. This might not be an issue in our case, because
+we control for time-invariant movie characteristics by MPAA
+rating, running time and the total number of opening theaters,
+and by using the fixed effects estimation.
+Finally, in order to assess the sales impacts of the dynamics
+on ratings in comparison to the effect of post-release advertis ing, our sales model is specified to capture (1) the effect of post release advertising spending, (2) the effects of valence and vol ume of user ratings, and (3) idiosyncratic error. The model is
+evaluated by two stage estimation with relevant instrumental
+variables and leveraging our panel data to remove any fixed
+error terms in the model. Also, we address the lagged effects of
+advertising and online user ratings in sales modeling because
+such quality information can be perpetually available on the
+Internet, and also potential moviegoers can utilize the informa tion much later than the time of actual decision to see a movie.
+5.1 First Stage Models: Weekly Post-Release Advertising
+and Online User Ratings
+First, we set up a first-stage equation for weekly post-release
+advertising spending. A studio commonly plans pre-release
+advertising as a fixed portion of the marketing budget based
+on movie production and distribution factors, due to quantity
+discounts and the upfront marketplace for TV ad time
+(Rennhoff and Wilbur 2011). On the contrary, post-release
+advertising can be influenced by contemporaneous and envi ronmental factors and the previous period’s performance of
+the movie. Therefore, we define the post-release ad spending
+for a movie j in week t as
+ADSPENDj;t ¼ XAD
+j;t βAD þ ZAD
+j;t γAD þ αAD
+j þ εAD
+j;t ; ð1Þ
+where XAD
+j;t contains factors that can affect a movie j’s post release ad spending in a given week t, and they are time-
+3 We do not consider the first (or second) order lag of weekly ad spending or
+cumulative ad spending because its effect may still last in the current week.
+835 Inf Syst Front (2019) 21:829–844
+varying or time-invariant. ZAD
+j;t is a vector of instrumental var iables which are likely correlated with the ad spending of the
+week, but not with the gross sales of the movie. XAD
+j;t includes
+the covariates in our sales model and ZAD
+j;t includes a subset of
+our instrumental variables such as the third-order lagged
+values of ADSPENDj,t. The third-order lagged variable can
+be a valid instrumental variable for ADSPENDj,t due to our
+focus on modeling box-office sales with post-release ad
+spending based on the two stage estimation procedure, and
+also because prior ad spending three weeks ago can be linked
+to the ad spending decision in the current week. However, the
+prior ad spending is unlikely to be correlated with the contem poraneous box-office sales if we take into account the lagged
+effect of ADSPEND in our sales model (Jacobson 1990). We
+also include a fixed error term αAD
+j to control for any unob served fixed effects and an idiosyncratic error term εAD
+j;t in this
+model.
+Similarly, the first-stage equations for the volume of ratings
+and the average rating for a movie j in week tsince the movie’s
+release are shown in (2) and (3) respectively:
+Log NUMRATj;t
+  ¼ XVOL
+j;t βVOL þ ZVOL
+j;t γVOL þ αVOL
+j
+þ εVOL
+j;t ; ð2Þ
+AVGRAT j;t ¼ XVAL
+j;t βVAL þ ZVAL
+j;t γVAL þ αVAL
+j þ εVAL
+j;t : ð3Þ
+In (2) and (3), Xj , t ‘s contain the covariates used in our
+sales model and αj ‘s are fixed error terms of movie heteroge neity and εj , t ‘s are idiosyncratic error terms. Zj , t ‘s are the
+subset of our instrumental variables which are the measures of
+overall characteristics of the users who generated the posted
+ratings in Flixster.com until a given week t after the movie is
+released. In other words, those instrumental variables
+represent the average characteristics of users who have
+posted their ratings, which create the values of NUMRATj,t
+and AVGRATj,t. Table 3 provides the description of such user
+specific variables. Because a user’s social characteristics and
+network may also affect the user’s rating (Lee et al. 2015),
+aggregated information of the characteristics of the posting
+users can be related to the movie’s average user rating and
+the number of ratings, aggregated user review metrics.
+However, the overall user characteristics are less likely related
+to future box-office sales of a movie because rating users’
+social network characteristics do not affect box-office sales
+but the characteristics may influence the users’ decisions to
+submit a rating and the choice of their rating value. We esti mate the equations of (1), (2), and (3) separately and use the
+fitted values of the dependent variables from the equations to
+estimate our sales model of (4) as the second stage model
+estimation (Wooldridge 2010), which we will describe in the
+following section.
+5.2 Sales Model
+With a particular interest in the role of post-release advertising
+and user-generated ratings, our weekend box-office sales
+model intends to evaluate the factors that may affect movie
+performance. Existing studies also have typically
+modeled the relationship between box-office perfor mance and user ratings by regressing movie box-office
+sales against average rating (Dellarocas et al. 2007) or
+the number of ratings (Dellarocas et al. 2007; Duan
+et al. 2008; Liu 2006). However, unlike the prior re search, we add a richer set of covariates including ac tual post-release spending on movie advertising and the
+longitudinal feature in our dataset provides a successful
+way to control for movie heterogeneity. We consider weekend
+gross box-office sales as our dependent variable, as the effect
+of unobserved factors from the contemporaneous week is min imized in the weekend. We use the following model to de scribe the weekend gross box-office sales earned by movie j
+on the weekend in a week t as
+Log WKGRj;t
+  ¼ Y WG
+j;t δWG þ X WG
+j;t βWG þ ZWG
+j γWG
+þ αWG
+j þ εWG
+j;t ; ð4Þ
+where Y WG
+j;t contains the week t’s ad spending, the volume of
+ratings, and the valence of ratings for movie j and they are
+assumed to be endogenous in the model as described earlier.
+X WG
+j;t is a set of time-varying covariates that influence the
+weekend gross box-office sales in a given week t. In the set,
+we include a movie’s box-office ranking to control for the
+extent of inter-movie competition in the corresponding week,
+the number of movie screening weeks and its square term to
+allow for nonlinear sales decay (Ainslie et al. 2005), and the
+weekly number of theaters showing the movie to control for
+the distribution channel changes. ZWG
+j includes time-invariant
+variables such as runtime, MPAA rating dummies, and open ing week’s number of theaters. αWG
+j is movie j’s fixed effects
+such as movie heterogeneity, which are unobservable and also
+time-invariant. εWG
+j;t is an idiosyncratic error term in this sales
+model.
+5.3 Lagged Effects of Post-release Advertising and Online
+User Ratings
+Before estimating Eq. (4), we should account for the
+lagged effects of advertising and ratings because adver tising and ratings in previous periods may still affect
+current week’s movie performance as well. In other
+words, advertising and ratings in the current period may attract
+new moviegoers, some of whom purchase immediately and
+some of whom delay purchase to future periods because of
+836 Inf Syst Front (2019) 21:829–844
+shopping and usage rates (Bass and Clarke 1972). Hence, we
+introduce the following equation:
+Log WKGRj;t
+  ¼ βWG
+0 þ δWG
+1 ADSPENDj;t þ δWG
+11 ADSPENDj;t−1 þ δWG
+12 ADSPENDj;t−2 þ ⋯
+þ δWG
+2 Log NUMRAT j;t
+  þ δWG
+21 Log NUMRAT j;t−1
+  þ δWG
+22 Log NUMRAT j;t−2
+  þ ⋯
+þ δWG
+3 AVGRAT j;t þ δWG
+31 AVGRAT j;t−1 þ δWG
+32 AVGRAT j;t−2 þ ⋯ þ X WG
+j;t βWG þ ZWG
+j γWG þ αWG
+j þ εWG
+j;t :
+ð5Þ
+Bass and Clarke (1972) discussed that the relative impact
+of current and previous advertising in determining current
+sales can then be described by the Koyck (1954) distribution
+in which the impact of advertising on sales decays geo metrically with time. Likewise, we further assume that
+the effect of ratings (AVGRAT and NUMRAT) ratings as
+a form of social media may decline exponentially be cause AVGRAT and NUMRAT vary over time.
+Multiplying both sides of (5) by (1-λL),4 (5) can be
+rewritten as
+Log WKGRj;t
+  ¼ βWG
+0 1−λ ð Þþ λLog WKGRj;t−1
+  þ δWG
+1 ADSPENDj;t þ δWG
+2 Log NUMRAT j;t
+ 
+þ δWG
+3 AVGRAT j;t þ 1−λ ð Þ X WG
+j;t −X WG
+j;t−1
+  βWG þ 1−λ ð ÞZWG
+j γWG þ 1−λ ð ÞαWG
+j þ εWG
+j;t −εWG
+j;t−1
+  ;
+ð6Þ
+Therefore, with the fitted values of ADSPEND,
+Log(NUMRAT) and AVGRAT from (1), (2) and (3), we esti mate (6) using the within group estimator (fixed effects esti mator) eliminating αWG
+j which potentially can be correlated
+with WKGRj , t − 1. As such, this procedure does not only ac count for the endogeneity stemming from unobserved vari ables and instantaneous causation of the gross sales on our
+variables of interest, but also remove the time-invariant movie
+heterogeneity, αWG
+j .
+6 Model Estimations and Results
+6.1 Model Specification Test
+To correctly specify our sales model, we perform various
+specification tests. First, under the strongly restrictive assump tion that the fixed effects αWG
+j is orthogonal to our sets of
+independent variables, and there are no endogenous regres sors, we first obtain the random effects estimators of (6). A
+Lagrangian multiplier test (Breusch and Pagan 1979) fails to
+support the null hypothesis that the variance of αWG
+j is 0 with
+the test statistic 8.44 in Table 4. This statistically indicates that
+we have to control for movie heterogeneity in (6). Second, we
+relax the orthogonality assumption only and obtain the fixed
+effects estimators of (6). The Hausman test (1978) allows us to
+examine whether the fixed effects αWG
+j would not have dele terious effects on random effect estimates by statistically com paring the estimates of time varying variables in (6) from the
+fixed effects estimation and the random effects estimation.
+The test statistic of 32.49 in Table 4 rejects that the estimates
+are not different and suggests fixed effects techniques are re quired to account for movie heterogeneity. However, the fixed
+effects estimation cannot account for the endogeneity stem ming from unobserved time-varying variables and simultane ity in (6). Thus, we first estimate the models of weekly ad
+spending (1), volume of user ratings (2), and average rating
+(3) with our instrumental variables. Then, we estimate the
+sales model (6) by the fixed effect estimation with the fitted
+values of ADSPEND, Log(NUMRAT) and AVGRAT. This pro cedure becomes a fixed effects-two stage least square estima tion (FE-2SLS). In the following sections, we discuss the re sults and also the relevance of our instrumental variables.
+6.2 Diagnosis of the Endogeneity in the Sales Model
+Before we estimate our first stage models by the fixed effects
+estimation specifying with appropriate instrumental variables,
+we first diagnose the endogenous assumption of our variables
+of interest, ADSPEND, NUMRAT, and AVGRAT in (6). For
+this purpose, we estimate (6) using FE-2SLS estimator with
+4 L is the lag operator and this is the Koyck (1954) transformation.
+837 Inf Syst Front (2019) 21:829–844
+all the users’ social network characteristic variables
+(AVG_DMEMBER, AVG_NUMRE, AVG_NUMFRA,
+AVG_AGE, AVG_GENDER, AVG_NUMF),5 and the third order lagged values of ADSPEND as the set of excluded in strumental variables. Then, we can obtain the overall and in dividual test statistics of exogeneity of our variables of interest
+(ADSPEND, NUMRAT, and AVGRAT) (Davidson 1995) un der the null hypothesis that an ordinary least squares (OLS)
+estimator of the same eq. (6) using the fixed effects estimation
+without the instrumental variable would produce consistent
+estimates. In the row (1) in Table 5, the test statistic for the
+overall exogeneity of all the variables of our interest is 3.97,
+and it rejects the null that the variables are exogenous in (6). It
+indicates that at least one variable of the variables should be
+treated as an endogenous variable in (6). Further, we apply the
+test to subsets of the possible combinations of the variables. In
+the row (6) in Table 5, the test statistic of 0.099 fails to reject
+that the NUMRAT is exogenous in (6). Therefore, statistically
+the volume of ratings for the movie is closely related to online
+users’ individual characteristics and preferences, rather than
+the factors which influence the box-office sales.6 Rationales
+for this exogeneity of the volume of ratings in the sales model
+can be also justified in theory as follows. Moe and Schweidel
+(2012) and Ying et al. (2006) argue online users’ decisions to
+post their ratings are contingent on the individuals having 1)
+experience with the product, 2) varying baseline tendencies to
+submit ratings, 3) the current state of the rating environment at
+the time of rating; and 4) post-purchase evaluation. In other
+words, the volume of ratings are mainly attributed to the
+propensity of user rating participation driven by individual
+user characteristics and post-purchase evaluation, not by fac tors driving box-office sales.
+In contrary, the individual exogeneity test statistic for
+AVGRAT in the row (7) in Table 5 is 6.14, and it rejects the
+exogeneity assumption of AVGRAT at the 5% level.
+Statistically, it also demonstrates the potentially endogenous
+relationship between box-office sales and the valence of rat ings. In other words, a Bgood^ movie is likely to experience
+higher sales and receive more positive ratings than a
+Bbad^ movie. The consequence is that the box-office
+sales and ratings can be correlated to each other, but
+the relationship is not necessarily causal (Moe and
+Trusov 2011) because of the endogeneity. Similarly, the indi vidual test statistic of 5.77 for ADSPEND in the row (5) in
+Table 5 suggests ADSPEND should be considered endoge nous. The overall test statistic of 10.63 for both ADSPEND
+and AVGRAT in the row (4) also shows that the two variables
+are endogenous in (6). Hence, in our analysis, we assume that
+the volume of ratings (NUMRAT) is exogenous and excluded
+in the first stage modeling, and both ADSPEND and AVGRAT
+are endogenous in (6).
+6.3 Results of First Stage Model Estimations
+Table 6 provides the parameter estimates resulting from fixed
+effects estimation of our first stage models of weekly post release ad spending and the average user ratings. The esti mates in Table 6 can be biased due to potential
+misspecifications and also the estimates in the first stage are
+merely used to predict the endogenous variables in the sales
+model (6). However, it might be worth observing the estimates
+to understand the extent of interrelationships among the
+variables.
+5 AVG_NUMRA and AVG_PROFVare dropped due to their high correlations
+with AVG_NUMRE, 0.70 and 0.96 respectively. 6 We also observe statistically significant relationship of this in our sample.
+From the first stage estimation for (2), all the variables of social network
+characteristics except for AVG_NUMF affect very significantly NUMRAT.
+We omitted the result table but it is available upon request.
+Table 4 Results from specification tests
+Test Null Hypothesis Test Stat. p value
+Purpose Reference
+1) Lagrangian Multiplier Var(αWG
+j )=0 χ2
+(1) =8.44 0.0018 To check whether the assumption
+of random effects specification
+(Breusch and Pagan 1979)
+2) Hausman Test FE Estimates = RE
+estimates
+χ2
+(7) =32.49 0.0000 To check whether all the independent
+variables are correlated with aWG
+j
+(Hausman 1978)
+3) Hausman Test FE-2SLS
+estimates = RE-2SLS
+estimates
+χ2
+(7) =30.37 0.0001 To check whether all the independent
+variables are correlated with αWG
+j
+(Hausman 1978)
+4) Wald Test σ2
+j ¼ σ2 for all j χ2
+(267) =3.1e30 0.0000 To check heteroskedasticity in the
+fixed effects estimation
+(Greene 2003)
+The regression equations are:
+1) Random effect estimation for (6)
+2) FE and RE for (6)
+3) FE-2SLS and RE-2SLS for (6) with the fitted values of ADSPEND and AVGRAT from (1) and (3)
+4) FE-2SLS for (6) with the fitted values of ADSPEND and AVGRAT from (1) and (3)
+838 Inf Syst Front (2019) 21:829–844
+Most results meet our expectation, and it appears that our
+subset of the instrumental variables (ADSPENDjt-3,
+AVG_AGEjt, AVG_GENDERjt) is statistically related to the
+endogenous variables. The results show that box-office dy namics such as weekly rank and weekly number of theaters
+can substantially affect the movie maker’s decision on weekly
+post-release ad spending. It is also intriguing that
+Log(NUMRAT) is highly significant and has a negative impact
+on ADSPEND. This result may indicate that online social
+media feeds back into the decision about advertising and the
+brand manager opts to advertise less if online social media has
+generated sufficient awareness of the product (Clark et al.
+2009). The effect of the third-order lagged ADSPEND as an
+instrumental variable on ADSPEND is positive and signifi cant. Other results in Table 6 also suggest that an increase in
+the movie’s box-office rank (lowly ranked) or the number of
+theaters (more distribution channels) tends to encourage mov ie makes to spend more on post-release advertising for their
+movies.
+In Table 6, we can also find a positive relationship between
+the average user rating in a given week and its previous week’s
+weekend box-office at the 10% significance level. Also,
+WEEKS has a diminishing effect on AVGRAT, which shows
+the average user rating does not increase monotonically over
+time. Most importantly, the average rating is related to a subset
+of overall user characteristic variables (AVG_AGE and
+AVG_GENDER are significant at <5% level in the column
+of AVGRAT in Table 6), which are used as instrumental vari ables. In other words, the average rating tends to become
+lower if there are more older or male posters in that week.
+Table 6 Parameter estimates of
+first stage models from fixed
+effects estimation
+Dependent variable ADSPEND AVGRAT
+Movie variables
+Log(WKGR)jt-1 15.8401 * (9.5036) 0.0068 * (0.0041)
+ΔLog(RANK) jt 156.5397 *** (52.6579) −0.0187 (0.0228)
+ΔLog(THEATERS) jt 142.5912 *** (19.8433) 0.0033 (0.0086)
+ΔWEEKS jt −40.7720 (36.9876) 0.0501 *** (0.0160)
+ΔWEEKS_SQ jt 1.9691 ** (0.8544) −0.0008 ** (0.0004)
+Log(NUMRAT) jt −366.1890 *** (43.1072) −0.0722 *** (0.0186)
+Excluded instrumental variables
+User variable
+AVG_DMEMBER jt −0.3491 (0.4859) 0.0002 (0.0002)
+AVG_NUMRE jt −0.0069 (0.0511) 0.0000 (0.0000)
+AVG_NUMFRA jt −350.9397 *** (63.5859) −0.0437 (0.0275)
+AVG_AGE jt 8.4180 (8.3342) −0.0071 ** (0.0036)
+AVG_GENDER jt 338.5339 (209.0190) −0.4423 *** (0.0904)
+AVG_NUMF jt 3.3136 *** (1.0777) −0.0007 (0.0005)
+Third-order lagged variable
+ADSPENDj t-3 0.0713 *** (0.0067) 0.0000 (0.0000)
+Constant 1543.8090 *** (544.6788) 8.1898 *** (0.2356)
+R-squared (overall) 0.0047 0.0380
+F F(13,1548) = 73.24 F(13,1548) = 13.47
+Number of Movies 219
+Observations 1780
+*** Significant at 0.01-level; ** Significant at 0.05-level; * Significant at 0.10-level (based on two-tail t-test)
+Table 5 Results from of
+exogeneity tests (Davidson 1995) Variable Test Statistic p-value Purpose
+(1) ADSPEND, NUMRAT, AVGRAT F(3,1550) = 3.97 0.0078 Overall endogeneity
+(2) NUMRAT, AVGRAT χ2
+(2) = 7.20 0.0274 Overall endogeneity
+(3) NUMRAT, ADSPEND χ2
+(2) = 6.06 0.0483 Overall endogeneity
+(4) ADSPEND, AVGRAT χ2
+(2) = 10.63 0.0049 Overall endogeneity
+(5) ADSPEND χ2
+(1) = 5.77 0.0163 Individual endogeneity
+(6) NUMRAT χ2
+(1) = 0.10 0.7530 Individual endogeneity
+(7) AVGRAT χ2
+(1) = 6.14 0.0132 Individual endogeneity
+839 Inf Syst Front (2019) 21:829–844
+This result is consistent with the finding in Lee et al. (2015)
+that provides evidence of demographic and social effects in
+sequentially generated online user movie ratings. We also ob serve that the average rating decreases as the number of posted
+ratings increases (the estimated parameter for Log(NUMRAT)
+in Table 6 is negative and statistically significant). This result
+is consistent with the trends documented by Godes and Silva
+(2012) and Moe and Trusov (2011). Our results add to their
+empirical findings and show that the negative trend may per sist after controlling for overall characteristics of posting
+users. However, box-office dynamics (rank and the number
+of theaters) and previous ad spending do not appear to affect
+significantly the average movie rating. Also, the results from
+our first stage model estimations appears to verify the rele vance of overall posting user characteristics and the third order lagged variable of ADSPEND as instrumental variables
+by showing their significant relationship with the endogenous
+ADSPEND and AVGRAT. Nevertheless, we offer more rigor ous tests for their relevance as instrumental variables after
+discussing the results from our box-office sales model.
+6.4 The Impact of Post-release Advertising and Online
+User Ratings on Future Box-office Sales
+Table 7 presents the results of the proposed sales model, which
+decomposes online user ratings metrics, ad spending, the dy namics of the variables and box-office sales through the
+lagged effects, and error components. In Table 7, we also
+present the results for three restrictive models that measure
+the effects of ad spending, average rating, the volume of rat ings without any instrumental variables or controlling for
+fixed effects. For example, the random effect estimation on
+our sales model (6) leads to standard cross-section estimators
+which neglect unobserved movie heterogeneity. Thus, if un observed movie time-invariant characteristics are correlated
+with ADSPEND, NUMRAT, and AVGRAT, such procedure
+will produce inconsistent estimates, which are provided in
+the column of RE (between) in Table 7.
+Also, the problem with simultaneous equations estimators
+in the column of RE-2SLS in Table 7 is that αWG
+j also appears
+in the reduced form, rendering the instrumental set invalid.
+However, by using fixed effects estimator on (6) as a basis
+for estimation, this source of endogeneity from the fixed ef fects may be addressed. Therefore, if the only problem is the
+correlation between our independent variables and unob served movie heterogeneity, then consistent estimation is pos sible by simply performing fixed effects estimation on (6)
+without our instrumental variable approach, and the results
+are provided in the column of FE (within) in Table 7.
+However, the model may also suffer from conventional simul taneity between the time-varying independent variables and
+time-varying error components. The conventional simultane ity can be accounted for by using 2SLS with our proposed first
+stage models with the instrumental variables to estimate (6),
+where all variables have been subjected to the within transfor mation (Baltagi 2006; Cornwell and Trumbull 1994).
+Therefore, FE-2SLS can address the sources of endogeneity
+from movie heterogeneity and the simultaneity in the sales
+model.
+Focusing on our variables of interest, there are remarkable
+differences between the results from the restrictive models and
+our proposed model in Table 7. In the results of the restrictive
+Table 7 Parameter estimates for weekend box-office sales model (Standard error in parentheses)
+Restrictive models Proposed model
+RE (between) FE (within) RE-2SLS FE-2SLS FE-2SLS Robust
+Variables of interest
+ADSPEND jt −0.0000 (0.0000) −0.0000 (0.0000) 0.0001 (0.0001) 0.0002 *** (0.0001) 0.0002 *** (0.0001)
+Log(NUMRAT) jt 0.0706 *** (0.0086) 0.0348 (0.0222) 0.0440 *** (0.0076) 0.1426 ** (0.0572) 0.1426 ** (0.0627)
+AVGRAT jt 0.0041 (0.0135) −0.0232 (0.0317) −0.0821 * (0.0463) 0.8359 ** (0.3642) 0.8359 ** (0.4250)
+Time-varying variables:
+Log(WKGR)jt 0.9741 *** (0.0049) 0.9623 *** (0.0058) 0.9848 *** (0.0102) 0.9373 *** (0.0103) 0.9373 *** (0.0132)
+ΔLog(RANK) jt −0.6552 *** (0.0339) −0.5989 *** (0.0353) −0.8130 *** (0.0445) −0.7559 *** (0.0531) −0.7559 *** (0.0719)
+ΔLog(THEATERS) jt 0.6783 *** (0.0128) 0.6815 *** (0.0137) 0.7444 *** (0.0232) 0.7110 *** (0.0237) 0.7110 *** (0.0340)
+ΔWEEKS jt −0.0734 *** (0.0150) −0.0738 *** (0.0188) 0.0053 (0.0279) 0.0826 ** (0.0404) 0.0826 (0.0645)
+ΔWEEKS_SQ jt 0.0002 (0.0005) 0.0000 (0.0005) −0.0002 (0.0007) −0.0020 ** (0.0009) −0.0020 * (0.0012)
+Constant −0.1727 (0.1114) 0.3570 (0.2785) 0.4720 (0.3035) −6.4997 ** (2.8583) - -
+R-squared (overall) 0.980 0.971 0.981 0.882 0.963
+Number of Movies 268 268 219 219 202
+Observations 2383 2383 1780 1780 1763
+*** Significant at 0.01-level; ** Significant at 0.05-level; * Significant at 0.1-level (based on two-tail t-test)
+840 Inf Syst Front (2019) 21:829–844
+models in Table 7, only the estimated coefficients of
+Log(NUMRAT) are positive and statistically significant.
+Furthermore, the signs of the estimated coefficients of
+ADSPEND and AVGRAT are inconsistent across the different
+restrictive models in Table 7. In contrast, the estimated effects
+of the previous weekend’s gross sales, rank, and the number of
+theaters are fairly consistent across all the models in Table 7,
+and their signs meet our expectation.
+The column of FE-2SLS in Table 7 reports the estimates
+from the fixed effects-two stage least square estimation. By
+taking account of both sources of endogeneity, the FE-2SLS
+yields the estimated effects of ADSPEND, Log(NUMRAT),
+and AVGRAT. We find that the point estimates of other time
+varying variables in the column of FE-2SLS in Table 7 are
+close to the corresponding estimates in the restrictive models.
+More importantly, the estimates of the effects of ADSPEND,
+Log(NUMRAT), and AVGRAT in the column of FE-2SLS in
+Table 7 are statistically very significant and positive.
+Specifically, an increase in ADSPEND appears to be truly
+effective in increasing the following weekend box-office sales
+(the estimated coefficient is 0.0002 and is significant at the 1%
+level). For example, on average and by holding other factors
+fixed, $500,000 increases in a week’s ad spending (in 000 s)
+provides about a 10.5% increase in the weekend box-office
+sales. In order to increase the subsequent weekend’s sales by
+the same rate (10.5%), the estimated effect of Log(NUMRAT)
+in the column of FE-2SLS in Table 7 (0.1426 and significant
+at the 5% level) suggests that the volume of ratings in that
+week needs to be doubled, by holding all else fixed. That is,
+the volume of ratings generated by users as earned social
+media coverage (enhancing consumer awareness) can make
+an equivalent effect to the sales impact of ad spending. The
+estimated coefficient of AVGRAT by FE-2SLS in Table 7
+(0.8359 and significant at the 5% level) also shows that a
+0.12 star (on a 10 star scale) increase in the average user rating
+in the week can lift up the following weekend box-office sales
+by about a 10.5%, when we hold the other independent vari ables constant. Hence, an increase in average user rating can
+significantly improve future box-office sales as a comparable
+sales impact of post-release advertising. These findings rein force the importance of valence of user ratings (Chevalier and
+Mayzlin 2006; Chintagunta et al. 2010) and volume of user
+ratings (Dellarocas et al. 2007; Duan et al. 2008) in the
+predicting movie box-office performance. Therefore, our
+quantitative analysis of the effects of online user ratings on
+the box-office sales in comparison with the effect of post release ad spending reveals monetary values of online user
+ratings as a variety of social media.
+We further consider robustness of the results with respect to
+autocorrelation and heteroskedasticity. The last column of FE-
+2SLS Robust in Table 7 presents the results by taking account
+for the first-order auto-correlated and heteroskedastic error
+term, and the estimated effects of ADSPEND,
+Log(NUMRAT) and AVGRAT are consistently significant. In
+the following section, we further evaluate our instrumental
+variables used in the above estimations because the results
+would be also spurious with irrelevant instrumental variables.
+6.5 The Relevance of Instrumental Variables
+Although we explained rationales for the relevance of our
+instrumental variables in the previous sections, we can statis tically test the relevance and exogeneity of the instrumental
+variables with our dataset. First, weak identification arises
+when the instruments are correlated with the endogenous var iables (ADSPEND and AVGRAT), but only weakly. Weak in strumental variables provide large variances of estimates as
+well as potentially severe finite-sample bias. With techniques
+discussed in Nelson and Startz (1990), we can diagnose weak
+instrument variables (IV) based on the F-test for the joint
+significance of the IV’s. In Table 8, F-tests of the null hypoth esis that the joint effect of our IV’s is zero lead to the test statistics with the values of just 9.94 in (1) and 3.19 in (3).
+Also, the F-test by Angrist and Pischke (Kmenta 2010) pro vides the similar values of the statistics in Table 8. The tests
+reject the null and this confirms the joint effect of our IV’s is
+statistically significant in the first stage models describing
+ADSPEND and AVGRAT. Also, the chi-square tests of the null
+hypothesis that the specific endogenous variable in the sales
+model is unidentified lead to the test-statistics with the values
+of 60.42 in (1) and 22.47 in (3), which reject the null hypoth esis. Therefore, we can conclude that our instrumental vari ables are Brelevant^, meaning that the instrumental variables
+are correlated with the endogenous variables.
+Second, our model must be overidentified, meaning that
+more instrument variables than endogenous variables in the
+model. Because endogenous IV’s lead inconsistency of the
+estimated coefficients of the endogenous variables
+(ADSPEND and AVGRAT in our model), we need to test the
+joint null hypothesis that our instrumental variables are uncor related with the error term, and our instrumental variables are
+correctly excluded from the estimated sales equation. Under
+the null, the Hansen’s J test statistic, which is distributed as
+chi-squared, is 4.334, and we cannot reject the null (Hayashi
+Table 8 Results from exogeneity tests
+Test ADSPEND (Eq. (1)) AVGRAT (Eq. (3))
+Overall Significant F(7,1548) = 9.94 F(7,1548) =3.19
+Under Identification χ2
+(6) = 60.42 χ2
+(6) = 22.47
+Weak Identification F(6,1548) = 9.99 F(6,1548) = 3.71
+Underidentification test
+(LM statistic)
+chi-sq.(6) = 20.1330; p-value = .0026
+Overidentification test
+of all instruments
+chi-sq.(5) = 4.334; p-value = 0.5025
+841 Inf Syst Front (2019) 21:829–844
+2000). This result indicates that we have more exogenous
+variables than endogenous variables in our two stage regres sion procedure. Also, a regression based overidentification
+test which regresses residuals from FE-2SLS of (6) on our
+entire instrument variables also pass jointly and individually
+the requirements.7 Therefore, we could also show statistically
+that the results in Table 8 are not deteriorative with our instru ment variables.
+7 Discussion
+In an agreement with previous studies (Chevalier and Mayzlin
+2006; Chintagunta et al. 2010; Dellarocas et al. 2007; Godes
+and Silva 2012; Li and Hitt 2008; Moe and Trusov 2011;
+Stephen and Galak 2012), our study provides evidence that
+consumer generated product ratings can have direct effects on
+product sales, using movie as the product of interest.
+However, few researchers have examined the effects with
+the dynamics of marketing mix. We explicitly consider ad
+spending on movies and online user reviews from a social
+network site for the movies. To examine the sales impacts of
+the reviews with the comparable effect of ad spending, we
+outline potential difficulties in measuring those effects with
+our data including ad spending, reviews, and sales of movies.
+Then, we discuss how having reviewers’ demographics and
+characteristics in the online social network site for movie can
+alleviate some issues with the variables of reviews, ad spend ing and box-office sales. We then provide an empirical appli cation for our proposed fixed-effects two stage regression ap proach to measuring the box-office sales impact of ad spend ing and the valence and volume of online user ratings from
+Flixster.com while accounting for the potential biases. Our
+identification strategy is justifiable with our valid
+instruments for user ratings by exploiting reviewing users’
+online characteristics including friendships in Flixster.com
+since user ratings can reflect users’ own characteristics,
+which do not influence subsequent box-office sales. In addi tion, the longitudinal structure of our dataset enables us to
+effectively address unobserved movie heterogeneity in our
+analysis. Our econometric model approach is simple and use ful in investigating the effectiveness of ad and online reviews
+on sales and specification testing without imposing too much
+structure. Nevertheless, further research could investigate dy namic ad and online reviews over sequential distribution chan nels with a more structural approach, because strategic inter actions between traditional marketing and social media mar keting affect firms’ decision rules themselves (Chintagunta
+et al. 2006).
+We find that the valence and volume of online user
+ratings have a significant and positive impact on box office earnings. The importance of the valence or vol ume of online user ratings have been documented by
+past research in other contexts as well (Chevalier and
+Mayzlin 2006; Chintagunta et al. 2010; Dellarocas et al.
+2007; Duan et al. 2008). One novel finding to the lit erature studying the economic impact of online user
+reviews is showing the importance of both valence and
+volume of user ratings in predicting movie box-office
+sales after accounting for the dynamics of post-release
+ad spending. Hence, our analysis adds another support
+for the significant impact of both valence and volume of
+online user ratings on product performance (Bruce et al.
+2012), whereas some others advocate the valence effect
+only (Chintagunta et al. 2010; Gopinath et al. 2014).
+Our analysis also extends the dynamic impact of online
+user reviews from the static pre-release ad spending
+(Chintagunta et al. 2010) to the impact’s relation to
+the dynamic post-release advertising, and eventually
+we can compare the contemporaneous advertising effect
+on box-office sales to the effect of consumer-generated
+(earned) media.
+Our results may provide useful insights about earned
+social media strategy to movie distributors and studios.
+First, movie distributors and studios can use these re sults to help them evaluate their current and future mar keting strategy with respect to earned social media and
+owned social media. Because more earned social media
+(regardless of positivity or negativity) from customers
+can have the same effect of owned media (advertising)
+after a movie is released, finding a way to increase the
+volume of online customer ratings may be more cost effective than spending on traditional media. For exam ple, distributors and studios can focus more on using
+online social network sites to advertise their movies in
+a way which stimulates more users to post ratings.
+Additionally, games or contests that involved social me dia such as twitter posts with hashtags about the movie
+might increase visibility of the movie within communi ties of consumers that typically would post ratings.
+Second, similarly, promoting an adequate number of
+users to provide more positive ratings can be a profit able strategy since a relatively small increase in average
+rating can significantly affect the sales.
+Overall, online user ratings are a type of social media
+which can significantly convey quality information to poten tial users, and also enhance awareness of a product within
+consumer networks. Although firms have traditionally used
+conventional channels for these purposes, it is now critical
+for firms to find a rollout marketing plan with earned social
+media which can be more cost-effective to accomplish the
+equivalent effect of large money spending on advertising.
+7 The results, omitted here for brevity, are available upon request from the
+authors.

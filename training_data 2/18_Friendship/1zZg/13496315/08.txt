@@ -1,0 +1,1374 @@
+FRIENDS WITHOUT BENEFITS: UNDERSTANDING THE DARK
+SIDES OF WORKPLACE FRIENDSHIP
+JULIANNA PILLEMER
+NANCY P. ROTHBARD
+University of Pennsylvania
+Although many scholars and practitioners have assumed that workplace friendships
+lead to desirable organizational outcomes, a growing body of research suggests important complexities and downsides associated with them. This indicates a need to
+better understand how and when workplace friendships may lead to harmful outcomes,
+especially in light of organizational and technological shifts that are changing the way
+employees connect. Drawing on theories of close relationships, social exchange, and
+boundary management, we present a theoretical framework highlighting how four defining features of friendship (informality, voluntariness, communal norms, and socioemotional goals) are in tension with four fundamental elements of organizational life
+(formal roles, involuntary constraints, exchange norms, and instrumental goals). We
+also highlight how mutual self-disclosure and perceived similarity develop and deepen
+friendships but also lead to downsides for individuals, groups, and organizations. We
+articulate how specific features of a focal friendship clique (e.g., closeness, maturity,
+and status of members) may amplify or buffer negative aspects and how social media
+affect friendship formation and tensions. Our theoretical framework should inform new
+theory and research on positive relationships at work and boundary management of
+professional and personal identities, as well as how changes to work and technology
+affect workplace relationships.
+Friendships play a central part in people’s
+lives, serving as a source of joy and meaning
+across the life span (Goldman, Cooper, Ahern, &
+Corsini, 1981; Rawlins, 1992), and both the quantity and quality of interpersonal relationships
+have been identified as perhaps the most reliable
+indicators of happiness and life satisfaction for all
+ages (Diener & Seligman, 2002; Vaillant, 2002).
+Individuals thrive when they feel a sense of belonging and relatedness to others, and social
+connections at work are no exception (Baumeister
+& Leary, 1995; Brewer, 1991; Dutton & Ragins, 2007;
+Ferris et al., 2009; Spreitzer, Lam, & Fritz, 2010;
+Spreitzer, Sutcliffe, Dutton, Sonenshein, & Grant,
+2005). In organizational settings, relationships
+with peers significantly influence key employee
+outcomes (Chiaburu & Harrison, 2008). Informal
+social relationships at work offer numerous benefits to individuals, such as providing instrumental
+and emotional support (House, 1981; Karasek,
+1979), fostering positive identity development
+(Dutton, Roberts, & Bednar, 2010; Sluss & Ashforth,
+2007) and socialization (Morrison, 2002), and
+helping employees to flourish (Colbert, Bono, &
+Purvanova, 2016). Friendships can also benefit
+teams and organizations as a whole by facilitating cooperation and cohesion (Jehn & Shah, 1997),
+driving creativity and innovation (Lu et al., 2017),
+and even spurring the organizing process itself
+(Weick, 1979). Given these diverse and welldemonstrated benefits, it is not surprising that
+scholarship in this domain has generally focused
+on, and taken for granted, the positive effects of
+friendship at work.
+Yet, despite the seemingly obvious benefits of
+workplace friendship, a growing body of scholarship suggests that there may be complexity and
+downsides associated with friendships at work
+(Berman, West, & Richter, 2002; Duffy, Ganster, &
+Pagon, 2002; Ingram & Zou, 2008; Methot, LePine,
+Podsakoff, & Christian, 2015). The notion that
+“kinship” ties add undue complexity to the workplace dates back centuries, to classic theories
+of bureaucracy and social exchange within organizations, and has significantly influenced
+Western approaches to organizational life (Blau,
+We are grateful for helpful feedback from guest editor Kris
+Byron, three anonymous reviewers, the AMR special issue
+guest editor team, Sigal Barsade, Drew Carton, Stephanie
+Creary, Adam Grant, Spencer Harrison, Mike Pratt, Beth
+Schinoff, Danielle Tussing, participants in the Complexities of
+Close Relationships symposium at the Academy of Management annual meeting, the IESE International Conference on
+Work and Family, and the Wharton IDEAS Lab.
+635
+Copyright of the Academy of Management, all rights reserved. Contents may not be copied, emailed, posted to a listserv, or otherwise transmitted without the copyright holder’s
+express written permission. Users may print, download, or email articles for individual use only.
+1964; Parsons, 1949; Sanchez-Burks, 2002; Weber;
+1947, 1968). More recent empirical research has
+demonstrated the paradox that rewarding personal connections at work can also lead to detrimental outcomes for both friends and those
+outside the friendship (Duffy et al., 2002; Dumas,
+Phillips, & Rothbard, 2013; Elangovan & Shapiro,
+1998; Fehr, 1996; Harrison & Wagner, 2016). For
+example, friendships with coworkers may become problematic if the behaviors required to
+fulfill instrumental goals conflict with socioemotional goals (Baumeister & Leary, 1995; Biddle,
+1986; Bridge & Baxter, 1992; Ingram & Zou, 2008;
+Methot et al., 2015; Tesser, 1988), or if those excluded from the informal cliques of coworkers feel
+ostracized and form their own subgroups, creating silos and reducing communication between
+groups (Argote, Ingram, Levine, & Moreland, 2000;
+Carton & Cummings, 2012; Reagans & McEvily,
+2003). While these examples illustrate how workplace friendships may lead to negative outcomes,
+there is still no cohesive framework for understanding why, how, when, and for whom
+friendships at work may be detrimental to organizational functioning. To understand how individuals, groups, and organizations can leverage
+the myriad benefits of workplace friendships,
+scholars must cultivate a more comprehensive
+understanding of these friendships’ dark sides.
+The need to better understand the potential
+downsides of friendship in organizations is especially pertinent amid profound changes in the
+nature of work and technology that are shifting
+how we connect with colleagues, as well as the
+boundaries between personal and professional
+roles. Social interaction has become increasingly
+central to organizational life (Grant & Parker,
+2009; Oldham & Hackman, 2010). The interdependent nature of knowledge and service work is altering how we form and maintain relationships in
+organizations, blurring the distinction between
+colleague and friend (Dumas & Sanchez-Burks,
+2015; Kreiner, Hollensbe, & Sheep, 2009; Methot
+et al., 2015; Morand, 1995;Ollier-Malaterre,Rothbard,
+& Berg, 2013). In addition to shifts in the nature ofwork
+itself, technology continues to drastically reshape the way we connect and communicate
+with colleagues (Leonardi & Vaast, 2017). In particular, the rise of social media enables novel
+ways of connecting and communicating with
+others (Ashforth, Kreiner, & Fugate, 2000; Belk,
+2013; Leonardi & Vaast, 2017; Wajcman & Rose,
+2011). The centrality of social media to our daily
+lives encourages new forms of relating, blurring
+the lines not only between what we do at work
+and at home but also with whom we communicate across these two domains (Kreiner et al.,
+2009; Ollier-Malaterre et al., 2013). Given these
+fundamental shifts in work and social connectivity, it is especially critical to understand the tensions associated with workplace friendships and
+how new technologies may amplify these tensions.
+This article makes three key contributions. First,
+we extend the literature on high-quality connections and close relationships at work (Dutton &
+Heaphy, 2003; Ferris et al., 2009; Grant & Parker,
+2009; Heaphy & Dutton, 2008; Methot et al., 2015;
+Oldham & Hackman, 2010) by delineating why,
+when, how, and for whom workplace friendship—a
+specific type of “positive” relationship at work
+(Dutton & Ragins, 2007)—may lead to downsides
+for organizations. To this end, we build on a limited body of research regarding the inherent tensions that arise when friendships are enacted in
+the workplace (e.g., Bridge & Baxter, 1992; Ingram
+& Zou, 2008; Methot et al., 2015; Weber, 1968), and
+we provide a theoretical framework that demonstrates how the core tensions and relational processes associated with workplace friendship can
+negatively affect individual, group, and organizational outcomes.
+Second, we answer calls to better understand
+how the nature of workplace relationships influences outcomes (Ferris et al., 2009; Hartup &
+Stevens, 1997) by considering the ways factors
+such as closeness, maturity, and the status of
+a friendship’s members may amplify or buffer the
+risk of downsides. In this sense, we also extend
+a larger body of work focused on how the number
+of friendship ties (e.g., Methot et al., 2015) or the
+friendship network structure (e.g., Ingram & Zou,
+2008; Klein, Lim, Saltz, & Mayer, 2004) impacts individual, group, and organizational functioning
+by highlighting how particular features and types
+of friendship can differentially influence organizationally relevant outcomes.
+Third, we advance nascent theory on changes
+in work relationships (e.g., Grant & Parker, 2009;
+Oldham & Hackman, 2010), as well as theory on
+how technology is altering informal organizational relationships (e.g., Leonardi & Vaast, 2017;
+Ollier-Malaterre et al., 2013), by demonstrating
+how connecting with colleagues on social media
+may alter the friendship formation process and
+may amplify the tensions and dark sides of workplace friendship.
+636 Academy of Management Review October
+WORKPLACE FRIENDSHIP: FEATURES,
+TENSIONS, AND MECHANISMS
+What Is Workplace Friendship?
+While friendships can take many forms, there
+are four core features of friendship that differentiate these bonds from other types of roles
+and relationships. First, friendships are voluntary; unlike relationships with family members,
+neighbors, or coworkers, friendships are chosen,
+not imposed (Adams & Blieszner, 1994; Clark &
+Reis, 1988; Fehr, 1996; Sias & Cahill, 1998). Second, friendships are informal relationships in
+the sense that there is a relative lack of standard rituals or nomenclature to guide role
+expectations, unlike roles dictated by formal organizational hierarchies, such as supervisor/
+subordinate relationships, and cultural institutions, such as marriage (Adams & Blieszner,
+1994: 163). Third, friendships are characterized by
+communal norms, or an expectation that one will
+give support based on need rather than on the
+receipt of support (Clark & Mills, 1979; Goffman,
+1961; Hartup & Stevens, 1997). Fourth, friendships
+are driven by socioemotional goals; their primary
+purpose is to foster affective and relational wellbeing (Baumeister & Leary, 1995; Hays, 1985).
+These qualities make workplace friendships
+distinct from other positive relationships at
+work, such as high-quality connections (Dutton
+& Heaphy, 2003), formal mentorships (Kram &
+Isabella, 1985), positive working relationships
+between leaders and subordinates (Graen &
+Uhl-Bien, 1995), and other close, positive relationships outside of work. The complexity of
+both interpersonal relationships and modern
+organizational life allows for various types of
+friendships that are professional in nature.
+Nonetheless, here our definition of “workplace
+friendships” is limited to platonic (nonromantic)
+relationships between individuals who currently
+work in the same organization. Thus, based on
+the core features of friendship and the abovenoted boundary conditions, we define workplace
+friendship as a nonromantic, voluntary, and informal relationship between current coworkers
+that is characterized by communal norms and
+socioemotional goals.While these core features of
+friendship have been shown to remain consistent
+across contexts (Hartup & Stevens, 1997), we argue
+that when they exist within organizations, tensions, complexity, and the potential for downsides arise.
+Which Features of Organizational Life Make
+Workplace Friendships Complicated?
+The characteristics that differentiate friendship
+from other relationships can be at odds with core
+aspects of organizational life. In classic sociological research on bureaucracy, scholars advocate
+the eradication of friendships from organizations,
+arguing that they threaten the instrumental goals
+of firms and their members (Parsons, 1949; Weber,
+1968). More recent research highlights the unique
+tensions that arise when instrumental and affective goals “blend” in a given relationship or context, as is often the case at work (Bridge & Baxter,
+1992; Ingram & Zou, 2008; Methot et al., 2015;
+Rawlins, 1992; Sias, Heath, Perry, Silva, & Fix, 2004).
+We extend the limited research that explores the
+tensions resulting from friendships in organizational settings. Specifically, we propose that the
+four key features of friendship (informality, voluntariness, communal norms, and socioemotional
+goals) conflict with four qualities that are present
+in most organizations: formal roles, involuntary
+relationships, exchange norms, and instrumental
+goals (Bridge & Baxter, 1992; Fehr, 1996; Goffman,
+1961; Ingram & Zou, 2008; Sias & Cahill, 1998). These
+forces complicate the enactment of friendship in
+organizations, which we highlight below.
+In organizations, many relationships and activities are governed by formal, role-based interactions; although informal relationships exist,
+numerous involuntary constraints influence whom
+individuals interact with on the job (Chandler,
+1977; Ibarra, 1993; Weber, 1968). Outside organizational settings, individuals choose the people with
+whom they wish to interact and socialize; in organizations, much social interaction is predetermined
+by assignments to teams and organizational departments. Moreover, the voluntary selection of
+friends and the informal rules, socializing, and
+communication styles that accompany these bonds
+contrast with the formality and involuntary interaction often present in organizational life (Weber,
+1968). In addition, instrumental goals that are central to individuals’and teams’ success at work often
+conflict with the socioemotional goals of friendship
+(Ingram & Zou, 2008; Kahn, Wolfe, Quinn, Snoek, &
+Rosenthal, 1964). For example, if two team members
+are friends and one is underperforming on a project because of marital troubles, the friendship norm
+of providing socioemotional support may conflict
+with the desire to provide critical feedback to improve task performance. Last, exchange-based or
+2018 Pillemer and Rothbard 637
+“tit-for-tat” norms, which are the dominant mode of
+reciprocity in many organizational relationships,
+can be at odds with the communal or needs-based
+norms that characterize friendship (Blau, 1964; Clark
+& Mills, 1979; Clark & Reis, 1988; Goffman, 1961;
+Ingram & Zou, 2008).
+In sum, these tensions introduce the potential
+for downsides to friendship that are unique to organizations because they impact task performance at the individual, team, and organizational
+levels. In this article we examine individual,
+group, and organizational downsides that stem
+from these tensions between core features of
+friendship and organizational life and that we
+expect to have a broad-reaching impact on task
+performance across a range of roles, organizations, and industries.
+Which Relational Processes Drive Friendship
+Development and Growth?
+The literature on friendshipand close relationships
+shows that a range of individual and situational
+factors influence the development of workplace
+friendships, such as personality, proximity, and
+cultural norms (Hom & Xiao, 2011; Sanchez-Burks,
+2002; Sias & Cahill, 1998; Xin & Pearce, 1996). These
+antecedents influence friendship formation, maturation, and maintenance through two key relational processes that occur between individuals:
+mutual self-disclosure (Derlega & Grzelak, 1979;
+Jourard, 1959) and perceived similarity (Byrne,
+1961, 1971; McPherson, Smith-Lovin, & Cook, 2001).
+Self-disclosure. Friendship is characterized
+by mutual self-disclosure (Derlega & Grzelak,
+1979; Derlega, Metts, Petronio, & Margulis, 1993;
+Jourard, 1959). The beginning stages of a friendship involve sharing descriptive personal information and commentary on neutral topics, while
+later stages are more likely to involve sharing
+evaluative or affective personal information on
+one’s innermost opinions and emotions (Altman
+& Taylor, 1973; Goffman, 1961; Taylor & Altman,
+1987). Longitudinal research on friendship formation shows that individuals become increasingly intimate and less cautious with their
+self-disclosures, which shifts the nature of a
+friendship from social companion to trusted
+confidante (Clark & Reis, 1988; Hays, 1985; Sias
+& Cahill, 1998). Reciprocal sharing and validation of personal values, preferences, and beliefs
+lead to feelings of socioemotional closeness
+(Ensari & Miller, 2002), liking (Collins & Miller,
+1994), and affect-based trust (Chua, Ingram, &
+Morris, 2008; McAllister, 1995) and are the key
+drivers of intimacy in relationships (Clark & Reis,
+1988).
+Engaging in mutual self-disclosure of increasingly intimate, personal information and reciprocal validation brings friends closer as disclosures
+involve greater vulnerability and less caution
+(Levesque, Steciuk, & Ledley, 2002). However, if
+self-disclosures emphasize dissimilarities (e.g.,
+Dumas et al., 2013; Liao, Chuang, & Joshi, 2008)
+between individuals, they may backfire and lead
+to interpersonal distance, which is why mutual
+perceived similarity is a critical mechanism for
+promoting friendships (Altman & Taylor, 1973;
+Byron & Laurence, 2015; Phillips, Rothbard, &
+Dumas, 2009; West, Magee, Gordon, & Gullett,
+2014).
+Perceived similarity. Friendship stems from
+the fundamental tendency to be attracted to and
+pursue deeper bonds with similar others, otherwise known as the “homophily principle”
+(McPherson et al., 2001). The idea that individuals
+voluntarily befriend people they perceive to be
+like themselves dates back to classic writings
+by Aristotle and Plato and is a well-established
+finding in the study of close relationships
+(Aristotle, 1934; Bahns, Crandall, Gillath, &
+Preacher, 2017; Byrne, 1961, 1971; Lazarsfeld &
+Merton, 1954; McPherson et al., 2001; Plato, 1968).
+Similarity-attraction and homophily of social
+ties occur on the basis of not only salient demographic or surface-level qualities, such as
+age, race, and gender (Ibarra, 1993; McPherson
+et al., 2001; Nahemow & Lawton, 1975), but
+also “deep-level” characteristics, such as core
+values, beliefs, interests, and personal idiosyncrasies (Byrne, 1961, 1971; Byron & Laurence,
+2015; Harrison, Price, & Bell, 1998; Phillips & Loyd,
+2006).
+The importance of perceived similarity extends beyond initial attraction as friends develop
+shared understandings of the world through
+processes of social comparison and imitation
+(Erikson, 1988; Gibbons, 2004). Longitudinal studies of friendship development confirm that mutual perceptions and reinforcement of similarity
+remain an important feature of successful friendships beyond the initial formation stages, propelling these bonds to mature into deeper
+friendships (Clark & Reis, 1988; Hays, 1985; Sias
+& Cahill, 1998). Thus, individuals are more likely
+not only to be initially drawn to similar others but
+638 Academy of Management Review October
+also to maintain perceptions of similarity by
+affirming shared qualities through mutual selfdisclosure (Altman& Taylor, 1973;Kelley et al., 1983),
+which helps to maintain and deepen friendships
+(Harrison et al., 1998; Kelley et al., 1983; Rusbult,
+1987).
+Thus, self-disclosure and perceived similarity
+are the core interpersonal mechanisms that drive
+the formation, maintenance, and deepening of
+friendships. Figure 1 depicts the dynamic interplay among self-disclosure, perceived similarity, and the relational state of friendship. A
+bidirectional relationship occurs between selfdisclosure and perceived similarity: mutual selfdisclosure allows individuals to discover and
+perceive greater deep-level similarity (Ensari &
+Miller, 2002); in turn, greater perceptions of similarity lead individuals to disclose more (Collins &
+Miller, 1994). As described above, perceived similarity fosters the development of friendship (see
+Byrne, 1971, and McPherson & Smith-Lovin, 1987),
+and friendship increases the propensity to selfdisclose (Altman & Taylor, 1973; Hays, 1985).
+DARK SIDES OF WORKPLACE FRIENDSHIP
+Although several studies suggest that workplace friendships are not uniformly positive, these
+findings are largely disparate and disconnected.
+To guide our understanding of why, how, when,
+and for whom workplace friendships can be
+harmful, we move from a consideration of why
+friendship is more complicated in organizations
+to a discussion of when, how, and to whom these
+costs occur. While mutual self-disclosure and
+perceived similarity between colleagues encourage the development of friendship and its associated benefits, they also pose risks to task
+performance and functioning at the individual,
+group, and organizational levels when enacted
+within organizations.
+Although most research on friendship focuses
+on the consequences for members of the friendship, including individual and interpersonal outcomes (e.g., Hartup & Stevens, 1997; Hays, 1985;
+Ingram & Zou, 2008; Jehn & Shah, 1997; Methot
+et al., 2015), research on social exchange and clique formation suggests that we should also consider the effects on those outside these bonds,
+as well as on the organization’s functioning
+(e.g., Blau, 1964; Brewer, 1979; Tichy, 1973). For
+example, informal activities that bring people
+together in organizations (such as gossip) have
+been shown to lead to solidarity among the included individuals while simultaneously distancing them from others (Dunbar, 2004; Melwani, 2012).
+Thus, we focus on the downsides of friendship that
+negatively impact both individual and group
+outcomes, as well as broader organizational outcomes that impact task performance and organizational functioning. Moreover, responding to
+scholars’ recommendations, we examine the
+nature, not just the number, of friendships in
+order to fully understand their impact (Berscheid,
+Snyder, & Omoto, 1989; Ferris et al., 2009; Hartup
+& Stevens, 1997; Hays, 1985; Ingram & Zou, 2008;
+Sias & Cahill, 1998) by considering how features
+of a focal friendship clique (e.g., closeness, maturity, member status) may affect our proposed
+outcomes. Last, we highlight how fundamental technological shifts affect the dynamics of
+workplace friendships and their associated
+downsides.
+Individual-Level Downsides of
+Workplace Friendship
+Although mutual self-disclosure and perceived
+similarity promote friendship between colleagues,
+they can also lead to downsides when enacted
+in an organizational context with formal roles,
+involuntary constraints, instrumental goals, and
+exchange norms. We discuss below how these
+relational processes (see Figure 1) and tensions
+(see Table 1) can affect individual-, group-, and
+organization-level outcomes that negatively influence task performance.
+A key downside of friendship for individuals is
+distraction from work-related tasks. This downside stems from the communal (i.e., needs-based,
+not exchange-based) norms and socioemotional
+goals governing self-disclosure and their tension
+with exchange norms and instrumental goals
+within organizations. Because mutual selfdisclosure is a key mechanism driving friendship,
+individuals in both developing and established
+workplace friendships will engage in it frequently. However, when one member of a friendship dyad discloses personal information and
+feelings, the other member needs to provide
+validation and socioemotional support to maintain the relationship. Friends’ devotion of resources to social relationships that go beyond
+work-based interdependencies and goals may
+compromise instrumental goals (Bridge & Baxter,
+1992; Hobfoll, 2002; Sanchez-Burks, 2002). Friends
+2018 Pillemer and Rothbard 639
+FIGURE 1
+The Dark Sides of Workplace Friendship
+Organizational context
+Formal
+Involuntary Exchange
+Informal Socio- emotional
+Voluntary Communal
+Instrumental
+Workplace
+friendship
+Proposition 2a-b
+Proposition 1a-d
+Proposition 3a-c
+Self-disclosure
+Perceived similarity
+Closeness
+Maturity
+Member status
+Individual
+*Distraction from instrumental goals
+*Reduced preparation for and
+deliberation on complex decisions
+Group
+Organization
+*Interrole conflict between informal
+and formal roles
+*Inhibited knowledge sharing
+*Reduced perceptions of procedural
+and distributive justice
+are expected to listen, provide advice, and express empathy regardless of whether it is convenient or how “equal” these exchanges are
+(Jett & George, 2003; Methot et al., 2015; Toegel,
+Kilduff, & Anand, 2013). While individuals in
+friendships are likely to feel mutually supported
+over the long run, there can be periods of time
+in which one friend requires more substantial
+socioemotional support (Clark & Reis, 1988; Hays,
+1985), which can be problematic for the other
+friend’s productivity.
+In other words, friends’ needs to self-disclose
+and seek validation are, by definition, not always
+equal, predictable, and convenient and may be
+experienced as intrusions to task-based productivity. An intrusion is “an unexpected encounter
+initiated by another person that interrupts the
+flow and continuity of an individual’s work” (Jett &
+George, 2003: 485). These interpersonal intrusions
+can then lead to the intrapersonal experience of
+distraction, or a “psychological reaction triggered
+by external stimuli or secondary activities that interrupt focused concentration on a primary task”
+(Jett & George, 2003: 500). For example, when a visibly upset colleague knocks on a friend’s office
+door, they do so expecting that the friend will listen and provide validation, fulfilling the expectation of needs-based availability (Fehr, 1996)
+and communal support (Goffman, 1961; Methot
+et al., 2015). Because employees feel a stronger
+sense of socioemotional indebtedness to friends
+than to mere colleagues, the need to help resolve
+a friend’s issues will feel more personally meaningful (Aron, Aron, & Smollan, 1992; Weiss &
+Cropanzano, 1996).
+Thus, individuals are likely not only to give
+more time and resources to intrusions from friends
+but also to engage with greater psychological
+immersion in these conversations (Clark & Reis,
+1988). The depth of attention given to a non-taskrelated interruption has an additional carryover
+or “residue” effect, making it even more difficult
+to transition back to work tasks even when the
+intrusion itself has concluded; in this way, the
+interruption interferes with individuals’ functioning in their roles as employees (Leroy, 2009;
+Rothbard & Wilk, 2011). Compared to breaks that
+employees actively choose, intrusions are likely
+to be less restorative and, thus, more resource
+depleting than rejuvenating, which can further
+exacerbate the negative effects on core tasks and
+can ultimately inhibit individual performance
+(Metiu & Rothbard, 2013; Trougakos, Beal, Green,
+& Weiss, 2008).
+Proposition 1a: Compared to individuals in coworker relationships, individuals in workplace friendships are
+likely to experience more frequent and
+intense socioemotional intrusions from
+social interactions, resulting in greater
+distraction from instrumental goals.
+The closeness of friendships is an important
+determinant of the amount and intensity of attention required during intrusions and will influence the extent to which these intrusions reduce
+task-based focus and performance (Hobfoll, 2002;
+Jett & George, 2003; Perlow, 1999). As friendships
+become closer, personal disclosures become increasingly deeper and laden with more affective
+and evaluative statements. While “friendly” relations (Bridge & Baxter, 1992) or casual friendships are marked by amicable but superficial
+personal exchanges, close friends tend to serve
+TABLE 1
+Tensions and Dark Sides of Workplace Friendship
+Level Propositions Primary Tensions Dark Sides
+Individual 1a, 1b Communal/exchange Distraction from instrumental goals
+Socioemotional/instrumental
+Individual 1c, 1d Socioemotional/instrumental Interrole conflict between informal and formal roles
+Informal/formal
+Group 2a, 2b Socioemotional/instrumental Reduced preparation for and deliberation in complex decisions
+Informal/formal
+Organization 3a, 3b Informal/formal Inhibited knowledge sharing
+Voluntary/involuntary
+Organization 3c Communal/exchange Reduced perceptions of procedural and distributive justice
+Voluntary/involuntary
+2018 Pillemer and Rothbard 641
+as confidantes for more private, sensitive issues
+and are expected to provide emotional support
+(Altman & Taylor, 1973; Clark & Reis, 1988; Hays,
+1985; Toegel et al., 2013). Close friendships may
+develop slowly over time, but closeness can also
+occur more rapidly because of intensive interpersonal experiences involving self-disclosure
+and relationship building (Aron, Melinat, Aron,
+Vallone, & Bator, 1997). As workplace friendships
+increase in intimacy, individuals become increasingly identified with their friends’ goals and
+will therefore be more invested in their well-being
+(Aron et al., 1992). Closeness also breeds less
+caution in self-disclosures and increases the
+tendency for friends to share intimate details
+about personal and work problems, such as
+marital woes or issues with a supervisor (Sias &
+Cahill, 1998).
+Thus, intrusions from close friends are detrimental to workers’ ability to focus on instrumental goals not only because of the time spent
+receiving disclosures but also because such
+disclosures are more emotionally engaging,
+less likely to be related to work tasks (Clark &
+Reis, 1988; Leroy, 2009), and more emotionally
+depleting (Lanaj, Johnson, & Wang, 2016; Toegel
+et al., 2013). Over time, the provision of needsbased support to close workplace friends and
+a focus on socioemotional goals rather than instrumental goals can divert valuable cognitive and emotional resources from core tasks
+(Greenhaus & Beutell, 1985; Hobfoll, 2002;
+Maslach, Schaufeli, & Leiter, 2001), which can
+inhibit individual performance.
+Proposition 1b: The closeness of a
+friendship moderates the relationship
+between socioemotional intrusions and
+degree of distraction from instrumental
+goals such that intrusions from close
+workplace friends will be more distracting than intrusions from less close
+friends.
+A second downside for individuals in workplace friendships is interrole conflict. This stems
+from the juxtaposition of socioemotional versus
+instrumental goals and from the tension between
+the informality of friendship and the formality of
+organizational roles and structure. At work, instrumental goals are paramount, and individuals’
+formal role obligations are expected to take
+precedence over informal ties; thus, workplace
+friendships increase the potential for interrole
+conflict (Fisher & Gitelson, 1983; Grayson, 2007;
+Kahn et al., 1964) when the optimal behavior as
+a friend fundamentally opposes one’s optimal
+behavior as an employee of the organization
+(Bridge & Baxter, 1992). Although few studies have
+directly examined outcomes of friendship-work
+conflict (cf. Bridge & Baxter, 1992; Methot et al.,
+2015; Sias et al., 2004), conflict between work and
+personal roles has been linked to reduced satisfaction and can be problematic for task-based
+performance (Greenhaus & Beutell, 1985; Hirsch
+& Rapkin, 1986; Sias et al., 2004).
+Paradoxically, the relational processes that
+drive friendship development also make friends
+more likely to experience interrole conflict. Individuals are more likely to seek out informal
+interactions with others who share similar skills
+and interests (Bahns et al., 2017; Lincoln & Miller,
+1979; Schneider, 1987), as well as similar status
+and career stage. The similar structural positions (Burt, 1997) and interests that often characterize workplace friendships suggest that these
+communal-based relationships are also more
+likely to face competitive challenges, such as
+vying for the same promotion, or even smaller,
+less tangible resources, such as a supervisor’s
+time and attention (Methot et al., 2015; Galinsky
+& Schweitzer, 2015). Thus, the homophily that
+brings friends together sets them up to desire the
+same organizational resources and opportunities, leading to potential conflicts between the
+drives to compete (in service of their formal role
+and instrumental goals) and cooperate (in service of their informal role and socioemotional
+goals).
+Proposition 1c: Compared to individuals in coworker relationships, individuals in workplace friendships are
+more likely to experience interrole conflict between informal and formal roles
+at work because of greater similarity in
+social structure and interests and more
+ambiguity regarding whether to privilege instrumental versus socioemotional
+goals with workplace friends.
+Because perceived similarity and self-disclosure
+increase as friendships become closer, more
+intimate friendships should increase the likelihood of experiencing interrole conflict, since
+individuals will be more likely to feel conflicted about whether to privilege instrumental
+or socioemotional goals. Just as concerns over
+642 Academy of Management Review October
+socioemotional wealth can be sources of conflict in family businesses (Gomez-Mejia, Cruz,
+Berrone, & De Castro, 2012), workplace friendships also complicate instrumental goal pursuit. Organizational roles tend to have a strong
+influence on behavior because they are characterized by formal obligations and are necessary for one’s livelihood (Adams & Blieszner,
+1994; Blau, 1964; Magee & Galinsky, 2008). Thus,
+the “push” of instrumental goals and formal
+role obligations is likely to override the socioemotional goals and informal, felt obligations
+to casual friends. However, if friendships are
+closer, the heightened socioemotional investment and communal norms of this bond (and
+the pain of a prospective loss of a valuable
+friendship) make it less desirable for an individual to act in service of instrumental goals
+(Baumeister & Leary, 1995; Mitchell, Holtom,
+Lee, Sablynski, & Erez, 2001), which increases
+the likelihood that such individuals will feel
+conflict stemming from these competing drives,
+reducing focus and motivation on individual
+task performance.
+Nonetheless, very close or “best” friends should
+elicit less role conflict for the opposite reason:
+the socioemotional goals of this relationship
+will be unequivocally more important than the
+instrumental goals presented in a competitive
+situation. Thus, very close or best friends will
+experience less conflict about privileging their
+workplace friendship over organizational roles
+(Sias & Cahill, 1998). When individuals become very close friends, they experience an
+overlapping sense of self such that the goals
+and well-being of a friend become more important to one’s own happiness and self-concept
+(Aron et al., 1992; Clark & Reis, 1988). It is therefore in individuals’ best interest to privilege
+a very close friendship in order to avoid the immense socioemotional costs of friction or dissolution of these valuable bonds. Moreover, very
+close or established relationships have greater “tensility”—that is, the ability to withstand
+strain (Dutton & Heaphy, 2003). As individuals
+become closer and more secure in their relationships, they are better equipped to find integrative solutions to seemingly unresolvable
+clashes between socioemotional and instrumental goals (Fry, Firestone, & Williams, 1983).
+Thus, in situations of unavoidable conflict, such
+as when forgoing instrumental goals means
+losing one’s job or harming others, very close
+friends will more likely be able to productively
+resolve the issue in a way that maximizes value
+without compromising task performance for both
+individuals.
+Proposition 1d: There is an inverted
+U-shaped relationship betweenworkplacefriendship closeness and the experience of
+interrole conflict such that an employee
+will experience greater role conflict with
+moderately close friends than with casual
+or very close friends.
+Group-Level Downsides of Workplace Friendship
+A wide body of research has revealed that
+people’s tendency to voluntarily seek out and
+maintain similar core values and beliefs in
+workplace relationships can lead to positive interpersonal outcomes for dyads or small groups.
+Specifically, the feelings of belongingness and
+affect-based trust that result from perceived
+similarity and mutual self-disclosure are associated with the interpersonal outcomes of cohesion (Beal, Cohen, Burke, & McLendon, 2003;
+Gully, Devine, & Whitney, 1995) and reduced relational and emotional conflict (Jehn, Northcraft,
+& Neale, 1999; Pelled, Eisenhardt, & Xin, 1999).
+However, while perceived similarity and seamless
+cooperation are useful for tasks focused on maximizing productivity (Jehn & Shah, 1997; Tyler &
+Blader, 2001), the ability to make complex decisions may be impaired in dyads or groups in
+which all or the majority of members are workplace
+friends.1 This reduction in complex decision making stems from the homogeneity of characteristics and beliefs and a focus on socioemotional
+as opposed to instrumental goals (Loyd, Wang,
+Phillips, & Lount, 2013; Phillips, 2003).
+Thus, a key downside for dyads and groups of
+friends is lower-quality decision processes in
+situations that benefit from diverse viewpoints.
+This downside emerges because friendships
+1 As the number of members in a group increases, there are
+more opportunities for discrepancies in the degree of friendship among members. The likelihood that all members will be
+friends is contingent on various factors (size of group, length of
+time working together, individual and organizational attributes) that are beyond the scope of this discussion. However, to
+the extent that most group members are friends, we expect
+these dynamics to play out in a similar fashion. Future research should examine the impact of the proportion of friends
+on group outcomes.
+2018 Pillemer and Rothbard 643
+privilege socioemotional goals as people strive
+to maintain greater perceived similarity, which
+can come at the expense of instrumental goals.
+This process is particularly heightened when the
+formal roles and obligations of the organization
+conflict with the informal nature of friendship
+ties. Indeed, even without members’ greater desire for perceived similarity, dyads and groups
+tend to focus on common or similar information
+in an effort to avoid the discomfort that accompanies disagreement (de Wit, Greer, & Jehn, 2012;
+Kerr & Tindale, 2004; Stasser & Titus, 1985, 2003),
+which often compromises the quality of decisions. Lack of diversity (or homogeneity) among
+collaborators only tends to amplify these negative effects on the expression of disparate viewpoints (Gaither, Apfelbaum, Birnbaum, Babbitt, &
+Sommers, in press; Phillips, 2003; Phillips & Loyd,
+2006; van Knippenberg, De Dreu, & Homan, 2004).
+When group members share social characteristics
+and identify with one another, they are also less
+likely to share differing information and opinions,
+because this would violate group expectations
+of concurrence seeking (Baumeister & Leary, 1995;
+Brewer & Gardner, 1996; Hogg & Terry, 2000;
+Phillips, 2003; Phillips & Loyd, 2006; Thompson,
+Peterson, & Brodt, 1996). Thus, friends will be less
+likely to disagree with one another, and when
+they do disagree, they will hesitate to voice contrasting opinions for fear that they may harm the
+relationship (e.g., Loyd et al., 2013).
+Although concern for socioemotional goals is
+helpful in tasks requiring group harmony and
+cooperation (Jehn & Shah, 1997; Tyler & Blader,
+2001), such a focus may hinder the performance of
+tasks that benefit from diverse viewpoints (Janis,
+1982; Loyd et al., 2013; Sanchez-Burks, 2002) and
+from critical evaluation of differing perspectives
+(Chen, Shechter, & Chaiken, 1996; Fry et al., 1983;
+Thompson et al., 1996). In general, compared to
+homogeneous groups, diverse groups spend
+more time discussing and processing disparate
+information, ultimately leading to better outcomes
+in complex decision-making tasks (Galinsky et al.,
+2015; Hoever, van Knippenberg, van Ginkel, &
+Barkema, 2012; Homan, van Knippenberg, Van
+Kleef, & De Dreu, 2007; Post & Byron, 2015;
+Sommers, 2006). Conversely, when individuals
+focus on positive, informal, or social bonds with
+team members perceived to be similar, they focus less on task-related preparation, which leads
+to poorer group problem solving (Loyd et al.,
+2013). Moreover, when teams of friends have
+relationship-based conflict, their performance
+may be more likely to suffer compared to that of
+teams composed of nonfriends (Hood, Cruz, &
+Bachrach, 2017). Thus, in dyads and groups of
+friends, the tendency to privilege perceptions of
+similarity and socioemotional concerns over instrumental goals can result in lower group levels
+of both deliberation and preparation, which can
+undermine the quality of decisions on complex
+tasks.
+Proposition 2a: Compared to dyads
+and groups of colleagues who are not
+friends, dyads and groups of workplace
+friends engage in lower levels of preparation for and deliberation in complex decision-making tasks because of
+friends’ greater interpersonal similarity
+and their heightened focus on socioemotional goals versus instrumental
+goals.
+Nonetheless, employees in long-standing friendships may actually be able to share divergent
+opinions more easily because they are secure in
+these relationships. When friendships are in the
+early stages, individuals use greater caution as
+they disclose ideas and are more eager to affirm
+similarities so as to reinforce bonds and not
+alienate budding friendships (Altman & Taylor,
+1973; Hays, 1985; Sias & Cahill, 1998). However, when
+individuals feel more secure as these relationships mature, they can challenge friends’ views
+without fear of harming the bond (Bartholomew &
+Horowitz, 1991; Bridge & Baxter, 1992; Edmondson,
+1999). The organizational research supporting
+this view (e.g., Edmondson, 1999; Jehn & Shah,
+1997; Shah, Dirks, & Chervany, 2006) suggests that,
+in some cases, having stronger ties can facilitate
+greater psychological safety, or “a shared belief
+that the team is open for interpersonal risk-taking,”
+as well as mutual respect and comfort being
+oneself (Edmondson, 1999: 354). For friends to feel
+comfortable violating norms of reinforcing similarities, their attachments must be secure enough
+that revealing divergent opinions will not disrupt
+the bond. Thus, friends in the early stages of
+friendship will be more likely to engage in lower
+levels of preparation and deliberation as they
+focus on fulfilling socioemotional goals and
+seeking concurrence. However, mature workplace
+friendships are likely to be more stable, allowing
+individuals to establish norms for constructive
+disagreement (Shah et al., 2006). This research
+644 Academy of Management Review October
+suggests that group preparation and deliberation
+will increase in groups composed of members in
+mature friendships (Loyd et al., 2013).
+Proposition 2b: The maturity of a dyad’s
+or group’s friendship moderates the relationship between the presence of
+workplace friendship(s) and the dyad’s
+or group’s degree of preparation and
+deliberation in complex decision tasks
+such that levels of preparation and deliberation will be greater among dyads
+and groups in the mature stages of
+friendship (versus those in the earlier
+stages of friendship).
+Organization-Level Downsides of
+Workplace Friendship
+Anyone who has endured the social complexities of a school cafeteria can attest that close
+and exclusive friendship groups can lead to
+perceptions of exclusion and the subsequent development of social cliques. The fact that organizational life involves a great deal of interpersonal
+interaction based on involuntary constraints suggests that members outside the voluntary boundaries of a friendship will notice a contrast between
+their formal roles and the informal bonds their
+colleagues share. This awareness of others’
+friendships can be detrimental to outsiders and
+can have negative consequences for organizational functioning.
+When two employees form a workplace friendship, other colleagues begin to associate them
+as part of the same clique. Although any two
+individuals who spend time together might be
+categorized similarly, a workplace friendship is
+characterized by self-disclosure and reinforcing
+perceptions of similarity that lead to personal
+identification between individuals (Ashforth,
+Schinoff, & Rogers, 2016) and to others’ perceptions of them as an “ingroup” (Brewer, 1997). Individuals involved in the friendship will gain
+important ingroup socioemotional benefits—
+namely, feelings of belongingness and affectbased trust (Brewer, 1991; Kahn & Antonucci, 1980;
+Tajfel & Turner, 2004)—but as these bonds become
+closer, higher levels of similarity and intimate
+self-disclosure can breed a stark sense of exclusion, lack of connection to other employees, and
+perceptions of a social clique (Melwani, 2012;
+Tichy, 1973).
+A clique is “a subset of [organizational] members who are more closely identified with another [than other members] and who exchange
+something among themselves . . . such as information, affect, friendship, and so forth”
+(Tichy, 1973: 197). Relationships perceived as
+“friendly relations,” such as individuals chatting briefly about their weekend in the hallway,
+are unlikely to be perceived as exclusive because they may occur with many employees and
+conflict less with organizational life (Bridge &
+Baxter, 1992; Weber, 1968). However, the perceived similarity and self-disclosure processes
+that foster workplace friendships can make the
+boundaries of this subgroup seem more impermeable (Kahn et al., 2018) to others in the
+organization.
+The mere perception that others have formed
+a clique can lead to feelings of social rejection
+(Ferris, Brown, Berry, & Lian, 2008; Ozcelik &
+Barsade, 2011; Williams, 2001). Exclusion from
+social situations can be unintentional (Sommer,
+Williams, Ciarocco, & Baumeister, 2001) and
+may result from seemingly minor events (Ferris
+et al., 2008; Williams, Cheung, & Choi, 2000),
+but they can still have powerful effects on others
+(Gonsalkorale & Williams, 2007). Given that
+these negative feelings can inflict emotional
+pain (Eisenberger, Lieberman, & Williams, 2003;
+Macdonald & Leary, 2005) and also threaten
+the fundamental need for belongingness, selfesteem, and control (Baumeister & Leary, 1995;
+Ferris et al., 2008), perceptions of exclusive
+social factions are likely to push outsiders to
+seek identification with another clique (Tichy,
+Tushman, & Fombrun, 1979) or social subgroup
+that will fulfill these needs (Brewer, 1991; Hogg
+& Terry, 2000).
+Carton and Cummings (2012) suggested that
+identity-based subgroups form when members
+of an organizational group perceive that they
+share unique social characteristics. When
+others see that two or more members of an organizational group have established friendships they feel excluded from, this can provoke
+disidentification with the focal dyad or clique
+(e.g., Dukerich, Kramer, & McLean Parks, 1998;
+Elsbach & Bhattacharya, 2001; Kreiner &
+Ashforth, 2004; Sluss & Ashforth, 2007). Those
+who feel excluded will start to define themselves as not members of that group and may
+be more likely to form their own identity-based
+relationships and cliques to feel connected to
+2018 Pillemer and Rothbard 645
+others (Baumeister & Leary, 1995). This process
+can then lead to perceptions of impenetrable
+boundaries, or fault lines, between groups of
+friends (Lau & Murnighan, 1998).
+Although social cliques and subgroups are
+common in organizations (Carton & Cummings,
+2012; Tichy, 1973), identity-based subgroups, or
+those based on a shared social identity (Carton &
+Cummings, 2012), can be detrimental to collective functioning and broader instrumental goals.
+Liking one’s colleagues has been shown to be
+a key antecedent to seeking work-related assistance and sharing task-related knowledge,
+which are key for optimal task performance in
+most modern organizations (Casciaro & Lobo,
+2008; Gupta & Govindarajan, 2000; Reagans &
+McEvily, 2003). Moreover, when teammates
+share close informal ties, they are less likely to
+seek knowledge from outside teams (Hansen,
+Mors, & Løvas, 2005) and may be overly identi- ˚
+fied with these relationships, blinding them to
+other important roles and connections (Sluss
+& Ashforth, 2007). Consequently, a given workplace friendship may set off a chain of relational
+patterns through which collegial relationships
+become friendship cliques (based on internal
+closeness and external perceptions of impenetrability), which can inhibit knowledge sharing
+across the organization because of lack of voluntary communication among disparate social
+factions (Granovetter, 1973; Haas & Hansen, 2007;
+Hansen, 1999).
+Proposition 3a: Workplace friendship(s)
+may lead to inhibited knowledge sharing across the organization because of
+the formation of identity-based cliques
+that have fewer voluntary interactions
+with one another.
+Cliques may negatively affect knowledge
+transfer in organizations, and this effect will
+be stronger the more others are aware of and feel
+excluded from the friendship clique. A key factor
+that may affect the salience of a given workplace
+friendship clique is the social status of the clique’s
+members. Social status refers to the extent to which
+an individual or group is respected or admired
+by others (Magee & Galinsky, 2008; Ridgeway &
+Walker, 1995).
+Given that higher-status individuals are deemed
+to have valuable and important characteristics
+and resources (Hogg, 2001; Magee & Galinsky,
+2008), their cliques are likely to be more salient
+to colleagues outside those cliques. Conversely,
+if the members of a friendship group have lower
+social status (or are not particularly respected
+or admired), others are less likely to pay attention to and care about whether the clique exists.
+High-status members will make a friendship
+group’s existence and exclusivity more salient to outsiders and, therefore, more likely to
+spark disidentification and clique formation
+more broadly; this process, in turn, will trigger
+fewer voluntary interactions and less knowledge sharing.
+Proposition 3b: The social status of members of a focal friendship moderates the
+relationship between workplace friendship and inhibited knowledge sharing
+across the organization such that friendships comprising higher-status members are more likely to cause inhibited
+knowledge sharing than those comprising lower-status members.
+Social identity theory also suggests that individuals will not only disclose less and perceive less similarity with outgroups members
+but will also feel less positively toward these
+individuals (Brewer, 1991; Tajfel, 1982; Tajfel &
+Turner, 2001). Simply being part of an outgroup
+can trigger suspicion and a questioning of motives and behaviors (Brewer & Kramer, 1985;
+Fein, 1996). When employees are friends, the
+communal norms that govern their relationship(s)
+may contrast starkly with the exchange norms
+of other organizational relationships. Outsiders
+who share involuntary (e.g., task-based) ties
+with these individuals may therefore view these
+voluntary relationships as unprofessional and
+potential causes of unfair advantages. These relationships can thus compromise perceptions of
+fairness regarding both organizational procedures and outcomes (Cohen-Charash & Spector,
+2001), which are critical for productive professional relationships, organizational functioning, and performance (Rupp & Cropanzano, 2002;
+Taylor, Tracy, Renard, Harrison, & Carroll, 1995).
+Observers of a close workplace friendship may
+not believe that the involved parties will act
+“objectively” in both minor task-related activities, such as providing assistance, and major
+ones, such as determining promotions. Outsiders may therefore suspect ingroup favoritism
+(Galinsky & Moskowitz, 2000) toward the workplace friend.
+646 Academy of Management Review October
+The damage caused by these beliefs will
+likely increase to the extent that others perceive workplace friendships as threatening the
+formal merit-based procedures inherent in organizational life and bureaucratic objectivity
+(Ingram & Zou, 2008; Weber, 1947, 1968). Thus, if
+a friendship exists between individuals of equal
+formal status, this friendship will be less likely
+to raise suspicion among colleagues who are
+not in the friendship. However, when friendship
+dyads or cliques have greater interrank membership or include employees from “different
+status levels of the formal organization” (Tichy,
+1973: 197), others are more likely to view these
+bonds as undermining the organization’s meritocratic standards.
+Social status differences, such as those based
+on gender and ethnicity, have been shown to decrease the relational mechanisms of friendship
+such that individuals are less likely to engage in
+self-disclosure and to feel similar when fundamental status differences exist (McPherson &
+Smith-Lovin, 1987; Phillips et al., 2009). Therefore,
+when formal status distance exists within a
+friendship, those outside the friendship can be
+more likely to notice it as an anomaly (Fein, 1996;
+Kramer, 1999). This initial suspicion leads to closer
+scrutiny of the relationship and a questioning of
+whether the processes driving organizational outcomes are fair (Cohen-Charash & Spector, 2001),
+even when no observable behaviors explicitly call
+the trustworthiness into question (Brockner &
+Siegel, 1996; Fein, 1996). Individuals expect organizational rules and procedures to be consistent
+across people and not subject to interpersonal
+biases (Leventhal, 1980); any information that
+calls this into question can lead to perceived
+violation of procedural justice. For example, if
+a high-ranking individual frequently has lunch
+or goes out for drinks after work with a subordinate, other subordinates may notice and suspect that preferential treatment is being given to
+that subordinate, both in the present and potentially the future, which may lead them to question
+meritocratic processes across the organization.
+Thus, when colleagues outside of a friendship
+perceive those inside as having wide status distance, this view can undermine collective perceptions of procedural and distributive justice
+across the organization more broadly and, consequently, effective functioning and performance
+(Folger & Konovsky, 1989; Tyler, 1989; van den Bos &
+Lind, 2001).
+Proposition 3c: Formal status distance
+between friends moderates the relationship between the presence of a
+workplace friendship and collective
+perceptions of procedural and distributive justice such that other colleagues
+perceive lower levels of procedural and
+distributive justice when formal status
+distance is greater.
+The “Friending” Phenomenon: How Connecting
+on Social Media Influences the Dark Sides of
+Workplace Friendship
+Social media now provide a central means
+by which colleagues connect with one another
+(Leonardi & Vaast, 2017; McFarland & Ployhart,
+2015). Thus, communicating via social media
+is likely to influence the key tensions and relational processes of workplace friendships.
+Indeed, social media, or digital platforms that
+facilitate information sharing, user-created content, and collaboration (e.g., LinkedIn, Facebook,
+Instagram, Twitter), have revolutionized the
+way we connect and communicate within just
+the last decade (Barley, Meyerson, & Grodal,
+2011; McFarland & Ployhart, 2015; Perlow, 2012;
+Schinoff, 2017; Wajcman & Rose, 2011) and are
+increasingly altering the boundary between the
+professional and personal spheres (Forest &
+Wood, 2012; Ollier-Malaterre et al., 2013; Rothbard
+& Ollier-Malaterre, 2016). Yet theory and research
+in the domain of organizations have only recently begun to examine how communicating via
+social media influences intraorganizational relationships (Leonardi & Vaast, 2017; McFarland &
+Ployhart, 2015), and even less scholarship focuses
+on how this technology may impact informal
+bonds such as friendship (cf. Ollier-Malaterre
+et al., 2013; Schinoff, 2017). Therefore, we seek to
+advance theory by discussing how connecting
+with colleagues via social media can (a) alter the
+friendship formation process and (b) heighten the
+tensions associated with workplace friendship,
+both of which have implications for the individual,
+group, and organizational downsides of workplace
+friendship outlined above. Figure 2 incorporates
+the proposed effects of social media into the model
+depicted in Figure 1.
+Social media and friendship formation. Selfdisclosure allows individuals to discover and perceive similarities, and these, in turn, drive friendship
+2018 Pillemer and Rothbard 647
+FIGURE 2
+Full Model: Social Media and the Dark Sides of Workplace Friendship
+Organizational context
+Involuntary Exchange
+Informal Socio- emotional
+Voluntary Communal
+Formal Instrumental
+Workplace
+friendship
+Proposition 2a-b
+Proposition 1a-d
+Proposition 3a-c
+Tailoring
+Actual
+similarity
+amplifies tensions
+increases
+reduces
+Connecting on
+social media
+Proposition 4a-b
+Self-disclosure
+Perceived 
+similarity
+Closeness
+Maturity
+Member status
+Individual
+*Distraction from instrumental goals
+*Reduced deliberation and
+preparation on complex decisions
+Group
+Organization
+*Interrole conflict between informal
+and formal roles
+*Inhibited knowledge sharing
+*Reduced perceptions of procedural
+justice
+formation. On the one hand, connecting on social
+media is likely to increase personal self-disclosures
+to colleagues (Ollier-Malaterre et al., 2013), thus
+potentially expediting the process of discovering
+greater similarity and forming friendships. On the
+other hand, an increase in self-disclosures could
+also lead to the discovery of dissimilarities, which
+is likely to inhibit and even drive away potential work friendships (Dumas et al., 2013; Phillips
+et al., 2009). In typical face-to-face interactions,
+individuals tailor their disclosures to fit their interaction partner and the context in which their
+conversation is enacted (Collins, 2004; Goffman,
+1959). Individuals can tailor specific aspects of
+their identity that they think will be congruent with
+the conversation partner’s experience, as well as
+carefully gauge reactions to those disclosures.
+Thus, whether someone perceives a person as
+similar depends not only on their actual similarity
+to the person but also on the extent to which they
+tailor their disclosures to the person and the social
+context.
+Conversely, communication via social media
+discourages tailoring one’s self-presentations to
+a particular individual and context (McFarland &
+Ployhart, 2015; Ollier-Malaterre & Rothbard, 2015;
+Ollier-Malaterre et al., 2013). Rather, a common
+feature of these media is the unfiltered “broadcasting” of disclosures to a wide audience (OllierMalaterre et al., 2013; Shi, Rui, & Whinston, 2013).
+Individuals become “friends” with a click of a
+button and are immediately exposed to “a flood of
+untailored self-disclosure” (Ollier-Malaterre et al.,
+2013: 648), including family photos, personal interests, and political and religious affiliations
+that previously would have been slowly revealed
+selectively, such as through one’s office decor
+(Byron & Laurence, 2015), over months or years in
+conversations with colleagues, or in many cases
+not at all.
+Therefore, connecting on social media sites increases personal, non-work-related self-disclosure
+to colleagues while it also reduces the extent to
+which these disclosures are tailored to a particular individual or the norms of the workplace context. Individuals lose much of their ability to tailor
+disclosures and gauge reactions of specific people. Sharing untailored personal disclosures is
+likely to expedite the friendship formation process (in which self-disclosures lead to perceived
+similarity and vice versa, which, in turn, leads to
+the relational state of friendship) if individuals
+have high degree of actual similarity (e.g.,
+attitudes, interests, values; Harrison et al., 1998;
+Liao et al., 2008). However, greater access to
+untailored disclosures also increases the risk that
+workplace friends or potential friends will observe qualities about others that are not congruent with their own self-perceptions and the
+norms of the organizational context, inadvertently resulting in greater perceived dissimilarity and interpersonal distance (Dumas et al.,
+2013; Phillips et al., 2009; see Figure 2).
+Thus, connecting via social media can have
+a polarizing effect on workplace friendship, either
+facilitating friendship formation if actual similarity is higher or leading to more rapid discovery
+of dissimilarity and distancing between colleagues if actual similarity is lower.
+Proposition 4a: Connecting via social media increases personal self-disclosures
+and reduces the individualized tailoring of these disclosures to colleagues,
+which expedites the friendship formation process if individuals are higher
+in actual similarity and derails the
+friendship formation process if individuals are lower in actual similarity.
+Social media and tensions between friendship
+and the organizational context. Connecting with
+colleagues via social media also increases the
+four tensions noted above (informality versus
+formality, socioemotional goals versus instrumental goals, communal norms versus exchange
+norms, and voluntariness versus involuntary
+constraints), which can then amplify dark sides at
+the individual, group, and organizational levels.
+First, the informality that characterizes selfdisclosure on social media platforms, both in
+terms of communication style and content (Kiefer,
+2016; Leonardi & Vaast, 2017), can be at odds
+with the formality of organizational roles. Communication via social media tends to be more
+“conversational” and casual; a tweet or a post
+on someone’s Facebook wall implies less formal
+expectations than does traditional professional
+communication (Boyd, 2010; Ellison & Boyd, 2013;
+Kiefer, 2016). Moreover, since many social media
+platforms originated in the personal domain, they
+encourage self-disclosures not related to work
+(Leonardi & Vaast, 2017; Ollier-Malaterre et al.,
+2013). The informal style and personal content of
+communication via social media can also lead to
+conflicts in balancing the personal-professional
+boundary(Kiefer, 2016;Ollier-Malaterre et al., 2013).
+2018 Pillemer and Rothbard 649
+For example, the increased informality could amplify
+risks of interrole conflict if individuals discovered
+more similarities and felt closer to colleagues with
+whom they also compete.
+Second, many social media sites focus on fostering personal relationships, suggesting that
+self-disclosures should be geared primarily toward socioemotional goals, such as sharing
+photos of one’s family, an emotional disclosure
+about issues at home, or pictures from a New
+Year’s Eve party. These types of disclosures may
+bring people closer but may be distracting or
+heighten the relationship focus between workplace friends, which can undermine instrumental goals of individuals and teams (Dumas et al.,
+2013; Loyd et al., 2013). For example, knowledge
+via social media of a teammate’s difficult family
+issues may make it even more challenging to disagree with the individual in a group decisionmaking scenario, thereby reducing the extent to
+which colleagues deliberate on a complex issue.
+Third, as discussed above, workplace friendship(s) can also lead to downsides for the organization when other colleagues are aware of
+these friendships and see them as identity-based
+cliques. This is more likely to occur when the
+involuntary constraints of organizational life
+contrast with the voluntary nature of friendships.
+What is new about colleagues connecting via
+social media is that it increases transparency regarding who is connected to whom and the nature
+of these connections (Leonardi & Vaast, 2017). The
+ability to view social interactions and associations between other social groups to which one
+is an outsider can further amplify the tensions
+between voluntary and involuntary ties. For instance, sites such as Facebook and Instagram
+allow people to post pictures of social events and
+to “check in” to locations (and tag the “friends”
+accompanying them), making these connections
+more visible and salient to other, excluded colleagues (Krasnova, Wenninger, Widjaja, Buxmann,
+2013) and potentially amplifying clique formation
+and reduced knowledge transfer.
+Last, if friendships occur between individuals
+with more formal status distance, the visibility of
+others’ interactions on social media (Leonardi &
+Vaast, 2017) may further heighten the tensions
+between communal and exchange-based norms in
+that outsiders can more clearly see the friendship
+relationships, which might increase their suspicions that supervisors may be using need- rather
+than exchange-based norms. This perception, in
+turn, might signal favoritism and lack of procedural justice (Kramer, 1999; Tyler & Blader,
+2003). For instance, if an employee sees their boss
+disclose something personal on a colleague’s
+Facebook wall, or even comment on or “like” a
+colleague’s disclosure, this personal attention
+might be perceived as favoritism.
+Thus, when colleagues connect via social media, it may amplify the four tensions between
+friendship and the organizational context, which
+heightens the risk of downsides resulting from
+these tensions at the individual, group, and organizational levels.
+Proposition 4b: Connecting via social
+media increases the tensions between
+the core features of friendship and the
+organizational context, which, in turn,
+amplifies the potential for downsides at
+the individual, group, and organizational levels.
+DISCUSSION
+Although the benefits of close, informal ties at
+work are well documented and taken for granted,
+a small, disparate body of scholarship suggests that workplace friendships have important
+downsides that need to be better understood
+(e.g., Ingram & Zou, 2008; Methot et al., 2015). Our
+theoretical framework demonstrates how core
+features of friendship are at odds with central
+features of organizational life and cause tensions
+that create the potential for downsides. We also
+examine the role of new ways of working and, in
+particular, how the use of social media affects
+workplace friendship.
+Theoretical Contributions
+Scholars have acknowledged that workplace
+friendships are as complicated as they are critical
+to individuals and organizations (Ingram & Zou,
+2008). Yet the drivers of this complexity and the
+resulting challenges and downsides associated
+with workplace friendship are both poorly understood and likely to be rapidly shifting because
+of changes in work and communication technology. We have identified the sources of tension
+in workplace friendships that can lead to downsides at multiple levels within an organization.
+Thus, we extend and synthesize the literature
+on positive relationships at work, as well as
+650 Academy of Management Review October
+high-quality connections (Dutton & Heaphy,
+2003; Dutton & Ragins, 2007), close relationships
+(Clark & Reis, 1988; Ferris et al., 2009), and multiplex ties (Ingram & Zou, 2008; Methot et al.,
+2015), to articulate how and when these seemingly universally positive relationships may
+lead to tensions in and costs to organizations.
+While research on informal, personal relationships in organizations often notes the potential
+for challenges (e.g., Dutton & Heaphy, 2003), few
+studies have focused on the precise origin and
+nature of these downsides. We have specified
+how, why, when, and for whom there may be
+costs to organizational functioning associated
+with workplace friendships by specifying the
+tensions, relational mechanisms, and moderators of these relationships for individual, group,
+and organizational outcomes. In doing so we
+have provided a theoretical framework for future
+empirical work on workplace friendship to build
+on in understanding potential downsides as
+well as benefits.
+In addition, our work broadens the evaluation
+of the “positivity” of relationships beyond linear
+effects that accrue only to members of a focal
+friendship. Specifically, we consider how varying
+levels of workplace friends’ closeness, maturity,
+and status amplify or attenuate the risks associated with these relationships, offering predictive
+power for how the nature of a specific friendship
+tie (as opposed to the number of ties or network
+structure) can amplify or ameliorate downsides.
+Our theoretical model contributes to broader conversations about nonmonotonic effects of positive
+psychological phenomena, suggesting instances
+in which friendships may have curvilinear relationships with key outcomes (Grant & Schwartz,
+2011). Moreover, by considering downsides for
+“outsiders” to the friendships, we extend theory
+about how positive relationships can paradoxically lead to negative consequences for others
+(Blau, 1964; Brewer, 1997; Tichy, 1973). A focus on
+how the nature of a friendship influences negative outcomes and on how particular workplace
+friendships may affect various factions within
+organizations is a step toward reconciling conflicting findings regarding positive versus negative outcomes of these bonds (Ingram & Zou, 2008;
+Methot et al., 2015). We hope that this framework helps to spur additional research and cultivate deeper understanding of the complex,
+multifaceted nature of friendships in organizational settings.
+Last, scholars have just begun to examine
+the ways technology is fundamentally changing
+organizational relationships (Leonardi & Vaast,
+2017; McFarland & Ployhart, 2015; Ollier-Malaterre
+et al., 2013). Researchers have tended to focus on
+the benefits of social media in organizations,
+such as sustaining, transferring, and growing
+knowledge repositories (Treem & Leonardi, 2013),
+as well as increasing “metaknowledge,” or the
+awareness of who knows what in organizations
+(Leonardi, 2014, 2015). Yet when colleagues connect via social media, especially via sites that
+encourage informal and personal disclosures
+(e.g., Facebook, Instagram), this can raise new
+challenges for employees seeking to maintain
+boundaries between their personal and professional lives and relationships. We advance
+nascent theory on the changing nature of work
+relationships by highlighting how connecting
+via social media may alter the processes by which
+workplace friendships are formed, as well as
+amplify existing tensions between the personal
+role of friends and the professional norms and
+expectations of organizations. Given the rapid
+pace at which technology is shifting, and given
+the relative lack of empirical work on how the use
+of social media impacts informal workplace relationships (Leonardi & Vaast 2017; McFarland &
+Ployhart, 2015), our theorizing provides a useful
+jumping off point for future work in this increasingly important yet poorly understood domain of
+organizational life.
+Moreover, the heightened informality, focus
+on nonwork identities, untailored self-disclosure,
+and visibility of others’ social interactions characterizing many social media sites amplify the
+challenges of workplace friendship. While scholars
+often discuss the blurring of boundaries between
+work and nonwork identities (Dumas & SanchezBurks, 2015; Ollier-Malaterre et al., 2013), we highlight the importance of transparency of boundaries
+resulting from social media, in which the boundaries between work and nonwork identities and
+relationships remain intact but these identities
+and relationships themselves are more visible to
+outsiders. By highlighting the challenges that
+arise when colleagues engage in personal selfdisclosure both offline and online in an effort to
+build and maintain friendships, this work contributes to research on boundary management
+(Ashforth et al., 2000; Kreiner, 2006; Nippert-Eng,
+2008; Ramarajan & Reid, 2013; Rothbard, Phillips,
+& Dumas, 2005) and on identity work between
+2018 Pillemer and Rothbard 651
+personal and professional roles (Kreiner et al.,
+2009; LeBaron, Glenn, & Thompson, 2009).
+Future Directions and Extensions
+Future research should examine additional individual, relational, and contextual factors that
+impact the tensions, processes, and outcomes of
+friendship at work. Although numerous individual
+differences (e.g., prosocial motivation), situational
+factors (e.g., proximity), and organizational-level
+factors (e.g., the extent to which an organization’s
+culture is relational) will likely influence the prevalence and effects of friendship at work, we highlight two particularly promising avenues for future
+research below.
+First, individuals and organizations may differ in their relational nature and, thus, in the extent to which employees will experience tensions.
+For example, demographic and cultural differences may influence both individual preferences
+and organizational norms regarding workplace
+friendships. Indeed, compared to white men,
+women and individuals of Latin American and
+Asian backgrounds tend to be more communal
+in their relational style and, thus, may be better
+equipped to navigate the tensions of workplace
+friendship (Bridge & Baxter, 1992; Hom & Xiao,
+2011; Ingram & Zou, 2008; Sanchez-Burks, 2002;
+Sanchez-Burks, Nisbett, & Ybarra, 2000). Organizational culture may also differ in the extent to
+which close relationships are normative (Barsade
+& O’Neill, 2014; O’Neill & Rothbard, 2017). Future
+work should examine how gender, ethnicity,
+and organizational culture can moderate these
+relationships.
+Second, future research might explore the evolution of workplace friendships over time and the
+consequences of these shifts. This might include
+friendships that dissolve or devolve into negative
+workplace relationships (Sias et al., 2004) or that
+escalate into workplace romances (Pierce, Byrne,
+& Aguinis, 1996; Quinn, 1977). For example, in
+the case of damaged friendships, the intimate
+self-disclosures and the conferring of similarities
+that facilitate closeness can put employees at
+risk of trust violations and social undermining
+behaviors by former friends (Duffy et al., 2002;
+Elangovan & Shapiro, 1998; Granovetter, 1985;
+McAllister, 1995; Robinson & Bennett, 1995) The
+relational processes that drive friendship formation may also lead to nonplatonic relationships at
+work (Pierce et al., 1996). A specific type of close
+friendship that has been explored in the popular
+press but that has received scant scholarly attention is the “work spouse”—a friendship that
+resembles domestic partnerships in terms of the
+high levels of socioemotional involvement and
+self-disclosure, but can also lead to “crossing the
+line” into romantic relationships (Office Pulse,
+2017; Spector, 2017). Future research should examine the processes and consequences of workplace friendships’ evolution over time.
+Practical Implications
+Given the increasingly social nature of work
+(Grant & Parker, 2009; Oldham & Hackman, 2010)
+and the rise of social media as a core means
+of connecting with colleagues (McFarland &
+Ployhart, 2015; Ollier-Malaterre et al., 2013),
+workplace friendships will likely continue to become both more prevalent and complex. Highprofile organizations such as Google and Zappos
+are increasingly promoting cultures rooted in fun
+and camaraderie, taking for granted the belief that
+promoting friendships among their employees
+has uniformly positive effects on organizational
+outcomes (Dumas & Sanchez-Burks, 2015; Grant &
+Schwartz, 2011; Rath, 2006; Riordan, 2013). Yet
+forging successful friendships at work requires
+effectively managing the tensions inherent in
+workplace friendships. Informal strategies and
+formal policies need to be continuously enacted at
+the individual, group, and organizational levels to
+ameliorate the risks associated with workplace
+friendships.
+Colleagues in the early stages of friendship
+should develop tactics to manage the inherent
+tensions underlying workplace friendships. For
+example, individuals might encourage the development of shared understandings among
+friends regarding when it is acceptable to discuss
+nonwork topics to decrease the risk of intrusion,
+and when it is acceptable to openly discuss
+areas of conflict, such as promotion opportunities,
+to address potential interrole conflict directly.
+Teams might purposefully seek to integrate
+outsiders’ views at key points to help make important decisions and introduce diverse perspectives (Loyd et al., 2013), or place mature friends
+on teams who feel more comfortable openly
+disagreeing. Organizational leaders should implement programs (such as cross-functional
+or organization-wide coffee chats or presentations) that encourage informal dialogue among
+652 Academy of Management Review October
+individuals from disparate social groups to ensure that the boundaries of friendship groups are
+not perceived as impenetrable.
+Social media may add additional complexity
+to workplace friendships by increasing the transparency between personal and professional identities. Given that socialmedia platforms can vary in
+terms of the types of connections that are encouraged and what content is disclosed, individuals
+should also develop amore nuanced understanding
+of the different types of social media and how to use
+them to more skillfully share information that might
+help to foster closeness without undermining professionalism. Moreover, individuals should be
+aware of the “invisible audience” viewing their
+interactions online and should understand that
+seemingly harmless social interactions may cause
+other colleagues to feel excluded, fueling the
+formation of disparate cliques. Leaders should
+exercise particular caution over informal and
+preferential connections with subordinates to
+avoid perceptions of favoritism by outsiders.
+CONCLUSION
+Friendships at work provide undeniable benefits but also can bring troublesome downsides.
+Research that explicitly targets the dark sides of
+workplace friendships is critical to advance scholarship on the changing nature of workplace relationships. As organizations become more social
+and connected, employees and leaders must effectively manage the tensions and challenges arising from friendships within organizations in order
+to fully leverage the well-established benefits of
+these personal bonds. Moreover, understanding
+the source of these dark sides should help organizations to design policies and interventions that
+empower employees to optimize their relationships
+as they navigate an increasingly connected and
+boundaryless workforce.

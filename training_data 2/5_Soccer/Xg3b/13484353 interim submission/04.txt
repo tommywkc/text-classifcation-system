@@ -1,0 +1,657 @@
+Soccer schedules in Europe: an overview
+
+Abstract 
+In this paper, we give an overview of the competition formats and the schedules used in 25 European
+soccer competitions for the season 2008–2009. We discuss
+how competitions decide the league champion, qualification
+for European tournaments, and relegation. Following Griggs
+and Rosa (Bull. ICA 18:65–68, 1996), we examine the popularity of the so-called canonical schedule. We investigate
+the presence of a number of properties related to successive
+home or successive away matches (breaks) and of symmetry
+between the various parts of the competition. We introduce
+the concept of ranking-balancedness, which is particularly
+useful to decide whether a fair ranking can be made. We also
+determine how the schedules manage the carry-over effect.
+We conclude by observing that there is quite some diversity in European soccer schedules, and that current schedules leave room for further optimizing.
+
+Keywords Soccer 
+· Scheduling · Canonical schedule ·Ranking-balancedness · Breaks 
+· Mirroring  · Carry-over
+effect
+1 Introduction
+Sports have become big business, and in Europe, the most
+important sport is undoubtedly soccer. Soccer in Europe volves millions of fans, and billions of euros have been paid
+for broadcasting rights, advertising, and merchandizing. Europe is also the venue for thrilling competitions as for instance the Premier League, the Primera Division, and the
+Champions League, which involve the richest and most successful teams in the world. Obviously, with those amounts of
+money at stake, teams want to play their matches according
+to a schedule that maximizes their revenue. The relationship between the schedule and match attendance has been
+discussed by e.g. Scarf and Shi (2008) and Buraimo et al.
+(2009), but maximizing revenue should not be done without taking into account the fact that a competition should be
+attractive, fair, practicable, and safe for anyone involved.
+Finding a good schedule is not an easy challenge, as
+wishes from various stakeholders (the league, clubs, fans,
+TV, police, etc.) are often conflicting. Moreover, whereas a
+number of constraints are common for most competitions,
+many leagues have their peculiarities. For example, in the
+UK, travel distances for the fans must be minimized over
+the Christmas and New Year period, as reported by Kendall
+(2008). In regions where the same police force is responsible for guaranteeing the safety of several local clubs, avoiding too many derbies (Kendall et al. 2010), or simultaneous home games (Goossens and Spieksma 2009) is an issue. In other competitions, multiple television companies
+hold broadcasting rights and the schedule should balance
+the interesting matches over the rounds for each TV station
+(see e.g. Della Croce and Oliveri 2006). In The Netherlands,
+Schreuder (1992) reports that the railway schedule is taken
+into account when scheduling the league, to make sure that
+fans of rivaling clubs do not meet when taking the train to
+attend a football match. Over the last decade, sport scheduling received more attention from researchers from fields
+as operations research, computer science, and mathematics.
+Kendall et al. (2010) give a recent overview of the research
+642 J Sched (2012) 15:641–651
+Table 1 Overview of
+competition formats Competition Regular stage Play-off stage
+n Format Title Eur. Rel. Prom. rnds rel.
+Austria 10 4RR no no no no 36 1
+Belgium 18 2RR no no no yes 34 3–4
+Cyprus 14 2RR yes yes yes no 26–32 3
+Czech Rep. 16 2RR no no no no 30 2
+England 20 2RR no no no no 38 3
+France 20 2RR no no no no 38 3
+Germany 18 2RR no no no yes 34 2–3
+Hungary 16 2RR no no no no 30 2
+Ireland 12 3RR no no no no 33 3
+Italy 20 2RR no no no no 38 3
+Luxembourg 14 2RR no no no yes 26 2–3
+Malta 10 2RR yes yes yes no 24–28 2
+Netherlands 18 2RR no yes no yes 34–40 1–3
+N. Ireland 12 3RR yes yes yes yes 38 1–2
+Norway 14 2RR no no no yes 26 1–2
+Poland 16 2RR no no no yes 30 2–3
+Portugal 16 2RR no no no no 30 2
+Romania 18 2RR no no no no 34 4
+Russia 16 2RR no no no no 30 2
+Scotland 12 3RR yes yes yes no 38 1
+Slovakia 12 3RR no no no no 33 1
+Spain 20 2RR no no no no 38 3
+Switzerland 10 4RR no no no yes 36 1–2
+Turkey 18 2RR no no no no 34 3
+Wales 18 2RR no no no no 34 2
+done so far in sports scheduling, and classify the contributions according to the methodology used and the application,
+where soccer turns out to be the most popular topic.
+There are quite a few papers that present a solution approach for a specific soccer league in Europe: Schreuder
+(1992) for The Netherlands, Bartsch et al. (2006) for Austria
+and Germany, Della Croce and Oliveri (2006) for Italy, Rasmussen (2008) for Denmark, Flatberg (2009) for Norway,
+and Goossens and Spieksma (2009) for Belgium. There are
+also a couple of papers that try to classify sports scheduling
+problems. Bartsch et al. (2006) give a survey of a number of
+sports scheduling problems discussed in the literature, and
+indicate what type of constraints occur. A more elaborate
+classification of the various constraints involved is provided
+by Nurmi et al. (2010). These authors present a framework
+for a sports scheduling problem with 36 types of constraints,
+modeled from various professional sports leagues, including
+a set of artificial and real-world instances, with the best solutions found. Nevertheless, as far as we are aware, there is
+only one paper that does not focus on the process of obtaining a solution, but instead exclusively focuses on the actual
+solutions of sports scheduling problem: the schedules. Over
+a decade ago, Griggs and Rosa (1996) published a short paper entitled “A tour of European soccer schedules, or testing the popularity of GK2n”. For the season 1994–1995,
+they examined schedules of the highest division in 25 European soccer competitions given in Table 1. They focused on
+identifying the competitions that made use of the so-called
+“canonical schedule” (see Sect. 3), and found that it is used
+in 16 of these competitions.
+This paper can be seen as a follow-up of the work by
+Griggs and Rosa (1996): we revisit the 25 competitions they
+listed in 1996. These competitions still form a balanced sample of strong and weak soccer competitions in Europe. We
+look at the schedules for season 2008–2009 (or the 2008
+schedules for countries as Norway, where the soccer season
+corresponds with the calendar year), and verify whether they
+have a number of interesting properties. Thus, our goal in
+this work is modest: to investigate the schedules according
+to which today’s soccer competitions are being played. This
+gives insights in the diversity of the presence of different
+properties, and provides an answer to the question what features are apparently considered important in European soccer schedules. Notice that this type of information is usually
+J Sched (2012) 15:641–651 643
+not explicitly available, as the properties of a schedule often
+result from compromises on meetings with members from
+the association. Further, we will compare our findings with
+those of Griggs and Rosa (1996) and comment on the potential of further optimizing today’s schedules. We also introduce the concept of ranking-balancedness, which compares
+the number of home games played by each team after each
+round, and allows to express whether a fair ranking can be
+produced after each round.
+In the remainder of this paper, when we discuss a competition, we mean its highest division, to which we refer as
+the first division. We use n for the number of teams taking
+part in a competition, and l for the number of matches between a pair of teams in a (stage of) a competition. Matches
+are grouped in so-called “rounds”, meaning that they are
+scheduled to be played on the same day or weekend. In
+order to draw any conclusions about popular features in
+a soccer schedule, it is important to consider the fixtures
+as they were scheduled before the start of the season. We
+got this information from websites as www.the-sports.org,
+www.rsssf.com, and www.gooooal.com. These fixtures regularly differ from the order according to which the matches
+are actually played. Indeed, it is not uncommon that several matches in a season are postponed because of weather
+conditions, or conflicts with Champions League or Europa
+League matches. In rare occasions, entire rounds are put off:
+in Northern Ireland the (planned) first round was played after round 10, because of a strike of the referees (McCreary
+2008).
+In Sect. 2, we focus on the competition format, and the
+number of teams participating. We examine the popularity of
+the so-called “canonical schedule” in Sect. 3 and compare it
+with the findings by Griggs and Rosa (1996). The symmetry
+between the various parts of the competition, and the number of rounds between two successive encounters of each
+team is the topic of Sect. 4. In Sect. 5, we look at how schedules deal with successive home (away) matches. The balancedness of home and away games is discussed in Sect. 6,
+where we introduce the concept of ranking-balancedness.
+Section 7 investigates to what extent the so-called “carryover effects” are balanced in the schedules of our 25 competitions. Finally, a conclusion is presented in Sect. 8.
+
+2 Competition format
+When we observe the 25 European soccer competitions in
+Table 1, we notice that the number of teams taking part
+varies between 10 (in Switzerland, Austria, and Malta) and
+20 (in Italy, France, Spain, and England). The most popular number of teams is 18; no competition is played with
+an odd number of teams. A larger or more populated country does not necessarily have more teams in its competition
+(e.g., The Netherlands have two teams more than Russia),
+but stronger competitions according to the UEFA League
+ranking tend to have more teams. The number of teams occasionally changes, for instance when competitions choose
+a new format. Compared to the season 1994–1995, when
+Griggs and Rosa (1996) made their survey, five competitions
+increased their number of teams by two (namely, Cyprus,
+Italy, Luxembourg, Norway, and Scotland). On the other
+hand, five competitions decreased their number of teams by
+two (England, Poland, Portugal, Switzerland, and Wales),
+and Northern Ireland even went from 16 to 12 teams.
+All national soccer championships in Europe consist for
+the main part (if not fully) of a round robin tournament.
+A round robin tournament is a tournament where all teams
+meet all other teams a fixed number of times. In 19 of the 25
+competitions we investigated, a double-round robin tournament is played (i.e., each team meets each other team twice).
+Slovakia, Scotland, Northern Ireland, and Ireland have a
+triple-round robin tournament; in Austria and Switzerland,
+the competition consists of a quadruple-round robin tournament.
+In five of the competitions, the regular stage of the competition is followed by a play-off stage. Notice that it is not
+clear from the beginning of the season which teams will
+take part in the play-off stage, since this depends on their
+performance in the regular stage. Consequently, no play-off
+schedule can be made in the beginning of the season. The
+goal of this play-off can be to decide the league champion,
+to decide qualification for European tournaments (Champions League or Europa League), to claim promotion, or to
+avoid relegation. In Northern Ireland, Scotland, Cyprus and
+Malta, a play-off stage determines which team is the league
+champion, and which teams qualify for Europe. In Northern
+Ireland and Scotland, the play-off stage consists of a singleround robin tournament, played with the best six teams from
+the regular stage. In Cyprus and Malta, the play-off stage
+is a double-round robin tournament with the best four and
+six teams, respectively, from the regular stage. Teams take
+the points they collected in the regular stage with them to
+the play-offs, except in Malta, where they keep only half of
+these points. In the Netherlands, the league champion is decided after the regular stage, but the teams ranked six till
+nine take part in a play-off to compete for the final Europa
+League ticket. The format is a direct knock-out tournament,
+where the confrontations are decided by a so-called best of
+three legs. We make a distinction between promotion playoffs and relegation play-offs: the latter is contested solely
+between teams from first division, in the former, at least
+one team from the second division takes part. All competitions organize their promotion play-off in a direct knockout format, except for Belgium, where a double-round robin
+tournament is organized. A relegation play-off is less common, but occurs in Northern Ireland and Scotland (singleround robin tournament with the six lowest-ranked teams),
+644 J Sched (2012) 15:641–651
+Cyprus and Malta (double-round robin tournament with the
+four lowest-ranked teams). In all relegation play-offs, teams
+keep their points from the first stage, except in Malta, where
+only half of the points is carried over. Notice that a promotion and a relegation play-off do not exclude each other: in
+Northern Ireland, the one but last from the relegation playoff gets a second chance in the promotion play-off.
+Clearly, the differences in league format and number of
+teams, result in a different number of matches played per
+team in different competitions. The one but last column in
+Table 1 shows the number of league matches a team plays
+during one season for each of the 25 competitions. In some
+competitions, the number of matches played by a team depends on which play-off, if any, it qualifies for. On average,
+a team plays 33.46 matches in a season. However, in Cyprus,
+a team’s season can be finished after 24 games, whereas
+a team from The Netherlands may have to contest no less
+than 40 league games. Notice that we did not take into account the matches for the promotion play-off, because they
+are in general not between first division teams, and organized by the association of second division teams. Although
+most competitions have a tie-breaker like goal difference or
+head-to-head results, in some competitions one or more “test
+games” are needed to decide in case two teams end up with
+the same number of points. In the season 2008–2009, this
+happened in Malta, where relegation was settled in a single
+test game between Msida St. Joseph and Tarxien Rainbows
+(which ended in a penalty shootout), and in Belgium, where
+Standard collected the league title in a thrilling two leg confrontation against Anderlecht.
+The last column in Table 1 shows that none of the 25
+competitions is a closed competition, since at least one team
+from the second division promotes to the first division at
+the end of the season. Romania catches the eye with a guaranteed promotion for four second division teams. Also in
+Belgium, up to four teams could be relegated at the end of
+the season 2008–2009, but this was a once-only event, since
+the Belgian soccer association decided to reduce the league
+to 16 teams in the next season. Ireland has a similar story:
+since the competition shrinks from 12 teams in 2008 to 10
+in 2009, it has been decided that exceptionally, three teams
+will be relegated. On the other hand, in Wales, there was
+only one team being relegated instead of two as prescribed
+by the competition format, the reason being that Aberaman,
+the second division champion, was barred from promotion.
+In eight competitions, the number of teams being relegated
+is not fixed, but depends on the outcome of the promotion
+play-off.
+
+3 The canonical schedule
+In this section, and the rest of the paper, we focus on the regular stage of the competition. Rasmussen and Trick (2008)
+define a schedule as “compact” or “temporally constrained”
+when the number of rounds used is minimal. In the case of
+an even number of teams, this means that every team plays
+on every round. When more rounds are used than needed,
+we say the schedule is “(temporally) relaxed”. Griggs and
+Rosa (1996) point out that the schedules of Russia and The
+Netherlands are relaxed. They quote geographical considerations to explain the schedule in Russia, but are surprised by
+the Dutch schedule, for which they unsuccessfully tried to
+complete the rounds with games played on separate “irregular” dates. Currently, however, all leagues follow a compact
+schedule.
+Given a single-round robin tournament with an even
+number of n teams, a schedule can be seen as a onefactorization of Kn, the complete graph with n nodes. The
+nodes in this graph correspond to the teams, and an edge
+between two nodes represents a match between the two corresponding teams. A one-factorization of Kn is a partitioning into edge-disjoint one-factors Fi with i = 1,...,n − 1.
+A one-factor is a perfect matching, i.e., a set of edges such
+that each node in the graph is incident to exactly one of these
+edges. Each one-factor corresponds to a round in a compact
+schedule and represents n/2 matches. One-factorizations
+are a popular research topic, dating back to, as far as we
+are aware, a paper by Kirkman (1847). Notice that a onefactorization does not necessarily impose an order of the
+one-factors; if an order is fixed, we call it an ordered onefactorization. Notice also that a one-factorization does not
+specify which team has the home advantage in a given match
+(see Sect. 5).
+There are many ways to construct a one-factorization
+(see e.g., Mendelsohn and Rosa 1985), but undoubtedly,
+the most popular method is the so-called “canonical onefactorization”, also known as GK2n. According to Mendelsohn and Rosa (1985), this method is at least a century
+old, and can be found in most textbooks on graph theory.
+The canonical one-factorization has its one-factors Fi for
+i = 1,...,n − 1 defined as
+Fi =
+(n,i)
+∪
+(i + k,i − k) : k = 1,...,n − 1
+ (1)
+where the numbers i + k and i − k are expressed as one of
+the numbers 1, 2,...,n − 1 (mod n − 1) (De Werra 1981).
+Schedules that consist of rounds with pairings of the teams
+as described in the canonical one-factorization (possibly
+with a different ordering of the rounds than the regular ordering F1,F2,...,Fn−1), are called canonical schedules. One
+particular ordering, namely F1,F3,...,Fn−1,F2,F4,...,
+Fn−2, results in a schedule known as the Berger pairing table, which is not uncommon in chess tournaments.
+Before we can evaluate the popularity of the canonical
+schedule, we need to solve a recognition problem: given a
+schedule, is it canonical? Notice that given two rounds, corresponding to the one-factors F1 and F2, and the team that
+J Sched (2012) 15:641–651 645
+Table 2 Symmetry schemes Mirroring 1 2 3 . . . n − 1 1 2 3 ... n − 2 n-1
+French scheme 1 2 3 . . . n − 1 2 3 4 ... n − 1 1
+English scheme 1 2 3 . . . n − 1 n − 1 1 2 ... n − 3 n − 2
+Inverted scheme 1 2 3 . . . n − 1 n − 1 n-2 n-3 . . . 2 1
+Table 3 Overview of canonical
+schedules, symmetry and
+separation
+Competition Canonical Eql parts Intact rnds Symmetry s
+Austria yes (yes) yes yes English+English 1
+Belgium no (yes) yes yes Mirror 17
+Cyprus yes (yes) yes yes Mirror 13
+Czech Rep. no (yes) yes yes French 14
+England no (no) no yes None 6
+France no (no) yes yes French 18
+Germany no (yes) yes yes Mirror 17
+Hungary yes (yes) yes yes Mirror 15
+Ireland no (yes) yes yes Mirror 11
+Italy no (no) yes yes Mirror 19
+Luxembourg yes (yes) yes yes French 12
+Malta yes (yes) yes yes Mirror 9
+Netherlands no (no) yes yes None 9
+N. Ireland yes (no) yes yes Mirror 11
+Norway no (yes) yes no None 5
+Poland no (yes) yes yes Mirror 15
+Portugal yes (yes) yes yes Mirror 15
+Romania yes (yes) yes yes Mirror 17
+Russia yes (no) yes yes French 14
+Scotland no (no) yes no None 5
+Slovakia yes (yes) yes yes Mirror 11
+Spain yes (yes) yes yes Mirror 19
+Switzerland yes (no) yes yes Mirror+Inverted 1
+Turkey yes (yes) yes yes Mirror 17
+Wales no (no) no yes None 1
+plays the role of n in (1), we can easily construct the other
+one-factors according to (1). Therefore, given a schedule,
+it suffices to check, for each pair of rounds taking the role
+of F1 and F2, and each team taking the role of n, whether
+the given schedule corresponds with the resulting canonical
+schedule, in order to decide whether the given schedule is
+canonical.
+Griggs and Rosa (1996) found that for the season 1994–
+1995, 16 of the 23 compact schedules they examined were
+based on a canonical 1-factorization. By the season 2008–
+2009, this number decreased to 13. The second column
+in Table 3 shows whether or not a competition uses the
+canonical schedule; between brackets, the situation in 1994–
+1995 is given. We point out that in Austria and Switzerland, the order of the rounds differs from the order as prescribed in (1). The canonical schedule was abandoned in
+the Czech Republic, Poland, Ireland, Belgium, Germany,
+and Norway. We know that the introduction of mathematical programming played an important role in this change
+for the latter three competitions (see Bartsch et al. 2006;
+Goossens and Spieksma 2009; Flatberg 2009). Indeed, for
+schedulers that rely on a manual approach, the canonical
+schedule forms a familiar reference. On the other hand, the
+canonical schedule was introduced in Russia, Switzerland,
+and Northern Ireland; in the latter two competitions, this
+went together with a change of competition format. Thus,
+we conclude that the popularity of the canonical schedule
+still holds, over a decade after the survey by Griggs and Rosa
+(1996).
+
+4 Symmetry and separation
+When focusing on the regular stage of the competition, we
+notice that most schedules can be split into equal parts, such
+that each part forms a single-round robin tournament. The
+646 J Sched (2012) 15:641–651
+third column of Table 3 shows that this is the case in all
+competitions except for England and Wales. Swapping two
+rounds, however, would be sufficient to create equal parts in
+these two competitions as well. In general, matches that are
+grouped in a round in one part, are also grouped in the same
+round in the other parts of the competition. Exceptions to
+this rule are Norway and Scotland, as shown in the fourth
+column of Table 3.
+Usually, there is some symmetry between the order of
+the rounds in the various parts of the competition (see Table 2). In most competitions (15 out of 25, including a.o.
+Germany, Italy, and Spain), the second half of the competition is identical to the first, except that the home advantage
+is inverted. In case of a third part, as in Northern Ireland and
+Slovakia, the schedule for the first part is copied. This system is called mirroring. Another possibility is the so-called
+French scheme, where matches in the first and the last round
+are identical, as well as matches in round n−1+t and round
+t + 1 with t = 1, 2,...,n − 2 (again with the home advantage inverted). Apart from France, this scheme is used in
+Luxembourg, Russia, and the Czech Republic. In the English scheme (Drexl and Knust 2007), the opponents of the
+first round of the second part are the same as in the last round
+of the first part, and round n + t in the second part corresponds to round t in the first part, for t = 1, 2,...,n − 2.
+Strangely enough, the English system is not used in England, but in Austria, between the first and the second, and
+between the third and the fourth part (there is no relation between the second and the third part). The Swiss competition
+consists of four parts, where the first two are mirrored, and
+the final two follow an inverted scheme, meaning that the
+rounds of the third part are repeated in reverse order in the
+fourth round.
+In five competitions (England, The Netherlands, Norway,
+Scotland, and Wales), none of the above symmetry schemes
+is used. The schedule in Wales is, however, very close to the
+English scheme: swapping round 17 with round 19 would
+be sufficient. Symmetry schemes are generally perceived as
+a way to add fairness to the schedule, since they insert a considerable number of rounds between two meetings of most
+pairs of teams. Indeed, meeting an opponent twice in a short
+timespan would be advantageous when this opponent is
+weakened by injuries or low morale because of a losing run.
+However, symmetry schemes also limit the options, when
+numerous wishes of various stakeholders need to be satisfied as well. In those competitions, a separation constraint
+can be used when creating the schedule, enforcing that
+there should be at least s rounds between two games with
+the same opponents (see e.g., Rasmussen and Trick 2008;
+Bartsch et al. 2006). The final column in Table 3 shows the
+minimal number of rounds between two matches with the
+same opponents. Since for mirrored schedules, there are exactly n − 1 rounds between all matches with the same opponents, s = n − 1. The French scheme results in s = n − 2,
+however, for the English and the inverted scheme, s = 1, because the last round of the first part corresponds with the
+first round of the second part.
+
+5 Breaks
+Forrest and Simmons (2006) show that scheduling of home
+games consecutively has a negative impact on attendance.
+Therefore, it is desirable for each team to have a perfect
+alternation of home and away games. Since in any round
+robin schedule for an even number of teams this can be
+achieved for at most two teams, most teams will have a series of two successive home games, or two successive away
+games, which we call a “break”. In many competitions, it
+is an important consideration to have a low total number of
+breaks, and that a team does not have two (or more) successive breaks, meaning that it should not have more than
+two successive home (away) games. The minimal number
+of breaks for a single-round robin tournament with an even
+number of teams is n − 2 (De Werra 1981). More in particular, De Werra (1981) shows that this can be achieved in
+an ordered canonical schedule as follows: an edge (i,n) has
+team i as the home side if i is odd, and team n as the home
+side if i is even. Further, an edge (i + k,i − k) has i + k as
+the home side if k is odd; i − k is the home side if k is even.
+For a double-round robin tournament, a schedule with
+2n − 4 breaks can easily be constructed from a single-round
+robin schedule with a minimal number of breaks by using
+the inverted scheme. If we want a mirrored double-round
+robin schedule, the minimal number of breaks is 3n − 6,
+and if n = 4, this can be achieved without a team having
+successive breaks (De Werra 1981). However, if there is no
+need for a schedule that consists of consecutive single-round
+robin tournaments, we can limit the number of breaks to
+n − 2, even if all teams meet each other team more than
+twice. This is illustrated for a double-round robin tournament with six teams in Table 4, where rounds 1, 4, 5, 8, and
+9 form a single-round robin tournament with n − 2 breaks.
+Sometimes, competitions prefer to equally distribute the
+breaks over the teams, although the minimum number of
+breaks then increases to n for a single, and 2n for a doubleround robin tournament (De Werra 1980). This type of
+schedule is called an “equitable schedule”. Starting from an
+equitable single-round robin schedule, the French scheme is
+a way to create an equitable double-round robin schedule.
+The second column in Table 5 shows the number of
+breaks in each competition, followed by (between brackets)
+the ratio of this number of breaks and the minimal number of breaks of a schedule that consists of l single-round
+robin tournaments (i.e., l(n − 2)). No competition has a
+schedule where the number of breaks is minimal, but most
+schedules do not exceed the minimal number of breaks with
+
+Table 4 A double-round robin
+schedule for six teams with
+n − 2 breaks
+R1  R2  R3  R4  R5  R6  R7  R8  R9  R10
+A-B B-A E-B B-E A-F F-A B-C C-B B-F F-B
+C-D D-C A-D D-A B-D D-B A-E E-A D-E E-D
+E-F F-E C-F F-C E-C C-E D-F F-D A-C C-A
+
+Table 5 Overview of breaks
+and balancedness Competition  Breaks Max series Per team Begin End |i,R| (k) g
+Austria 52 (1,63) 3 3–8 yes no 0 (3) 2
+Belgium 48 (1,50) 2 0–3 no no 0 (2) 2
+Cyprus 36 (1,50) 3 0–3 yes no 0 (2) 2
+Czech Rep. 32 (1,14) 2 2–2 no no 0 (2) 2
+England 130 (3,61) 2 5–8 no no 0 (1) 1
+France 40 (1,11) 2 2–2 no yes 0 (2) 2
+Germany 48 (1,50) 2 0–3 no no 0 (2) 2
+Hungary 42 (1,50) 2 0–3 no no 0 (2) 2
+Ireland 54 (1,80) 2 0–6 no no 1 (2) 2
+Italy 66 (1,83) 2 0–4 no no 0 (2) 2
+Luxembourg 32 (1,33) 4 2–4 yes no 2 (3) 3
+Malta 24 (1,50) 3 0–3 no yes 0 (2) 2
+Netherlands 116 (3,63) 2 4–9 no no 0 (3) 2
+N. Ireland 70 (2,33) 5 0–13 yes no 2 (6) 5
+Norway 28 (1,17) 2 0–3 no no 0 (2) 2
+Poland 56 (2,00) 4 3–7 yes no 0 (4) 3
+Portugal 42 (1,50) 2 0–3 no no 0 (2) 2
+Romania 48 (1,50) 2 0–3 no no 0 (2) 2
+Russia 32 (1,14) 2 2–2 yes yes 0 (2) 2
+Scotland 84 (2,80) 2 6–10 no yes 1 (3) 3
+Slovakia 50 (1,67) 3 0–5 yes no 1 (2) 2
+Spain 54 (1,50) 2 0–3 no no 0 (2) 2
+Switzerland 44 (1,38) 2 0–6 no no 0 (2) 2
+Turkey 48 (1,50) 2 0–3 no no 0 (2) 2
+Wales 94 (2,94) 4 1–10 yes yes 2 (4) 4
+
+more than 50%. In five competitions however, the number of breaks seems irrelevant, as they use over twice as
+many breaks as needed. Urrutia and Ribeiro (2006) show
+that a large number of breaks, and successive breaks, can
+be advantageous to minimize travel distances. Whereas this
+could be a motivation for the high number of breaks England, it is questionable whether this explains the situation in
+The Netherlands, Scotland, Wales and Northern Ireland. The
+third column in Table 5 shows the maximal number of consecutive home (away) games for each competition. In most
+competitions, no team plays more than two home (away)
+matches in a row. Exceptions are Luxembourg, Poland, and
+Wales (4) and Northern Ireland, where Cliftonville found
+five consecutive home games on its schedule (a welcome
+compensation for a start with six away games in the first
+eight rounds).
+The fourth column of Table 5 gives the minimal and
+maximal number of breaks per team for each competition.
+Clearly, the various leagues have a very different assessment of the importance of an equal number of breaks. Most
+competitions choose for mirroring, which leads not just to
+more breaks than necessary in general, but also to an uneven distribution of the breaks: two teams without breaks,
+three breaks for all other teams in a double-round robin tournament. France, Russia and the Czech Republic opt for an
+equitable schedule, whereas in Wales and Northern Ireland,
+the difference in number of breaks between two teams can
+be huge. The fifth and sixth column show that less than one
+third of the leagues has a team that starts with two away
+games (or two home games). A similar observation can be
+made for the last two rounds: in 80% of the competitions,
+a break in the final round is avoided. A traditional argu-
+648 J Sched (2012) 15:641–651
+ment is that the first matches set the tone for the following
+to come, and thus starting with two away games could be
+disadvantageous. Similarly, concluding the season with two
+home games could present a decisive advantage for teams
+still in the running for the league title or relegation. In Russia and Wales, these considerations are not relevant, since
+their competitions allow breaks both on the second and on
+the last round.
+
+6 Balancedness
+For reasons of fairness, it may be desirable that each team
+plays approximately half of its games at home, and the
+other half away. For each team i, we denote the number
+of home (away) games played after round r as hi,r (ai,r).
+Moreover, we define i,r as the difference between home
+games and away games played by team i after round r, i.e.
+i,r = hi,r − ai,r. Knust and v. Thaden (2006) call a schedule balanced if for each team, the numbers of home and
+away games played at the end of the season, differ by at most
+one, or if |i,R|  1, where R is the final round. They also
+show that a balanced home-away assignment always exists.
+Nurmi et al. (2010) call a schedule k-balanced if the number
+of home and away games for each team differ by at most k
+after each round of the tournament. In other words, k corresponds to the maximal value for |i,r| over all teams i and
+rounds r.
+The eighth column in Table 5 shows the values for |i,R|;
+between brackets the value for k is given. It is striking that
+three competitions do not have a balanced schedule according to the measure by Knust and v. Thaden (2006): Luxembourg, Northern Ireland, and Wales. In these competitions, a team finished the competition with two home games
+more than another team. In Slovakia, Ireland, and Scotland,
+there are teams that end the competition having played one
+home game more than some other teams. This is, however,
+inevitable since a triple-round robin tournament (with an
+even number of teams) is played in these competitions. In
+Scotland, this is compensated in the play-off stage, a singleround robin tournament that offers the possibility for an extra home game for those teams that were at a disadvantage
+in the regular stage. Throughout the season, the difference
+between home and away games exceeds two at some point
+in almost all competitions. As mentioned before in Sect. 5,
+Cliftonville (Northern Ireland) played six away games in the
+first eight rounds; nevertheless they ended the regular stage
+having played two more home games than away games.
+Another concern is to have a league table that offers a
+fair ranking after each round. Given the advantage that a
+home game offers, this would be the case if the number of
+home games played by each team after each round is as balanced as possible. Since, as far as we are aware, no measure
+takes this into account, we introduce the concept of rankingbalancedness. We call a schedule g-ranking-balanced, if after each round, the difference between the number of home
+games played by any two teams up till then is at most g, or
+more formally if for each round r
+max
+i
+(hi,r) − min
+j
+(hj,r)  g. (2)
+It is trivial to show that a schedule with g = 0 does not
+exist. Therefore, the most balanced schedule has g = 1,
+meaning that after each round, a team played at most one
+home game more or less than any other team. Rankingbalancedness measure is related to the balancedness as defined by Knust and v. Thaden (2006), but distinct. Indeed,
+k-balancedness focuses on the difference between home and
+away games for a team, whereas g-ranking-balancedness
+deals with the difference in number of home games played
+between teams after a round. The value for g for each competition is given in the final column of Table 5, and differs
+from k for several schedules. In most competitions, the difference in number of home games played between teams
+is small (g = 2), with Wales (g = 4) and Northern Ireland (g = 5) as exceptions. England has the most rankingbalanced competition, which is surprising, since the schedule of this league has not displayed much structure until
+now. The Premier League is, however, the only competition
+where the difference in home games played between any two
+teams is never more than one.
+
+7 The carry-over effect
+Any schedule for a round robin tournament involves an order
+in which each team meets its opponents. We say that a team
+i gives a carry-over effect to a team j , if some other team t’s
+game against i is followed by a game against team j . This is
+particularly relevant in physical, body-contact sports. For instance, if team i is a very strong, tough-playing side, one can
+imagine that its opponent, team t, is weakened by injuries or
+fatigue, which could be an advantage for its next opponent,
+team j . Moreover, the carry-over effect could also be relevant in a strictly psychological interpretation, when team t
+loses confidence and morale after a severe loss against the
+strong team i, again to the benefit of their next opponent,
+team j . The opposite may be true if team i is a weak team.
+Clearly, carry-over effects are unavoidable in any schedule,
+but schedules can differ in the extent to which carry-over effects are balanced over the teams. We define cij as the number of times that team i gives a carry-over effect to team j
+in a schedule. These values can be seen as the elements of
+matrix C, which we call the carry-over effects matrix. The
+degree to which the carry-over effects are balanced is typically measured by the so-called carry-over effects value,
+
+Table 6 Schedule (a) and its carry-over effects matrix (b) for a singleround robin tournament with six teams
+12345
+ACF BDE
+BEDACF
+CAEF BD
+DF BEAC
+EBCDF A
+F DACEB
+(a)
+013010
+001310
+000113
+300011
+111101
+130010
+(b)
+Table 6 shows an example of a schedule for a singleround robin tournament with six teams (a), and the corresponding carry-over effects matrix (b). For instance, c41,
+the number of times that team D gives a carry-over effect
+to team A, equals 3, since it happens three times that A’s
+opponent played against team D in the previous round. Notice that according to Russell’s definition, the carry-over effect from the last round to the first is also counted, although
+of course in practice this is meaningless. The carry-over effects value for this schedule is 60, which is actually minimal (Russell 1980).
+The lowest carry-over effect value we may hope for in
+a single-round robin tournament with n teams is n(n − 1).
+This is the case when all non-diagonal entries of C equal 1,
+and the diagonal entries equal zero. A schedule that achieves
+this is called a balanced schedule. Russell (1980) presents
+an algorithm that results in a balanced schedule when n is a
+power of 2. For other values of n, the best known results are
+by Anderson (1999). It is not hard to see that the canonical
+schedule results in the maximal carry-over effect value.
+We investigate to what extent soccer schedules in Europe manage to balance carry-over effects. We compute the
+carry-over effects value for the first n − 1 rounds of the regular stage of each competition. For most competitions, these
+n−1 rounds form a single-round robin tournament. Figure 1
+represents the carry-over effects value of each competition
+on a scale where 0% (100%) represents the best (worst)
+known result for a single-round robin tournament with n
+teams. The carry-over effects value is given between brackets. The competitions with the best balanced carry-over effects are those whose schedules do not present much of the
+structure discussed in the previous sections, namely England, Italy, Ireland, Scotland, and The Netherlands. It is also
+remarkable that swapping a couple of rounds of a canonical
+650 J Sched (2012) 15:641–651
+schedule, as was done in Austria and Switzerland, can drastically reduce the unbalancedness of the carry-over effects.
+Unbalanced carry-over effects are regularly used in the
+media to explain the outcome of a competition. This happened e.g. for the league title of Brann Bergen in Norway
+(Flatberg 2009), and the relegation of Beveren in Belgium
+(Geril 2007), in seasons when both competitions were using
+the canonical schedule. In fact, in these competitions, unbalanced carry-over effects played an important role in the decision to quit using the canonical schedule. Recently, however, Goossens and Spieksma (2011) measured the influence
+of carry-over effects using a dataset of over 10,000 matches
+from Belgium’s first division. They find that the influence
+of carry-over effects on the result and the goal difference
+of a match is negligible, and conclude that a schedule with
+unbalanced carry-over effects does not cause a significant
+(dis)advantage for any team.
+8 Conclusion
+In this paper, we presented an overview of the competition
+formats and schedules used in 25 European soccer competitions for the season 2008–2009. All competitions use a
+round robin tournament in the regular stage; in five competitions this stage is followed by a play-off stage that decides the league title, qualification for European tournaments, and/or relegation. The number of teams in the competition, and the number of rounds varies considerably. All
+competitions are open, guaranteeing at least one second division team to promote to the first division; in eight competitions the number of teams to be relegated is not fixed.
+Perhaps surprisingly, 14 years after the Griggs and Rosa
+(1996) investigation, it turns out that the canonical schedule
+is still popular, as it is used in more than half of the competitions. The canonical schedule, however, results in the most
+unbalanced carry-over effects, and this has been the reason
+for at least two competitions to abandon it, although shuffling the rounds of the canonical schedule can already be
+quite effective to reduce the carry-over effects value. Minimizing the number of breaks is not the most important objective when creating a schedule. Indeed, over half of the
+competitions opts for a mirrored schedule, which uses 50%
+more breaks than needed. Further, the vast majority of the
+competitions prefers to have at least five rounds between two
+matches between the same teams. In general, however, the
+number of breaks is limited, teams rarely have two consecutive breaks. The Premier League is the only competition
+where a ranking-balanced schedule is used, although the total number of home games played after every round for each
+team does not differ by more than two in most other competitions.
+In conclusion, if we look at the properties present in
+the 25 schedules in our overview, we can say that there
+is a considerable diversity. Moreover, the popularity of the
+canonical schedule shows that there is still potential when it
+comes to optimizing soccer schedules. Indeed, the number
+of canonical schedules is quite small compared to the total
+number of feasible schedules. There is, however, a trend to
+abandon the canonical schedule in competitions where more
+advanced scheduling techniques are introduced. Therefore,
+we would not be surprised if only a small minority of the
+competitions will still be using the canonical schedule in another 14 years.

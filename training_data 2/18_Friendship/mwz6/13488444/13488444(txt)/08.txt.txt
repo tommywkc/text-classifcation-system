@@ -1,0 +1,1026 @@
+WHEN BROKERAGE BETWEEN FRIENDSHIP CLIQUES
+ENDANGERS TRUST: A PERSONALITY–NETWORK
+FIT PERSPECTIVE
+STEFANO TASSELLI
+Erasmus University
+MARTIN KILDUFF
+University College London
+Workplace friendship obligations of openness and favoritism are likely to conflict with
+organizational norms of discretion and neutrality. This dilemma is especially apparent
+for Simmelian brokers, who divide time and attention across multiple, otherwise disconnected, friendship cliques. In two samples, we found support for the core idea that
+the fit between the requirements of the network role and the personality of the individual
+facilitates trust. Simmelian brokers are trusted by their friends if they exhibit a roleappropriate diplomatic personality style involving flexibility of self-presentation (high
+self-monitoring) and inhibition of verbal loquaciousness (low blirtatiousness). Of course,
+not everyone engages in Simmelian brokerage. Some individuals experience a strongly
+cohesive situation—i.e., a single friendship clique within which they are embedded. For
+these nonbrokers, we hypothesized and found that the most appropriate trait combination likely to maintain the trust of a group of tightly bound colleagues involved
+a forthright, be-true-to-yourself, loquacious personality style (i.e., low self-monitoring,
+high blirtatiousness). In introducing a personality–network fit perspective concerning
+whether Simmelian brokers are trusted by their colleagues, we help reconcile discrepancies in prior literature concerning whether these brokers are paralyzed into indecision by cross-pressures. Brokers who flexibly and guardedly manage individuality
+facilitate interconnection across cliques.
+Rees’ power stemmed from his receiving, or assuming,
+the role of unofficial spokesman... . He [and others]...
+were all in varying degrees adroit at moving in and out
+of clique activities...as a way of dealing with situations
+too urgent and dynamic for formal handling.
+—Dalton, 1959: 30
+Workplace friendships are common in organizations (Morrison & Cooper-Thomas, 2013) and have
+been investigated by organizational behavior researchers from the very beginning of the discipline,
+both in terms of dyadic relationships and in terms of
+cliques (e.g., Roethlisberger & Dixon, 1939). Workplace friendships facilitate productivity, employee
+retention, job satisfaction, job involvement, team
+cohesion, and other positive outcomes (Balkundi &
+Harrison, 2006; Berman, West, & Richter, 2002; Rath,
+2006) including personal growth and emotional
+support (Colbert, Bono, & Purvanova, 2016). However, these business friendships (i.e., friendships
+between coworkers—Ingram & Zou, 2008) are difficult to manage because the overlap between affective
+and instrumental obligations (Lincoln & Miller, 1979)
+subjects friendship pairs to stresses and strains
+(Ingram & Zou, 2008; Methot, Lepine, Podsakoff, &
+Christian, 2016) that can undermine trust (Lewicki &
+Bunker, 1996). Friendship is a role that comes with
+clear obligations (Henderson & Argyle, 1986) to provide assistance, to be fully open and honest, to share
+confidences, to keep disclosures from others, and to
+provide special treatment and favoritism (Bridge &
+Baxter, 1992). Many of these obligations conflict with
+governing principles of workplace interaction emphasizing efficiency and rationality (Ingram & Zou,
+2008).
+The undermining effects on trust of business
+friendships may be particularly evident when an individual has two sets of friends who are not friends
+with each other—a relatively common phenomenon
+in organizations (Burt, 2016). The individual who is
+caught between obligations and time demands to two
+internally cohesive groups may find that friends in
+each group expect priority when it comes to the
+802
+Copyright of the Academy of Management, all rights reserved. Contents may not be copied, emailed, posted to a listserv, or otherwise transmitted without the copyright holder’s express
+written permission. Users may print, download, or email articles for individual use only.
+transmission of valuable gossip and advice (Casciaro&
+Lobo, 2008). The person caught between two or more
+cliques has been labeled a Simmelian broker1
+(Krackhardt, 1999) and a multiple insider (Vedres &
+Stark, 2010). The situation has been analyzed from
+a balance-theory perspective, according to which an
+individual who has friendship bonds to two nonoverlapping groups finds it difficult to adopt a stable
+attitude toward those ideas or people about which the
+groups differ (Davis, 1963: 450–51). A recent case
+study illustrated the paralyzing effect of such crosspressures on a Simmelian broker who was “frozen by
+the set of constraints imposed by the numerous cliques” of friends to which he belonged (Krackhardt,
+1999: 206). There has also been research on brokerage
+between cohesive groups more generally (not exclusively concerned with friendship relations) in terms of
+how the brokers have to overcome the appearance of
+ambiguous loyalties to two different groups and
+manage the possible disruption of trust if they are to
+facilitate knowledge transfer, innovation (de Vaan,
+Stark, & Vedres, 2015; Vedres & Stark, 2010), and their
+own productivity (Burt, 2015). As a recent review of
+brokerage noted, “highly cohesive groups may develop a belief that the broker is not ‘one of us,’ which
+could in turn trigger skepticism of the broker’s motives” (Stovel & Shaw, 2012: 144). Left unexamined in
+this literature is the possibility that the personality of
+individuals helps explain why they differ in how well
+they manage the potential for disruption of trust that is
+one possible consequence of the Simmelian broker’s
+multiple insider role (e.g., Vedres & Stark, 2010: 1159).
+The dilemma, therefore, is that brokers between
+friendship cliques must be trusted by others in order
+to succeed in the vital organizational role of bringing
+new and incompletely understood combinations of
+previously disconnected ideas across boundaries
+(Vedres & Stark, 2010). However, trust itself tends
+to be engendered within closed, rather than open,
+network structures (Burt, 2001; Coleman, 1988;
+Granovetter, 1985), and to be amplified by the presence of mutual friends and other third parties (Burt &
+Knez, 1995). In particular, one of the challenges
+facing Simmelian brokers is to sometimes hide and
+sometimes share knowledge across friendship clique
+boundaries. Being seen to hide knowledge that is
+useful to the members of a particular clique is likely
+to engender distrust (e.g., Cerne, Nerstad, Dysvik, ?
+& Skerlavaj, 2014). However, to give away the secrets ?
+of one clique to another is to betray one’s membership
+of the clique, as discussed in Dalton’s (1959) classic
+analysis of how cliques are formed around secrecy
+(Costas & Grey, 2014).
+Some people, we suggest, are better than other
+people at managing the challenge of conversations
+and interactions across disconnected friendship cliques. The research question is: Does personality affect
+whether Simmelian brokers are trusted by their
+friends? To answer this question, we build on pioneering (e.g., Burt, Jannotta, & Mahoney, 1998) and
+recent (e.g., Burt, 2012; Kleinbaum, Jordan, & Audia,
+2015) work on the personalities of those who occupy
+structurally important positions in friendship networks (Fang, Landis, Zhang, Anderson, Shaw, &
+Kilduff, 2015). The research focus is on how the
+combination of self-monitoring (i.e., flexibility of selfpresentation to different groups [Snyder, 1974]) and
+blirtatiousness (i.e., disinhibition of verbal expressiveness [Swann & Rentfrow, 2001]) relates to trust for
+those in Simmelian brokerage roles.
+Thus, we ask how people with different combinations of self-monitoring and blirtatiousness deal
+with potential mistrust inherent in the Simmelian
+brokerage role. Over a century ago, James wrote that
+the individual has “as many different social selves as
+there are distinct groups of persons about whose
+opinion he cares” (James, 1890: 294). In the current
+research, these distinct groups of people are the
+friendship cliques who claim the time and attention
+of their members, including brokers whose loyalties
+We thank Amy Colbert for her editorial guidance, and
+the three reviewers for their helpful suggestions. Special
+thanks to Alberto Caimo for his advice on the exponential
+random graph model analysis, and to Jochen Menges for
+his feedback on an earlier version of the paper. The paper
+was improved through presentations at several venues, including the Micro-Foundations of Organizational Social
+Networks symposium at the 2015 Academy of Management
+Meeting, Vancouver; and the 2016 Intra-Organizational
+Networks Conference at the Links Center for Social Network
+Analysis, University of Kentucky. The paper also benefited
+from comments from seminar participants and reading
+groups at the Judge Business School, University of Cambridge; Rotterdam School of Management, Erasmus University; UCL School of Management, University College
+London; Warwick Business School; Tilburg University; USI
+Lugano; HEC Paris; University of Amsterdam; the Institute
+for Analytical Sociology; Linkoping University; Copenhagen Business School; Ludwig Maximilian University
+Munich; and Ca’ Foscari University Venice.
+1 Following Krackhardt (1999: 188), we define a Simmelian broker as one who connects at least two cliques
+such that no member of one clique except the broker is
+directly connected to any member of the other clique; and
+where within each clique all members are strongly and
+reciprocally tied to each other.
+2018 Tasselli and Kilduff 803
+are divided between two or more such cliques. We
+predict that trust will be greatest when the personality
+of the individual and the structural characteristics
+of the individual’s network fit in ways that play to
+the expression of behaviors that meet the demands of
+the specific social situation while downplaying situationally inappropriate behaviors (Tett, Simonet,
+Walser, & Brown, 2013).
+Our paper makes three main contributions to theory and research. Prior work has dealt with brokerage
+between cliques as a structural dilemma. Supplementing this emphasis, the current paper contributes
+to the micro-foundations approach to organizational
+social networks (Tasselli, Kilduff, & Menges, 2015)
+via a consideration of how a combination of personality traits affects whether individuals are trusted by
+colleagues. Second, by introducing a personality–
+network fit perspective, we help resolve the debate
+among structuralists concerning whether the constraints of Simmelian brokerage suppress or liberate
+the broker’s individuality. Third, in examining the
+extent to which Simmelian brokers are trusted, we
+necessarily examine the contrasting situation of
+nonbrokers whose friendship ties are captured within
+single cliques. Thus, we go beyond prior research that
+has focused only on the personalities of brokers
+(e.g., Burt, Kilduff, & Tasselli, 2013; Sasovova, Mehra,
+Borgatti, & Schippers, 2010) in considering how
+a range of personality orientations is likely to find
+effective expression across social network roles in
+organizations.
+TRUST IN SIMMELIAN BROKERAGE
+We focus on trust between friends as the dependent
+variable. Trust has been described as the most fundamental judgment that can be made about another
+person (Ferrin, Dirks, & Shah, 2006: 871). Trust is
+critical to the brokerage role in organizations given the
+requirement to coordinate across clusters of people
+who themselves are not connected (see the extensive
+discussion of trust in relation to brokerage and closure
+in Burt [2005]). In order to transfer knowledge across
+even strong ties, it is necessary to be trusted (Levin &
+Cross, 2004). Trust is a central characteristic of relationships in that it promotes effective knowledge
+creation and sharing in networks (Abrams, Cross,
+Lesser, & Levin, 2003) and relates to many other aspects of individual, group, and organizational functioning, including work performance (at individual
+and group levels), organizational commitment, and
+intention to leave (Dirks & Ferrin, 2001). The gossip
+of co-clique members can impose strains on the
+Simmelian broker’s maintenance of cross-clique trust
+relationships (Burt & Knez, 1995: 275).
+Friendship networks in organizations are “systems for
+making decisions, mobilizing resources, concealing or
+transmitting information, and performing other functions closely allied with work behavior and interaction”
+(Lincoln & Miller, 1979: 196). We define friendship as
+a reciprocated liking relationship between two people
+who frequently interact (e.g., Krackhardt, 1999). In organizational contexts, however, relationships are often
+multifaceted (Lewicki,McAllister, & Bies, 1998: 439) and
+feelings of positivity and negativity toward friends are
+common, as the literature on “frenemies” (e.g., Redman,
+2013) and ambivalent friendships (i.e., those that are simultaneously both positive and negative) (e.g., HoltLunstad, Uchino, Smith, & Hicks, 2007) has described.
+From this we infer that two people may express mutual
+liking even though, in certain aspects of their interactions, one may have low trust in the other.
+Trust in a Simmelian broker is likely to come under
+strain given that the members of each clique to which
+the broker belongs have no friends (other than the
+broker) in the broker’s other cliques. In each clique,
+the broker faces the expectation from friends to be
+honest and open, to share confidences, and to keep
+such disclosures confidential (Bridge & Baxter, 1992).
+Establishing and maintaining friendships generally
+requires significant investments of support and attention that can prove fatiguing (Methot et al.,
+2016). The demands placed on Simmelian brokers
+to maintain separate sets of friendship relations can
+accentuate the conflicting expectations and energy
+depletion characteristic of workplace friendships
+(Methot et al., 2016).
+Even if cliques share similar norms and values, the
+Simmelian broker is likely to face expectations by
+each set of friends to spend time with and give attention to one set of friends rather than another, to
+favor one set over the other, and to be transparent and
+confidential—expectations that contribute to the
+mixed blessings of friendship (Methot et al., 2016;
+Shackelford & Buss, 1996). If trust is to be maintained
+in the eyes of one particular clique, the Simmelian
+broker is expected to exhibit altruistic behavior toward the members of that clique rather than investing
+time, resources, and effort in one ormore other cliques
+(McAllister, 1995; Shackelford & Buss, 1996).
+We illustrate how Simmelian brokerage differs from
+other types of structural arrangements in Figure 1. The
+figure shows person Ras a member of three cliques that
+would be disconnected but for R’s multiple insider
+status. Person R is, therefore, a Simmelian broker in
+being the only person who connects multiple cliques.
+804 Academy of Management Journal June
+Person R’s attitudes and behavior are subject to
+scrutiny by a range of coworkers whose views can
+influence how much trust interaction partners
+place in R (Ferrin et al., 2006). By contrast, person K
+is one of two people who connect across the three
+cliques to which he or she belongs. Person K is,
+therefore, not a Simmelian broker because he or she is
+not unique in the role he or she plays in helping to
+broker across partly overlapping groups. Note that
+person J in the figure has no brokerage role at all, but is
+captured within a single clique. Our theory and our
+empirical analyses focus on the situations faced by
+Simmelian brokers such as R, not on the situation of
+people like J or K who occupy different structural
+positions thanR. We ask: How, given the pressures on
+people (like R) in Simmelian brokerage roles, are
+personality differences likely to affect who is trusted?
+Personality–Network Fit
+Personality theory concerning Simmelian brokerage
+is scant or nonexistent, so we offer a new theoretical
+approach that is guided by ideas from personality
+theory and research. Multiple clique memberships,
+of the kind that actor R experiences, are likely, we
+suggest, to activate different personality expressions
+(e.g., Colbert & Witt, 2009; Tett & Guterman, 2000)
+depending on individuals’ personality profiles (e.g.,
+Mischel & Shoda, 1995). The experience of having to
+juggle scarce time and attention across interpersonal situations (e.g., Stanko & Beckman, 2015) is
+likely to prompt individuals to exhibit characteristic
+coping behaviors. Some individuals, we suggest, will
+respond to multiple cliques with flexible adjustment to
+the differing needs of the clique members (i.e., high
+self-monitoring) and inhibited verbal expressiveness
+(i.e., low blirtatiousness). These trait-related behaviors
+are likely to represent a good fit with the demands of
+the multiple-clique structure, thereby providing a
+positive experience to the individual (e.g., KristofBrown, Jansen, & Colbert, 2002: 985) and providing
+evidence of the good citizenship behavior that enhances and maintains trust (McAllister, 1995). Based
+on person–organization fit research (see Kristof, 1996,
+FIGURE 1
+Brokerage between Cliques
+Number of cliques Simmelian
+brokerage
+Betweenness
+centrality
+Ego
+betweenness
+centrality
+Role in network
+3
+3
+3
+0
+1 0
+71.43
+19.64
+0.00
+24.00
+3.00
+0.00
+Simmelian broker
+(Actor R)
+Non-Simmelian
+broker (Actor K)
+Nonbroker (Actor J)
+J
+R
+K
+2018 Tasselli and Kilduff 805
+for a review), we suggest that a fit between the individual and the network structure occurs when there is
+compatibility between the individual and the surrounding network such that the individual has the
+abilities required to meet situational demands (Kristof,
+1996: 3). Some individuals, we suggest, will experience the Simmelian brokerage position as an opportunity to liberate aspects of their personality that
+otherwise might remain relatively unused. Other individuals will respond with trait-related behaviors that
+are ill-suited to the demands of a multiple-clique situation. They will lose clique members’ trust to the
+extent that they fail to detect and adjust behavior to the
+differing requirements of different interpersonal situations, and are seen as talking uninhibitedly about
+matters that clique members consider should be kept
+private.
+Self-monitoring. Self-monitoring theory is familiar
+to social network researchers (e.g., Kilduff, 1992;
+Mehra, Kilduff, & Brass, 2001). The self-monitoring
+construct has emerged across studies as the strongest
+personality predictor of who occupies roles of structural advantage (Fang et al., 2015). Indeed, selfmonitoring has been described as “a psychological
+analogue to bridging structural holes” (Burt, 2012:
+548). Relative to low self-monitors, high self-monitors
+are predisposed to act out potentially incompatible
+roles with distinct groups (Snyder, 1987: 62–63), they
+are skilled in social interactions (Furnham & Capon,
+1983), and they emerge as informal leaders in organizations (Kilduff, Mehra, Gioia, & Borgatti, 2016).
+A Simmelian broker is the only person who connects
+otherwise unconnected cliques. The demands of this
+multiple insider role, connecting people across multiple cliques, represents a good fit with the high selfmonitor’s boundary-spanning ability (e.g., Caldwell &
+O’Reilly, 1982) to flexibly adjust to the demands of
+different situations (e.g., Zaccaro, Foti, & Kenny, 1991).
+High self-monitors accurately perceive relationships
+within social networks (Flynn, Reagans, Amanatullah,
+& Ames, 2006), provide help to colleagues in need
+(Toegel, Anand, & Kilduff, 2007), and are skilled at
+maintaining positive impressions across different
+groups (Flynn, Chatman, & Spataro, 2001). Thus, high
+self-monitors in the Simmelian brokerage role (relative
+to low self-monitors in this role) are likely to maintain
+their social standing, including their colleagues’ trust,
+despite their membership in multiple cliques.
+In contrast, low self-monitors (relative to high selfmonitors) are likely to win the trust of their colleagues
+when the structural situation consists of membership in
+a single clique. The expression of authentic attitudes
+and behaviors with little regard for impression
+management—characteristic of the low self-monitoring
+orientation—is likely to represent a good fit with the
+structural situation of being captured within a single
+clique of like-minded friends. Low self-monitors are
+likely to gain trust within single cliques because of their
+evident authenticity: they choose to be in social situations that are congruent with their underlying dispositions (Snyder & Gangestad, 1982). With respect to
+friendship, research in self-monitoring has noted that
+“low self-monitoring individuals seek to maximize
+the fit between their friends and their own personal attributes” (Snyder & Simpson, 1984:1281). Low selfmonitors (relative to high self-monitors) are likely to
+engage in more frequent interaction within the clique
+with their friends (Snyder & Simpson, 1984), and thus
+gain trust (McAllister, 1995). Low self-monitors commit
+themselves to their friends across a range of different
+activities, whereas high self-monitors are less committed to relationships in general (e.g., Kilduff & Day, 1994;
+Norris & Zweigenhaft, 1999; Snyder & Simpson, 1984)
+and choose activity partners on the basis of their skills
+for particular activities rather than on the basis of liking
+(Snyder & Simpson, 1984).
+Thus, high self-monitors are likely to overcome the
+lack of trust endemic to the Simmelian brokerage
+role but to suffer a lack of trust to the extent that their
+friendship relations are restricted to a single clique.
+Past research has failed to find a significant interaction between self-monitoring and network position
+with respect to outcome measures (e.g., Mehra et al.,
+2001). Therefore, we break new ground in anticipating that colleagues’ trust will be influenced by
+the interaction between self-monitoring personality
+orientation and the extent to which individuals
+broker between multiple, disconnected friendship
+cliques.
+Hypothesis 1. The more the individual’s friendships
+span across disconnected cliques, the greater the
+positive effect that a high self-monitoring orientation
+has on how much the individual is trusted by others.
+Blirtatiousness. A separate question of fit refers to
+how the structural situation of Simmelian brokerage
+relates to differences in the speed of self-revelation.
+Some individuals engage in rapid, frequent, and effusive
+communication that reveals thoughts, feelings, and attitudes to others (Swann & Rentfrow, 2001). High blirters, or verbal disinhibitors, tend to express themselves as
+soon as thoughts occur to them, whereas low blirters, or
+verbal inhibitors, are relatively slow and inhibited in
+responding to others (Swann & Rentfrow, 2001; Swann,
+Rentfrow, & Gosling, 2003), whether the interaction
+is affectively neutral (for example, conversation in
+806 Academy of Management Journal June
+a classroom) or contentious (such as confrontation during a phone call).
+There are several positive aspects to the blirtatious, rapid verbal-responding propensity. High
+blirters, relative to low blirters, are seen as more intelligent, more likable, more physically attractive,
+and more interesting. They deal with annoying interactions with more humor, and exhibit less stress
+(Swann & Rentfrow, 2001). People high in blirtatiousness are easier to get to know because their good
+and bad characteristics are amplified (Swann &
+Rentfrow, 2001). However, blirtatiousness can lead
+to impulsive verbal outbursts, particularly in response to provocation (Park, Ickes, & Robinson,
+2014). Because blirtatiousness amplifies individuals’ reactions, it is easier for third parties to infer
+negative emotional states, including irritation, of
+high than of low blirters (Swann & Rentfrow, 2001:
+1172). Moreover, third parties might consider the
+speediness and effusiveness of high blirters as inappropriate for professional contexts, and thus report that they give away secrets and fail to display
+necessary discretion and diplomacy (Swann et al.,
+2003).
+Most of the research on blirtatiousness relates either to couples’ therapy (Sellers, Woolsey, & Swann,
+2007; Swann, McClarty, & Rentfrow, 2007; Swann
+et al., 2003) or to consumer behavior (Bolkan &
+Goodboy, 2011). However, no research has looked at
+blirtatiousness in organizational contexts or related
+blirtatiousness to brokerage or trust.
+From a personality–network fit perspective, high
+blirters in Simmelian brokerage roles are likely to impair the trust of their colleagues. A major challenge
+for the Simmelian broker is to act with discretion in
+terms of being seen by friends in both cliques as likely
+to keep, rather than reveal, secrets. Such discretion
+with respect to confidential information is a contributing factor to the maintenance of trust (e.g., Abrams
+et al., 2003). The high blirter is likely to suffer censure
+in moving from one clique to another for failing to
+control verbal expression when socially required to do
+so (Swann et al., 2003). However, for high blirters who
+are members of single cliques, there is an opportunity
+to build trust through the transparency of frequent
+communication with clique members (Abrams et al.,
+2003). Thus, low blirtatiousness is likely to represent
+a good fit with the requirements of the Simmelian
+brokerage role, whereas high blirtatiousness is likely
+to represent a good fit with the requirements of membership in a single clique. Overall, therefore, the prediction is that the more that the situation calls for
+brokerage between unconnected cliques, the greater
+the advantage that low blirters will have in maintaining trust.
+Hypothesis 2. The more the individual’s friendships
+span across disconnected cliques, the greater the
+positive effect that a low blirtatiousness orientation
+has on how much the individual is trusted by others.
+Combining the traits. The first two hypotheses
+summarize the separate cases for the relevance of selfmonitoring and blirtatiousness in explaining trust in
+Simmelian brokers. However, individuals who combine high self-monitoring and low blirtatiousness are
+likely, we argue, to represent an enhanced fit with the
+trust requirements of the Simmelian brokerage role. For
+example, the high self-monitoring tendency to speak
+first in social interactions (Ickes & Barnes, 1977) may be
+curbed in people with low blirtatiousness. The high
+self-monitors may encourage communication through
+the nonverbal expression of emotion (Friedman &
+Miller-Herringer, 1991) as part of their characteristic
+effort to make social interactions succeed (Ickes,
+Holloway, Stinson, & Hoodenpyle, 2006). The high
+self-monitor, low blirter flexibly presents across different cliques but does so guardedly so as to limit thirdparty gossip. Of course, there are other possible
+combinations of these two personality orientations.
+The high self-monitor, high blirter flexibly presents
+feelings, attitudes, and ideas across different cliques,
+but does so effusively.The lowself-monitor, high blirter
+is effusive in revealing current emotions, attitudes, and
+ideas to different cliques. The low self-monitor, low
+blirter avoids the limelight, sticks with the same enduring self-presentation, and suffers verbal inhibition.
+We summarize these four personality styles in Figure 2.
+The time, resource, and confidentiality requirements
+of Simmelian brokerage across different cliques are likely
+to represent a match with the traits that people who
+combine high self-monitoring and low blirtatiousness
+offer in terms of their talents for flexible self-presentation
+and discretion in self-revelation. The Simmelian brokerage situation places the individual as the sole representative of each clique to the other. This situation calls
+for a diplomatic personality style that combines the high
+self-monitor’s flexible adjustment to the demands of each
+clique, and the low blirter’s restricted effusiveness when
+it comes to sharing confidential information. There is
+also a match between personality and situation for individuals low in self-monitoring and high in blirtatiousness whose activities are restricted within cliques. Being
+enclosed within a group of mutual friendship relationships is likely to allow these authentic-seeming, talkative individuals to express their innermost feelings
+and ideas to likeminded others (Snyder, 1974). Their
+2018 Tasselli and Kilduff 807
+blirtatiousness (which amplifies their distinctive characteristics [Swann & Rentfrow, 2001]) is likely to be encouraged given that their loyalties are to just one set of
+friends. They are likely to gain trust with their friends as
+long as they are “blirting” within, and not across, cliques.
+Therefore, we see trust accruing to those in situations
+of both high and low Simmelian brokerage, depending
+on individuals’ levels of self-monitoring and blirtatiousness. An individual who belongs to several otherwise disconnected friendship cliques (representative
+of a high level of Simmelian brokerage) is likely to be
+trusted by friends across these different cliques if the
+cross-pressures are matched by a diplomatic personality style that combines high self-monitoring and low
+blirtatiousness. This diplomatic personality style involves the appropriate adjustment of self-presentation
+and the avoidance of inappropriate self-revelation to the
+different constituencies to which the individual belongs. An individual whose friendships are restricted to
+a cohesive group of mutual friends (representative of
+a low level of Simmelian brokerage) is likely to be
+trusted by these interconnected friends if the pressure to
+be authentic is matched by a personality style characterized by a transparent, principled presentation of self.
+Hypothesis 3. There is a three-way interaction among
+Simmelian brokerage, self-monitoring, and blirtatiousness in the friendship network. When the individual’s friendships span across many disconnected
+cliques, the higher the self-monitoring score, and the
+lower the blirtatiousness score, the more the individual
+is trusted; when the individual’s friendships span
+across few or no disconnected cliques, the lower the
+self-monitoring score, and the higher the blirtatiousness score, the more the individual is trusted.
+It is less clear how the other two combinations of
+individual differences might represent a fit with
+structural conditions with implications for trust. We
+speculate, however, that the Simmelian brokerage
+role may trigger in high self-monitors who are also
+high blirters an effusiveness toward the expectations
+of different audiences that may remedy the lack of
+trust that might otherwise compromise their performance in the Simmelian brokerage role. Similarly, to
+the extent that the Simmelian brokerage role requires
+discretion, individuals characterized by low selfmonitoring and low blirting may exhibit verbal inhibition that protects individuals from low trust.
+We tested these ideas in two settings in which relations of trust are important: a graduate program for
+young professionals intent on trying to build and maintain their reputations with peers in the process of career
+transition (Master’s sample); and a hospital setting in
+which medical staff rely on trust with fellow professionals to implement critical care (Hospital sample).
+METHODS
+Participants
+Master’s sample. We surveyed 148 members of a
+full-time, two-year European business school master’s
+degree program designed for those transitioning to
+business careers whose first degrees were mainly in
+nonbusiness subjects, such as social science, politics,
+economics, and law.We presented people with a paperbased questionnaire during the third semester and 126
+people (i.e., 85%) responded (average work experience
+5 2.31 years). We analyzed data from the program’s
+administrative office and found no statistical difference between respondents and nonrespondents on
+age, gender, class section, or citizenship.
+Hospital. We surveyed 84 professionals employed
+in a critical-care unit of a publicly funded European
+FIGURE 2
+Combinations of Self-monitoring and Blirtatiousness
+Low Self-monitor High Self-monitor
+Consistent self-presentation and
+effusive self-revelation
+Flexible self-presentation and
+effusive self-revelation
+Consistent self-presentation and
+slow self-revelation
+Flexible self-presentation and
+slow self-revelation
+Speed of SelfRevelation
+Flexibility of Self-Presentation
+High Blirter
+Low Blirter
+808 Academy of Management Journal June
+hospital. Work involved diagnosis, surgical intervention, pharmaceutical care, and continuous
+checks of patients’ health conditions. Seventy-five
+people (20 doctors, 39 nurses, 16 paramedical staff)
+responded to a paper-based questionnaire (response
+rate 5 89%). We analyzed the administrative data
+and found no statistical difference between respondents and nonrespondents on demographic,
+organizational, or professional variables.
+Network Data
+Across both samples, we used the roster method to
+collect network data (Wasserman & Faust, 1994: 46);
+this approach reduces the likelihood that respondents forget important contacts (Marsden, 2011:
+372). Each respondent was presented with a complete alphabetical list of all those in the relevant
+master’s or hospital network and asked to indicate
+the names of “people you consider as ‘friends’—that
+is, people with whom you frequently and regularly
+have friendly and pleasant relationships during
+classes and during your stay at the business school”
+(Master’s sample) or “...during your stay at work”
+(Hospital sample).
+Consistent with the definition of Simmelian ties as
+“super strong and sticky” (Krackhardt, 1998:21), we
+restricted the analysis to reciprocated relations between individuals who were embedded in friendship
+cliques. Specifically, we only included relations between those individuals who met both of the following
+two conditions: they expressed reciprocated friendship for each other (i.e., theirs was a strong relationship), and there was at least one other person in the
+dataset who reciprocated each of their friendships
+(i.e., theirs was a sticky relationship in that it involved
+a mutual friend who could mediate between them).
+Thus, across both samples we excluded from the final
+database all unreciprocated friendship ties and all ties
+that were not tied to at least one common third party.
+Technically, we symmetrized the friendship matrix using the interaction rule: a friendship link between two people was defined as existing only when
+it was reciprocated by both people (Krackhardt,
+1998). The symmetrized matrix included 1,063 ties
+in the Master’s sample (78% of total ties) and 589 ties
+in the Hospital sample (75% of total ties). From the
+symmetrized matrix, we identified 168 cliques involving 108 individuals in the Master’s sample and
+109 cliques between 68 individuals in the Hospital
+sample using the clique indicator matrix procedure
+in the statistical package UCINET VI (Borgatti,
+Everett, & Freeman, 2002), with each single clique
+having at least three members all reciprocally tied
+to each other. The final datasets included only reciprocated friendship ties embedded in cliques: 692
+ties involving 108 people (Master’s sample) and 418
+ties involving 68 people (Hospital sample).
+Independent variables. For Simmelian brokerage, we considered the number of times an actor
+played an exclusive brokerage role between otherwise disconnected friendship cliques. For example,
+an actor spanning across the single gap between two
+otherwise disconnected cliques would have a Simmelian brokerage score 5 1. In Figure 1, R brokers
+across three gaps between three otherwise disconnected cliques, so R’s Simmelian brokerage score 5
+3. In addition, brokerage across four otherwise disconnected cliques involves spanning across the six
+possible relations between the four cliques, so the
+Simmelian brokerage score would equal 6. In summary, consistent with the definition of Simmelian
+brokerage as strongly and reciprocally connecting
+at least two cliques such that no member of one clique except the broker is directly connected to any
+member of the other clique (Krackhardt, 1999), we
+considered an individual to be a Simmelian broker
+only when spanning between nonoverlapping cliques. In Figure 1, therefore,Kbelongs to three cliques
+that are also connected through another actor; thus,
+the Simmelian brokerage score for K 5 0. We assessed
+Simmelian brokerage from the clique census procedure in UCINET VI (Borgatti et al., 2002).
+We repeated the analysis, assessing Simmelian
+brokerage as the number of otherwise disconnected
+cliques to which an individual belongs. If a person
+belonged to two otherwise unconnected cliques, we
+considered his or her brokerage score as 2, and so on.
+Results were unchanged.
+Our theory of personality–network fit applies to situations of Simmelian brokerage; i.e., situations that
+involve people (such as R in Figure 1) who are the
+sole links between otherwise disconnected cliques
+(Krackhardt, 1999). We assessed whether our results
+would hold for two other measures that, as Figure 1 illustrates, also differentiate between Simmelian and
+other types of brokerage. Betweenness centrality assesses the extent to which an actor serves as a potential
+go-between for other pairs of actors by occupying an
+intermediary position on the shortest paths connecting
+other actors across the whole network, including both
+direct and indirect relationships (Freeman, 1979). Ego
+betweenness centrality assesses the extent to which an
+actor serves as a potential go-between for other pairs of
+actors to whom the focal actor is only directly connected (Everett & Borgatti, 2005). Using either of these
+2018 Tasselli and Kilduff 809
+measures, Simmelian brokers consistently show higher
+brokerage scores than non-Simmelian brokers (as illustrated in Figure 1). Across the two datasets, analyses
+using either betweenness centrality or ego betweenness
+centrality showed the same patterns of results as those
+found using the Simmelian brokerage measure.
+For self-monitoring, we used the 18-item true–false
+scale (Gangestad & Snyder, 1985; Snyder & Gangestad,
+1986) (Kuder–Richardson reliability:Master’s sample5
+.77, Hospital sample 5 .69). For blirtatiousness,we used
+the eight-item BLIRT scale (Swann & Rentfrow, 2001;
+Cronbach’sa:Master’s sample5 .85,Hospital sample5
+.79). Five-point Likert scale items included “If I have
+something to say, I don’t hesitate to say it” and “I always
+say what’s on my mind.”
+Dependent variable. The dependent variable was
+the extent of affect-based trust from one person (the
+rater) to another (the ratee). Affect-based trust is the
+extent to which the individual is perceived to be genuine in showing interpersonal care and concern for
+colleagues (McAllister, 1995). We focused on affectbased trust (rather than cognitive-based trust) because
+of its critical role in facilitating managerial working
+relationships (McAllister, 1995). Warmth judgments
+are made more swiftly than competence judgments and
+have a larger effect on how we see others (Wojciszke &
+Abele, 2008). Affect-based trust improves the usefulness of both tacit and explicit knowledge exchange
+(Levin & Cross, 2004) and is characteristic of the communal interpersonal relations that characterize friendship cliques (McAllister, 1995).
+In each clique, there were at least three members,
+with all clique members reciprocally tied to each other
+(e.g., Tortoriello & Krackhardt, 2010). Each rater,
+therefore, provided a trust score for at least two ratees,
+and each ratee received, in turn, at least two trust
+scores from raters. The trust score was constructed as
+the mean of five items with anchors of 1 (strongly
+disagree) and 7 (strongly agree) (McAllister, 1995;
+Cronbach’s a: Master’s sample 5 .92, Hospital sample 5 .85). Scale items (adapted in the Master’s sample
+for use in an academic context) included “If I shared
+my problems with this person, I know (s)he would
+respond constructively and caringly.” Thus, for each
+ratee we computed two or more affect-based trust
+scores representing the levels of trust accorded to the
+ratee by fellow clique members, a procedure similar to
+that used for relational measures in prior research
+(e.g., Reagans & McEvily, 2003: 249). Based on this
+procedure, for the Master’s sample we computed
+692 trust scores (provided by 108 people), and for
+the Hospital sample we computed 418 trust scores
+(provided by 68 people). To deal with issues of
+nonindependence of these scores (given that each individual both provided, and was the target of, two or
+more scores) we used linear regression models with
+error terms clustered around individual IDs; and we
+checked results with other approaches, as described
+in the Analysis section.
+Control variables. Some individuals may be
+trusted more than others because of their better
+performance (Colquitt, Scott, & LePine, 2007). In the
+Master’s sample, we assessed performance as the
+arithmetic mean of each student’s marks across
+the 10 classes taken by all students during the first
+year of the Master’s sample (normalized range:
+1–100). At the conclusion of each of these common
+classes, students could access not only their own
+scores but also the scores of other class members. In
+the Hospital sample, the three head supervisors (one
+for each professional function) evaluated each subordinate’s performance with a five-point Likert scale
+on the three items used in Mehra et al. (2001: 132),
+including “the overall job performance of the individual” (1 5 poor, 5 5 excellent; Cronbach’s a: .84).
+The number of friends that an individual has may
+be an indicator of how much the person is trusted by
+others (McAllister, 1995). In both samples, we controlled for each participant’s number of friends in
+terms of network size (Freeman, 1979).
+In the Hospital sample, we controlled for three
+aspects of organizational position that might affect
+affiliation patterns or trust. First, we coded for rank
+(0 5 nonsupervisor, 1 5 supervisor or manager)
+given that rank relates to social status, and, thus, the
+extent to which people are trusted (e.g., Oh, Chung, &
+Labianca, 2004). Second, we used a dummy variable
+to represent the three types of professional function
+(doctor 5 A; nurse 5 B; paramedical staff 5 C, serving as the reference category in the models). Third,
+we measured organizational tenure as the number of
+years each respondent had been in the organization
+(Mehra et al., 2001).
+The length of time over which people interact may
+affect perceptions of trust (Lewicki & Stevenson,
+1997), and the more frequently people interact, the
+more information they gain about each other, thus
+affecting trust development (Lewicki, Tomlinson, &
+Gillespie, 2006). The repetition of cooperative exchange promotes trust (Burt, 1999: 215). In the
+Master’s sample, therefore, for each friend listed by
+a respondent, we measured both relationship duration as the number of years the respondent had
+known the classmate, and frequency of interaction
+with each friend, with anchors labeled 1 (infrequent
+interaction) and 4 (daily interaction).
+810 Academy of Management Journal June
+We controlled for several proximity factors that
+could affect interactions. In the Master’s sample, we
+coded for on-campus residence (“1”) and off-campus
+residence (“0”) (Festinger, Back, & Schachter, 1950);
+whether each person had attended a previous program (“1”) or not (“0”) at the same school; and
+whether each friendship pair belonged to the same
+section (“1”) or not (“0”) at the moment of data collection (e.g., Feiler & Kleinbaum, 2015). Students
+were randomly assigned each semester to one of two
+class sections that met in different lecture rooms.
+However, activities were conducted with classmates
+across the entire cohort rather than within each
+section.
+We controlled for demographic variables including each individual’s age (as a continuous variable in years) at the time of data collection (e.g., Van
+de Bunt, Van Duijn, & Snijders, 1999); gender (0 5
+male, 1 5 female) (e.g., Brass, 1985); and, in the
+Master’s sample, whether individuals had the citizenship right to work within the European Union
+(0 5 non-European citizen, 1 5 European citizen)
+(e.g., Kilduff, 1992).
+Finally, in the Hospital sample we also collected the
+10-item short version of the Big Five Personality Inventory (Rammstedt & John, 2007), which included
+two items per factor (anchors: 1 5 disagree strongly,
+5 5 agree strongly) to control for extraversion, conscientiousness, openness to experience, agreeableness,
+and emotional stability (McCrae & John 1992). For all
+analyses that included the Big-Five variables, the pattern of results remained unchanged. For parsimony in
+presenting the findings, we omitted these variables
+from the analyses reported in the results section.
+Analysis
+The dependent variable was affect-based trust. We
+analyzed a total of 692 clique-embedded friendship
+ties involving 108 people in the Master’s sample; the
+equivalent numbers for the Hospital were 418 cliqueembedded friendship ties involving 68 people.
+There were multiple measures of each ratee’s trust
+from clique members, and each rater provided
+multiple measures of trust, one for each clique comember. Standard statistical tests are not appropriate for these data because the dyadic observations
+cannot be assumed to be independent. The analyses
+may exhibit substantial bias (Kilduff & Krackhardt,
+1994) due to autocorrelation: error terms may be
+correlated across observations both from the same
+source (the rater) and object (the ratee) of the relationship, as noted in prior network research using
+a dyadic-based dependent variable (Kilduff, 1990).
+We used linear regression models with error terms
+clustered around the individual IDs of both the raters
+and the ratees to control for nonindependence of the
+trust observations (e.g., Reagans & McEvily, 2003).
+The estimates of the coefficients are the same as the
+ordinary least square (OLS) estimates, but tend to
+be more conservative because they generate larger
+standard errors that better reflect the sampling
+error in the pooled linear regression coefficients
+(Wooldridge, 2015: 483; see Huckman & Pisano,
+2006 for an example).
+To test for robustness and possible additional sources
+of heteroskedasticity and endogeneity, we also analyzed the data using other approaches. First,we ran OLS
+regression models with a dummy variable that corresponded to each respondent. Results remained unchanged in both studies (e.g., Levin & Cross, 2004).
+Second, because in the dyadic analysis individualswith
+more ties may be overrepresented in the sample compared to individuals with fewer ties (e.g., Feiler &
+Kleinbaum, 2015), we repeated the analysis at the individual level, adopting Tobit regression models and
+taking into account as the dependent variable, for each
+individual, the average level of trust assigned by friends.
+Across both samples, the pattern of results remained
+confirmed; in addition, t-tests showed no significant mean differences at the dyadic level versus
+the individual level for the demographic or personality characteristics of individuals (i.e., gender, age,
+tenure, self-monitoring, blirtatiousness). Third, we
+used another approach that controls for unobserved
+heterogeneity in the data and nonindependence of
+observations—the exponential random graph model
+(ERGM) framework (e.g., Carnabuci & Dioszegi, 2015; ´
+Lusher, Koskinen, & Robins, 2012). This approach
+makes no assumptions about the nonindependence of
+actors or ties (Cranmer & Desmarais, 2011), although it
+requires binary data as input. We reran the hypothesis
+tests with the dependent variable structured as the
+likelihood of receiving a trust tie from another participant. In both studies, we considered a trust tie from
+i to j to exist when i assigned a mean trust score to
+j of 5 or more on the seven-point affect-based trust
+scale. The results paralleled those we present below.
+To assess interaction effects, in each model interaction terms were entered in a separate step after
+the main terms were entered. To correct for the
+multicollinearity that can arise when testing moderated relationships among continuous variables,
+independent and interaction variables were centered before generating interaction terms (Aiken &
+West, 1991).
+2018 Tasselli and Kilduff 811
+Despite the clear conceptual distinction between the
+size of the individual’s network and the extent to which
+individuals are brokers between cliques, size and brokerage tend to be highly correlated (Bonacich, Oliver, &
+Snijders,1998: 135;Mehra et al., 2001) and were so both
+in the Master’s sample (r 5 .82; p , .01) and in the
+Hospital sample (r 5 .81; p , .01). People with many
+friends tend to have high brokerage scores. Collinearity
+between variables can inflate the standard errors of their
+regression coefficients. To check the severity of multicollinearity, we examined the conditioning index and
+variance proportions associatedwith each independent
+and control variable (e.g., Belsley, Kuh, & Welsch,
+1980). According to Tabachnick and Fidell (1996: 89),
+a conditioning index greater than 30 and variance inflation factors higher than 10 can indicate serious
+multicollinearity. None of the independent variables
+violated this criterion; there was thus no serious threat
+to the significance of each independent variable. To
+further check for possible effects of collinearity, we
+repeated the models across both samples, dropping
+network size from the analysis. Results remained
+unchanged.
+RESULTS
+Tables 1 and 2 present means and standard deviations for the two samples. The two personality
+variables (self-monitoring and blirtatiousness) were
+not significantly correlated with each other (Master’s
+sample, r 5 2.10, n.s.; Hospital sample, r 5 2.04,
+n.s.). We also note that the independent variables
+exhibited a suitable range of scores. Self-monitoring
+scores (which can vary from 0–18) ranged from 2–18
+(Master’s sample) and 3–16 (Hospital sample). Blirtatiousness scores (which can range from 8–40)
+ranged from 9–34 (Master’s sample) and 13–28
+(Hospital sample). Simmelian brokerage scores
+ranged from 0–21 (Master’s sample), and from 0–6
+(Hospital sample).
+The results of regression models are reported in
+Tables 3 and 4. Recall that Hypothesis 1 suggested
+that the greater the individual’s Simmelian brokerage (as measured by the number of the individual’s
+exclusive bridging roles between otherwise disconnected friendship cliques), the greater the positive
+effect of a high self-monitoring orientation on how
+much the individual is trusted by others. This hypothesis was supported. For the Master’s sample, as
+shown in Model 2 in Table 3, with all controls in
+place, the interaction between self-monitoring and
+Simmelian brokerage (B 5 .19, p , .01) improved
+variance explained by 4% (R2 5 .35, p , .01) over the
+direct-effects Model 1 (R2 5 .31, p , .01). For the
+Hospital sample, as shown in Model 3 in Table 4,
+the interaction of self-monitoring and Simmelian
+brokerage (B 5 .58, p , .01) improved explained
+variance by 8% (R2 5 .36, p , .01) over Model 2 (R2 5
+.28, p , .01). To interpret these results, we plotted the
+predicted values of affect-based trust using 6 two
+standard deviations to represent high and low values
+of variables. As illustrated in Figure 3, in both samples a simple slope test showed that the predicted
+positive relationship between levels of self-monitoring
+and trust was significantly evident for those with
+high Simmelian brokerage scores (Master’s, t 5 4.07,
+p , .01; Hospital, t 5 3.28, p , .01); but for those with
+low brokerage scores, the relationship between selfmonitoring and trust was either negative (Hospital,
+t 5 22.83, p , .01), or significant at p , .10 and negative (Master’s, t 5 21.68, p , .10).
+Thus, we found support for the hypothesized fit
+between self-monitoring and the situation of brokering between disconnected cliques: people who
+flexibly represent themselves are trusted in the role
+of Simmelian broker. Did we find a similar pattern
+with respect to blirtatiousness—i.e., the verbal effusiveness with which people respond to social situations? Recall that Hypothesis 2 suggested a trust
+advantage for Simmelian brokers who were low
+blirters rather than high blirters: the greater the individual’s Simmelian brokerage, the greater the
+positive effect of a low-blirtatiousness orientation on
+how much the individual is trusted by others. This
+hypothesis was supported. For the Master’s sample,
+as shown in Model 3 in Table 3, with controls in
+place, the interaction between blirtatiousness and
+Simmelian brokerage (B 5 2.24, p , .01) improved
+variance explained by 9% (R2 5 .40, p , .01) over the
+direct-effects Model 1 (R2 5 .31, p , .01). For the
+Hospital sample, as shown in Model 4 of Table 4,
+the interaction between blirtatiousness and Simmelian brokerage (B 5 2.43, p , .05) improved
+explained variance by 5% (R2 5 .33, p , .01) over
+Model 2, which included only independent variables and controls (R2 5 .28, p , .01). To interpret
+this result, we plotted the predicted values of affectbased trust for high and low levels of the variables in
+both samples. As illustrated in Figure 4, a simple
+slope test showed that the predicted negative relationship between blirtatiousness and trust was
+significantly evident for those with high Simmelian
+brokerage scores (Master’s, t 5 25.75, p , .01; Hospital, t 5 22.16, p , .05), but the relationship between levels of blirtatiousness and trust for those
+with low Simmelian brokerage scores was either
+812 Academy of Management Journal June
+TABLE 1
+Means, Standard Deviations, and Correlations among Variables, Master’s Sample
+Variable Mean SD 1 2 3 4 5 6 7 8 9 10 11 12 13
+1. Gender 0.42 0.50
+2. Citizenship 0.64 0.48 0.09
+3. Age 26.02 4.54 0.35 0.09
+4. Living on campus 0.26 0.44 0.01 0.00 –0.14
+5. Same class 0.54 0.36 –0.06 –0.12 –0.09 0.07
+6. Previous program 0.28 0.45 0.10 0.12 –0.05 –0.04 0.04
+7. Average marks 86.66 4.31 0.08 0.16 –0.05 0.12 –0.17 0.12
+8. Relationship duration 2.01 0.29 0.01 0.10 –0.16 0.07 –0.06 0.23 0.14
+9. Frequency of interaction 2.81 0.37 0.00 –0.18 –0.02 0.05 0.10 0.13 0.06 –0.15
+10. Network size 6.41 3.37 0.09 –0.00 0.13 0.00 –0.12 0.10 0.14 –0.01 –0.05
+11. Simmelian brokerage 2.29 3.11 0.04 0.04 0.14 –0.12 –0.13 0.06 0.07 0.01 –0.01 0.82
+12. Self-monitoring 10.27 3.87 –0.08 –0.03 –0.12 .01 –0.09 0.02 0.09 –0.06 0.07 –0.04 –0.04
+13. Blirtatiousness 20.31 5.53 –0.05 –0.11 –0.08 –0.05 –0.09 –0.02 –0.10 .01 –0.02 –0.11 –0.02 –0.10
+14. Trust 4.63 0.98 –0.12 –0.10 –0.23 0.17 0.08 0.09 0.13 –0.02 0.16 –0.02 –0.13 0.18 –0.12
+Notes: n 5 108; all coefficients below –.19 and above .19 are significant at the .05 level. Means, standard deviations, and correlations are reported at the individual level for ease of
+interpretation.
+2018 Tasselli and Kilduff 813
+positive (Master’s, t 5 3.61, p , .01), or significant at
+p , .10 and positive (Hospital, t 5 1.72, p , .10).
+Thus, we found support for the predicted fit between
+low blirtatiousness and the situation of brokering
+between disconnected cliques: the more individuals’
+friendships span across cliques, the more they are
+trusted to the extent that they control verbal
+expressiveness.
+Hypothesis 3 posited a three-way interaction between Simmelian brokerage, self-monitoring and
+blirtatiousness in affecting the extent to which people are trusted. The results show support for this
+TABLE 2
+Means, Standard Deviations, and Correlations among Variables, Hospital Sample
+Variable Mean SD 1 2 3 4 5 6 7 8 9 10
+1. Gender 0.63 0.49
+2. Tenure 10.78 5.40 0.00
+3. Profession 5 A 0.25 0.44 –0.05 –0.02
+4. Profession 5 B 0.54 0.50 0.28 0.11 –0.63
+5. Rank 0.12 0.32 0.09 0.29 0.00 0.06
+6. Performance 3.22 0.74 –0.06 0.33 –0.00 0.10 0.22
+7. Network size 6.15 3.96 0.06 0.20 –0.06 0.21 0.40 0.30
+8. Simmelian brokerage 1.12 1.63 –0.00 0.05 –0.06 0.14 0.14 0.22 0.81
+9. Self-monitoring 9.10 3.18 0.03 0.20 0.21 –0.13 0.12 0.19 0.23 0.19
+10. Blirtatiousness 20.00 3.52 0.18 0.06 0.22 –0.08 –0.13 0.05 –0.25 –0.09 –0.04
+11. Trust 4.17 1.03 0.09 0.29 –0.33 0.42 0.17 0.30 0.19 0.14 –0.21 0.05
+Notes: n 5 68; all coefficients below –.24 and above .24 are significant at the .05 level. Means, standard deviations, and correlations are
+reported at the individual level for ease of interpretation.
+TABLE 3
+Regression Models Predicting Trust, Master’s Sample
+Model 1 Model 2 Model 3 Model 4 Model 5
+(Intercept) 3.40 (2.55) 4.19 (2.36)† 3.56 (2.12)† 3.58 (2.27) 4.29 (2.29)†
+Gender –0.17 (0.22) –0.24 (0.22) –0.14 (0.19) –0.21 (0.20) –0.12 (0.20)
+Age –0.04 (0.04) –0.04 (0.04) –0.04 (0.03) –0.03 (0.04) –0.04 (0.04)
+Citizenship –0.35 (0.20)† –0.29 (0.19) –0.38 (0.18)* –0.33 (0.18)† –0.35 (0.17)*
+Living on-campus 0.28 (0.22) 0.37 (0.22)† 0.22 (0.21) 0.32 (0.22) 0.29 (0.21)
+Same class –0.01 (0.12) –0.08 (0.12) –0.09 (0.11) –0.11 (0.10) –0.12 (0.10)
+Previous program 0.33 (0.24) 0.26 (0.24) 0.22 (0.24) 0.24 (0.24) 0.19 (0.24)
+Average marks 0.02 (0.02) 0.02 (0.02) 0.03 (0.02) 0.03 (0.02) 0.02 (0.02)
+Relationship duration –0.06 (0.07) –0.06 (0.07) –0.05 (0.06) –0.06 (0.06) –0.06 (0.06)
+Frequency of interaction 0.04 (0.05) 0.03 (0.05) 0.04 (0.04) 0.03 (0.04) 0.03 (0.04)
+Network size 0.07 (0.05) 0.04 (0.04) 0.02 (0.04) –0.01 (0.05) –0.01 (0.05)
+Self-monitoring 0.07 (0.03)* 0.06 (0.03)* 0.06 (0.02)** 0.06 (0.02)* 0.06 (0.02)**
+Blirtatiousness –0.04 (0.02)* –0.04 (0.02)* –0.05 (0.02)** –0.05 (0.01)** –0.05 (0.01)**
+Simmelian brokerage –0.93 (0.50)† –0.36 (0.40) –0.15 (0.42) 0.23 (0.43) 0.34 (0.43)
+Self-monitoring 3 Simmelian brokerage 0.19 (0.06)** 0.13 (0.04)** 13 (0.04)**
+Blirtatiousness 3 Simmelian brokerage –0.24 (0.05)** –0.22 (0.04)** –0.18 (0.04)**
+Self-monitoring 3 blirtatiousness –0.00 (0.00) –0.00 (0.00)
+Self-monitoring 3 blirtatiousness 3
+Simmelian brokerage
+.02 (0.01)*
+Model F 3.43 7.79 15.54 21.15 28.49
+R2 0.31** 0.35** 0.40** 0.42** 0.44**
+Root mean squared error 1.01 0.98 0.96 0.96 0.91
+Notes: n 5 692 observations with the standard errors clustered for the subjects who are the source (raters) (n 5 108) and the target (ratees) (n 5
+108) of trust assessment. Entries represent unstandardized parameter estimates; standard errors are in parentheses. †p , .10
+*p , .05
+**p , .01
+814 Academy of Management Journal June
+hypothesis across the two datasets. For the Master’s
+sample, as shown in Model 5 in Table 3, with all controls and two-way interactions present, the three-way
+interaction of Simmelian brokerage, self-monitoring, and
+blirtatiousness (B 5 .02, p , .05) improved variance
+explained by 2% (R25 .44p, .01) overModel 4’s test of
+TABLE 4
+Regression Models Predicting Trust, Hospital Sample
+Model 1 Model 2 Model 3 Model 4 Model 5 Model 6
+(Intercept) 2.19 (0.61)** 2.14 (0.72) ** 2.70 (0.68)** 2.10 (0.70)** 2.98 (0.51)** 2.67 (0.55)**
+Gender 0.21 (0.25) 0.08 (0.26) –0.19 (0.23) 0.32 (0.23) 0.15 (0.19) 0.23 (0.20)
+Tenure 0.04 (0.02)† 0.04 (0.02)† 0.03 (0.02) 0.04 (0.02)† 0.02 (0.02) 0.02 (0.02)
+Profession 5 A –0.42 (0.29) –0.40 (0.31) –0.26 (0.29) –0.41 (0.31) –0.14 (0.25) –0.29 (0.25)
+Profession 5 B 0.60 (0.28)* 0.51 (0.30)† 0.72 (0.27)** 0.23 (0.30) 0.21 (0.25) 0.18 (0.26)
+Rank 0.24 (0.45) 0.17 (0.45) 0.40 (0.39) 0.28 (0.39) 0.43 (0.27) 0.55 (0.26) *
+Performance 0.40 (0.18) * 0.38 (0.18)* 0.26 (0.15)† 0.39 (0.17)* 0.18 (0.12) 0.26 (0.11)*
+Network size 0.01 (0.05) 0.00 (0.05) 0.01 (0.05) 0.01 (0.05) –0.00 (0.05)
+Self-monitoring –0.00 (0.05) 0.01 (0.05) 0.01 (0.05) 0.01 (0.04) 0.03 (0.04)
+Blirtatiousness –0.03 (0.05) –0.04 (0.05) –0.03 (0.04) –0.04 (0.04) –0.05 (0.03)
+Simmelian brokerage –0.01 (1.13) 0.42 (1.13) –0.20 (1.11) 0.39 (1.21) 0.12 (1.22)
+Self-monitoring 3 Simmelian brokerage 0.58 (0.15)** 0.71 (0.20)** 0.95 (0.20)**
+Blirtatiousness 3 Simmelian brokerage –0.43 (0.19)* –0.69 (0.19)** –0.71 (0.18)**
+Self-monitoring 3 blirtatiousness –0.02 (0.01)* –0.02 (0.01) *
+Self-monitoring 3 blirtatiousness
+3 Simmelian Brokerage
+0.09 (0.04) *
+Model F 7.98 5.93 11.47 8.02 16.63 40.34
+R2 0.27** 0.28** 0.36** 0.33** 0.53** 0.55**
+Root mean squared error 1.06 1.05 0.99 1.01 0.96 0.84
+Notes: n 5 418 observations with the standard errors clustered for the subjects who are the source (raters) (n 5 68) and the target (ratees) (n 5
+68) of trust assessment. Entries represent unstandardized parameter estimates; standard errors are in parentheses. †p , .10
+*p , .05
+**p , .01
+FIGURE 3
+Simple Slopes for Self-monitoring and Affect-based Trust for High and Low Levels of Simmelian Brokerage
+Low Self-monitoring Low Self-monitoring
+Master’s sample
+Affect-based Trust
+Affect-based Trust
+High Self-monitoring High Self-monitoring
+Low Simmelian Brokerage
+High Simmelian Brokerage
+Hospital
+2018 Tasselli and Kilduff 815
+the relevant two-way interactions (R2 5 .42, p , .01).
+For the Hospital sample, as shown in Table 4, Model 6,
+the three-way interaction of Simmelian brokerage, selfmonitoring, and blirtatiousness (B 5 .09, p , .05) improved variance explained by 2% (R2 5 .55, p , .01)
+over Model 5’s test of the relevant two-way interactions
+(R2 5 .53, p , .01). The combination of personality
+traits, therefore, represented a better fit with the Simmelian brokerage role than did either personality trait
+by itself.
+To illustrate the result, we show in Figure 5 that the
+highest levels of trust were found to be as expected
+for those Simmelian brokers who exhibited a diplomatic personality style: high self-monitoring combined with low blirtatiousness (Master’s sample,
+M 5 5.48; Hospital,M5 4.15); and for those nonbrokers
+who exhibited a forthright, effusive personality style
+that combined low self-monitoring with high blirtatiousness (Master’s sample, M 5 4.51; Hospital, M 5
+3.92). A simple slope test showed that both the slope
+of the high self-monitoring, low blirters (Master’s
+sample, t 5 2.11, p , .05; Hospital, t 5 2.19, p , .05)
+and the slope of the low self-monitoring, high blirters
+(Master’s sample, t 5 24.94, p , .01; Hospital, t 5
+24.39, p , .01) were significant in the two samples.
+A question remains, however, concerning the extent
+to which other personality combinations represented
+a fit with aspects of the Simmelian brokerage role. A
+pairwise comparison of the slopes reported in Figure 5
+(Dawson & Richter, 2006) shows that the slopes of those
+brokers combining high self-monitoring and low blirtatiousness (line 2) were different from the slopes of
+those brokers combining low self-monitoring and high
+blirtatiousness (line 3; Master’s sample, t 5 5.62, p ,
+.01; Hospital, t 5 5.03, p , .01) and from the slopes
+of those high in brokerage combining high selfmonitoring and high blirtatiousness (line 1; Master’s
+sample, t 5 21.44, p , .10; Hospital, t 5 22.01, p ,
+.05). The pattern of results suggests that a high-blirting
+orientation represented a poor fit with the requirements
+of the Simmelian brokerage role irrespective of the individual’s self-monitoring orientation.

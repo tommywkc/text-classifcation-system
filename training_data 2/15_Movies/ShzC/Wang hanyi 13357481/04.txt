@@ -1,0 +1,194 @@
+The Wisdom of Crowds in the Movie Industry: Towards New Solutions to Reduce Uncertainties
+Introduction
+ The movie industry faces high financial risks because of increasingly high production and marketing costs and a high degree of uncertainty about audience reactions. For decades,academics and practitioners have been trying to find solutions at each step of the value chain. Yet, even with the occasional blockbuster, the industry is losing money. Additionally, even though experts may be finding it difficult to capture the attention of the 2.0 generation, the 2.0 generation does not hesitate to go viral with negative word-of-web1 if a movie fails to movie goes to market. The question is, then, how to create a low-cost, low-risk original movie in the first place?
+ According to Squire (2004), “the formula that attracts audiences is as speculative, uncertain and elusive as can be” (p. 4). Therefore, instead of trying to find a formula that attracts audiences, how about asking audiences what attracts them in the first place? But why would experts listen to audiences? Where is the proof-of-concept that audiences have the ability to correctly evaluate a movie’s market value? Using “the Crowd” to evaluate ideas is becoming increasingly important. It all started back in 1907 with an article in Nature, a prominent interdisciplinary scientific journal, in which Francis Galton expressed surprise that the Crowd at a county fair accurately guessed the weight of an ox (when their individual guesses were averaged). In 2004 this phenomenon regained interest with James Surowiecki’s The Wisdom of Crowds. Since then, research pertaining to the wisdom of crowds and 
+its effect has taken hold in multiple disciplines (e.g., management, computer science, economics, mathematics, psychology). Even well-known traditional companies are now using crowd wisdom to help them create appealing products and evaluate them (e.g., BMW, Fiat, Lego, Frito Lay). Using the Crowd as a source of information or contribution (i.e., crowdsourcing) is also playing an ever-growing role in our everyday lives. In April 2013 the FBI’s Boston field office initiated an unprecedented crowdsourcing manhunt for 
+the perpetrators of the Boston Marathon tragedy (Seelye, Cooper and Schmidt, 2013). We use Yelp, TripAdvisor and other user-rating websites to help us make decisions. But what is the status quo of this new wave in the movie industry? Will it help prevent risks and uncertainties in this industry?
+Lorenz et al. (2011) find that the crowd-wisdom effect tends to decline over time when social influence prevails. They assume that this effect is more pronounced when no predefined correct answer exists. The present study shows that the crowd-wisdom effect is more accurate when the judgement of individuals is not influenced by the opinions of others. It also confirms our earlier 
+f inding that the Crowd is a better judge of a movie’s market value than experts.We first examine different approaches introduced by academics over the decades to reduceuncertainties in the movie industry. We then introduce a new approach based on the crowdwisdom effect and its influence factor. Finally, with our theoretical framework supported by our empirical study, we provide proof-of-concept of the efficiency of the crowd-wisdom effect in reducing risk in the movie industry. We conclude by presenting theoretical contributions, limitations, practical suggestions for meeting the new challenges faced by the industry and our vision of what the future holds.Theoretical Framework
+ Uncertainties in the Movie Industry
+ Simonton (2009) defines the criteria for a movie’s success as “critical evaluations, financial performance, and movie awards” (p. 403). However, the reality is that a movie has to earn revenues double its production costs in order to show a meaningful profit (Eliashberg, Hui and Zhang, 2007, 2010). Moreover, managing increased marketing costs in addition to production costs, with fewer potential investors (who suffer losses on most movies), has created a serious funding problem for the major studios and independent producers alike (Eliashberg, Elberse and Leenders, 2006).Indeed, the average production cost for movies was approximately $70.8 million when the Motion Picture Association of America (MPAA) 
+stopped tracking the figures in 2007 (MPAA, 2007). The most expensive movie to date topped $300 million (Box Office Mojo, 2007). The average cost of advertising was $35.9 million (about 50% of production costs) the last time the MPAA reported the figure, in 2007 (MPAA, 2007). The difference between the total average cost (production and advertising) of $107 million – believed to have risen since 2007   – and the average revenue in 2012 ($16 million) is staggering (MPAA, 2012). For example, for one of Disney Animation’s movies, Mars Needs Moms (2011), the production budget was $150 million, with an additional marketing budget estimated at $60 million (Lumenick, 2011), against worldwide revenues 
+of $39 million (Box Office Mojo, 2011). In the New York Times (Barnes, 2011), the President of Distribution for Walt Disney Studios, Chuck Viane, describes the audience’s rejection of this film as “scary” and asks, “Was it the idea?” Nobody knows.One of the most famous dictums about Hollywood comes from the screenwriter William Goldman. “Nobody knows anything,” he writes in Adventures in the Screen Trade. “Not one person in the entire motion picture field knows for a certainty what’s going to work. Every time out 
+it’s a guess” (Goldman, 1983, p. 39). Indeed, it is startling to discover that, at both the financial stage and the marketing stage, despite the huge amount of money at stake, decisions are largely guesses based on the experience and intuition of a few experts. At the financial stage, a senior executive at a major studio describes the “greenlight”2 process as follows: “We bring together all studio department heads. Beforehand, our financial department prepares an overview of key estimates to get a sense of the financial viability. It 
+really revolves around the production costs. That is our most reliable estimate, and that thus forms the basis for our launch decision . . . The idea is 
+to work towards the bottom line. We ask ourselves whether we can recover our production costs, and whether there is room to spend on marketing. In the end, though, it comes down to the fact that someone has to sign off on the deal. Someone in the meeting has to put his or her reputation on the line and say ‘yes’ – regard less of whether the numbers add up” (quoted in Eliashberg, Elberse and Leenders, 2006, p. 641).At the marketing stage, some producers note that information gathered after test screenings can really be used only as a rough indicator of how audiences might react to a film. An executive vice-president of marketing for Warner Independent Pictures explains: “You use this 
+information as just that – information. But most of all, you have to use your gut” (Galloway, 2006). On the academic side, researchers have studied different approaches to improving the greenlight decision at different stages of a motion picture’s value chain. At the development stage, for example, Eliashberg, Hui and Zhang (2007, 2010) 
+propose a way to help studios evaluate scripts. Their approach combines screenwriting domain knowledge, natural language-processing techniques and statistical learning methods to forecast a movie’s return-on-investment based only on textual information available in movie scripts. Another example is the effect of star power. Most studies consider star power to be one of the covariates in a regression model with box office performance as the dependent variable (e.g., Litman, 1983, 1998; Litman and Kohl, 1989; 
+Wallace, Seigerman and Holbrook, 1993; Sochay, 1994; Simonoff and Sparrow, 2000; Canterbery and Marvasti, 2001). Focusing solely on the role of stars, Albert (1998) empirically shows that stars are the most consistent “markers” for successful movies; this, he argues, explains theirpower in Hollywood. Ravid (1999), in contrast, 
+finds no correlation between star participation and movie revenues and/or profitability, which is consistent with the view that stars capture most of the “economic rent” in movies. “What is known for sure is that star power is a very unreliable predictor of financial performance” (Simonton, 2009, p. 410). Based on a sample of 1,539 observations of 140 movies, Karniouchina (2011b) finds that buzz about movie stars has a strong positive impact on early box office revenues but that the effect is negative later in the run. However, “even for poorly received films, the overall impact of star buzz is positive because the initial revenue boost normally outweighs the later decline” (Karniouchina, 2011b, p. 62). 
+Overall, the evidence on the extent to which stars drive box office performance and studio profits has been mixed.At the distribution stage, studios face a wide 
+range of marketing decisions, including when to release the film to theatres, how many theatres to open in, and which media to use for the advertising campaign. Lehmann and Weinberg (2000) show that the level of advertising for a movie is positively correlated with opening strength. Elberse and Eliashberg (2003) find that the positive relationship between advertising expenditures and opening week revenues is due mostly to a second positive correlation between advertising expenditures and the number of theatres 
+allocated to a movie in its opening week.At the exhibition stage, some researchers forecast box office performance based on box office receipts in the early weeks (e.g., Sawhey and 
+Eliashberg, 1996), while others base their forecast solely on pre-release information (e.g.,Neelamegham and Chintagunta, 1999; Eliashberg et al., 2000). Both streams of research 
+provide useful results in predicting box office returns. In his book Hollywood Economics, De Vany (2004) supplies reams of data supporting Goldman’s “nobody knows anything” pronouncement and concludes: “Motion pictures are among the most risky of products” (p. 71). Other books and articles about the movie industry – whether from the creative side or the business side – reach the same conclusion: the success of a movie is unpredictable (Lucey, 1996; Honthaner, 2001; Squire, 2004; Furby and Randell, 2005; Simonton, 2009; Wang, Cai and Huang, 2010; Rushton, 2011; Simonton, 2011; Sinnerbrink, 2011; McKenzie, 2012; Velikovsky, 2012). According to Velikovsky (2012), “7 in 10 
+f ilms currently lose money” (p. 9). Teti’s (2013) empirical study of risk and return in the movie industry (based on 12 years of box office performance) finds that there is a“random association between costs and rates of return” and that therefore “the success of a new film production is extremely uncertain” (p. 730).
+The Wisdom of Crowds Effect and Its Influence in Reducing Uncertainties
+ In 2006 an Internet fan base spontaneously generated ideas about the movie Snakes on a Plane before its release. In response, the studio incorporated these ideas into the movie, which entailed five days of re-shooting. By adding what the audience wanted – more gore, more nudity and much more profanity – the studio saw its planned rating for the movie changed from PG-13 to a less marketable R. The movie debuted on 18 August 2006 with some late-night screenings on 17 August. Due to the amount of Internet hype surrounding the movie, experts forecast itsopening box office at between $20 million and $30 million (Rich, 2006). While Snakes ended up being #1 during its opening weekend, it failed to meet these estimates and grossed only $15.3 million in its opening days. Nevertheless, and even though Snakes had been categorized by experts as a B movie (Cordova, 2006), its revenue 
+(adjusted for inflation) turned out to be above average ($39 million, compared with an average of $16 million for movies in 2012). In The Movie Business Book, Squire (2004) 
+writes: “In no business is a single, unique product fully created at an investment of tens of millions of dollars with no real assurance that the public will buy it. At its core, any movie investment is speculative, high risk, and at the mercy of customers. The formula that attracts audiences is as speculative, uncertain and elusive as can be” (p. 4). Therefore, instead of trying to arrive at a formula that attracts audiences, how about asking audiences what attracts them in the first place? Would they be good at this? That is to say, would audiences be able to evaluate a movie’s market value? At what point in the movie-making process would they be able to do so?We have seen that, in 1907, Galton was surprised that the Crowd at a county fair accurately guessed the weight of an ox; the result of their independent guesses was closer to the true value than any individual guesses, including those of experts. We have also seen that, in 2004, Surowiecki called this effect “the wisdom of crowds.” The crowd-wisdom effect has been described as the tendency for the average of the 
+independent estimates of all group members to be more accurate than any group member’s individual estimate (Hall, 2011). This effect holds only if large estimation errors by individuals are unbiased such that they cancel each other out. Thus, the heterogeneity of numerous decision makers generates a more accurate aggregate estimate than the estimates of single lay or expert decision-makers (Page, 2007). Since 2004, the crowd-wisdom effect has been the subject of research in multiple disciplines (e.g., management, 
+computer science, economics, mathematics, psychology), with a focus on the efficiency of using the Crowd versus more traditional methods (Ray, 2006; Wagner et al., 2010; Rauhut and Lorenz, 2011; Gaissmaier and Marewski, 2011).Some researchers go a step further by investigating the influence factor within the Crowd (Mannes, 2009; Golub and Jackson, 2010; Lorenz et al., 2011; Mavrodiev, Tessone and Schweitzer, 2012; Baddeley, 2013). It has been found that even mild social influence is sufficient to undermine the utility of the crowd-wisdom effect. One reason for this could be that the effect is not a social phenomenon but a statistical one (Lorenz et al., 2011). Therefore, it is most 
+useful when individuals form estimates independently. The social influence effect undermines the utility of the crowd-wisdom effect even more when the answer to a question is subjective as opposed to factual (Prechter and Parker, 2007; Salganik, Dodds and Watts, 2006). In the movie industry, a number of studies have shown the accuracy of the online prediction market – that is, the Hollywood Stock Exchange (Pennock et al., 2001; Wolfers and Zitzewitz, 2004; Karniouchina, 2011a; McKenzie, 2013). These studies test the accuracy of the crowd-wisdom effect under social influence when the answer is factual (i.e., box office estimates). In our first study, our self-selected participants independently evaluated trailers a few weeks before opening weekend (in 2009); after correlating these evaluations with receipts for the opening weekend (0.79 correlation) and with receipts four weeks 
+later (0.74 correlation), we were able to provide proof-of-concept that the crowd-wisdom effect is accurate when the answer to a question is subjective (i.e., measurement of a movie’s quality) (Escoffier and McKelvey, 2014).Still, even though the crowd-wisdom effect is a statistical phenomenon where the independence criterion seems to be essential for an objective measurement of a movie’s quality (i.e., subjective answer), the crowd-wisdom effect has never be compared with and without social influence. Furthermore, Lorenz et al. (2011) (1) show that the crowd-wisdom effect tends to decline over time under conditions of social influence when questions have a factually correct answer, and (2) assume that this phenomenon is evenmore pronounced for opinions or attitudes for which no predefined correct answer exists (i.e., a movie’s quality). Finally, in our first study (Escoffier and McKelvey, 2014) we showed that the Crowd is better than experts when it comes to measuring a movie’s quality. However, and even though experts based their evaluations on 
+the entire movie while our crowd saw only the trailer, our crowd was large (about 500 people) compared to the number of experts (30). Wagner and Vinaimont (2010) empirically show that even a relatively small crowd (30) can demonstrate expert-like performance.Three propositions are tested: 
+1. The crowd-wisdom effect is more accurate 
+for measuring a movie’s quality when the 
+Crowd is not subject to social influence.
+ 2. The crowd-wisdom effect tends to decline 
+over time under conditions of social influence, 
+especially when the answer is subjective (i.e., 
+a movie’s quality).
+ 3. The accuracy of the crowd-wisdom effect, 
+pertaining to a movie’s quality, is similar for 
+a small crowd and a small number of experts.
+ Empirical Study
+ Methodology
+ In our first study (Escoffier and McKelvey, 2014), we selected trailers from among those available on the Internet, using whatever clues were available, including our own judgement, to create a range from worst to best – we were fortunate to end up with a high degree of variance in movie quality. We also opted for different distributors and different MPAA ratings (these are used in North America to rate a film’s thematic and content suitability for certain audiences). In addition, we chose different genres in order to prove 
+that even though some members of a crowd might prefer horror movies, the wisdom of a sufficiently large sample can also assess the value of, for example, a romantic comedy preferred by other members of an audience.Finally, in order for a new product to be purchased and liked by consumers, it must be widely available. Consequently we selected trailers for movies designated for “wide release” – that is, opening in 600-plus theatres. Since some movies open in far more than 600 theatres, we usedreceipts per theatre. For our independent crowd, we spent approximately three years compiling a database and signing up online participants by developing a variety of social media and marketing tools. Our most effective approach to getting people to opt in was personal e-mails (82%), followed by word-of-mouth (5.6%) and social media (2.8%). A large group of self-selected 
+people with a common interest represented the Crowd. Because participants knew, when they opted in, that the experiment would involve movies, we assumed that they had some interest in movies and that they represented the common interests and motivations of moviegoers. The Crowd was not a targeted audience, which is why only very broad identification questions were posed on the registration page (i.e., sex, age, location). At the end of the process, approximately 1,500 people were willing to participate. 
+Of those, 300 evaluated each movie. First, we designed an online survey, which included a “package” (title, poster, storyline, main cast). We asked, “Have you seen this movie?” If 
+the participant answered yes, she/he went to a second screen, where we asked, “Did you think that the movie was: Poor; Fair; Good; Very good; 
+Excellent.” Since only those who had seen the movie evaluated it, of the 300 participants approximately 40 evaluated each movie. Participants never saw more than one “package” at any given point. We tried to maximize the time between the participant’s evaluations to ensure that each of that person’s evaluations of a movie was independent of her/his evaluations of previous movies. Furthermore, none of the participants had information about anyone else’s rating. As stated above, movies were evaluated for quality on a scale of 1 to 5 (Poor to Excellent). For each movie, the evaluations were collected a few weeks after its release. Scores for each movie were standardized and 
+translated into a 100-point scale.For our crowd under social influence, we chose an online audience movie-quality aggregator, Rotten Tomatoes, where users evaluate each 
+movie for quality on a scale of 1 to 5. The website automatically aggregates user ratings. The number of people who have rated the same movie is also given. At the moment of their 
+evaluation, each individual can see the evaluations of others and the number of participants. In our first study, we retrieved data from the data set for a movie at two points: a few weeks after the movie’s release date and a few years after its release date. Scores for each movie were translated into a 100-point scale.
+Finally, the Experts were represented by Studio Professionals and Movie Critics. Because of the time spent creating a movie and the huge amount of money at stake, we assumed that Studio Professionals believe they are making a successful product. But the staggering loss per movie, as discussed above, suggests that a movie’s quality measurement by these experts does not generally reflect its market value. The evaluations of the other category of Experts, Movie Critics, are available online (i.e., Metacritic) a few days after a movie’s release date. We retrieved data from the same data set for the movies used in our first study. We then correlated box office receipts four weeks after release, per theatre, with the following: 
+the Crowd’s independent evaluations based on trailers a few weeks before the release datethe Crowd’s independent evaluations based on movies a few weeks after the release date the Crowd’s influenced evaluations based on movies a few weeks after the release datethe Crowd’s influenced evaluations based on movies a few years after the release date
+ the Experts’ evaluations based on movies a few days after the release dateOur independent variables are the evaluations by the Crowd and the Experts. Our dependent 
+variable is box office receipts.Results and DiscussionIn Table 1, for the same sample size (N = 500), 0.63 represents the correlation between the Crowd’s evaluations under social influence based on movies and box office receipts four weeks after release, and 0.74 represents the correlation between the Crowd’s independent evaluations based on trailers and box office receipts four weeks after release. In our first study we found that the trailer, as a marketing tool, only minimally misled the Crowd’s independent measurement of movie quality (Escoffier and McKelvey, 2014). We point out, however, that our Crowd’s independent evaluations based on trailers were made two weeks before the release date, versus 
+a few weeks after the release date for our Crowd’s evaluation under social influence based on seeing entire movies. We conclude, therefore, that even though the wisdom of crowds effect is significant when participants are influenced by other people’s responses in their evaluation of movie quality (0.63), the effect is greater when participants’ measurementof movie quality is independent (0.74). Our second data set confirms this result: 0.87 represents the correlation between the Crowd’s evaluations under social influence based on movies and box office receipts four weeks after release, and 0.88 represents the correlation between the Crowd’s independent evaluations based on movies and box office receiptsfour weeks after release. Our sample of 40 shows a correlation similar to the 200,000 sample (though slightly higher). The “social influence” effect appears to require 
+a larger sample size to achieve essentially the same correlation outcome as a small sample of independent evaluators. In a recent article, Lorenz et al. (2011)  (1) report that crowd wisdom tends to decline over time under conditions of social influence when questions have a factually correct answer, and (2) assume that this phenomenon is more 
+pronounced for opinions or attitudes for which no predefined correct answer exists. Even though we find that the social influence factor undermines crowd wisdom when the answer to a question is subjective (i.e., measurement of a movie’s quality), in contradiction to Lorenz et al.’sassumption we also find that crowd wisdom increases over time under conditions of social influence when the answer to a question is subjective (i.e., 0.63 for N = 500 vs. 0.87 for N = 200,000). Finally, the crowd-wisdom effect commonly indicates that large groups of people (i.e., the Crowd) are smarter than an elite few (i.e., the Experts), no matter how brilliant those elite few may be (Surowiecki, 2004). But what happens 
+when the crowd-wisdom effect results from a very small crowd rather a large one? A previous empirical test found that even a relatively small crowd (30) can demonstrate expert-like performance (Wagner and Vinaimont, 2010). In Table 2, for a similar sample size, 0.88 represents the correlation between the Crowd’s independent evaluations based on movies and box office receipts four weeks after release, and 0.47 represents the correlation between the Experts’ evaluations based on movies and box office four weeks after release. Our results show that the crowd-wisdom effect resulting from the independent evaluations of a small crowd (N = 40) is more accurate than the evaluations of a small number of experts (N = 30).Table 1 indicates that crowd wisdom is more accurate when individuals make independent estimations pertaining to questions calling for subjective answers. In our empirical study, we correlate the Crowd’s estimates of movie quality with box office receipts to show that when individuals independently evaluate movie quality their evaluations are more accurate than Crowd estimates made under conditions of social influence. However, and in contradiction to previous assumptions, our empirical results (Table 1) also 
+show that if conditions of social influence prevail, the accuracy of crowd wisdom tends to increase over time.
+One explanation for this could be that, nowadays, decisions are impacted by various information sources (Simonson and Rosen, 2014), including the opinions of other users. A study 
+conducted by the Harvard Business School found that a one-star increase in Yelp rating leads to a 5% to 9% increase in revenue (Luca, 2011). 
+Therefore, the influence factor affects not only opinions but also, more broadly, customers’ actual buying decisions. But in the end, even under influence, the best products rarely do poorly and the worst products rarely do well (Salganik, Doddsand Watts, 2006). People are more influenced when they are uncertain, but the herding process 
+resulting from their uncertainty can go either way (Salganik, Dodds and Watts, 2006). Therefore, in order to reduce risk and uncertainty, experts in the movie industry need to make sure they have a blockbuster before users get a chance to review the movie online. Our results in Table 2 also indicate that crowd wisdom resulting from the independent evaluations of a small crowd (N = 40) is much more accurate than that resulting from the evaluations of a small number of experts (N = 30). One explanation for this could be that the social influence factor can affect experts’ evaluation processes as well. But it may also be due to political issues such as peer or industry pressure to conform (Ravid, Wald and Basuroy, 2006; White, 2010; Najar, Brunet and Legoux, 2011; Baddeley, 2013).Our findings indicate that movie producers should use the Crowd to independently evaluate movie quality. The larger the Crowd, the closer to the truth the crowd wisdom will be. The evaluation process should commence as early as possible in the production process, in order to 
+(1) ensure that the movie is attractive before it goes online, (2) avoid bias due to social influence, and (3) avoid negative word-of-web. Our results show that trailers allow producers to make boxoffice-relevant estimates of a movie’s quality and only minimally mislead the Crowd in its evaluation process. We therefore suggest that producers (1) design a trailer that constitutes a sample of the movie rather than a marketing tool, and 
+(2) use this trailer as an evaluation tool throughout the process of making the movie. Once the movie is evaluated as “good” by an independent crowd (a score of 70% or higher is considered positive by most user-review websites), the Crowd’s online evaluations will positively affect online opinions and, as a result, positively  influence the purchase decision. We must point out that we did not measure the direct cause effect relationship of this phenomenon. In addition, although we asked our participants to evaluate trailers and movies based solely on what we provided online, without obtaining further information, we could not control them as we would if conducting an experiment in a laboratory. Had we truly controlled to minimize social influence, the crowd-wisdom effect might have been further substantiated. However, perfect independent decisions do not reflect the reality 
+of the world we live in. Just as perfect rationality used to be bounded by a lack of information, the crowd-wisdom effect is bounded by an abundance of information.Conclusion
+ The movie industry is a high-risk industry mainly because audience reactions to movies are unpredictable. Over the decades, academics have offered solutions at each step in the movie industry value chain. Common knowledge supported by some evidence indicates that, in the end, industry experts follow their instincts instead of really listening to the audience. We argue that one of the reasons for this might be that experts have no proof-of-concept showing that the audience has the ability to correctly 
+evaluate the market value of a movie.Since 1907 and the appearance of Galton’s article in Nature, empirical studies have dem
+onstrated that the average of the independent 
+estimates of a large and heterogeneous group of 
+people (i.e., the Crowd) is closer to the truth 
+than the estimates of any individual members, 
+including experts. This wisdom of crowds effect 
+(Surowiecki, 2004) supposedly declines overtime under conditions of social influence (Lorenzet al., 2011). The phenomenon is especially pro
+nounced when the answer to a question is subjec
+tive (i.e., concerning the quality of a movie). 
+While our empirical results show that the crowd
+wisdom effect is more accurate when individuals 
+estimate the quality of a movie independently 
+rather than under the social influence of others, 
+if the social influence increases over time the 
+accuracy of crowd wisdom also increases. One 
+reason for this could be that social influence not 
+only applies to opinions about a product, but 
+increasingly affects the buying decisional process 
+as well (Luca, 2011).
+ Our results also show that crowd wisdom based 
+on a small crowd is more accurate than informa
+tion provided by a small number of experts. It 
+could be that experts are subject to various political 
+pressures. Furthermore, previous studies provide 
+proof-of-concept that trailers minimally mislead 
+the Crowd when they are evaluating the market 
+value of a movie. Trailers are actually seen by the 
+Crowd as an information tool (Elberse and Anand, 
+2006; Escoffier and McKelvey, 2014). We argue, 
+therefore, that producers should make sure that 
+a movie is attractive before people have an oppor
+tunity to review it online, and in this way avoid 
+negative word-of-web before the movie even goes 
+to market. Our empirical results indicate that the 
+movie industry should use a large crowd to inde
+pendently evaluate a movie’s market value by 
+creating and using a trailer as early as possible in 
+the movie-making process.
+ We suggest that, once a movie has a positive 
+valuation, crowd wisdom be switched from offline 
+to online, in order to exert an exponential positive 
+influence on customers’ (moviegoers’) opinions 
+and decisions regarding online and offline pur
+chase. Google has recently recommended the 
+use of crowd wisdom to improve marketing 
+campaigns (Chen and Panaligan, 2013). Because 
+our research shows that the trailer as a primary 
+marketing tool only minimally misleads audi
+ences in their independent evaluations of movie 
+quality, added to the fact that, even under social 
+influence, the best products rarely do poorly and 
+the worst rarely do well (Salganik, Dodds and 
+Watts, 2006), we suggest another approach: 
+ethical marketing. Instead of trying to sell unat
+tractive movies via expensively improved market
+ing campaigns, the industry should make 
+high-quality movies in the first place. In 2010, 
+while testing the value of crowd wisdom in 
+improving a short movie, we found that the 
+movie’s value significantly improved after co
+creation – that is, a creative team used crowd 
+evaluations and ideas to co-create and thereby improve the movie (Escoffier and McKelvey, 
+2012). Ideally, experts in the movie industry 
+would use the Crowd to co-create movies, start
+ing at the development and early production 
+stages. The trailer would thus become an evalu
+ation tool throughout the process of making the 
+movie. Then and only then would the Crowd 
+be able to create and spread a new kind of online 
+marketing campaign.
+ What’s next? Digital studios are now introduc
+ing original content. Why? Because, up to now, 
+the main business of these platforms has been to 
+form contracts with traditional studios in order 
+to distribute their movies. At some point, however, 
+studios will realize that it is in their best interest 
+to have their own digital Internet platforms. Not 
+surprisingly, Disney’s chief executive, Robert Iger, 
+recently expressed the company’s “determination 
+to ‘out-Netflix Netflix’ by creating its own binge
+ready programming” (Carr and Somaiya, 2014). 
+What, then, will these digital studios have to 
+distribute? Digital content already has more 
+demands than offers, and this market will grow 
+even more rapidly in the near future.
+ We see at least two major problems, however: 
+(1) How to create good content with small bud
+gets in response to this new digital demand?  
+(2) How to attract people to digital content when 
+so many competing types of content will be 
+readily available online? Indeed, the Wall Street 
+Journal recently reported that “HBO just put a 
+date on the inevitable” and will offer a stand
+alone online-streaming version of its services in 
+2015 (Gottfried, 2014). Hence, what is the best 
+digital strategy? Disney’s strategy is to spend 
+large amounts of money buying content such as 
+the Captain Marvel and LucasFilm products 
+that have already had market success and then 
+spend even more to market them. The strategy 
+of DreamWorks Animation is focused on finding 
+earlier-success franchises as well. Netflix and 
+Amazon are spending lavishly on programming 
+and embracing new technologies, giving produc
+ers incentives to take creative and financial risks 
+and – they hope – generate an upward spiral in 
+quality. Having worked on crowd-wisdom strat
+egy in the movie industry since 2009, we believe 
+that this approach will shape the future of digital 
+strategies in the movie industry and in the enter
+tainment industry in general.
+ Notes
+ 1. Since most people no longer use a “mouse” with laptops, 
+tablets or smartphones, we wanted to update the expression“word-of-mouse” to either “word-of-touch” or “word-of-web.” 
+After a quick crowdsourcing test, we chose “word-of-web.”
+ 2. To “greenlight” a movie project is to formally approve 
+production financing, thereby allowing the project to move 
+forward from the development phase to pre-production and 
+principal photography. A project that is financed is said to 
+be greenlit or greenlighted and a studio executive who has 
+authority to grant greenlight status to a project is said to have 
+greenlight power.

@@ -1,0 +1,597 @@
+Adolescents' Loneliness and Depression Associated with Friendship Experiences and Well-Being: A Person-Centered Approach
+
+
+Abstract
+Loneliness and depressive symptoms are distinct, but partly overlapping constructs. The current study examined whether clusters of loneliness and depressive symptoms could be identified through latent profile analysis in two samples of 417 and 1140 adolescents (48.40 and 48.68 % male, respectively), on average 12.47 and 12.81 years old, respectively. Four clusters were identified, (1) low on loneliness and depressive symptoms, (2) low on loneliness and high on depressive symptoms, (3) high on loneliness and low on depressive symptoms, and (4) high on loneliness and depressive symptoms. We found that these four clusters were differentially related to friendship quantity and quality as well as to happiness and self-esteem. The current study stresses the importance of assessing both loneliness and depressive symptoms, as their mutual relation within individuals is differentially related to various aspects of adjustment.
+
+
+Full Text
+http://crossmark.crossref.org/dialog/?doi=10.1007/s10964-016-0478-2&amp;domain=pdf
+
+Web End = J Youth Adolescence (2017) 46:429441 DOI 10.1007/s10964-016-0478-2
+
+http://crossmark.crossref.org/dialog/?doi=10.1007/s10964-016-0478-2&amp;domain=pdf
+
+Web End = EMPIRICAL RESEARCH
+
+Adolescents Loneliness and Depression Associatedwith Friendship Experiences and Well-Being: A Person-Centered Approach
+
+Annette W. M. Spithoven1 Gerine M. A. Lodder2 Luc Goossens1
+
+Patricia Bijttebier1 Margot Bastin1 Maaike Verhagen3 Ron H. J. Scholte3,4
+
+Received: 5 February 2016 / Accepted: 26 March 2016 / Published online: 7 April 2016 Springer Science+Business Media New York 2016
+
+Abstract Loneliness and depressive symptoms are distinct, but partly overlapping constructs. The current study examined whether clusters of loneliness and depressive symptoms could be identied through latent prole analysis in two samples of 417 and 1140 adolescents (48.40 and48.68 % male, respectively), on average 12.47 and12.81 years old, respectively. Four clusters were identied,(1) low on loneliness and depressive symptoms, (2) low on loneliness and high on depressive symptoms, (3) high on loneliness and low on depressive symptoms, and (4) high on loneliness and depressive symptoms. We found that these four clusters were differentially related to friendship quantity and quality as well as to happiness and self-esteem. The current study stresses the importance of assessing both loneliness and depressive symptoms, as their mutual relation within individuals is differentially related to various aspects of adjustment.
+
+Keywords Loneliness Depressive symptoms
+
+Friendships Self-esteem Happiness Cluster
+
+Adolescents
+
+
+
+Introduction
+
+Loneliness is a negative emotional reaction to the experience of a difference between the perceived and the desired quantity or quality of social relations (Perlman and Peplau 1981). Feelings of loneliness have been associated with an increased risk for early mortality (Holt-Lunstad et al. 2015). In childhood, adolescence, and adulthood, loneliness has been associated with various physical (for review, see Cacioppo et al. 2015) and mental health problems (for review, see Heinrich and Gullone 2006; for meta-analytic overview, see Mahon et al. 2006). A substantial body of research has examined loneliness in relation to depressive symptoms, characterized by the persistent experience of increased negative affect or diminished experience of pleasure or positive affect (American Psychiatric Association 2013). Several studies have indicated that loneliness and depressive symptoms are interrelated over time during adolescence. More specically, these studies suggest that loneliness predicts subsequent depressive symptoms, and depressive symptoms also predict subsequent feelings of loneliness (e.g., Vanhalst et al. 2012). Yet, no study has examined to what extent loneliness and depressive symptoms co-occur within individuals. In the current study, we will examine the co-occurrence of loneliness and depressive symptoms using a person-centered approach. This is an important issue, because if different clusters of loneliness and depressive symptoms occur, they may require different methods of treatment, especially if they are associated with specic intra- and interpersonal experiences. Therefore, we will also examine whether various loneliness and depressive symptom clusters are related to friendship experiences (i.e., friendship quantity and quality) and well-being (i.e., happiness and self-esteem).
+
+& Annette W. M. SpithovenAnnette.Spithoven@ppw.kuleuven.be
+
+1 Department of School Psychology and Child and Adolescent Development, KU Leuven, Tiensestraat 102, Box 3717, 3000 Louvain, Belgium
+
+2 Interuniversity Centre for Social Science Theory and Methodology, Department of Sociology, University of Groningen, Groningen, The Netherlands
+
+3 Behavioral Science Institute, Radboud University, Nijmegen, The Netherlands
+
+4 Praktikon, Nijmegen, The Netherlands
+
+123
+
+430 J Youth Adolescence (2017) 46:429441
+
+Loneliness and Depression as Distinct Types of Internalizing Problems
+
+The strong correlation between loneliness and depressive symptoms, on average between .55 and .62 (see Mahon et al. 2006), has raised questions about their distinctiveness (e.g., Cacioppo et al. 2006a). Both loneliness and depressive symptoms are operationalized as subjectively unpleasant and emotionally distressing experiences (Cacioppo et al. 2006a, b). More specically, both loneliness and depressive symptoms are related to interpersonal problems, such as the lack of support from friends (Parker et al. 2006). In addition, depressive symptoms, but not loneliness, may also occur in response to intrapersonal difculties, such as job failure. Loneliness is, therefore, often considered to be a specic form of emotional distress, whereas depressive symptoms are considered to be a more general form of emotional distress (Cheng and Furnham 2002).
+
+Joint factor analyses on the items of well-established measures of loneliness and depressive symptoms indicated that loneliness and depressive symptoms are indeed conceptually distinct emotionally distressing experiences (e.g., Cacioppo et al. 2006a, b). The distinction between loneliness and depressive symptoms is also implied by their differential relation to other constructs, their different developmental trajectories, and the presumed gender differences. As an example, loneliness and depressive symptoms are differentially related to personality (Vanhalst et al. 2012) and suicidal ideation (Lasgaard et al. 2011), in such a way that loneliness is no longer related to suicidal ideation and neuroticism after controlling for depressive symptoms, whereas depressive symptoms are still related to suicide ideation and neuroticism after controlling for loneliness. In addition, the development of loneliness and depressive symptoms seems to differ during early adolescence, as feelings of loneliness peak (Qualter et al. 2015), whereas depressive symptoms consistently increase (Hankin et al. 1998). Furthermore, from early adolescence onward, girls more often suffer from depressive symptoms than boys (Hankin and Abramson 2001), whereas generally no gender differences are found for loneliness (e.g., Mahon et al. 2006). These ndings suggest that loneliness and depressive symptoms are distinct, but partly overlapping constructs.
+
+All of the research conducted so far on the correlates of loneliness and depressive symptoms have relied on variable-centered approaches, that is, statistical techniques that describe associations between variables. Person-centered analyses, by contrast, identify groups of individuals who are more similar to each other on particular attributes or relations among attributes than individuals from different groups (Laursen and Hoff 2006). Adapting a person-
+
+centered approach allows us to examine the extent to which loneliness and depressive symptoms co-occur. In order to gain better insight in the distinctiveness of loneliness and depressive symptoms, it is important to examine whether they can actually be independently experienced within individuals. For instance, if feelings of loneliness are always experienced in combination with feelings of depressive symptoms, treatment for loneliness should also address these depressive feelings. In addition, if loneliness and depressive symptoms are distinct due to their different relations to inter- and intrapersonal problems, clusters of loneliness and depressive symptoms might be differentially related to such inter- and intrapersonal characteristics as well. In the current study, we assessed friendship quantity and friendship quality as measures of the interpersonal domain and we assessed happiness and self-esteem as measures of the intrapersonal domain.
+
+Friendships and Internalizing Problems
+
+The establishment of close and satisfying peer relationships is an important developmental task during adolescence (Steinberg and Morris 2001). Whereas in childhood most time is spent with parents, from early adolescence onward increasingly more time is spent with peers than with parents (Steinberg and Morris 2001). Although peers are important for positive development, negative peer experiences put adolescents at risk for mental problems, such as loneliness and depressive symptoms (Parker et al. 2006). Friendship experiences seem particularly important for mental health problems, above and beyond peer group acceptance. The number of friendships (i.e., friendship quantity) and the degree to which the friendship provides support, security, closeness, and companionship (i.e., friendship quality), are friendship dimensions that have often been examined in relation to internalizing problems (Parker et al. 2006).
+
+Loneliness and depressive symptoms may be related to more negative friendship experiences for several reasons. Loneliness and depressive symptoms may lead to negative friendship experiences. For instance, both loneliness (Se-grin and Flora 2000) and depressive symptoms (Hames et al. 2013) seem to be related to decreases in social skills, which in turn may alienate others and actually decrease the opportunities adolescents have to form and maintain a satisfactory quantity and quality of friendships. In addition, loneliness (Lodder et al. 2015) and depressive symptoms (Everaert et al. 2012) are both characterized by negative cognitive biases, which may lead adolescents to interpret their opportunities to form new friendships and the quality of their existing friendships more negatively than is necessary. Another possibility is that negative friendship experiences lead to loneliness and depressive symptoms.
+
+123
+
+J Youth Adolescence (2017) 46:429441 431
+
+Negative friendship experiences may be a threat to the need to belong, which can cause feelings of loneliness and severe negative affect, and thus depressive symptoms (Gere and MacDonald 2010).
+
+Loneliness, in which dissatisfaction with friendship quantity and quality is a core feature, has consistently been related to lower actual friendship quantity and quality in adolescence (e.g., Lodder et al. 2015; Vanhalst et al. 2014). Despite the theoretically assumed relation between depressive symptoms and friendship experiences, studies that examined this relationship in adolescence have yielded inconsistent results. One study showed that depressive symptoms were related to lower friendship quality, dened in terms of companionship, security, and help, and higher conict within friendships, but not to the number of reciprocal friends (Demir and Urberg 2004). Another study showed that depressive symptoms were related to lower general perceived friendship quality (Cheng and Furnham 2003). However, a third study did not nd evidence for a relation between depressive symptoms and either friendship quality or friendship quantity (Hussong 2000).
+
+So far, just a single study (Nangle et al. 2003) has examined loneliness and depressive symptoms simultaneously in relation to friendship quantity and quality. This study showed that both loneliness and depressive symptoms are both related to friendship quantity and friendship quality. However, in the nal model it was shown that loneliness mediated the relationship between depressive symptoms and friendship experiences (Nangle et al. 2003). This nding raises the question whether both depressive symptoms and loneliness are related to friendship problems, or whether depressive symptoms are only related to friendship problems when also loneliness is experienced. One way to further clarify this issue is to examine how the co-occurrence of loneliness and depressive symptoms is related to friendship quantity and friendship quality.
+
+Well-Being and Internalizing Problems
+
+Happiness, a form of positive affect, and self-esteem, the overall evaluation of self-worth, are important indicators of positive emotional well-being (Lyubomirsky et al. 2006). During early adolescence, more extreme negative and positive affect are experienced compared to adulthood (Larson et al. 2014) and there seems to be a temporary drop in self-esteem (Robins and Trzesniewski 2005). These temporary disturbances in happiness and self-esteem have prompted researchers to examine how they are related to early adolescents internalizing problems.
+
+Loneliness and depressive symptoms may be related to low happiness and self-esteem for several reasons. The relation between happiness, on the one hand, and loneliness and depressive symptoms, on the other hand, might be
+
+based on a self-fullling prophecy. That is, happiness or being happy increases the likelihood of experiencing positive events and having satisfying social relationships, which in turn decreases the risk for experiencing depressive symptoms and loneliness (Lyubomirsky et al. 2006). Self-esteem inuences ones cognitive appraisals of stress and the selection of coping strategies. High self-esteem might thus buffer against loneliness and depressive symptoms, as the impact of stress is cognitively diminished and efcient coping strategies are selected (Mann et al. 2004). On the other hand, loneliness and depressive symptoms are associated with increased processing of negative self-relevant information and rumination about negative aspects of oneself, which might lower self-esteem (Orth et al. 2008).
+
+Loneliness has been related to lower happiness (e.g., Cheng and Furnham 2002) and lower self-esteem (Mahon et al. 2006). Similarly, depressive symptoms are related to lower happiness (Lyubomirsky et al. 2005) and lower self-esteem (Sowislo and Orth 2013). So far, no study has examined depressive symptoms and loneliness simultaneously in relation to happiness or self-esteem. Only one study (Lyubomirsky et al. 2006), which focused on retired employees, simultaneously examined loneliness, depression characteristics, happiness, and self-esteem. This study revealed that the relation between loneliness and self-esteem was mediated by characteristics of depression, that is, hopelessness, pessimism, and low life satisfaction. The relationship between loneliness and happiness was not mediated by these characteristics of depression (Lyubomirsky et al. 2006). Yet, depressive symptoms are characterized by either high negative affect or low positive affect (American Psychiatric Association 2013), whereas the denition of loneliness only refers to the experience of high negative effect (Perlman and Peplau 1981). As the experience of negative affect may, but is not necessarily, be related to the absence of positive affect (Ryff et al. 2006), happiness might be more germane to depression than to loneliness. This raises the question whether low happiness and self-esteem are central to both depressive symptoms and loneliness, or the relation between loneliness and these well-being measures is driven by concurrent depressive symptoms. A potential way to further clarify this issue is to examine how the co-occurrence of loneliness and depressive symptoms is related to self-esteem and happiness.
+
+The Current Study
+
+The rst aim of the current study was to examine the cooccurrence of loneliness and depressive symptoms in early adolescents using a person-centered approach and latent prole analyses. We specically focused on early adolescence as this developmental period is generally perceived
+
+123
+
+432 J Youth Adolescence (2017) 46:429441
+
+as the starting point of many psychosocial changes (Steinberg and Morris 2001). Therefore, early adolescents might be specially at risk for developing internalizing problems, including loneliness and depressive symptoms (e.g., Heinrich and Gullone 2006). In order to check the robustness of the identied clusters, we used a second sample in order to replicate the cluster solution of the rst sample (cf. van Dulmen and Goossens 2013). The second aim of the study was to examine whether these clusters related to friendship quantity, friendship quality, happiness, and self-esteem.
+
+Our hypothesis related to the rst aim was that at least four loneliness and depressive symptom clusters would be identied. That is, because loneliness and depressive symptoms are distinct but still partially overlapping constructs, some groups might experience symptoms of both loneliness and depressive symptoms, whereas others experience high levels of one of these internalizing problems only. We thus expected to nd four clusters characterized by: (a) low levels for both loneliness and depressive symptoms; (b) high levels for both loneliness and depressive symptoms; (c) low levels for loneliness and high levels for depressive symptoms; and (d) high levels for loneliness and low levels for depressive symptoms.
+
+For our second aim, we had two hypotheses, one for friendship experiences and one for well-being. First, we hypothesized that adolescents in clusters characterized by high loneliness, regardless of their depressive symptom levels, would report lower friendship quantity and quality than clusters low in loneliness. Adolescents in clusters high in depressive symptoms were only expected to have lower friendship experiences when their depressive symptoms were accompanied by high levels of loneliness. Loneliness is a negative emotional state that occurs specically in response to dissatisfaction with the quality or quantity of social relations (Perlman and Peplau 1981). Therefore, by denition, loneliness is related to interpersonal relations. Depression, on the other hand, has been related to a wide variety of both interpersonal and intrapersonal risk factors (Hankin and Abramson 2001). It is quite possible that depression does not always occurs in combination with interpersonal problems. Moreover, as loneliness and depression are co-occurring, the relation between depression and interpersonal relations might even be spurious and in fact be due to feelings of loneliness. Second, we hypothesized that adolescents in clusters characterized by high depressive symptoms, regardless of their loneliness levels, would report lower happiness and self-esteem than clusters low in depressive symptoms. Adolescents in clusters high in loneliness were thus expected to have low happiness and self-esteem only when loneliness was accompanied by high levels of depressive symptoms.
+
+
+
+Method
+
+Participants
+
+Two samples were used in the present study. For Sample 1, a total of 456 Belgian adolescents between 9 and 15 years (comparable to US Grades 510) were invited to participate. Twenty-six adolescents (5.16 %) did not get parental permission to participate and 13 adolescents (2.58 %) were absent during data collection. Analyses on Sample 1 were conducted on 417 adolescents (participation rate 92.26 %;48.40 % male) with an average age of 12.47 years (SD = 1.89).
+
+For Sample 2, a total of 1361 Dutch adolescents from the rst grade of high school in The Netherlands (comparable to US Grade 7) were invited to participate. Forty-seven adolescents (3.46 %) did not get parental permission to participate, 19 adolescents (1.39 %) did not provide assent for participation and 81 adolescents (5.95 %) were absent during data collection. In addition, 74 adolescents(6.10 %) were excluded from the sample because they nominated themselves or everyone else in their class as their friends, which made their nominations unreliable. All analyses on Sample 2 were conducted on the 1140 remaining adolescents (participation rate 86.56 %;48.68 % male), who had an average age of 12.81 years (SD = 0.42).
+
+
+
+Procedures
+
+In both samples, adolescents and their parents received information about the study prior to the actual assessment. Passive consent was obtained from parents, that is, they could object to their childs participation in the study by phone, email or regular mail. In addition, active informed assent was obtained from the adolescents. The adolescents completed questionnaires on a computer during regular school hours. Research assistants were present to assist them. Ethical approval for Samples 1 and 2 was obtained from the Internal Review Boards of the respective universities in Belgium (S55360) and the Netherlands (ECG2012-2711-701). In return for participation, participants received a small gift (e.g., a pen or stickers).
+
+
+
+Measures
+
+Loneliness
+
+In both samples, loneliness was measured using the peer-related loneliness subscale of the Loneliness and Aloneness Scale for Children and Adolescents (LACA; Marcoen et al. 1987). The scale consists of 12 items (e.g., I think I have
+
+123
+
+J Youth Adolescence (2017) 46:429441 433
+
+fewer friends than others; I feel excluded by my classmates; I feel alone at school), which were rated on a 4-point Likert scale, ranging from 1 (never) to 4 (often). Cronbachs alpha was good for both samples (Sample 1 a = .91, Sample 2 a = .89).
+
+
+
+Depressive Symptoms
+
+In Sample 1, depressive symptoms were assessed with the Childrens Depression Inventory (CDI; Kovacs 2003). This 27-item scale measures cognitive, affective, and behavioral symptoms of depression as experienced during the past 2 weeks. For each item, adolescents chose one out of three statements describing different levels of symptom severity (e.g., I am sad once in a while/many times/all the time). A value of 02 is assigned to each of the statements, with higher values indicating greater symptom severity. Cron-bachs alpha was good (a = .87).
+
+In Sample 2, depressive symptoms were assessed using the Iowa short form of the Center for Epidemiological Studies Depression scale (CES-D; Kohout et al. 1993). This 11-item questionnaire measures the prevalence of depressive symptoms during the past week (e.g., I was sad). The items were rated on a 4-point Likert scale ranging from 0 (rarely or never, \1 day) to 3 (usually or always, 57 days). Cronbachs alpha was good (a = .81).
+
+Friendship Quantity
+
+Friendship quantity was assessed using an unlimited peer nomination procedure, because this procedure has been found to be more reliable and valid than limited peer nominations (Terry 2000). Adolescents could select as many friends as they wanted from a list of names of their classmates. Adolescents could also indicate that they had no friends in their class. The number of reciprocal friendships was computed by summing the number of times the participant was nominated by someone he or she nominated as a friend. The number of nominated reciprocal friends ranged from 0 to 14. Data on friendship quantity were only available in Sample 2.
+
+Friendship Quality
+
+Friendship quality was assessed using the peer attachment subscale of the short version of the Inventory of Parent and Peer Attachment (Raja et al. 1992). This 12-item scale measures attachment to friends (e.g., I feel my friends are good friends; My friends listen to what I have to say; I can tell my friends about my problems and troubles), with ve items being reverse coded. The items were rated on a 4-point Likert scale ranging from 1 (almost never) to 4 (almost always). Higher scores are indicative of better
+
+friendship quality. In the current study, Cronbachs alpha was good (a = .79). Data on friendship quality were only available in Sample 2.
+
+
+
+Happiness
+
+Happiness was assessed using a single item (Abdel-Khalek 2006). Participants responded to the item How happy do you feel in general? on a Visual Analogue Scale. That is, participants had to click on a line representing a continuum from 0 (very unhappy) to 10 (very happy). Previous research showed that the scale is a reliable and valid measure of happiness (Abdel-Khalek 2006). Data on happiness were only available in Sample 2.
+
+Self-Esteem
+
+Self-esteem was assessed using the Single Item Self-Esteem scale (SISE; Robins et al. 2001). Participants responded to the item I see myself as someone with high self-esteem on a 5-point scale ranging from 1 (not very true for me) to 5 (very true for me). Previous research showed that the SISE is a reliable and valid measure (Robins et al. 2001). Data on self-esteem were only available in Sample 2.
+
+Statistical Analyses
+
+In order to identify loneliness and depressive symptoms clusters, latent prole analyses were conducted in Mplus6.1 (Muthn and Muthn 19982010) for both samples separately, and for a two- through seven-cluster solution. We used several criteria to determine the number of latent clusters. First, we examined the classication quality in terms of entropy (i.e., classication certainty), for which we considered a value of at least .80 as acceptable (Wang and Wang 2012). Second, we took the number of adolescents in the smallest cluster into account. A cluster should contain at least 1 % of the total sample (e.g., Meeus et al. 2012). Third, we examined the improvement in model t with Akaikes Information Criterion (AIC) and the Sample-Size Adjusted Bayesian Information Criterion (SSABIC), with lower AIC and SSABIC representing better t (Nagin 2005). In addition, we examined the Lo-Mendell-Rubin Likelihood Ratio test (LMR LR) and Bootstrapped Likelihood Ratio Test (BLRT). A signicant p value for these two tests indicates an improvement of k clusters over k - 1 clusters. Finally, the interpretability of the clusters or the degree to which adding an extra cluster to the model reveals a distinct new cluster was considered (Wang and Wang 2012).
+
+We used Sample 2 (N = 1140) to replicate the cluster solution of Sample 1 (N = 417), by adopting the same
+
+123
+
+434 J Youth Adolescence (2017) 46:429441
+
+criteria as for Sample 1 to determine the number of clusters. In addition, we tested whether the adolescents that were assigned to different clusters of this sample could be meaningfully distinguished in terms of friendship quality, friendship quantity, happiness, and self-esteem. Because clusters differed in size, we used the KruskalWallis test to test these between-cluster differences. We used the Mann Whitney U test for post hoc comparisons between clusters and applied a Benjamini-Hochberg correction for multiple testing (Benjamini and Hochberg 1995).
+
+
+
+Results
+
+Descriptive Statistics
+
+Table 1 summarizes the correlations, means, and SD for all measures in Samples 1 and 2. Fisher r-to-z transformations showed that the correlations between loneliness and depressive symptoms were comparable in the two samples (z = -1.41, p = .079). In both samples, loneliness and depressive symptoms were strongly and positively correlated. In addition, in both samples girls scored signicantly higher on depressive symptoms compared to boys, whereas no gender differences were found for loneliness. In Sample 2, loneliness and depressive symptoms were signicantly correlated with all measures of inter- and intrapersonal functioning, with the exception of depressive symptoms and friendship quantity. Girls had signicantly lower self-esteem than boys. In addition, girls also had more friends and a better friendship quality than boys. No signicant gender differences were found for happiness.
+
+Cluster Membership
+
+Table 2 describes the results of the latent cluster analysis in both samples. The number of clusters within Sample 1 was determined as follows. First, the classication certainty(i.e., entropy) was below .80, and thus too low, for the three, ve, and six-cluster solutions. Second, the seven-cluster solution was dropped, because one cluster comprised less than 1 % of the adolescents. We thus limited our selection to the two and four-cluster solutions. Third, the AIC, SSABIC and BLRT indicated that the four-cluster solution was a signicant improvement over the three-cluster solution, which in turn was a signicant improvement over the two-cluster solution (see Table 2). The LMR LR indicated that the four-cluster solution was a signicant improvement over the two-cluster solution (see Table 2). Therefore, the four-cluster solution was selected as our nal cluster solution.
+
+The number of clusters within Sample 2 was determined in a similar manner. First, entropy was good for all cluster
+
+solutions. Second, the ve-, six- and seven-cluster solutions were dropped, because they all had less than 1 % of the adolescents in the smallest cluster. Third, the two-cluster solution was dropped, because all t indices indicated that the three-cluster solution was a signicant improvement over the two-cluster solution (see Table 2). In addition, the AIC, SSABIC, and BLRT indicated that the four-cluster solution was a signicant improvement over the three-cluster solution. The LMR LR indicated that the four-cluster solution was not a signicant improvement over the three-cluster solution (see Table 2). Because t indices were not unequivocal regarding the cluster solution, we examined both the three and four-cluster solutions in greater detail. Classication quality was equally good for the three- and four-cluster solutions in terms of entropy(i.e. classication certainty). Next, a scatterplot revealed that the low and middle clusters of the three-cluster solution had a rather large within-cluster spread (see Fig. 1). The within-cluster range of the clusters in the four-cluster solution was smaller, which implied that the fourth cluster represented a distinct as well as a meaningful group. As a result, the four-cluster solution was selected.
+
+
+
+Description of Latent Clusters
+
+For both samples, the loneliness and depressive symptom levels of the four cluster solution are displayed in Fig. 2. Adolescents in the rst cluster (n1 = 70.74, n2 = 78.51 %)
+
+had low scores on both the loneliness and depressive symptoms. This group was labelled as the common cluster, because in both samples the majority of the adolescents was classied to belong to this group. The second cluster (n1 = 15.59, n2 = 4.82 %), which was labelled as the predominantly depressed cluster, consisted of adolescents who scored high on depressive symptoms, but relatively low on loneliness. Adolescents in the third cluster (n1 = 9.11, n2 = 13.07 %), labelled as the predominantly lonely cluster, had high scores on loneliness, but scored relatively low on depressive symptoms. Adolescents in the fourth cluster (n1 = 4.56, n2 = 3.60 %) scored high on both the loneliness and depressive symptom measure (see
+
+Fig. 2). This last cluster was therefore labelled as the co-occurring cluster.
+
+In both samples, all clusters differed signicantly from each other in their loneliness and depressive symptom levels (p \ .001). This nding implies that adolescents in the predominantly depressed cluster experienced somewhat elevated levels of loneliness in comparison to adolescents in the common cluster, but had lower loneliness levels than adolescents in the predominantly lonely cluster. Similarly, depressive symptom levels were higher in the predominantly lonely cluster than in the common cluster but lower in comparison to the predominantly depressed cluster. In
+
+123
+
+
+
+J Youth Adolescence (2017) 46:429441 435
+
+Table 1 Correlations, means and SD among the measures in both samples
+
+Measure 1. 2. 3. 4. 5. Total Boys Girls t test
+
+M SD M SD M SD
+
+Sample 1
+
+1. Depressive symptoms 0.36 0.25 0.33 0.22 0.38 0.27 -2.01*
+
+2. Loneliness .48*** 1.73 0.62 1.68 0.59 1.79 0.65 -1.59
+
+Sample 2
+
+1. Depressive symptoms 0.52 0.43 0.44 0.39 .59 0.45 -5.95***
+
+2. Loneliness .54*** 1.48 0.48 1.45 0.46 1.51 0.50 -1.91
+
+3. Friendship quantity -.05 -.21*** 3.47 2.10 3.18 1.93 3.74 2.21 -4.53***4. Friendship quality -.39*** -.52*** .16*** 3.07 0.43 2.98 0.39 3.16 0.46 -7.03***
+
+5. Self-esteem -.33*** -.32*** -.02 .21*** 3.78 1.09 4.02 0.99 3.55 1.13 -7.50***
+
+6. Happiness -.49*** -.40*** .10** .36*** .31*** 7.95 1.94 8.05 1.82 7.86 2.04 1.65
+
+*** p \ .001; ** p \ .01; * p \ .05
+
+Table 2 Fit indices for thevarious cluster solutions Cluster AIC SSABIC LMR LR p value BLRT p value Entropy Smallest n (%)
+
+Sample 1
+
+1 2270.62 2274.06
+
+2 2119.58 2125.60 \.001 \.001 .83 78 (18.71)
+
+3 2074.87 2083.46 .011 \.001 .77 37 (8.87)
+
+4 2046.36 2057.54 .104 <.001 .82 19 (4.56)
+
+5 2033.26 2047.02 .247 \.001 .77 19 (4.56)
+
+6 2021.15 2037.49 .451 \.001 .79 14 (3.36)
+
+7 2005.90 2024.81 .096 \.001 .81 1 (0.24)
+
+Sample 2
+
+1 6382.71 6390.16
+
+2 5714.53 5727.57 \.001 \.001 .91 165 (14.47)
+
+3 5542.15 5560.78 \.001 \.001 .90 53 (4.80)
+
+4 5436.44 5460.65 .188 <.001 .90 41 (3.60)
+
+5 5391.38 5421.18 .281 \.001 .90 12 (1.05)
+
+6 5342.70 5378.08 .139 \.001 .86 7 (0.61)
+
+7 5301.87 5342.84 .748 \.001 .86 12 (1.05)
+
+Smallest n indicates the number of adolescents in the smallest cluster. The results in bold indicate the selected model
+
+AIC Akaikes information criterion, SSABIC sample-size adjusted Bayesian information criterion, LMR LR Lo-Mendell-Rubin likelihood ratio test, BLRT bootstrapped likelihood ratio test
+
+addition, the loneliness and depressive symptom levels of adolescents in the co-occurring cluster were higher than the loneliness and depressive symptom levels of adolescents in all other clusters (see Table 3). Adolescents within the separate clusters did not differ in age (H(3) = 3.86, p = .278) but did differ in gender (v2 = 18.70, p \ .001).
+
+More specically, the predominantly depressed cluster consisted of fewer boys and more girls than expected by chance in both samples.
+
+Latent Clusters and Outcome Measures
+
+In Sample 2, we also examined whether the clusters differed in measures of friendship experiences (i.e., friendship quantity and quality) and measures of well-being (i.e., happiness and self-esteem). Signicant differences between clusters emerged on friendship quantity (H(3) = 44.24, p \ .001), friendship quality (H(3) = 176.59, p \ .001), self-esteem (H(3) = 105.88, p \ .001), and happiness
+
+123
+
+436 J Youth Adolescence (2017) 46:429441
+
+Fig. 1 Scatterplots of loneliness and depressive symptoms, for the three (a) and four cluster solution (b) in the second sample
+
+Fig. 2 Loneliness and depressive symptom levels for the four cluster solution for Samples 1 and 2
+
+(H(3) = 185.34, p \ .001). Post-hoc analyses indicated that adolescents in the common cluster had signicantly better friendship quality, higher self-esteem, and higher happiness scores than adolescents in all other clusters (see Table 3). The only exception was the number of reciprocal friends, which did not differ between adolescents in the common cluster and adolescents in the predominantly depressed cluster. Adolescents in the co-occurrence cluster had lower friendship quality, lower self-esteem, and lower happiness compared to adolescents in all other clusters. The only exception was friendship quantity, in which adolescents in the co-occurrence cluster did not differ from adolescents in
+
+the predominantly lonely cluster (see Table 3). Adolescents in the predominantly depressed cluster and predominantly lonely cluster scored in between the adolescents in the common cluster and the co-occurrence cluster in terms of friendship quality, self-esteem, and happiness. Adolescents in the predominantly lonely cluster had fewer friends, lower friendship quality, and higher happiness than adolescents in the predominantly depressed cluster (see Table 3). Adolescents in the predominantly lonely cluster and predominantly depressed cluster did not differ in terms of self-esteem. There were no signicant gender by cluster interactions on the outcome variables (p [ .05).
+
+123
+
+J Youth Adolescence (2017) 46:429441 437
+
+Table 3 Means (SD) on all study variables using the four-cluster solution
+
+Variable Common cluster Predominantly depressed cluster Predominantly lonely cluster Co-occurrence cluster
+
+Depressive symptoms 0.37 (0.26)a 1.41 (0.35)b 0.75 (0.29)c 1.58 (0.41)d
+
+Loneliness 1.29 (0.23)a 1.59 (0.29)b 2.22 (0.27)c 2.90 (0.35)d
+
+Friendship quantity 3.65 (2.06)a 3.55 (2.41)a 2.71 (1.95)b 2.25 (2.15)b
+
+Friendship quality 3.16 (0.38)a 2.90 (0.34)b 2.75 (0.39)c 2.39 (0.56)d
+
+Self-esteem 3.94 (1.02)a 3.29 (1.24)b 3.21 (1.06)b 2.80 (1.10)c
+
+Happiness 8.36 (1.66)a 6.23 (2.28)b 7.04 (1.84)c 4.92 (2.11)d
+
+N 870 55 143 40
+
+Means with different superscripts are signicantly different from one another after correction for multiple testing (p \ .046)
+
+Sensitivity Analysis
+
+In order to test the internal robustness of our results, we conducted the analysis on nine split-half datasets of Sample2. The four-cluster solution most consistently reected the data in all split-half analyses. Other alternatives involved either the three- or ve-cluster solutions. However, the clusters in these solutions seemed similar in composition to the clusters in the four-cluster solutions, with different number of clusters being the only difference. In addition, we examined the robustness of our ndings on the relationship between cluster membership and measures of friendship experiences and well-being. That is, by using differences of 1SD from the mean, we manually divided the participants into four groups and related these manual created groups to the measures of friendship experiences and well-being. Adolescents scoring below 1SD above the mean on both loneliness and depressive symptoms were in the common group (N = 858). Adolescents scoring below 1SD for loneliness but higher than 1SD above the mean for depressive symptoms were assigned to the predominantly depressed group (N = 83). Adolescents scoring below 1SD for depressive symptoms but higher than 1SD above the mean for loneliness were assigned to the predominantly lonely group (N = 93). Adolescents scoring higher than 1SD above the mean for loneliness and depressive symptoms were assigned to the co-occurring group (N = 73). The relation between these manually created groups and the outcome measures were similar to the ndings for the latent clusters.
+
+Discussion
+
+Previous studies have indicated that loneliness and depressive symptoms might be partly overlapping, but separate constructs (e.g., Cacioppo et al. 2006a, b), and that they predict each other over time (e.g., Vanhalst et al.
+
+2012). Yet, it was unknown to what extent loneliness and depressive symptoms co-occur within individuals. In the present study, we therefore used latent cluster analysis to identify clusters of adolescents based on their reported feelings of loneliness and depressive symptoms. Four loneliness and depressive symptoms clusters were identied in Sample 1. Similar clusters were found in a replication sample, which underlines the reliability of our ndings. In addition, it is unknown whether loneliness and depressive symptoms are differentially related to friendship quantity, friendship quality, happiness, and self-esteem. Our ndings showed that the loneliness and depressive symptom clusters were indeed differentially related to friendship experiences and well-being.
+
+Although previous research already indicated that loneliness and depressive symptoms may be theoretically and empirically distinct constructs (e.g., Cacioppo et al. 2006a, b), it was unclear to what extent loneliness and depressive symptoms present themselves independently within individuals. In the current study, four clusters of loneliness and depressive symptoms were identied. In the rst cluster, adolescents reported low loneliness and depressive symptoms (common cluster). The second cluster comprised adolescents who scored high on depressive symptoms and low on loneliness (predominantly depressed cluster). Third, we found a cluster of adolescents scoring high on loneliness and low on depressive symptoms (predominantly lonely cluster). The fourth cluster consisted of adolescents scoring high on both loneliness and depressive symptoms (co-occurrence cluster). In other words, loneliness and depressive symptoms were found to occur simultaneously as well as independently within individuals. Our study contributes to the notion that loneliness and depressive symptoms are actually distinct constructs. Notably, the loneliness and depressive symptom levels of adolescents in the co-occurrence cluster were higher than the respective symptom levels in the predominantly lonely and predominantly depressed clusters. This nding might
+
+123
+
+438 J Youth Adolescence (2017) 46:429441
+
+reect a difference in clinical versus subclinical levels of loneliness and depressive symptoms. Future studies could examine whether, for instance, clinical levels of depressive symptoms indeed always co-occur with feelings of loneliness, or whether the comorbidity of loneliness and depressive symptoms may over time lead to a greater sense of loneliness and depressive symptoms.
+
+The four clusters could be meaningfully distinguished by friendship quantity and quality. Clusters characterized by high loneliness (i.e., predominantly lonely and co-occurrence clusters) had lower friendship quality and quality than the cluster characterized by high depressive symptoms only (i.e., predominantly depressed cluster). Furthermore, adolescents in the predominantly depressed cluster had a lower friendship quality than adolescents in the common cluster. The various friendship domains did not similarly differentiate between loneliness and depressive symptom clusters. Loneliness was related to more generalized friendship problems, that is, problems in multiple friendship domains, whereas depressive symptoms were not. Additional research on these generalized versus specic friendship problems for loneliness and depressive symptoms seems needed. For example, future studies could examine underlying mechanisms, as the same mechanisms have been proposed to underlie the relationship between friendship experiences and loneliness as well as the relationship between friendship experiences and depressive symptoms. These mechanisms might differ in terms of directionality or severity. For example, it might be possible that lonely individuals have social skill decits (Segrin and Flora 2000) that undermine their ability to establish and maintain friendships, whereas depressive symptoms might be accompanied by social skill decits (Hames et al. 2013) that are frustrating or annoying for others, thereby damaging the friendship quality, but not severely enough to lose friends.
+
+Adolescents in clusters characterized by high depressive symptoms (i.e., predominantly depressed and co-occurrence clusters) were unhappier than adolescents in clusters characterized by low depressive symptoms (i.e., predominantly lonely and common clusters). In addition, adolescents in the predominantly lonely cluster were unhappier than adolescents in the common clusters. Although we did not hypothesize lower happiness scores for adolescents in the cluster high on only loneliness, an explanation for this nding may be that the interpersonal domain becomes so important in adolescence (Steinberg and Morris 2001) that it has a greater effect on happiness in adolescence than in any other developmental stage. Yet, adolescents in the predominantly depressed cluster felt even less happy compared to adolescents in the predominantly lonely cluster. This nding might be due to depression being characterized by a markedly diminished interest or
+
+pleasure in all, or almost all, activities (American Psychiatric Association 2013, p. 160). Consequently, lonely individuals might be happier than depressed individuals because they keep participating in solitary activities from which they might derive pleasure, whereas depressed individuals do not.
+
+Adolescents in the predominantly lonely cluster and in the predominantly depressed cluster had similar levels of self-esteem, which was higher than the self-esteem of the adolescents within the co-occurrence cluster. Self-esteem did not differentiate between the predominantly lonely cluster and predominantly depressed cluster. Thereby, our results seem to indicate that self-esteem is related to symptom severity rather than the type of internalizing problem. Additional studies on the directionality between self-esteem and internalizing problems as well as the mechanisms that link self-esteem to internalizing problems are needed to clarify this issue.
+
+Although the current study has several important strengths, such as the replication across samples and the use of different depressive symptoms measures, some limitations should be mentioned. First, the use of single-item measures has been questioned (Diamantopoulos et al. 2012). For example, participants response on one item might be inuenced by their response to another item. Such a carry-over effect is more likely to affect single-item measures than multi-item measures (Diamantopoulos et al. 2012). Yet, single-item measures are used for their parsimoniousness and efcient administration. In addition, previous studies indicated that single-item measures as used in the current study perform just as well as multi-item measures tapping into the same construct (Abdel-Khalek 2006; Robins et al. 2001). A second limitation is that friendship quantity and friendship quality were only measured with respect to peers from the adolescents class group. Adolescents without friends in their class often have friends in other classes or outside their school (George and Hartmann 1996). Future studies could consider these non-classmate friendships, because they also could protect against loneliness and depressive symptoms. Third, our results might be inated as a result of shared method variance, because we relied on self-reports, with the exception of friendship quantity. Given that loneliness and depressive symptoms are subjective and internal experiences, self-report has been put forward as the most adequate assessment method (Vanhalst et al. 2012). Fourth, the current study only focused on early adolescents from the general population. Therefore, the ndings cannot be generalized to a clinically referred sample. In addition, it might be hard to generalize to older samples, as the developmental trajectories of internalizing problems take on a different form in older ages than they do in early adolescence (e.g., Hankin et al. 1998). Finally, the use of
+
+123
+
+J Youth Adolescence (2017) 46:429441 439
+
+different depressive symptoms measures across samples could also be seen as a limitation, as this means that we replicated our ndings conceptually but not directly. However, it might also be a strength as it indicates that our ndings do not depend on the specic measure used.
+
+Despite these limitations, our study offers suggestions for future research directions. First, now that the current study indicated that various loneliness and depressive symptom clusters could be distinguished by happiness and well-being, it might be interesting to examine additional adjustment variables that might differentiate between these clusters, such as personality, social anxiety, and academic achievement. Second, future studies might examine the clusters longitudinally. A longitudinal study could shed light on the direction in which loneliness, depressive symptoms, friendship experiences, and well-being inuence each other. In addition, a longitudinal study would offer the possibility to examine whether adolescents make transitions to other clusters over time or whether loneliness and depressive symptoms clusters have similar developmental trajectories.
+
+Conclusion
+
+The current study provides a more detailed understanding of the co-occurrence of depressive symptoms and loneliness than was possible in earlier research, because it examined loneliness and depressive symptoms simultaneously using a person-centered approach. The four clusters of loneliness and depressive symptoms that were found suggest that these two constructs are experienced more often independently than simultaneously. As the clusters were differentially related to friendship quantity, friendship quality, happiness, and self-esteem, our ndings have important clinical implications. If indeed the co-occurrence of both depressive symptoms and loneliness can in and of itself cause an increase in levels of depressive symptoms and loneliness, clinicians treating adolescents for depressive symptoms should also pay attention to loneliness, and vice versa. The current study stresses the importance of assessing both loneliness and depressive symptoms, as their mutual relation within individuals is differentially related to other constructs of adjustment.
+
+Acknowledgment This research was supported through Grant GOA/12/009 (STRATEGIES project) of the BOF (Bijzonder Onderzoeksfonds, KU Leuven), by the Fonds Wetenschappelijk Onderzoek (Ph.D. fellowship of the Research Foundation - Flanders) and by the Nederlandse Organisatie voor Wetenschappelijk Onderzoek (451-12-038).
+
+Authors Contributions A.S. conceived of the study, participated in its design, performed the statistical analyses, interpreted the data, and drafted the manuscript. G.L. acquired data, was involved in
+
+concept and design of the study, assisted with and checked the analysis, and critically revised the manuscript. L.G. conceived of the study, and critically revised the manuscript. P.B. conceived of the study, and critically revised the manuscript. M.V. was involved in concept and design of the study, conceived of the study, and critically revised the manuscript. M.B. acquired data and critically revised the manuscript. R.S. was involved in concept and design of the study, participated in the interpretation of the data and critically revised the manuscript. All authors read and approved the nal manuscript.
+
+Conict of interest The authors declare that they have no conict of interest.
+
+Ethical Standard All procedures performed in studies involving human participants were in accordance with the ethical standards of the institutional and/or National Research Committee and with the 1964 Helsinki declaration and its later amendments or comparable ethical standards.
+
+Informed consent Informed consent was obtained from all individual participants included in the study.
+
+References
+
+Abdel-Khalek, A. M. (2006). Measuring happiness with a single-item scale. Social Behavior and Personality, 34, 139150. doi:http://dx.doi.org/10.2224/sbp.2006.34.2.139
+
+Web End =10. http://dx.doi.org/10.2224/sbp.2006.34.2.139
+
+Web End =2224/sbp.2006.34.2.139 .
+
+American Psychiatric Association. (2013). Diagnostic and statistical manual of mental disorders: DSM-5 (5th ed.). Washington, DC: American Psychiatric Publishing.
+
+Benjamini, Y., & Hochberg, Y. (1995). Controlling the false discovery rate: A practical and powerful approach to multiple testing. Journal of the Royal Statistical Society. Series B-Methodological, 57, 289300.
+
+Cacioppo, S., Grippo, A. J., London, S., Goossens, L., & Cacioppo, J.T. (2015). Loneliness: Clinical import and interventions. Perspectives on Psychological Science, 10, 238249. doi:http://dx.doi.org/10.1177/1745691615570616
+
+Web End =10. http://dx.doi.org/10.1177/1745691615570616
+
+Web End =1177/1745691615570616 .
+
+Cacioppo, J. T., Hawkley, L. C., Ernst, J. M., Burleson, M., Berntson,G. G., Nouriani, B., & Spiegel, D. (2006a). Loneliness within a nomological net: An evolutionary perspective. Journal of Research in Personality, 40, 10541085. doi:http://dx.doi.org/10.1016/j.jrp.2005.11.007
+
+Web End =10.1016/j.jrp. http://dx.doi.org/10.1016/j.jrp.2005.11.007
+
+Web End =2005.11.007 .
+
+Cacioppo, J. T., Hughes, M. E., Waite, L. J., Hawkley, L. C., & Thisted, R. A. (2006b). Loneliness as a specic risk factor for depressive symptoms: Cross-sectional and longitudinal analyses. Psychology and Aging, 21, 140151. doi:http://dx.doi.org/10.1037/0882-7974.21.1.140
+
+Web End =10.1037/0882-7974.21. http://dx.doi.org/10.1037/0882-7974.21.1.140
+
+Web End =1.140 .
+
+Cheng, H., & Furnham, A. (2002). Personality, peer relations, and self-condence as predictors of happiness and loneliness. Journal of Adolescence, 25, 327339. doi:http://dx.doi.org/10.1006/jado.2002.0475
+
+Web End =10.1006/jado.2002. http://dx.doi.org/10.1006/jado.2002.0475
+
+Web End =0475 .
+
+Cheng, H., & Furnham, A. (2003). Personality, self-esteem, and demographic predictions of happiness and depression. Personality and Individual Differences, 34, 921942. doi:http://dx.doi.org/10.1016/S0191-8869(02)00078-8
+
+Web End =10.1016/ http://dx.doi.org/10.1016/S0191-8869(02)00078-8
+
+Web End =S0191-8869(02)00078-8 .
+
+Demir, M., & Urberg, K. A. (2004). Friendship and adjustment among adolescents. Journal of Experimental Child Psychology, 88, 6882. doi:http://dx.doi.org/10.1016/j.jecp.2004.02.006
+
+Web End =10.1016/j.jecp.2004.02.006 .
+
+Diamantopoulos, A., Sarstedt, M., Fuchs, C., Wilczynski, P., & Kaiser, S. (2012). Guidelines for choosing between multi-item and single-item scales for construct measurement: A predictive validity perspective. Journal of the Academy of Marketing Science, 40, 434449. doi:http://dx.doi.org/10.1007/s11747-011-0300-3
+
+Web End =10.1007/s11747-011-0300-3 .
+
+123
+
+440 J Youth Adolescence (2017) 46:429441
+
+Everaert, J., Koster, E. H., & Derakshan, N. (2012). The combined cognitive bias hypothesis in depression. Clinical Psychology Review, 32, 413424. doi:http://dx.doi.org/10.1016/j.cpr.2012.04.003
+
+Web End =10.1016/j.cpr.2012.04.003 .
+
+George, T. P., & Hartmann, D. P. (1996). Friendship networks of unpopular, average, and popular children. Child Development, 67, 23012316. doi:http://dx.doi.org/10.2307/1131624
+
+Web End =10.2307/1131624 .
+
+Gere, J., & MacDonald, G. (2010). An update of the empirical case for the need to belong. Journal of Individual Psychology, 66, 93115.
+
+Hames, J. L., Hagan, C. R., & Joiner, T. E. (2013). Interpersonal processes in depression. Annual Review of Clinical Psychology, 9, 355377. doi:http://dx.doi.org/10.1146/annurev-clinpsy-050212-185553
+
+Web End =10.1146/annurev-clinpsy-050212-185553 .
+
+Hankin, B. L., & Abramson, L. Y. (2001). Development of gender differences in depression: An elaborated cognitive vulnerability transactional stress theory. Psychological Bulletin, 127, 773. doi:http://dx.doi.org/10.1037//0033-2909.127.6.773
+
+Web End =10.1037//0033-2909.127.6.773 .
+
+Hankin, B. L., Abramson, L. Y., Moftt, T. E., Silva, P. A., McGee,R., & Angell, K. E. (1998). Development of depression from preadolescence to young adulthood: Emerging gender differences in a 10-year longitudinal study. Journal of Abnormal Psychology, 107, 128140. doi:http://dx.doi.org/10.1037/0021-843X.107.1.128
+
+Web End =10.1037/0021-843X.107.1.128 . Heinrich, L. M., & Gullone, E. (2006). The clinical signicance of loneliness: A literature review. Clinical Psychology Review, 26, 695718. doi:http://dx.doi.org/10.1016/j.cpr.2006.04.002
+
+Web End =10.1016/j.cpr.2006.04.002 .
+
+Holt-Lunstad, J., Smith, T. B., Baker, M., Harris, T., & Stephenson,D. (2015). Loneliness and social isolation as risk factors for mortality: A meta-analytic review. Perspectives on Psychological Science, 10, 227237. doi:http://dx.doi.org/10.1177/1745691614568352
+
+Web End =10.1177/1745691614568352 . Hussong, A. M. (2000). Perceived peer context and adolescent adjustment. Journal of Research on Adolescence, 10, 391415. doi:http://dx.doi.org/10.1207/Sjra1004_02
+
+Web End =10.1207/Sjra1004_02 .
+
+Kohout, F. J., Berkman, L. F., Evans, D. A., & Cornoni-Huntley, J. (1993). Two shorter forms of the CES-D depression symptoms index. Journal of Aging and Health, 5, 179193. doi:http://dx.doi.org/10.1177/089826439300500202
+
+Web End =10.1177/ http://dx.doi.org/10.1177/089826439300500202
+
+Web End =089826439300500202 .
+
+Kovacs, M. (2003). Childrens depression inventory: technical manual. New York: Multi-health Systems.
+
+Larson, R., Csikszentmihalyi, M., & Graef, R. (2014). Mood variability and the psycho-social adjustment of adolescents. InM. Csikszentmihalyi (Ed.), Applications of ow in human development and education (pp. 285304). Dordrecht: Springer. Lasgaard, M., Goossens, L., & Elklit, A. (2011). Loneliness, depressive symptomatology, and suicide ideation in adolescence: Cross-sectional and longitudinal analyses. Journal of Abnormal Child Psychology, 39, 137150. doi:http://dx.doi.org/10.1007/s10802-010-9442-x
+
+Web End =10.1007/s10802-010-9442- http://dx.doi.org/10.1007/s10802-010-9442-x
+
+Web End =x .
+
+Laursen, B. P., & Hoff, E. (2006). Person-centered and variable-centered approaches to longitudinal data. Merrill-Palmer Quarterly, 52, 377389. doi:http://dx.doi.org/10.1353/mpq.2006.0029
+
+Web End =10.1353/mpq.2006.0029 .
+
+Lodder, G. M., Scholte, R. H., Goossens, L., & Verhagen, M. (2015).
+
+Loneliness in early adolescence: Friendship quantity, friendship quality, and dyadic processes. Journal of Clinical Child & Adolescent Psychology. doi:http://dx.doi.org/10.1080/15374416.2015.1070352
+
+Web End =10.1080/15374416.2015.1070352 . Lyubomirsky, S., King, L., & Diener, E. (2005). The benets of frequent positive affect: Does happiness lead to success? Psychological Bulletin, 131, 803855. doi:http://dx.doi.org/10.1037/0033-2909.131.6.803
+
+Web End =10.1037/0033-2909. http://dx.doi.org/10.1037/0033-2909.131.6.803
+
+Web End =131.6.803 .
+
+Lyubomirsky, S., Tkach, C., & DiMatteo, M. R. (2006). What are the differences between happiness and self-esteem? Social Indicators Research, 78, 363404. doi:http://dx.doi.org/10.1007/s11205-005-0213-y
+
+Web End =10.1007/s11205-005-0213-y . Mahon, N. E., Yarcheski, A., Yarcheski, T. J., Cannella, B. L., &
+
+Hanks, M. M. (2006). A meta-analytic study of predictors for loneliness during adolescence. Nursing Research, 55, 446447. doi:http://dx.doi.org/10.1097/00006199-200611000-00009
+
+Web End =10.1097/00006199-200611000-00009 .
+
+Mann, M. M., Hosman, C. M., Schaalma, H. P., & de Vries, N. K. (2004). Self-esteem in a broad-spectrum approach for mental
+
+health promotion. Health Education Research, 19, 357372. doi:http://dx.doi.org/10.1093/her/cyg041
+
+Web End =10.1093/her/cyg041 .
+
+Marcoen, A., Goossens, L., & Caes, P. (1987). Loneliness in pre-through late adolescence: Exploring the contributions of a multidimensional approach. Journal of Youth and Adolescence, 16, 561577. doi:http://dx.doi.org/10.1007/Bf02138821
+
+Web End =10.1007/Bf02138821 .
+
+Meeus, W., van de Schoot, R., Keijsers, L., & Branje, S. (2012). Identity statuses as developmental trajectories: A ve-wave longitudinal study in early-to-middle and middle-to-late adolescents. Journal of Youth and Adolescence, 41, 10081021. doi:http://dx.doi.org/10.1007/s10964-011-9730-y
+
+Web End =10. http://dx.doi.org/10.1007/s10964-011-9730-y
+
+Web End =1007/s10964-011-9730-y .
+
+Muthn, L. K., & Muthn, B. O. (19982010). Mplus users guide(6th ed.). Los Angeles, CA: Muthn & Muthn.
+
+Nagin, D. (2005). Group-based modeling of development. Cambridge:Harvard University Press.
+
+Nangle, D. W., Erdley, C. A., Newman, J. E., Mason, C. A., &
+
+Carpenter, E. M. (2003). Popularity, friendship quantity, and friendship quality: Interactive inuences on childrens loneliness and depression. Journal of Clinical Child and Adolescent Psychology, 32, 546555. doi:http://dx.doi.org/10.1207/S15374424JCCP3204_7
+
+Web End =10.1207/S15374424JCCP3204_7 . Orth, U., Robins, R. W., & Roberts, B. W. (2008). Low self-esteem prospectively predicts depression in adolescence and young adulthood. Journal of Personality and Social Psychology, 95, 695705. doi:http://dx.doi.org/10.1037/0022-3514.95.3.695
+
+Web End =10.1037/0022-3514.95.3.695 .
+
+Parker, J. G., Rubin, K. H., Erath, S. A., Wojslawowicz, J. C., & Buskirk, A. A. (2006). Peer relationships, child development, and adjustment: A developmental psychopathology perspective. In D. Cicchetti & D. J. Cohen (Eds.), Developmental psychopathology: Vol. 1. Theory and method (2nd ed., pp. 419493). New York: Wiley.
+
+Perlman, D., & Peplau, L. A. (1981). Toward a social psychology of loneliness. In R. Gillmour & S. Duck (Eds.), Personal relationships Vol. 3: Personal relationships in disorders (pp. 3156). London: Academic Press.
+
+Qualter, P., Vanhalst, J., Harris, R., Van Roekel, E., Lodder, G., Bangee, M., & Verhagen, M. (2015). Loneliness across the life span. Perspectives on Psychological Science, 10, 250264. doi:http://dx.doi.org/10.1177/1745691615568999
+
+Web End =10.1177/1745691615568999 .
+
+Raja, S. N., McGee, R., & Stanton, W. R. (1992). Perceived attachments to parents and peers and psychological well-being in adolescence. Journal of Youth and Adolescence, 21, 471485. doi:http://dx.doi.org/10.1007/BF01537898
+
+Web End =10.1007/BF01537898 .
+
+Robins, R. W., Hendin, H. M., & Trzesniewski, K. H. (2001). Measuring global self-esteem: Construct validation of a single-item measure and the Rosenberg Self-Esteem Scale. Personality and Social Psychology Bulletin, 27, 151161. doi:http://dx.doi.org/10.1177/0146167201272002
+
+Web End =10.1177/ http://dx.doi.org/10.1177/0146167201272002
+
+Web End =0146167201272002 .
+
+Robins, R. W., & Trzesniewski, K. H. (2005). Self-esteem development across the lifespan. Current Directions in Psychological Science, 14, 158162. doi:http://dx.doi.org/10.1111/j.0963-7214.2005.00353.x
+
+Web End =10.1111/j.0963-7214. http://dx.doi.org/10.1111/j.0963-7214.2005.00353.x
+
+Web End =2005.00353.x .
+
+Ryff, C. D., Love, G. D., Urry, H. L., Muller, D., Rosenkranz, M. A., Friedman, E. M., & Singer, B. (2006). Psychological well-being and ill-being: Do they have distinct or mirrored biological correlates? Psychotherapy and Psychosomatics, 75, 8595. doi:http://dx.doi.org/10.1159/000090892
+
+Web End =10.1159/000090892 .
+
+Segrin, C., & Flora, J. (2000). Poor social skills are a vulnerability factor in the development of psychosocial problems. Human Communication Research, 26, 489514. doi:http://dx.doi.org/10.1111/j.1468-2958.2000.tb00766.x
+
+Web End =10.1111/j.1468- http://dx.doi.org/10.1111/j.1468-2958.2000.tb00766.x
+
+Web End =2958.2000.tb00766.x .
+
+Sowislo, J. F., & Orth, U. (2013). Does low self-esteem predict depression and anxiety? A meta-analysis of longitudinal studies. Psychological Bulletin, 139, 213240. doi:http://dx.doi.org/10.1037/a0028931
+
+Web End =10.1037/a0028931 . Steinberg, L., & Morris, A. S. (2001). Adolescent development.
+
+Annual Review of Psychology, 52, 83110. doi:http://dx.doi.org/10.1146/annurev.psych.52.1.83
+
+Web End =10.1146/annurev. http://dx.doi.org/10.1146/annurev.psych.52.1.83
+
+Web End =psych.52.1.83 .
+
+123
+
+J Youth Adolescence (2017) 46:429441 441
+
+Terry, R. (2000). Recent advances in measurement theory and the use of sociometric techniques. New Directions for Child and Adolescent Development, 88, 2753. doi:http://dx.doi.org/10.1002/cd.23220008805
+
+Web End =10.1002/cd. http://dx.doi.org/10.1002/cd.23220008805
+
+Web End =23220008805 .
+
+van Dulmen, M. H., & Goossens, L. (2013). Loneliness trajectories. Journal of Adolescence, 36, 12471249. doi:http://dx.doi.org/10.1016/j.adolescence.2013.08.001
+
+Web End =10.1016/j.adoles http://dx.doi.org/10.1016/j.adolescence.2013.08.001
+
+Web End =cence.2013.08.001 .
+
+Vanhalst, J., Klimstra, T. A., Luyckx, K., Scholte, R. H., Engels, R.C., & Goossens, L. (2012). The interplay of loneliness and depressive symptoms across adolescence: Exploring the role of personality traits. Journal of Youth and Adolescence, 41, 776787. doi:http://dx.doi.org/10.1007/s10964-011-9726-7
+
+Web End =10.1007/s10964-011-9726-7 .
+
+Vanhalst, J., Luyckx, K., & Goossens, L. (2014). Experiencing loneliness in adolescence: A matter off individual characteristics, negative peer experiences, or both? Social Development, 23, 100118. doi:http://dx.doi.org/10.1111/sode.12019
+
+Web End =10.1111/sode.12019 .
+
+Wang, J., & Wang, X. (2012). Mixture modeling. In J. Wang & X. Wang (Eds.), Structural equation modeling: Applications using Mplus (pp. 289391). New York: Wiley.
+
+Annette W. M. Spithoven is a Ph.D. student at the Department of School Psychology and Child and Adolescent Development at KU Leuven, Belgium. Her research interests include adolescent loneliness, and gene-environment interactions.
+
+Gerine M. A. Lodder is a post-doctoral researcher at Interuniversity Centre for Social Science Theory and Methodology, Department of Sociology at University of Groningen, the Netherlands. Her major research interests include peer relations (e.g., friendships, loneliness and bullying) and social perception.
+
+Luc Goossens is professor at the Department of School Psychology and Child and Adolescent Development at KU Leuven, Belgium. He received his doctorate in Psychology in 1988 from KU Leuven. His main research interests include adolescent loneliness, gene-environment interactions, and meta-analyses.
+
+Patricia Bijttebier is professor at KU LeuvenUniversity of Leuven (Belgium), Department of School Psychology and Child and Adolescent Development. She received her Ph.D. in 1998. Her research focuses on temperamental and cognitive vulnerabilities to behavioral and emotional problems.
+
+Margot Bastin is a Ph.D. student at the Department of School Psychology and Child and Adolescent Development at KU Leuven, Belgium. Her research interests include intra- and interpersonal response styles and stressors as vulnerability factors of depression in adolescence.
+
+Maaike Verhagen is an Assistant Professor at the Behavioural Science Institute of the Radboud University Nijmegen, The Netherlands. She received her Ph.D. at the Radboud University Nijmegen Medical Centre. Her main research interests include genetic inuences on internalizing behaviors and belongingness needs in adolescents and adults.
+
+Ron H. J. Scholte Ph.D., is professor at the Department of Developmental Psychopathology (Behavioural Science Institute, Radboud University Nijmegen), and is director of Praktikon, a research centre for clinical research. Among his research interests are the role of the social context (e.g., parents, peers, school class, and group climate) on psychosocial adjustment of adolescents.

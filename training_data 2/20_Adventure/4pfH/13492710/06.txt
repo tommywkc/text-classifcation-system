@@ -1,0 +1,650 @@
+More than activities: using a sense of place to enrich student learning in adventure sport.
+Abstract
+There has been increasing interest in recent years in the significance of a sense of place in the
+literature of outdoor adventure education. In the UK relationships between outdoor education and
+the environment still appear largely focused on the science of the natural environment and the
+activity in question. In this paper we present empirical evidence from an action research project to
+demonstrate how a combination of formal and informal pedagogy in a higher education context can
+lead to a socio-cultural and historical understanding of place and enrich the learning experience of
+students when teaching the classical outdoor adventurous activity of sailing. The sport of dinghy
+sailing is a module within a Bachelor’s undergraduate degree in outdoor education and was taught
+from a small fishing town in Devon, England. We adopted an integrated and experiential critical
+pedagogy of place that allowed theory and practice, thought and action to be a holistic experience
+and this approach provided opportunities for informal as well as formal learning. This action
+research project used methods including: photo-elicitation, focus group interviews and evidence
+from the analysis of written student assignments. Our findings show that students discover a
+significance of the meaningful relationship between the socio-cultural history of where that activity
+takes place and the activity itself and that as a result their engagement in the learning and research
+process was enriched.
+
+KEYWORDS: outdoor adventure education, sailing, critical pedagogy place, student engagement
+
+2
+More than activities: using a sense of place to enrich student learning in adventure sport.
+Introduction
+
+In this paper we consider the experiences of university students who were learning to sail as part of
+a Bachelor of Arts degree programme in Outdoor Adventure Education. Student experiences need
+to be considered for several reasons. Firstly there is the evaluative component of a reflective
+teaching cycle; that was the impetus for this action research project detailed here. Also, and
+perhaps more importantly, the concept of experiential learning is fundamental to the pedagogical
+style seen in outdoor adventure education programmes (e.g. see Greenaway, 1990; Quay, 2003;
+2013) and it is argued that in order to fully comprehend an outdoor education experience, it must be
+understood as a form of lived experience as underpinned by the philosophical pragmatism of John
+Dewey (Ord & Leather, 2011). Student experiences contain thinking, action and learning, in a
+complex yet inter-related weave of this experience, uniquely situated in the transactional experience
+of each individual, and as Ord & Leather (2011) argue ‘Dewey’s theory implores us to engage with
+the whole experience and engage with the participants fully and meaningfully throughout’(p.21).
+
+The [NAME OF UNIVERSITY] is located in the south west of England close to the sea. Established in
+1840, [NAME] has a long tradition and heritage of teacher education and sport, including those
+associated with outdoor adventurous activities. Dinghy (small boat) sailing has been taught at the
+University for the last thirty years as part of an outdoor education programme. This has always been
+located in the faculty of physical education and sport, and as such the current degree evolved from
+this heritage. The basic skills of sailing and ‘seamanship’ competency were the focus and in recent
+years the theoretical aspects of degree study were concerned with two areas: a) group leadership
+and management in the context of journeys and expeditions and b) the impact on, or of, the
+dynamic natural coastal environment.
+The response of students had always been positive for the practical sailing aspects of the module,
+but disappointing when assessing the standard of their work for the written theoretical assessments.
+
+3
+This disappointing performance was determined over several years through a number of feedback
+mechanisms; in the main the average grades for written assessments for these students were
+slightly lower than for their other modules; lectures were not as well attended as sailing sessions;
+the formal student feedback, through module evaluations, indicated that the theoretical content
+and teaching was ‘satisfactory’ (rather than the normal good or excellent). Additionally, informal
+conversations with students suggested that this lack of student engagement with the academic
+theory could have been attributed not only to the curriculum content, but perhaps the personality
+and pedagogical approach of some lecturing staff. Specifically, some lecturers were not involved in
+the teaching of sailing and were only involved in teaching some components of outdoor education
+theory. They were traditional in lecturing style and did not use an experiential pedagogy and as a
+consequence were less able to build trust by grounding their teaching in students learning (see
+Brookfield, 1996). As such these lecturers were relatively unknown and perhaps not trusted, when
+compared to the outdoor adventure education staff and the experiential pedagogy which they
+applied directly outdoors. As Bryson & Hand (2007) highlight, establishing ‘trust’ relationships
+between students and staff and students and peers is essential in fostering student engagement.
+The quality of the relationship between lecturer and student is referred to as its ‘climate’ by
+amongst others Biggs & Tang (2007) who argue that a climate where the assumption is that students
+can be trusted ‘allows students freedom to make their own learning related choices’ (p.48) which
+supports how we approached our teaching as well as how we designed the theoretical assessments
+as detailed below
+
+The sailing module was reviewed each semester that it was taught; through formal student
+evaluation as well as formal staff module review processes that consider the content, teaching,
+resources and student performance. This process is good reflective practice in higher education
+(H.E.) (see Brookfield, 1995) where effective self-evaluation is crucial to a healthy self-regulating H.E.
+
+4
+system (Jackson & Lund, 2000). With a change of curriculum as well as teaching staff, this provided
+an opportunity to re-structure the whole programme and allowed us to modify and address the
+factors detailed above. Martin & McCullagh (2011) discuss how outdoor education is a discipline
+that is complementary yet a discrete one when compared to physical education and when re-writing
+the module content our approach was informed by this conceptualisation. Specifically we designed a
+module that appreciated the overlap and complementary nature of these disciplines, and ensured
+that we had a greater emphasis on outdoor education than physical education i.e. it was less skill
+focussed and ego-centric (i.e. less emphasis on personal development and group leadership) and a
+greater emphasis on and awareness of the teaching location, the place and the environment (more
+eco-centric), or more simply what many would describe as a balanced and holistic outdoor
+education approach (e.g. Higgins, 1997).
+As a teaching team we had discussed developments in contemporary outdoor education discourse
+on place based education. The content which emerges from the particular attributes of a place is
+specific to the geography, ecology, sociology, politics, and other dynamics of that place. This
+fundamental characteristic underpins the concept making it intrinsically multidisciplinary as well as
+experiential. It reflects an educational philosophy that is more wide-ranging than the ‘learning for
+qualifications to secure employment’ as it connects place with self and community (Woodhouse &
+Knapp, 2000). We were particularly influenced by the work of Gruenewald (2003) who argued for
+the cultural, political, economic, and ecological dynamics of places and Stewart (2008) who used
+reading of the landscape and use of historical accounts to explore complex cultural-ecological
+processes that shape places, as well as Harrison (2010) who explored the ontological and
+epistemological framework of place from the disciplines of human geography, phenomenology as
+well as anthropological and environmental psychological writing. In particular, and with our
+students we used the work of Wattchow & Brown (2011) which contextualises place for outdoor
+educators as well as the work of eminent geographer Tuan (1977). Whilst we realised that our
+shared outdoor practice had been place based for years, with stories of people, places and events,
+
+5
+this had never been formalised in the sailing module as part of the student learning experience and
+as such were keen to explore this by teaching sailing and place together in one module.
+
+What kind of place?
+For us, based in the UK, our cultural heritage is firmly rooted in living, trading and fighting on and
+near the sea. Viking invasions, Sir Francis Drake, the Royal Navy and colonial British Empire, the
+Pilgrim Fathers leaving the Mayflower steps in Plymouth bound for the ‘new world’ or Charles
+Darwin on his seminal journey on HMS Beagle; our history and heritage is firmly rooted in maritime
+adventures and seafaring. As a result, the prevalence of nautical terms in the English language (e.g.
+‘learning the ropes’, ‘shipshape and Bristol fashion’, ‘not enough room to swing a cat’, ‘by and large’,
+‘slush fund’, ‘get under way’ and ‘all above board’)i
+
+demonstrates how the sea inhabits our national
+psyche. The furthest point from the coastline in England and Wales is only 110 km, and about one
+third of the UK population lives within 10 km of it (Environment Agency, 1999).
+
+The place we chose to focus upon was the town of Brixham. Brixham is on the south Devon coast in
+the south west peninsular of England, and for a number of years we have taught the skills and sport
+of sailing there. It is about an hour by road from our University campus. Over several years we
+have developed some well-established personal relationships between the teaching team and
+people in the town; the head of the outdoor education centre, the assistant coxswain of the lifeboat
+and the curator of the museum amongst others. Geographically the size of Brixham appeared
+manageable to explore a sense of place and this made it affordable in implementing the curriculum.
+
+In preparation for teaching about the place of Brixham we researched the town including visiting the
+
+Heritage Museum archive located there. Brixham is rich in history, dating back to at least Anglo-
+Saxon times since it is a natural harbour. It remains a small fishing town and port at the southern
+
+end of Torbay, across the bay from Torquay. The town is hilly and built around the harbour which
+
+6
+remains in use as a dock for fishing trawlers as well as a modern sailing marina for the recreation
+industry (Brixham Heritage Museum, online). Brixham has a focal tourist attraction in a life size
+floating replica of the Golden Hind, the ship of one of England’s most famous seafaring men, Sir
+Francis Drakeii. On 5th November 1688 William of Orange landed in Brixham and this invasion of
+England ultimately deposed the catholic King James II and won him the crowns of England, Scotland
+and Ireland and the protestant legacy lives on. To the south of Brixham lies Berry Head, where a
+Napoleonic Fort is currently being excavated by local archaeologists, and also thought to be on the
+site of an Iron Age fort. Brixham’s military naval significance continued into the 20th century. The
+wide concrete embarkation ramps are still evident for the troops, armour and fleet who sailed for
+the D-Day landings in France in June 1944. Fishing remains an integral part of Brixham’s history. The
+great storm of 1866 that saw the loss of nearly 100 lives and prompted the people of The City of
+Exeter to raise funds for a lifeboat (Salsbury, 2002) still sees the RNLI Torbay Lifeboat ‘on station’ in
+Brixham with an average of 103 launches per year (RNLI, online) as well as a tourist attraction in its
+own right.
+Fishing and tourism are the major industries in Brixham, with recreational sailing and power-boating
+a feature of the harbour. Of particular note in maritime heritage are the traditional tall shipsiii
+operated by The Trinity Sailing Foundation (online) who sail these traditional old fishing trawlers
+primarily for personal development courses in the area of youth welfare. These traditional Brixham
+trawlers, with their ochre red sails, are living working connections with the cultural past of England
+and Brixham, where in their heyday in the 1890s there were as many as 300 working out of the port
+of Brixham (Brixham.uk.com, online).
+
+INSET PLATE 1 HERE
+
+Plate 1: The Brixham Trawler Provident
+Reproduced with kind permission of The Trinity Sailing Foundation, Brixham, Devon.
+
+7
+In addition to this the outdoor education centre which hosts our sailing is itself rich in history. The
+
+British Seamen’s (Orphans) Boys’ Home in Brixham, Devon is nowadays a busy charitable-
+commercial outdoor education centre that specialises in traditional multi-activity residential visits
+
+for school children, typically in the last years of their primary education generally aged 10 and 11.
+The British Seamen’s Boys’ Home is an imposing gothic styled granite building built on the side of the
+harbour in 1863 by William Gibbs for the orphan sonsiv of deceased British seamen. On his death in
+1875 the Home was placed in trust to the Bishop of Exeter, with the object of providing for the
+orphan sons of British seaman which it did until it closed in 1988 after 125 years (Potts & Wilson,
+2006). As such the start of our students place based sailing module is in a building full of history, as
+part of the town of Brixham.
+
+INSERT PLATE 2 HERE
+
+Plate 2: British Seamen’s Boys’ Home
+Reproduced with kind permission of Grenville House Outdoor Education Centre, Brixham, Devon.
+
+Thus, with this rich cultural heritage as a backdrop, quintessentially encapsulated in the outdoor
+centre and the town of Brixham, we believed that the stories to be discovered by our students
+through their own research would engage them enough to evoke a ‘sense of place’ and that this was
+an important aspect of the curriculum.
+
+Enriching Student Learning
+Brixham’s extensive historical connection to the sea, and particularly sailing, provided a wonderful
+opportunity to engage students in a sense of place and so enrich their learning. We planned that by
+exploring the town on land and sea, interacting with locals, and hearing the stories from the past,
+that they would get a real sense and ‘feel’ for Brixham. As a consequence we hoped that they would
+
+8
+be able to relate their sailing skills within this socio-cultural historical matrix in a meaningful way.
+We believed that as Tuan (1977, p.18) suggested, ‘a place [Brixham] achieves concrete reality when
+our experience of it is total, that is, through all the senses as well as with the active and reflective
+mind’.
+
+Indeed Tuan (1977) has been influential in allowing us to conceptualise how we connect with a place
+through experiential engagement. He argues that ‘while it takes time to form an attachment to
+place, the quality and intensity of experience matters more than simple duration’ (Tuan, 1977,
+p.198). Consequently, we ensured there would be an intense, high quality educational experience
+with ample opportunity for both formal and informal learning during and around the planned
+activities. For example the shared minibus journey to and from Brixham, along with changing into
+kit, rigging the boats, sailing in groups and shared end of day reflections, all contributed to
+opportunities for talk – or the ‘chat, conversation and dialogue’ that Batsleer (2008) defines as
+central to informal education. By this we mean the formal learning occurred during planned
+sessions for both sailing skill acquisition and exploring the concept of place and these were well
+defined in a timetabled plan and the content prepared and taught in a structured way. The informal
+learning that occurred was at times opportunistic and spontaneous, where we saw opportunities to
+pose questions and help students develop the connections between dinghy sailing, the place and
+themselves. Jeffs & Smith (2011) explain that informal education is a spontaneous process of
+helping people to learn and suggest that it works through conversation, and the exploration and
+enlargement of experience. These informal learning opportunities also led to bigger questions about
+power, politics, equality and justice. For example a discussion about seasickness and discomfort
+leads to stories about the navy in Admiral Nelson’s time. He also suffered seasickness and the
+conditions for the men on board were squalid, foul and fetid and at this time naval press gangs
+forcibly conscripted men, only of the working classes, into the navy (see Adkins & Adkins, 2009). It
+also required us as the teaching staff to trust in our intuition, each other and our flexibility in
+teaching, or what Atkinson and Claxton (2000) detail as The Intuitive Practitioner and the value of
+
+9
+not always knowing what one is doing or not knowing where a conversation is going! An awareness
+of this construct was reassuring for the teaching team. Adventure sport is taught in environments
+that require dynamic risk management, with well-structured opportunities for students to learn and
+when combined with traditional sailing tuition can be formulaic and rigid. However, when working
+with an intuitive grasp of situations, based on a deep tacit understanding of each other and our
+educational aims, we no longer needed to rely on plans and guidelines since we were able to make
+rapid responses to developing situations, based on the tacit application of tacit rules; knowing our
+students, the place, how to teach sailing and the holistic breadth of outdoor education.
+
+The students were required to undertake an individual research project, as part of their assessed
+work as well as having their practical sailing skills assessed. Project-based learning as a pedagogical
+strategy has been shown by Wurdinger, Haar, Hugg and Bezon (2007) to be useful since it ‘taps into
+students’ interests by allowing them to create projects that result in meaningful learning
+experiences’ (p.150). [NAME] students were given the freedom to choose one theme about Brixham
+from this socio-historical cultural matrix as a place that has been influenced by sailing. Examples of
+topics chosen included Brixham Trawlers, the Great Storm of 1866, the Royal National Lifeboat
+Institution, the British Seamen's Boys’ Home, Brixham’s strategic importance in World War 2 and the
+Berry Head Fort from the Napoleonic War. Two visits to the local museum were organised; the first
+as visitors to enable students to explore the wealth of possible topics, and to spark their interest.
+The second visit was to the museum archive, which was supported by the curator and volunteers
+(archaeologists and historians from the local area and community). Although people do not usually
+go to museums to talk, conversations in museums ‘reflect and change a visitor’s identity, discipline
+specific knowledge, and engagement with an informal learning environment’ (Leinhardt, Crowley &
+Knutson, 2011, p. ix).
+
+10
+Initially we were a little circumspect as how the students would react to the module. From our
+previous experience and exploration of such issues, outdoor education students typically present
+themselves as having activist and kinaesthetic learning preferences, typically favouring ‘learning by
+doing’ or ‘a hands on approach’. We were concerned about them struggling to engage cognitively
+and affectively (Solomonides, 2013) with learning through this research based pedagogy, especially
+since their practical adventure sport experiences prior to University were only skill focused, with
+little consideration for the environment or the place. However, despite our concerns, we found
+that individual student learning, a key feature of student engagement policy and practice (see
+Trowler & Trowler, 2010), was enhanced. Effective practices in undergraduate teaching that
+improve learning outcomes, and thus student engagement, are evidenced in the literature and
+summarised by Chickering & Gamson (1987, cited in Trowler & Trowler, 2010). These include;
+student-staff contact, cooperation among students, high expectations, time on task and active
+learning. Given the design of the module as detailed above this should not have been a surprise to
+us. The evident enthusiasm and enjoyment exhibited by the students during and after the teaching
+were behaviours that we had hoped for. Thus the three dimensions of student engagement,
+behavioural, cognitive and affective (Solomonides, 2013) had been addressed.
+
+Method
+
+This paper reports the findings of an action research project designed to evaluate the
+implementation of a new module for an undergraduate degree that combined sailing skills with
+place based education. We find the definition of action research by Carr and Kemmis (1986, p. 162)
+as ‘simply a form of self-reflective enquiry undertaken in order to improve the rationality of our
+practice, and understanding of these practices, and the situations in which the practices are carried
+out’ as a highly effective explanation of our research presented here. It is firmly located in our own
+practice, is linked to our self-reflection and is associated with the notion of reflective practice that
+
+11
+permeates education and sports coaching, and remains a contemporary issue (e.g. see Knowles,
+Gilbourne, Cropley & Dugdill, 2014). Smith (2007) highlights how this approach places us firmly in
+the British tradition of action research, rather than the broader understanding in the USA of action
+research as ‘the systematic collection of information that is designed to bring about social change’
+(Bogdan and Biklen 1982, p.213). We are university lecturers in the UK, who teach the practical skills
+of sailing combined with an associated and related theoretical body of knowledge, who wanted to
+evaluate our practice in the light of new curriculum developments. This position is supported by
+McNiff (1993) when she argues that in action research educational knowledge is created by
+individual teachers as they attempt to express their own values in their professional lives. As such
+we were clear that our values as outdoor educators had directly influenced both the content and
+pedagogy associated with teaching this module. Our values as outdoor educators were that learning
+to sail, or for that matter any other outdoor adventure sport, is always ‘more than activities’ an
+argument articulated for a long time by Greenaway (1990); specifically that the skill acquisition, here
+the one of sailing, does not happen in isolation in some form of sterile laboratory, but in a dynamic
+natural environment, and one in which people have created a place, a social environment, as much
+as the forces of nature have helped form that place. The idea of living our values in our professional
+practice is according to McNiff (2013, p.26) ‘at the heart of debates about demonstrating and
+judging quality and validity in action research’. Whether these values are shared by others in
+culturally diverse settings is something that publishing our findings here in an international academic
+journal may help us to address.
+Action research is a cyclical process and involves a cycle or spiral of planning, action, monitoring and
+reflection, and this basic structure has been elaborated in different accounts of the same process,
+for example Elliott (1991), Kemmis & McTaggart (1982) and McNiff, Whitehead & Lomax (2003) all
+promote the same cyclical or spiral approach to action and reflection. This article is not the place we
+believe for a comprehensive critique of action research in educational contexts and trust that for the
+interested reader the authors referred to here will act as a useful starting point for further inquiry.
+
+12
+We engaged with the cycle of action and reflection in order to evaluate our practice and present it
+here as a product of our research process. The action cycle for this research project was as follows:
+1. Design a new teaching module based on practical sailing skills and current theoretical
+developments in the outdoor education literature on a Pedagogy of Place (Wattchow &
+Brown, 2011).
+2. Plan, develop and implement a pedagogic approach – as detailed above.
+3. Evaluate the impact of this module on the student experience – as explored below.
+4. Reflect upon these findings and analyse the implications of these for our practice – discussed
+below
+5. Teach the module in subsequent years in light of these findings, as yet to be implemented
+and evaluated.
+
+Participants
+This research cycle was experienced by the student participants as well as us the university teaching
+staff. There were twelve students who had opted for this module; six male and six female, with ages
+from 19 to 26 years and two experienced outdoor adventure education lecturers. The students
+were all in their second year of three on a full-time undergraduate degree programme in Outdoor
+Adventure Education and none of them had been to the town Brixham before the start of teaching.
+They were a mixed ability group of sailors across the spectrum of experience, ranging from three
+total novices to two Royal Yachting Association Instructors, one of whom was a regular competitive
+dinghy sailor at a national standard. As staff we brought a wealth and variety of experience to the
+module. Both are experienced sailing instructors as well as outdoor educators and in more recent
+years these experiences have been utilised in our university teaching. Our knowledge of Brixham as
+a socio-historical place was limited other than as a venue where sailing skills were taught and as a
+destination for our own sailing recreation. As such this was also a journey of discovery for us.
+Consequently, this teaching module provided an ideal opportunity for us to collaborate on this
+research project.
+
+13
+
+Instruments, procedures and data analysis
+We employed two main methods to gather the students’ experiences at the end of their sailing
+module. Firstly we conducted three separate focus group interviews for us to hear the students
+describe, express and make sense of their experience. As Morgan (1997, p.2) highlights ‘the
+hallmark of focus groups is the explicit use of group interaction to produce data and insights that
+would be less accessible without the interaction found in a group.’ This structure was used in order
+to allow students the opportunity to freely engage in the research process, in their friendship groups
+and interact. All students chose to attend one of the groups and as Patton (2002) emphasises the
+participants get to hear each other’s responses and to make additional comment beyond their own
+initial responses as they hear what other people have to say, thus providing a richer set of data.
+
+We used the methods of photo-elicitation to stimulate discussion having been persuaded of its
+efficacy by Harper (2002), Loeffler (2005) and Porr, Mayan, Graffigna, Wall & Vieira (2011). For the
+purposes of the research, we asked the students to select three images from their collections that
+they thought would have ‘a long lasting meaning to them related to their experience on this
+module’. They brought these to the focus group where they shared them and were asked
+individually to “tell us the story” of what the image meant to them. We asked them not to try and
+guess why we were interested in seeing their photographs, in other words, not to select the images
+that they thought we wanted to see so as to minimise our effect as the researchers. We emphasised
+that we were genuinely interested in seeing what was meaningful to them and that as an ethical
+piece of research they had the right to withdraw and that importantly what they presented could
+remain anonymous and confidentialv
+
+. A number of the students’ choices that illustrate key themes
+are presented below in the research findings. Loeffler (2005, p.346) found that her participants
+
+14
+‘exhibited a strong desire to capture every nuance of the excitement, intensity, and learning of the
+new activity or environment’ when telling the stories associated with particular images and we
+suspected that our students would be similar.
+Students were encouraged to bring images from any source, be it the museum archive, images
+found online or their own or friends photographs. Ethically we gained informed consent of all
+participating students, including for all the images used in the research including for this paper.
+Throughout the degree, and including this module, students were encouraged to take photographs if
+they wished as a useful aid for their own personal reflection, but we consciously made no attempt to
+influence their content. As such most of them took a variety of images to document their lives and
+many were users of social media (e.g. Facebook and Twitter) on a regular basis sharing images and
+comments on many aspects of their student lives. This cohort of students has its own Facebook
+group and we have found that the sharing of images and informal stories has been useful in this
+module and throughout the degree in order to further reflect upon and make meaning out of the
+many practical experiences they encounter. As such the use of images and informal conversation
+around them was not a new process for the students and so to use this method as a research tool in
+a directed focus group appeared to be a logical method to use.
+Following this, we also analysed the students’ written academic assessments; one research project
+about Brixham and an associated piece of reflective writing that related learning to sail to Brixham
+the place. This was done once the work had been through the standard assessment procedures of
+the university. We looked at the student writing for evidence to support the themes that had
+emerged from the focus groups interviews.
+
+To analyse the student writing and the discussion of their images we used what Stake, (1995, p.74)
+describes as ‘two strategic ways that researchers reach new meanings’; categorical aggregation and
+
+15
+direct interpretation. We have used this useful description from Stake (1995) since this action
+research project could also be described as an exploratory case study due to its size and structure.
+‘What is called open coding in grounded theory is similar to the first stage of classifying statements
+in phenomenology is known as categorical aggregation in case study research’ (Creswell, 1998,
+p.155). Categorical aggregation is the collection of instances or occurrences within the data that
+represent a specific category, theme, or idea that the researcher determines to be important as a
+result of it emerging from the analysis of the data (Creswell, 1998). Direct interpretation may be of
+an individual or singular instance (Stake, 1995) where the researcher ‘draws meaning from it without
+looking for multiple instances’ (Creswell, 1998, p.154) and we considered this useful due to the small
+size of our group.
+As these photographs were categorised on our interpretations, we sought peer review as
+verification, which involved discussing our findings with critical colleagues (as Merriam, 1988 cited in
+Beames & Ross, 2010). These critical colleagues were involved in the teaching and research of
+outdoor and experiential education, at our university as well as at a European conference where we
+presented our research. Additionally, we showcased our work at a local research symposium where
+students attended and this provided them with the opportunity to review our findings. This was not
+as thorough a process as Hammersley & Atkinson’s (1995, cited in Creswell, 1998) ‘Member
+Checking’. This was really a function of the resources available to us as well as the good will of the
+students.
+
+Research Findings & Discussion
+A critical pedagogy of place challenges all educators to reflect on the relationship between the kind
+of education they pursue and the kind of places we inhabit (Gruenewald, 2003). The evidence
+presented by our students strongly indicates to us that by engaging with place responsive outdoor
+
+16
+education (Wattchow & Brown, 2011) that this place, the town of Brixham, is not merely a venue or
+empty space; rather it is rich in significance and meaning and consequently the place becomes a
+powerful pedagogic phenomenon. As a consequence the relationship between an embodied sailing
+experience and place appears at times mutually dependent. Here we present our findings in three
+themes; a) sailing and place mutuality, b) the informal pedagogic relationship, c) sailing skill
+development. Students chose images “that were significant to them” which were then discussed in
+the focus groups. Additionally, from their reflective writing we gained insights into specific examples
+of their experience in these categories. A selection of images and excerpts from their writing is
+presented here.
+
+Sailing and place mutuality
+For some students the recent history of the Brixham sailing trawler and its continued presence in the
+harbour evoked this response.
+
+When I was on the water at Brixham or at the Sailing Centre, I would look out at
+the harbour and imagine the 300 vessels overpowering the area with their red
+sails.
+
+INSERT PLATE 3 HERE
+
+Plate 3: Brixham Trawlers
+Reproduced with kind permission of The Trinity Sailing Foundation, Brixham, Devon.
+
+Whilst we had been on board a trawler in the harbour, talked to the crew and seen their story in the
+museum, we did not have the opportunity to sail one. For other students, who researched the
+earliest records of settlement, it was Brixham’s longevity which captured their interest:
+
+17
+I like the fact that it’s been there for such a long time ... Like when I was reading up
+on Brixham for that essay ... like it was so interesting to see that you can get all the
+way back to the Neolithic Period and people have gone “Err...that’s a good spot
+actually ... I like that ...” and it’s still exactly the same and you can imagine they must
+had had exactly the same feeling as we do now sailing in and out of it.
+
+Other students were able to express their comprehension of place and how this allowed them to
+think and connect more deeply, an introspection that continues to deepen their experience,
+knowledge and connection to particular places of significance and meaning. Wattchow & Brown
+(2011) consider this as an active journey towards belonging and with this it is believed comes a
+connection and the development of an ethic of care.
+I feel this is the main aspect for me to take away from this module; the deeper
+understanding of what gives somewhere its sense of place and how that affects you and
+you then start to notice nice things about the place, and it becomes a stronger memory
+than just somewhere you went, you develop a connection which you always relate to
+that experience of that place. You then pass on the story and add new meaning to
+someone else’s expectations of that place.
+
+INSERT PLATE 4 HERE
+
+Plate 4: Thoughtful contemplation
+
+I think the impact of having a unique and challenging experience in [a] place with a sense
+of immense historical and cultural presence, especially if it is relevant to your experience
+can be a lot more sensory and you discover more about yourself and those others in your
+group. Sometimes it feels real education can be lost in the speed of modern life.
+
+18
+
+Informal pedagogic relationship
+The day which we spent in Brixham but didn’t go sailing was probably the day I was
+able to get a larger sense of Brixham as a place and experience all what it had to
+offer. This session was full of different events that made me experience Brixham and
+get to know the people who live there. I was introduced to many people who live and
+work in Brixham and who can relate to it as a place and a home.
+This particular day, described above, became known affectionately by the students as ‘The best day
+ever’, which is interesting as we did not go sailing. That day a strong easterly wind was blowing
+straight into the harbour making it unsuitable to sail. Instead we explored Brixham from the land.
+We visited Trinity Sailing’s Brixham Trawlers, the RNLI Lifeboat and the town’s heritage museum.
+This time spent together as tutors and students allowed us opportunities to engage in informal
+learning through what Batsleer (2008) describes as ‘talk’. Batsleer (2008) highlights that the act of
+talking incorporates ‘chat, conversation and dialogue’. She discusses the importance of learning
+through conversation and dialogue and how conversation is a vehicle of inquiry and education as
+dialogue, as a critical dialogue, ‘is the paradigm to understand all the discussions’ of informal
+outdoor education (Batsleer, 2008, p.7). Chat allows engagement between us and our students at a
+basic level, for example the rituals of group interaction, safety briefings and social niceties. Chat
+leads to conversation which allows a deeper level of engagement and the development of meanings
+to be made, and then if we are skilled facilitators of learning (outdoor experiential education
+lecturers) the deeper dialogue can be explored; issues of social and eco-justice, a critical pedagogy of
+place, or relationships between people and their environment. The students were like excited
+children on a family day out and their photographs told the same tale (see Plates 5 & 6). This
+rapport with the students was evident both on land and on the water and provided many
+opportunities for informal learning.
+
+19
+
+INSERT PLATE 5 HERE
+
+Plate 5: ‘The Best Day Ever’ – Student Photograph
+
+INSERT PLATE 6 HERE
+
+Plate 6: The teaching family – student cartoon posted on social media
+(Note: ‘Auntie Ali’ was a support worker for one student)
+
+Some students enjoyed our research process using photographs and telling us about their
+experiences. They made a real effort to include as many different stories as possible in the images
+they brought along (see plate 7).
+I feel that I can’t reflect to someone on my experiences to the extent of what they were without
+showing them... but I have given a good idea on the sense of place of Brixham.
+
+INSERT PLATE 7 HERE
+
+Plate 7: Student Montage
+
+The informal learning opportunities and rapport developed is we believe at the heart of enriching
+student learning and their engagement with the learning objectives of the module. Whilst we have
+not presented any comparisons of assessment grades, it is our perception that the quality of the
+written assignments was considerably improved compared to previous cohorts. As Harper & Quaye
+(2009) highlight, student engagement is about developing empathy and rapport; with peers,
+
+20
+professors [lecturers] as well as the institution itself. They also argue that it is necessary to adapt
+traditional inflexible pedagogical, environmental, and curricular approaches and ‘revise the
+curriculum, contextual factors, pedagogical strategies, and learning philosophies’ (2009, p.51) in
+order to promote engagement, and this is what we believe we have achieved here. As Tuan (1977)
+suggests, ‘Eventually what was strange... and unknown space becomes familiar place. Abstract
+space, lacking significance other than strangeness, becomes concrete place, filled with meaning.
+Much is learned but not through formal instruction’ (p.199).
+
+Sailing skill development
+Whilst these findings have focussed upon students’ connection with place, it is important to
+emphasise that this was not to the detriment of practical sailing skills. We highlight this here since
+one of the aims of an outdoor education degree is to develop students’ practical skills, including
+sailing. To reassure the reader that a sense of place was not developed to the detriment of sailing
+skills we provide the following example. At the end of four full days on the water, one novice sailor,
+who was extremely nervous on the first day and stated that she wished she had not chosen to go
+sailing, was performing a ‘dry-capsize’ manoeuvre as evidenced in plate 8 below, citing this as a
+major ‘sense of achievement’. This is a more advanced sailing manouvre that requires confidence,
+committment, timing and agility to successfully execute.
+
+INSERT PLATE 8 HERE
+
+Plate 8: Successful dry capsize
+
+In summary the student learning on this taught module was influenced by;
+
+21
+1. Developing a sense of place, by researching, imagining and sometimes experiencing the lives
+of the people of Brixham (past and present) as well as an embodied sailing experience. This
+enabled the students to develop an empathy with the people of Brixham and their
+relationship with the sea and sailing and develop a sense of connection.
+2. In developing a greater understanding of how the socio-cultural history of a place is directly
+related to an outdoor activity such as sailing, students were able to shape their own
+academic learning by specifically choosing what aspect of the place to explore in order to
+satisfy their own personal curiosities before relating this to their active physical sailing
+experiences and skill development. This we perceive produced a greater level of assessed
+academic performance.
+3. The informal learning opportunities afforded by the module enabled student relationships to
+flourish both with other students and lecturers. This helped enable all participants to be part
+of an inter-connected set of relationships; of sailing and place as well as physical, emotional
+and cognitive components of student learning.
+
+The centrality of embodied experiences which are integral to outdoor education suggest that place-
+responsive outdoor education cannot be conducted in a lecture room, nor can it be effectively
+
+implemented if students are outdoors and only ‘being active’. The simplistic binary of ‘doing or
+reflecting on experience’ overlooks the nuanced, highly contextualised and interconnected webs of
+people, places and contested meanings of experience (Wattchow & Brown, 2011).
+
+Implications for practice and research
+
+22
+The findings from this action research lead us to several related conclusions about our practice, in
+general terms as well as specifically related to our place based sailing module.
+Firstly, we are curious as how to enable students and their communities to develop a sustainable
+socio-cultural and historical relationship with their places through engagement in outdoor
+adventurous activities. Gruenewald’s (2003) Critical Pedagogy of Place is useful here since it
+attempts to contribute to the development of educational discourses and practices that explicitly
+‘examine the place-specific nexus between environment, culture, and education’ (p.10). It is a
+pedagogy linked to cultural and ecological politics that is influenced ‘by an ethic of eco-justice and
+other socio-ecological traditions that interrogate the intersection between cultures and ecosystems’
+(Gruenewald, 2003, p.10). The principal implication of a critical pedagogy of place to our research is
+the challenge it presents to expand the scope of our theory, inquiry, and practice to include the
+social and ecological contexts of our own, and others’, ‘inhabitance’, even if this ‘inhabitance’ of
+Brixham is a temporary one when sailing as part of a university degree. A critical pedagogy of place
+challenges educators to reflect on the relationship between the kind of education they pursue and
+the kind of places we inhabit and leave behind for future generations (Gruenewald, 2003).
+Additionally, ‘reading the landscape’ (Stewart, 2008), or the application of outdoor education to
+specific cultural and environmental issues in particular places and communities, can assist us as
+outdoor educators and our students to ‘probe and reflect on the relationships between personal
+experience and the complex cultural-ecological processes that have shaped the places in which we
+live and work’ (p.79).
+
+Specifically, on the next cycle of our action research we have planned to locate all of our teaching of
+the place based outdoor education sailing module, both indoor and outdoor, on land and on the
+water, in the town of Brixham, and as such hope to help blur the line for students between indoor
+and outdoor education, as well as the formal and informal learning. This is what Quay & Seaman
+
+23
+(2013, p.2) describe as ‘the persistent dichotomy between method and subject matter... child and
+curriculum’ that has been prevalent in education for the last hundred years. As Knapp (in Quay &
+Seaman, 2013, p.xiv) proposes, ‘perhaps the time will soon arrive when [all] educators drop the
+many prefixes (... outdoor, experiential, adventure...) to describe the type of education they think is
+important... Maybe the only prefixes that will be used will be good or effective’. Once again, we will
+evaluate the student’s experience of learning to sail and their sense of place as an integrated
+theoretical and practical experience. Quay & Seaman (2013) explain how we understand this
+process, and that in all experience the ‘doing’ and the ‘thinking’ are dialectically related; doing one
+necessarily involves and transforms the other.
+More generally, across other aspects of our Bachelor’s degree programme, we are looking to
+develop further opportunities for student choice in the focus of assessments including research
+projects and as a means of increasing student engagement in their formal learning that is assessed
+and so it is hoped enrich their learning.
+
+In terms of specific areas for further research with which we are currently engaged, we are
+interested in the role that informal learning has in the development of relationships, the rapport
+building and the consequential increase in levels of attainment through a rise in motivation and
+engagement. In particular, the general talk that surrounds our pedagogy and the experiential
+immersion in sailing and place as one continuous entity that allowed us to engage deeply with
+students, their learning and the place.
+
+Finally to address what McNiff (2013) discusses as theory generation, we are at an early stage. We
+have found that by providing a focus on place we have engaged and enriched student learning by
+helping the students to care about the place. Our values and the holistic approach to the teaching of
+adventure sport activities in outdoor education have shown that students do care about the place
+they sail, as evidenced in the quote below:
+
+24
+The smell of the salty harbour of which you feel you can taste, the sound of the wind
+whistling through the sailing boats masts, the smell of fresh fish and chips on the quay
+and the wonderful views of colourful layered houses. I would end every session looking
+out into the harbour and appreciating just how beautiful Brixham was as a place and
+how glad I was to experience it.
+
+As Wattchow & Brown (2011) describe, places have an integral role in the teaching and learning
+experience. They are the sites of meaning making, the centre of lived experiences. If during this
+meaning making we are able to get the students, as well as ourselves, to care about the place, and
+each other and the activity itself, then perhaps we shall be able to more fully engage in the critical
+pedagogical approach that Gruenewald (2003) advocates, and address some of the bigger
+environmental and social injustices through a developed dialogue with our students (Batsleer, 2008).
+The maximising of these informal opportunities is an area upon which we are currently developing
+our ideas, and suggest here that formal physical and outdoor educators may have much to learn
+from those trained in the practices of informal education, as in Youth Work in the UK. The paper we
+present here has been the first iteration of an action research cycle that for us is highly illuminative,
+personally educative and consequently professionally stimulating. We trust that our experiences
+may have some resonance with reader’s own contexts, places and professional practice.

@@ -1,0 +1,553 @@
+Salivary alpha-amylase changes promoted by sustained exposure
+to affective pictures
+JUAN P. SÁNCHEZ-NAVARRO,a,b ENRIQUE F. MALDONADO,c JOSÉ M. MARTÍNEZ-SELVA,a,b
+ALFREDO ENGUIX,d and CARMEN ORTIZe
+a
+Facultad de Psicología, Universidad de Murcia, Murcia, Spain
+b
+Instituto Murciano de Investigación Biosanitaria, Murcia, Spain
+c
+Facultad de Psicología, Universidad de Málaga, Málaga, Spain
+d
+Hospital Universitario “Virgen de la Victoria,” Laboratorio Clínico, Málaga, Spain
+e
+Unidad de Gestión Clínica de Análisis Clínicos, Hospital Reina Sofía, Córdoba, Spain.
+Abstract
+We studied the changes in salivary alpha-amylase (sAA) and other psychophysiological indices (heart rate, skin
+conductance, and corrugator supercilii activity) elicited by sustained exposure to affective pictures. Thirty-nine subjects
+viewed five blocks of pictures depicting mutilations, human attack, neutral scenes, sport/adventure, and erotica. Each
+block comprised 12 pictures of the same content. Saliva samples were collected before and after each block of pictures.
+The results showed that mutilation pictures promoted the greatest increase in sAA activity and output, as well as greater
+corrugator supercilii activity than pleasant pictures. Skin conductance response did not differ among high arousal picture
+contents. Changes in sAA varied with the affective valence but not with the arousal ratings of the pictures. Our results
+point to sAA as an index directly related to the unpleasantness elicited by sustained exposure to affective stimuli.
+Descriptors: Salivary alpha-amylase, Defence response, Heart rate, Skin conductance, Corrugator supercilii, Affective
+valence
+Salivary alpha-amylase (sAA) enzyme is produced by the salivary
+glands and is related to the digestion of macromolecules and the
+maintenance of oral health (Granger, Kivlighan, El-Sheikh, Gordis,
+& Stroud, 2007). In recent years, interest in sAA secretion has
+grown in psychophysiological research because it has been considered as a noninvasive index of autonomic nervous system (ANS)
+activation (Bosch, Veerman, De Geus, & Proctor, 2011; Ehlert,
+Erni, Hebisch, & Nater, 2006; Nater & Rohleder, 2009; Rohleder &
+Nater, 2009).
+Salivary alpha-amylase activity has been employed as an indirect measure of the amount (concentration) of sAA enzyme in
+saliva and has been related to sympathetic nervous system activity
+(Bosch et al., 2011; Nater & Rohleder, 2009; Rohleder & Nater,
+2009). Parasympathetic activity, however, also influences sAA
+secretion since (a) some salivary glands are mainly parasympathetically innervated, (b) sAA secretion is greater during concomitant sympathetic and parasympathetic nerve stimulation in
+comparison to individual sympathetic or parasympathetic nerve
+stimulation (Asking, 1985; Asking & Gjorstrup, 1987), and (c)
+sAA secretion is related to the salivary flow rate, which is mainly
+determined by parasympathetic activity (Proctor & Carpenter,
+2007). Bosch et al. (2011) note that there is often confusion in sAA
+research due to the absence of a measure of the secretion rate.
+Salivary alpha-amylase output is associated with the enzymatic
+activity in relation to the salivary flow rate over a fixed period of
+time and constitutes, therefore, a better estimate of sympathetic
+activity associated to sAA secretion (Bosch et al., 2011; Proctor &
+Carpenter, 2007).
+Previous research has linked sAA secretion to norepinephrine
+(NE) levels. In this line, two pharmacological studies have
+reported that sAA activity increases after the yohimbine test
+(Ehlert et al., 2006), and decreases after the administration of propanolol (van Stegeren, Rohleder, Everaerd, & Wolf, 2006).
+However, the data associating sAA activity with the peripheral NE
+levels are weak, in spite of the involvement of this neurotransmitter in sAA release (Nater & Rohleder, 2009). Alternatively, some
+authors have proposed that sAA levels may be an indirect marker
+of the activity of the sympathetic nervous system and, therefore,
+related to central NE activity (e.g., Ehlert et al., 2006; Hermans
+et al., 2011; Segal & Cahill, 2009; van Stegeren et al., 2006;
+Weymar et al., 2010).
+A number of studies have found an increase in sAA levels
+associated with the experience of fear, anxiety, and psychological
+stress (Nater & Rohleder, 2009; Rohleder & Nater, 2009). For
+instance, sAA increases have been reported in subjects exposed to
+laboratory psychosocial stressors, such as the Trier Social Stress
+This research was supported by a grant from the Seneca Foundation—
+Murcia Regional Agency for Science and Technology, 08839/PHCS/08.
+Address correspondence to: Juan P. Sánchez-Navarro, Facultad de
+Psicología, Universidad de Murcia, 30100 Murcia, Spain. E-mail: jpedro@
+um.es
+bs_bs_banner
+Psychophysiology, 49 (2012), 1601–1609. Wiley Periodicals, Inc. Printed in the USA.
+Copyright © 2012 Society for Psychophysiological Research
+DOI: 10.1111/j.1469-8986.2012.01475.x
+1601
+Test (Gordis, Granger, Susman, & Trickett, 2006; Het & Wolf,
+2007; Nater et al., 2005, 2006; Payne et al., 2007; Rohleder,
+Nater, Wolf, Ehlert, & Kirschbaum, 2004), and in subjects
+exposed to purely cognitive stressors (Bosch, de Geus, Veerman,
+Hoogstraten, & Nieuw Amerongen, 2003; Skosnik, Chatterton,
+Swisher, & Park, 2000). An increase in sAA levels has also been
+found in subjects exposed to aversive emotional stimuli, such as
+unpleasant videos depicting surgical operations or child maltreatment (Bosch et al., 2003; Takai et al., 2004; Tu, Lupien, &
+Walker, 2006), as well as affective pictures (Segal & Cahill, 2009;
+van Stegeren et al., 2006; Weymar et al., 2010). In addition, ecological situations have been found to increase the sAA activity
+levels, e.g., exposure to a real magnetic resonance imaging procedure (van Stegeren et al., 2006), academic stress (Bosch et al.,
+1996; Chatterton, Vogelsong, Lu, Ellman, & Hudgens, 1996), preparing for one’s first skydive (Chatterton, Vogelsong, Lu, &
+Hudgens, 1997), and a naturalistic fear challenge (Buchanan,
+Bibas, & Adolphs, 2010).
+While previous research has pointed to a relation between sAA
+and the experience of negative emotions elicited by aversive situations, it remains to be investigated whether the sAA response is
+related to other parameters of the affective stimuli, such as arousal
+level and specific content. According to Lang and co-workers
+(Lang, 1995; Lang & Bradley, 2010; Lang, Bradley, & Cuthbert,
+1997), emotion can be considered as a tendency or disposition to
+action that is supported by two motivational systems in the
+brain—the appetitive system (related to approach behaviors) and
+the defensive system (related to withdrawal or fight-or-flight
+behaviors). Accordingly, emotions can be described by two basic
+bipolar dimensions—affective valence, related to the dominant
+motivational system (pleasant-appetitive or unpleasant-defensive)
+and arousal, related to the intensity or degree of activation of these
+motivational systems (Bradley, Codispoti, Cuthbert, & Lang,
+2001; Lang et al., 1997). Studies conducted in laboratory settings
+have demonstrated that behavioral and physiological indices of
+the emotional response depend on affective valence and arousal of
+the affective stimuli (Bradley & Lang, 2007; Bradley et al., 2001;
+Lang, Greenwald, Bradley, & Hamm, 1993; Sánchez-Navarro,
+Martínez-Selva, Torrente, & Román, 2008). Previous findings
+employing a picture perception paradigm show, for instance, that
+the largest skin conductance responses are promoted by the most
+arousing pictures (either pleasant or unpleasant), while heart rate
+and corrugator supercilii muscle activity depend on affective
+valence, with unpleasant pictures eliciting a marked heart rate
+deceleration and an increase in corrugator supercilii activity
+(Bradley et al., 2001; Sánchez-Navarro, Martínez-Selva, &
+Román, 2006). In the case of continuous exposure to aversive
+pictures, these changes would reflect sympathetic mobilization
+and increased defence activation (Smith, Bradley, & Lang, 2005;
+Wangelin, Löw, McTeague, Bradley, & Lang, 2011). Accordingly,
+a neuroendocrinological study using prolonged exposure to affective pictures has reported increases in NE, corticotropine, and cortisol levels as a response to pictures depicting mutilations (highly
+unpleasant and arousing), which were greater than the increases
+promoted by the sustained viewing of a series of either erotic or
+neutral pictures (Codispoti et al., 2003). These results are consistent with other works relating the NE system activity to the defensive activation promoted by the exposure to aversive stimuli (e.g.,
+Levine, Litto, & Jacobs, 1990; Lovallo & Thomas, 2000).
+Following these data, and in accordance with previous
+research relating sAA levels to central NE activity (e.g., Ehlert
+et al., 2006), the sAA response promoted by emotional situations
+could be expected to depend on unpleasantness rather than on the
+arousal elicited by such stimuli. In addition, given that previous
+research has shown that specific contents of pleasant (erotic and
+sport/adventure) and unpleasant (mutilation and threat) pictures
+promote different physiological responses (Bernat, Patrick,
+Benning, & Tellegen, 2006; Bradley et al., 2001), we wished to
+explore the sAA response prompted by continuous exposure to
+specific emotional contents varying in affective valence and
+arousal. For this purpose, we compared the sAA changes promoted by the sustained viewing of blocks of pictures depicting
+unpleasant, high arousal scenes (mutilations and human attack),
+pleasant, high arousal contents (erotica and sport/adventure), and
+pictures portraying neutral, low arousal scenes (household
+objects).
+From previous research relating the increase of sAA levels to
+the experience of aversive situations (e.g., Bosch et al., 2003;
+Buchanan et al., 2010; Nater & Rohleder, 2009), we expected that
+sAA activity and output would vary with the affective valence of
+blocks of pictures, with unpleasant pictures (mutilations and
+human attack) promoting greater changes than neutral and pleasant (erotica and sport/adventure) ones. In order to objectively
+measure the emotional reactivity elicited by the exposure to the
+affective pictures, we recorded heart rate (HR), skin conductance
+response (SCR), and corrugator supercilii electromyographic
+(EMG) activity. We expected to find the greatest corrugator
+supercilii activity promoted by the continuous viewing of
+unpleasant pictures (mutilations and human attack), and the greatest number of SCRs elicited by the sustained exposure to arousing pictures (either pleasant or unpleasant), replicating previous
+results (e.g., Bradley, Cuthbert, & Lang, 1996; Smith et al.,
+2005). Regarding HR, and again following previous research
+(Pastor et al., 2008; Wangelin et al., 2011), we expected the
+presentation of the pictures in content blocks to lead to a slower
+heart rate, particularly in the case of pleasant and unpleasant
+pictures.
+Method
+Participants
+Participants were 39 healthy student volunteers (19 women)
+selected from the University of Málaga who received course
+credits for their participation. Inclusion criteria for participation
+were no history of psychiatric, neurological, endocrine, immunological, and cardiovascular diseases. Medication with psychoactive drugs, beta-blockers, or glucocorticoids was considered as a
+criterion for exclusion. One subject was excluded because of
+problems with the saliva collection, and three more subjects were
+excluded from the study because of extreme data in their saliva
+samples (higher than 2.5 standard deviations). The final sample
+consisted of 35 subjects (17 women) aged between 20 and 55
+(M = 23.85, SD = 6.51). One subject who did not complete the
+rating of the pictures was excluded from picture ratings and correlation analyses (N = 34). In a prestudy session, all subjects
+signed a written consent to participate in the study and answered
+the 72-item Fear Survey Schedule (Wolpe & Lang, 1964), obtaining ratings between 89 and 202 (M = 138.81, SD = 34.32), and the
+Mutilation Questionnaire (Klorman, Hastings, Weerts, Melamed,
+& Lang, 1974), with ratings between 5 and 18 (M = 10.97,
+SD = 3.31).
+All procedures were conducted in accordance with the
+Declaration of Helsinki.
+1602 J.P. Sánchez-Navarro et al.
+Materials and Design
+We selected 60 affective pictures1 from the International Affective
+Picture System (IAPS; Lang, Bradley, & Cuthbert, 2008), according to the normative ratings for the Spanish population (Moltó
+et al., 1999; Vila et al., 2001). Pictures were chosen so as to comprise five specific contents, including two unpleasant, high arousal
+contents (human attack and illness/mutilations), one neutral,
+low arousal content (household objects), and two pleasant, high
+arousal contents (erotic couples and sport/adventure). The five
+categories differed in affective valence, F(4,44) = 572.95, p < .001
+(mutilations = human attack < neutral < sport/adventure = erotic).
+Mutilation and human attack pictures did not differ in their affective valence, and they were more unpleasant than all the other
+contents (ps < .001), whereas erotic and sport/adventure pictures
+did not differ in affective valence and were more pleasant than the
+rest of the contents (ps < .001). Arousal level differed also between
+categories, F(4,44) = 378.29, p < .001. Mutilation, human attack,
+erotic, and sport/adventure pictures did not differ in their arousal
+ratings, and all of them were more arousing than neutral pictures
+(ps < .001 for all comparisons).
+We constructed five different blocks of pictures. Each block
+consisted of 12 pictures of the same content. Pictures were presented consecutively for 10 s each, with no interpicture interval.
+Following previous research (e.g., Takai et al., 2004), the interblock interval was 630 s to facilitate the return of sAA levels to
+baseline levels. To avoid any effect of the order of presentation of
+the blocks on the responses measured, we constructed three different presentation orders, and each subject was randomly assigned to
+one of them. In each presentation order, two consecutive blocks of
+the same affective valence were not allowed, and within each
+block, pictures were presented in the same order for all subjects.
+Samples of saliva were collected before and after each block of
+pictures. The pictures, as well as all the task instructions, were
+presented through a 19-inch computer monitor placed in front of
+the subject.
+Saliva Collection, Biochemical Analyses, and Data Reduction
+For saliva collection, the passive drooling method was modified
+from the original procedure suggested by Navazesh (1993) as
+described by Rohleder, Wolf, Maldonado, & Kirschbaum (2006).
+Participants were instructed first to void their mouth of saliva by
+swallowing. In contrast to the original method, saliva was then
+allowed to accumulate passively (without tongue movements) for
+2 min (instead of 5 min). Participants then spit all saliva into 10-ml
+polystyrene tubes. This procedure was practiced during a prestudy
+session for all the participants, who received a written description
+of the full process. A researcher monitored the sampling procedure
+through a closed-circuit television system.
+Saliva samples were frozen immediately and stored at -20°C
+until analysis. After thawing, tubes used for passive drooling were
+centrifuged at 3,000 rpm for 5 min, thus restricting mucous compounds to the lower part of the tube. Each saliva sample was then
+diluted 1 mL:750 mL in distilled water. Alpha-amylase activity was
+determined using the clinical chemistry system Dimension (Dade
+Behring) and assay kits for amylase obtained from Dade Behring.
+The AMY method in this system (which responds to both pancreatic and salivary amylase isoenzymes) uses a chromogenic substrate, 2-chloro-4-nitrophenol linked with maltotriose. The direct
+reaction of alpha-amylase with the substrate leads to the formation
+of 2-chloro-4-nitrophenol, which is monitored spectrophotometrically. The activity is determined by measuring the absorbance
+through the formation of 2-chloro-4-nitrophenol using a bichromatic (405,577 nm) rate technique. Formation of 2-chloro-4-
+nitrophenol is proportional to the sAA activity, and was expressed
+as U/ml.
+In order to obtain a measure of sAA output, saliva flow rate
+(SFR) was calculated by the gravimetric method, assuming the
+density of saliva as 1.0 g/ml (Chicharro, Lucía, Pérez, Vaquero, &
+Urena, 1998). Saliva obtained after 2 min of passive drooling was
+weighed, and flow rate was expressed in ml/min (g/min). Salivary
+alpha-amylase output was then computed by multiplication of SFR
+(ml/min) with sAA activity (U/ml), and expressed as U/min.
+Salivary alpha-amylase activity and output data were tested
+for normal distribution and homogeneity of variance using the
+Kolmogorov-Smirnov and Levene’s tests. Due to positively
+skewed distributions of salivary alpha-amylase activity and output,
+parameters were log-transformed to approximate normal distribution. Thus, for each block of pictures we obtained the change score
+(postblock minus preblock) for both sAA activity and output.
+Psychophysiological Recording and Data Reduction
+The physiological signals were acquired, amplified, and filtered by
+an AD Instruments PowerLab\8SP data acquisition system (16-bit
+A/D converter). All physiological signals were continuously
+sampled at 1000 Hz for the entire recording.
+Lead-3 electrocardiogram was recorded by means of 7-mm
+Ag/AgCl surface electrodes filled with a hypertonic electrolyte
+paste. The raw signal was amplified, and frequencies below 0.3 Hz
+and above 100 Hz were filtered out. Heart rate was obtained by the
+offline transformation of the R-wave, using an automatic procedure
+to detect R-waves and to make corrections for false R-wave detection (heart periods shorter than 300 ms), providing a weighted
+mean of the beat-to-beat HR. Raw HR was averaged for each block
+of pictures. Skin conductance was obtained by the bipolar placement of 7-mm Ag/AgCl standard surface electrodes filled with an
+isotonic electrolyte paste on the thenar (C6) and hypothenar (C8)
+eminences of the nondominant hand surface. The raw signal was
+calibrated to detect activity in the 0–100 microSiemens range.
+Following previous research (e.g., Bradley et al., 1996; Wangelin
+et al., 2011), we recorded the number of skin conductance
+responses higher than .05 mSiemens during each block of pictures.
+Corrugator supercilii EMG activity was recorded from the left side
+of the face through bipolar placement of 4-mm Ag/AgCl surface
+electrodes (Fridlund & Cacioppo, 1986). The raw EMG signal was
+amplified, frequencies below 10 Hz and above 500 Hz were filtered
+out, and a notch filter was used to eliminate 50-Hz noise. The signal
+was full-wave rectified and integrated offline with a time constant
+of 500 ms. Raw corrugator supercilii EMG activity was averaged
+for each block of pictures.
+Procedure
+The experiment was conducted between 13:00 and 18:00 to control
+the circadian effects associated with the changes in the levels of
+1. IAPS code for the pictures employed in the study: mutilations: 3030,
+3051, 3060, 3064, 3071, 3080, 3110, 3130, 3150, 3400, 3550, 9405. Human
+attack: 3500, 3530, 6212, 6250, 6260, 6312, 6313, 6315, 6350, 6530, 6570,
+6571. Neutral: 7004, 7006, 7009, 7010, 7020, 7025, 7040, 7080, 7175,
+7185, 7187, 7217. Sport/Adventure: 5621, 5626, 8030, 8178, 8179, 8180,
+8185, 8186, 8370, 8400, 8490, 8496. Erotica: 4608, 4652, 4658, 4659,
+4669, 4670, 4672, 4676, 4680, 4689, 4800, 4810.
+sAA response to affective pictures 1603
+sAA activity and output (Nater, Rohleder, Schlotz, Ehlert, &
+Kirschbaum, 2007; Rohleder et al., 2004). Subjects were instructed
+to avoid any food during the 2 h prior to the experimental session.
+Participants were accommodated in an armchair located 0.5 m
+in front of a computer screen, and all sensors were attached. Subjects were informed that a series of pictures would be displayed
+consecutively on the screen and that they should pay attention to
+each picture for its entire display length. In addition, they were also
+informed that all the instructions concerning each step of the task
+(e.g., accumulate saliva, dribble saliva, etc.) would be displayed on
+the screen. The task comprised a 3-min rest period followed by the
+presentation of the five blocks of pictures. Before each block,
+subjects were required, through a message on the screen, to accumulate saliva in their mouth for 2 min (see Figure 1). After this
+period, a new message appeared indicating that they could dribble
+the saliva into a polystyrene tube. Then, the pictures of the first
+block were started. After the picture block offset, subjects were
+again required to accumulate saliva in their mouth for 2 min. After
+this period, a new message indicated that they could dribble the
+saliva into another polystyrene tube. Then, a 270-s rest period
+started. After this period, the sequence began again until the completion of the five blocks of pictures.
+After the psychophysiological task, electrodes were removed
+and the saliva samples were placed inside the freezer. Subjects were
+then asked to view each picture again in a free viewing time setting
+and to rate the affective valence and arousal of each picture using
+a computerized version of the Self-Assessment Manikin, based on
+the original paper and pencil version (Hodes, Cook, & Lang, 1985).
+This computerized version presents separately, after each picture, a
+9-point rating scale for each dimension, with 9 representing a high
+rating (i.e., high pleasure, high arousal), and 1 a low rating (i.e., low
+pleasure, low arousal). The presentation order of the pictures was
+the same as in the psychophysiological task.
+Statistical Analysis
+The effects of the five blocks of pictures on each dependent variable were studied by a repeated-measures analysis of variance
+(ANOVA), with picture category (mutilation, human attack,
+neutral, sport/adventure, and erotic) as within-subjects factor.
+In order to study the relation between the sAA levels promoted
+by the full set of pictures and the affective valence and arousal
+reported by the subjects, we conducted bivariate correlations
+between the subjects’ ratings of affective valence and arousal and
+the change scores of sAA (activity and output).
+All the statistical analyses were performed with the PASW
+package (version 19; SPSS, Chicago, IL). A measure of the effect
+size, partial eta-squared (h2
+), was obtained for the main statistical
+tests. When appropriate, a Greenhouse-Geisser adjustment to the
+degrees of freedom was used in repeated-measures tests in order to
+correct any potential inflation of the reported probability values,
+and epsilon values (e) are reported (Bagiella, Sloan, & Heitjan,
+2000). Post hoc comparisons were performed with a Bonferroni
+correction to control the overall level of significance (Keselman,
+1998).
+Results
+Affective Picture Ratings
+Affective valence ratings differed according to picture category,
+F(4,132) = 119.89, p < .001, h2 = .784. All pictures differed in
+affective valence (all ps < .001) except for erotic and sport/
+adventure pictures (see Table 1).
+Arousal ratings also varied depending on picture category,
+F(4,132) = 48.75, p < .001, h2 = .596 (see Table 1). Mutilation pictures were rated highest in arousal (all ps < .003). Human attack,
+erotic, and sport/adventure pictures did not differ in arousal ratings,
+which were higher than the arousal assigned to neutral pictures
+(all ps < .001).
+Salivary Alpha-Amylase Levels Elicited by the Pictures
+Salivary alpha-amylase activity. A significant main effect was
+found for picture category, F(4,136) = 2.44, p = .05, h2 = .067. As
+shown in Figure 2 (top), when sAA activity was arranged according
+to the affective valence, values followed a marginally significant
+linear trend from the lowest (sport/adventure) to the highest (mutilation) levels, F(1,34) = 3.52, p = .069, h2 = .094. Bonferroni corrected paired comparisons showed differences only between
+mutilation and sport/adventure pictures, p = .002, but, as can be
+seen in Table 2, only the sustained exposure to mutilation pictures
+promoted a significant increase in sAA activity.
+Salivary alpha-amylase output. The statistical analyses showed
+a main effect of picture category, F(4,136) = 3.64, p = .014,
+Figure 1. Sequence of events in one trial of the task (the timing was identical for the 5 trials).
+1604 J.P. Sánchez-Navarro et al.
+e = .774, h2 = .097. When sAA output values were arranged
+according to the affective valence (see Figure 2, bottom), values
+followed a significant linear trend from the lowest (sport/
+adventure) to the highest (mutilation) levels, F(1,34) = 10.49,
+p < .001, h2 = .236. Bonferroni corrected paired comparisons
+showed, however, differences only between mutilation and sport/
+adventure pictures (p < .001). Additional analyses showed that sustained exposure to pictures depicting mutilation scenes promoted a
+significant increase in sAA output, whereas human attack elicited a
+near significant increase (see Table 2).
+Correlation analyses. Salivary alpha-amylase output showed a
+significant negative correlation only with the affective valence
+ratings of the pictures, r = -.284, p < .001, but not with the
+arousal ones (p = .68). Regarding sAA activity, a marginally significant negative correlation was also found with the affective
+Table 1. Means (Standard Deviations) of Psychophysiological Responses and Subjective Ratings for Each Picture Category
+Picture category
+Mutilations Human attack Neutral Sport/adventure Erotica
+Skin conductance (number of responses) 15.03 (9.62) 13.20 (8.59) 8.23 (8.25) 10.46 (7.14) 13.34 (7.70)
+Heart rate (beats per min) 69.98 (8.81) 70.58 (8.80) 70.72 (8.62) 70.10 (8.86) 69.64 (8.93)
+Corrugator supercilii EMG activity (mV) 7.19 (2.71) 6.60 (2.06) 6.24 (1.72) 6.08 (1.14) 6.11 (1.72)
+Affective valence ratings 1.86 (1.13) 2.91 (1.27) 5.04 (0.46) 6.89 (1.21) 7.05 (1.44)
+Arousal ratings 6.74 (1.99) 5.32 (1.90) 2.14 (1.48) 4.90 (2.10) 5.46 (2.09)
+Figure 2. Salivary alpha-amylase activity (top) and output (bottom) to the five blocks of affective pictures (bars represent means  SEM).
+sAA response to affective pictures 1605
+valence ratings, r = -.169, p = .056, but not with arousal ones
+(p = .134).
+Psychophysiological Responses Promoted by the Pictures
+Skin conductance response. The number of SCRs elicited by the
+pictures depended on picture category, F(4,136) = 8.19, p < .001,
+e = .825, h2 = .194. When SCRs were arranged according to the
+affective valence, a significant quadratic trend was observed,
+F(1,34) = 15.36, p < .001, h2 = .311. Paired comparisons showed
+that the exposure to high arousal, emotional pictures did not differ
+in the number of SCRs they elicited (see Table 1), except for
+sport/adventure pictures, which promoted fewer SCRs than mutilation ones (p = .003). In addition, mutilation, human attack, and
+erotic pictures promoted more SCRs than neutral pictures (all
+ps < .001), while sport/adventure pictures did not differ from
+neutral ones.
+Heart rate. The analysis of the raw heart rate did not show
+any statistical differences for picture category, F(4,136) = 1.24,
+p = .300. When HR was arranged according to affective valence,
+contrast analyses showed a significant quadratic trend, F(1,34) =
+4.28, p = .046, h2 = .112. As can be seen in Table 1, all the blocks
+of affective pictures promoted a slightly slower HR than the
+neutral one.
+Corrugator supercilii EMG activity. Corrugator supercilii EMG
+activity varied depending on picture category, F(4,136) = 5.07,
+p = .005, e = .597, h2 = .130. A significant linear trend was found
+when EMG values were arranged according to affective valence,
+F(1,34) = 9.13, p = .005, h2 = .212. Paired comparisons showed
+that continuous viewing of pictures depicting mutilation significantly elicited greater EMG activity than exposure to erotic
+(p = .003) and sport/adventure (p = .004) pictures (see Table 1).
+Discussion
+This research aimed to study the sAA response promoted by the
+sustained exposure to different categories of affective pictures
+varying in affective valence and arousal level. Our findings showed
+that sAA levels markedly increased after viewing unpleasant pictures, particularly human mutilation ones. This finding is consistent
+with those reports that have related the sAA increase to the reaction
+promoted by aversive situations and the parallel activation of the
+ANS (e.g., Buchanan et al., 2010; Nater et al., 2006; van Stegeren
+et al., 2006). Previous research has considered sAA levels as an
+indirect index of NE (see Ehlert et al., 2006). Peripheral NE
+increases have been found during sustained exposure to unpleasant
+mutilation pictures, in comparison to viewing a prolonged series of
+erotic and neutral pictures (Codispoti et al., 2003). In line with the
+above proposals relating sAA with ANS activation (e.g., Bosch
+et al., 2011; Nater & Rohleder, 2009), our data are consistent with
+those obtained by Codispoti et al., and point to a relation between
+the unpleasantness of the emotional situations and the sAA changes
+they promote, probably reflecting a preparation of a fight-or-flight
+response (Buchanan et al., 2010).
+Previous research has found that the sustained exposure to a
+series of pictures of the same affective valence leads to an increase,
+or at least maintenance, of physiological reactivity (Bradley et al.,
+1996). The sustained viewing of aversive pictures prompts a prolonged affective state and a number of psychophysiological reactions that reflect sympathetic mobilization and increased defensive
+activation (Smith et al., 2005; Wangelin et al., 2011). Since mutilation, and also human attack pictures, are among the most
+threatening pictures, promoting strong, defence-related, psychophysiological and somatic responses as well as high reports of
+negative affect and arousal (e.g., Azevedo et al., 2005; Bradley
+et al., 2001; Bradley, Hamby, Löw, & Lang, 2007), continuous
+exposure to a series of these aversive contents leads to an increased
+activation of the defensive system, which may correspond to the
+imminence of a threat (Azevedo et al., 2005; Lang et al., 1997).
+Hence, our psychophysiological data showed that prolonged exposure to mutilation pictures promoted an increase in the number of
+SCRs, in comparison to exposure to neutral pictures, as well as the
+greatest increase of the corrugator supercilii EMG activity, which
+has been shown to be highest for the most unpleasant contents (e.g.,
+Bradley et al., 2001; Sánchez-Navarro et al., 2006; Smith et al.,
+2005). In addition to these responses, our data showed that mutilations also provoked a significant increase of sAA levels.
+Whereas mutilation scenes promoted an increase of sAA levels,
+human attack pictures promoted only a marginal increase. Previous
+research has already proposed that physiological responses may
+vary within both unpleasant and pleasant affective categories
+(e.g., Bradley et al., 2001). Thus, in comparison to attack pictures,
+mutilation scenes promote greater corrugator supercilii activity
+(Bradley et al., 2001), a more extensive functional activation within
+the posterior ventral cortex (Bradley et al., 2003), larger late positive components of the event-related potentials (De Cesarei &
+Table 2. Raw Salivary Alpha-Amylase Values (Standard Deviations) Before and After Sustained Exposure to Each Block of Pictures
+Prepicture Postpicture t test
+sAA activity (U/ml)
+Mutilations 112.94 (83.38) 132.06 (90.63) t(34) = -2.90, p = .006*
+Human attack 123.17 (86.88) 139.14 (105.40) t(34) = -1.14, p = .264
+Neutral 115.34 (95.44) 109.29 (77.18) t(34) = .057, p = .955
+Sport/adventure 120.74 (93.70) 106.03 (69.91) t(34) = -1.56, p = .129
+Erotica 106.11 (70.25) 120 (96.35) t(34) = 1.65, p = .107
+sAA output (U/min)
+Mutilations 61.37 (48.42) 93.03 (84.23) t(34) = -4.78, p < .001*
+Human attack 68.89 (57.69) 93.02 (86.56) t(34) = -2.48, p = .018
+Neutral 66.91 (64.29) 71.59 (64.17) t(34) = -1.27, p = .213
+Sport/adventure 73.56 (55.55) 68.98 (51.68) t(34) = .651, p = .519
+Erotica 59.57 (44.34) 66.53 (62.25) t(34) = -.312, p = .757
+Notes. Statistics were conducted on the log-transformed values.
+*significant differences at a probability level of p < .01 (Bonferroni corrected, p = .05/5 tests).
+1606 J.P. Sánchez-Navarro et al.
+Codispoti, 2011; Schupp et al., 2004), and smaller startle blink
+magnitudes, related to larger inhibitory attentional processes
+(Bradley et al., 2001). Our results give partial support to these
+observations, since we did not find differences in the net increase of
+sAA levels between mutilation and human attack pictures. In this
+line, further research is needed to confirm a specific effect of
+mutilation pictures on this response.
+According to previous findings on the relation between sAA
+increases and aversive situations, sAA could be proposed as a
+specific index related to threat and fear, reflecting the activation of
+the defence system (Buchanan et al., 2010). One related finding is
+that sAA secretion is more sensitive to psychological stress than
+other sympathetic markers, as reported by van Stegeren et al. (2006).
+In this regard, Hermans et al. (2011) have found a relation between
+sAAand a network of brain structures related to defensive activation
+(including the amygdala, hypothalamus, and frontoinsular and anterior cingulate cortices) during exposure to aversive film clips.
+Interestingly, sAA levels prompted by the full set of pictures
+varied negatively with the affective valence ratings—that is, the
+greater the unpleasantness, the greater the sAA increase—although
+not with the arousal ratings. In addition, the frequency of SCRs, a
+peripheral measure of physiological arousal (i.e., sympathetic
+response mobilization) that has been clearly demonstrated to
+increase when subjects are exposed to arousing either unpleasant or
+pleasant stimuli (e.g., Bradley et al., 2001; Lang et al., 1993;
+Sánchez-Navarro et al., 2008), did not differ between sustained
+exposures to high arousal pictures of either category, that is, no
+differences were found in the number of SCRs promoted by mutilations, human attack, and erotic pictures. These findings are in
+agreement with previous proposals relating sAA reactivity with
+aversive events (e.g., Bosch et al., 2003; Buchanan et al., 2010;
+Nater & Rohleder, 2009), and extend this view by suggesting that
+this activity varies with the hedonic tone of the eliciting affective
+context or situation, but not with the emotional arousal.
+The increased sensitivity of sAA levels to the valence dimension of the pictures might be due, therefore, to stronger ANS
+reactions to unpleasant pictures. Human emotions are dispositions
+to action or states of heightened vigilance and physiological mobilization that are associated with survival and that appear in
+mammals when overt actions are delayed or inhibited (Lang,
+Bradley, & Cuthbert, 1997). Viewing scenes related to primary
+reinforcers (e.g., mutilation, attack, or erotic contents) strongly
+activates the motivational systems, leading to an increase of the
+physiological arousal (Bradley et al., 2001). Threatening or mutilation pictures engage the defence motivational system, which is
+reflected in an increase of both sympathetic and parasympathetic
+activity. The increase of the sympathetic reactivity prompts heightened skin conductance responses, similar to that elicited by the
+most pleasant pictures, whereas the parasympathetic activity leads
+to greater HR deceleration than pleasant contents (Bradley et al.,
+2001; Lang et al., 1993). The concurrent activation of the parasympathetic system promoted by the aversive pictures would also lead
+to an enhanced, or augmented, sAA secretion (Proctor & Carpenter,
+2007). Hence, these autonomic influences might explain the
+relation found in this research between sAA and affective valence,
+as well as the difference between the skin conductance and
+sAA responses, since sweat glands, on which electrodermal
+activity depends, only have a sympathetic cholinergic innervation
+(Dawson, Schell, & Filion, 2007).
+A limitation of this study is the time points selected to collect
+saliva samples. Previous research has found that viewing unpleasant video clips promotes a response 3 min after the film onset (e.g.,
+Takai et al., 2004). But sAA increases have also been found to peak
+around 5–10 min after the stressor (e.g., Nater et al., 2006) or video
+clip onset (e.g., Takai et al., 2004). In addition, it has also been
+found that sAA decreases immediately after video clip offset. Thus,
+it is possible that we have not captured the peak of sAA response
+because saliva was collected 2 min after each picture block offset.
+This might constitute a limitation of this research if it is demonstrated that unpleasant or mutilation pictures promote not only
+greater sAA levels but also shorter latencies to reach these levels in
+comparison to other affective pictures. However, this aspect of the
+sAA response was outside the scope of this research, and further
+studies are necessary to check this effect. In addition, the fact that
+paired comparisons showed differences only between mutilation
+and sport/adventure pictures could be explained by this lack of the
+sAA peak response. Future research should clarify this issue.
+In conclusion, sustained exposure to aversive pictures prompts
+a series of automatic responses, enhancing ANS reactivity and
+defence activation (Lang & Bradley, 2010). These responses
+include HR slowing, an increase in the number of SCRs, an
+enhancement of corrugator supercilii EMG activity, and startle
+reflex potentiation (e.g., Bradley et al., 1996; Smith et al., 2005).
+Sustained viewing of aversive pictures, particularly mutilation
+ones, also promotes an increase of sAA levels, probably reflecting,
+at least in part, the surge of NE that characterizes the defensive
+engagement. Moreover, our findings show that sAA levels vary
+with the perceived affective valence of the eliciting stimuli, but not
+with the arousal they promote. Consequently, sAA levels might
+allow researchers to address a basic component of the emotional
+response that complements other autonomic indices, such as skin
+conductance, heart rate, and blood pressure

@@ -1,0 +1,558 @@
+Investigation of mindfulness meditation
+practitioners with voxel-based morphometry
+Britta K. Ho¨lzel,1 Ulrich Ott,1 Tim Gard,1 Hannes Hempel,1 Martin Weygandt,1 Katrin Morgen,1,2
+and Dieter Vaitl1,3
+1
+Bender Institute of Neuroimaging, 2
+Department of Neurology, Justus-Liebig-University, Giessen, and 3
+Institute for Frontier Areas of
+Psychology and Mental Health, Freiburg, Germany
+Mindfulness meditators practice the non-judgmental observation of the ongoing stream of internal experiences as they arise.
+Using voxel-based morphometry, this study investigated MRI brain images of 20 mindfulness (Vipassana) meditators (mean
+practice 8.6 years; 2 h daily) and compared the regional gray matter concentration to that of non-meditators matched for sex,
+age, education and handedness. Meditators were predicted to show greater gray matter concentration in regions that are
+typically activated during meditation. Results confirmed greater gray matter concentration for meditators in the right anterior
+insula, which is involved in interoceptive awareness. This group difference presumably reflects the training of bodily awareness
+during mindfulness meditation. Furthermore, meditators had greater gray matter concentration in the left inferior temporal gyrus
+and right hippocampus. Both regions have previously been found to be involved in meditation. The mean value of gray matter
+concentration in the left inferior temporal gyrus was predictable by the amount of meditation training, corroborating the
+assumption of a causal impact of meditation training on gray matter concentration in this region. Results suggest that meditation
+practice is associated with structural differences in regions that are typically activated during meditation and in regions that are
+relevant for the task of meditation.
+Keywords: meditation; mindfulness; voxel-based morphometry; gray matter concentration
+INTRODUCTION
+In recent years, the clinical application of mindfulness and
+its role in understanding human consciousness have come
+into the focus of psychological research (Brown et al., 2007,
+Psychological Inquiry). The practice of mindfulness requires
+attentiveness to the internal experiences that arise at each
+moment, adopting an attitude of non-judgmental acceptance
+(Hart, 1987; Kabat-Zinn, 2003). The detached observation of
+bodily sensations, emotions and thoughts is assumed to
+interrupt automatic responding and to increase behavioral
+flexibility (Bishop et al., 2004). Repeated training should
+facilitate self-regulation of attention and improve emotion
+regulation (Hart, 1987). In fact, empirical behavioral studies
+support the idea that mindfulness training modifies
+subsystems of attention (Jha et al., 2007), and enhances
+well-being (Brown and Ryan, 2003). Clinical interventions
+that incorporate mindfulness practices have proven effective
+in the treatment of a broad spectrum of disorders (Baer,
+2003; Grossman et al., 2004).
+Recent studies showed that altered cognitive functions in
+mindfulness meditators are associated with a difference in
+the corresponding brain activations (Brefczynski-Lewis et al.,
+2007; Ho¨lzel et al., 2007; Slagter et al., 2007). While several
+studies have investigated the effects of meditation training
+on brain function, little is known about the modification of
+the brain structure that accompanies meditative practice.
+In several domains, intensive training has been found to
+increase gray matter in regions relevant for the respective
+task, detectable in anatomical MRI scans. For instance,
+brains of volunteers who have learned to juggle showed an
+expansion in gray matter in the mid-temporal area and in
+the left posterior intraparietal sulcus (Draganski et al., 2004).
+Learning a second language increases the density of gray
+matter in the left inferior parietal cortex (Mechelli et al.,
+2004).
+These recent studies challenged the traditionally held view
+that learning changes only the way the brain functions, and
+instead showed that structural changes at the macroscopic
+level are possible. Presumably, the repeated activation of
+certain regions leads to structural changes. A study by May
+et al. (2007) shows that even repetitive transcranial magnetic
+stimulation can cause cortical changes in gray matter within
+5 days of intervention.
+The only study published to date investigating the effects
+of meditation training on brain structure (Lazar et al., 2005)
+compared cortical thickness between mindfulness meditators
+and non-meditators. Meditators had a significantly thicker
+cortex in the right anterior insula, the left superior temporal
+gyrus and the right middle and superior frontal sulci.
+The right anterior insula is commonly activated during tasks
+of interoceptive awareness and its local gray matter volume
+correlates with interoceptive accuracy and visceral awareness
+(Critchley et al., 2004). The observation of bodily sensations,
+constantly performed during mindfulness meditation, might
+thus be reflected in increased insular thickness in meditators.
+According to Lazar et al. (2005), regular meditation is
+thought to promote structural changes in a subset of cortical
+regions in areas of interoceptive and somatosensory processing and attention regulation. The method of cortical
+thickness analysis employed by Lazar et al. (2005) bears
+the disadvantage that changes in subcortical structures
+cannot be detected. The purpose of the present study was
+to extend the findings of Lazar et al. (2005) by comparing
+the regional gray matter concentration of mindfulness
+meditators in the whole brain to that of people without
+meditation experience. We used voxel-based morphometry
+(VBM; Ashburner and Friston, 2000; Mechelli et al., 2005),
+which permits an automated voxel-wise whole-brain statistical comparison of MRI scans. The VBM procedure involves
+normalizing structural images to a standard template,
+segmenting those into gray and white matter and smoothing
+them (Ashburner and Friston, 2000).
+We expected that meditators would show greater gray
+matter concentration in regions that are activated during
+meditation. Although only relatively few studies have
+investigated the brain activation during meditation to date
+(cf. Cahn and Polich, 2006; Lutz et al., 2007), some relevant
+regions have been identified across different studies. Typical
+patterns of activation during self-directed meditation
+involve the dorsolateral prefrontal cortex (DLPFC) and
+anterior cingulate cortex (ACC; Newberg and Iversen, 2003;
+Cahn and Polich, 2006). This activation is thought to
+reflect the active regulation of attention. Further regions
+found to be involved in meditation include the hippocampal/
+parahippocampal formation (Lou et al., 1999; Lazar et al.,
+2000; Ho¨lzel et al., 2007). The hippocampus is thought to be
+important for meditation because of its involvement in
+the modulation of cortical arousal and responsiveness
+(Newberg and Iversen, 2003). Furthermore, activation
+in the left inferior temporal gyrus and the left postcentral
+gyrus was found during mindfulness exercises (Ho¨lzel et al.,
+2007).
+In addition to regions that are typically activated during
+meditation, we tested the right anterior insula, an area
+previously shown to differ between experienced meditators
+and people without meditation experience (Lazar et al.,
+2005). Group differences were tested in regions of interest
+(ROI) analyses. We hypothesized that the DLPFC, ACC,
+hippocampus, left inferior temporal gyrus, left postcentral
+gyrus and right anterior insula would show greater gray
+matter concentration in meditators than in controls.
+Moreover, to test for changes in gray matter dependent
+on the amount of meditation training, the accumulated
+number of hours of meditation practice was used as a
+predictor in a regression analysis.
+METHODS
+Study participants
+Forty healthy, right-handed participants took part in the
+study: 20 meditators (mean age: 34.1 years; s.d.: 4.7 years)
+and 20 non-meditators (mean age: 34.0 years; s.d.: 5.1 years),
+matched for sex, age, education and handedness. Each group
+consisted of 16 male and four female participants.
+Meditators were recruited from a Vipassana Center in
+Germany, where meditation is taught in the tradition of
+S.N. Goenka (Hart, 1987). Participants practiced meditation
+2 h daily and their duration of meditation practice ranged
+between 2.1 years and 16.2 years with a mean of 8.6 years
+(s.d.: 5.0 years). On the basis of the daily practice and
+the time spent in meditation retreats, the total amount of
+hours of meditation training was estimated. Overall,
+participants’ meditation training ranged between 1120 and
+17 700 h with a mean of 6254 h (s.d.: 4529 h). Controls had
+no experience with meditation. Written informed consent
+was obtained from all participants.
+Imaging data
+High-resolution MRI data were acquired with a Siemens
+Symphony 1.5 T scanner with standard head coil. Threedimensional data sets of the whole brain were collected using
+a T1 weighted, magnetization prepared rapid acquisition
+gradient echo (MP-RAGE) sequence, consisting of 160
+sagittal partitions (slice thickness 1 mm, TI/TE/TR (inversion/echo/repetition time) 1100/4.18/1990 ms, flip angle 158,
+matrix 256  256, field of view 250 mm).
+Image analysis was performed using the voxel-based
+morphometry toolbox by Gaser (2007) for SPM2 software
+(Wellcome Department of Cognitive Neurology, London) in
+MATLAB 6.5, release 13 (Mathworks Inc., Natick, MA,
+USA). The toolbox by Gaser is an extension to the segmentation algorithm of SPM 2 and is based on the so-called
+optimized VBM protocol first proposed by Good et al.
+(2001; see also Mechelli et al., 2005).
+All images were spatially normalized (12 parameter affine
+registration followed by a non-linear registration) to the
+same stereotaxic space using a customized template and
+customized priors, which were created based on the 40
+images of the whole sample. Images were then segmented
+into gray matter, white matter and cerebrospinal fluid. For
+our study, unmodulated images (Good et al., 2001) were
+analyzed, as they do not take into account alterations in
+volume due to normalization effects. Unmodulated images
+contain the probability within each voxel for being gray
+matter, i.e. the proportion of gray matter to other tissue
+types within a region (Good et al., 2001). A 12 mm full width
+at half maximum (FWHM) Isotropic Gaussian Kernel was
+used to smooth images. The final probability maps were
+tested voxel-wise using a two sample t-test for independent
+samples in SPM2 to measure group differences in local gray
+matter concentration. For definition of the ROIs,
+the anatomical parcellation of the normalized brain
+(single-subject high-resolution T1 volume of the Montreal
+Neurological Institute) was used (Tzourio-Mazoyer et al.,
+2002). Masks were created using MARINA software (Walter
+et al., 2003). ROI analyses (family wise error corrected) were
+calculated for the bilateral DLPFC, ACC, hippocampus, left
+inferior temporal gyrus and left postcentral gyrus. In order
+to obtain a mask for the right anterior insula, the standard
+mask for the right insula was restricted to those voxels
+anterior to MNI coordinate y ¼ 0.
+For regions that yielded a group difference in local gray
+matter concentration, we tested whether the amount of
+meditation training could predict the gray matter value for
+meditators. A positive correlation would corroborate the
+causal role of meditation practice on the increase of gray
+matter concentration. Within the identified regions, those
+voxels were selected that showed t-values greater than
+t ¼ 3.32 (corresponding to P ¼ 0.001, uncorrected for multiple comparisons) in the group comparison. Mean values of
+gray matter probabilities in those areas for each of the
+meditators were then used as the dependent variable and
+the total number of hours of meditation practice served
+as the predictor. Regression analyses were computed in
+SPSS for Windows (Statistical Package for Social Sciences,
+Release 12.0.2, 2004. Chicago: SPSS Inc.).
+Finally, an exploratory whole-brain regression analysis in
+SPM (threshold: P ¼ 0.001, uncorrected; cluster size > 20
+voxels) was performed for the meditators, using the
+accumulated hours of meditation practice to predict the
+gray matter concentration in every voxel.
+RESULTS
+Comparison of meditators and non-meditators
+In ROI analyses, gray matter concentration in the right
+hippocampus (peak x, y, z: 38, 32, 12; t ¼ 3.77; P ¼ 0.027;
+Figure 1) and right anterior insula (peak x, y, z: 36, 12, 6;
+t ¼ 3.51; P ¼ 0.022) was significantly greater in meditators.
+The cluster at the left inferior temporal gyrus (peak x, y, z:
+49, 9, 28; t ¼ 3.88; P ¼ 0.058) showed a trend towards
+significance.
+We then created a mask for the left inferior temporal
+gyrus based on the activation we found during mindfulness
+of breathing meditation reported in Ho¨lzel et al. (2007).
+To this end, the ROI was restricted to those voxels with
+t > 4.25 in the functional data (corresponding to the
+significance level reported in Table 3 in Ho¨lzel et al.,
+2007). When investigating this search region, the greater gray
+matter concentration for meditators was clearly significant
+(peak x, y, z: 49, 8, 30; t ¼ 3.58; P ¼ 0.023).
+The other structures tested in ROI analyses, namely the
+DLPFC, ACC and left postcentral gyrus were not significant.
+Controls did not show any cluster of greater gray matter
+concentration compared to meditators.
+An additional exploratory analysis of the group difference
+in gray matter concentration at an  level of 0.05 corrected
+for multiple comparisons for the whole brain yielded no
+significant results.
+Amount of practice
+Masks derived from group comparison. We first tested the
+effect of the amount of meditation training on gray matter
+concentration in those areas found to differ between the
+groups. In the identified regions within MARINA masks of
+the left inferior temporal gyrus, right hippocampus and the
+right anterior insula, mean values of gray matter probabilities were used as dependent variables and were predicted by
+the total number of hours of meditation practice. A positive
+and significant regression weight was obtained for the
+left inferior temporal gyrus (r ¼ 0.40; P ¼ 0.04; one-tailed).
+The correlation of mean values at the right anterior insula
+and the hours of meditation training showed a trend toward
+significance (r ¼ 0.36; P ¼ 0.06; one-tailed). Mean values in
+the right hippocampus did not correlate with the hours of
+meditation training.
+Whole-brain. In order to detect further regions that
+correlated with the amount of practice, voxel values within
+the whole brain were correlated with the hours of meditation
+training on an exploratory basis. A cluster of gray matter
+concentration that was found to correlate with the amount
+of meditation training was located in the bilateral gyrus
+rectus and medial orbitofrontal cortex (OFC) (peak x, y, z: 1,
+45, 16; t ¼ 4.28; cluster size: 185 voxels; Figure 2). It has to
+be emphasized that this region was not significant when
+correcting for the whole brain.
+DISCUSSION
+Meditation techniques are applied to train specific cognitive
+functions (Hart, 1987). Task demands of different techniques are reflected in characteristic brain activation patterns
+(Cahn and Polich, 2006; Lutz et al., 2007). The present study
+revealed that meditators show increased gray matter
+concentration in regions that are relevant for meditation.
+Gray matter concentration was significantly greater for
+meditators in the right hippocampus and the right anterior
+insula and showed a trend towards significance in the left
+inferior temporal gyrus. When isolating the area within
+left inferior temporal gyrus previously shown to be active
+during mindfulness meditation (Ho¨lzel et al., 2007),
+meditators showed significantly greater gray matter concentration in this region. Although the clusters that showed a
+group difference were relatively small (Figure 1) compared
+to other VBM studies (Draganski et al., 2004; Mechelli et al.,
+2004), results are clearly significant. Meditators mean gray
+matter concentration within the relevant regions in the
+left inferior temporal gyrus was predictable by the amount of
+meditation training, corroborating the assumption of a
+causal impact of meditation training on gray matter
+concentration. The correlation of gray matter concentration
+at the right insula and the amount of meditation practice
+showed a trend towards significance. In an exploratory
+whole brain regression analysis, the cumulated hours of
+meditation training predicted gray matter concentration in
+the medial OFC. The expected differences at the DLPFC,
+ACC and left postcentral gyrus were not confirmed.
+The right insula, which showed greater gray matter
+concentration in meditators in our study and greater
+thickness in the study by Lazar et al. (2005), is involved in
+interoception and visceral awareness (Critchley et al., 2004).
+This difference between meditators and non-meditators
+presumably reflects the specific training during Vipassana
+meditation, namely the awareness of bodily sensations (Hart,
+1987). In a recent study, Farb et al. (2007) found that
+participants trained in mindfulness showed increased
+activation of viscerosomatic areas, including the right
+insula, during a momentary experiential focus. This finding
+further supports the crucial role of the insula for the
+experience of a mindful state.
+Further, our data confirmed the hypothesis that the
+hippocampus exhibits greater gray matter concentration in
+meditators. An investigation of subcortical structures was
+not possible with the methods employed by Lazar et al.
+(2007). The usage of VBM in the present study enabled us
+to go beyond these limitations and made it possible to
+confirm the group difference in the hippocampus. In their
+neuropsychological model of meditation, Newberg and
+Iversen (2003) ascribe an important role for meditative
+experiences to the hippocampus, due to its involvement
+in modulating cortical arousal and responsiveness. The
+hippocampus also modulates amygdalar activity and its
+involvement in attentional and emotional processes.
+The region identified in the group comparison extends
+into the parahippocampal region, which participates in
+emotional memory and sensory functions (Suzuki, 1996)
+and is the essential link between the hippocampus and
+neocortex (de Curtis and Pare´, 2004). As activation of the
+hippocampal/parahippocampal region has been found in
+several meditation studies, including ours, we assume
+that the repeated activation during meditation practice
+leads to the altered gray matter structure in meditators.
+Gray matter concentration in the left inferior temporal
+gyrus not only differed between groups, but also significantly
+correlated with the hours of meditation training, supporting the presumption that meditation training favors an
+increase in gray matter in the left inferior temporal gyrus
+resulting from repeated activation. Temporal lobe activation
+during meditation has been found in several studies (Lou
+et al., 1999; Lazar et al., 2000; Ho¨lzel et al., 2007), suggesting
+it plays an important role in meditation (Previc, 2006).
+The temporal lobe has been implicated in religious activity
+and mystical experiences (Saver and Rabin, 1997), which
+are characterized by the feeling of deep pleasure and the
+experience of insight into the unity of all reality. While we
+do not assume that the participants of the present study
+experience mystical states, similar experiences are reported
+by meditators during deep stages of meditation (Piron,
+2001) and might be related to the structural differences.
+However, this explanation remains tentative and has to be
+tested in future investigations.
+Data did not confirm the expected differences at the
+DLPFC, ACC and left postcentral gyrus. Also, no effect of
+meditation training has been found on the cortical thickness
+in these regions (Lazar et al., 2005). Possibly, the activation
+of these regions during meditation training does not lead
+to alterations in cortical structure. It is conceivable that
+some brain regions are more amenable to structural
+modifications than others. It will be the task of future
+studies to investigate this issue. It also has to be kept in mind
+that the evidence on the functional neural correlates of
+mindfulness practice is still limited. Different types of
+meditation may recruit different neural networks. Only
+few studies have investigated brain activation during mindfulness practice so far and more research is strongly needed
+to identify relevant regions.
+The exploratory whole-brain regression analysis revealed
+that gray matter concentration in the medial OFC was
+positively correlated with the cumulated hours of meditation
+training. The OFC plays a crucial role in emotion regulation
+(Quirk and Beer, 2006), during which it is thought to downregulate activity of the amygdala. Thickness of the medial
+OFC is directly correlated with extinction retention after
+fear conditioning, suggesting that its size might explain
+individual differences in the ability to modulate fear (Milad
+et al., 2005). It is thus critical for the modification of learned
+emotional responses. Greater gray matter concentration
+in the medial OFC dependent on meditation training
+might reflect the improved ability to modify emotional
+responses.
+In an fMRI study, dispositional mindfulness was found
+to predict activation of multiple PFC sites, including the
+medial OFC, during an affect labeling task of facial
+expressions (Creswell et al., 2007). These data suggest a
+crucial role of the medial OFC for emotion regulation
+capacities associated with dispositional mindfulness.
+Mindfulness meditation training, which leads to greater
+dispositional mindfulness (Brown and Ryan, 2003), might
+strengthen those structures.
+It has to be kept in mind that gray matter in the OFC
+was not found to be greater in meditators than in nonmeditators in the present study. The absence of a group
+difference in gray matter concentration in the OFC might
+be a sample artifact. It is, however, also possible that
+meditators compensate for an initially lower gray matter
+concentration in the OFC with meditation practice. Future
+studies should clarify this question. Finally, it has to be
+emphasized that this effect is very small and a replication on
+a larger sample is needed.
+We assume the difference in gray matter concentration
+between the groups to be an effect of the extensive
+meditation training of meditators. However, the causal
+direction of influence cannot be determined by this study.
+Alternatively, people with greater gray matter in the relevant
+regions might be prone to take up meditation practice.
+Though correlational data provide support for the causal
+role of meditation practice, it is possible that meditators
+with greater gray matter concentration in the relevant
+regions maintain practice for a longer period of time.
+Randomized longitudinal studies could adequately address
+this question. While groups were matched on gender,
+age, education and handedness, uncontrolled systematic
+differences between the two groups could have accounted
+for the structural differences. Possible confounding
+variables, such as personality profiles, drug and alcohol
+consumption were not considered here, but should be
+controlled in future research.
+Both, the present study and the study by Lazar et al.
+(2005) investigated participants who practice mindfulness
+meditation. Samples had similar durations of meditation
+practice. Yet, it has to be emphasized that our results are
+not directly comparable to those of Lazar and colleagues
+because different variables were measured: Lazar investigated
+cortical thickness while our study examined gray matter
+concentration. Only very few studies have compared cortical
+thickness and gray matter concentration analyses so far
+(Narr et al., 2005; Chung et al., 2007), and more investigation is required on the concordance of both measures.
+To date, the physiological underpinnings of alterations in
+gray matter structure on a histological or cellular level are
+not yet sufficiently understood (May and Gaser, 2006) and
+further research is strongly needed to investigate whether
+modifications of cortical thickness and gray matter concentration are related to changes in neuropil, neuronal
+size, dendritic or axonal arborization. Direct comparison
+of anatomical MRI data and histological data could advance
+the understanding of the mechanisms of structural
+reorganization.
+CONCLUSION
+The present study showed a distinct pattern of gray matter
+concentration in meditators, who spent a significant part
+of their lifetime training non-judgmental acceptance towards
+internal experiences that arise at each moment. Regular
+meditation practice is associated with structural differences
+in regions that are typically activated during meditation,
+such as the inferior temporal gyrus and hippocampus as well
+as in regions that are relevant for the task of meditation, such
+as the insula and OFC. Using the whole-brain unbiased
+objective technique of VBM (Mechelli et al., 2005), the
+present study extends the findings by Lazar et al. (2005)
+and suggests a wider network of brain regions involved
+in meditation show long-term structural differences. Given
+the rising interest in mindfulness-based programs for the
+treatment of psychological disorders (Grossman et al., 2004),
+the identification of structural correlates of intensive mindfulness training offers a promising approach for research
+on the neurophysiological mechanisms underlying such
+programs. Future studies should combine neuroscientific
+and clinical streams of research for a better understanding of
+the effects of such treatments.
+Greater gray matter concentration for meditators compared to non-meditators (P < .001; uncorrected; > 20 voxels) in the left inferior temporal gyrus (upper left panel;
+cluster size: 157 voxels), right anterior insula (lower left panel; cluster size: 22 voxels) and right hippocampus (upper right panel; cluster size: 106 voxels). MNI coordinates of
+shown slices: x, y, z: 49, 32, 6; color bar indicates t-values.
+Gray matter concentration at the medial orbitofrontal cortex correlates with total hours of meditation training. MNI coordinates of shown slices: x, y, z: 1, 45, 16; cluster
+size: 185 voxels; color bar indicates t-values.
+REFERENCES
+Ashburner, J., Friston, K.J. (2000). Voxel-based morphometry: the methods.
+Neuroimage, 11, 805–21.
+Baer, R.A. (2003). Mindfulness training as a clinical intervention:
+a conceptual and empirical review. Clinical Psychology: Science and
+Practice, 10, 125–43.
+Bishop, S.R., Lau, M., Shapiro, S., et al. (2004). Mindfulness: a proposed
+operational definition. Clinical Psychology: Science and Practice, 11,
+230–41.
+Brefczynski-Lewis, J.A., Lutz, A., Schaefer, H.S., et al. (2007). Neural
+correlates of attentional expertise in long-term meditation practitioners.
+Proceedings of the National Academy of the Sciences of the USA, 104,
+11483–8.
+Brown, K.W., Ryan, R.M. (2003). The benefits of being present: mindfulness
+and its role in psychological well-being. Journal of Personality and Social
+Psychology, 84, 822–48.
+Brown, K.W., Ryan, R.M., Creswell, J.D. (2007). Mindfulness: theoretical
+foundations and evidence for its salutary effects. Psychological Inquiry, 18,
+211–37.
+Cahn, B.R., Polich, J. (2006). Meditation states and traits: EEG, ERP, and
+neuroimaging studies. Psychological Bulletin, 132, 180–211.
+Chung, M.K., Dalton, K.M., Shen, L., et al. (2007). Weighted fourier series
+representation and its application to quantifying the amount of gray
+matter. IEEE Transactions on Medical Imaging, 26, 566–81.
+Creswell, J.D., Way, B.M., Eisenberger, N.I., et al. (2007). Neural correlates
+of dispositional mindfulness during affect labeling. Psychosomatic
+Medicine, 69, 560–5.
+Critchley, H.D., Wiens, S., Rotshtein, P., et al. (2004). Neural systems
+supporting interoceptive awareness. Nature neuroscience, 7, 189–95.
+de Curtis, M., Pare´, D. (2004). The rhinal cortices: a wall of inhibition
+between the neocortex and the hippocampus. Progress in Neurobiology,
+74, 101–10.
+Draganski, B., Gaser, C., Busch, V., et al. (2004). Changes in gray matter
+induced by training. Nature, 427, 311–2.
+Farb, N.A.S., Segal, Z.V., Mayberg, H., et al. (2007). Attending to
+the present: meditation reveals distinct neural modes of self-reference.
+Social Cognitive and Affective Neuroscience, 2, 313–322.
+Gaser, C. VBM2 (for SPM2). [Computer software]. Available at: http://dbm.
+neuro.uni-jena.de/vbm/vbm2-for-spm2/ (accessed on 30 May, 2007).
+Good, C.D., Johnsrude, I.S., Ashburner, J., et al. (2001). A voxel-based
+morphometric study of ageing in 465 normal adult human brains.
+Neuroimage, 14, 21–36.
+Grossman, P., Niemann, L., Schmidt, S., et al. (2004). Mindfulness-based
+stress reduction and health benefits: a meta-analysis. Journal of
+Psychosomatic Research, 57, 35–43.
+Hart, W. (1987). The Art of Living: Vipassana-Meditation as Taught by
+S.N. Goenka. San Francisco, CA: Harper and Row.
+Ho¨lzel, B., Ott, U., Hempel, H., et al. (2007). Differential engagement of
+anterior cingulate and adjacent medial frontal cortex in adept meditators
+and non-meditators. Neuroscience Letters, 421, 16–21.
+Jha, A.P., Krompinger, J., Baime, M. (2007). Mindfulness training modifies
+subsystems of attention. Cognitive, Affective, and Behavioral Neuroscience,
+7, 109–19.
+Kabat-Zinn, J. (2003). Mindfulness-based interventions in context: past,
+present, and future: Commentaries. Clinical Psychology: Science and
+Practice, 10, 144–60.
+Lazar, S.W., Bush, G., Gollub, R.L., et al. (2000). Functional brain mapping
+of the relaxation response and meditation. Neuroreport, 11, 1–5.
+Lazar, S.W., Kerr, C.E., Wasserman, R.H., et al. (2005). Meditation
+experience is associated with increased cortical thickness. Neuroreport, 16,
+1893–7.
+Lou, H.C., Kjaer, T.W., Friberg, L., et al. (1999). A 15 O-H2O PET study of
+meditation and the resting state of normal consciousness. Human Brain
+Mapping, 7, 98–105.
+Lutz, A., Dunne, J.D., Davidson, R.J. (2007). Meditation and the
+neuroscience of consciousness: an introduction. In: Zelazo, P.,
+Moscovitch, M., Thompson, E., editors. Cambridge Handbook of
+Consciousness, Cambridge, MA: Cambridge University Press, pp. 499–554.
+May, A., Gaser, C. (2006). Magnetic resonance-based morphometry: a
+window into structural plasticity of the brain. Current Opinion in
+Neurology, 19, 407–11.
+May, A., Hajak, G., Ga¨nßbauer, S., et al. (2007). Structural brain alterations
+following 5 days of intervention: dynamic aspects of neuroplasticity.
+Cerebral Cortex, 17, 205–10.
+Mechelli, A., Crinion, J.T., Noppeney, U., et al. (2004). Structural plasticity
+in the bilingual brain. Nature, 431, 757.
+Mechelli, A., Price, C.J., Friston, K.J., et al. (2005). Voxel-based
+morphometry of the human brain: methods and applications.
+Current Medical Imaging Reviews, 1, 105–13.
+Milad, M.R., Quinn, B.T., Pitman, R.K., et al. (2005). Thickness of
+ventromedial prefrontal cortex in humans is correlated with extinction
+memory. Proceedings of the National Academy of the Sciences of the USA,
+102, 10706–11.
+Narr, K.L., Bilder, R.M., Toga, A.W., et al. (2005). Mapping cortical
+thickness and gray matter concentration in first episode schizophrenia.
+Cerebral Cortex, 15, 708–19.
+Newberg, A.B., Iversen, J. (2003). The neural basis of the complex mental
+task of meditation: neurotransmitter and neurochemical considerations.
+Medical Hypotheses, 61, 282–91.
+Piron, H. (2001). The meditation depth index (MEDI) and the meditation
+depth questionnaire (MEDEQ). Journal for Meditation and Meditation
+Research, 1, 69–92.
+Previc, F.H. (2006). The role of the extrapersonal brain systems in religious
+activity. Consciousness and Cognition, 15, 500–39.
+Quirk, G.J., Beer, J.S. (2006). Prefrontal involvement in the regulation of
+emotion: convergence of rat and human studies. Current Opinion in
+Neurobiology, 16, 723–7.
+Saver, J.L., Rabin, J. (1997). The neural substrates of religious
+experience. Journal of Neuropsychiatry and Clinical Neurosciences, 9,
+498–510.
+Slagter, H.A., Lutz, A., Greischar, L.L., et al. (2007). Mental
+training affects distribution of limited brain resources. PLoS Biology, 5,
+e138.
+Suzuki, W.A. (1996). The anatomy, physiology and functions of the
+perirhinal cortex. Current Opinion in Neurobiology, 6, 179–86.
+Tzourio-Mazoyer, N., Landeau, B., Papathanassiou, D., et al. (2002).
+Automated anatomical labeling of activation in SPM using a macroscopic
+anatomical parcellation of the MNI MRI single-subject brain.
+Neuroimage, 15, 273–89.
+Walter, B., Blecker, C., Kirsch, P., et al. (2003). MARINA: an easy to use
+tool for the creation of MAsks for Region of INterest Analyses
+[abstract]. Presented at the 9th International Conference on Functional
+Mapping of the Human Brain, June 19-22, 2003, New York, NY.
+Available on CD-Rom in Neuroimage 19, No. 2. Available at http://
+www.bion.de/download.htm.

@@ -1,0 +1,1294 @@
+Injury Profile in a Brazilian First-Division Youth Soccer Team: A Prospective Study
+
+Context
+Despite the popularity of soccer at the male first-division youth level, data on the incidence of injuries in Brazil are limited.
+Objective
+To prospectively study the injury profile of male first-division youth soccer players during 1 season (January to December 2017).
+Design
+Descriptive epidemiology study.
+Setting
+Data compiled at a youth soccer academy.
+Patients or Other Participants
+The study involved 228 players between 10 and 20 years old from a first-division Brazilian soccer academy.
+Main Outcome Measure(s)
+Injury incidence rate was reported as the number of injuries divided by overall exposure (training and match hours) multiplied by 1000. The rate ratio (injury incidence rate during matches in relation to training) was also calculated. Time-loss injuries (ie, physical complaints sustained during soccer matches or training that resulted in a player being unable to take part in soccer training or match play) during the season were recorded.
+Results
+A total of 187 injuries were documented in 122 players (65.2%). During the season, 100?389 hours of exposure (5995 hours of match play and 94?394 of training) were registered. The overall injury incidence rate was 1.86 per 1000 hours. In total, 4792 days were lost from soccer activities. The majority of injuries were noncontact thigh muscle disorders and ankle sprains. Injury incidence was greater in matches than in training, and the oldest age group (under 20 years old) had the highest injury incidence rate in matches, while the under 17-year-old group had the highest injury incidence rate in training sessions (22.48 and 3.05 per 1000 hours, respectively).
+Conclusions
+Muscle injury incidence rates observed among Brazilian soccer athletes under 20 years old were similar to those reported in professional players. Preventive measures are recommended to reduce injury rates. Additionally, the number of injuries incurred during training was high compared with match play, and training programs need to be assessed so that injury prevention can be improved.
+epidemiology,?adolescents,?sports injuries,?prevention
+Key Points
+* To our knowledge, this is the first prospective study to report the incidence and patterns of injury among Brazilian youth soccer players. The incidence, type, and nature of injuries in elite Brazilian youth players were comparable with those reported in other studies on youth soccer players.
+* The injury risk was 6-fold greater in matches than in training. The injury incidence was greater in matches than in training, and the oldest age group (U-20) had the highest injury rate in matches, while the U-17 group had the highest injury rate in training sessions.
+* Muscle injury incidence rates observed among Brazilian athletes under 20 years old were similar to those reported in professional players. No concussions were reported.
+Soccer is a popular sport worldwide,1??with high participation rates at the Brazil youth level. According to the F?d?ration Internationale de Football Association's (FIFA's) Big Count, 1.347 million male youth players were registered in the Brazil Soccer Association.1??Brazil is the most represented country among the professional leagues of the 6 continental confederations supported by FIFA,2??but epidemiologic data from this population are underrepresented in the literature. In October 2016, Brazil players migrating to top-division European leagues before their 18th birthday totaled 1784.3??Despite the sport's popularity at the youth level, empirical information on the incidence of injuries in Brazil is limited.4?
+Given that soccer is one of the contact sports with the highest rates of injuries,5,6??FIFA has expressed concern about the physical and mental demands placed on soccer players and the association of these demands with injuries.7¡V9??A recent injury-surveillance study10??conducted in the United States recorded 1554 injuries sustained by male college soccer players over 6 seasons. Most of these injuries affected the lower limbs, and the most common injuries were ankle sprains and thigh muscle strains.10?
+Soccer-related injuries appear to be different during training and match play. Authors11??of a Canadian study developed to implement and validate an injury-surveillance system analyzed the injury profiles of youth soccer players at different levels and in different age groups. The risk of injuries in players under 16 years old and those under 18 years old was considerably higher during match play than during training in Divisions 1 and 2.11?
+Regarding injury severity, researchers12??reported that most injuries in a 10-year French study of elite youth soccer players were minor, requiring no more than 2 to 4 days of absence from participation. Using similar injury definitions, Portuguese investigators noted13??a higher proportion of moderate (7 to 28 days of absence from participation) injuries. Still, studies characterizing injuries in Brazilian youth soccer players are lacking.
+Preventive measures are based on epidemiologic research, and the first step in injury prevention is to establish the extent of the injury problem¡Xthe incidence, severity, and injury profile of the sport.14??Considering that injury patterns in soccer might vary in different countries, the aim of our prospective study was to examine the incidence and demographics of sport-related injuries of elite youth soccer players of different age ranges in a Brazilian soccer academy. These results can be used to identify specific targets for preventive interventions and to better allocate resources to reduce injury rates in this popular sport.
+Given the high degree of competitiveness among young players seeking to reach the professional level in Brazil, we hypothesized that players 16 years of age or older would sustain injury profiles similar to those observed in professional soccer players and that the rate of injuries during match play would be higher than during training.
+METHODS
+Study Design and Participants
+A prospective cohort study of a Brazilian first-division youth male soccer academy was conducted during the 2017 season (January 1 to December 31). The study was conducted in the capital city of S?o Paulo in the southeast region of Brazil. All players between the ages of 10 and 20 years who were affiliated with the local soccer federation and had a contractual tie to the club were recruited. Players age 16 years or older had either amateur or professional contracts, and players younger than 16 years had amateur contracts with the team. These contracts prevent players from playing on any other teams.
+Nine age levels composed the population of this study: under 11 (U-11; athletes ?11 years old), under 12 (U-12; 11¡V12 years old), under 13 (U-13; 12¡V13 years old), under 14 (U-14; 13¡V14 years old), under 15 (U-15; 14¡V15 years old), under 16 (U-16; 15¡V16 years old), under 17 (U-17; 16¡V17 years old), under 18 (U-18; 17¡V18 years old), and under 20 (U-20; 17¡V20 years old). At the beginning of the season, 220 players were affiliated with the club. During the year, 19 players left the club and 27 joined. By the end of the season, 228 players were affiliated, and all consented to take part in the study.
+This study was approved by the university's ethics committee, and written informed consent was obtained from each player or the parent or legal representative if the player was under the legal age of consent. Study reporting followed the Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement guidelines.15?
+Definitions
+The definitions and procedures we used were consistent with those recommended in consensus studies of soccer injuries.7,16??The definition of?injury?was ¡§any physical complaint sustained by a player during a soccer match or soccer training that results in a player being unable to take full part in future soccer training or match play (ie, time-loss injury).¡¨7??Injuries not related to soccer were not analyzed, although the time loss from participation for non¡Vsoccer-related injuries was considered for the exposure information. A player was considered injured until the team's medical staff indicated that he could be fully involved in training and was available for match selection.
+Injuries were categorized in terms of event type (training or match play), injury type (noncontact muscle disorder, muscle contusion, ligament sprain, ligament rupture, dislocation/subluxation, tendinopathy, fracture, other bone injury, cartilage injury, meniscus tear, patellofemoral pain, patellar instability, or low back pain), injury location (foot/toes, ankle, lower leg, knee, thigh, hip/groin, lumbar/sacrum/pelvis, abdomen, shoulder, elbow, forearm, hand/fingers, or head/face), number of days lost to injury, and injury severity (minor, mild, moderate, or severe).7,10?
+Medical team members used a simplified Munich classification17??to characterize muscle injuries. Specifically, with the exception of contusions, all muscle complaints were described as noncontact muscle disorders.18?
+Regarding injury mechanism, an injury was considered?traumatic?if it resulted from a specific, identifiable event (ie, an injury of sudden, acute onset caused by body contact or contact with the ball, field, or another object). Traumatic injuries were subclassified into contact and noncontact injuries. Injuries caused by repetitive microtrauma without a single, identifiable event were considered?overuse injuries.7?
+Injury severity was defined according to the number of days lost by the player between the day of the injury and return to full participation in team training and match play.7??Four different categories of severity were used:?minimal?(1¡V3 days lost),?mild?(4¡V7 days lost),?moderate?(8¡V28 days lost), or?severe?(>28 days lost).5?
+A?recurrent injury?was defined as the same type of injury in the same location during the same season and occurring after the player had returned to full participation in soccer.14??Recurrence was classified as?early?when the injury occurred within 2 months of return to full participation in soccer or?late?when it occurred between 2 and 12 months after return.7?
+Injuries that occurred before the 2017 season were not included in this study. However, players were not excluded from the study due to previous injuries. Regarding current injury status, players were considered?injured?if they were not able to participate in a training session or match because of a physical complaint. Players were considered?uninjured?when they were able to participate in a full training session without limitations or complaints. Information about the injuries was recorded daily in an online database to which the first author had access.
+Preseason Procedures
+At the beginning of the season or when joining the club, each player taking part in the study provided baseline information and completed a full medical assessment as recommended by FIFA.7??The club physiologist collected the anthropometric and body composition data for each player. Height, body mass, and skinfold measurements were obtained according to standard procedures.19??Body fat percentage was measured using a highly accurate adipometer (Cescorf, Porto Alegre, Brazil). Eight skinfold thicknesses (triceps, biceps, subscapular, iliac crest, supraspinal, abdominal, anterior thigh, and medial calf) were marked and measured. Total body density was estimated from the sum of the skinfolds, as previously described, and the percentage of body fat was determined.20?
+Recording Injury and Exposure Data
+All injuries during the study period were diagnosed by a single physician who specialized in sports medicine and had 5 years of experience working at the center. A physiotherapist member of the medical team was responsible for recording each injury immediately after the event using a standard injury form.7??Standard procedures were used to reduce possible bias regarding differences in injury interpretation or recall or changes in observation methods among practitioners. The physiotherapist was not involved with the research team.
+Assistant coaches were responsible for completing the training and match exposure forms. The number of sessions, duration of each session, and number of players attending each event were recorded. These data were collected for the whole groups and sent to the first author on a weekly basis. Official match reports were available on the Web sites of the state and national soccer associations, and match exposure information was obtained from these documents. Different methods were used because, depending on the location of the match, the staff was sometimes smaller, and coaches were overloaded with other demands. In this context, we were concerned that asking the already overloaded coaching staff to record exposure data and report back to the research team would be challenging. Therefore, in these situations, the official records were used.
+Data Preparation and Analyses
+Injuries were reported in numbers and percentages according to location, type, mechanism, recurrence, and whether they occurred with or without contact. Descriptive statistics were calculated to characterize the injury profile. We present descriptive and comparative data, including means, medians, standard deviations, interquartile ranges, and 95% confidence intervals (CIs). Initially, the assumption of normality was assessed using the Kolmogorov-Smirnov test, which revealed that these variables were not normally distributed. Injury incidence was calculated as the total number of injuries per 1000 hours of exposure during training, match play, and overall exposure.7??The injury incidence rate ratio and CIs were calculated as the injury incidence rate during match play in relation to training. The £q2?test was used for categorical variables. Associations were investigated between (1) injury severity and age group, (2) injury severity and player position, (3) player position and number of days lost due to injury, (4) injury type and event type, (5) mechanism and event type, and (6) diagnosis and injury severity. If the expected cell frequency in at least 1 cell was less than 10, we used the Fisher exact test to determine statistical significance. Missed participation time due to injury was analyzed using factorial analysis of variance. Bonferroni post hoc multiple-comparisons tests were conducted to verify differences among age groups.
+Relative risks and CIs were calculated for each age group. The?relative risk?is a ratio of the probability of injury in an exposed group versus an unexposed group. For group comparisons, the targeted age group was considered exposed, and the rest of the sample was considered unexposed. We used SPSS (version 20; IBM Corp, Armonk, NY) for data analyses, with a significance level of?P?< .05.
+RESULTS
+The participants' anthropometric characteristics (age, height, body mass, body fat percentage) are presented in?Table 1.
+Table 1
+Players' Anthropometric Data in the 9 Age Groups (Mean ¡Ó SD)
+
+View large
+The exposure and injury incidence results are shown in?Table 2. In total, 100?388 hours of exposure (5995 hours of match play and 94?394 of training) were registered over the season. On average, a player participated in 51 matches and 167 training sessions during the season, including those who joined or left later in the study. The study population's mean overall exposure (match play plus training hours) to soccer during the full season was 11?159 hours, with 650 hours of match play and 10?509 hours of training (median values were 548 and 11?731, respectively).
+Table 2
+Number of Injuries and Incidence (per 1000 hours), by Event Type, Lost Days, and Match Play Missed per Player in the 9 Age Groups During the 2017 Season of a Brazilian First-Division Male Youth Soccer Team
+
+View large
+Injury Incidence and Severity
+Overall, 194 injuries were recorded (Table 2). Of these, 7 were not related to soccer and were not included in the analyses. Hence, 187 injuries in 122 players (65.24%) were recorded during the 2017 season. In total, 4792 days were lost from soccer activities (match play and practice) due to these injuries.
+The overall injury incidence rate observed in this study was 1.86 per 1000 hours of exposure, with a greater than 6-fold higher incidence during match play in relation to training (8.14 and 1.41, respectively; 95% CI = 4.67, 8.76;?P?< .0001;?Table 2). The U-20 age group had the highest injury incidence rate during matches (22.48 per 1000 hours), followed by the U-17 age group (13.66 per 1000 hours). Both age groups also had the highest match exposures during the season: 1023 and 1025 hours, respectively;?Table 2).
+Regarding injury severity, moderate injuries were most frequent (35.3%), followed by severe injuries (29.4%) and minimal injuries (19.8%). Mild injuries accounted for 15.5% of all injuries. Fractures represented 23.0% of severe injuries, followed by ligament sprains (18.2%). The different age groups were similar in terms of injury severity (£q224?= 27.59,?P?= .277).
+Although midfielders sustained a greater number of injuries (n = 61) and lost more days of participation (n = 1520) than other positions, the number of days lost was not different among player positions (F?= 2.589,?P?= .629;?Figure), and player position was not related to injury severity (£q218?= 14.242,?P?= .713).
+Figure
+
+View largeDownload slide
+Distribution of the number of injuries and days lost by player position during the 2017 season for a Brazilian first-division male youth soccer team.
+The relative risk was higher in U-20 and U-17 players than in the other age groups (Table 3). The 95% CI for the remaining age groups combined spanned 1, indicating that this value did not reach statistical significance.
+Table 3
+Relative Risk of Injurya?and 95% Confidence Interval Among the 9 Age Groups
+
+View large
+Injury Type, Location, and Mechanism
+Noncontact muscle disorders were the most common injury type (26.2%), followed by ligament sprains (23.5%). Contusions (15.5%) were the third most frequent injury type, followed by tendinopathy (10.2%), while injuries classified as patellofemoral pain (1.1%) or patellar instability (0.5%) were seen least often (Table 4). Injury type was significantly associated with match play and training (£q214?= 28.406,?P?= .013).
+Table 4
+Distribution of Injury Type and Location by Event Type During the 2017 Season of a Brazilian First-Division Male Youth Soccer Team
+
+View large
+The thigh was the most affected location (25.7%), followed by the knee (23.0%) and ankle (19.3%). The forearm, elbow, and abdomen were the locations injured least often (0.5%;?Table 4). These locations were more frequently affected during training than during match play (£q212?= 25.71,?P?= .012).
+Traumatic injuries represented 68% of all injuries and were more frequent than overuse injuries during both match play and training (£q21?= 3.76,?P?= .05). Most traumatic injuries (59%) involved direct contact with another player (£q21?= 59.161,?P?< .0001). The incidence rates of traumatic injuries were 6.84 per 1000 hours of match play and 0.69 per 1000 hours of training. Noncontact injuries (60%) occurred more often than contact injuries (40%). All ankle injuries were traumatic, and about 66% (n = 15) involved collision with an opponent.
+Ankle/foot sprain was the most common diagnosis (0.34 per 1000 hours), followed by hamstrings muscle injury (0.25 per 1000 hours) and lower leg contusion (0.25 per 1000 hours;?Table 5). The majority of the injuries during the season (n = 65, 34.7%) were classified as moderate (7¡V28 days lost; £q266?= 105.48,?P?= .001).
+Table 5
+Diagnoses Made by the Medical Department, Number of Injuries, Injury Incidence Rate and Mean Absent Days in the Study Sample
+
+View large
+Throughout the season, only 18 (9.6%) recurrent injuries were recorded. Of these, 10 were classified as early recurrence and 8 as late recurrences. A total of 799 (median = 12.5 [interquartile range = 5¡V30]) days were lost to recurrent injuries. No data were missing and no players were lost to follow-up.
+DISCUSSION
+To our knowledge, this is the first prospective study to report the incidences and patterns of injury among Brazilian youth soccer players. The definitions of injury and injury severity were consistent with those used in other epidemiologic studies21,22??involving first-division youth soccer.
+The rate of 1.8 injuries per player per season in this study was higher than that in first-division English youth soccer players (0.4 per player per season)23??and lower than that in first-division French youth soccer players (4.8 per player per season).12??However, the English study23??involved 4773 players between 9 and 19 years old from 38 soccer academies, whereas the French study12??involved only 66 players between 14 and 16 years old from the National Institute of Football. Differences in age ranges and levels of play may explain these distinct injury rates among studies.
+We noted a difference in injury rates between training and matches, which was consistent with other studies.6,10,24??When expressed in terms of exposure time, the injury rates were 8.2 per 1000 match hours and 1.4 per 1000 training hours. The injury incidence rate was highest in the U-20 players during match play and highest in the U-17 players during training. These rates are comparable with previous data on high-level adolescent players that were obtained using similar methods.12,13??Brito et al13??registered 4.7 injuries per 1000 hours of match exposure and 0.9 injuries per 1000 hours of training exposure. Le Gall et al12??found rates of 11.2 and 3.9 injuries per 1000 hours of match and training exposures, respectively. Although Le Gall et al12??observed that the overall incidence of injury did not increase with age and the incidence of injury during matches and training did not differ among age groups, the relative risk of injury increased with age.12?
+Indeed, match intensity and aggressiveness tended to increase with age,13??which might explain the differences in the incidence of injury between training and matches observed among our 9 age groups. Another factor that might explain the higher injury incidence in the older adolescents was the participation of the U-17 and U-20 players in international competitions and the most important national championships. This may also account for the higher incidence of match play injuries seen in these groups, which are comparable with data reported in research on the Union of European Football Associations (27.5 injuries per 1000 hours of exposure).21??From another point of view, these are considered transitional age groups: players need to adapt to higher levels of competitiveness and more external pressure, as this is the age range when most professional contracts are signed.25??The higher incidence of injury in this population highlights the importance of preventive interventions in older adolescents.
+Our injury-severity results differed from findings12,26??in youth players. Although we recorded more moderate injuries (35.3%), Peterson et al27??reported milder (52%) and less severe (15%) injuries in European soccer players aged 9 to 19 years. Le Gall et al12??also found more minor (31%) than severe (9.9%) injuries in French youth soccer players aged 14 to 16 years. Perhaps the different definitions of injury adopted by these authors can explain the conflicting results. Peterson et al27??defined?injury?as any tissue damage caused by soccer, regardless of the absence from training or a match, which could have increased the number of minor injuries. Moreover, the populations of different age ranges and skill levels, including amateur athletes, may have served as confounders. In relation to average days lost and competitive matches missed because of injury, our results were in line with previous data.23??Our players lost 25.62 ¡Ó 40.15 days of practice and missed 3.32 ¡Ó 6.62 matches, whereas players in the study by Price et al23??lost 21.9 ¡Ó 33.63 days of practice and missed 2.31 ¡Ó 3.66 matches.
+Most injuries in our study affected the lower limbs, which was consistent with other reports10,22??of soccer injuries. The thigh was the most common location injured. A similar proportion of thigh injuries (30%) was seen in elite youth Portuguese soccer players.13??Noncontact muscle disorder, ligament sprain, and contusion were the most frequent injury types in our investigation. Noncontact muscle disorder was the main cause of absence from both play during matches (30.9%) and training (24.2%), which was consistent with data on adolescent players in the English Premier League.28?
+Several groups10,13,22,23??have described muscle strains or ruptures as the most prevalent injury type in soccer. Previous researchers5??commented that the risk for this injury would be greater among older boys because they are faster, heavier, and stronger and generate more force on contact. Indeed, 77.5% of all noncontact muscle disorders were sustained by players older than 15 years. In addition, the greater exposure time in matches and training among the older groups was associated with a higher risk for muscle injury due to fatigue.29??The high frequency of noncontact muscle disorders observed among the U-20 (32%) and U-17 (26%) groups supports this assumption. Preventive strategies should focus on noncontact muscle injuries in this population because these values are comparable with those for professional players and previous muscle injury is recognized as one of the most important predictors of reinjury.30??A noncontact muscle injury at the youth level may increase the risk of an injury in the same location later in a player's career. In this context, preventing a primary muscle injury should be a priority for first-division youth soccer players.
+We found that noncontact injuries (60%) were more frequent than contact injuries (40%), which corroborates earlier findings28??in a similar population. All ankle injuries were traumatic, and approximately 66% (n = 15) involved collision with an opponent, which is consistent with observations of professional soccer players.31??Andersen et al31??noted that 17 of 26 ankle injuries (65%) reported and analyzed during 2 consecutive soccer seasons involved contact between players. Higher levels of aggressiveness and player contact are expected among older players, which might be associated with the higher proportion of ankle injuries in the U-17 and U-20 age groups.13?
+Previous researchers6??indicated that the knee was also a commonly affected injury site in youth soccer players. Our results demonstrated that 23% (n = 43) of all injuries affected the knee joint, and most of these were classified as mild or moderate. Only 2 anterior cruciate ligament (ACL) injuries (1%, 0.02 injuries per 1000 hours of exposure) occurred in 2 players (0.9%) during the season; 1 of these was a recurrent injury. Similar findings were presented in a study of young male soccer players12?: 12% of all injuries affected the knee and only 1 ACL injury was reported. Regarding recurrent ACL injury, a systematic review32??showed that the ACL rupture rate was approximately 35 times higher in athletes with an ACL reconstruction, especially in younger athletes who returned to sport, than in uninjured participants. Although the number of ACL injuries in our study was very low, 1 in 2 was recurrent, and the average time lost from sport was 270 days. Given the severity of ACL injuries in terms of days lost during a crucial phase in the development of technical and physical skills, preventing a subsequent injury should be a priority for young players who have undergone ACL reconstruction.
+Recurrent injuries accounted for 12% of all documented injuries in the study of the Union of European Football Associations.21??Previous injuries, inadequate rehabilitation, and incomplete healing have been associated with recurrent injuries.21,33??In youth soccer players, the proportion of recurrent injuries was much lower (3%), with most recurrent injuries being strains and sprains.12,22??Among our players, 18 (9%) recurrent injuries occurred. The U-11, U-12, and U-13 groups had no recurrent injuries, and 50% of the recurrent injuries overall affected the U-17 and U-20 groups combined. The lower injury incidence in the younger groups may reflect their lower level of exposure. In addition, youth players experience less pressure to return to competition than professionals. This increases the likelihood that younger athletes will complete their rehabilitation programs and achieve return-to-sport criteria before resuming play.23?
+Recent attention34??has been directed at concussion and head injuries experienced by soccer players. Consequently, reporting of these injuries sustained by youth players has become compulsory. Across our groups, head injuries represented 1.1% of all injuries, which corresponds to an incidence rate of 0.01 per 1000 exposure hours. These results are comparable with those in age-matched Portuguese players (1.4% injuries involved the head, with an incidence rate of 0.07 per 1000 hours).13??During the 2017 season, no concussion was reported among the 9 age groups we investigated.
+An advantage of studies at the first-division level is that official match data are published on the local soccer association Web site. We believe our match exposure data were accurate as they were regularly verified against official reports on reliable Web sites. Regarding training exposure, we had to rely on the accuracy and consistency of the assistant coaches' reporting. However, to calculate the exact injury incidence, the number of training hours should be documented for each player. Information missed by the staff would likely alter the actual injury incidence. An electronic system for monitoring player attendance may be a better option to reduce this information bias.
+A limitation of this study and of injury-surveillance studies in general is that the injuries are only recorded, and therefore, their exact causes cannot be established.14,35??However, preventive programs are based on epidemiologic research, and the first step in injury prevention is to establish the injury incidence, severity, and profile in the sport.14,35??Our work was also limited by the short period of follow-up. Continuous data will allow for the observation of specific trends, implementation of strategies to prevent injury based on those findings, and refinement of future epidemiologic research.
+CONCLUSIONS
+The incidence, type, and nature of injuries in elite Brazil youth players were comparable with those reported in other studies6,10,24??on youth soccer players. The injury risk was 6-fold greater during matches than during training. The injury incidence was also greater during matches than during training, and the oldest age group (U-20) had the highest injury rate during matches, while the U-17 group had the highest injury rate during training (22.48 and 3.05 per 1000 hours, respectively). Muscle injuries had a higher incidence in older athletes, and the rates were similar to those previously reported in professional players. Additionally, the number of injuries during training was high compared with match play; types of training need to be investigated so that injury prevention can be improved.
+
+REFERENCES
+1
+Kunz
+?
+M.
+?
+265 million playing football
+.?
+FIFA Magazine
+.?
+July
+?
+2007
+;
+11
+¡V
+13
+.
+Google Scholar
+?
+2
+Poli
+?
+R
+,?
+Ravenel
+?
+L
+,?
+Besson
+?
+R.
+?
+Exporting countries in world football
+.?
+CIES Football Observ Month Rep
+.?
+2015
+;
+8
+:
+1
+¡V
+11
+.
+Google Scholar
+?
+3
+Poli
+?
+R
+,?
+Ravenel
+?
+L
+,?
+Besson
+?
+R.
+?
+June 2016 transfer values and probabilities: the CIES Football Observatory approach
+.?
+CIES Football Observ Month Rep
+.?
+2016
+;
+16
+:
+1
+¡V
+11
+.
+Google Scholar
+?
+4
+Ribeiro
+?
+RN
+,?
+Vila?a
+?
+F
+,?
+Oliveira
+?
+HU
+,?
+Vieira
+?
+LS
+,?
+Silva
+?
+AA
+.?
+Preval?ncia de les?es no futebol em atletas jovens: estudo comparativo entre diferentes categorias
+.?
+Rev Bras Educ F?sica e Esporte
+.?
+2007
+;
+21
+(
+3
+):
+189
+¡V
+194
+.
+Google Scholar
+?
+5
+Fuller
+?
+CW
+,?
+Ekstrand
+?
+J
+,?
+Junge
+?
+A
+, et al.?
+Consensus statement on injury definitions and data collection procedures in studies of football (soccer) injuries
+.?
+Scand J Med Sci Sports
+.?
+2006
+;
+16
+(
+2
+):
+83
+¡V
+92
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+6
+Fuller
+?
+CW
+,?
+Junge
+?
+A
+,?
+Decelles
+?
+J
+,?
+Donald
+?
+J
+,?
+Jankelowitz
+?
+R
+,?
+Dvorak
+?
+J.
+?
+¡§Football for Health¡¨: a football-based health-promotion programme for children in South Africa. A parallel cohort study
+.?
+Br J Sports Med
+.?
+2010
+;
+44
+(
+8
+):
+546
+¡V
+554
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+7
+Dvorak
+?
+J
+,?
+Junge
+?
+A.
+?
+Twenty years of the FIFA Medical Assessment and Research Centre: from ¡§Medicine for Football¡¨ to ¡§Football for Health¡¨
+.?
+Br J Sports Med
+.?
+2015
+;
+49
+(
+9
+):
+561
+¡V
+563
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+8
+Caine
+?
+D
+,?
+Maffulli
+?
+N
+,?
+Caine
+?
+C.
+?
+Epidemiology of injury in child and adolescent sports: injury rates, risk factors, and prevention
+.?
+Clin Sports Med
+.?
+2008
+;
+27
+(
+1
+):
+19
+¡V
+50
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+9
+Koutures
+?
+CG
+,?
+Gregory
+?
+AJM
+;?
+American Academy of Pediatrics Council on Sports Medicine and Fitness. Injuries in youth soccer
+.?
+Pediatrics
+.?
+2010
+;
+125
+(
+2
+):
+410
+¡V
+414
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+10
+Roos
+?
+KG
+,?
+Wasserman
+?
+EB
+,?
+Dalton
+?
+SL
+, et al.?
+Epidemiology of 3825 injuries sustained in six seasons of National Collegiate Athletic Association men's and women's soccer (2009/2010-2014/2015)
+.?
+Br J Sports Med
+.?
+2016
+;
+51
+(
+13
+):
+1029
+¡V
+1034
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+11
+Emery
+?
+CA
+,?
+Meeuwisse
+?
+WH
+,?
+Hartmann
+?
+SE
+.?
+Evaluation of risk factors for injury in adolescent soccer: implementation and validation of an injury surveillance system
+.?
+Am J Sports Med
+.?
+2005
+;
+33
+(
+12
+):
+1882
+¡V
+1891
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+12
+Le Gall
+?
+F
+,?
+Carling
+?
+C
+,?
+Reilly
+?
+T
+,?
+Vandewalle
+?
+H
+,?
+Church
+?
+J
+,?
+Rochcongar
+?
+P.
+?
+Incidence of injuries in elite French youth soccer players: a 10-season study
+.?
+Am J Sports Med
+.?
+2006
+;
+34
+(
+6
+):
+928
+¡V
+938
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+13
+Brito
+?
+J
+,?
+Malina
+?
+RM
+,?
+Seabra
+?
+A
+, et al.?
+Injuries in Portuguese youth soccer players during training and match play
+.?
+J Athl Train
+.?
+2012
+;
+47
+(
+2
+):
+191
+¡V
+197
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+14
+van Mechelen
+?
+W
+,?
+Hlobil
+?
+H
+,?
+Kemper
+?
+HCG
+.?
+Incidence, severity, aetiology and prevention of sports injuries: a review of concepts
+.?
+Sports Med
+.?
+1992
+;
+14
+(
+2
+):
+82
+¡V
+99
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+15
+von Elm
+?
+E
+,?
+Altman
+?
+DG
+,?
+Egger
+?
+M
+,?
+Pocock
+?
+SJ
+,?
+G?tzsche
+?
+PC
+,?
+Vandenbroucke
+?
+JP
+;?
+STROBE
+?
+Initiative
+.?
+The Strengthening the Reporting of Observational Studies in Epidemiology (STROBE) statement: guidelines for reporting observational studies
+.?
+J Clin Epidemiol
+.?
+2008
+;
+61
+(
+4
+):
+344
+¡V
+349
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+16
+H?gglund
+?
+M
+,?
+Wald?n
+?
+M
+,?
+Bahr
+?
+R
+,?
+Ekstrand
+?
+J.
+?
+Methods for epidemiological study of injuries to professional football players: developing the UEFA model
+.?
+Br J Sports Med
+.?
+2005
+;
+39
+(
+6
+):
+340
+¡V
+346
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+17
+Mueller-Wohlfahrt
+?
+H-W
+,?
+Haensel
+?
+L
+,?
+Mithoefer
+?
+K
+, et al.?
+Terminology and classification of muscle injuries in sport: the Munich consensus statement
+.?
+Br J Sports Med
+.?
+2013
+;
+47
+(
+6
+):
+342
+¡V
+350
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+18
+Ueblacker
+?
+P
+,?
+Mueller-Wohlfahrt
+?
+H-W
+,?
+Ekstrand
+?
+J.
+?
+Epidemiological and clinical outcome comparison of indirect (¡§strain') versus direct (¡§contusion¡¨) anterior and posterior thigh muscle injuries in male elite football players: UEFA Elite League study of 2287 thigh injuries (2001¡V2013)
+.?
+Br J Sports Med
+.?
+2015
+;
+49
+(
+22
+):
+1461
+¡V
+1465
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+19
+Stewart
+?
+A
+,?
+Marfell-Jones
+?
+M
+,?
+Olds
+?
+T
+,?
+de Ridder
+?
+H.
+?
+International Standards for Anthropometric Assessment
+.?
+Lower Hutt, New Zealand
+:?
+International Society for the Advancement of Kinanthropometry;
+?
+2011
+:
+125f
+.
+20
+Durnin
+?
+JV
+,?
+Womersley
+?
+J.
+?
+Body fat assessed from total body density and its estimation from skinfold thickness: measurements on 481 men and women aged from 16 to 72 years
+.?
+Br J Nutr
+.?
+1973
+;
+32
+(
+1
+):
+77
+¡V
+97
+.
+Google Scholar
+Crossref
+??
+?
+21
+Ekstrand
+?
+J
+,?
+Hagglund
+?
+M
+,?
+Walden
+?
+M.
+?
+Injury incidence and injury patterns in professional football: the UEFA injury study
+.?
+Br J Sports Med
+.?
+2011
+;
+45
+(
+7
+):
+553
+¡V
+558
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+22
+Lundblad
+?
+M
+,?
+Wald?n
+?
+M
+,?
+Magnusson
+?
+H
+,?
+Karlsson
+?
+J
+,?
+Ekstrand
+?
+J.
+?
+The UEFA injury study: 11-year data concerning 346 MCL injuries and time to return to play
+.?
+Br J Sports Med
+.?
+2013
+;
+47
+(
+12
+):
+759
+¡V
+762
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+23
+Price
+?
+RJ
+,?
+Hawkins
+?
+RD
+,?
+Hulse
+?
+MA
+,?
+Hodson
+?
+A.
+?
+The Football Association medical research programme: an audit of injuries in academy youth football
+.?
+Br J Sports Med
+.?
+2004
+;
+38
+(
+4
+):
+466
+¡V
+471
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+24
+Junge
+?
+A
+,?
+R?sch
+?
+D
+,?
+Peterson
+?
+L
+,?
+Graf-Baumann
+?
+T
+,?
+Dvorak
+?
+J.
+?
+Prevention of soccer injuries: a prospective intervention study in youth amateur players
+.?
+Am J Sports Med
+.?
+2002
+;
+30
+(
+5
+):
+652
+¡V
+659
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+25
+Duval
+?
+A.
+?
+The FIFA regulations on the status and transfer of players: transnational law-making in the shadow of Bosman
+.?
+In
+:?
+Duval
+?
+A
+,?
+Van Rompuy
+?
+B
+,?
+eds
+.?
+The Legacy of Bosman: Revisiting the Relationship Between EU Law and Sport. ASSER International Sports Law Series
+.?
+The Hague, the Netherlands
+:?
+T.M.C. Asser Press
+;?
+2016
+:
+81
+¡V
+116
+.
+Google Scholar
+?
+26
+Marshall
+?
+DA
+,?
+Lopatina
+?
+E
+,?
+Lacny
+?
+S
+,?
+Emery
+?
+CA
+.?
+Economic impact study: neuromuscular training reduces the burden of injuries and costs compared to standard warm-up in youth soccer
+.?
+Br J Sports Med
+.?
+2016
+;
+50
+(
+22
+):
+1388
+¡V
+1393
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+27
+Peterson
+?
+L
+,?
+Junge
+?
+A
+,?
+Chomiak
+?
+J
+,?
+Graf-Baumann
+?
+T
+,?
+Dvorak
+?
+J.
+?
+Incidence of football injuries and complaints in different age groups and skill-level groups
+.?
+Am J Sports Med
+.?
+2000
+;
+28
+(
+suppl 5
+):
+S51
+¡V
+S57
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+28
+Renshaw
+?
+A
+,?
+Goodwin
+?
+PC
+.?
+Injury incidence in a Premier League youth soccer academy using the consensus statement: a prospective cohort study
+.?
+BMJ Open Sport Exerc Med
+.?
+2016
+;
+2
+(
+1
+):
+e000132
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+29
+Cloke
+?
+D
+,?
+Moore
+?
+O
+,?
+Shab
+?
+T
+,?
+Rushton
+?
+S
+,?
+Shirley
+?
+MDF
+,?
+Deehan
+?
+DJ
+.?
+Thigh muscle injuries in youth soccer: predictors of recovery
+.?
+Am J Sports Med
+.?
+2012
+;
+40
+(
+2
+):
+433
+¡V
+439
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+30
+Freckleton
+?
+G
+,?
+Cook
+?
+J
+,?
+Pizzari
+?
+T.
+?
+The predictive validity of a single leg bridge test for hamstring injuries in Australian Rules football players
+.?
+Br J Sports Med
+.?
+2014
+;
+48
+(
+8
+):
+713
+¡V
+717
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+31
+Andersen
+?
+TE
+,?
+Floerenes
+?
+TW
+,?
+Arnason
+?
+A
+,?
+Bahr
+?
+R.
+?
+Video analysis of the mechanisms for ankle injuries in football
+.?
+Am J Sports Med
+.?
+2004
+;
+32
+(
+suppl 1
+):
+69S
+¡V
+79S
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+32
+Wiggins
+?
+AJ
+,?
+Grandhi
+?
+RK
+,?
+Schneider
+?
+DK
+,?
+Stanfield
+?
+D
+,?
+Webster
+?
+KE
+,?
+Myer
+?
+GD
+.?
+Risk of secondary injury in younger athletes after anterior cruciate ligament reconstruction: a systematic review and meta-analysis
+.?
+Am J Sports Med
+.?
+2016
+;
+44
+(
+7
+):
+1861
+¡V
+1876
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+33
+Fuller
+?
+CW
+,?
+Walker
+?
+J.
+?
+Quantifying the functional rehabilitation of injured football players
+.?
+Br J Sports Med
+.?
+2006
+;
+40
+(
+2
+):
+151
+¡V
+157
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+34
+Yang
+?
+J
+,?
+Peek-Asa
+?
+C
+,?
+Covassin
+?
+T
+,?
+Torner
+?
+JC
+.?
+Post-concussion symptoms of depression and anxiety in Division I collegiate athletes
+.?
+Dev Neuropsychol
+.?
+2015
+;
+40
+(
+1
+):
+18
+¡V
+23
+.
+Google Scholar
+Crossref
+??
+PubMed
+?
+35
+Vriend
+?
+I
+,?
+Gouttebarge
+?
+V
+,?
+Finch
+?
+CF
+,?
+van Mechelen
+?
+W
+,?
+Verhagen
+?
+EALM
+.?
+Intervention strategies used in sport injury prevention studies: a systematic review identifying studies applying the Haddon Matrix
+.?
+Sports Med.
+?
+2017
+:
+47
+(
+10
+):
+2027
+¡V
+2043
+.
+

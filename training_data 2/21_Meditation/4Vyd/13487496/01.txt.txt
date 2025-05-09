@@ -1,0 +1,1079 @@
+                                             Environmental Impact Assessment Review 99 (2023) 107012
+
+                                                     Contents lists available at ScienceDirect 
+
+                                    Environmental Impact Assessment Review 
+
+                                               journal homepage: www.elsevier.com/locate/eiar 
+
+
+Exploring the heterogeneity in drivers of energy-saving behaviours among 
+hotel guests: Insights from the theory of planned behaviour and 
+personality profiles 
+
+Qian-Cheng Wang         a, Yi-Tian Ren     b, Xuan Liu    c,*, Rui-Dong Chang        d, Jian Zuo    d 
+
+a Department of Land Economy, University of Cambridge, Cambridge CB3 9EP, United Kingdom 
+b Department of Planning and Environmental Management, The University of Manchester, Manchester M13 9PL, United Kingdom 
+c Department of the Built Environment, Eindhoven University of Technology, Eindhoven 5600MB, the Netherlands 
+d School of Architecture & Built Environment, University of Adelaide, Adelaide, Australia   
+
+
+ARTICLE INFO                                  ABSTRACT  
+
+Keywords:                                     Guest behaviour is important in driving hotel energy consumption, operating cost and environmental issues. 
+Energy-saving behaviour                       Promoting energy-saving behaviours of guests is a promising strategy for the sustainable development of the 
+Behavioural habit                             hospitality industry. This research aims to explore the roles of personality profilesin  individual heterogeneity in 
+Moral norm 
+                                              drivers of energy-saving behaviours among hotel guests. The study is based on a three-step research roadmap: 
+Big five personality traits 
+                                              First, we review existing literature on hotel energy-saving behaviour and intervention and construct an extended 
+Personality profile 
+Theory of planned behaviour                   theory of planned behaviour model to explore the relationship between personality and energy-saving behav­
+                                              iours. Second, the research conducts a survey to identify the critical factors in the model and sets up four per­
+                                              sonality profilesfor  the respondents and compares the effects of critical factors upon respondents’ energy-saving 
+                                              behaviours among different personality profile groups. Third, the study further conducts a follow-up survey on 
+                                              the subjective promoters and barriers of hotel energy-saving behaviours, where a descriptive analysis is 
+                                              employed to validate the findings. The findings reveal that personality profiles lead to varying effects of all 
+                                              critical factors in influencing the energy-saving behaviours of hotel guests. The research empirically demon­
+                                              strates the important roles of personality profilesand  household habits in shaping the energy behaviours of hotel 
+                                              guests and provides a novel view of understanding the heterogeneity of energy-saving behaviours in the hos­
+                                              pitality industry. The study contributes to environmental behavioural theory by adding normative indicators and 
+                                              habit factors. Also, the study classifies the respondents into groups according to personality characteristics and 
+                                              demonstrates the significant role of personality. The research applies a follow-up study that can provide factual 
+                                              evidence to support the result of previous hypothetical testing. The findings provide valuable references to the 
+                                              development of tailored smart energy intervention measurements and management tools for hotel buildings.   
+
+
+1. Introduction                                                            hospitality sector. In particular, global climate change can reshape the 
+                                                                           existing tourism resources: for example, the environmental decline can 
+   The  interaction between  the hospitality and tourism industry and      reduce tourist attraction (Amelung  and Nicholls, 2014), the frequent 
+climate change has gained wide discussions in the research community.      occurrence of extreme weather can lead to a recession in the tourism 
+On  the one hand,  the hospitality sector is an important resource for     market (Bigano et al., 2005), and the rising energy prices further push up 
+consumers.  The hospitality and tourism  industry generated  10.4%  of     hotel operation costs. 
+global GDP before the COVID-19 pandemic (World Travel and Tourism             The research community and hospitality industry have noticed the 
+Council, 2021), while  each hotel stays directly consumes  272  MJ  of     threat of climate change and the urgent need to respond to unfolding 
+                                                                                                                             ¨
+energy  and 350  L of water  and  emits 13.8 kg  of CO2  emissions on      environmental challenges (Han, 2021; Scott and Gossling, 2021). The 
+average (Gossling¨  and Peeters, 2015). On the other hand, environmental   industry has formulated various strategies to transform the current hotel 
+issues have   posed  critical challenges  upon  the  development    of     operation model   into more  environmentally   friendly and resource- 
+
+
+ * Corresponding author. 
+   E-mail address: x.liu1@tue.nl (X. Liu).  
+
+https://doi.org/10.1016/j.eiar.2022.107012 
+Received 20 September 2022; Received in revised form 19 November 2022; Accepted 8 December 2022   
+Available online 27 December 2022
+0195-9255/© 2022 The Authors. Published by Elsevier Inc. This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+Q.-C. Wang et al.                                                                                                                                                                      Environmental                      Impact           Assessment                 Review       99 (2023) 107012
+
+neutral ones. For example, some policymakers have put efforts to pro­      the current behaviour-driven  energy conservation  strategies in hotels 
+mote passive designs and energy-efficient techniques in hotels (Ayoub      and develops the hypotheses based on literature review. Section 3 in­
+et al., 2014). Besides, some   researchers noted  that reducing  non-      troduces the measures, data collection and analysis methods. Section 4 
+essential services can be another strategy to reduce resources and en­     then illustrates the analysis results. Section 5 discusses the results and 
+ergy consumption   (Wells et al., 2016; Schien et al., 2021; Zhao and      implications and  then  addresses  the  limitations, followed by  the 
+Zhou, 2021). However, the monetary and time investment for energy          conclusion in Section 6. 
+efficiency retrofits and the reduced service quality could be an extra 
+burden for practitioners, especially in developing countries where the     2. Establishment of hypothesis and theoretical model 
+hospitality industry is under fast-growing (Lopez-Bernab´ e´ et al., 2021). 
+   Several  studies  argued  that  the environmentally   irresponsible        This section aims to establish hypotheses and a theoretical model as 
+behaviour  of guests is the root cause of excessive consumption   and      the building block to explore the relationship between personality pro­
+pollution in the hospitality industry (Bohdanowicz,   2006; Budovska       files and pro-environmental behaviours in the hospitality industry. 
+et al., 2020;  Han,   2021;  Wang   et  al., 2021b).  Promoting   pro- 
+environmental behaviours (PEBs) of guests is another promising strat­      2.1. Behaviour-driven conservation in hotels 
+egy for sustainable hotels (Budovska  et al., 2020; Han  et al., 2020; 
+Tiefenbeck  et al., 2019). Behaviour-driven conservation methods   are        In the household and community context, residents have internalised 
+usually low-cost and fast-acting (Wang et al., 2021b; Xu et al., 2021a,    several pro-environmental   habits, such as  turning off  unnecessary 
+2021b), and present feasibility in the hospitality sector (Budovska et al., lighting, eco-friendly A/C temperature settings, and responsible usage of 
+2020; Cvelbar et al., 2017; Goldstein et al., 2008; Mair and Bergin-Seers, waster heaters (Miao and Wei, 2013; Wang et al., 2021b). Yet, people 
+2010).  Therefore, it is important  to  understand  the psychological      often show  significant differences between their PEB performance   at 
+mechanisms and critical factors that drive hotel guests’ energy-saving     home and in hotels (Budovska et al., 2020; Miao and Wei, 2013; Ram 
+behaviour (Hevar and Aslihan, 2023). In discussions on PEB, the the­       et al., 2014). The irresponsible energy consumption of hotel guests has 
+ory of planned behaviour (TPB) has been the most widely used theo­         created a huge environmental burden (Dolnicar et al., 2017; Nisa et al., 
+retical framework  (Budovska  et al., 2020; Han et al., 2018; Han and      2017). Therefore, it is necessary for the hospitality industry to develop 
+Yoon, 2015; Paul et al., 2016). In the hospitality field, Budovska et al.  energy management    strategies to reduce energy  and resource  waste 
+(2020)  adopted  TPB  to explain the towel  reuse behaviours  of hotel     driven by guest behaviour. 
+guests and predict the effects of different intervention strategies. Also,    There are some reported practices to reduce behaviour-driven energy 
+some studies employed extended TPB to investigate the drivers of water-    waste in the guest room with  in-room electricity control systems (Ali 
+saving (Gabarda-Mallorquí et al., 2021; Han et al., 2020) and food waste   et al., 2008; Chan et al., 2017; Lammi and Tesfaye, 2021). These control 
+reducing and recycling (Salama and Abdelsalam, 2021) in hotels.            systems include smart  key-cards and room   occupancy  sensors, which 
+   Many   empirical PEB  studies observe significant individual hetero­    allow the electrical system to only power the occupied guest room (Chan 
+geneity: For example,  a  PEB  intervention may  present  significantly    et al., 2017; Nicholls and Kang, 2012). Chan et al. (2017) reported that 
+different effects across individuals (F. Chen et al., 2018; DellaValle and these technologies could reduce 20–40% of guest room electricity con­
+Zubaryeva, 2019; Scheibehenne et al., 2016). These heterogeneities are     sumption. However,   it also found significant guests complained  that 
+partly attributed to the individual differences in the perception of psy­  these tools reduced the room comfort. For example, occupancy sensors 
+chological drivers due to their differences in demographic factors (Han    usually fail to detect quiet guests and thus mistakenly cut power to their 
+et al., 2011), cultural background (Choi et al., 2009) and values (Chen    rooms. As  a result, many hoteliers concerned that these technologies 
+et al., 2018). Personality traits are the long-term stable patterns in     might reduce guest satisfaction with the hotel, and in turn damage the 
+cognition, thinking and  feeling among  people  (Goldberg, 1993)  and      core business environment (Buckley, 2012; Chan et al., 2017; Nikolaou 
+have been long recognised as a potential cause of the observed hetero­     et al., 2012). Also, for hotels that are already in operation, updating 
+geneity (Cao  and  Chen,  2021; Markowitz   et al., 2012; Poˇskus and      electrical systems and installing compliant equipment may also result in 
+ˇ
+Zukauskiene,˙  2017). For instance, Wang  et al. (2021a) reported  the     reduced revenue (Nikolaou et al., 2012). 
+direct correlations between personality traits and all three TPB factors      Another  widely-used strategy is promoting  PEB of hotel guests by 
+towards household energy-saving behaviour. Also, Cao and Chen (2021)       behavioural interventions (M. K. M.  Chan  et al., 2022; Chang, 2016; 
+noted  a unique  interaction between   personality characteristics and     Dolnicar et al., 2017; Goldstein et al., 2008; Huang et al., 2014; Mair and 
+subjective norms towards air pollution mitigation behaviour. However,      Bergin-Seers, 2010). The  PEB  interventions can be divided  into two 
+these studies only focused on  the effect of single personal traits but    categories: (1) information-based interventions, and (2) benefit-driven 
+might  overlook interactions between  personality dimensions. Consid­      incentives. The information-based  methods   present guests with spe­
+ering the complexity of personality, understanding the combined effects    cificinformation  (usually by messages and notes) and promote PEBs by 
+of intertwined personality traits is critical for PEB interventions, espe­ stimulating their pro-environmental intention. The typical information- 
+cially in the hospitality practice.                                        based interventions include environmental appeals (Baca-Motes et al., 
+   Given the important role hospitality industry plays in contributing to  2013; Dolnicar  et al., 2017), pro-environmental  reminders  and tips, 
+the goal of carbon  neutrality and the imminent  energy  issues (Chen,     normative messages (Mair and Bergin-Seers, 2010), and nudges (Chang, 
+2021; Scott and Gossling,¨  2021), it is necessary to explore the combined 2016). Saving money and personal interests are usually considered core 
+effects of personality traits in the individual heterogeneity of energy-   drivers of PEBs  (Juvan and  Dolnicar, 2014).  The  benefit-driven in­
+saving behaviours  in the hotel context. This  research, therefore, at­    centives provide monetary benefitsto  encourage guests to conduct PEBs. 
+tempts to generate three major contributions in the area. First, identi­   Typical  benefit-driven incentives  include  discounts, rewards   and 
+fying the critical roles of psychological and habitual driving factors in  vouchers (Chan  et al., 2022), donations (Shang  et al., 2010; Warren 
+energy-saving behaviours of hotel guests. Second, setting up personal­     et al., 2017), and energy-saving options (Xu et al., 2023). For example, 
+ity profilesfor  hotel guests. Third, exploring the individual behavioural commitments   to donate  the resultant savings can significantly boost 
+heterogeneity of hotel guests with personality profiles. Understanding     PEBs of guests (Warren et al., 2017). However, empirical studies often 
+the inherent driving forces and personality mechanism of energy-saving     observe diametrically opposite results for similar intervention strategies. 
+behavioural heterogeneity among guests can contribute to hotel energy      For example,  while Chan  et al. (2022) found the monetary  incentive 
+intervention setting and policymaking, and consequently, boosting the      approach  is the most powerful  intervention, Huang  et al. (2014) re­
+sustainable development of the hospitality and tourism industry.           ported the same  intervention has  no effect on PEBs  of guests. Also, 
+   The rest of this paper is structured as follows: Section 2 summarises   Dolnicar et  al. (2017) employed   pro-environmental   appeals  as an 
+
+                                                                        2
+Q.-C. Wang et al.                                                                                                                                                                      Environmental                      Impact           Assessment                 Review       99 (2023) 107012
+
+intervention but observed  an  insignificant result, where Baca-Motes      2.4. Habitual factor 
+et al. (2013) observed an opposite effect. These observed heterogeneities 
+have created uncertainty in the implementation of the intervention.           In addition to the aforementioned factors, habit is another possible 
+                                                                           impetus for PEBs  (Han  and Hyun,  2018;  Untaru  et al., 2016). Many 
+                                                                           studies indicated that people’s frequent behaviours  in daily life are 
+2.2. Theory of planned behaviour 
+                                                                           important drivers of their pro-environmental intentions, decisions, and 
+                                                                           behaviours (Han and Hyun, 2018; Wang et al., 2021a). These research 
+   The  theory of planned  behaviour (TPB)  is one of the most widely 
+                                                                           works demonstrate that PEB is not only shaped by attitude and PBC but 
+used psychological  models in PEB  research. This model  assumes  that 
+                                                                           also reflects the inertia of past and frequent behaviours. 
+intention plays the role of the key predictor of behaviour (Ajzen, 1991). 
+                                                                              Previous researchers have discussed the relationship between peo­
+TPB  consists of three psychological factors driving behavioural inten­
+                                                                           ple’s consumption and conservation behaviours in hotel and daily sce­
+tion, namely, attitude, subjective norms, and perceived behavioural control. 
+                                                                           narios (Dharmesti et al., 2020; Miao and Wei, 2013; Untaru et al., 2016; 
+Specifically, Attitude reflects the disposition of an individual’s psycho­
+                                                                           F. Xu et al., 2020). Though significantgaps  between PEBs in hotels and 
+logical disposition to a specific behaviour. Subjective norms refer to the 
+                                                                           at home have been reported (Baker et al., 2014; Miao and Wei, 2013), 
+perceived external pressure exerted from the expectation of others/so­
+                                                                           empirical studies found that household  sustainable decisions and be­
+ciety. Perceived behavioural control (PBC) is an individual’s perceived 
+                                                                           haviours are important predictors of hotel PEBs (Dharmesti et al., 2020; 
+ability and confidence to perform  a certain behaviour. In addition to 
+                                                                           Dimara  et al., 2017; Han and  Hyun,  2018; Untaru  et al., 2016). For 
+exerting influence upon intention, PBC may  also have direct effect on 
+                                                                           example, Untaru et al. (2016), Han et al. (2010) and Dharmesti et al. 
+behaviour. Some empirical evidence has shown a positive correlation 
+                                                                           (2020) demonstrate the direct effect of household habits on hotel water- 
+between these three factors and intention towards PEBs in hotels (Chen, 
+                                                                           saving behaviours, waste recycling, and towel reuse. 
+2016; Han  et al., 2010; Han  and Yoon,  2015; Shin et al., 2018). For 
+                                                                              Given the initial evidence reported by existing literature, following 
+example,  Chen  (2016) and  Han  et al. (2010) reported the significant 
+                                                                           hypotheses  are developed   to investigate the  relationship between 
+positive contribution of  these three factors to green  hotel visiting 
+                                                                           household habitual factors and PEB in hospitality: 
+intention. Also, Shin et al. (2018) reported similar findings on organic 
+food orders in hotels. However,  some  other studies present opposite      H7.   Household habits exert a positive influenceon  hotel energy-saving 
+results: no significantcorrelation  is found between subjective norms and  intention. 
+green hotel consumption intention (Yeh et al., 2021). 
+                                                                           H8.   Household habits exert a positive influenceon  hotel energy-saving 
+   Building upon TPB and previous studies in the field, this study pro­
+                                                                           behaviours. 
+poses the following  hypotheses  upon  the relationship between  hotel 
+guests’ attitude, subjective norm, PBC, intention and their energy-saving     In combining previous established hypotheses, the theoretical model 
+behaviours:                                                                of this study is summarised as shown in Fig. 1. 
+H1.   Attitude exerts a significant positive influence on hotel energy- 
+saving intention.                                                          2.5. Personality traits 
+H2.   Subjective norms  exert a significant positive influence on hotel 
+                                                                              The term personality traits refers to long-term stable sets of psycho­
+energy-saving intention. 
+                                                                           logical characteristics that uniquely influence  people’s patterns in 
+H3.   PBC exerts a significantpositive  influenceon  hotel energy-saving   cognition, feelings and decision-making (Goldberg, 1993). The Big Five 
+intention.                                                                 Personality Model is well-accepted in academia and underlies contem­
+                                                                           porary personality-based theories (Lynn, 2021).  The model  identifies 
+H4.   PBC exerts a significantpositive  influenceon  hotel energy-saving 
+                                                                           five traits: openness,   conscientiousness,  extraversion, agreeable, 
+behaviours. 
+                                                                           neuroticism (Goldberg, 1993). Over the past decade, by employing Big 
+H5.   Intention exerts a significant positive influence on hotel energy-   Five Personality Model, academia has investigated the roles of person­
+saving behaviours.                                                         ality traits in several typical PEBs  (Liu et al., 2021;  Poˇskus and 
+                                                                           ˇ
+                                                                           Zukauskiene,˙  2017; Wang et al., 2021b). 
+                                                                              Particularly, rooted in the context of hospitality industry, previous 
+2.3. Internal normative driver 
+                                                                           studies have  carried  out several  empirical  explorations with  the 
+                                                                           construct-centred approach (Kvasova, 2015; Tang and Lam, 2017). The 
+   Moral norms, also called “personal norms” (Han and Hyun, 2018; Liu 
+                                                                           approach treats different personality dimensions as separate constructs 
+et al., 2021), is another potential normative driver of PEBs. Different 
+                                                                           and focuses on how personality traits work separately (Lan et al., 2021; 
+from subjective norms, moral norms reflectpersonal  internal standards                 ˇ
+                                                                           Poˇskus and Zukauskiene,˙  2017). Tang and Lam   (2017), for example, 
+on a specific behaviour/action rather than external rules and pressure 
+                                                                           reported the critical roles of agreeableness and extraversion in green 
+(Kallgren et al., 2000). Several studies have  pointed out  the direct 
+                                                                           hotel visiting intention of Gen-Y  customers.  Kvasova  (2015)  found 
+contribution of moral norms to pro-environmental intentions, such as 
+                                                                           positive correlations between four  personality traits and sustainable 
+household greywater treatment and resource-saving (Ates¸, 2020; Davis 
+                                                                           tourism behaviours in Cyprus. These studies have advanced the frontier 
+et al., 2018; Liu et al., 2021; Wang et al., 2021a). Rooted in the hospi­
+                                                                           of the PEB research, while their method presented inherent limitations: 
+tality and tourism sectors, previous studies have also explored moral 
+                                                                           these methods overwhelmingly only focus on the separate correlation 
+norms’  role in shaping guests pro-environmental  intention (Han  and 
+                                                                           between each trait and behaviour but oversimplify the interactions and 
+Hyun, 2018; Shin et al., 2018). For example, moral norm is found to be 
+                                                                           synergies between different dimensions of personality traits (Lan et al., 
+one of the determinants of hotel guests’ intention to choose organic food 
+                                                                           2021; McLarnon et al., 2015). Given the complex synergies of multiple 
+(Shin et al., 2018) and save water  (Han  and Hyun,  2018;  Liu et al., 
+                                                                           personality dimensions, solely understanding  the role of each  single 
+2021).  These previous  studies provide heuristic evidence  to further 
+                                                                           dimension can hardly contribute to behaviour prediction and interven­
+explore moral norms’ critical roles in other PEBs of hospitality industry,                                                  ˇ
+                                                                           tion development in an accurate way (Poˇskus and Zukauskiene,˙  2017). 
+such as hotel guests’ energy-saving intention. 
+                                                                              Following  this line of research, some studies have  turned to the 
+   Given the above evidence, the following hypothesis is established: 
+                                                                           people-centred approach to examine the personality profilecomposition  
+H6.   Moral norms exert a significantpositive  influenceon  hotel energy-  of people and  discuss how  these personality profiles affect people’s 
+saving intention.                                                          behavioural/decision-making patterns (Lan et al., 2021; Liu et al., 2021; 
+
+                                                                        3
+Q.-C. Wang et al.                                                                                                                                                                      Environmental                      Impact           Assessment                 Review       99 (2023) 107012
+
+
+                                                         Fig. 1. The theoretical framework.  
+
+           ˇ
+Poˇskus and Zukauskiene,˙  2017). This method attempts to cluster people   The second-round questionnaire is detailed in Appendix A(b). 
+into typical personality profiles covering the five dimensions and ex­        In addition, the two-round pilot study is conducted before finalising 
+plores the effects of the unobserved  heterogeneity between  different     the questionnaire design and  sending out for wider  distribution. The 
+personality profile groups. For  instance, Liu et al. (2021) reported      first-round pilot study invited 15 selected expert participants, and the 
+different energy-saving  behavioural  patterns among   residents with      second invited 55  hotel guests as pilot respondents. In line with the 
+different personality characteristics. Also, Poˇskus and Zukauskienˇ e˙    feedback from these two-round pilot studies, the authors further revised 
+(2017)  found that one  psychological factor might  generate different     the wording  and  order of some  constructs to improve  the  language 
+effects on the recycling intention and behaviours of adolescents with      suitability for Chinese respondents. 
+different personality profiles.These  findingsprovide  novel views of the 
+PEB  heterogeneity among   individuals and contribute to accurate PEB      3.2. Data collection 
+promotion in practice. However, the research community has yet widely 
+adopted the person-centred approach in hospitality-related PEB studies.       By using the designed questionnaires, this study conducted a two- 
+                                                                           round  internet-based survey in  mainland  China.  The internet-based 
+3. Materials and methods                                                   survey has been  found an  effective data collection approach and has 
+                                                                           been widely used in behaviour studies (Han et al., 2010). In the first- 
+3.1. Measures                                                              round survey, the study employs  a local online market  research plat­
+                                                                           form to send survey invitations to randomly selected hotel customers in 
+   This study conducts a two-round questionnaire survey, which has the     China. It is reported that customers of service products can well-recall 
+advantage of being more focused and tailored to reveal the character­      their service experience in six months  (Keaveney,  1995). Therefore, 
+istics of target population. The empirical evidence will be drawn from     the survey only accepted respondents who have visited hotels no less 
+Chinese  hotel guests to explore  the roles of personality profiles in     than once  within the six months  before the dates that they took the 
+energy-saving  behavioural  heterogeneity  in  China,  a typical fast-     survey. The qualifiedand  consented participants were sent a link to the 
+growing context of hospitality industry.                                   questionnaire. In the first-rounddata  collection, the study received 1535 
+   The first-rounddata  survey consists of four sections. The firstsection  responses. The researchers checked the received data and according to 
+                       ’
+records the respondent s self-reported energy-saving behaviours when       the answer to trapping questions, unreasonable consecutive replies, and 
+staying at home and in hotels respectively. Following the advice from      thus recognised  1193   responses  as valid. The  second-round   data 
+industry practitioners, the questionnaire covers four typical made-ups of  collection is a follow-up survey and all valid respondents in the first- 
+household energy-saving habits and hotel energy-saving behaviours: (1)     round  data  collection were  invited. The  researchers  consequently 
+sustainable lighting use, (2) sustainable air conditioning setting, (3)    received 879 responses and reviewed the feedback. After checking the 
+sustainable appliance use, and (4) persuading others to save energy. The   completion of the survey and excluding some missing data, the study 
+second  section focuses on  the seven  psychological variables in  the     confirmed a total of 848 valid data. 
+research model adapted from previous studies (Han et al., 2019; Han           Table 1 presents the demographic characteristics of  both the final 
+and  Yoon, 2015;  Wang  et al., 2021a). Both the first and the second      pool of 1193 respondents in the round-one survey and 848 respondents 
+sections employ a five-pointLikert  scale, ranging from 1 (fully disagree) in the follow-up survey. It can be seen from the table that in the first- 
+to 5 (fully agree) (questionnaire details are shown in Appendix A(a)).     round  survey,  gender  is almost  equally  distributed with  females 
+The third and fourth sections collect demographic information and the      (55.66%) slightly outnumbering males (44.17%). Meanwhile, most re­
+personality of respondents. The third section employs a 20-item Chinese    spondents hold a bachelor’s degree or above, and 31.27% of participants 
+version Mini-International Personality Item  Pool (IPIP) Scale with  a     reported a 50 K to 100 K CNY annual income. More than half (55.57%) 
+seven-point Likert scale. The level of agreement with the description is   of respondents reported that their frequency of staying in a hotel is every 
+ranked from 1 (absolutely disagree) to 7 (absolutely agree). Sufficient    few months, which is consistent with some previous research (Yadav and 
+empirical research  has evidenced  the  acceptability, convergent and      Roychoudhury, 2019). The majority of the respondents (28.67%) lived 
+discriminant validity, as well as cross-cultural applicability of the IPIP in a comfortable hotel, and  the budget hotel (26.82%)  was  the next 
+                             ’
+Scales in delineating people s personalities (Donnellan  et al., 2006;     largest. To sum up, the respondents’ demographic information generally 
+       `
+Laverdiere et al., 2020). Lastly, the socio-demographic section invites    matches statistical data and previous research. The demographic char­
+the respondents to fill in their purposes, budgets, and frequency of the   acteristics in the second-round survey are overall consistent with the 
+last hotel visits.                                                         first round. 
+   The  second-round  survey focuses  on the effects of critical drivers 
+upon hotel energy-saving behaviour. The design of this questionnaire is 
+based on the analysis results of the first-round survey. In this survey,   3.3. Data analysis 
+respondents  are invited to self-evaluate (1) whether the listed factors 
+influence their hotel energy-saving  behaviours,  and  (2) if so, how         The data analysis process of this study is divided into three steps. The 
+strongly these factors influence,the  strength of influenceis  measured via first step is to analyse the collected data in the first-round survey to 
+five-point Likert scale, ranging from 1 “very slight” to 5 “very strong”.  determine the validity of the theoretical framework and the variables 
+                                                                           contained in the framework, and the relationship between the variables. 
+
+                                                                        4
+Q.-C. Wang et al.                                                                                                                                                                      Environmental                      Impact           Assessment                 Review       99 (2023) 107012
+
+Table 1 
+Respondent profiles.  
+
+  Item                                                                     First Round                             Second Round 
+
+                                                                           Frequency           Percentage          Frequency          Percentage 
+
+  Gender                    Male                                           527                 44.17               366                43.16 
+                            Female                                         664                 55.66               480                56.60 
+                            Uncertain                                      2                   0.17                32                 3.77 
+  Age                       ≤ 25                                           439                 36.8                284                33.49 
+                            26 to 30                                       363                 30.43               260                30.66 
+                            31 to 40                                       291                 24.39               204                24.06 
+                            41 to 50                                       82                  6.87                56                 6.60 
+                            51 to 60                                       15                  1.26                11                 1.30 
+                            > 60                                           3                   0.25                3                  0.35 
+  Education                 Secondary or Below                             19                  1.59                15                 1.77 
+                            High School or Equivalent                      78                  6.54                57                 6.72 
+                            College Diploma or Equivalent                  265                 22.21               184                21.70 
+                            Bachelor’s Degree or Equivalent                743                 62.28               526                62.03 
+                            Master’s Degree or Equivalent                  78                  6.54                58                 6.84 
+                            Doctoral or Equivalent                         10                  0.84                8                  0.94 
+  Marital Status            Unmarried                                      565                 47.36               402                47.41 
+                            Married without Children                       172                 14.42               127                14.98 
+                            Married with Children                          456                 38.22               319                37.62 
+  Income Per Year           50 K to 100 K                                  373                 31.27               261                30.78 
+                            100 K to 150 K                                 335                 28.08               245                28.89 
+                            150 K to 200 K                                 214                 17.94               153                18.04 
+                            200 K to 250 K                                 115                 9.64                79                 9.32 
+                            250 K and Above                                69                  5.78                47                 5.54 
+                            Not Applicable                                 87                  7.29                63                 7.43 
+  Visiting Frequency        At least once a week                           46                  3.86                27                 3.18 
+                            1–4 times per month                            367                 30.76               273                32.19 
+                            Once every few months                          663                 55.57               466                54.95 
+                            At most once a year                            117                 9.81                82                 9.67 
+  Hotel Level (CNY)         Budget (〈200)                                  320                 26.82               227                26.77 
+                            Economy (200–250)                              211                 17.69               147                17.33 
+                            Comfort (250–350)                              342                 28.67               252                29.72 
+                            Higher standard (350–500)                      238                 19.95               167                19.69 
+                            Superior (500–850)                             68                  5.7                 46                 5.42 
+                            Luxury (> 850)                                 14                  1.17                9                  1.06 
+  Aim                       Business and Conference Trip                   499                 41.82               196                23.11 
+                            Tourism Trip                                   450                 37.72               319                37.62 
+                            Staycation/Family or couple gathering (local)  224                 18.78               320                37.74 
+                            Other                                          20                  1.68                13                 1.53 
+
+Note: 1 Chinese Yuan (CNY) approximately equals 0.1430 US Dollars (USD). 
+
+This step uses the measurement modelling method to test reliability and    4. Empirical results 
+validity, and Structural Equation Modelling (SEM) to measure the sta­
+tistical relationship between variables.                                   4.1. Identifying the critical factor 
+   The second step applies a cluster analysis based on the respondents’ 
+personality assessments. This  study first determines the appropriate         This section aims to identify critical psychological drivers of hotel 
+number  of clusters for data samples and  employs  K-means  clustering     energy-saving behaviours in two stages: (1) measurement modelling and 
+approach  with Euclidean  distance and Ward’s  linkage to classify and     (2) structural modelling. The first is to evaluate the reliability and val­
+specify the respondents, and one-way ANOVA to test the differences of      idity of the construct, and the second is to assess the model fit and test 
+variables between  different clusters. The clustering process  follows     the hypothesis’s result. 
+                                           ˇ
+previous studies (Poˇskus, 2020; Poˇskus and Zukauskiene,˙  2017; Sircova 
+et al., 2015). The research then applies SEM for each cluster, so that the 4.1.1. Measurement modelling 
+standardized path  coefficients and significance of the model for each        This study  employs  the Partial least squares (PLS)  algorithm to 
+group can be obtained. SmartPLS 3.0 and SPSS 27 are employed for SEM       perform  measurement   modelling  to evaluate the convergent  validity 
+analysis and cluster analysis respectively.                                (CV) and discriminant validity (DV) of the model. CV aims to assess the 
+   The third step employs a follow-up survey to validate the effects of    correlation between different items in the same category. Four indexes 
+critical factors found in step one by using descriptive statistical analysis, are employed for CV assessment: Cronbach’s Alpha, Composite Reliability 
+which has been widely used in behaviour, psychology, environmental         (CR), Average Variance Extracted (AVE), and Factor Loading. Cronbach’s 
+and public health research. The examination of indicators and effects      Alpha and CR test the internal consistency reliability of the index, which 
+should suppose based on relevant measurements to ensure an accurate        with a larger value reflects a higher reliability level. Cronbach’s Alpha 
+understanding  of concepts (Boiral and  Paille,´  2012). Also, the inter­  over 0.5 and  CR  over 0.7 are considered  acceptable standards (Hair 
+vention effectiveness in household energy-saving and the explanation of    et al., 2011). Factor Loading reflectsthe  relationship between the items 
+mental  health assessment  mechanism   will be validated by using  the     and the corresponding  construct, and  the threshold value  should be 
+method (Bakken et al., 2017; Xu et al., 2021a, 2021b).                     greater than 0.5 (Hair et al., 2011). AVE represents the interpretation of 
+                                                                           the latent variables by the observed variables and should be greater than 
+                                                                           0.5. DV aims to evaluate whether items from different constructs can be 
+                                                                           distinguished. Fornell-Larcker Criteria is a widely accepted method to test 
+                                                                           DV  efficiency. According  to Fornell-Larcker  (1981), a  DV  can  be 
+
+
+                                                                        5
+Q.-C. Wang et al.                                                                                                                                                                      Environmental                      Impact           Assessment                 Review       99 (2023) 107012
+
+confirmed if the average extraction variation is greater than the corre­   Table 3 
+lation coefficient between other constructs.                               Fornell-Larcker criteria.  
+   Table 2 illustrates the results of the CV assessment, which shows all    Variables   ATT     SN      PBC      MN      HI       HB      FB 
+Cronbach’s Alpha values of constructs above 0.642 and CR greater than 
+                                                                            ATT         0.763       
+0.7. The AVE values are shown between 0.525 and 0.638. The factor           SN          0.482   0.799      
+loading of each item ranges from 0.681 to 0.828. Therefore, the mea­        PBC         0.499   0.413   0.777     
+surement model has sufficient convergent validity. The Fornell-Larcker      MN          0.430   0.545   0.331    0.791    
+Criteria result in Table 3 further demonstrates that the model has suf­     HI          0.593   0.462   0.600    0.372   0.799   
+                                                                            HB          0.560   0.409   0.558    0.261   0.630    0.724  
+ficient DV. 
+                                                                            FB          0.557   0.499   0.477    0.400   0.564    0.620   0.731 
+
+4.1.2. Structural modelling                                                Note: 1. ATT: Attitude; 2. SN: Subjective Norms; 3. PBC: Perceived Behaviour 
+   Different to covariance-based SEM (CBSEM), PLS does not provide         Control; 4. MN: Moral Norms; 5. HI: Hotel Energy-Saving Intention; 6. HB: Hotel 
+                                                                           Energy-Saving Behaviour; 7. FB: Household Energy-Saving habits. 
+various statistical measures for the model validation, such as χ2 and 
+other model fitmeasurements   (Henseler and Sarstedt, 2013; Wan et al., 
+2017). Referring to Tenenhaus   et al. (2005), “The GoF represents an      variable that can be explained by independent variables. In the research 
+operational solution to this problem as it may be meant as an index for    domain  of consumer  behaviour  studies, a value of 0.20 and above  is 
+          ”                                                                regarded as a good explanation ability (Hair et al., 2011). Table 4 re­
+validating . Thus, the study adopts  a goodness  of fit index (GoF) to                                   2 
+measure the performance of the proposed model. The cutoff value of 0.1,    flectsthe  result of the VIF and R in this study. It can be seen that the VIF 
+                                                                           value of the hypothesises are between 1.519 and 1.946, and the RBeha­
+0.25, 0.36 is considered as small, medium,  and  large goodness of fit,        2      2 
+respectively (Mital et al., 2018). The GoF  calculation method  (Mital     viour and Rintention are 0.440 and 0.545 respectively. All values satisfied 
+et al., 2018; Tenenhaus et al., 2005) is provided as follow:               the requirement. 
+                 √̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅̅                              A subsequent step is the evaluation of the structural model to test the 
+                              2
+Goodness of Fit =   AVEavg × R avg                                         hypotheses result of the established model. The study runs 5000 boot­
+                                                                           strapping of 1193 samples  to evaluate the model.  Table 4 and  Fig. 2 
+   In addition, the study  measures  the model  fit by employing   the     present the result of the hypothesis and the result of the overall model. 
+Standardized  Root  Mean  Square  Residual  (SRMR)  to determine   the     Note: (1) ATT: attitude, SN: subjective norms, PBC: perceived  behav­
+difference between observed correlations. SRMR <0.08 signifies a suf­      ioural control, MN: moral norms, HI: hotel energy-saving intention, HB: 
+ficientmodel  fit( Hu and Bentler, 1998). The GoF value of the proposed    hotel energy-saving behaviour, FB: household energy-saving habits. (2) 
+model is 0.540, which means that the proposed model has a large GoF        ***: p < 0.001, ***: p < 0.01, *: p < 0.05. 
+index. The SRMR value of the proposed model is 0.077, suggesting an           The overall structural modelling results present that all psychologi­
+acceptable model fit.                                                      cal factors are closely related to energy-saving intentions of hotel guests. 
+   The  research also evaluated the multicollinearity issue and coeffi­    Household  energy-saving  habits show  the strongest driving force of 
+cient of determination of the  proposed model.  The  study adopts  the     hotel energy-saving intention (β =  0.308, p <  0.001) and  behaviour 
+variance  inflation factor (VIF)  to measure   the  degree  of  multi­     (β = 0.409, p <  0.001). Subjective norms  (β = 0.087, p <  0.01) and 
+collinearity, whose cut-off line is 5 (Hair et al., 2011). R-squared value moral norms (β = 0.063, p < 0.05) perform a small but positive effect on 
+(R2) has usually been used to measure the variance of the dependent        the intention of hotel energy conservation intention. At the same time, 
+                                                                           household energy-saving habits, hotel energy-saving intention and PBC 
+                                                                           all help to better predict respondents’ hotel energy-saving behaviour. In 
+Table 2                                                                    sum, the eight hypotheses of the proposed model are tenable. 
+Convergent-validity results, overall analysis.  
+
+  Variables                Item   Factor        Alpha   CR      AVE 
+                                  Loading                                  4.2. Personality profile development and analysis 
+  Attitude                 ATT-   0.777         0.642   0.807   0.582 
+                           1                                               4.2.1. Cluster analysis 
+                           ATT-   0.756                                       To  further explore the heterogeneity in energy-saving  behaviours 
+                           2 
+                           ATT-   0.757                                    among  hotel guests, this study clusters the respondents into different 
+                           3                                               groups according to their personality profilesdelineated  by the big five 
+  Subjective Norms         SN-1   0.821         0.722   0.841   0.639      personality model. K-means   clustering approach  is adopted  and the 
+                           SN-2   0.828                                    squared Euclidean distance and Ward’s linkage analysis suggest that the 
+                           SN-3   0.746 
+                                                                           respondents should  be clustered into four groups. Then, the research 
+  Perceived Behaviour      PBC-   0.764         0.673   0.820   0.603 
+   Control                 1                                               uses one-way ANOVA to validate for differences in variables between 
+                           PBC-   0.790 
+                           2                                               Table 4 
+                           PBC-   0.776 
+                                                                           Overall structural modelling analysis results.  
+                           3 
+  Moral Norms              MN-1   0.785         0.702   0.833   0.625       Hypothesis  Relationship Beta    P-value  Support?  VIF     R2 
+                           MN-2   0.822 
+                                                                            H1          ATT - > HI   0.221   ***      √         1.793   HI: 
+                           MN-3   0.764 
+                                                                            H2          SN- > HI     0.087   0.005**  √         1.683   0.440 
+  Hotel Energy-Saving      HI-1   0.765         0.715   0.841   0.638 
+                                                                            H3          PBC - > HI   0.261   ***      √         1.627 
+   Intention               HI-2   0.841 
+                                                                            H4          PBC- > HB    0.101   0.001*   √         1.519 
+                           HI-3   0.788 
+                                                                            H5          HI - > HB    0.246   ***      √         1.754 
+  Hotel Energy-Saving      HB-1   0.744         0.710   0.821   0.534 
+                                                                            H6          MN - > HI    0.063   0.015*   √         1.946   HB: 
+   Behaviour               HB-2   0.792 
+                                                                            H7          FB - > HI    0.308   ***      √         1.706   0.545 
+                           HB-3   0.702 
+                                                                            H8          FB - > HB    0.409   ***      √         1.810 
+                           HB-4   0.681 
+  Household Energy-Saving  FB-1   0.772         0.698   0.815   0.525      Note: (1) ATT: attitude, SN: subjective norms, PBC: perceived behavioural 
+   habits                  FB-2   0.713                                    control, MN: moral norms, HI: hotel energy-saving intention, HB: hotel energy- 
+                           FB-3   0.712                                    saving behaviour, FB: household energy-saving habits. (2) ***: p < 0.001, ***: 
+                           FB-4   0.698  
+                                                                           p < 0.01, *: p < 0.05. 
+
+                                                                        6
+Q.-C. Wang et al.                                                                                                                                                                      Environmental                      Impact           Assessment                 Review       99 (2023) 107012
+
+
+                                                   Fig. 2. The overall structural modelling result.  
+
+the  four  groups,  where  the  results show   significant differences     Openness (3.13) among all the groups. 
+(p < 0.001) among all variables of the four clusters. Fig. 3 illustrates the 
+personality characteristics of the four groups. The data of personality    4.2.2. Structural modelling analysis by group 
+represent the average value of respondents who were categorised into a        Following  the clustering of respondents’ personality profiles, this 
+group.                                                                     section conducts  structural modelling  to explore the  distinguishing 
+   Group  I (Positive) perform the highest scores on most  personality     feature of interrelationship between  personality characteristics and 
+items but the lowest score on Neuroticism (2.29) among all respondents.    energy-saving behavioural  patterns among   the four groups.  Table 5 
+Group II (Introverted) manifests below-average scores in Extraversion      summarises the SEM and hypothesis test results of each group. 
+(3.56), Agreeableness (4.02), and Conscientiousness (4.44). The intro­        The structural modelling results of the positive group (Group 1) show 
+verted guests present above-average  levels of Neuroticism (4.06) and      that attitude, PBCs, moral norms, and household habits are statistically 
+Openness  (4.32). Group  III (Sensitive) is above average in all items.    associated with hotel energy-saving  behaviours.  The habitual  factor 
+Among them, the score of Neuroticism (4.64) is significantlyhigher  than   presents the strongest influence( β = 0.412, p < 0.001) on hotel energy- 
+the average (3.86), which  is also the highest among  the four groups.     saving intention among other factors. Besides, the habitual factor and 
+Group  IV (Conservative) has  lower scores than others in most  items,     moral norms   (β = 0.219,  p <  0.01) present the  strongest effect on 
+while their scores on Neuroticism (4.06) are higher than the average. It   intention in the positive group among all guests, while the contribution 
+is worth noting that the conservative group presents the lowest score on   of subjective norms seems insignificant.Additionally,  household habit is 
+
+
+                                              Fig. 3. Big five personality characteristics of four groups.  
+
+                                                                        7
+Q.-C. Wang et al.                                                                                                                                                                      Environmental                      Impact           Assessment                 Review       99 (2023) 107012
+
+Table 5 
+The hypothesis test result of four groups.  
+
+  Cluster                                 Hypothesis 
+
+                                          H1            H2            H3            H4            H5            H6            H7          H8 
+
+  Group 1 (Positive)        Beta          0.212           0.065       0.214         0.072         0.037         0.219         0.412       0.476 
+                            P-value       0.001**       0.398         ***           0.423         0.677         0.004**       ***         *** 
+  Group 2 (Introverted)     Beta          0.190         0.057         0.303           0.008       0.251         0.018         0.334       0.512 
+                            P-value       0.001**       0.290         ***           0.862         ***           0.670         ***         *** 
+  Group 3 (Sensitive)       Beta          0.385         0.016         0.183         0.163         0.225         0.159         0.245       0.327 
+                            P-value       ***           0.824         0.003**       0.036*        0.004**       0.012*        ***         *** 
+  Group 4 (Conservative)    Beta          0.182         0.133         0.293         0.229         0.248         0.075         0.271       0.310 
+                            P-value       0.002**       0.007**       ***           ***           ***           0.104         ***         *** 
+
+Note: ***: p < 0.001, **: p < 0.01, *: p < 0.005. 
+
+the only factor (β = 0.476, p < 0.001) that was observed strong signif­    descriptive statistical analysis results of the follow-up survey. 
+icant positive correlation to hotel energy-saving behaviour of guests.        The  follow-up survey collected 848  valid responses, covering 149 
+   The  Group   II (Introverted) result shows   that household   habit     positive, 258 introverted, 180 sensitive and 261 conservative in terms of 
+(β = 0.334, p < 0.001) is the most reliable in predicting the intention of personality profile.The  distribution of people in each group is close the 
+introverted customers to save energy in hotels. Besides, introverted re­   step two. The descriptive analysis result roughly matches the findingsin  
+spondents display the greatest degree of influence of PBC (β = 0.303,      the first two steps. Generally, factors related to attitude, PBC  and 
+p < 0.001) on their hotel energy-saving intention among the four groups,   habitual factor shows a stronger influence than the normative factors. 
+followed by the conservative group (Group IV). However, there is   no      Besides, the results also well-reflect the heterogeneity observed in step 
+significant observed correlation between normative factors (subjective     two. For  example,  conservative guests grade  the highest  subjective 
+and  moral  norms)  and  hotel energy-saving intention in  this group.     norms  (3.10), and the positive group scores the highest moral norms 
+Furthermore,   the  influence   of  household   energy-saving   habits     (4.07) among all respondents. Noteworthily, when it comes to attitude, 
+(β = 0.512, p <  0.001) presents the strongest effect on hotel energy-     similar results are observed in all four clusters that respondents pay 
+saving behaviour among all four groups, the effect of household habit      more  attention to the environmental   impact  of their energy-saving 
+is even  stronger  than  that of behavioural  intention  (β =  0.251,      behaviour (79.95%, 3.37) rather than their personal benefits and com­
+p < 0.001). Besides, the results show that the direct correlation between  fort (63.68%, 3.12). However, the  four groups present different feed­
+PBC and energy-saving behaviour is not significant in Group II.            back to two items related to PBC: the positive (95.89%, 3.43) and the 
+   Results from Group III (Sensitive) reveal that the attitude of sensitive sensitive groups (86.11%, 3.35) tend to be influenced by the perceived 
+people played the most crucial role (β = 0.385, p < 0.001) in influencing  knowledge/ability, while the other two groups pay more attention to the 
+hotel energy-efficientintention  across all respondents. Their household   convenience of the energy-saving behaviours. 
+energy-saving habits (β =  0.245, p <  0.001) had  the second-greatest 
+positive effect on  hotel  energy-saving  intention. Although   moral      5. Discussion 
+norms (β =  0.159, p < 0.05) have a slightly positive effect, subjective 
+norms  are not  a significant cause affecting hotel energy-economize       5.1. Theoretical implications 
+intention. For the effect on hotel energy-saving behaviour, household 
+energy-saving habits (β = 0.327, p < 0.001) has the strongest predictive      This research tested the original TPB  and the proposed  model  in 
+capacity, followed  by  hotel  energy-saving  intention  (β =  0.225,      explaining hotel customers’  energy-saving  behaviours.  The  analysis 
+p < 0.01) and PBC (β =  0.163, p < 0.05)                                   suggests that both the original TPB model and the proposed model can 
+   The   Conservative  group  turns  out that  the  influence of  PBC      well predict energy-saving intentions and behaviours  of hotel guests. 
+(β = 0.293, p < 0.001) and household energy-saving habits (β = 0.271,      However, the proposed model presents a better explanatory power than 
+p < 0.001) on the hotel energy-saving intention are greater than other     that of the original TPB model. In the proposed  model,  all eight hy­
+factors. In addition, this group is the only group whose  relationship     potheses are supported, and the predictive constructs are validated as 
+between subjective norms (β = 0.133, p < 0.01) and hotel energy-saving     determinants  of hotel energy-saving intention and  behaviours. Espe­
+intention are significantlypositive  whereas the moral norm presents no    cially, attitude, PBC, and household habitual factors presented stronger 
+significant effect. Moreover, the effects of household  energy-saving      effects among all drivers. The novel model  could  offer psychological 
+habits on hotel energy-saving behaviour (β =  0.310, p < 0.001) is the     explanation for hotel energy-saving behaviours  and contribute to the 
+highest. And hotel energy-preserving intention (β = 0.248, p < 0.001)      development of psychological theory in future. 
+and PBC  (β =  0.229, p <  0.001) are the second  and third important         Besides, this research empirically evidences the important effects of 
+factors influencing energy-conservative behaviour in hotels.               personality characteristics on the roles of influencing factors of hotel 
+                                                                           guests’ energy consumption. Specifically, this study develops four per­
+4.3. Follow-up survey and validation                                       sonality profiles to better delineate the respondents and understand 
+                                                                           their energy consumption   behaviours. Based  on the proposed  frame­
+   Based on the influencing factors identified among the four groups,      work, the research reveals and  compares  the critical drivers of hotel 
+this study conducts a follow-up survey to validate the findingsin  the first energy-saving behaviours for each group in the second and third anal­
+and second  steps of the analysis. In this round of research, the study    ysis step, where significantvariances  of driving effects are found among 
+employs SPSS 27 to test the reliability of the recovered questionnaire     the groups. These  findings provide  a personality view  of the long- 
+data. The Cronbach’s alpha value is 0.803, implying high confidencein      debated heterogeneity of behavioural interventions in  different cases: 
+internal consistency and  reliability. Adopting The researchers listed     psychological factors might have  different effects among people with 
+seven factors: (1) personal interests and comforts (attitude), (2) envi­   different personality profiles.For  example, the energy-saving intentions 
+ronmental impacts (attitude), (3) pressure from others/society (subjec­    of introverted guests tend to be more sensitive to their PBCs rather than 
+tive norms), (4) convenience   of the behaviours  (PBC), (5) required      moral obligations and external pressure. While the observed heteroge­
+skills/knowledge (PBC), (6) moral obligations (moral norms), and (7) at-   neity is similar to previous research on household  energy-saving be­
+home   behavioural  habit  (habitual  factor). Table  6  presents  the     haviours (Liu et al., 2021) and  recycling behaviours  of adolescents 
+
+                                                                        8
+Q.-C. Wang et al.                                                                                                                                                                      Environmental                      Impact           Assessment                 Review       99 (2023) 107012
+
+                                                                                        ˇ
+                                                                           (Poˇskus and Zukauskiene,˙  2017), the follow-up survey goes one step 
+                                                                           further to explore the views  of different guest groups. For instance, 
+                               Value                                       although PBC plays critical roles in all four groups, the positive and the 
+                                                                           sensitive guests tend to consider  personal  ability/knowledge  more, 
+
+
+                               Influence  3.12  3.37  2.73  3.38  3.25  3.47  3.25  while the other two groups are more likely to be influenced by the 
+                           848)  
+
+
+                           =                                               perceived convenience. The findings shed new lights on the individual 
+                           N  
+
+                           (                                               heterogeneity in  energy-saving behaviours   and energy  intervention 
+                                                                           effectiveness in hospitality industry from the personality perspective. 
+
+
+                           Overall  Percentage  63.68%  79.95%  52.36%  76.89%  77.24%  73.23%  77.95%  Both the two normative factors (subjective norms and moral norms) 
+                                                                           only present small but  still important effects on hotel energy-saving 
+                                                                           intentions. The facts suggest that social and moral pressure is not the 
+
+                               Value                                       most important psychological driver of hotel energy-saving behaviours. 
+                                                                           The findingsare  in line with a few previous studies (Miao and Wei, 2013; 
+                           261)  
+
+                           =                                               Yeh et al., 2021). Previous works often attribute the results to general 
+                               Influence  3.15  3.27  3.10  3.48  3.47  3.35  3.05  
+                           N  
+                           (                                               cultural environment and limited public environmental awareness (Yeh 
+                                                                           et al., 2021), which suggests that norm-based interventions (e.g., social 
+                                                                           norms feedback) might be less effective in hotel energy-saving behav­
+                                                                           ioural promotion in general. This study, however, provides another view 
+                           Conservative  Percentage  61.69%  70.50%  69.73%  69.73%  64.75%  67.43%  68.97%  from the perspective of personality profile: moral norm has stronger 
+                                                                           effect on the positive guests than others, while subjective norms are only 
+
+
+                               Value                                       critical for the conservative guests. Especially, moral norms only have 
+                                                                           significantcorrelation  in the positive group and the sensitive group. The 
+                                                                           guests in these two groups present above-average agreeableness, con­
+                           180)  
+                               Influence  3.20  3.17  2.67  3.43  3.35  3.13  3.13  sciousness, and openness, which directly contribute to empathy and lead 
+                           =
+
+
+                           N                                               to consideration for social and environmental benefits( Markowitz et al., 
+                           (
+                                                                           2012). Thus, more customized normative interventions for positive and 
+                                                                           sensitive customers can be an effective energy-saving solution. 
+
+                           Sensitive  Percentage  65.00%  86.11%  52.22%  77.22%  86.11%  78.89%  82.22%  The analysis results emphasize the important role of household 
+                                                                           habits in predicting hotel energy-saving  intentions and  behaviours. 
+                                                                           Several studies have observed the significantbehavioural  inconsistency 
+                               Value                                       between  hotel and household  PEBs  and discussed  their different psy­
+                                                                           chological mechanisms (e.g., Baker et al., 2014; Miao and Wei, 2013). 
+                           258)  
+                           =
+                               Influence  2.90  3.25  2.73  3.05  2.92  3.40  3.15  This study, however, evidences that household habits are still important 
+                           N  
+                           (                                               predictors of energy-saving behaviours in hotel settings. Especially, the 
+                                                                           habitual factors show a significantly stronger effect on the introverted 
+                                                                           group (Group II) that holds a lower extraversion level than others. The 
+
+
+                           Introverted  Percentage  57.85%  74.71%  51.72%  77.78%  72.03%  67.82%  72.80%  introverted guests tend to present higher self-centredness levels 
+                                                                           (Romero et al., 2003), and thus, be less influenced by external factors 
+                                                                           than their original lifestyles. From the habitual perspective, the finding 
+
+                               Value                                       also offers a plausible explanation for the attitude-behaviour gap in 
+                                                                           hotel PEBs: only a few guests take pro-environmental actions, even most 
+                                                                           of them are well aware of the importance (Baker et al., 2014; Miao and 
+                               Influence  3.27  3.88  3.00  3.72  3.43  4.07  3.75  
+                           149)                                            Wei, 2013). The findings suggest that habitual factors have an equally 
+                           =
+                           N  
+
+
+                           (                                               important contribution to hotel energy-saving behaviour as other psy­
+                                                                           chological factors. Therefore, in addition to well-designed energy in­
+                                                                           terventions, it is also important to encourage sustainable lifestyles and 
+                           Positive  Percentage  77.40%  97.26%  64.38%  89.04%  95.89%  84.93%  95.21%  develop pro-environmental habits among the people to promote the 
+                                                                           cross-contextual PEB spillover. 
+                                   Comforts  
+
+                                                 Habit                     5.2. Managerial and practical implications 
+                                   and  
+                                     Impacts  
+
+                                       Others/Society                         Some managerial implications can also be drawn from the research 
+                        survey.                                            findings of this study. First, the finding can provide hospitality practi­
+                                            Skills/Knowledge  
+                                                 Behavioural  
+                                   Interests  
+                                       from                                tioners with some novel views on energy-saving interventions for hotel 
+                                              Obligations  
+                                                                           guests. A few interventions, such as energy-saving tips and brochures, 
+
+
+                           Items   Personal  Environmental  Pressure  Convenience  Required  Moral  At-home  are emerging recently in the hospitality sector to promote guests’ 
+
+                        second-round                                       energy-saving behaviours  (Tiefenbeck et al., 2019). Yet, observations 
+
+                        of                                                 often found significant differences in the effectiveness of these behav­
+
+
+                                          Control                          ioural interventions. This study argues that guests with different per­
+                        result                                             sonality profiles have   both  similarities and  differences in  their 
+                                                                           psychological mechanisms    driving hotel  energy-saving  behaviours. 
+                                                                           Thus, interventions would  have  different effects on different guests. 
+                        analysis  
+                                       Norms  
+                                          Behavioural  
+                                                 Factor  
+
+
+                           Factors                                         While it is difficult to obtain the individual personality data of each 
+                                              Norms  
+                     6                                                     guest, employing tailored intervention according to the guest person­
+                                                                           ality profile structure can be a potential solution to reduce the cost of 
+                                                 Habitual  
+                                              Moral  
+                                          Perceived  
+                                       Subjective  
+                           Critical  
+                                   Attitude  
+
+                     Table  Descriptive                                    hotel operations and  improve  the sustainability performance  of the 
+
+                                                                        9
+Q.-C. Wang et al.                                                                                                                                                                      Environmental                      Impact           Assessment                 Review       99 (2023) 107012
+
+hospitality industry. For example,  the analysis suggests  that moral         Third, there is a gap between the sample distribution of guests for 
+feedbacks are more effective for positive and sensitive guests, and in­    different visiting aims in the firstand  second-round data collection. The 
+terventions that lower the behavioural controls (e.g., energy-saving tips) reason is that in the second-round survey, some respondents, especially 
+are more likely to promote the energy-saving behaviours of both positive   those for business and conference, were unsuccessfully contacted. 
+and  introverted guests. Besides, as the positive hotel guests present        In addition, the survey in this study was  conducted  in mainland 
+stronger concerns   about  environmental  interests, the hotel  would      China  and all respondents  were  ethnic Chinese.  Personality profile 
+consider employing the donation to environmentally friendly charity as     characteristics can be  different in different locations and  cultures 
+an incentive for them. In particular, large hotel chains can obtain guest  (McCrae  and  Terracciano, 2005),  and  thus the  applicability of the 
+personality profiles through big data or quick personality tests, while    findings in other regions and countries require more investigation. 
+small-scale hotels might benefit from adopting  more  widely-accepted 
+interventions. However,  when   applying tailored intervention  strate­    6. Conclusion 
+gies, hoteliers must obtain the consent of the guests and strictly adhere 
+to privacy regulations.                                                       The research proposes an extended TPB model with normative fac­
+   Given  the observed  cross-context behavioural  spillovers between      tors and habitual factors to investigate hotel energy-saving behaviours 
+household and hotel settings, this research highlights the critical role   of guests. The study then employs a clustering method to categorise the 
+that habitual factors play in energy-saving behaviours.  Therefore, in     respondents into four groups to evaluate the proposed model. In addi­
+addition to monetary incentives and normative tips, cultivating energy-    tion, the result has been  verified in accordance  with second-round 
+efficient behavioural habits can  be  another  effective promotion  of     research. The  extended  model  shows  a stronger explanatory  power 
+guests’ energy-saving behaviours. It is suggested that hospitality prac­   than the conventional one and the analysis suggests that moral obliga­
+titioners should engage with  their target customers and promote  this     tion and home energy-saving habits have strong contribution to hotel 
+beneficial spillover. For example, they can involve environmental pro­     energy-saving behaviours of guests. By clustering the respondents into 
+tection schemes  and  energy-saving  campaigns  partnering with  local     four groups  according to their personality characteristics, the study 
+communities  and  schools. This investment  can not only promote   the     observes significant variances in the effects of psychological drivers 
+hotel brand  and improve  the corporate  image  but also help develop      among the groups. The analysis of the follow-up survey   validates the 
+long-term energy-saving habits of potential customers.                     findings, which provide empirical evidence in terms of the  important 
+   This study also contributes to smart building energy management in      role of personality in behavioural heterogeneity among guests. Based on 
+the hospitality industry. Previous studies have developed activity-based   the analysis and discussion, the research suggests the hospitality parti­
+building energy  models  to capture the impacts  of occupants’ behav­      tioners to adopt  targeted  and  tailored interventions to encourage 
+ioural changes (e.g., flexible working patterns) and personality com­      energy-saving behaviours  of guests and positively engage  in commu­
+positions rather  than  only considering  building  service efficiency     nity/school energy conservation campaigns to promote cross-contextual 
+(Stoppel and Leite, 2014; Zhang et al., 2018). These models have been      spillover of energy-saving behaviour. The researchers call for boarder 
+applied in residential and official sectors, while the investigation in    application of person-centred approach to link personality profileswith  
+hospitality sector is still insufficient.The  findingsof  this study provide a PEB research in different cultural contexts. 
+valuable reference for activity-based energy modelling and research in 
+hotel buildings. These  activity-based models  would  help hospitality     CRediT authorship contribution statement 
+practitioners predict more precisely the hotel energy demands   under 
+different scenarios, such as energy effects of declining occupancy rates      Qian-Cheng Wang: Conceptualization, Methodology, Data curation, 
+during COVID-19 lockdowns and different energy interventions. These        Writing – original draft, Writing –  review &  editing. Yi-Tian  Ren: 
+would further drive the decision-making efficiencyin  hotel management     Methodology, Investigation, Resources, Funding acquisition, Writing – 
+and the sustainability of hotel operations.                                review & editing. Xuan Liu: Conceptualization, Methodology, Funding 
+                                                                           acquisition, Supervision, Writing – original draft, Writing – review & 
+5.3. Limitations and future research agenda                                editing. Rui-Dong Chang: Resources, Writing – review & editing. Jian 
+                                                                           Zuo: Resources, Supervision, Validation, Writing – review & editing. 
+   There are four limitations to this research. First, this research em­
+ploys self-reported data on energy-saving behaviours in household and 
+hotel settings. Therefore, the data might be influenced  by the social     Declaration of Competing Interest 
+desirability bias: the perceived social desirability of respondents may 
+produce  a statistical gap between their self-reported information and        The authors declare that they have no known competing financial 
+real-world situations (Krumpal,  2013).  The survey  emphasized   that     interests or personal relationships that could have appeared to influence 
+there were  no correct or incorrect answers on  any page  of the ques­     the work reported in this paper. 
+tionnaire to reduce  the adverse effects of social desirability. Future 
+studies may benefitfrom  the employment of smart meters or sensors to      Data availability 
+collect real-time energy-consumption data. 
+   Second, during the data collection process, several surveyed Chinese       Data will be made available on request. 
+cities experienced COVID-19 pandemic lockdowns. The pandemic and 
+local lockdowns not only influence hotel operation strategies but also     Acknowledgement 
+change guest composition and behavioural patterns. For example, some 
+respondents  might  visit hotels for  quarantine  purposes  and  their        The authors would like to thank all anonymous reviewers for their 
+behavioural patterns might  be rather different from the normal  hotel     constructive comments. The authors also would like to acknowledge all 
+visiting. Thus, more investigations would  be required amid  the post-     respondents in our survey for their time and kind support. This work is 
+pandemic  era and  further studies would  benefit from identifying the     sponsored  by  both  China  Scholarship Council  and  the  Cambridge 
+impacts of pandemic on the hospitality sector.                             Commonwealth, European & International Trust via scholarships.   
+
+
+                                                                       10
+Q.-C. Wang et al.                                                                                                                                                                      Environmental                      Impact           Assessment                 Review       99 (2023) 107012
+
+Appendix A.      (a) The core questionnaire items  
+
+  Section    Construct                Code     Item                                                         Reference 
+
+  I          Household Energy-        HB-1     Often turn off unnecessary lighting and electrical appliances N/A 
+             Saving Habits                     at home 
+                                      HB-2     Often set the temperature of the air conditioner to 26 degrees 
+                                               in summer at home. 
+                                      HB-3     Often turn on the ventilation (appliances) only when needed 
+                                               at home. 
+                                      HB-4     Often persuade or advise others to conserve energy at home. 
+  I          Hotel Energy-Saving      FB-1     Turn off unnecessary lighting and electrical appliances in the N/A 
+             Behaviour                         hotel. 
+                                      FB-2     Set the air conditioning temperature to 26 degrees when 
+                                               staying in a hotel. in summer. 
+                                      FB-3     Turn on the ventilation (appliances) only when needed in the 
+                                               hotel. 
+                                      FB-4     Persuade or advise others to conserve energy at hotel. 
+  II         Attitude                 ATT-     I think saving energy during the living period in a hotel is (Dharmesti et al., 2020; Han and Yoon, 2015; Palani and Karatas, 
+                                      1        valuable to protect the environment.                         2021; Untaru et al., 2016; Wang et al., 2021a) 
+                                      ATT-     I think it is advisable to employ energy-saving behaviours in 
+                                      2        hotels 
+                                      ATT-     I think energy-conservation behaviours in hotels contribute 
+                                      3        to alleviating energy shortages. 
+             Subjective Norms         SN-1     I think my family support me to conserving energy in the     (Han and Hyun, 2018; Han and Yoon, 2015; Palani and Karatas, 
+                                               hotel.                                                       2021; Untaru et al., 2016; Wang et al., 2021a) 
+                                      SN-2     I think my boss and colleagues support me to conserving 
+                                               energy in the hotel. 
+                                      SN-3     I think that people who are important to me support me to 
+                                               conserving energy in the hotel. 
+             Perceived Behaviour      PBC-     It is hard for me to apply energy-saving behaviours in hotels. (Han and Yoon, 2015; Palani and Karatas, 2021; Wang et al., 2021a; 
+             Control                  1                                                                     Yeh et al., 2021) 
+                                      PBC-     It is completely decided by me whether to do energy-saving 
+                                      2        behaviour in the hotel. 
+                                      PBC-     I am fully capable of engaging in energy-saving behaviour in 
+                                      3        hotels. 
+             Moral Norms              MN-1     What saving energy in hotels means to me is a moral          (Han and Hwang, 2015; Han and Hyun, 2018; Palani and Karatas, 
+                                               obligation.                                                  2021; Wang et al., 2021a) 
+                                      MN-2     I would have a guilty conscience if I dallied over the energy- 
+                                               saving implementation in hotels. 
+                                      MN-3     My criterion of morals do not enable me to squander energy 
+                                               when in hotels. 
+             Intention                HI-1     I am pleasure to less consume energy in hotels.              (Han et al., 2015; Han and Yoon, 2015; Lan et al., 2021; Untaru et al., 
+                                      HI-2     I would like to exert myself to conserve energy in hotels.   2016; Wang et al., 2021a) 
+                                      HI-3     I care to do to follow the energy-saving instruction of the 
+                                               hotels I stay in.  
+
+
+Appendix B.      (b) Validation survey questionnaire items  
+
+                    Factor                                         Code                      Item 
+
+                    Section I: Do you agree that the following items influence your hotel energy-saving behaviours? (Yes/No) 
+                    Attitude                                       BEN-1                     Personal interests and comforts 
+                                                                   ENV-1                     Environmental impacts 
+                    Subjective Norms                               SOP-1                     Pressure from others/society 
+                    Perceived Behaviour Control                    ABL-1                     Required skills/knowledge 
+                                                                   COV-1                     Convenience of the behaviours 
+                    Moral Norms                                    MOR-1                     Moral obligations 
+                    Habitual Factors                               HAB-1                     At-home behavioural habit  
+
+                    Section II: Please self-assess how strongly the factors listed below affect your hotel energy-saving intentions 
+                    Attitude                                       BEN-1                     Personal interests and comforts 
+                                                                   ENV-1                     Environmental impacts 
+                    Subjective Norms                               SOP-1                     Pressure from others/society 
+                    Perceived Behaviour Control                    ABL-1                     Required skills/knowledge 
+                                                                   COV-1                     Convenience of the behaviours 
+                    Moral Norms                                    MOR-1                     Moral obligations 
+                    Habitual Factors                               HAB-1                     At-home behavioural habit   
+
+
+                                                                                      11
+Q.-C. Wang et al.                                                                                                                                                                      Environmental                      Impact           Assessment                 Review       99 (2023) 107012
+
+Appendix C.      HTMT result   
+
+                         ATT                     SN                      PBC                     HI                      MN                      FB                      HB 
+
+  ATT        
+  SN                     0.702       
+  PBC                    0.756                   0.575      
+  HI                     0.876                   0.603                   0.857     
+  MN                     0.636                   0.780                   0.471                   0.520    
+  FB                     0.838                   0.579                   0.807                   0.885                   0.378   
+  HB                     0.818                   0.685                   0.677                   0.783                   0.579                   0.873  
+Note: ATT refers to attitude, SN refers to subjective norms, PBC refers to perceived behavioural control, MN refers to moral norms, HI refers to hotel energy-saving 
+intention, HB refers to hotel energy-saving behaviour, FB refers to household energy-saving habits. 
+
+
+References                                                                                Dolnicar, S., Knezevic Cvelbar, L., Grün, B., 2017. Do pro-environmental appeals trigger 
+                                                                                              pro-environmental behavior in hotel guests? J. Travel Res. 56 (8), 988–997. 
+                                                                                          Donnellan, M.B., Oswald, F.L., Baird, B.M., Lucas, R.E., 2006. The mini-IPIP scales: tiny- 
+Ajzen, I., 1991. The theory of planned behavior. Organ. Behav. Hum. Decis. Process. 50 
+                                                                                              yet-effective measures of the big five factors of personality. Psychol. Assess. 18 (2), 
+    (2), 179–211. 
+                                                                                              192. 
+Ali, Y., Mustafa, M., Al-Mashaqbah, S., Mashal, K., Mohsen, M., 2008. Potential of energy 
+                                                                                          Gabarda-Mallorquí, A., Garcia, X., Fraguell, R.M., Ribas, A., 2021. Are hotel stay 
+    savings in the hotel sector in Jordan. Energy Convers. Manag. 49 (11), 3391–3397. 
+                                                                                              characteristics influencing guests’ environmental behaviour? Predicting water 
+Amelung, B., Nicholls, S., 2014. Implications of climate change for tourism in Australia. 
+                                                                                              conservation habits. Curr. Issue Tour. 24 (16), 2342–2356. 
+    Tour. Manag. 41, 228–244. 
+                                                                                          Goldberg, L.R., 1993. The structure of phenotypic personality traits. Am. Psychol. 48 (1), 
+Ates¸, H., 2020. Merging theory of planned behavior and value identity personal norm 
+                                                                                              26. 
+    model to explain pro-environmental behaviors. Sustain. Product. Consumpt. 24, 
+                                                                                          Goldstein, N.J., Cialdini, R.B., Griskevicius, V., 2008. A room with a viewpoint: using 
+    169–180. 
+                                                                                              social norms to motivate environmental conservation in hotels. J. Consum. Res. 35 
+Ayoub, N., Musharavati, F., Pokharel, S., Gabbar, H.A., 2014. Energy consumption and 
+                                                                                              (3), 472–482. 
+    conservation practices in Qatar—A case study of a hotel building. Energy Build. 84, 
+                                                                                          Gossling,¨  S., Peeters, P., 2015. Assessing tourism’s global environmental impact 
+    55–69. 
+                                                                                              1900–2050. J. Sustain. Tour. 23 (5), 639–659. 
+Baca-Motes, K., Brown, A., Gneezy, A., Keenan, E.A., Nelson, L.D., 2013. Commitment 
+                                                                                          Hair, J.F., Ringle, C.M., Sarstedt, M., 2011. Journal of marketing theory and practice 
+    and behavior change: evidence from the field. J. Consum. Res. 39 (5), 1070–1084. 
+                                                                                              PLS-SEM: indeed a silver bullet. J. Mark. Theory Pract. 19 (2), 139–152. https://doi. 
+Baker, M.A., Davis, E.A., Weaver, P.A., 2014. Eco-friendly attitudes, barriers to 
+                                                                                              org/10.2753/MTP1069-6679190202. 
+    participation, and differences in behavior at green hotels. Cornell Hosp. Q. 55 (1), 
+                                                                                          Han, H., 2021. Consumer behavior and environmental sustainability in tourism and 
+    89–99. 
+                                                                                              hospitality: a review of theories, concepts, and latest research. J. Sustain. Tour. 29 
+Bakken, T.L., Sageng, H., Hellerud, J., Kildahl, A., Kristiansen, T., 2017. The use of 
+                                                                                              (7), 1021–1042. 
+    validation in mental health nursing for adults with intellectual disabilities and 
+                                                                                          Han, H., Hwang, J., 2015. Norm-based loyalty model (NLM): investigating delegates’ 
+    mental illness: A descriptive study. Issues Mental Health Nurs. 38 (8), 619–623. 
+                                                                                              loyalty formation for environmentally responsible conventions. Int. J. Hosp. Manag. 
+Bigano, A., Goria, A., Hamilton, J.M., Tol, R.S.J., 2005. The Effect of Climate Change and 
+                                                                                              46, 1–14. https://doi.org/10.1016/J.IJHM.2015.01.002. 
+    Extreme Weather Events on Tourism. 
+                                                                                          Han, H., Hyun, S.S., 2018. What influenceswater  conservation and towel reuse practices 
+Bohdanowicz, P., 2006. Environmental awareness and initiatives in the Swedish and 
+                                                                                              of hotel guests? Tour. Manag. 64, 87–97. https://doi.org/10.1016/J. 
+    polish hotel industries—survey results. Int. J. Hosp. Manag. 25 (4), 662–682. 
+                                                                                              TOURMAN.2017.08.005. 
+Boiral, O., Paille,´  P., 2012. Organizational citizenship behaviour for the environment: 
+                                                                                          Han, H., Yoon, H.J., 2015. Hotel customers’ environmentally responsible behavioral 
+    measurement and validation. J. Bus. Ethics 109 (4), 431–445. 
+                                                                                              intention: impact of key constructs on decision in green consumerism. Int. J. Hosp. 
+Buckley, R., 2012. Sustainable tourism: research and reality. Ann. Tour. Res. 39 (2), 
+                                                                                              Manag. 45, 22–33. 
+    528–546. 
+                                                                                          Han, H., Hsu, L.-T.J., Sheu, C., 2010. Application of the theory of planned behavior to 
+Budovska, V., Torres Delgado, A., Øgaard, T., 2020. Pro-environmental behaviour of 
+                                                                                              green hotel choice: testing the effect of environmental friendly activities. Tour. 
+    hotel guests: application of the theory of planned behaviour and social norms to 
+                                                                                              Manag. 31 (3), 325–334. 
+    towel reuse. Tour. Hosp. Res. 20 (1), 105–116. 
+                                                                                          Han, H., Hsu, L.-T.J., Lee, J.-S., Sheu, C., 2011. Are lodging customers ready to go green? 
+Cao, J., Chen, J., 2021. The impact of an authoritarian personality on pro-environmental 
+                                                                                              An examination of attitudes, demographics, and eco-friendly intentions. Int. J. Hosp. 
+    behaviour for air pollution mitigation through interactions with social norms. Int. J. 
+                                                                                              Manag. 30 (2), 345–355. 
+    Environ. Res. Public Health 18 (17), 9301. 
+                                                                                          Han, H., Hwang, J., Kim, J., Jung, H., 2015. Guests’ pro-environmental decision-making 
+Chan, E.S.W., Okumus, F., Chan, W., 2017. The applications of environmental 
+                                                                                              process: broadening the norm activation framework in a lodging context. Int. J. 
+    technologies in hotels. J. Hosp. Mark. Manag. 26 (1), 23–47. 
+                                                                                              Hosp. Manag. 47, 96–107. https://doi.org/10.1016/J.IJHM.2015.03.013. 
+Chan, M.K.M., Tsang, N.K.F., Au, W.C.W., 2022. Effective approaches for encouraging 
+                                                                                          Han, H., Yu, J., Kim, H.-C., Kim, W., 2018. Impact of social/personal norms and 
+    hotel guests’ voluntary bedding linen reuse behavior. Int. J. Hosp. Manag. 101, 
+                                                                                              willingness to sacrifice on young vacationers’ pro-environmental intentions for 
+    103105. 
+                                                                                              waste reduction and recycling. J. Sustain. Tour. 26 (12), 2117–2133. 
+Chang, H., Huh, C., Lee, M.J., 2016. Would an energy conservation nudge in hotels 
+                                                                                          Han, H., Kiatkawsin, K., Ryu, H.B., Jung, H., Kim, W., 2019. Determinants of young 
+    encourage hotel guests to conserve? Cornell Hosp. Q. 57 (2), 172–183. 
+                                                                                              vacationers’ recycling and conservation behavior when traveling. Soc. Behav. 
+Chen, M.-F., 2016. Extending the theory of planned behavior model to explain people’s 
+                                                                                              Personal. Int. J. 47 (2), 1–11. 
+    energy savings and carbon reduction behavioral intentions to mitigate climate 
+                                                                                          Han, H., Chua, B.-L., Hyun, S.S., 2020. Eliciting customers’ waste reduction and water 
+    change in Taiwan–moral obligation matters. J. Clean. Prod. 112, 1746–1753. 
+                                                                                              saving behaviors at a hotel. Int. J. Hosp. Manag. 87, 102386. 
+Chen, J.M., 2021. Carbon neutrality: toward a sustainable future. Innovation 2 (3). 
+                                                                                          Henseler, J., Sarstedt, M., 2013. Goodness-of-fit indices for partial least squares path 
+Chen, F., Chen, H., Yang, J., Long, R., Li, Q., 2018. Impact of information intervention on 
+                                                                                              modeling. Comput. Stat. 28 (2), 565–580. 
+    the recycling behavior of individuals with different value orientations—an 
+                                                                                          Hevar, P., Aslihan, K., 2023. Integrated framework for identifying energy-use behavior of 
+    experimental study on express delivery packaging waste. Sustainability 10 (10), 
+                                                                                              hotel guests. Can. Soc. Civil Eng. Annu. Conf. 103–114. 
+    3617. 
+                                                                                          Hu, L.-T., Bentler, P.M., 1998. Fit indices in covariance structure modeling: sensitivity to 
+Choi, G., Parsa, H.G., Sigala, M., Putrevu, S., 2009. Consumers’ environmental concerns 
+                                                                                              underparameterized model misspecification. Psychol. Methods 3 (4), 424–453. 
+    and behaviors in the lodging industry: A comparison between Greece and the United 
+                                                                                          Huang, H.-C., Lin, T.-H., Lai, M.-C., Lin, T.-L., 2014. Environmental consciousness and 
+    States. J. Qual. Assur. Hosp. Tour. 10 (2), 93–112. 
+                                                                                              green customer behavior: an examination of motivation crowding effect. Int. J. Hosp. 
+Cvelbar, L.K., Grün, B., Dolnicar, S., 2017. Which hotel guest segments reuse towels? 
+                                                                                              Manag. 40, 139–149. 
+    Selling sustainable tourism services through target marketing. J. Sustain. Tour. 25 
+                                                                                          Juvan, E., Dolnicar, S., 2014. The attitude–behaviour gap in sustainable tourism. Ann. 
+    (7), 921–934. 
+                                                                                              Tour. Res. 48, 76–95. 
+Davis, T., Hennes, E.P., Raymond, L., 2018. Cultural evolution of normative motivations 
+                                                                                          Kallgren, C.A., Reno, R.R., Cialdini, R.B., 2000. A focus theory of normative conduct: 
+    for sustainable behaviour. Nat. Sustain. 1 (5), 218–224. 
+                                                                                              when norms do and do not affect behavior. Personal. Soc. Psychol. Bull. 26 (8), 
+DellaValle, N., Zubaryeva, A., 2019. Can we hope for a collective shift in electric vehicle 
+                                                                                              1002–1012. 
+    adoption? Testing salience and norm-based interventions in South Tyrol, Italy. 
+                                                                                          Keaveney, S.M., 1995. Customer switching behavior in service industries: an exploratory 
+    Energy Res. Soc. Sci. 55, 46–61. 
+                                                                                              study. J. Mark. 59 (2), 71–82. 
+Dharmesti, M., Merrilees, B., Winata, L., 2020. “I’m mindfully green”: examining the 
+                                                                                          Krumpal, I., 2013. Determinants of social desirability bias in sensitive surveys: a 
+    determinants of guest pro-environmental behaviors (PEB) in hotels. J. Hosp. Mark. 
+                                                                                              literature review. Qual. Quant. 47 (4), 2025–2047. 
+    Manag. 29 (7), 830–847. 
+                                                                                          Kvasova, O., 2015. The big five personality traits as antecedents of eco-friendly tourist 
+Dimara, E., Manganari, E., Skuras, D., 2017. Don’t change my towels please: factors 
+                                                                                              behavior. Personal. Individ. Differ. 83, 111–116. 
+    influencing participation in towel reuse programs. Tour. Manag. 59, 425–437. 
+
+
+                                                                                      12
+Q.-C. Wang et al.                                                                                                                                                                      Environmental                      Impact           Assessment                 Review       99 (2023) 107012
+
+Lammi, D.K., Tesfaye, Z., 2021. An exploration of environmental practices in the          Shang, J., Basil, D.Z., Wymer, W., 2010. Using social marketing to enhance hotel reuse 
+    hospitality industry. Evidence from Hotels in Addis Ababa, Ethiopia. J. Environ.          programs. J. Bus. Res. 63 (2), 166–172. 
+    Manage. Tourism 12 (2), 357–370.                                                      Shin, Y.H., Im, J., Jung, S.E., Severt, K., 2018. The theory of planned behavior and the 
+Lan, J., Wong, C.-S., Zeng, G., 2021. Personality profiles for hospitality employees:         norm activation model approach to consumer behavior regarding organic menus. 
+    impact on job performance and satisfaction. Int. J. Hosp. Manag. 98, 103018 https://      Int. J. Hosp. Manag. 69, 21–29. https://doi.org/10.1016/J.IJHM.2017.10.011. 
+    doi.org/10.1016/J.IJHM.2021.103018.                                                   Sircova, A., Karimi, F., Osin, E.N., Lee, S., Holme, P., Strombom,¨  D., 2015. Simulating 
+Laverdiere,`  O., Gamache, D., Morin, A.J.S., Diguer, L., 2020. French adaptation of the      irrational human behavior to prevent resource depletion. PLoS One 10 (3), 
+    mini-IPIP: a short measure of the big five. Eur. Rev. Appl. Psychol. 100512.              e0117612. 
+Liu, X., Wang, Q.-C., Jian, I.Y., Chi, H.-L., Yang, D., Chan, E.H.-W., 2021. Are you an   Stoppel, C.M., Leite, F., 2014. Integrating probabilistic methods for describing occupant 
+    energy saver at home? The personality insights of household energy conservation           presence with building energy simulation models. Energy Build. 68, 99–107. 
+    behaviors based on theory of planned behavior. Resour. Conserv. Recycl. 174,          Tang, C.M.F., Lam, D., 2017. The role of extraversion and agreeableness traits on gen Y’s 
+    105823.                                                                                   attitudes and willingness to pay for green hotels. Int. J. Contemp. Hosp. Manag. 
+Lopez-Bernab´ ´e, E., Foudi, S., Linares, P., Galarraga, I., 2021. Factors affecting energy- Tenenhaus, M., Vinzi, V.E., Chatelin, Y.M., Lauro, C., 2005. PLS path modeling. Comput. 
+    efficiencyinvestment  in the hotel industry: survey results from Spain. Energy Eff. 14    Satis. Data Anal. 48 (1), 159–205. 
+    (4), 1–22.                                                                            Tiefenbeck, V., Worner,¨  A., Schob,¨  S., Fleisch, E., Staake, T., 2019. Real-time feedback 
+Lynn, M., 2021. Effects of the big fivepersonality  traits on tipping attitudes, motives, and promotes energy conservation in the absence of volunteer selection bias and 
+    behaviors. Int. J. Hosp. Manag. 92, 102722 https://doi.org/10.1016/J.                     monetary incentives. Nat. Energy 4 (1), 35–41. 
+    IJHM.2020.102722.                                                                     Untaru, E.-N., Ispas, A., Candrea, A.N., Luca, M., Epuran, G., 2016. Predictors of 
+Mair, J., Bergin-Seers, S., 2010. The effect of interventions on the environmental            individuals’ intention to conserve water in a lodging context: the application of an 
+    behaviour of Australian motel guests. Tour. Hosp. Res. 10 (4), 255–268.                   extended theory of reasoned action. Int. J. Hosp. Manag. 59, 50–59. 
+Markowitz, E.M., Goldberg, L.R., Ashton, M.C., Lee, K., 2012. Profiling the “pro-         Wan, C., Shen, G.Q., Choi, S., 2017. Experiential and instrumental attitudes: interaction 
+    environmental individual”: A personality perspective. J. Pers. 80 (1), 81–111.            effect of attitude and subjective norm on recycling intention. J. Environ. Psychol. 50, 
+McCrae, R.R., Terracciano, A., 2005. Personality profiles of cultures: aggregate              69–79. 
+    personality traits. J. Pers. Soc. Psychol. 89 (3), 407.                               Wang, Q.-C., Chang, R., Xu, Q., Liu, X., Jian, I.Y., Ma, Y.-T., Wang, Y.-X., 2021a. The 
+McLarnon, M.J.W., Carswell, J.J., Schneider, T.J., 2015. A case of mistaken identity?         impact of personality traits on household energy conservation behavioral 
+    Latent profiles in vocational interests. J. Career Assess. 23 (1), 166–185.               intentions–an empirical study based on theory of planned behavior in Xi’an. Sustain. 
+Miao, L., Wei, W., 2013. Consumers’ pro-environmental behavior and the underlying             Energy Technol. Assess. 43, 100949. 
+    motivations: A comparison between household and hotel settings. Int. J. Hosp.         Wang, Q.C., Xie, K.X., Liu, X., Shen, G.Q.P., Wei, H.H., Liu, T.Y., 2021b. Psychological 
+    Manag. 32, 102–112.                                                                       drivers of hotel guests’ energy-saving behaviours—Empirical research based on the 
+Mital, M., Chang, V., Choudhary, P., Papa, A., Pani, A.K., 2018. Adoption of internet of      extended theory of planned behaviour. Buildings 11 (9), 401. 
+    things in India: A test of competing models using a structured equation modeling      Warren, C., Becken, S., Coghlan, A., 2017. Using persuasive communication to co-create 
+    approach. Technol. Forecast. Soc. Chang. 136, 339–346.                                    behavioural change–engaging with guests to save resources at tourist 
+Nicholls, S., Kang, S., 2012. Going green: the adoption of environmental initiatives in       accommodation facilities. J. Sustain. Tour. 25 (7), 935–954. 
+    Michigan’s lodging sector. J. Sustain. Tour. 20 (7), 953–974.                         Wells, V.K., Taheri, B., Gregory-Smith, D., Manika, D., 2016. The role of generativity and 
+Nikolaou, I.E., Vitouladitis, H., Tsagarakis, K.P., 2012. The willingness of hoteliers to     attitudes on employees home and workplace water and energy saving behaviours. 
+    adopt proactive management practices to face energy issues. Renew. Sust. Energ.           Tour. Manag. 56, 63–74. 
+    Rev. 16 (5), 2988–2993.                                                               World Travel & Tourism Council, 2021. Economic Impact Reports. https://wttc. 
+Nisa, C., Varum, C., Botelho, A., 2017. Promoting sustainable hotel guest behavior: A         org/Research/Economic-Impact. 
+    systematic review and meta-analysis. Cornell Hosp. Q. 58 (4), 354–363.                Xu, F., Huang, L., Whitmarsh, L., 2020. Home and away: cross-contextual consistency in 
+Palani, H., Karatas, A., 2021. Identifying energy-use behavior and energy-use profiles of     tourists’ pro-environmental behavior. J. Sustain. Tour. 28 (10), 1443–1459. 
+    hotel guests. Appl. Sci. 11 (13), 6093.                                               Xu, Q., Hwang, B.-G., Lu, Y., 2021a. Exploring the influencing paths of behavior-driven 
+Paul, J., Modi, A., Patel, J., 2016. Predicting green product consumption using theory of     household energy-saving intervention–household energy saving option (HESO). 
+    planned behavior and reasoned action. J. Retail. Consum. Serv. 29, 123–134.               Sustain. Cities Soc. 71, 102951. 
+Poˇskus, M.S., 2020. Normative influence of pro-environmental intentions in adolescents   Xu, Q., Lu, Y., Hwang, B.-G., Kua, H.W., 2021b. Reducing residential energy 
+    with different personality types. Curr. Psychol. 39 (1), 263–276.                         consumption through a marketized behavioral intervention: the approach of 
+Poˇskus, M.S., Zukauskienˇ e,˙  R., 2017. Predicting adolescents’ recycling behavior among    household energy saving option (HESO). Energy Build. 232, 110621. 
+    different big five personality types. J. Environ. Psychol. 54, 57–64.                 Xu, Q., Li, S., Shen, L., Chang, R., Wang, Q.-C., Liu, X., Chen, Y., 2023. Pricing strategy 
+Ram, Y., Nawijn, J., Peeters, P., 2014. Happiness and limits to sustainable tourism           for household energy-saving option (HESO): A novel option-based intervention for 
+    mobility: A new conceptual model. In: Understanding and Governing Sustainable             promoting household energy efficiency. Environ. Impact Assess. Rev. 98, 106969. 
+    Tourism Mobility. Routledge, pp. 57–78.                                               Yadav, M.L., Roychoudhury, B., 2019. Effect of trip mode on opinion about hotel aspects: 
+Romero, E., Gomez-Fraguela, A., Luengo, Angeles, Sobral, J., 2003. The self-control           A social media analysis approach. Int. J. Hosp. Manag. 80, 155–165. 
+    construct in the general theory of crime: an investigation in terms of personality    Yeh, S.S., Guan, X., Chiang, T.Y., Ho, J.L., Huan, T.C.T., 2021. Reinterpreting the theory 
+    psychology. Psychol. Crime Law 9 (1), 61–86.                                              of planned behavior and its application to green hotel consumption intention. Int. J. 
+Salama, W., Abdelsalam, E., 2021. Impact of hotel Guests’ trends to recycle food waste to     Hosp. Manag. 94, 102827 https://doi.org/10.1016/J.IJHM.2020.102827. 
+    obtain bioenergy. Sustainability 13 (6), 3094.                                        Zhang, Y., Bai, X., Mills, F.P., Pezzey, J.C.V., 2018. Rethinking the role of occupant 
+Scheibehenne, B., Jamil, T., Wagenmakers, E.-J., 2016. Bayesian evidence synthesis can        behavior in building energy performance: A review. Energy Build. 172, 279–294. 
+    reconcile seemingly inconsistent results: the case of hotel towel reuse. Psychol. Sci. Zhao, H., Zhou, Q., 2021. Socially responsible human resource management and hotel 
+    27 (7), 1043–1046.                                                                        employee organizational citizenship behavior for the environment: A social 
+Scott, D., Gossling,¨  S., 2021. Destination net-zero: what does the international energy     cognitive perspective. Int. J. Hosp. Manag. 95, 102749. 
+    agency roadmap mean for tourism? J. Sustain. Tour. 1–18. 
+
+
+                                                                                      13

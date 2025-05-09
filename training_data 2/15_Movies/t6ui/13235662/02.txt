@@ -1,0 +1,399 @@
+Marketing Letters 9:4 (1998): 393–405
+© 1998 Kluwer Academic Publishers, Manufactured in The Netherlands
+Clustering at the Movies
+KAMEL JEDIDI
+Associate Professor, Graduate School of Business, Columbia University, 518 Uris Hall, New York, NY 10027,
+e-mail: kj7@columbia.edu
+ROBERT E. KRIDER
+Assistant Professor, School of Business & Management, Hong Kong University of Science & Technology,
+Clearwater Bay, Kowloon, Hong Kong, e-mail: mkkrider@usthk.ust.hk
+CHARLES B. WEINBERG
+Professor, Faculty of Commerce & Business Administration, The University of British Columbia, 2053 Main
+Mall, Vancouver, B.C. V6T 1Z2 Canada, e-mail: weinberg@unixg.ubc.ca
+Abstract
+Weekly box office revenues for approximately 100 successful motion pictures are analyzed by use of a finite
+mixture regression technique to determine if regular sales patterns emerge. Based on an exponential decay model
+applied to market share data, four clusters of movies, varying in opening strength and decay rate, are found.
+Characteristics of the clusters and implications for future research are discussed.
+Key words: Motion pictures, product lifestyle, market segmentation, finite mixture
+Introduction
+The movie industry, like a number of other product categories in the entertainment and
+fashion industries, is characterized by regular new product or model introductions. These
+introductions are vital for the success of the business. In the case of movies, for instance,
+approximately 300 movies are released annually with an average life span (time in the￾atrical release) of less than 10 weeks (Radas and Shugan, 1996). Moreover, an average
+movie is estimated to cost $40 million to produce and $20 million to distribute and
+market, but less than 70% of movies are profitable (Vogel 1994). With major industries
+depending upon the regular introduction of new models with short life spans, it is impor￾tant to understand the sales patterns of these products.
+In this paper our goal is to determine if there are regular patterns in the box office
+revenues of major motion pictures over time. Existing approaches to the study of box
+office revenues emphasize specific characteristics or genre of movies—e.g., action movies
+need “recognizable names to ensure at least a strong opening weekend,” according to a
+front page article in Variety (March 24, 1997). More generally, while motion picture
+executives and industry professionals appear to be able to make good predictions of a
+movie’s success just before it opens (see Krider and Weinberg 1998 for evidence on this),
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/27/98 3:08 pm. PG.POS. 1 SESSION: 30
+attempts “to find movie characteristics that co-vary with attendance … [have had some
+success], but the predictive power of these variables could be poor and appears to be
+unstable over time.” (Eliashberg and Shugan, 1997, p.69).1 Our concern is not with
+prediction, but rather with understanding sales histories. In particular, our approach fo￾cuses on the actual weekly box office revenues of movies to see if there are clusters of
+movies which follow relatively consistent sales patterns and to see if these patterns relate
+to variables that are available before a movie’s release.
+To accomplish this goal, we analyze weekly market share data for 102 major motion
+pictures released between December 1990 and April 1992. We employ a finite mixture
+regression methodology (Jedidi, Kohli, and DeSarbo, 1996; Helsen, Jedidi, and DeSarbo,
+1993) for analysis. The next section of the paper describes the data we use, followed by
+a brief description of the methodology. We then present our results, along with conclu￾sions and suggestions for future research.
+Data
+Our focus is on major motion pictures, which account for the bulk of North American box
+office revenues. Each week, Variety publishes a list of the 50 (or 60) top grossing films for
+the week. We confine our analysis to films which were among the top 5 movies for at least
+one week during the period December 1990 to April 1992.2 Our data include about 25%
+of the movies released by Hollywood, but represent about 80% of box office revenues
+during the time periods studied.3
+To control for the effects of seasonality and competition, we transform our revenue data
+into market share terms. While the predominant pattern for major motion pictures is
+wide-release and mass-marketing, there are, at times, a few “sleepers,” or unexpected hits
+which open slowly and gradually build an audience.4 These, while memorable, are un￾usual; moreover, as a June 2, 1997 front page Variety headline speculates, “megapix may
+make ‘sleepers’ extinct.” In our data set, there are only two such movies—“Driving Miss
+Daisy” and “Reversal of Fortune”—and they were eliminated from further analysis. The
+remaining 102 movies follow a consistent pattern of having their largest market share in
+their first week of wide release, and then declining in an approximately exponential decay
+pattern. (See Krider and Weinberg, 1998 for an analysis of the revenue patterns of indi￾vidual movies.)
+Consequently, we postulate the following exponential decay model (omitting error
+terms) for each movie’s market share over time:
+Sharet 5 e
+a2b t
+, where t 5 0, 1, 2,… (1)
+and a is a parameter capturing the opening share and b is the decay constant.
+394 JEDIDI ET AL.
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/01/98 2:23 pm. PG.POS. 2 SESSION: 24
+Methodology
+One approach to looking for clusters in movie share-of-revenue patterns would be to
+conduct a regression analysis for each of the movies and then cluster the movies on the
+basis of the resulting parameter values. However, as discussed by Helsen, Jedidi, and
+DeSarbo (1993), a finite mixture approach has a number of advantages over this tradi￾tional approach. In particular, it helps to overcome problems of short time series and
+limited data for each movie by simultaneously determining movie clusters and parameter
+estimates. In addition, the number of clusters is determined based on statistical tests that
+involve the use of various information criteria, the most popular of which is the Bayesian
+Information Criterion (BIC) which penalizes for overparametrization. This requires esti￾mating the finite mixture model for different number of clusters and then choosing the
+solution with minimum BIC. The methodology is described in detail in Jedidi, Kohli, and
+DeSarbo (1996) and Helsen, Jedidi, and DeSarbo (1993).
+We applied the finite mixture regression procedure, modified for the exponential decay
+function, equation (1), and generated parameter estimates and BIC measures while vary￾ing the number of clusters from 1 to 5.
+Results
+For the 102 movies that we analyzed, the most appropriate structure involves 4 clusters
+(see Table 1). This structure has the minimum BIC; it also exhibits an elbow in its
+likelihood function and almost all movies have a posterior probability greater than 90% of
+belonging to a primary cluster as reflected by the high 0.925 entropy measure.5 (See Table
+1.) Appendix A reports the classification results for the movies. Thus, the four cluster
+structure appears to discriminate well among the movies, at the same time that it accounts
+for a substantial portion of the variability among movies.
+Table 2 presents the parameter estimates for each of the four clusters. We use these
+estimates to compute opening shares and decay rates. The clusters differ both in opening
+share and in decay rate, as shown in Figure 1.
+Clusters 1 (what we call “Hollywood Heros”) and 2 (“Mega Movies”) represent the
+most successful movies. Cluster 1, (the larger cluster) accounting for 19% of the movies,
+opens with a 22.6% share and declines at a rate of 20% per week. In contrast, Cluster 2
+Table 1. Summary statistics for model selection
+Number of Clusters Number of Parameters Ln Likelihood BIC** Entropy
+1 3 2 1444.5 2902.9 —
+2 7 2 991.1 2014.6 0.918
+3 11 2 687.5 1426.1 0.929
+4 15 2 554.3 1177.9* 0.925
+5 19 2 550.6 1189.1 0.934
+* Denotes minimum BIC
+** AIC and CAIC also pointed to a four-cluster solution
+CLUSTERING AT THE MOVIES 395
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/27/98 3:09 pm. PG.POS. 3 SESSION: 31
+accounting for 7% of the movies, opens with a slightly smaller opening share of 20% but
+declines at a very low rate of only 10% per week. The next two clusters, approximately
+equal in size, account for nearly three quarters of the movies in our sample. The third
+cluster, representing 38% of the movies in our sample, opens with a market share of 8%,
+which then falls at a fairly rapid rate of 36% per week. This set of movies, which we term
+Table 2. Characteristics of clusters for model: Share 5 ea2b t; t 5 0, 1, 2, …
+CLUSTER NUMBER
+1 2 34
+a 2
+1.484 2 1.614 2 2.520 2 2.255
+Standard Error 0.027 0.135 0.065 0.034
+b
+0.224 0.110 0.439 0.258
+Standard Error 0.002 0.009 0.009 0.004
+Error Variance Estimates 0.310 0.948 0.784 0.492
+Fraction of Movies in Cluster 0.191 0.068 0.378 0.364
+Opening Share* 22.6% 20.0% 8.0% 10.5%
+Decay Rate** 20.0% 10.4% 35.5% 22.7%
+Cumulative Share for Median (12.5 week) run 113% 192% 23% 47%
+* Opening Share 5 ea
+** Decay Rate 5 1 2 e2b
+Figure 1. Estimated share patterns over time for the four-cluster solution.
+396 JEDIDI ET AL.
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/01/98 2:23 pm. PG.POS. 4 SESSION: 24
+“Fast Fade,” is the least successful set of movies in our study. Most of these movies
+achieve a highest ranking of fourth or fifth for one week, and then decline rapidly. Our
+final cluster (“Fair Flicks”), consisting of 36% of the movies, declines at a rate of 23%
+after obtaining an opening week share of 10.5%. Interestingly, while the smallest cluster
+(Mega Movies) has the highest cumulative share per movie, the largest cluster in terms of
+number of movies (Cluster 3), has the smallest cumulative share per movie.
+By calculating the cumulative share over the median run length (12.5 weeks) for movies
+in our sample, it can be seen that the effect of a slower decline is substantial. Cluster 2
+opens at a slightly lower share (20%) than Cluster 1 (23%), but the slower declining
+Cluster 2 movies have cumulative revenue nearly 70% (192/113) greater than those for
+Cluster 1. The rapidly declining Cluster 3 earns about one-third of its revenue in the first
+week of wide-release and will usually have a brief theatrical release. The positive effect of
+a slow decay is reinforced further, since slowly declining movies are likely to be shown for
+a longer period of time in theaters.
+Posterior analysis
+Table 3 presents characteristics of the movies in each of the four clusters. While we would
+not suggest that the overall appeal of a movie can be reduced to a weighted summation of
+its characteristics, previous research (Wallace, Seigerman, and Holbrook 1993; Sawhney
+and Eliashberg 1996) has reported some success in forecasting revenues based on such
+characteristics. Based on this literature, we selected a set of variables that would be
+available before a movie is released, a set that would reflect the overall quality of the
+movie, and a set of variables external to the movie. The first set of variables included the
+genre of the movie, whether the movie included major stars (as classified by Quigley’s
+Motion Picture Almanac, Klain, 1990), the Motion Picture of America Association’s
+(MPAA) classification of the movie as R, PG-13, or G/PG (none of the [successful]
+movies in our sample were rated X and too few were rated G to be kept as a separate
+category), and whether the movie was a sequel or not. A number of measures of quality
+are available. To capture the industry’s view, we used a variable indicating whether or not
+the movie was nominated for one of the major (Best Picture, Best Director, Best Leading
+or Supporting Male or Female Actor) academy awards. To capture the public’s view more
+generally, we relied on the 5 point rating (1 5 lowest, 5 5 highest) provided by Block￾buster Entertainment (Castell, 1996). External factors were measures of competitive in￾tensity, distribution, and seasonality. Since competing movies have the strongest draw in
+the earliest parts of their runs, our competitive intensity measures focused on newly
+opened competing movies. One measure (OPENST) looked at movies competing with the
+target movie at the time of opening. It is the number of competing movies that are in either
+their first or second week when the target movie opens. (Two other measures—counting
+movies in their first week only, or in first, second or third weeks—led to results similar to
+those reported below). This measure focuses on competition at a movie’s opening. Be￾cause the target movie is described in terms of its opening and decay, a second measure
+of competitive intensity was the average number of new movies opening per week over the
+CLUSTERING AT THE MOVIES 397
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/01/98 2:44 pm. PG.POS. 5 SESSION: 27
+entire run of the movie (OPENWK). Distribution intensity was captured by the maximum
+number of screens (MAXSCREENS) the movie played on in any week, over its run.
+Seasonality was measured by a dummy variable that takes the value one for movies
+released in the high Christmas season (the four weeks starting mid-December), and the
+summer season, (mid-May to the first week in September), and zero for those released in
+the remainder of the year.
+To determine whether these characteristics were associated with cluster membership,
+we ran a discriminant analysis in which each of the categories for genre and MPAA ratings
+were treated as 0, 1 dummy variables.6 Two discriminant functions were significant, with
+the first dimension accounting for 74% of the variance (see Figure 2). The overall hit rate
+of 58% is much higher than chance as well as being higher than the maximum chance
+criterion (Cluster 3 has 38% of movies). The following eight variables were selected at a
+significance level of p , 0.05 by the stepwise discriminant analysis procedure:
+• SEQUEL
+• G/PG (MPAA dummy for G or PG ratings)
+• ACADEMY AWARD WINNER
+• Blockbuster’s Movie RATINGS
+• SEASONALITY
+• MAXSCREENS
+Table 3. Characteristics of clusters
+Variable Cluster 1 Cluster 2 Cluster 3 Cluster 4 Overall
+GENRE:
+Comedy 30% 29% 26% 39% 31%
+Family 15% 14% 5% 11% 10%
+Drama 20% 29% 18% 14% 18%
+Horror 10% 0% 18% 3% 10%
+Crime 10% 29% 10% 11% 12%
+Action 15% 0% 20% 14% 16%
+Others 0% 0% 3% 8% 4%
+MPAA Classification:
+PG13 20% 57% 26% 33% 29%
+R 45% 29% 67% 42% 51%
+PG&G 35% 14% 8% 25% 20%
+HAVING STARS: 35% 29% 15% 28% 25%
+SEQUEL: 35% 0% 13% 11% 16%
+ACADEMY AWARD: 15% 14% 0% 0% 5%
+Blockbuster’s Movie RATINGS:
+(from 1 lowest to 5 highest): 3.75 4.15 3.08 3.26 3.34
+HIGH SEASON: 55% 29% 18% 47% 36%
+MAXIMUM NUMBER OF SCREENS: 1773 1699 1414 1611 1574
+COMPETITION:
+OPENST 2.0 3.3 2.5 2.2 2.35
+OPENWK 1.2 1.3 1.4 1.3 1.36
+398 JEDIDI ET AL.
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/27/98 3:12 pm. PG.POS. 6 SESSION: 32
+• OPENST (Number of competitive openings during the first two weeks)
+• OPENWK (Average number of new movies opening per week)
+Figure 2. Plot of discriminant analysis. Cluster coordinates are cluster means on discriminant axes. Variable
+coordinates are discriminant coefficients normalized to unit length.
+CLUSTERING AT THE MOVIES 399
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/01/98 2:45 pm. PG.POS. 7 SESSION: 27
+Interestingly, none of the genre classifications are significant. While Cluster 2 (“Mega
+Movies”) does not include certain categories (e.g., Horror), genre does not contribute
+significantly to the overall categorization scheme.
+The characteristics of the clusters are quite intriguing and reveal potentially interesting
+patterns both in industry strategy and audience characteristics. Starting with Cluster 3,
+“Fast Fade,” we see that almost half of these movies are in the crime, horror, and action
+categories. This cluster, accounting for more movies than any other, has the lowest open￾ing share and the highest decay rate. While some of the movies in this cluster are
+undoubtedly those for which more was hoped, most of the movies are targeted at a
+(probably male) segment that wants action. Movie producers appear to have recognized
+this; as shown in Figure 2, the movies do not earn academy award nominations or high
+ratings from critics. The data in Table 2 show that they infrequently use stars in their
+movies. Moreover, the producers seem to know that these movies are unlikely to gather a
+showing in a high number of screens. Thus, Cluster 3 movies tend to avoid the high
+season; they appear at a time when there are more likely to be a significant number of
+other (presumably also of lower quality) movies in distribution. Just as the movies in this
+cluster are characterized by action, so is the audience. With a high decay rate, the audience
+quickly moves on to other movies.7
+And where do these people go? Most people go to the seven movies in Cluster 2, the
+Mega Movies. What distinguishes this cluster from the others, as indicated by Dimension
+2, is that it produces high quality movies. However, there are other factors as well. Aside
+from one movie, Little Mermaid, it avoids the G-PG classification and thus appeals to a
+wide audience who wants at least a little “edge” in their movies. This cluster contains no
+sequels, thus appearing “fresh” to its audience. Interestingly, the movies in this cluster
+tend to avoid the high season, which may provide them with sufficient strength to over￾come the competition they face in the early weeks of their release. Presumably it is the
+quality of these movies (BBRA) which provides them with a very low decay rate. As
+indicated in Figure 1, the maximum number of screens is about equally important for both
+Clusters 1 and 2, but it is Cluster 2’s quality which allows it to sustain an audience.
+Cluster 1 also contains movies of high quality. However, in this case, while these
+movies received an equivalent percentage of academy award nominations, the overall
+reaction to these movies as measured by Blockbuster’s ratings is not as strong. Moreover,
+Cluster 1 movies seem to follow a releasing strategy that avoids competition both in the
+opening weeks (OPENST) and throughout its run.
+Cluster 4 movies are in many ways similar to Cluster 1 movies, except they don’t
+achieve the same quality standard. This weakness to a large part may be recognized early
+on, as they are released to fewer screens and face stiffer competition than Cluster 1
+movies. Market forces thus exacerbate the difficulties, but are not the underlying cause.
+To explore further this intuition, we re-ran the analysis without the external factors
+(SEASONALITY, MAXSCREENS, OPENST, OPENWK) and found that virtually the
+same movie-related factors remained significant, and that the qualitative structure of the
+map was nearly identical.8 One difference is that without OPENWK, the average com￾petitive intensity over the run, Clusters 3 and 4 are not as strongly separated.
+400 JEDIDI ET AL.
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/27/98 3:17 pm. PG.POS. 8 SESSION: 34
+Conclusions, limitations, and future research
+While not all major movies are alike, neither are their sales patterns all different. We find
+that the market share patterns for major North American movies (released between De￾cember 1990 and April 1992) can be grouped into four main clusters, involving differ￾ences in both opening strength and decay rate. We focus on major movies because they
+account for the vast majority of revenues, and presumably profits, although Hollywood
+accounting is, at times, baffling. (See Vogel 1994.)
+Our research has a number of limitations. Movies with lower box office revenues would
+undoubtedly add different patterns. One such pattern would be a very small opening share
+followed by a rapid decay, but there may be other patterns as well. The approach we
+develop here could be applied to a much larger sample size.
+In addition to being limited to major movies, we also look at only one time period (i.e.,
+December 1990–April 1992) and only one market. The study could be replicated over
+other data sets to determine the stability of the clusters over time. Since Hollywood
+generally opens its movies in North America and then distributes them to other countries
+at a later date, it would be interesting to see if other countries have similar cluster
+structures.
+Differences in cluster structures across countries could be explained by distribution
+characteristics in each country, cultural factors or other elements. In a preliminary analy￾sis, we found that data for movies shown in Hong Kong also form four clusters, but that
+the clusters seem to have different opening share and decay patterns. This result is not
+unexpected, given that movie runs are defined in Hong Kong by days rather than by weeks.
+An interesting area of future research, following the direction established by Helsen,
+Jedidi, and DeSarbo (1993), would be to examine sales patterns across countries and
+determine if groups of countries emerge which have similar patterns. This might help
+movie producers develop an international releasing strategy that is sensitive to market
+factors. This is particularly important, since Hollywood earns more box-office revenues
+from outside North America than from North America itself.
+If consistent clustering patterns can be established, either country-by-country or glo￾bally, then an interesting next step would be to determine how accurately movie charac￾teristics can be used to estimate cluster membership. In turn, if movies can be assigned to
+clusters on a reliable basis, then this information can perhaps be used to improve early
+forecasts of a movie’s eventual revenue streams.
+Acknowledgment
+The authors thank Asim Ansari, Donald Lehmann, and Sanjeev Swami for valuable
+comments on this research.
+CLUSTERING AT THE MOVIES 401
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/27/98 3:17 pm. PG.POS. 9 SESSION: 34
+402 JEDIDI ET AL.
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/27/98 3:17 pm. PG.POS. 10 SESSION: 34
+a APPENDIX A. List of movies and primary cluster assignment
+Cluster 1 Cluster 2 Cluster 3 Cluster 4
+Awakening Dances With Wolves Adventure of Ford
+Fairlane
+Air America
+Back to the Future Part III Ghost Bad Influence Always
+Back to the Future Part II Goodfellas Blue Steel Another 48 Hours
+Born on the Fourth of July Home Alone Cadillac Man Arachnophobia
+Die Hard 2 Little Mermaid Career Opportunities Bird on a Wire
+Edward Scissorhands Pretty Woman Child’s Play 2 Class Action
+Flatliners Silence of the Lambs Darkman Days of Thunder
+Hunt for Red October Death Warrant Defending Your Life
+Kindergarten Cop Exorcist III Dick Tracy
+Misery Fantasia Doors
+New Jack City Fire Birds Ernest Goes to Jail
+Out for Justice First Power Godfather Part III
+Presumed Innocent Flashback Gremlins
+Sleeping With the Enemy Flight of the Intruder Hard to Kill
+Tango and Cash Funny about Love Hard Way
+Teenage Mutant Ninja Turtles Graveyard Shift House Party
+Teenage Mutant Ninja Turtles II Guardian Internal Affairs
+Three Men and A Lady Jacob’s Ladder Jetsons: The Movie
+Total Recall Lionheart Joe Versus the
+Volcano
+War of the Roses Loose Cannons Jungle Book
+CLUSTERING AT THE MOVIES 403
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/27/98 3:17 pm. PG.POS. 11 SESSION: 34 APPENDIX A. (Continued) Cluster 1 Cluster 2 Cluster 3 Cluster 4 Lord of the Flies King Ralph Madhouse L.A. Story Miami Blues Look Who’s Talking Too My Blue Heaven Marked for Death Narrow Margin Marrying Man Navy Seals Memphis Belle Never Ending Story II Men at Work Once Around National Lampoon’s Christmas V Opportunity Knocks Pacific Heights Predator 2 Postcards from the Edge Revenge Problem Child Rocky V Quigley Down Under Rookie Rescuers Down Under Sibling Rivalry Robocop 2 Spaced Invaders White Fang Stella Young Guns II Tales From the Darkside Tremors White Palace a. For these 102 movies, all had a greater than 90% posterior probability of cluster membership except the following: Career Opportunities (69% Cluster 3, 31% Cluster); Darkman (62% Cluster 3, 38% Cluster 4); Death Warrant (82% Cluster 3, 18% Cluster 4); Defending Your Life (26% Cluster 3, 71% Cluster 4); Edward Scissorhands (76% Cluster 1, 24% Cluster 4); First Power (71% Cluster 3, 29% Cluster 4); Loose Cannons (85% Cluster 3, 15% Cluster 4); Madhouse (72% Cluster 3, 28% Cluster 4); Marrying Man (34% Cluster 3, 66% Cluster 4); Men at Work (38% Cluster 3, 62% Cluster 4); New Jack City (73% Cluster 1, 27% Cluster 4); Out of Justice (68% Cluster 1, 8% Cluster 2, 8% Cluster 3, 17% Cluster 4); Silence of the Lambs (34% Cluster 1, 66% Cluster 2).
+Notes
+1. New approaches, based on innovative marketing research models, appear to hold promise for improvement
+in forecasting accuracy. See, for example, Sawhney and Eliashberg, (1996). In addition, in some specific
+instances, successful forecasting and planning models have been developed and implemented. For example,
+in the performing arts, see Weinberg (1986).
+2. The same set of movies was analyzed by Krider and Weinberg (1998).
+3. The distinction between the “two Hollywoods,” one aiming to produce high grossing blockbusters and the
+other, more independent sector is now accepted. The latter sector, often appealing to a tightly targeted
+audience, can be highly profitable. The artistic merits of such a separation are debatable, as Gabler (1988,
+p.78) notes: “There are now small films for older arty audiences and big films for younger action-oriented
+ones, which puts the movies exactly where literature, music, dance and art are: split. Even more important,
+the segregated audience has allowed film makers to segregate themselves, too. … Now that the independents
+have relieved their film makers of the obligation to reach a large audience and studios have relieved theirs
+of the obligation to make intelligently crafted pictures, the split between art and entertainment is larger than
+ever and, one fears, never the twain shall meet.”
+4. There are also disappointments; in 1997, these included “Volcano” (with a loss of $40 million) and
+“Father’s Day.” Klady, 1997).
+5. Entropy is bounded by 0 and 1. A value close to 0 indicates that the posterior probabilities are not well
+separated (i.e., it is difficult to classify movies into distinct groups).
+6. All movie characteristics are standardized to have zero mean and unit variance to facilitate comparison of
+effects.
+7. DeVany and Walls (1997), while using a different approach, also obtain results which imply “that audiences
+have a taste for variety, (p. 795).”
+8. The dummy variable for G/PG was replaced by the dummy variable for R.
+References
+Castell, Ron. (1996). Blockbuster Entertainment Guide to Movies and Videos 1997 (New York: Dell Publishing).
+DeVany, Arthur S. and W. David Walls. (1997). “The Market for Motion Pictures: Rank, Revenue, and Survival,”
+Economic Inquiry 35 (October), 783–797.
+Eliashberg, Jehoshua and Mohanbir S. Sawhney. (1994). “Modeling Goes to Hollywood: Predicting Individual
+Differences in Movie Enjoyment,” Management Science 40 (September), 1151–1173.
+Eliashberg, Jehoshua and Steven M. Shugan. (1997). “Film Critics: Influencers or Predictors?” Journal of
+Marketing 61 (April 1997), 68–78.
+Gabler, Neal. (1997). “The End of the Middle,” New York Times Magazine (November 16), 76–78.
+Jedidi, Kamel, Rajeev Kohli, and Wayne DeSarbo. (1996). “Consideration Sets in Conjoint Analysis,” Journal
+of Marketing Research 33 (August), 364–372.
+Helsen, Kristiaan, Kamel Jedidi, and Wayne S. DeSarbo. (1993). “A New Approach to Country Segmentation
+Utilizing Multinational Diffusion Patterns,” Journal of Marketing 57 (October), 60–71.
+Klady, Leonard. (1997). “Studios Hedge Their B.O. Bets,” Variety (June 16–22), 7–15.
+Klain, Jane. (1990). Ed., The International Motion Picture Almanac, 61st edition. New York, NY: Quigley
+Publishing Company.
+Krider, Robert E. and Charles B. Weinberg. (1998). “Competitive Dynamics and the Introduction of New
+Products: The Motion Picture Timing Game,” Journal of Marketing Research (February), Vol. 35, No. 1, 1–15.
+Radas, S. and S. M. Shugan. (1996). “Seasonal Marketing and Timing Introductions,” unpublished working
+paper, University of Florida.
+Sawhney, Mohanbir S., and J. E. Eliashberg. (1996). “A Parsimonious Model for Forecasting Gross Box-Office
+Revenues of Motion Pictures,” Marketing Science 15, 2, 113–131.
+404 JEDIDI ET AL.
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/27/98 3:17 pm. PG.POS. 12 SESSION: 34
+Vogel, Harold L. (1994). Entertainment Industry Economics: A Guide for Financial Analysis, Third Edition, New
+York: Cambridge University Press.
+Wallace, W. Timothy, Alan Seigerman, and Morris B. Holbrook. (1993). “The Role of Actors and Actresses in
+the Success of Films: How Much Is a Movie Star Worth?” Journal of Cultural Economics 17 (1), 1–27.
+Weinberg, Charles B. (1986). “ARTS PLAN: Implementation, Evolution, and Usage,” Marketing Science 5
+(Spring), 143–158.
+Wilson, L. O. and J. A. Norton. (1989). “Optimal Entry Timing for a Product Line Extension,” Marketing Science
+8, 1, 1–17.
+Zufryden, Fred. (1996). “Linking Advertising to Box Office Performance of New Film Releases: A Marketing
+Planning Model,” Journal of Advertising Research (July–August), 29–41.
+CLUSTERING AT THE MOVIES 405
+Kluwer Journal
+@ats-ss10/data11/kluwer/journals/mark/v9n4art7 COMPOSED: 07/27/98 3:17 pm. PG.POS. 13 SESSION: 34

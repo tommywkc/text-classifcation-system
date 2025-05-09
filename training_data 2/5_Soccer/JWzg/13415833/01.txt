@@ -1,0 +1,159 @@
+Principles and practices of training for soccer
+Author links open overlay panelRyland Morgans a b, Patrick Orme a c, Liam Anderson a c, Barry Drust a c
+Abstract
+The complexity of the physical demands of soccer requires the completion of a multi-component training programme. The development, planning, and implementation of such a programme are difficult due partly to the practical constraints related to the competitive schedule at the top level. The effective planning and organisation of training are therefore crucial to the effective delivery of the training stimulus for both individual players and the team. The aim of this article is to provide an overview of the principles of training that can be used to prepare players for the physical demands of soccer. Information relating to periodisation is supported by an outline of the strategies used to deliver the acute training stress in a soccer environment. The importance of monitoring to support the planning process is also reviewed.
+Keywords
+MonitoringPeriodisationSoccerSmall-sided gamesTraining
+1. Introduction
+The physiological demands of soccer are complex. This complexity is partly a consequence of the nature of the exercise pattern. The requirement for frequent changes in both the speed of movement (e.g., walking, jogging, high intensity running, and sprinting) and direction, makes the activity profile intermittent. The intermittent exercise associated with soccer necessitates contributions from both the aerobic and the anaerobic energy systems. Training programmes for players will therefore need to include activities and exercise prescriptions that stress these systems. Players also need to possess muscles that are both strong and flexible. These attributes are important for the successful completion of the technical actions (e.g., passing, shooting, etc.) which ultimately determine the outcome of the match. Effective ways to develop both strength and range of movement, especially in the lower limbs, also needs to be systematically planned and performed in training.
+
+The need to include a number of components of fitness into the training programmes of soccer players would indicate that the exercise prescription should be multi-dimensional. The inclusion of specific training plans for the development of a number of energy systems as well as specific muscle exercises would lead to a need for multiple types of physical training sessions. The completion of a large number of such training sessions is problematic in a sport such as soccer for various reasons. The need to include training that is focussed on the development/practice of technical skills and sessions that impact on the tactical requirements of soccer prevent the completion of numerous physical training sessions. Technical/tactical sessions are frequently the priority in the training plan and will therefore often take precedent overall other training activities. The large number of competitive fixtures, as well as the need for frequent travel, further limits the time that is available to undertake physical training in the competitive season. These restrictions promote the need for a more global approach to the training of players by devising sessions that promote the simultaneous development of physical, technical, tactical, and mental qualities.
+
+The restrictive framework that governs the inclusion of sessions focussed on purely physical conditioning makes planning a priority. Detailed planning of both the acute and chronic physical training sessions ensures that training is efficient in its delivery. This will help to maximise the performance improvements associated with the training completed by the players. This article aims to outline the theoretical approach used to plan physical training in soccer. It also includes important information on the sport-specific way to deliver a physical training stimulus. A short section on the importance of monitoring the activity completed by players will also be included as such strategies are vital to performance, especially for the modern elite player.
+
+2. Planning training for soccer: the importance of periodisation
+Periodisation is a theoretical model that offers a framework for the planning and systematic variation of an athlete's training prescription.1 Periodisation was originally developed to support the training process in track and field or similar sports in which there is a clear overall objective such as training tailored towards a major championship such as the Olympics.2 The inclusion of variation in the prescribed training load is thought to be a fundamentally important concept in successful training programmes.3 This is a consequence of the sustained exposure to the same training load failing to elicit further adaptations. Sustained training loads, especially if they are high, can also lead to mal-adaptations such as fatigue and injury. Both these outcomes would result in ineffective training sessions and a failure to benefit performance of both the individual athlete and the team.
+
+The variation in training load important for periodisation is obtained by the use of a number of structural units that are used to fulfil the specific aim(s) associated with a training programme.4 While the specific terminology to name these units can vary within the literature the nature of the units is inherently similar. The three most important sub-divisions are termed by Cissik4 as the phase of training, the macro-cycle, and the micro-cycle. The major difference between these three sub-divisions is the time period associated with each other (6–30 weeks for the phase of training; 2–6 weeks for a macro-cycle, 1 week for a micro-cycle). This difference in duration enables easier planning as well as an increased flexibility to respond to the athlete(s) reaction to the recently completed training sessions. While different models of periodisation are available (these in simple terms utilise different approaches to vary the training load) they all employ similar structural training units and conceptual approaches to planning. The specific choice of periodisation model will be dictated by factors such as the training requirements of the athlete and the competition schedule that is needed to be fulfilled.5
+
+Despite the popularity of periodisation with conditioning coaches in the USA,3 there is limited research to support this model as the most effective theoretical framework to train athletes especially soccer players. In addition, a lack of evidence prevents the direct application of traditional periodisation models to team sports such as soccer.3 These challenges centre around the need for soccer players to attain multiple physical training goals within similar time periods and a competitive fixture schedule that requires multiple (around 40–50) peaks across a large number of months (n = 10). While it is clear that some general concepts associated with periodisation (for example, the division of the year into phases of training, namely pre-season, the competitive season, and the off-season) are applied within the elite professional game, there is little evidence for the wholesale application of the principles of periodisation. Relatively little information is available, either in the peer reviewed scientific literature or applied professional journals, that provides a detailed outline of the longitudinal training loads experienced by players in soccer. Recent unpublished research from our group6 has attempted to characterise such training load patterns in an elite Premier League soccer team. The data have illustrated small variations in training load across both phases of training and macro-cycles indicating that the loading patterns completed by these players does not comply with that which would be expected if the principles of periodisation was applied. While the data are limited to the training load prescription of one team and its coaches it is likely to reflect a common occurrence within the sport. This is a direct consequence of an inability to systematically manipulate loading patterns across long periods of time due to the requirement to play competitive fixtures in both domestic and international league and cup competitions. Variations in training load are, however, much more frequently seen within the smallest structural planning unit of the micro-cycle. While the micro-cycle is traditionally associated with a 7-day period it can easily be manipulated to reflect the number of days between competitive fixtures. In this way practitioners are able to use the basic principles of periodisation to plan training loads that provide a physical training stimulus to the players as well as facilitate recovery and regeneration from/for competitive matches.
+
+Effective training requires a structured approach to plan the variation in training load albeit across relatively short time periods in soccer. The recognition of a number of key principles when planning facilitates the adaptive process. The importance of progressive overload has already been discussed above. As the improvement in performance is a direct result of the quantity and quality of work completed, a gradual increase in the training load is required to underpin an increase in the body's capacity to do work.7 The progression of load is obtained through subtle changes in factors such as volume (the total quantity of the activity performed), intensity (the qualitative component of the exercise) and the frequency (the number of sessions in a period of time-balance between exercise and recovery)7 of training. The approach to such progressions in training should ideally be individualised as each athlete will be unique in their current ability and their potential to improve. Such individualisation is frequently ignored in team sports such as soccer where the training prescription is often focused on the group. Specificity is widely identified as a fundamental factor in shaping the training response.3 The term specificity, in the context of training, is related to both the physiological nature of training stimulus and the degree to which training resembles actual competition.3 The importance of specificity is based on the notion that the transfer of training performance is dependent on the degree to which training replicates the competitive conditions. As such all sessions included in the training programme should have relevance to both the energetic and metabolic requirements and movement patterns of the sport.
+
+3. Practical considerations in delivering soccer-specific training
+In order to optimally prepare players to undertake the different positional match demands, specific physical and technical soccer drills and practices that have key physiological objectives need to be regularly implemented. An appropriate training stimulus, to achieve the required physiological objectives, has traditionally been delivered through athletic type running activities. A global training methodology, that incorporates soccer specific activities that not only complement but physically contrast each other, as well as support the team's tactical strategy, can promote the development of the technical, tactical, physical, and mental capacities of players simultaneously.
+
+A variety of soccer drills and running protocols have been designed to train metabolic systems important to soccer. These primarily target the development of the aerobic and anaerobic systems. As a consequence the manipulation of running speeds during practices is important (Table 1). The delivery of these practices needs to adhere to basic principles of training, as previously mentioned; frequency, intensity, time, type, specificity, progressive overload, reversibility, and the player's ability to tolerate training load to ensure fitness development. All conditioning drills, whether soccer specific or running, can achieve a required physical outcome, although the specific choice of drill may be dependent on the philosophy of the manager as much as the conditioning staff.
+
+Table 1. Simple overview of the relationship between different physiological systems and the development of different fitness components.
+
+Characteristic	ATP-PC energy system	Lactic acid system	Aerobic energy system
+Intensity of activity	High intensity (95%+max HR)	
+•
+High intensity (85%+max HR)
+
+•
+Used for increases in intensity during long duration events when PC has not restored
+
+•
+Resting
+
+•
+Sub-maximal intensity (<85%+max HR)
+
+The duration that the energy systems are dominant during activity	Short duration (1–5 s)	Intermediate duration (5–60 s)	Long duration (75 s+)
+Total% event duration	0–10 s	10–75 s	75 s+
+It is the major contributor in events that are of more than 75 s in total event duration
+Fitness components	
+•
+Anaerobic: power and speed
+
+•
+Muscular strength (1–3 s)
+
+•
+Muscular power
+
+•
+Dynamic flexibility
+
+•
+Agility
+
+•
+Anaerobic: power and speed
+
+•
+Muscular power (when repeated efforts are made during activity)
+
+•
+Muscular strength (isometric > 5 s)
+
+•
+Dynamic flexibility
+
+•
+Local muscular endurance
+
+•
+Agility (only if fatiguing)
+
+•
+Aerobic capacity/CV endurance
+
+•
+Local muscular endurance
+
+•
+Static flexibility
+
+Abbreviations: HR = heart rate; CV = cardiovascular; ATP-PC = adenosine triphosphate-phosphocreatine.
+
+
+Of particular interest in the development of a global method of training is the utilisation of small-sided games (SSG) as a means of training physical and technical parameters. In using SSG, coaches have the opportunity to maximise their contact time with players, increase the efficiency of training, and subsequently reduce the total training time because of their multifunctional nature.8 It is believed that this type of training is particularly beneficial for those elite players who have limited training time as a result of intense fixture schedules. In addition to being an extremely effective use of training time and sport-specific physical load, the use of soccer drills for physiological development may have several advantages over traditional physical training without the ball (running protocols). One of the main differences between traditional and more contemporary soccer-specific training methods is that the presence of the ball during SSG allows the simultaneous improvement of technical and tactical skills. It also provides greater motivation for the players within any given activity.9 Nevertheless, players are relatively free during SSG and their effort is highly dependent on their level of individual motivation. During SSG, coaches cannot control the activity level of their players, and so it is not very clear to what extent this training modality has on the potential to produce the same physiological responses as short duration intermittent running often produced in matches. This is one of the major limitations of using such specific forms of training.
+
+It appears that in general SSG, such as 2 v 2 up to 4 v 4 (plus goalkeepers (GKs)) and medium-sided games (MSG), such as 5 v 5 up to 8 v 8 (plus GKs), produce intensities that are considered optimal to improving endurance parameters.10, 11, 12, 13, 14 Practices involving large-sided games (LSG), such as 9 v 9 and 10 v 10 (plus GKs), can also result in specific movement patterns that incorporate stretch-shortening-cycle (SSC) activities as well as energy systems that are important to the physiological development for soccer and position-specific capabilities based around the team's tactical strategy. As training intensity is the primary focus for training adaptations coaches can influence the intensity of SSG through altering the number of players, pitch size,9, 15 game rules,9, 16, 17 and/or the duration of individual games (Table 2). The frequency of specific skills that are performed by the players may also influence the training intensity.16
+
+Table 2. Review of physiological loads associated with various soccer training drills.
+
+Drill	Author	Pitch size	Duration	Subjects	HR (%max)
+2 v 2 game	Reilly and Bangsbo41	Not reported	4 × 1 min, 1 min rest	Not reported	181 bpm
+3 v 3 game	Aroso et al.10	30 × 20 m	3 × 1.30 min, 1.30 min rest	14 national 15–16 years	84.0 ± 5.0
+Aroso et al.10	30 × 20 m	3 × 4 min, 1.30 min rest	14 national 15–16 years	87.0 ± 3.0
+Balsom42	36 × 20 m	6 × 3 min, 2 min rest
+15 × 70 s, 20 s rest
+36 × 30 s, 15 s rest
+36 × 30 s, 30 s rest
+30 min
+3 × 8 min, 2 min rest
+5 × 4 min, 2 min rest
+12 × 2 min, 30 s rest	6 amateur players	95
+>85
+>85
+>85
+>85
+>90
+>90
+>90
+4 v 4 game	Sassi et al.14	36 v 36 yard	4 × 4 min, 2.3 min rest	Professional players	88.8
+Rampinini et al.11	Not reported	4 × 4 min	15 professional academy players	88.3 ± 3.0
+MacLaren et al.43	Not reported		Amateur players	–
+Miles et al.44	Not reported	4 × 5 min	10 amateur females	85.7
+4 v 4 goal support	Aroso et al.10	30 × 20 m
+50 × 30 m	3 × 6 min, 1.30 min rest	14 national 15–16 years	70.0 ± 9.0
+4 v 4 side support	Hoff et al.12	50 × 40 m	2 × 4 min, 3 min active rest	6 Norwegian 1st division	91.3
+Kelly13	30 × 20 m
+40 × 30 m
+50 × 40 m	4 × 4 min, 2 min active rest	8 professional academy	90.5 ± 3.5
+89.8 ± 3.5
+88.7 ± 2.0
+5 v 5 game	Reilly and White45	Unknown	6 × 4 min, 3 min jogging	18 professional academy 17–20 years	85–90
+Castagna et al.46	40 × 20 m	Not reported	11 Italian academy	72.0 ± 9.0
+7 v 7 game	Caprianca et al.47	60 × 40 m	Not reported	Six 11-year professional academies	88
+Flanagan and Merrick48	3/4 pitch	Not reported	23 Australian players	152 ± 1 bpm
+161 ± 6 bpm
+8 v 8 game	Sassi et al.14	1/2 pitch	Not reported	English Premier League	82.0
+89.2
+Flanagan and Merrick48	1/2 pitch
+3/4 pitch	Not reported	23 Australian players	170 ± 2 bpm
+173 ± 4 bpm
+10 v 10 game	Rampinini et al.11	Not reported	10 min	15 professional academy players	84.3 ± 3.5
+Abbreviations: HR = heart rate; bpm = beats per minute.
+
+
+3.1. Number of players and pitch size
+The general finding in the literature is that as player numbers increase, exercise intensity decreases. This relationship is, however, partly dependent on whether the pitch size also increases. In practices with lower player numbers, relatively more time is spent performing higher intensity activities such as sprinting, cruising, and turning, while less time is spent standing still.18, 19, 20 Drills with a low number of players involve more continual activity and therefore general activity levels are also high. In drills with higher player numbers, and concomitantly larger pitch sizes, movement and physical loadings become more position-specific. If pitch size is not increased as player numbers increase, there is less area per player so the area in which players become involved will decrease. Although, these practices will promote various types of soccer strength (for example, repeated SSC activity from numerous accelerations and decelerations, isometric strength from shielding the ball) and speed (perception, reaction, and acceleration speed) due to more players on a smaller pitch size, the emphasis (strength or speed) is determined by the duration of games (i.e., >3 min for strength and <3 min for speed). SSG as 4 v 4 on a 30 × 20 yard pitch allow for maximum technical involvement and 7 v 7 on a 55 × 35 yard pitch allow the most ball contacts regardless of playing position.18, 19, 20 Previous results18, 19, 20, 21 suggest that SSG (3 v 3 and 4 v 4) allow greater technical development with more time in possession, more passing, shooting, and 1 v 1 situations than drills with more players. Furthermore, it may also be recommended that these lower player number practices completed in small to moderate pitch sizes are most suitable for the development of soccer-specific strength. This is a direct consequence of the repeated bouts of SSC actions acquired through a greater exposure to acceleration and deceleration opportunities. These small/moderate pitch sizes will also develop isometric strength through the completion of more opportunities to undertake technical actions such as shielding of the ball. Soccer-specific strength and power will also be promoted via a greater number of tackling, heading, and bodily contacts.
+
+LSG will provide more specific technical and tactical development for match-play and will involve more long-range passing and movement patterns such as over/under-lapping forward runs. From a physical perspective, LSG can promote the development of position-specific movement patterns as more opportunities to cover greater distances at sub-maximal and maximal velocities are provided due to greater pitch size. Examples of such opportunities would include a full-back performing an over-lapping run covering approximately 70–80 yards at 80% of peak running speed. Previous research has shown that SSG elicit higher heart rate (HR) responses and number of ball contacts per game when compared to LSG.22 In general, increasing the size of the pitch will increase certain physical parameters, namely total distance and high intensity running (>5.5 m/s). The specifics of these changes will depend on the positional demands and tactical strategy of the team when in and out of ball possession. The intensity of play (as measured by metres per min) has also been shown to significantly increase between SSG (198.5 m/min) and LSG (120.4 m/min) and the greater intensity of play is associated with smaller pitch size, limited time in possession23 and moderate to high game duration (>5 min). This decrease in intensity from SSG to LSG has been attributed to fewer opportunities to apply pressure on opponents and greater passing options23 due to larger numbers per team, which also lowers total distance.
+
+3.2. Duration of games
+Changing the duration of SSG, MSG, or LSG has a corresponding effect on the overall activity and the associated physiological stress. The duration of games will determine which physical parameters, such as total distance, high intensity distance, intensity (m/min), total HR, minutes above 85% of maximum HR, number of maximum and medium accelerations and decelerations, will increase. Therefore, regardless of other session variables, the duration of games will dictate the total physical load as more time will ultimately increase any physical parameter monitored. Limited studies have investigated the effects of external factors such as duration of game on physical and technical variables. Such investigations would allow a better integration of SSG into the global training process.24 Furthermore, the manipulation of the duration of the exercise bout may also elicit changes in quantity and quality of technical actions as well as the physical outcomes.24 When a 3 v 3 (plus GKs) was examined using 2–6 min games on the same pitch size, there was a significant decrease in intensity, as measured by HR, during the 6 min game versus the 2 and 4 min games. However, the technical actions were not affected indicating that in practical terms coaches may use game durations ranging from 2 to 6 min without affecting the quantity and quality of technical actions whilst gaining a physical stimulus.24
+
+3.3. Monitoring soccer training
+Soccer training that has a physical training focus can be described in terms of its process (the nature of the exercise) or its outcome (anatomical, physiological, biochemical, and functional adaptations).25, 26, 27 The training process is relatively easy to evaluate as it is represented by the activity that is prescribed by the coaches (i.e., conditioning drills, technical drills, or SSG). These aspects of training are also referred to as the external training load. The training outcome is a consequence of this external training load and the associated level of physiological stress that it imposes on any given individual player (which is referred to as the internal training load).25 It is particularly important to assess internal training load as it is this component of physical training that actually produces the stimulus for adaptations.25, 28 In soccer, as the external training load placed on players tends to be similar due to the use of group training sessions, it is important to monitor the internal training load as this will vary for any individual player.29 This would suggest that it is important to quantify both the external and internal training load in order to assess the relationship between them30 and fully evaluate the training process.
+
+There are a variety of different methods that can be used to quantify both the internal and external training load in soccer.31 Internal training load measures such as HR assess the cardiovascular stress imposed on players.32, 33 The validity of HR has been established through substantial research.34, 35 New technologies such as Global Positioning Systems (GPS) are now frequently used concomitantly with HR to provide a more detailed assessment of the training load placed on players.36, 37 GPS devices provide a better understanding of the individual training load placed upon the players by enabling detailed data to be collected, such as distance covered and the speed at which these distance are covered.38 The accuracy of data that can be collected is dependent on the sampling frequency (5–15 Hz) for both GPS and accelerometer data (∼100 Hz). Considerable research has confirmed the validity of GPS monitoring in soccer training.36, 39 Other approaches that can be used to evaluate training load are not reliant on expensive technical equipment. The use of subjective scales to evaluate the individual perception of training intensity such as the rating of perceived exertion (RPE) proposed by Foster et al.40 have been widely used in soccer. These subjective approaches have been validated against various internal and external training load measures26, 37 and it has been suggested that these approaches can lead to valid data collation.
+
+Data obtained through the monitoring of training can be used to enhance training content and subsequently improve performance. This improvement is partly dependent on the effective analysis and feedback to coaches and players. Feedback is a vital part of the coaching process (Fig. 1). The methods in which feedback can be delivered can vary significantly and depend on the individual preferences of both coaches and/or players. Reports that include both graphical and/or numerical representations of data are examples of such methods. Reports can also include an analysis of individual exercises (e.g., conditioning drills, technical practices) within the training session. Modern technology also enables the streaming of “real-time” data allowing the instantaneous monitoring of players' activities during sessions. While such approaches have the potential to be useful in the structuring of training sessions as they occur, they are limited by the reliability of the data that can be provided. The benefits for coaches of such feedback is the ability to adapt the training plan and the management of individual players to improve performance. As such this forms a vital part of the clubs performance strategy.
+
+

@@ -1,0 +1,490 @@
+Inclusive adapted sport and adventure training programme in the PTSD
+recovery of military personnel: A creative non-fiction
+Suzanne Peacocka,∗
+, David Carlessb
+, Jim McKennac
+a Leeds Beckett University, Fairfax 103, Headingley Campus, Leeds, LS6 3QS, United Kingdom
+b Leeds Beckett University, Fairfax 226, Headingley Campus, Leeds, LS6 3QS, United Kingdom
+c
+Leeds Beckett University, Fairfax 201, Headingley Campus, Leeds, LS6 3QS, United Kingdom
+ARTICLE INFO
+Keywords:
+Storytelling
+Creative non-fiction
+Military
+Recovery
+Sport
+Adventure
+ABSTRACT
+Objectives: The purpose of this paper was to use a storytelling approach to explore the role of a 5-day inclusive
+residential adapted sport and adventurous training (AS & AAT) programme in the recovery of military personnel
+diagnosed with PTSD. Design: Narrative storytelling approach.
+Method: A first-person story was developed from the participant's own words taken verbatim from an in-depth
+semi-structured interview. A series of focus groups were conducted with members of the general public (n = 20)
+to reflect upon the story.
+Results: The story provides a rich and holistic account of the participant's experiences and unique insight to the
+complex interaction between the social and psychological factors associated with illness and recovery. The story
+also highlights the value attributed to the AS & AAT in an individual's recovery journey.
+Conclusions: This paper offers important insights into the personal meaning and value of participation in a
+bespoke 5-day AS & AAT programme. Feedback from the participant and focus groups with members of the
+general public who engaged with the story suggest judgement criteria appropriate for a creative non-fiction
+representation were achieved.
+1. Introduction
+Deployment to a war zone repeatedly places military personnel in
+highly stressful and hostile situations, which can expose them to violent
+combat experiences (Fear, Jones, Murphy et al., 2010; Hoge et al.,
+2004; Hotopf et al., 2006). As a result, many personnel are returning
+home to face severe and enduring psychological consequences. Since
+2008, the rate of new episodes of mental health disorders among UK
+military personnel has almost doubled, with more than 23,500 personnel being diagnosed with a mental health disorder since 2007 (The
+Defence Analytical Militarys and Advice [DASA], 2014). Further, with a
+UK military population of more than 150,000 (and an even larger veteran population) (MOD, 2014), the 4% prevalence rate of Post-Traumatic Stress Disorder (PTSD) and 20% rate of common mental health
+disorders (Fear et al., 2010; Hotopf et al., 2006), mean there are currently thousands of individuals with mental health problems.
+Though there are significant numbers of military personnel undergoing recovery, there is often tension regarding the definition of recovery within the mental health literature. On the one hand, recovery
+can be viewed as an outcome (Onken, Craig, Ridgway, Ralph, & Cook,
+2007) or medical/psychosocial concept, with individuals returning to
+one's normal self following illness (Piat et al., 2009). On the other hand,
+recovery can be viewed as process of self-determined transformation
+whereby the individual takes charge of their life and evolves towards a
+new self (Piat et al., 2009).
+Mental health care within the Armed Forces is predominantly underpinned by the medical model (perceiving recovery to be a return to
+the one's normal self) and primarily reliant on pharmacological and
+psychological interventions (National Institute for Clinical Excellence,
+2005; Tanielian & Jaycox, 2008; Foa, Keane, Friedman, & Cohen, 2009;
+Rauch, Eftekhari, & Ruzek, 2012; Puetz, Youngstedt, & Herring, 2015).
+Although enhancing psychological functioning and reducing symptomology is important and necessary, medical approaches have been
+criticised for failing to offer a holistic approach to recovery (Messinger,
+2010). Messinger (2010) notes military personnel are also trying to
+make sense of, and search for meaning within, their individual circumstances. Frequently, individuals are attempting to establish a new
+(often non-military) identity and integrating this into their lives
+(Messinger, 2010). Further, clinical approaches to mental illness are
+frequently stigmatised (especially within a setting underpinned by
+https://doi.org/10.1016/j.psychsport.2017.12.003
+Received 1 August 2017; Received in revised form 2 November 2017; Accepted 5 December 2017
+∗ Corresponding author.
+E-mail addresses: S.Peacock@leedsbeckett.ac.uk (S. Peacock), D.Carless@leedsbeckett.ac.uk (D. Carless), J.McKenna@leedsbeckett.ac.uk (J. McKenna).
+Psychology of Sport & Exercise 35 (2018) 151–159
+Available online 06 December 2017 1469-0292/ © 2017 Elsevier Ltd. All rights reserved.
+T
+hegonomic masculinity) (Hoge et al., 2004; Iverson et al., 2010; Osório,
+Jones, Fertout, & Greenberg, 2013) and accompanied by multiple barriers to care (Gould et al., 2010; Jones et al., 2013; Langston et al.,
+2010). In light of this, there has been a call to develop ‘alternative
+treatment approaches that are not associated with hospitals, rehabilitation centres, or other clinical settings’ (Dustin, Bricker, Arave,
+Wall, & Wendt, 2011, p. 329).
+1.1. Sport and adventure interventions
+One approach attracting attention is the use of sport and adventurous physical activity. To date, there are a handful of programmes
+which use sport and/or adventurous physical activity to facilitate recovery among military personnel and veterans. There is now a small but
+growing evidence base which suggests participation can facilitate recovery among military personnel and veterans. In particular, a recent
+systematic review highlighted a number of holistic benefits and demonstrated the therapeutic value of sport and physical activity on the
+health and well-being of disabled combat-veterans and veterans diagnosed with PTSD (Caddick & Smith, 2014). For example, positive affective experiences and reductions to depression and PTSD symptomology were achieved through adventure and outward bound activities
+(Caddick, Smith, & Phoenix, 2015b; Dustin et al., 2011; Gelkopf,
+Hasson-Ohayon, Bikman, & Kravetz, 2013; Hyer, Boyd, Scurfield,
+Smith, & Burke, 1996; Ragsdale, Cox, Finn, & Eisler, 1996), exercise
+(Otter & Currie, 2004) and adapted sport and recreation (Bennett, Van
+Puymbroeck, Piatt, & Rydell, 2014b; Lundberg, Bennett, & Smith,
+2011). Moreover, in addition to facilitating a more optimistic outlook
+on life, participation in exercise (Otter & Currie, 2004), sport (Brittain &
+Green, 2012; Caddick, Smith, & Phoenix, 2015a; Carless, 2014; Carless,
+Peacock, McKenna, & Cooke, 2013; Hawkins, Cory, & Crowe, 2011;
+Sporner et al., 2009) and adventure (Bennett, Lundberg, Zabriskie, &
+Eggett, 2014a, 2014b; Burke & Utley, 2013; Carless & Douglas, 2016;
+Duvall & Kaplan, 2013; Hyer et al., 1996) was also associated with reintegration and a sense of connection.
+Although research exploring the impact of sport and physical activity on the recovery of military personnel is generating momentum,
+the evidence base remains sparse. Furthermore research frequently
+adopts a quantitative approach to measure the impact of an intervention on, for example, symptoms of PTSD and depression (Bennett et al.,
+2014a; Gelkopf et al., 2013; Hyer et al., 1996), quality of life (Gelkopf
+et al., 2013; Lundberg et al., 2011; Sporner et al. (2009), social functioning (Duvall & Kaplan, 2013) and self-concept (Cordova et al.,
+1998). While these studies offer important insights, they are unable to
+provide an understanding of the personal meaning and value of participation.
+In light of this, a small number of qualitative approaches have been
+represented within the literature more recently (e.g. Bennett et al.,
+2014b; Burke & Utley, 2013; Caddick et al., 2015a, 2015b). In particular, several studies have used storytelling approaches to offer compelling insights into the recovery experiences of military personnel.
+Notably, the complex experiences of personnel with injury and/or illness have been represented through performance ethnography (Douglas
+& Carless, 2015a), fiction (Douglas & Carless, 2016), and creative nonfiction (Carless, Sparkes, Douglas, & Cooke, 2014). In exploring participant experiences and personal journeys, they also highlight the value,
+meaning and benefit of sport and adventure, and explore these within
+the context of their lives.
+This study responds to calls for further research in this area (Burke &
+Utley, 2013; Carless et al., 2013), especially from a qualitative perspective (Caddick & Smith, 2014; Ray, 2009). The purpose of the study
+is therefore two fold. First, using creative non-fiction, it will explore the
+meaning and value of adapted sport (AS) and adapted adventurous
+training (AAT) programme for military personnel who are experiencing
+mental health problems. Second, it will explore the fictional representation in light of judgement criteria.
+2. Method
+2.1. Research setting
+The research took place at the Battle Back Centre Lilleshall (BBC),
+the home of a 5-day residential AS and AAT intervention for the recovery and personal development of UK military personnel. Offering 24
+multi-activity courses a year and accommodating 22 participants per
+programme, the Centre operates on a participant:coach ratio of 3:1.
+Programme development and delivery is underpinned by the SelfDetermination Theory (SDT) (Ryan & Deci, 2000), which suggests that
+optimal psychological wellbeing can only be achieved when the psychological need for Autonomy, Competence and Relatedness are supported. Autonomy is a sense of control or ownership over one's action
+and behaviour. Competence reflects an individual's perception of proficiency and the ability to bring about a desired outcome. Relatedness is
+feelings of involvement and connection with others and the social environment. Ministry of Defence staff and Civilian programme facilitators attended multiple Staff Training sessions that provided detailed
+information on the SDT and enabled staff to develop strategies to
+support the three psychological needs within the programme.
+A typical day opens with a morning brief, which introduces participants to relevant psychological concepts, strategy or models (e.g.
+motivation, behaviour, attitude, or goal setting). Following this, personnel participate in a variety of AS (e.g. wheelchair basketball,
+wheelchair badminton, seated volleyball, fishing and indoor bowling)
+and AAT (e.g. indoor rock climbing, caving, clay pigeon shooting, archery and kayaking) activities. On completion of the activities, personnel are supported to reflect on their day, apply their learning, and
+plan for their future. A selection of social activities are held in the
+evening to promote social interaction and integration (e.g. cinema trip,
+quiz night, inspirational presentations and evening walks). Within and
+surrounding the sporting and social sessions are on-going opportunities
+for informal conversation with coaching staff, military staff, the researcher and other participants.
+2.2. Procedures
+Following institutional ethical approval, the first author (AUTHOR
+NAME) conducted intensive fieldwork at the BBC over 18 months, attending 35 courses. (AUTHOR NAME) is a white British, civilian female
+from a middle-class background who was in her late twenties at the
+time of data collection. She was included within this research due to her
+interpersonal skills and ability to engage in the outdoor elements of the
+programme with ease. While the challenges and possible power dynamics of being a female, middle-class civilian operating in a military
+environment dominated by male military personnel with life changing
+injuries and illnesses are recognised, they are explored in more detail
+elsewhere (Peacock, 2017). In particular, in attempt to face these
+challenges and reduce possible power dynamics, (AUTHOR NAME)
+demonstrated respect and genuine interest in participants, and made
+every effort to remain neutral and non-judgemental. When interacting
+with personnel she endeavoured to be an active listener, which was
+communicated verbally and non-verbally.
+Adopting the role of participant-as-observer, AUTHOR NAME became an active member of the BBC team, participating in the course
+day-to-day. AUTHOR NAME also shared mealtimes with participants
+and joined the group for many social events (e.g. morning walks, cinema trips and evening visits to the onsite bar). Within this role,
+AUTHOR NAME conducted one-on-one semi-structured interviews with
+25 participants. When conducting semi-structured interviews, Guest,
+Bunce, and Johnson (2006) suggest the basic elements for metathemes
+become apparent following six interviews, with data saturation occurring within 12 interviews. The broader research project achieved 25
+participants for two reasons: i) oversampling allowed for a selection of
+semi-structured interviews which did not produce in-depth data and; ii)
+S. Peacock et al. Psychology of Sport & Exercise 35 (2018) 151–159
+152
+the research was frontloaded to allow for attrition when beginning
+follow-up interviews in the future.
+In line with Patton (2002), a conversational strategy was used
+within an interview guide approach. This combined strategy meant the
+interview guide provided provisional structure and ensured the same
+general line of enquiry was explored with each individual. However,
+while the topics of enquiry were pre-determined, (AUTHOR NAME) still
+had the freedom and flexibility to explore and develop conversation
+naturally and spontaneously within this framework. The interview
+guide was framed around three areas. The opening section focussed on
+participant's background and their experience of injury/illness (e.g.
+amputation, PTSD, anxiety). The second section elicited responses
+about their expectation of the BBC, while the final section directed
+attention towards their BBC experience.
+2.3. Analysis and representation
+Following verbatim transcription of the interviews, we utilised a
+storytelling approach to analyse and represent participants' experiences. Within the context of recovering Service personnel, creative
+nonfiction remains an alternative and unusual approach to representing
+research findings. Our approach fits within the ‘creative non-fiction’
+genre which typically use a variety of literary techniques to present
+findings artfully, compellingly and powerfully (Smith, 2013; Sparkes,
+2002). It is based on an approach previously used in sport and exercise
+psychology research (e.g. Blodgett, Yang, Schinke, & McGannon, 2017;
+Carless & Douglas, 2010; Carless & Sparkes, 2008; Douglas & Carless,
+2006, 2015b; Erickson, Backhouse, & Carless, 2016; Irish, Cavallerio, &
+McDonald, in press). Within these, authors use vivid descriptions,
+evocative and metaphorical language and detailed scenes to portray an
+event or experience (Sparkes, 2002). In other examples, the story is
+grounded in data (e.g. interviews, observations and illustrations) yet
+represented in a fictional form of writing (Carless et al., 2014; Douglas
+& Carless, 2015a; Erickson et al., 2016; Irish et al., in press). A distinguishing feature within this paper is that the story is developed from the
+participant's own words taken verbatim and in context from the interview transcripts. Specifically, we removed or inserted words only when
+we felt it necessary to make the account comprehensible. In addition,
+we also altered the chronology or sequence of some events (as recounted in the interviews) in an effort to create a more coherent story.
+While all participants recounted insightful, powerful and thought
+provoking experiences that shed light on their experience of illness and
+recovery, two participants shared particularly insightful, informative,
+and extensive accounts. They provided, for example, richly detailed
+accounts which were supplemented with specific examples and reflections that used emotionally revealing and evocative language. We developed creative non-fiction stories, told in the first person voice, on the
+basis of these two participants' experiences. Given space constraints, we
+present here one participant's story to provide rich and detailed insights
+into the recovery process and, specifically, the contribution of an AS
+and AAT course. Paul (aged 41) is a highly ranked officer in the Army
+who was diagnosed with PTSD following numerous Operational Tours
+of Duty.
+After developing, editing and revising the story, we shared it with
+Paul. This process of ‘member reflections’ (Smith & McGannon, 2017)
+enabled Paul and the lead author to engage in dialogue and reflect on
+the story. Importantly, this joint and collaborative process aimed to
+minimise the power issues that arise when creating and presenting a
+participants story. On completion of this discussion, Paul identified that
+he was comfortable with the story, making only minor amendments to
+specific facts.
+2.4. Criteria for judgement
+Within sport and exercise psychology, storytelling remains an alternative and unusual approach to representing research findings.
+Therefore, adopting this relatively unorthodox approach means that
+identifying appropriate judgment criteria is essential (Sparkes, 2002).
+Notably, Sparkes (2002) argues that traditional approaches that are tied
+to reliability, validity, and replicability are not suitable for judging
+creative nonfiction. Therefore, being grounded in a criteriologist perspective (Sparkes & Smith, 2013) and drawing upon the work of a
+number of researchers in sport, exercise and health (Carless & Sparkes,
+2008; Carless et al., 2014; Douglas & Carless, 2006, 2015b; Smith,
+McGannon, & Williams, 2015; Sparkes & Smith, 2014; Sparkes, 2002),
+we worked to meet 5 criteria that we invite readers to use to judge this
+study.
+Meaningful coherence concerns the way different parts of the interpretation create a complete and meaningful picture. Carless and
+Sparkes (2008 p. 198) specifically ask a number of questions which are
+connected to the need for coherence: Have the sometimes disorganized
+and fragmentary accounts of the participants been brought together in
+such a way as to create a readable and meaningful picture of the individual's experience? Do the parts fit, and do the stories hold together
+in an intelligible and articulate manner? In this regard we might also
+ask of these stories, are they plausible? Do they seem credible in pulling
+together a believable combination of the parts? Substantive contribution
+and worthiness considers whether our research is relevant, timely, significant, interesting, contributing conceptually/theoretically, practically, and methodologically to our understanding of social life? Within
+the context of this paper, it questions whether our work provides new
+knowledge, fresh insights, or a deeper understanding about the experiences of a participant attending the BBC. Aesthetic merit ultimately
+asks whether this story ‘works’. It is tied to the creativity of the story
+and the reader's level of engagement with it. It considers whether the
+story invites dialogue and questions from the reader and considers
+whether it captures and maintains the reader's attention. Impact reflects
+how the story affects the reader on an emotional and intellectual level.
+It questions whether the story stimulates questions or encourages the
+reader to engage in new and/or alternative research approaches. Expression of reality asks whether the following text embodies a sense of
+lived experience. It questions whether our research is a credible account
+and seems ‘true’ or ‘real’.
+With these criteria in mind, we now present Paul's story. Please be
+advised that the story graphically portrays certain realities of war
+which some may find challenging.
+3. Paul's story
+Joining the Army was a leap of faith really. I was hoping it would
+somehow be my salvation. To some extent, it was also a bit of escapism. I
+was escaping life as I knew it. Escaping an existence of confusion. An
+existence of hesitation, of monotony. I had a feeling that there must be
+more to life. You see, it was not a particular ambition of mine. One just
+fell into it really. I wanted to do something a bit different and joining the
+Army was as much of a difference as I could possibly imagine at that
+time.
+I was hoping the Army would give me experiences where I could get my
+hands dirty. I thought it would be something out of the ordinary. I also
+thought it was quite a sexy career, quite elitist. You know, not everyone
+joins the Army. Not everyone passes selection. To some extent I thought it
+would give me a degree of kudos that other things could not have offered.
+I also thought it would involve travel.
+Broadly speaking, it did meet my expectations. But I was also incredibly
+naïve, cause you don't know what it’s going to be like until you're actually
+doing it. So for instance, it was unusual for someone in my role to be as
+front line as I was - being shot at, rocketed and all the rest of it. But you
+can't really do that role properly, I think, unless you are yourself shooting
+to kill or being shot at. So, for me at least, I wanted to do it the very, very,
+very, very best that I possibly could. And for me it was all in. It was all in
+from as soon as we touched ground until when we came back. I elected to
+S. Peacock et al. Psychology of Sport & Exercise 35 (2018) 151–159
+153
+go on numerous day and night front line patrols, which meant I could
+understand the operating environment and the men on the ground. I
+could relate to their experiences. I could relate to what they were seeing
+and the areas they were talking about. I had ground truth.
+I also had a huge amount of responsibility. Ultimately, I had to protect
+our guys in situations where people die. For example, let's say the ground
+intelligence has identified three guys chained into their suicide vests in a
+compound. They've said their prayers and are intending to leave under
+the cover of dawn where they'll kill loads of people. ‘Right, can we take
+them out?’ That's my decision. But I need more information – Who else is
+there? Are civilians there? Are wives and children in these compounds?
+What else is in the area? We don't know. But if we don't get them now
+they're gonna be off and killing people in a few hours when dawn breaks.
+So, do we strike now whilst we've got the chance? I'll probably make a
+decision like that over breakfast, or maybe tea!
+And then there are situations where people die when they shouldn't. You
+see, warning shots have an uncanny knack of hitting civilians when they
+ricochet off something. Let's say you've got a .5 calibre and the top cover
+fires a warning shot. But the round goes up through the engine of a car
+coming into the convoy and kills the driver. The same round goes and
+kills the female back passenger through her head. Her skull explodes with
+such velocity it then kills the 3-year old child she's carrying on the back
+seat. How do you explain that away when you've got people on your tail
+saying - ‘what the fuck's going on? That's partly why I'm ill.
+How did I find that? I guess I just found a way to keep going really. You
+don't have an option. You're in Service, so you keep on serving. I had a
+responsibility. It would be completely impossible for me to have said: ‘I've
+had enough of this, I'm going home’ or ‘I can't deal with this any longer’.
+That was beyond any contemplation. I also had the burden of the safety
+of so many guys out on the ground who were having a far worse time of it
+than I was.
+When I was out there, nobody understood the type of work I was undertaking. No one. There was no structure in place for me to be debriefed.
+But then, I didn't expect it. There was no awareness of that need, even
+back then. So, I guess it was probably overlooked. I had no decompression when I came home either. I flew straight back to the UK. I remember
+picking up a hire car driving down the road at 100mph thinking I was
+invincible. I thought – ‘I've got to calm down here, I've got to calm down
+here’.
+Even when I came back no one understood. Within 2 or 3 days of being
+home my chain-of-command wanted a chat. We spoke for an hour and a
+half but they didn't fully appreciate the complexity of my task. They just
+didn't have a clue as they had no ground truth. And why would they,
+unless they'd been there? No one understood because no one had done
+that. I think one must concede that. They can't be blamed necessarily. It's
+just a feature of what happens when you go in to do something like that at
+such intensity. People at home just don't realise. I don't think they understood the ramifications of what I was doing over there. They didn't
+understand what a critical role I had. I don't think they realised the intensity of what we were doing, the pace at which we were doing it. They
+didn't understand the unpredictability of it all. No one understood.
+Also, because I was somewhat on the peripheries, I wasn't part of a
+Regiment or co-located with my Brigade on return to the UK. There was
+never anybody there to talk to. No one I could have a beer with and sort
+of unload on or normalise things. So, I just kept it bottled up. I kept it
+bottled up for about 3 or 4 years.
+During that time I realised I wasn't functioning well. Everything was hard
+work. Everything was an effort. Work would take me longer to do.
+Although the record would show that my performance didn't dip, the
+effort to keep performing at that level was so much it broke me. I just
+couldn't cope anymore. The continual stuff about Afghanistan being in
+my in-tray, the hyper arousal and startling noise were all part of the
+Afghan puzzle. But it was also complicated by the fact that I was sexually
+assaulted when I was fifteen, and that had been suppressed for all those
+years.
+It's been explained to me as like having a balloon of air which you're
+trying to hold under water. You know, it comes up very quickly once you
+release it. And I think that happened to me. So I started therapy in 2010
+and have spent 2 of the last 4 years off work. But I didn't know at that
+stage the effect Afghanistan was having on me. Because I had been
+sexually abused when I was little, all the focus of the treatment was on
+that. It completely neglected the whole Afghan piece. So I wasn't making
+any progress really. I've since reported the sexual thing to the police. It all
+went to court and the guy who did it ended up pleading guilty and was
+sent off to prison. It's only through that process the whole Afghan piece
+has really come to the fore. That's something that caused the PTSD and is
+now the focus of my treatment.
+I've been having treatment for four years and I'm still so bad I've got to be
+discharged. Life at the moment is just shocking really. I'm absolutely lost
+and exhausted. It's relentless. I think I have lost hope. I have lost hope. I
+can't see what the future looks like, but I know what the present feels like.
+I'm full of anxiety. Full of confusion. Full of doubt. I don't have any sense
+of direction in my life. I don't know what I want to do or what I'm able to
+do. I'm very lost. I've got no hope of working. I'm not in a fit state to work
+in any sort of conventional employment. I used to be - I still am I suppose
+- a Lieutenant Colonel in the Army. Now I'm shattered. Absolutely
+shattered. I'm disgusted with the way I look, my physical state. I used to
+be really fit, really ripped. But that's gone. I'm well over weight by conservatively two stone. I'm frustrated by my mental state. I'm severely
+depressed and everything's an effort. I don't have a good relationship with
+alcohol and I over eat as a coping strategy. I use short term fixes, such as
+caffeine, alcohol or taking too much of my prescribed medication just to
+get out of it. And, you know, all the safety mechanisms of my family
+there to support me, none of it means anything to me. I don't feel that's a
+reason not to top myself. I have daily thoughts of just ending it because to
+keep on going is just so exhausting.
+I'm not in a state where I can support myself either. I've been given a
+whole list of exercises to do and I've done barely any of them. I just don't
+have the discipline. I'm not available to make that commitment, even to
+myself. My default position is to curl up in a ball and sleep or take too
+much of my medication or use disruptive and unhealthy coping mechanisms, just to sort of get me through the day. I might eat m&ms for
+Britain or packets of malted milk or pints of milk or alcohol. I really wish
+I'd had the ability to help myself, but I think I've got to accept that I'm not
+even able to help myself. And that's where all the hope evaporates, where
+I can't even help myself, not even in the basic things, such as stop eating
+junk food, or stop drinking in an unhealthy way.
+I also get angry about all the feelings that flood back from Afghanistan.
+That anger: trying to fight fires and keep everyone happy. That whole
+pressure. And when you've got all those things spinning around on repeat
+in your mind it's very difficult to find hope and find that path out of that
+downward spiral.
+For me, recovery means being physically fit again. Being robust. Trying to
+ease my pain. Ease my physical pain. Let alone the mental anguish. It
+also means having a role and purpose. I think I'm prepared that my
+purpose or role may not be something that I hither to would have thought
+as very Gucci. I may have to be, perhaps, more modest. But that's not to
+say that the job would not be as fulfilling or worthwhile.
+Anyway, because I'm being Medically Retired I was forced to come to the
+Battle Back Centre. The Lilleshall MAC is a mandatory part of my resettlement and recovery pathway. So in conjunction with my Core
+Recovery Events, it prepares me for civilian life and a civilian career. To
+be honest, I felt quite irritated being made to attend the course, especially
+because I felt that the people who were supposed to be supporting me in
+the Personnel Recovery Unit (PRU) weren't actually listening to me. They
+S. Peacock et al. Psychology of Sport & Exercise 35 (2018) 151–159
+154
+were adamant that I'd enjoy the activities. Yet, regardless of whatever
+activities are going on here, I just didn't want to be thrown into a situation
+without a choice and exposed to 24 other people with similar issues.
+People like me. It was this I wanted to avoid. I wasn't ready for it. The
+whole thing of breaking down barriers, getting to know people and
+talking. People wanting to know what's wrong with you or telling you
+what's wrong with them. It's just too overwhelming. I guess it's also because I'm having trouble accepting my illness.
+I feared the week would be a busy, hectic, noisy time where I would just
+get increasingly stressed and not be able to cope. I thought it would be 24
+people in a classroom or on activities, rolling from one activity into another activity. I wasn't concerned about the activities. It was all about the
+setting. Meal times are a difficulty for me. You know, I can't abide sitting
+or standing in a queue or abide sitting on a big table with lots of noise and
+lots of people and lots of fuss. I'd much rather be on my own. I realise
+coming here I'd have to get over some of those issues and try and find a
+way of coping. But I didn't want to have to find ways of coping. I just
+didn't need that additional burden or hurdle. I had the idea of just
+quitting, of phoning up and getting a driver to take me home. Or just
+going AWOL from here, just walking off somewhere on my own. To be
+honest, I don't think I actually got past that thought. I don't think I was
+able to think about coping here. It was about – what if I don't cope?
+However, four days in, I'm still here.
+I think it was different to what I expected. Being in the smaller groups
+made the difference. I've also been really impressed with all the coaches. I
+think they've really got a lot of things right. Whilst it's been interesting
+seeing other people on the course like me, the greatest benefit is actually
+meeting the coaches and being assured that they're sensible, experienced,
+and actually care. When I look back on the Lilleshall experience, I will be
+thinking of how the coaches have been positive role models. They've been
+through their own trials and tribulations but they're positive. They're
+upbeat. They're fit. They're motivated. They're doing something that
+matters to people like me. So it's something for me to aspire to. But that's
+in conjunction with some of the guys and girls. You know, seeing Sarah
+shooting with me. Mark climbing with the same gusto as me, talking to
+Pete about the products he uses for cleaning his car and watching John
+doing the archery today. It was good fun and it shows me how others are
+in the same or similar predicament as me. Seeing them having little wins
+and little triumphs in themselves has helped.
+It's also a very supportive atmosphere. There's been several times this
+week that I've felt particularly supported. One was when we were at the
+climbing wall on Tuesday. My coach and climbing partner were outside
+in the sunshine and I was keen to have another climb. John saw me and
+out of the blue said: ‘do you fancy having another climb?’ I said ‘yeah’,
+and he gave me a climb and that was good. Then he just sat down and
+had a chat with me. I discovered he was a Marine – the best and worst of
+my Service was with Marines. And he really got it. He understood where I
+was by drawing on his own experience and his own journey. I felt that
+there was somebody that I could relate to. And that hasn't happened
+much. Maybe once or twice. But I struggle to find someone who can
+really relate to my story and my experiences. But I felt that he had. He
+was further down the recovery pathway than I am and he had some good
+advice. And I felt that the way in which he spoke to me made me feel less
+isolated. It gave me a bit of confidence, a bit of hope that things will move
+on from where they are right now and maybe a big step will be when I am
+actually out of the Army and have a bit more autonomy. That might
+empower me to navigate me through my recovery with more gusto and
+more confidence than I am at the moment.
+Interestingly, throughout the whole week I've had little chats with most of
+the coaches and each time I've felt that they were there to give me confidence, which I don't have much of. That's been probably more valuable
+than the events themselves. Also, that enthusiasm and confidence that we
+are doing things in a safe environment makes me feel better. So my
+experience therefore is made better by the confidence that the coaches
+transfer on to me.
+Looking back, I would describe Lilleshall as an ideal opportunity to get to
+know yourself a little better, and that's something I've not done for a long
+time. Getting to know what makes me buzz. You know, going on the cycle
+ride today and going down the track quite fast was great fun and I really
+enjoyed that. And doing something like that where I don't have to own the
+bike. No responsibility I suppose. And doing the shooting and the archery,
+it's allowed me to have some Paul time, which I don't feel I have much of.
+You know, it's an opportunity to have some me time but in an environment where you can then develop yourself. You learn some things in the
+morning sessions and realise that you're not alone. You realise that other
+people are going through the same struggles as you and there's a chance
+of some mutual support.
+This week has also been fun too. You know, I've laughed. I have actually
+laughed. The last time I laughed was four months ago when my 10 year
+old son overtook me while go-karting. The other occasion was when I was
+skiing. Again, I watched my son ski past me at speed. During those
+moments I connect with myself being Paul. The Paul who used to be quite
+mischievous, quite impish and a bit of a devil. A bit childlike I guess.
+Yeah, it's a childlike freedom. It makes me feel good, makes me feel
+connected, makes me feel in the moment. But they're just glimpses. But to
+come here and laugh, you know, when you did that gym pose in the
+swimming pool, like a marble statue, that made me laugh because I
+wasn't expecting it. It was fun. Carefree. And cycling today, that made
+me laugh. So, Lilleshall has given me those moments. It makes me feel
+fulfilled. It makes me feel at peace with myself. It makes me feel quite
+happy. And, I think it makes me feel quite self-indulgent. It's a little
+treasure, a little moment to yourself, or with others, but in a very intimate
+way. It's a moment that's there and gone. Never to be repeated in quite
+the same context.
+I wouldn't want anyone to feel that Lilleshall is somewhat futile in the
+whole scheme of things. I think it's very important and I've deeply appreciated the investment that the coaches have put into the course. I
+deeply respect the staff and think they're doing a fantastic job to help
+people like me. I'm also humbled by the amount of money which The
+Royal British Legion (TRBL) have clearly invested. In my own situation,
+I'm at a pretty low ebb and am quite vulnerable, but coming here and
+being with the coaches and other boys and girls has allowed me to relax
+and enjoy the sport and camaraderie. I think it has given me some hope. I
+just hope that that hope endures and the benefits of the course endure

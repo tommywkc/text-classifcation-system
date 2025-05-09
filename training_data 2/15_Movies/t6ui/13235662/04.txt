@@ -1,0 +1,1443 @@
+doi: 10.1111/j.1467-6419.2010.00626.x
+THE ECONOMICS OF MOVIES:
+A LITERATURE SURVEY
+Jordi McKenzie
+University of Sydney
+Abstract. The film industry provides a myriad of interesting problems for economic contemplation.
+From the initial concept of an idea through production, distribution and finally exhibition there
+are many aspects to the film project and the film industry that present new and interesting puzzles
+worthy of investigation. Add to this the high level of data availability, and it is little wonder that an
+increasing number of researchers are being attracted to this industry. To date, however, there are no
+comprehensive surveys on the contribution of economists to this literature. This paper attempts to
+fill this void and unify what is known about the industry. It also identifies and discusses potential
+areas for new research.
+Keywords. Motion picture industry; Motion pictures
+1. Introduction
+Over the last two decades the motion picture industry has generated a growing collection of academic
+research. The complexity of the production process, the unique features of distribution and exhibition,
+and the uncertain nature of demand provides researchers many interesting problems worthy of
+investigation. Add to this the fact that there are many rich data sources available (some highly accessible,
+others less so) and it is little wonder applied researchers are being increasingly attracted to this industry.
+This paper endeavours to provide a comprehensive and up-to-date survey of the literature which
+has emerged on economic issues related to motion pictures and the motion picture industry. To date
+there have been a number of number of very good books, book sections and at least one journal
+article that have both explained and surveyed the literature on the industry. For example, books such as
+Litman (1998), Caves (2000), Squire (2003) and Vogel (2007) provide detailed description and analysis
+of the industry – often with contributions from respected industry experts and professionals. Books
+which have assembled series of academic papers on economic/marketing issues relevant to the industry
+include De Vany (2004) and Moul (2005). As well there have been a number of survey type articles
+within broader volumes such as Chisholm (2003) in A Handbook of Cultural Economics (Towse, ed.),
+De Vany (2006) in Handbook of the Economics of Art and Culture (Ginsburgh and Throsby, eds) and
+Walls (2008a) in The New Palgrave Dictionary of Economics (Durlauf and Blume, eds). In the context
+of journal surveys related to the industry, the study Eliashberg et al. (2006) provides a comprehensive
+synthesis of the marketing literature also with discussion of a number of studies more oriented towards
+economists’ interests.1
+Although much literature is referenced within the collection of works just cited, most of it applies
+outside the usual domain of economic academia and the ‘surveys’ between them cover only a relatively
+small amount of the rapidly expanding body of scholarly research written about the industry.2 This
+survey throws a wider net and assembles a significantly larger collection of published research which
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70 C 2010 Blackwell Publishing Ltd, 9600 Garsington Road, Oxford OX4 2DQ, UK and 350 Main Street, Malden,
+MA 02148, USA.
+THE ECONOMICS OF MOVIES 43
+is inherently economic in focus. This also implies the study refrains from discussing (in detail) other
+disciplines’ research efforts of recent years.3 The main goals of this survey are therefore to bring
+together a large volume of economic research specifically written about the motion picture industry,
+and to do so in a structured and coherent way such that those new, or even familiar, with the literature
+of this area may have a useful source of referral.
+This study is organized as follows. Section 2 provides a brief overview of the industry’s history
+and related literature in relation to the studio era and the historic anti-trust cases of the late 1940s
+and early 1950s. Section 3 is the most extensive section and details literature which can be broadly
+categorized as ‘microeconomic’ with respect to individual film demand (including a discussion of the
+role of stars, reviews, awards, ratings and genre), production, distribution and exhibition. Section 4
+surveys research with a more ‘macroeconomic’ focus where, for example, aggregate patterns of cinema
+attendance (rather than individual film attendance) is the unit of analysis. Finally, Section 5 provides a
+concluding discussion and identifies some directions for future research.
+2. Some History4
+The history of the motion picture industry goes back to Edison’s invention of the kinetograph (motion
+picture camera) and kinetoscope (viewing machine) in 1894. Within a decade or so projectors were
+developed and short ‘one-reel’ films had begun screening at ‘nickelodeon’ theatres – known as such
+because of admission costing a nickel. These silent one-reel films had very simple storylines and a night
+at the nickelodeon typically included a selection of one-reel films of different genres and newsreels.
+Through the early 1910s, two-reel films replaced one-reel films, which were subsequently replaced by
+feature length films. By the late 1920s films had sound and were popularly referred to as ‘talkies’.
+Studios (many which are the same as today) had also begun operations and were operating their own
+‘deluxe’ theatres in a number of major cities. In 1933, after the Great Depression, the ‘Code of Fair
+Conduct’ was drawn up by the Motion Picture Producers and Distributors of America which allowed
+a number of economic stabilization practices including block-booking, blind-selling, time clearances,
+zoning and admission price discrimination. Only 2 years later, however, the explicit nature of these
+practices was banned, yet tacitly they remained in place.
+During the late 1930s five of the major studios were accused of deliberately attempting to eliminate
+the remaining independents from the industry by tactics such as price fixing and restricting supply.
+This led to a series of Department of Justice antitrust actions that ultimately led the Supreme Court to
+radically change the structure and practices of the industry in 1948 through the Paramount Antitrust
+and consent decrees in which the studio/distributors were ordered to divest of their cinema interests
+and change a number of their business practices. The courts banned integration between distribution
+and exhibition and banned terms in contracts which implied integration. The courts also banned certain
+methods for allocating films including block-booking and blind-selling, requiring features to be licensed
+individually, one theatre at a time, to a wider group of exhibitors. Long-term relationships, franchises,
+multiple-film licences and admission price fixing were also forbidden. The courts concluded that the
+vertically integrated structure of the industry did not fit the reigning theory of competition.
+Numerous scholars have discussed the appropriateness of the courts’ decisions since this time. In
+particular, the case study of De Vany and Eckert (1991) provides an insightful and detailed analysis
+of the courts’ rulings in light of economic theory.5 These authors argue against the courts’ decisions,
+posing that the industry’s structure and its licensing practices were reasonable ways for dealing with
+the problems that arose from four characteristics of the industry’s product: (1) each motion picture is
+unique and cannot be duplicated, (2) demand is unpredictable, (3) a motion picture needs time on the
+screen to build an audience, and (4) most of the costs of production and distribution occur before a
+film can be shown and are sunk. These characteristics, they argue, determined how the industry was
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+44 MCKENZIE
+organized at the time of Paramount, where the biggest studios integrated production, distribution and
+exhibition under one authority.
+Kenney and Klein (1983) also examine an aspect of the Paramount cases in relation to the practice
+of block-booking – i.e. licensing several films as a bundle at an average price. Rather than being
+merely a subtle form of price discrimination, they contend that block-booking was designed to fix
+an over-searching problem that resulted from initial box office revenue information being revealed
+between the signing of a contract and the time when the distributor received and had to pay for the
+film. In their analysis, they also examine the related practice of blind-selling (where exhibitors do not
+view the film before they purchase it) which, they argue, was used to save on inventory costs but led
+to the ex post opportunistic behaviour of exhibitors and that block-booking was a way of dealing with
+this problem.
+Using data on Warner Bros. from 1937 to 1938 of all first run, second run and third run
+theatres in Wisconsin, Hanssen (2000) proposes that, rather than Kenney and Klein’s (1983) over￾searching contention, block-booking was used simply to supply greater quantity which exhibitors were
+demanding given that there was ample evidence of exhibitors still rejecting certain titles under blocking
+arrangements. But while acknowledging this observation as true, in rebuttal Kenney and Klein (2000)
+add to their earlier arguments by stressing the role of ‘reputational capital’ of the distributor being
+important in enforcing contractual flexibility, i.e. a reputation for providing films of an acceptable
+quality. They explain block-booking within this framework by its effects on reducing the variance in
+the value of the film package and, therefore, the demands placed on the distributors’ reputational capital.
+In a study with particularly rich data, Blumenthal (1988) provides a useful empirical examination of
+blind-selling – a practice which, although banned by the US Supreme Court 1948, eventually re-emerged
+in the industry. Using actual contract data, she describes an auction framework where exhibitors are
+blind (i.e. have constrained information) and proposes an error components model to investigate a
+data set which includes the terms and experiences of 18 films licensed to a national circuit by three
+major distributors in the USA from January to September 1982. The empirical component of her study
+considers the exhibitors bid and returns (separately) as functions of cinema density, contractual house￾nut, production budget, number of simultaneous film openings and (of most importance to her study) a
+dummy variable of whether or not the auction was blind. Her results show that blind exhibitors reduce
+their bids (implying they increase their mean returns); however, in doing so they assume more variance
+as a result. Overall though, the increase in mean does not offset the increased variance and exhibitors
+suffer a loss of expected utility as a result, which may in turn explain the increased legislative actions
+initiated by exhibitors.
+Other researchers considering the historical aspects of the industry have compared the demand
+conditions and overall profitability of the industry in the pre-Paramount era to that of today. Building
+on some of their earlier work,6 Pokorny and Sedgwick (2010) examine the profit trends in Hollywood
+using data from the 1930s and 1990s. The 1930s data they examine are actual studio ledger data from
+MGM, RKO and Warner Bros. covering 1796 films, whereas the data from the 1990s is standard
+Nielsen EDI covering 2116 films. These authors develop a measure of profit which includes actual
+rental incomes, distribution costs and production costs in the 1930s sample. They also compensate for
+ancillary revenues in the 1990s sample by apportioning theatrical’s share of costs to profits to provide
+a comparable measure with the 1930s sample – although these are estimated from averages reported
+by Vogel (2007) which somewhat weakens the analysis in relation to their rich 1930s data. Their
+results show that similar levels of variability existed in both periods, but in the 1930s the main source
+of profits were from low to medium budget films, whereas in 1990s it was high budget films that
+generated the higher proportion of revenues. For example, they show that films costing three times the
+annual average accounted for about 14% of production budgets during both periods, but in the 1930s
+generated about 3.6% of total profits whereas in the 1990s this proportion was almost 20% – providing
+some evidence of increasing returns to production budget spending. They interpret (increasingly) high
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 45
+budgets in the 1930s as experimental and even ‘vanity projects’, but also note that institutional features
+(such as short runs) might have played a role. Their results support that notion that while individual
+film performance is unpredictable, the portfolio approach and learning which types of films to invest
+in has helped to maintain Hollywood’s edge.
+3. Movie Microeconomics
+Much like general microeconomics, movie microeconomics deals broadly with problems related to an
+individual entity such as the film project itself, the individuals/institutions associated with the film
+project, or the deals done in relation to the film project, rather than problems more relevant to the
+industry at an aggregate level. As such this section focuses firstly on the demand for individual films,
+where it is impossible to proceed without discussion of the uncertainty inherent in understanding
+demand, and includes discussion of the role that stars, critics, awards, ratings and genres have on
+demand. Although the various studies discussed are structured around these sub-headings, it is an
+inherently subjective exercise to the group research this way and the headings are intended to serve
+merely as a guide and not a definitive classification as often studies transcend these categorizations.
+With this in mind, the following sub-sections on ‘Production’, ‘Distribution’ and ‘Exhibition’ also have
+some degree of subjectiveness in their classification – obviously grouping in this way is an intuitively
+appealing way in which to describe the various stages of film development to final consumption, even
+if the research lines are sometimes blurred.
+3.1 Demand and Uncertainty
+Many empirical papers are now accumulating which deal broadly with the demand for individual films.
+Without suggesting that these research efforts are not establishing original and informative results,
+the common approach of a number of these empirical studies is to model individual film revenue (or
+attendance) as a function of a set of film specific explanatory variables which may include budget, screen
+counts, advertising, awards, reviews, star power, genre, ratings etc. among other variables. Although
+statistically significant and intuitive results are frequently observed, there is a growing realization that
+the specification of such models requires special attention due to complications such as heavy tailed
+revenue distributions, and potentially endogenous right hand side variables.
+Prag and Casavant (1994) were some earliest researches to investigate the determinants of box office
+revenues using a number of the explanatory variables similar to those mentioned above. Their data set
+covers a sample 652 films released in the US market over a large number of years. The covariates they
+consider include budget, quality (critical reviews), star, sequel, award, genre and rating. In addition,
+they investigate a sub-sample of 195 titles for which they also observe advertising data. Their regression
+results reveal positive effects of budget, quality, star, sequel and award, but when advertising is included
+only quality remains significant. Subsequently they examine the determinants of marketing expenditure
+using the explanatory variables of budget, quality, star, sequel, award, genre and rating. They observe
+(positive) significance on budget, star, award and genres of action and comedy, and argue that it is not
+surprising that some variables lose significance when prints and advertising were added given that star,
+awards and budgets all impact on revenue indirectly through advertising. Although not directly stated
+by these authors, their results highlight strongly the endogenous nature of the advertising variable
+(i.e. box office revenue films are likely to be associated with higher of advertising) as well as the
+difficulties with interpreting coefficients with collinear independent variables – for example, budget
+and advertising are typically highly correlated.
+A more recent study to examine and econometrically account for the subtle intricacies of demand
+(and supply) in relation to film covariates is Elberse and Eliashberg (2003) who use weekly revenue
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+46 MCKENZIE
+and screen data on the USA, France, Germany, Spain and the UK in a simultaneous equation model
+of demand and supply dynamics. Their data set includes 164 titles which were released in 1999 and
+featured at least once in the top 25 of the US charts. They model weekly revenue as function of screens
+that week and other time variant and (for the first week only) time invariant variables. The time variant
+variables include word-of-mouth (weekly screen average), competing films and season, whereas time
+invariant variables include star appeal, director appeal and advertising expenditure. On the supply side
+they model weekly screen allocation decisions as a function of expected revenue for that week. They
+use Hollywood Stock Exchange (HSX) price data as a week one proxy for expected revenue, and
+in subsequent weeks use an exponential smoothing procedure in which last week’s anticipated value
+is updated by a fraction of the prediction error. Their supply model also includes time variant and
+time invariant variables similar to those of the demand model and, in the case of foreign markets,
+also a release time-lag variable from the US market. The results show evidence that several variables,
+usually assumed to influence revenues directly, influence revenues through the allocation of screens
+(e.g. advertising). For all markets, screens are the main determinant of revenues, and expected revenues
+are the main determinants of screens. They also show that advertising is the main predictor of opening
+week screens and revenues, and word-of-mouth is important subsequent weeks. Another finding is of an
+inverse relationship between the domestic-to-foreign release time-lag and foreign box office revenues
+– suggesting that word-of-mouth momentum may run out if distributors delay a release for too long
+between the two markets.
+An interesting feature of motion picture demand is the way in which consumers’ interact and the
+resulting effect on patterns of box office revenues. In a series of papers De Vany and Walls (1996,
+1997, 1999, 2004) extensively explore the dynamics of demand, the resulting statistical distributions
+of revenues/profits, and the implications for the practices of the industry.7 De Vany and Walls (1996)
+investigate the information cascade effects caused by word-of-mouth interactions about a particular film.
+Using a sample of 300 films from Variety’s top 50 released 1985–1986, they liken the information
+cascade effects to the Bose–Einstein model of physics where information feedback has the potential to
+generate extreme box office ‘hits’ and ‘flops’. Their model shows that the revenue distribution evolves
+recursively over the run of the film as a mixture of opening and stochastic competition between films.
+They show that the resulting distribution has heavier tails than the log-normal distribution and, further,
+that it violates an exact form of the Pareto law implying an auto-correlated pattern in the growth of
+revenues which they interpret as ‘increasing returns to information’.8
+In subsequent research, De Vany and Walls (1997) investigate the number of weeks spent in Variety’s
+top 50 for a sample of 350 films released between 1985 and 1986. They model the duration using a
+Weibull survival model in relation to a vector of explanatory variables including first run bookings,
+the week’s revenue, the number of weeks already in top 50, the rank in top 50, and the number of
+showcases a film played in when it debuted. Although all are shown to be statistically significant, they
+declare only first runs to be economically significant to the magnitude of increasing a run by 11.3%
+for a 1% increase in first runs. Walls (1998) also utilizes a Weibull survival model on a sample of
+493 films that played in the Hong Kong market between 1994 and 1996. Using the number of weeks
+spent in Variety’s top 10, he considers the role of opening week revenues and whether the film was in
+Chinese or English and finds opening week revenue positively impacts on life-length whereas Chinese
+films generally enjoy a shorter life at the Hong Kong box office.
+De Vany and Walls (1999) again consider the mathematical properties of box office revenue (and
+estimated profit) data of 2015 motion pictures released between 1985 and 1996. They show that the
+revenues are Levy stable distributed with extreme skew and theoretically infinite variance. They argue
+there is no typical movie because box office revenue outcomes diverge over all values. In reaching this
+finding they evaluate the impact of budget, star power (actors and director), sequels, genre, rating and
+release year on ‘hit’ probability in a binary dependent variable framework, where a hit is defined as
+a movie grossing over US$50 million. They find it impossible to attribute the success of a movie to
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 47
+individual causal factors showing that the audience reception (captured by a dummy variable for films
+lasting greater than 10 weeks) is the most important variable in determining box office revenues.
+Utilizing the same data as De Vany and Walls (1999), De Vany and Walls (2004) show the stable
+Paretian distribution to provide a strong account of (unconditional) profits in the industry, extending
+their earlier findings relating to revenues. They find support for the ‘nobody knows anything’ principle
+as evidenced by the (theoretic) infinite variance of the profit distribution – a property of the stable
+Paretian distribution. They also note statistical evidence consistent with what they term the ‘angel’s
+nightmare’, which is observed when excess over a film’s budget leads to a final cost that is proportional
+to the cost already expended. Further, they show support for the ‘curse of the superstar’ which is a
+consequence of the skew of the profit distribution for films with stars, which translated implies that if
+a star is paid their expected profit, the movie will generally lose money.
+Collins et al. (2002) also examine the statistical revenue distribution of a sample of 216 films
+released in the UK 1998–1999 and similarly show that film revenues in their sample are characterized
+by unbounded variance. Following the research of De Vany and Walls (1999) they investigate the tail
+parameter of the revenue distribution using regression techniques, Hill plots and the stable distribution
+(quantile) estimators. They find differing values of the tail weight parameter using the different
+techniques, but are able to establish that the distribution is characterized by theoretically infinite
+variance. Owing to the non-normal revenue distribution, they subsequently employ a binary dependent
+variable logit model on four revenue threshold levels to show that star power and good reviews help
+success, but the impact is far from certain as represented by large standard errors of the estimated
+parameters.
+Building on his earlier work with De Vany, Walls (2005a) applies a skew-normal and skew-t model
+to modelling a sample of 1989 films released in the USA between 1985 and 1996. His basic regression
+structure models revenue as a function of budget, star power, sequel, opening screens, genre and rating
+where the disturbance term follows a (log) skew-normal, or (log) skew-t distribution. He compares
+the results to standard log-linear and minimum absolute deviation models. The statistical evidence
+rejects the log-normal model and shows that coefficients differ significantly between the two sets of
+specifications – in particular, the effect of opening week screens is less in the skew-normal and skew-t
+models. He also argues that the skew-t is intuitively (more) appealing because it not only includes
+skew but heavy tails, and is a good practical approximation to the asymmetric stable regression.
+Using the same data and in a similar contextual framework to Walls (2005a), Walls (2005b) uses
+the symmetric stable distribution to account for heavy tails of the revenue distribution in a regression
+framework. He also applies a robust bounded influence regression (which gives less weight to outliers)
+and a trimmed least squares procedure (which omits the top and bottom 5% of observations) for
+comparison and observes that coefficient of budget and star are statistically different between the least
+squares model and the stable model, but not opening week screens or sequel. The estimates also reveal
+that the impact of a star is higher in the ordinary least squares (OLS) model implying that, if they
+were to be paid their true value, the film would lose money. As a practical point, he notes that the
+bounded influence regression provides a useful approximation to the stable regression but the trimmed
+least squares may perform poorly because it cuts out observations which actually should be included
+as they are not actually residual outliers.
+Walls (2005c) revisits the rank-revenue model of De Vany and Walls (1996) and shows that a
+stretched exponential (Weibull) does a better job of fitting the data than the parabolic power law
+originally presented using the same data described above. The stretched exponential models revenue,
+raised to a power, against log rank, where the power parameter has the practical interpretation of
+amount that the empirical distribution’s argument is ‘powered-up’ before it is exponentiated. This is
+consistent with a model of consumer demand where shocks are multiplicative and there is (eventual)
+saturation in demand.
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+48 MCKENZIE
+In one of the recent number of papers pursuing a discrete choice approach to modelling movie
+demand, Moul (2007) also investigates the word-of-mouth effect and saturation consequences on
+demand using a nested logit model where word-of-mouth presents through the heteroskedasticity and
+serial correlation in the error term of the model. His panel data set covers 1602 titles reported in
+Variety’s weekly top 50 from 1990 to 1996. The results of his thoughtful analysis suggest that word￾of-mouth represents approximately 10% of variation in consumer expectations and that information
+appears to reach the average consumer quickly. He also identifies that movies with low expectations
+find it harder to capitalize on word-of-mouth than movies with high expectations
+Using data on the Australian industry, McKenzie (2008, 2009) provides evidence on word-of-mouth
+and the interaction of demand and supply at the national level. Presenting a model similar to that of De
+Vany and Walls (1996), McKenzie (2008) provides evidence that the box office revenue distribution
+is characterized by thick right tails that are more extreme than a log-normal distribution and have
+theoretically infinite variance. Using a sample of 2429 films, he observes this not only for the entire
+sample, but also for a number of sub-samples disaggregated by opening week number of screens.
+Further, he shows that weekly screen average revenue distributions similarly reject log-normality,
+have theoretically infinite variance, and that the probability mass in the (right) tail of the weekly
+screen average distribution increases until week six and then decreases. He explains this finding as a
+consequence of word-of-mouth effects where consumers share information about films they like over
+early weeks and a bifurcation effect begins since films are contractually obligated to theatres for the
+minimum run period. Once this period ends, however, poor performing films are dropped and there is
+less divergence across the distribution and as a result there is less probability mass in the right tail.
+McKenzie (2009) employs a survival analysis (with unobserved heterogeneity) to investigate word￾of-mouth with respect to the number of weeks in which a film plays in the weekly Australian box
+office charts. His analysis considers a number of film specific covariates relating to the production
+characteristics of the film (budget, star power, re-release, sequel, genre and rating), consumer signals
+(US revenue and critical reviews), and strategic distribution variables (previewing, advertising, opening
+week screens, and release gap with the US market). Using data on 360 wide-release films released
+over the years 2000–2005, he provides evidence that box office life-length responds to previewing,
+advertising, critical reviews and US box office – but not to production budget, star power or opening
+week screens.
+3.1.1 The Role of Stars
+Stars are a long-standing feature of the movie business and the top ones command large salaries.
+Empirical researchers commonly include a ‘star’ variable, among others, in their attempts to explain
+box office success. Quantifying a star’s impact, however, is an inherently subjective exercise and there
+have been many different approaches adopted from examining the actor’s box office history, their
+award history, or appearances on industry ‘power’ or ‘hit’ lists (of which there are a number) among
+other methods. Rather than discuss how different researchers have measured star power, however, this
+section focuses on ‘how’ and ‘why’ stars play such an important role in the movie business.
+Albert (1998) examines the role of stars and argues that although stars are important, particularly
+in getting a film financed, they by no means guarantee success. His model suggests that stars are
+important not only because they attract a group of fans, but because they are least noisy and most
+consistent ‘marker’ for successful films. As an example he suggests that the actor Clint Eastwood,
+either through talent, ability to choose or ability to acquire investment, is a marker of successful films
+which can then be characterized as a film type. The theoretical context of his model is based on the
+famous Yule–Simon skew distribution, which is also related to the De Vany and Walls (1996) model
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 49
+of revenue dynamics.9 His analysis considers the top 20 films released between 1969 and 1995 over
+which time 283 different ‘film types’ (actors) are observed. Of these 155 had one such film, 52 had
+two such films, 22 had 3 etc. and 1 had 19 such films (Clint Eastwood). The results suggest that to
+produce a successful film it is best to produce a film of a type that has success already attached to it
+(marker) – i.e. to hire a star that has been associated with a string of successful films.
+Bagella and Becchetti (1999) analyse the determinants of successful Italian movies produced between
+1985 and 1996 covering a sample of 977 films and examine how the interaction of star actors and star
+directors may contribute towards film success. Using GMM-HAC (generalized method of moments
+heteroskedasticity and autocorrelation consistent) and quantile regression structures to account for the
+skewed nature of total admissions (their dependent variable), they consider a range of explanatory
+variables relating to the (ex ante) popularity of director and cast, subsidization, age restrictions, foreign
+co-productions, GDP, ticket prices, genre and film production house. Using measures of director and
+cast appeal derived from survey analysis, they find a quadratic specification with interaction between
+director and cast appeal provides evidence of positive externalities between the two factors – i.e.
+in addition to their individual effects there is an effect on revenue which exceeds the sum of the
+individual contributions. They also find no evidence of subsidization, foreign co-production, changing
+ticket prices, changing GDP or age restrictions affecting attendance, but do note the ‘comic’ genre and
+the ‘Filmauro’ production house as having a significant impact on admissions.
+Ravid (1999) investigates reasons for employing a star in relation to two hypotheses: (1) ‘rent
+capture’, i.e. they are paid the expected value of their contribution, and (2) ‘signalling’ that a film is of
+higher quality based on the assumption of a risk averse studio executive, or a film maker, with superior
+information about increased chances of success. His data set covers a sample of 175 films released
+between 1991 and 1993. The primary dependent variables are domestic (US) revenue, rate-of-return
+(revenue/budget, i.e. profitability), international revenue and video revenue. The ‘star’ variables he
+considers are whether or not any lead actors had won an Academy Award, whether or not any of the
+lead actors had participated in a top 10 grossing film in the last year, whether or not any of the lead
+actors had been nominated for an award, the number of awards/nominations and also an ‘unknown’
+variable if none of the cast members appeared in any of three major movie reference guides. His
+results show that star studded films bring in additional revenues in mean comparison tests, but when
+considered in a multivariate regression star impact has no discernible impact, thus cannot support the
+signalling hypothesis. Further, the impact of budget appears significant suggesting that spending of any
+sort, in general, increases revenues. He also shows that star appeal has no impact on rate-of-return,
+both in mean comparison tests and in regression analysis implying non-rejection of the rent capture
+hypothesis (i.e. budget and revenue increase proportionally).
+Elberse (2007) has examined the contributions of stars to movie success using the online fantasy
+HSX market as her primary data source. Using data on 1200 casting decisions (covering approximately
+600 actors and 500 movies) combined with ‘Movie-Stock’ and ‘Star-Bond’ data from the HSX she
+uses an event study framework to compare movies’ expected performance before and after a casting
+announcement. Her findings suggest that enlisting (delisting) a star causes the average HSX price
+to increase (decrease) by about H$3, which translates to a gain (loss) of approximately US$3m in
+expected box office revenue over the first 4 weeks of a film’s run. She also investigates the magnitude
+of the individual casting announcements on the HSX price in relation to a number of explanatory
+variables including the star’s economic (box office) and artistic (nominations/awards) history, the
+economic/artistic history of the supporting cast as well as interactions of the star with cast. She finds
+that the star’s prior performance in both an economic and artistic sense is a significantly important
+determinant and also that the number of prior performances of other cast members positively affects
+the size of the HSX response. She also investigates whether stars have any impact on the net worth,
+or valuation, of the specific film studio they represent but finds no evidence of any value-adding
+supporting the idea that stars capture their rents.
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+50 MCKENZIE
+3.1.2 The Role of Critics and Reviews
+Professional certifiers play an important role in many industries, and this is certainly true in the motion
+picture industry. In the USA, for example, there is evidence that one-third of moviegoers seek out the
+advice of a professional critic before going to the cinema and that one in three chooses a film because
+of a favourable review.10 In a contribution that generated a series of related papers, Eliashberg and
+Shugan (1997) consider the role of the critic as an ‘influencer’, whose reviews have causality effects
+of increased patronage, versus ‘predictor’, whose reviews serve merely as indicator of what films
+audiences will enjoy and patronize. The methodological framework they present is that the influencer’s
+reviews should correlate more with early box office revenues (under the assumption that this effect
+would die out in later weeks), against the role of a predictor whose reviews should correlate more with
+later box office and/or cumulative revenues. They use US data from 1991 to 1992 on weekly revenues,
+and review data from Variety which classified reviews as ‘pro’, ‘con’ or ‘mixed’. In total their data
+set covers 2104 reviews for 172 movies. They find support for the predictor perspective given that
+the effect of positive reviews appears stronger at later weeks of a film’s run, but they do stress some
+caution of their results given the difficulty in disentangling correlation from causality.
+Basuroy et al. (2003) also investigate the role of critics as influencer or predictor. Using primarily the
+same data as Ravid (1999) – augmented with data on average nature of review (according to Variety’s
+pro, mixed and con assessment), the proportion of good reviews, the number of reviews and variance
+of the reviews – they investigate a sample of 172 films observed by 141 critics. Their results show that
+the effect of a bad reviews decreases over time and that a ‘negativity bias’ exists where bad reviews
+hurt more than a good review helps. They also observe that stars and big budgets help films which have
+received a negative review, but there is not as much of an effect on films which receive a good review.
+Ravid et al. (2006) further investigate the role of critics by focusing on the following questions:
+(1) to what extent critics’ views are biased on particular studios/distributors, (2) whether viewers are
+able to distinguish between non-biased and biased distributors and avoid biased distributors and (3)
+how distributor bias varies with the reputation/experience of the critic. Using the same data as the
+earlier studies of Ravid (1999), and Basuroy et al. (2003), their results show that certain studios affect
+the nature of reviews, big budget films earn more reviews which are more likely to be negative, and
+star studded films earn more positive reviews. They also examine individual critics’ responses (for
+those who reviewed at least 35 films) and averaged distributor coefficients across distributors to assess
+bias showing that a bias does exist with some reviewers to certain distributors. Further, they provide
+evidence that, against expectation, biased reviewers actually correlate with higher box office revenues
+in domestic and international markets suggesting that audiences respond to biased critics. Another
+finding of their study is that critics based in L.A. are more biased towards giving a positive review
+and conjecture that the network of producers, actors, distributors etc. residing in L.A. may provide an
+explanation for the corporate bias observed.
+Gemser et al. (2007) also investigate the predictor versus influencer effect with a specific focus on
+art-house films versus mainstream films. Their study focuses on 84 films released between 1998 and
+2003 in Dutch cinemas. They use the ‘nature of review’ and the ‘size of review’ and weight these
+by the circulation of 13 daily Dutch newspapers. They find evidence that reviews have an (influence)
+effect on art-house demand, but no such effect on mainstream demand yet they do have a prediction
+effect. They show, however, that this only holds true for the size and number of reviews and not their
+nature – suggesting that coverage of any sort is better than no coverage at all.
+In an insightful study Reinstein and Snyder (2005) also consider the prediction versus influence effect
+of reviews by exploiting the timing of the review in relation to the opening weekend box office. They
+adopt a ‘difference-in-difference’ approach to purge the prediction effect from the model by noting
+that the prediction effect is present both before and after a review announcement, but the influence
+effect is only present once the announcement has been made. They combine box office revenue data
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 51
+of 609 movies with Siskel and Ebert’s reviews (and the date of the review) given that these were
+two of the most prominent reviewers over their sample period with a nationally syndicated TV show.
+Reviews are categorized as ‘no thumbs up’, ‘one thumb up’ or ‘two thumbs up’. Their results show a
+small but significant influence effect which appears more prominent for narrow releases (less than half
+median screens) and for drama films – the implication being that reviews are more important for ‘art’
+rather than ‘event’ films. They also show that a positive review early in the run increases the audience
+as an expansion effect rather than simply shifting demand from later in the run to earlier in the run
+at the expense of competing films. When they compare the difference-in-difference approach to the
+more traditional method of simply including reviews as an explanatory variable the results suggest a
+significant bias that although reduced by the inclusion of additional quality proxy variables, is still
+present and overstates the statistical significance of the review effect.
+Zuckerman and Kim (2003) investigate another aspect of the relationship between reviewer and
+financial success of a film by considering what they term ‘identity assignment’ for a sample of 396
+films released in 1997 in the US market. They characterize identity as being dependent upon the type
+of critic who reviewed it and characterized it as being ‘fit for the mass market’. That is, when a
+critic who specialized in major release films reviewed it favourably, it had potential to ‘break-out’ and
+achieve box office success in the mass market; however, they also showed such a favourable rating
+handicaps a film from penetrating the art-house market.
+Ginsburgh and Weyers (1999) consider another dimension relevant to the role of the reviewer by
+focusing on the ‘quality’ of movies as judged by experts (critics, actors, directors etc.), vis-`a-vis quality
+as judged by consumers. Their investigation centres around whether quality evaluation are long lasting
+by examining (1) the effect of nominations/awards and whether or not they subsequently appear in best
+movie lists for the experts and (2) the effect of box office and subsequent frequency of appearance
+on TV for consumers. Their data set covers 249 films from 1950 to 1970 that were either included in
+the Oscars or Cannes, and/or featured in best movies lists. Their results show that quality assessments
+made in Cannes (and to a lesser extent Oscars) are short lasting as films do not frequently appear
+on the best movies of all time lists – from the 174 nominations/awards, only 47 belonged to the 122
+movies selected as the best of all time. In contrast consumers appear more consistent as box office is
+strongly correlated with frequency of TV showings. The results also show that when films come out
+there is agreement between experts and consumers (awards and box office are correlated) but this effect
+diminishes over time implying that either the two groups value different attributes, or they value them
+differently through time. A further finding is that American films dominate in terms of commercial
+success and quality, but emphasize being American does not necessarily imply quality per se.
+In a related study, Ginsburgh (2003) examines the role of awards, economic success, and aesthetic
+quality in a contribution that also examines the book and music industries. His data cover all films
+nominated and awarded for ‘best picture’ type awards in a number of prominent film award ceremonies
+between 1950 and 1980, and a further set which have appeared in three separate 100 best movie lists
+all published in the late 1990s. Combining this information with rental data (i.e. revenues retained by
+the distributor) on film success, his results suggest that awards and commercial success are positively
+correlated but refrains from implying direct causation from awards to commercial success. The results
+also show that the aesthetic judgement of critics on the best movie lists is a significant determinant
+of commercial success but is insensitive to the number of lists, yet once awards and nominations are
+added only movies which appear on all three lists earn superior revenues. A further observation of the
+study is that movie awards often do not go to the best quality movie given that, for example, only 26%
+of movies which have one an Oscar for best picture appear on all three best movie lists considered.
+In another study concerned with quality assessments of motion pictures, Holbrook (1999) looks at
+the popular appeal versus expert judgement paradigm using data compiled from a sample of the 5000
+films represented in the popularity polls of viewers conducted by Home Box Office in 1989. From
+this, a sample of 1000 movies were selected in a manner that included only films released before
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+52 MCKENZIE
+1986, those that had won an Academy Award, those that had been listed as a box office hit and/or
+been voted in a top 100 poll by certain key commentators, and others that had been nominated and/or
+awarded in various other industry film lists and competitions. He examined two research questions:
+(1) do the determinants of ‘popular appeal versus expert judgement’ suggest differing or common
+standards of evaluation for consumers versus critics and (2) do discrepant (shared) tastes produce a
+negative (positive) correlation between popular appeal and expert judgement. His results suggest that
+ordinary consumers and professional critics do emphasize different criteria in the formation of their
+tastes and there exists negative correlation between popular appeal and expert judgement.
+3.1.3 The Role of Awards and Award Nominations
+Every year the film industry holds a number of famous and glamorous award ceremonies (e.g. the
+Academy Awards) which also provide mass entertainment unto themselves. There is strong evidence
+that award nominations and award wins significantly impact on box office revenues and consequently
+distributors are very responsive to them. For example, distributors may alter release dates to improve a
+film’s chances of nomination and, if successful, will often use the nomination/award in their marketing
+campaigns. It is therefore little wonder that a number of researchers have sought to empirically examine
+the effects of nominations and awards on the box office. In what has often been cited as one of the first
+empirical studies of the determinants of successful movies to appear in a mainstream economic journal,
+Smith and Smith (1986) investigate a sample of film rentals in relation to Academy Awards of best
+picture, best actor/actress, best director and total number of awards. Their study considers a sample
+of 600 films which they analyse over three sub-samples defined as 1950s and prior, 1960s and 1970s.
+The self-admitted ‘preliminary’ analysis provides a number of ‘mixed results’ suggesting that the
+determinants of successful films have changed over time based on the statistically significant increase
+in the magnitude of the effect of total awards, the decline in the apparent role of best actor/actress,
+and the change of the effect of best film from the 1960s (where it was negative), to the 1970s (where
+it became positive).
+A more recent detailed study by Nelson et al. (2001) employs a panel data set of weekly box office
+figures of 131 top 50 films released between 1978 and 1987 which were nominated for Academy
+Award best picture, best actor/actress, best supporting actor/actress, and a control sample of 131
+non-nominated films which were released in the same week and were the highest ranked film for a
+minimum of 5 weeks. In the first part of their empirical analysis, they model the ‘average revenue per
+screen’ and ‘share of total screens’ as a function of film fixed effects, seasonal (quarterly) dummies,
+week of release (polynomial) and number of nominations/wins for each of the five categories. They
+subsequently model the relationship using a flexible structure to account for timing of release relative
+to nomination/win announcements. In the second part of the empirical analysis they employ a survival
+model (Weibull with heterogeneity) to analyse how the duration of time which a film spends in the top
+50 is affected by nominations/awards. The combined results suggest that a nomination or award for
+best picture, or best actor/actress in a leading role has a positive effect on survival, average revenue
+per screen and share of screens, but a nomination/award for best actor/actress in a supporting role
+has little effect on these variables. They show that, for example, a best picture nomination/award can
+increase box office revenues by $4.8m/$12.7m respectively and liken the outcome to a two-stage,
+single-elimination tournament where films first compete for a nomination and the survivors compete
+for the award. The convexity of the nomination/award payoff is consistent with this sort of tournament.
+Deuchert et al. (2005) also examine the effect of Academy Award nominations and awards on
+movies’ financial success by considering a sample of 2244 movies (32,040) observations released in
+the US market between 1990 and 2000. They examine five definitions of awards: best picture, best
+actor/actress in leading role and best actor/actress in supporting role. They employ two models: (1)
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 53
+examine the effect on weekly revenues assuming the effects do not diminish over time, controlling
+for number of weeks already released, opening week revenue, seasonal effects, genre and distributor
+effects and (2) allowing time dependence and also differentiating between films which are nominated
+but do not win and those which are nominated and do win. Consistent with the approach of Nelson et
+al. (2001), they also consider a survival analysis in their study; however, the results of their analysis
+differ as they find that while the awards have a positive effect, the main effect is through nominations.
+They show that there are three channels of success: (1) winning best actress in a leading role, (2)
+winning best picture, (3) winning a best actor in leading role benefit more than when the awards are
+announced. An apparent implication of their analysis is that investment in awards is less profitable
+once nominations are made than the industry would expect.
+Lee (2009) takes an international/cultural perspective on the role of Academy Awards on motion
+picture demand. Using nominations and awards as indicators of cinematic achievement he investigates
+the relationship between such achievement and a sample of US films’ box office revenues in nine East
+Asian countries. In the analysis he makes a distinction between ‘drama’ awards (e.g. best director, best
+leading and supporting actor/actress, best screenplay and best film editing) and ‘non-drama’ awards (all
+other awards) to investigate how films defined in these respects may have cross-cultural appeal. Using
+data on the top 100 US movies from 2002 to 2007, the results show that non-drama awards relate
+positively to box office revenues, but drama awards show negative correlations. The interpretation
+of such results is that films with culturally specific (American) storylines do not translate for East
+Asian audiences as well as films which, for example, might contain relatively more special effects.
+Further, he finds that the negative relationship of drama awards and East Asian box office appears more
+pronounced in countries less culturally similar to the USA in terms of a culture similarity index.
+3.1.4 The Role of Ratings and Genres
+Most studies that consider ‘demand’ for motion pictures in an empirical setting typically include control
+variables for genre and rating variables. Some studies, however, have considered more closely the role
+of these variables in a general setting of demand. De Vany and Walls (2002) investigate the distribution
+of revenues, rates-of-return (defined as revenue/budget), and profits (approximated as 0.5 × revenue –
+budget) across the same sample of 2015 films considered in De Vany and Walls (1999). In their sample,
+more than 50% of all films were R-rated, whereas only 3% were G rated. The descriptive statistics
+suggest that stars were more likely to feature in an R-rated film, and particularly in high budget films.
+Using the stable Paretian model, they show that there is more probability mass in the (right) tail of the
+G, PG and PG13 films relative to R-rated films, and all other ratings stochastically dominate R-rated
+films’ rates-of-return up to the 75th percentile – however, this result is primarily driven by a number
+of low budget R-rated films in the sample. Their analysis of profit reveals that this distribution is also
+asymmetric and that there is more probability mass in the right tail, than the left tail across all ratings.
+Further they demonstrate that R-rated films have less probability mass in right tail (i.e. less breakout
+films) and (with the exception of PG13) more probability mass in the left tail (i.e. more chance of
+losing money). In their concluding comments they suggest that Hollywood may be responding to other
+incentives (e.g. artistic/peer acceptance), rather than succumbing to audience demands, or alternatively
+that the decision makers involved simply do not understand the odds involved.
+Ravid and Basuroy (2004) consider the impact of genres and ratings on film performance. Using
+the same data set as Ravid (1999), augmented with opening week (domestic) revenues, advertising
+information, positive review proportions, and the number of total reviews, they distinguish R-rated films
+as violent, very violent, sexual content and both sexual content and violent. Their mean comparison
+results show that violence translates to higher revenues but sex does not. The results show that, although
+films with violent or sexual content do not necessarily increase profitability, they lose money less often.
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+54 MCKENZIE
+They also provide evidence of sales maximization, rather than profit maximization, which may occur
+because of (1) the oligopoly environment (because, among other reasons, studios care about market
+shares and revenue figures are highly visible, whereas profit figures are not) and (2) agency concerns
+(because executives may not have budgetary control over the input process).
+3.2 Production
+There are many interesting economic issues that arise from the production of motion pictures. Without
+being exhaustive, many of these relate directly to the contractual, financing and integrative arrangements
+of the production process. Chisholm (1997) describes in much detail the contractual and institutional
+arrangements with respect to the producer, screen-writer, director and actor relationships with the
+studio. Primarily, however, her analysis focuses on the producer and actor relations with respect to
+fixed or share contracts over revenue and/or profit.11 In the context of the standard principal-agent
+model, she argues that share contracts are beneficial, particularly for the actor given that the producer
+can be monitored more easily so shirking is easier to detect. She points out, however, that there
+are legal costs associated with implementation of a share contract beyond a fixed fee contract. For
+example, additional clauses may be required defining exactly what constitutes revenue (e.g. domestic,
+international, ancillary etc.), and if it is profit then there needs to be more clauses discussing definitions
+of cost (negative cost, interest, distribution expenses). There is also room to exploit incompleteness
+in definitions leading to enforcement costs. Her data set is derived from clippings of journals and
+periodicals with a total of 118 payment schemes recorded between 1959 and 1989. Of these, 49 were
+share payments, and 69 fixed payments. Her results reveal that contract length, actor’s experience and
+revenue generating ability all increase probability of a share contract. Prior collaboration and Oscar
+recognition (under less statistical significance) are also shown to increase the likelihood of an actor
+receiving a share contract.
+In subsequent related research, Chisholm (2004) considers the size of the fixed payment portion of
+star contracts using the same data set as her previous study covering the years 1959–1989. She explores
+various explanations for the size of the fixed payment relating to (1) rent capture, (2) risk sharing, (3)
+signalling and (4) portfolio optimization by studios. Her results show that the size of fixed payment
+moves with actors history, and that when contracts include fixed and share components, the fixed part
+is influenced by risk concerns. She also shows that fixed payment contracts only are influenced by
+measures of signalling (marking) and star power, and that both types of contracts support the rent
+capture theory that actors are paid rents upfront for the value of the star power they bring. Another
+explanation of the fixed part of the contract is that it serves as a risk premium which might move
+with the level of film riskiness (e.g. if film genre changes from that of actor’s last film then this may
+increase risk).
+Corts (2001) considers the integration arrangements of production and distribution and examines two
+questions. First, do vertical structures that involve multiple upstream and downstream firms achieve
+efficient results, and secondly do divisionalized firms act like fully integrated firms or competing
+individual firms. His data set examines the release dates of films in 1995–1996 where 80 production
+companies distributed their films through 13 distributors (many of which also have their own production
+companies), and partitions weeks of year into windows by two methods: (1) linking troughs in Murphy’s
+historic database (reported in Vogel, 2007) creating 10 seasons per year and (2) centring windows
+on the peak of cycles creating eight seasons per year. The empirical model investigates how the
+distributor/producer relations impact on a pair of films’ release gap in an OLS and (two sided) Tobit
+model – because the maximum gap is the number of weeks in the window. The primary right hand side
+variables are the corporate ownership arrangements of distributor/producer. His results suggest ‘Same
+Producer, Same Distributor’ films are released further apart and even having a common distribution
+alone may help to achieve an efficient outcome, but not as successfully as also sharing the same
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 55
+producer. Also, films sharing just the same producer do not achieve efficient outcomes if they do not
+share the same distributor. He also extends the model to investigate at the role of divisionalization (i.e.
+different production houses) within the studio and the results show that the divisions act just like the
+firm. His evidence suggests that the more complex vertical structures generally do not achieve efficient
+outcomes for the structure, and that divisionalized firms generally behave like integrated firms, not like
+competitors. He also finds that the release dates for films sharing the same genre are generally further
+apart, and that big-budget star laden films are more likely to compete head to head.
+Fee (2002) investigates financing decisions of filmmakers in relation to studio versus independent
+financing. Using a sample of 349 US films released in 1992–1993 he investigates whether films are
+more likely to be independently financed in relation to the filmmaker’s ‘artistic stake’ and ‘effort’. More
+broadly, his analysis relates to the theory of incomplete contracts in the sense that there is potential a
+trade-off between monetary incentives and managerial benefits in studio versus independent financing.
+By using proxies for marketing effort (number of opening screens) and artistic effort (critical review
+as reported in Variety), he initially investigates what determines these in relation to genre, budget and
+sequels and settles for the genres of ‘action’ and ‘comedy’ as defining films with relatively lower
+artistic quality when ‘budget’ is omitted, and just ‘comedy’ when ‘budget’ is included. The results of
+his logit and probit models suggest that a film is more likely to be independently financed when the
+artistic stake is high and when the film’s genre requires a higher personal exertion of effort.
+Goettler and Leslie (2005) investigate the co-financing arrangements of major studios with other
+studios, or independent production companies, where co-financing implies an equity stake. Their data
+set considers a sample of 1305 titles released between 1987 and 2000 by a major studio. Of these,
+361 were co-financed with an independent and 32 were with a major studio. They consider a couple
+of potential explanations for co-financing: (1) that it is used to finance relatively riskier films and
+(2) that it is used to manage portfolio risk – for example, covariance between titles (genres) and law
+of large numbers (would prefer a small stake in many films rather than a large stake in a single
+film). Ultimately, however, they provide evidence against both of these and provide two alternative
+explanations: (1) co-financing is used to make more big budget films (that may also be tied into theme
+parks and other merchandising etc.) and (2) to help in achieving more spaced release dates and less
+competition in this aspect.
+Palia et al. (2008) also explore co-financing with a data set of 275 films produced by the
+12 major distributors. They identify 148 co-financed films and 127 solo-financed films using various
+trade publications and interviews with executives, and investigate the following potential explanations:
+(1) risk reduction hypothesis, (2) internal capital market hypothesis (when firms have limited capital
+with multiple projects will allocate limited capital to the most successful projects), (3) managerial
+bargaining hypothesis (e.g. director may earn more when project is carried out through alliances),
+(4) market structure hypothesis (i.e. that alliances lead to less competition and an increase in
+concentrations), (5) resources pooling hypothesis (which implies larger budgets will be associated
+with co-financing), (6) specialization hypothesis (will specialize according to comparative advantage
+and hence lead to more profitable outcomes) and (7) lemons hypothesis (that the poorer quality movies
+will be co-financed). Their results show that project risk is important to co-financing and that studios
+finance their less risky projects internally. They also find that studios which co-finance are more
+likely to have higher risk differentials and be financially constrained. Although they are able to find
+partial support for resource pooling hypothesis, they are unable to show significant differences between
+performance of the two types of films (i.e. co-financed versus non-co-financed) which leads to rejection
+of the specialization and lemons hypotheses. They also suggest that firms may form these alliances to
+participate in projects in which they would otherwise not be involved with.
+Jansen (2005) explores a different dimension of film financing by considering the role of funding
+bodies (or more accurately subsidization) in the German film industry. He examines (1) the determinants
+of German cinema admissions and rates-of-return, (2) the impact of subsidies as allocated either (i) by
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+56 MCKENZIE
+a committee or (ii) by reference to past successes and (3) the profitability of the German industry. He
+notes that subsidies account for over half the average budget in German films, and that every film is
+subsidized to some extent. He argues because of Germany’s long tradition of cinema as ‘art’ rather than
+entertainment, some producers may pursue other objectives than profit, and that committee subsidization
+may relax the incentive to increase earnings over expenditures because (the state) pays the difference.
+The reference principle, on the other hand, links funding directly to the previous performance of the
+production company, and therefore creates stronger incentives for profit maximization and audience
+appealing films. The data set he uses covers 120 (of 367) German films released between 1993
+and 1998. In his empirical model the dependent variables are admissions and producer’s rates-of￾return, whereas the independent variables include subsidies (committee and reference), star power,
+director power, budget, reviews, genre, rating and distributor size. His results suggest that there is a
+group of production companies which regularly outperform others (supporting reference subsidies over
+committee subsidies), and also that critical reviews impact positively on box office success.
+3.3 Distribution
+The distribution of motion pictures involves the problem of choosing a release date, deciding on an
+opening number of prints (and adjusting these in subsequent weeks), and designing and implementing
+an advertising campaign. One of the most important decisions of the film distributor relates to the
+timing of a film’s release. Krider and Weinberg (1998) investigate the release date timing game
+between two films in a finite season using a two parameter ‘share-attraction’ model – where films
+have an initial (fixed) attraction parameter, and a decay parameter. Their theoretical model shows that
+three equilibria may emerge: (1) a single equilibrium where both films simultaneously enter (if both
+have long legs the loss from delay outweighs the loss from competition), (2) a single equilibrium with
+one film opening at the beginning and the other film delaying (if asymmetry exists) and (3) a dual
+opening with either movie delaying opening (if films are identical but have short legs and can benefit
+from not going head to head). They empirically test their model on 24 major films released during
+summer of 1990 by proposing a regression model where the dependent variable is the number of weeks
+from beginning of the season at which a film is released, against independent variables including the
+opening weekend box office and (half-life) run length. The results showed a significant negative effect
+of opening weekend box office, i.e. more successful films are released closer to the beginning of the
+season, but no significance of run length – suggesting that legs are ignored, or are hard to anticipate
+based on word-of-mouth uncertainty.
+In two insightful contributions Einav (2007, 2009) also investigates the relationship between
+seasonality and the release timing decisions of distributors. Einav (2007) investigates a sample of
+wide-release movies released in the US market between 1985 and 1999 (covering 1956 titles) to
+explore the notion of underlying versus observed seasonality. Underlying seasonality may differ from
+observed seasonality when distributors release their popular titles on big weekends amplifying the
+underlying pattern of demand. He proposes a discrete choice (nested logit) model of demand estimated
+with and without movie fixed effects whose coefficients are used to represent ‘quality’. He then infers
+amplification effect by examining the magnitude of the standard deviations of the estimated weekly
+dummy variable between the two models. His results suggest an amplification effect in the order of
+50%, or put another way, underlying seasonality is approximately two thirds of observed seasonality.
+He argues that because of fixed ticket prices, market expansion is due to number and quality of movies
+released, wherein the bigger markets attract bigger movies, and inflexible ticket prices means that
+prices do not adjust to offset increased demand.
+In a companion paper Einav (2009) develops a discrete timing game of movie release with
+heterogeneous players. He proposes a ‘pseudo backward induction’ method to solve for the perfect
+Bayesian equilibrium sequentially which avoids the potential multiplicity of equilibria which is common
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 57
+in these games. His data set is based on release date change announcements, which are published by
+Exhibitor Relations, Inc. as the ‘Features Release Schedule’.12 Release date changes are common in the
+motion picture industry which arise both because of internal reasons and in response to competitors’
+release announcements. He defines four release windows (5-week periods) and considers the set of
+players as exogenously given (i.e. all players are fully observed). Periods observed coincide with major
+holiday weekends of Presidents Day, Memorial Day, Fourth of July and Thanksgiving. Using demand
+estimates from Einav (2007), the main empirical finding is that movie distributors over cluster their
+release dates, with too many good movies on big weekends, and that the industry could earn more
+profits by spreading out release dates.
+Moul (2008) focuses on other aspects of the distributor’s problem with respect to weekly (national)
+screen allocations and advertising decisions. He uses a PDGEV (principles of differentiation generalized
+extreme value), similar to a nested logit, to estimate demand and then apply this to a model in which
+distributors choose weekly screen (theatre) allocations and weekly advertising (for which a proxy of
+newspaper advertisement size is used). Using the same data set as Moul (2007) – discussed above – but
+with the addition of advertising, his results suggest that distributors have found some ways to collude
+and limit payments to exhibitors and that advertising is excessive in the industry. Also, the results
+suggest that there may be too few cinemas meaning that consumers travel too far to reach cinemas.
+3.4 Exhibition
+The exhibition industry also offers much scope for economic investigation and, in particular, applying
+the techniques of empirical industrial organization to understand its structure, conduct and performance.
+In a series of papers, Davis (2005, 2006a, b) considers a number of issues pertaining to the practices,
+structure and spatial characteristics of the US motion picture exhibition industry over the years
+1993–1997. Using data covering 101 markets in North America, Davis (2005) finds statistically
+significant relationships between local market structure (number of screens owned by own and rival
+companies within a local market) and the change in admission prices. In his substantiative data set,
+which covers 56,729 pricing points from a total of 5743 theatres, he observes that the effect of local
+competition is small, and finds no evidence that controlling local ownership (i.e. increasing competition)
+will necessarily lead to lower prices. There is even some evidence that common ownership may actually
+help to bring down prices which may be plausible given that exhibitors are likely to prefer lower prices
+(than distributors), and exploit profit margins in pop-corn sales where they do not share revenues.
+In subsequent research, Davis (2006a) again uses a 5-year sample of theatre revenues over the years
+1993–1997 to examine (1) incumbent rivals’ revenues (business stealing), (2) own-firm revenues at
+existing theatres (cannibalization) and (3) total industry revenues (market expansion) by focusing on
+a period where there were a number of entry (mostly high quality multiplexes) and exit decisions
+(mostly smaller low quality theatres) in the US exhibition industry. His results provide evidence of
+substantial business stealing effects (consistent with industry reports), and also considerable market
+expansion effects ($30–$50k per screen). He also shows that business stealing is localized to about 15
+miles around a theatre location, but finds little evidence of cannibalization arguing that the process of
+entry occurs primarily through theatre chains building new high quality theatres near their rivals, rather
+than close to their own theatres, and not by upgrading to protect a location (defensive building).
+In a particularly detailed study Davis (2006b) develops a random coefficients discrete choice model
+to examine cinema demand using daily admissions of 607 theatres across 36 markets over a seven
+day period in June 1996. Along with a number of theatre characteristic variables (such as ticket price,
+consumer service, whether or not the theatre had Dolby or DTS technology etc.) and film fixed effect
+variables, his demand model also incorporates demographic information from the census to construct
+population counts around local cinemas with respect to (concentric circle) distance measures. He finds
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+58 MCKENZIE
+that (quadratic) travel costs result in limited substitutability between theatres and local markets. He
+argues that the main constraints on the exercise of market power through admission prices involve (1)
+consumers substituting to other activities and (2) incentives of distributors (i.e. theatres would prefer
+lower admission prices if they could attract the same set of films).
+Orbach and Einav (2007) also consider cinema ticket prices in a study of the US market and evaluate
+potential economic reasons for the (almost) uniform pricing practices observed in the industry. They
+examine two dimensions of the puzzle: (1) the movie puzzle (why different movies are priced the same)
+and (2) the show-puzzle (why different times, days and seasons are priced the same). They provide
+detail that during the pre-Paramount era (i.e. before 1948) variables pricing strategies were used with
+respect to films categorized by quality as A, B, C or D. This continued into the 1950s and 1960s
+where event movies were priced above other movies and also there was price variation with respect
+to weekday versus weekends, and by type of seat. They examine potential explanations for uniform
+pricing based on (1) behavioural explanations, i.e. (i) perceived fairness, (ii) unstable demand when
+price might be viewed as a signal of quality and (iii) demand uncertainty, (2) menu and monitoring costs
+and (3) structural characteristics of the industry and regulatory constraints, i.e. (i) agency problem (i.e.
+the misalignment of distributor and exhibitor incentives such as lower ticket prices due to concession
+revenues, and underreporting of revenues) and (ii) double marginalization (which could be internalized
+with vertical integration). Their conclusions are that exhibitors could increase profits if they practised
+variable pricing, and that the industry could gain, for example, by pricing event movies higher and by
+charging different prices for different times.
+Chisholm and Norman (2006) consider another important strategic issue relevant to the exhibition
+sector of the industry by investigating the dynamic issue of when to replace a film at a specific
+location. They use theatre level data of three first-run theatres in the Boston area for a sample covering
+between 106 and 121 films at each location released over the period June 2000 to June 2001. Their
+empirical survival model considers film-at-theatre survivorship in relation to intra-theatre (rank at
+theatre) considerations, factors external to the theatre (national screens, revenues, stars), and inter￾theatre considerations (ownership). The results of their analysis show that theatres within chains avoid
+business stealing (cannibalization) by decreasing survival times, and that cinemas owned by different
+companies engage in business stealing by increasing the length of a run. Other (control) variables of
+their analysis (screens, revenue and stars) show significance but low impact on theatre survival.
+Of long-standing interest to economists interested in this industry has been the structure and design
+of the exhibition contract, however, very few researchers have actually had access to them for empirical
+analysis. The research of Filson et al. (2005) provides an exception.13 These authors develop a
+theoretical model to analyse the movie exhibition contract and show that difficulties in forecasting
+revenues provide better explanations of the declining share of revenues, rather than explanations based
+on asymmetric information. The model also shows that risk aversion by each party and measurement
+cost minimization helps explain the typically observed declining share structure. The study employs a
+data set of 2769 contracts of 13 cinemas of one of St Louis’ prominent exhibition companies. Under
+legal confidence, they describe the nature of the contracts (without being specific) and investigate a
+linear sharing rule (as opposed to a sliding scale), and argue that the likely reason this is not adopted
+is because it may encourage exhibitors to reduce the length of a run.
+Gill (2007) also provides evidence on the exhibition contract by utilizing data on exhibition
+contract ‘renegotiation’ (which may occur when a film performed better or worse than expected)
+to investigate reasons for vertical integrative relationships between distribution and exhibition. His
+data set is particular to the Spanish film industry from 2001 to 2002 and covers 369 films from 21
+distributors across 277 theatres. His data set includes the distributor, film nationality, Spanish box
+office, US box office and release date of each title. In his study, distributors qualify as integrated
+if they owned at least one theatre, resulting in five distributors being classified as integrated. He
+takes advantage of the fact that non-integrated theatres play integrated and non-integrated distributors’
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 59
+films. The results provide evidence that integrated distributors are more likely to distribute movies
+with higher renegotiation frequencies, and that they are more likely to use their own theatres for such
+movies. Further, he suggests that transaction costs are the likely reason for observing such behaviour.
+Collins et al. (2009) examine product differentiation of programming decisions in a study of Italian
+cinemas. Their sample consists of a sample of 282 cinemas with 870 screens observed across three
+Italian regions (Piemonte, Lazio and Campania) during 2006. They observe that the cinema industry
+has been in a state of transition with growth of multiplex cinemas around the major centres and address
+the question as to whether or not this has led to more conformity in programming decisions. Creating
+an index of ‘conventionality’ which captures the average number of cinemas showing the same titles
+as the reference cinema, they investigate the determinants of conventionality as related to population,
+age structure of the population, income (GDP) and whether or not the cinema was a multiplex. The
+results reveal that higher population leads to higher conventionality in programming (i.e. more cinemas
+showing the same film), more young viewers (percentage below and including 14 years) lead to a
+higher turnover of films – less conventionality, higher income increases conventionality and multiplex
+cinemas also increase conventionality – although not in the model where cinemas (rather than single
+screens) are considered which is a manifestation of the construction of the conventionality index in
+this respect.
+4. Movie Macroeconomics
+A number of studies have taken a macroeconomic perspective in considering the film industry. Rather
+than focusing on an individual aspect of the industry, such as the demand for a particular film of
+given characteristics, the research detailed in this section focuses on the big picture issues pertinent
+to the industry. For example, movie macroeconomics might consider aggregate patterns of cinema
+demand (and supply) and the impact of various policy, economic and social changes which have
+occurred such as the introduction of TV and VCRs, or a change in copyright laws. This section is
+sub-divided into discussions of aggregate cinema demand, understanding audiences, trade of motion
+pictures and industry structure and finally copyright and piracy. As with the previous section on movie
+microeconomics, these classifications serve only as a guide to the subject matter as a number of the
+studies reviewed could arguably be grouped into more than one of these categories.
+4.1 Aggregate Demand for Cinema
+As with the literature on demand for individual films, there is now also a significant collection of
+studies which deal broadly with what might be termed aggregate cinema demand, i.e. total market
+demand at an aggregated level such as weekly, monthly, quarterly or annually. Often such studies seek
+to make use of time series techniques and associated time series variables such as ticket price indexes
+and income data. Of particular interest as well have been the structural changes in demand brought
+about by such things as the introduction of TV and VCRs. In a series of papers, Cameron (1986,
+1988, 1990, 1999) examines the demand and supply of cinema at the aggregate level in the UK. Using
+monthly data on cinema admissions, prices, incomes and television licences, Cameron (1986) notes
+that the UK cinema industry had been in a state of decline since 1957 which may in part have been due
+to higher ticket prices and substitution towards other goods (e.g. TV). He also found strong positive
+income elasticity of cinema demand and that relative price elasticities are significantly greater than
+one in an absolute sense. This, he argues, is consistent with either profit maximization with shifting
+marginal costs or ad hoc price adjustments. Cameron (1988) further suggests that the introduction
+of VCRs had a negative impact on cinema admissions. However, due to data availability only at the
+annual level for VCR sales, he refrains from attempting to quantify the size of the impact.
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+60 MCKENZIE
+Cameron (1990) revisits the issue of income elasticity using pooled cross section data. Comparing
+his estimates of income elasticity with a range of other research on leisure and cultural activities
+(sport, orchestra, Broadway theatre etc.) he notes his results are at the top of this range, being close to
+other performing arts, suggesting cinema falling into the same category as more obviously art related or
+cultural goods. Using the same data set, Cameron (1999) investigates Becker’s rational addiction model,
+which has previously been applied to consumption goods such as cigarettes, alcohol and gambling. His
+results, however, fail to provide any strong support for the rational addiction model describing cinema
+demand.
+Hand (2002) uses an ARIMA (autoregressive integrated moving average) model to investigate a data
+set of annual British cinema admissions from 1936 to 1999. The ARIMA specifications employed are
+(1, 1, 1), (2, 1, 0) and (0, 1, 2) – where (a, b, c) denotes the order of (a) autoregression, (b) integration,
+(c) moving average. He truncates the last 3 years of his sample to provide forecasting checks of his
+models with the actual data and finds that the (1, 1, 1) model is capable of providing only short range
+(i.e. 1 year) forecasts. He suggests the results are symptomatic of a combined market expansion effect
+and product substitution effect when a good film is released which captures positive word-of-mouth.
+In another study using British time series data, MacMillan and Smith (2001) investigate cinema
+demand and supply in response to competition from TV using annual data from 1950 to 1987. These
+authors use VAR (vector autoregressive) time series techniques to investigate the effects of ticket
+prices, TV ownership, the number of cinema sites, income per capita and (age) demographics on
+cinema demand during this period. Their results show that negative shocks to demand throughout over
+the sample period reduced the supply of screens, consequently having a feedback effects on admissions.
+They also observe, however, that introduction of multiplex cinemas in the 1990s interrupted and partially
+reversed this downward spiral.
+Dewenter and Westermann (2005) consider the demand for cinema in Germany using annual data
+over the period 1950–2002. They note that attendances of cinema peaked in the 1950s but fell drastically
+thereafter with the introduction of TV among other things. Using a single equation framework, they find
+that cinema demand is elastic to price (−2.25) and income (4.48) – suggesting that it is a luxury good
+– and note that the market share of commercial television channels is negatively related to demand for
+cinema. They also model simultaneously demand and supply using two-stage least squares (2SLS) and
+seemingly unrelated regression techniques and find that (absolute) own price elasticity of demand is in
+the range 2.40–2.76, prices of other (substitute) cultural goods have positive and significant coefficients,
+but income elasticity is lower than the single equation model and sometimes insignificant. With respect
+to the supply side of the model, they observe that lagged attendances and population growth increased
+supply, but that the introduction of TV and VCRs had a negative impact on supply.
+Fernandez-Blanco and Banos-Pino (1997) examine cinema demand in Spain using a cointegration
+analysis on annual data set spanning 1968–1992. They examine the effects of changing theatre ticket
+prices (combined with travel prices), income and TV as the primary explanatory variables of annual
+admissions. To model the impact of TVs they create a dummy variable which takes the value one
+after 1984 – the year state television ceased to be monopolized in Spain. They find that cinema is a
+luxury good and that its demand is elastic with respect to price. They also find that that the increase
+in television programming in the 1980s was responsible for a maximum of 9% reduction in cinema
+attendance.
+A recent study of Bi and Giles (2009) using weekly US weekend box office totals has employed
+extreme value theory to model industry returns over the period 1982–2006. They use the peak over
+threshold method to fit industry returns to the upper and lower tail of the generalized Pareto distribution,
+and then investigate two typical measures of risk using the value at risk and expected shortfall techniques
+on the implied distribution. The results suggest the returns are appropriately modelled using the
+generalized Pareto distribution and that for a given investment in the industry, the probability of loss
+is relatively lower than the probability of gain.
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 61
+4.2 Understanding Audiences
+Cuadrado and Frasquet (1999) examine the growth of multiplexes and the effects on cinema demand in
+the Spanish industry. Using survey analysis of 505 cinemagoers aged between 14 and 35, they examine
+the segmentation of the cinema audiences based on demographic and socio-economic variables to gain
+insights into the profile of young cinema audiences. They find three differentiated groups of cinema
+attendees – the social, the apathetic and the cinema buff – and that different types of cinemas have
+different appeal to different groups – shopping centre multiplexes having wide appeal and multiplexes
+specializing in non-Spanish films having appeal to cinema buffs.
+Collins and Hand (2005) also consider a survey approach in their analysis of aggregate patterns of
+cinema attendance. They examine the cross-sectional probability that individuals will go to a movie (in
+the last two months) using individual level data reported in the Cinema and Video Industry Audience
+Research survey.14 They consider the socio-economic group of the respondent (as proxy for income
+measured on a six-point scale), age of respondent, residential identification variables (six-point scale),
+and the potential substitutes of television and video/DVD of explanatory variables. Although they do
+not observe price they contend that variation in ticket prices may affect time/day, or theatre, but not
+choice of whether to go or not to see a movie due to its constancy within the time frame considered.
+Their results show that (1) the probability of cinema attendance increases with income (socio-economic
+group), (2) one of the residential classification dummies is significant (affluent urbanites), (3) gender
+(male) is significant, (4) interaction of gender with age shows no significance (i.e. older men are less
+likely to go to the movies than younger men, or women their own age) and (5) video rentals and TV
+viewing have negative relations, but stress this as tentative due to potential endogeneity. To further
+check the robustness of their results, they also consider whether the model can explain who never goes
+to the movies. All of previously significant variables were still significant, suggesting the sample of
+films over the two month sample time did not appear to be biasing results in any systematic fashion.
+Yamamura (2008) explores the recent revival of the Japanese cinema industry using aggregated
+attendance data from 47 prefectures over the period 1990–2001. He investigates annual attendance in
+relation to covariates relating to ticket prices, the proportion of Japanese titles shown, the characteristics
+of cinemas (screens, multiplex features, parking etc.), the availability of substitute products (satellite
+TV, cable TV), as well as information on the population demographics of the prefecture (density,
+age, immigration status etc.) and the nature of social networks (proxied by population turnover and
+immigration between prefectures). The results of his 2SLS panel analysis reveal that demand is price
+elastic, multiplexes increase cinema demand, parking availability increases attendance, domestic films
+decrease attendance, income impacts negatively (against intuition) on attendance, satellite and cable
+TV are substitutes for cinema, cinema attendance rates are higher for younger (20–24) and older
+people (60+) than other adults, and that the decay of social networks decreases attendance. In a further
+conditional logit analysis of the location choices of newly built multiplex cinemas using a similar set
+of covariates to the analysis of attendance, the results suggest that high levels of attendance discourage
+new infrastructure, higher ticket prices increases new multiplex construction, and that new multiplexes
+are less likely to be built where there are existing multiplex cinemas. As well he provides evidence
+that multiplex construction is less likely to take place in prefectures with a higher number of satellite
+and cable TV providers, and that the decay of social networks reduces the likelihood of new multiplex
+construction.
+4.3 Trade of Motion Pictures and Industry Structure
+Marvasti (1994) examines international trade behaviour of motion pictures as ‘cultural goods’ and the
+effect of trade barriers on net exports of films. Using cross-sectional 1985 data across a number
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+62 MCKENZIE
+of countries he models (film) trade as a function of a range of variables including population,
+capital–labour ratio, language, religion, GNP, quantitative restrictions, subsidies and (the lack of)
+intellectual property rights. He finds evidence that trade barriers do lead to higher net exports and the
+direction of trade in films is from rich to poor countries. He also estimates a Cobb–Douglas production
+function for film which shows that there are (close to) constant returns to scale in the industry. In
+following research, Marvasti (2000) again examines motion picture trade in relation to tariffs, market
+shares, domestic market size, taste similarities, VCRs, stars and domestically popular films among other
+variables. Using data from 1961 to 1988, his results indicate that (1) stars and domestic blockbusters
+do not influence consumption of films overseas, (2) tariffs are effective trade barriers and (3) VCRs
+increase the chance of piracy.
+Canterbery and Marvasti (2001) show increased industry revenues are achieved when increasing
+star costs are incurred and that the studios rely on stars to differentiate their product. Using US data
+spanning the years 1965–1991 they test a number of hypotheses using time series techniques. In their
+analysis they examine the following: (1) hyper-differentiation of movies results in low price elasticity
+of demand for admissions, (2) the main successful source of product differentiation is the movie star,
+who provides information regarding the quality of the product to the consumer, (3) the presence of
+supra-specific human capital (stars) adds greatly to the quality, demand and revenue without a strong
+positive effect on quantitative film output, (4) the use of generic human capital or ‘cast members’
+adds greatly to the quantitative film output while affecting demand or revenue little, (5) circulating
+capital affects positively quantitative and qualitative film output, (6) the movie experience is an inferior
+good and (7) economies of scale exist in the production of movies. In their analysis, they define a
+‘blockbuster’ as a movie grossing at least $10 million in real terms (1982–1984 dollars) and define
+a ‘star’ as an index based on the results of a randomly distributed survey. Their results suggest that
+they can support most of their hypotheses and note that external as well as internal economies of
+scale, imperfect competition and vertical integration have been critical to the success of the US movie
+industry.
+In a further study of motion picture trade, vis-`a-vis cultural and other barriers, Marvasti and
+Canterbery (2005) use a gravity iceberg model to explore the apparent paradox of the US motion
+picture industry’s proliferation despite various obstacles relating to protectionism, rising costs and
+relatively stable ticket prices. Using annual pooled cross-section data of 33 countries over the period
+1991–1995, the authors observe that trade barriers are: mostly non-traditional in nature with some of
+the biggest ones relating to denial of property rights – i.e. movie piracy. As a first stage, they employ a
+Poisson model to explain a numerical index of the number of trade barriers and an ordered probit model
+to explain a qualitative index of the complexity of trade barriers. Included in their explanatory variables
+are the ratio of motion picture investment to GDP, number of films produced, whether or not country
+is adjacent to the USA, adult literacy rate, percentage of English speaking population, and percentage
+of Judeo-Christian population. In the second stage, they use the predicted values of trade barriers in
+an instrumental variable fimework to estimate the US export Function far motion pictures. In addition
+to the instrumental variables, they include the gravity measure (spatial distance and income difference)
+and other cultural barrier variables related to adjacent country or not English speaking percentage,
+literacy rat, Christian religion rate, and whether or not the country classifies as less developed They
+show that protectionism abroad tends to increase with US exports implying that particular countries
+desire to develop their local industries. They also argue that the Canadian and Mexican industries have
+used protectionist strategies due to their proximity to the USA.
+Scott (2004) examines the structure of the US distribution market over the period 1980–2000,
+focusing on the role of independents, majors and subsidiaries of majors. His descriptive statistics suggest
+that although independents supplied over half the market during his sample period they controlled only
+about 10% of the revenue. He argues that the industry is segmented into three overlapping tiers and
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 63
+proposes a simple regression model that focuses attention on number of titles released by the different
+types of distributors in a particular year as a function of money spent on films in the previous year and
+the prevailing interest rate. His results suggest that independent distributors are particularly sensitive
+to the former variable, for which he explains as riding on success of majors, and the majors are
+highly and inversely sensitive to interest rates, potentially owing to the larger production costs incurred
+and subsequent reduction in titles produced. He also notes that international export markets have
+expanded greatly in recent years, partly as a result of strategic trade initiatives underwritten by the US
+government.
+4.4 Copyright Law and Piracy
+Using data from 38 countries during the years 1990–2000, Hui and Png (2002) investigate the impact
+of economic incentives on the international supply of big screen movies and, in particular, the impact
+of a 1998 change to copyright law in the USA. Using data on variables including TV and video
+ownership, personal disposable income and population, they develop a model of national movie supply
+and demand and examine two main questions: (1) how changing economic incentives (defined in
+the context of VCR ownership and higher levels of disposable income) affect equilibrium conditions
+and (2) how the impact of a change in US copyright law (relating to re-authorship copyright period)
+affects the industry. The results suggest strongly that the supply of creative work did respond to
+economic incentives; however, they are unable to provide any evidence of tighter copyright laws
+increasing movie production. They also note that the effect of TV ownership was significantly
+negative on the equilibrium supply of movies, suggesting that the substitution between television
+and theatre attendance outweighed the increased supply of movies through television and population
+growth.
+Perhaps one of the biggest concerns to the industry in the present day is the potential for lost revenue
+from piracy. Although piracy may take a variety of forms, the main concern for studios and distributors
+is arguably the illegal sale of mass produced pirated copies, and the proliferation of downloading
+such files on the internet. Using confidential studio data from an actual leaked title, De Vany and
+Walls (2007) examine the impact on a film’s potential lost revenue in relation to the number of illegal
+download sites which had it available for download prior to and during its theatrical run. Their simple
+regression framework examines the weekly change in distributor reported revenue as a function of
+time (i.e. week of run) and the number of download sites featuring the title. Although they observe a
+particularly small sample, they estimate the loss from piracy to be between US$242 and US$621 per
+active illegal download site and using a median quantile regression, with a time quadratic variable, as
+their preferred model estimate this at US$437 per site. Overall their estimates suggest that the loss
+associated with a contemporaneous pirate internet release is on the order of US$40m for a typical
+studio movie.
+In another study concerned with piracy in the film industry, Walls (2008a, b) considers a cross￾country analysis of 26 countries’ piracy rates as reported in 2004 in relation to a number of socio￾economic variables. Specifically, he considers an index of collectivism, cost to enforce property rights
+as a percentage of GNI, per capita GDP, and the number of internet users per 1000 people. The
+results of both a linear and logistic specification reveal that piracy is increasing in collectivism and
+decreasing in income, but once property right enforcement and the level of internet usage are included
+as explanatory variables, income ceases to be a determinant of the piracy rate. He also investigates
+how individual countries may impact on findings by examining the differences between estimated
+coefficients with and without the specific country included. This analysis revealed that Ecuador, Korea,
+Pakistan and Switzerland all have significant impacts on the estimated coefficients – yet the question
+of ‘why’ is left to future research endeavours.
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+64 MCKENZIE
+5. Concluding Comments and Directions for New Research
+The motion picture industry certainly offers economists many interesting puzzles – particularly for
+applied researchers. Although the industry may be small in comparison to other consumer industries, it
+is by far the largest ‘cultural’ or ‘entertainment’ industry. This paper has attempted to unify much of the
+existing research which has been written primarily by (applied) economists over the last two decades.
+Also, an attempt has been made to structure this discussion in a coherent way such that the body of
+literature which is increasingly becoming known as ‘movie-economics’ can be further sub-divided as
+either micro or macro, and then further grouped again with other similar research.
+The history of the industry is particularly interesting, and the practices of pre-Paramount era
+have begun re-emerging across various countries. It seems true that vertical integration between
+production/distribution and exhibition (or part thereof) is a useful way in which to deal with the
+nature of the industry and, in particular, the extreme uncertainty faced. There is still much scope
+for new research in this area, with respect to integration formation, anti-trust issues, and the way in
+which films are licensed to exhibitors. In particular, what are the advantages of horizontal/vertical
+integrative relationships for firms, consumers and overall welfare? Do such alliances foster greater
+product diversity? Which parties are harmed by such practices? Etc.
+It has become well understood that motion pictures are an inherently uncertain product. Given the
+industry’s obsession with reporting national sales figures, and the range of film specific variables which
+are either directly or subjectively quantifiable, it will remain an endeavour of economists to attempt
+to explain causal factors of films’ performance with respect to variables such as production budgets,
+advertising, screens, stars, reviews, awards, genres, ratings etc. There is also a growing realization,
+however, that there exist complications in models of this sort with respect to non-normal revenue
+distributions, and potentially endogenous right hand side variables. Future studies should seek remedial
+measures for these problems so that meaningful inference can be made in such models. In particular, the
+way in which studio/distributor expectations (and responsive strategic decisions) interact with consumer
+expectations and word-of-mouth will continue to provide an interesting area for research activity.
+The various stages of production, distribution and exhibition also offer many opportunities for new
+research. Research related to elements of the production process will inherently involve an examination
+of contractual relationships (whether this be between artist and studio, or producer and studio etc.),
+and the manner in which financing arrangements are made. Research related to the distribution stage
+of the project has a large cross over with the work of marketing scholars, given the primary functions
+of the distributor relate to the strategic decisions of choosing an optimal release date and pattern,
+and also designing and implementing an advertising campaign. Empirical game theory techniques are
+likely to provide important insights to this dimension of the process. Finally, the exhibition stage and
+industry offers researchers and opportunity to examine short-run, medium-run and long-run problems
+as they relate to the day-to-day operations of film programming, the local competitive environment and
+entry/exit decisions of theatre owners. Empirical industrial organization researchers, using discrete￾choice/differentiated-product models can usefully apply their tools here and with increased cinema
+level data availability this is likely to provide an especially fruitful area of research.
+Finally, with respect to movie macroeconomics, studying aggregate patterns of cinema attendance
+will continue to provide useful insights as general structural changes occur both within and outside
+of the industry. In particular, given that the industry is moving to a new age of digital distribution
+and projection, these changes are likely to have an impact on viewers’ habits. Also, given the falling
+prices of substitute technologies (including Plasma and LCD TVs and Blu-Ray), it is also likely that
+these will impact on aggregate patterns of attendance should the industry not respond accordingly.
+Another important and to-date under researched issue confronting the industry is that of piracy. Given
+the proliferation of the internet and the increasing speed of bandwidth, the piracy problem is likely to
+become particularly important to the film industry over the next few years.
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 65
+Acknowledgements
+This paper is based on a lecture prepared for the European Science Days Summer School on ‘The Economics
+of Art and Culture’ in Steyr, Austria, July 2009. I am grateful for the useful comments of two anonymous
+referees on an earlier version of the paper. The usual disclaimer applies.
+Notes
+1. There is something of a grey area between much of the marketing and economic literature on motion
+pictures. This study discusses in detail only a small number of the (many) marketing papers which
+exist. The interested reader should consult studies such as Eliashberg and Sahwney (1994), Sawhney
+and Eliashberg (1996), Neelamegham and Chintagunta (1999), Swami et al. (1999), Eliashberg et al.
+(2000), Edwards and Buckmire (2001), Swami et al. (2001), Ainslie et al. (2005), Krider et al. (2005),
+Elberse and Anand (2006), Hennig-Thurau et al. (2007a, b), Joshi and Hanssens (2009) etc. to become
+familiar with the research efforts of this discipline.
+2. In saying these surveys only cover a limited number of studies on the industry is not to suggest that
+they are inferior as often the objective may be to focus on a particular topic which may extend beyond
+research focused solely on the industry itself. For example, De Vany (2006) and Walls (2008a, b)
+both cite much research on heavy tailed distributions which relates specifically to the models of movie
+demand which they have jointly developed over a number of years (see below) and each discuss in their
+respective survey.
+3. Along with economists, researchers from other disciplines have also become increasingly interested in
+the motion picture industry over recent years – among others these disciplines include (most obviously)
+film studies, media and communications, management, sociology, psychology, mathematics and physics.
+4. This section borrows from Litman (1998) and Vogel (2007).
+5. See also Storper (1989) and Aksoy and Robins (1992).
+6. Sedgwick and Pokorny (1998, 2005).
+7. All of these papers and more are collated in De Vany (2004). Also, De Vany surmises much of this work
+in his chapter entitled ‘The Movies’ in the Handbook of the Economics of Art and Culture (Ginsburgh
+and Throsby, eds, 2006).
+8. Walls (1997) and Hand (2001) also find increasing returns to information using Hong Kong and UK
+data sets, respectively.
+9. De Vany (2004, Chapter 11) and McKenzie (2010) have used the related Pareto distribution to explain
+the careers of directors/actors and movie producers, respectively.
+10. Wall Street Journal (2001) cited in Basuroy et al. (2003).
+11. See also Weinstein (1998).
+12. Einav and Ravid (2009) use release date changes in conjunction with stock market prices of the publicly
+traded studios of the films they represent to show that the market responds negatively to any news of a
+date change.
+13. Blumenthal (1988), discussed above, and Gill (2007), discussed below, provide other exceptions.
+14. Eliashberg et al. (2006, footnote 1) refer a related type of research using survey analysis as the
+‘psychological approach’ and cite a number of papers in this respect. Whereas theses studies typically
+investigate opinions, needs, moods, etc. in their survey design, Collins and Hand (2005) concentrate on
+economic variables in their approach.
+References
+Ainslie, A., Dreze, X. and Zurfryden, F. (2005) Modeling movie life cycles and market share. Marketing
+Science 24(3): 508–517.
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+66 MCKENZIE
+Aksoy, A. and Robins, K. (1992) Hollywood for the 21st century: global competition for critical mass in
+image markets. Cambridge Journal of Economics 16: 1–22.
+Albert, S. (1998) Movie stars and the distribution of financially successful films in the motion picture
+industry. Journal of Cultural Economics 22(4): 249–270.
+Bagella, M. and Becchetti, L. (1999) The determinants of motion picture box office performance: evidence
+from motion pictures produced in Italy. Journal of Cultural Economics 23: 237–256.
+Basuroy, S., Chatterjee, S. and Ravid, S.A. (2003) How critical are critical reviews? The box office effects
+of film critics, star power, and budgets. Journal of Marketing 67: 103–117.
+Bi, G. and Giles, D. (2009) Modelling the financial risk associated with U.S. movie box office earnings.
+Mathematics and Computers in Simulation 79: 2759–2766.
+Blumenthal, M. (1988) Auctions with constrained information: blind bidding for motion pictures. Review of
+Economics and Statistics 70: 191–198.
+Cameron, S. (1986) The supply and demand for cinema tickets: some U.K. evidence. Journal of Cultural
+Economics 10(1): 38–62.
+Cameron, S. (1988) The impact of video recorders on cinema attendance. Journal of Cultural Economics
+12(1): 73–80.
+Cameron, S. (1990) The demand for cinema in the United Kingdom. Journal of Cultural Economics 14(1):
+35–47.
+Cameron, S. (1999) Rational addiction and the demand for cinema. Applied Economic Letters 6: 617–620.
+Canterbery, E. and Marvasti, A. (2001) The U.S. motion picture industry: an empirical approach. Review of
+Industrial Organisation 19: 81–98.
+Caves, R. (2000) Creative Industries. Cambridge, MA: Harvard University Press.
+Chisholm, D. (1997) Profit-sharing versus fixed-payment contracts: evidence from the motion pictures
+industry. Journal of Law, Economics and Organization 13(1): 169–201.
+Chisholm, D. (2003) Motion pictures. In R. Towse (ed.), A Handbook of Cultural Economics. Cheltenham:
+Edward Elgar.
+Chisholm, D. (2004) Two-part share contracts, risk, and the life cycle of stars: some empirical results from
+motion-pictures contracts. Journal of Cultural Economics 28(1): 37–56.
+Chisholm, D. and Norman, G. (2006) When to exit a product: evidence from the US motion picture industry.
+American Economic Review, Papers and Proceedings 96(2): 57–61.
+Collins, A. and Hand, C. (2005) Analyzing moviegoing demand: an individual-level cross-sectional approach.
+Managerial and Decision Economics 26: 319–330.
+Collins, A., Hand, C. and Snell, M. (2002) What makes a blockbuster? Economic analysis of film success
+in the U.K. Managerial and Decision Economics 23(6): 343–354.
+Collins, A., Scorcu, A. and Zanloa, R. (2009) Distribution conventionality in the movie sector: an economic
+analysis of cinema supply. Managerial and Decision Economics 30: 517–527.
+Corts, K. (2001) The strategic effects of vertical market structure: common agency and divisionalization in
+the U.S. motion picture industry. Journal of Economics and Management Strategy 10(4): 509–528.
+Cuadrado, M. and Frasquet, M. (1999) Segmentation of cinema audiences: an explanatory study applied to
+young consumers. Journal of Cultural Economics 23: 257–267.
+Davis, P. (2005) The effect of local competition on retail prices in the US motion picture exhibition market.
+Journal of Law and Economics 48(2): 677–708.
+Davis, P. (2006a) Measuring the business stealing, cannibalization and market expansion effects of entry in
+the motion picture exhibition market. Journal of Industrial Economics 54(3): 293–321.
+Davis, P. (2006b) Spatial competition in retail markets: movie theatres. Rand Journal of Economics 37(4):
+964–981.
+Deuchert, E., Adjamah, K. and Pauly, F. (2005) For Oscar glory or Oscar Money? Journal of Cultural
+Economics 29(3): 159–176.
+De Vany, A. (2004) Hollywood Economics: How Extreme Uncertainty Shapes the Film Industry. London:
+Routledge.
+De Vany, A. (2006) The movies. In V. Ginsburgh and D. Throsby (eds), Handbook of the Economics of Art
+and Culture. Amsterdam: North-Holland.
+De Vany, A. and Eckert, R. (1991) Motion picture antitrust: the Paramount cases revisited. Research in Law
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 67
+and Economics 14: 51–112. Also published in De Vany, A. (ed.) (2004) Hollywood Economics: How
+Extreme Uncertainty Shapes the Film Industry. London: Routledge.
+De Vany, A. and Walls, D. (1996) Bose–Einstein dynamics and adaptive contracting in the motion picture
+industry. The Economic Journal 106: 1493–1514. Also published in De Vany, A. (ed.) (2004) Hollywood
+Economics: How Extreme Uncertainty Shapes the Film Industry. London: Routledge.
+De Vany, A. and Walls, D. (1997) The market for motion pictures: rank, revenue and survival. Economic
+Inquiry 35(4): 783–797. Also published in De Vany, A. (ed.) (2004) Hollywood Economics: How Extreme
+Uncertainty Shapes the Film Industry. London: Routledge.
+De Vany, A. and Walls, D. (1999) Uncertainty in the movie industry: does star power reduce the terror of
+the box office? Journal of Cultural Economics 23: 285–318. Also published in De Vany, A. (ed.) (2004)
+Hollywood Economics: How Extreme Uncertainty Shapes the Film Industry. London: Routledge.
+De Vany, A. and Walls, D. (2002) Does Hollywood make too many R-rated movies? Risk, stochastic
+dominance, and the illusion of expectation. Journal of Business 75(3): 425–451. Also published in
+De Vany, A. (ed.) (2004) Hollywood Economics: How Extreme Uncertainty Shapes the Film Industry.
+London: Routledge.
+De Vany, A. and Walls, D. (2004) Motion picture profit, the stable Paretian hypothesis and the curse of the
+superstar. Journal of Economic Dynamics and Control 28(6): 1035–1057. Also published in De Vany,
+A. (ed.) (2004) Hollywood Economics: How Extreme Uncertainty Shapes the Film Industry. London:
+Routledge.
+De Vany, A. and Walls, D. (2007) Estimating the effects of movie piracy on box-office revenue. Review of
+Industrial Organization 30(4): 291–301.
+Dewenter, R. and Westermann, M. (2005) Cinema demand in Germany. Journal of Cultural Economics 29:
+213–231.
+Edwards, D.A. and Buckmire, R. (2001) A differential equation model of North American cinematic box
+office dynamics. Journal of Management Mathematics 12: 41–74.
+Einav, L. (2007) Seasonality in the U.S. motion picture industry. Rand Journal of Economics 38(1): 127–145.
+Einav, L. (2009) Not all rivals look alike: estimating an equilibrium model of the release date timing game.
+Economic Inquiry, to be published. DOI: 10.1111/j.1465-7295.2009.00239.x
+Einav, L. and Ravid, A. (2009) Stock market response to changes in movies’ opening dates. Journal of
+Cultural Economics 33(4): 311–319.
+Elberse, A. (2007) The power of stars: do star actors drive the success of movies? Journal of Marketing 71:
+102–120.
+Elberse, A. and Anand, B. (2006) Advertising and expectations: the effectiveness of pre-release advertising
+for motion pictures: an empirical investigation using a simulated market. Information Economics and
+Policy 19: 319–343.
+Elberse, A. and Eliashberg, J. (2003) Demand and supply dynamics for sequentially released products in
+international markets: the case of motion pictures. Marketing Science 22(3): 329–354.
+Eliashberg, J. and Sahwney, M. (1994) Modelling goes to Hollywood: predicting individual differences in
+movie enjoyment. Management Science 40(9): 1151–1174.
+Eliashberg, J. and Shugan, S. (1997) Film critics: influencers or predictors? Journal of Marketing 61(2):
+68–78.
+Eliashberg, J., Jonker, J., Sahwney, M. and Wierenga, B. (2000) MOVIEMOD: an implementable decision
+support system for pre-release market evaluation of motion pictures. Marketing Science 19(3): 226–243.
+Eliashberg, J., Elberse, A. and Leenders, M. (2006) The motion picture industry: critical issues in practice,
+current research, and new research directions. Marketing Science 25(6): 638–661.
+Fee, E. (2002) The costs of outside equity control: evidence from motion picture financing decisions. Journal
+of Business 75(4): 681–711.
+Fernandez-Blanco, V. and Banos-Pino, J. (1997) Cinema demand in Spain: a cointegration analysis. Journal
+of Cultural Economics 21: 57–75.
+Filson, D., Switzer, D. and Besocke, P. (2005) At the movies: the economics of exhibition contracts. Economic
+Inquiry 43(2): 354–369.
+Gemser, G., Van Oostrum, M. and Leenders, M. (2007) The impact of film reviews on the box office
+performance of art house versus mainstream motion pictures. Journal of Cultural Economics 31: 43–63.
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+68 MCKENZIE
+Gill, R. (2007) ‘Make-or-buy’ in movies: integration and ex post renegotiation. International Journal of
+Industrial Organisation 25: 643–655.
+Ginsburgh, V. (2003) Awards, success and aesthetic quality in the arts. Journal of Economic Perspectives
+17(2): 99–111.
+Ginsburgh, V. and Weyers, S. (1999) On the perceived quality of movies. Journal of Cultural Economics 23:
+269–283.
+Goettler, R. and Leslie, P. (2005) Co-financing to manage risk in the motion picture industry. Journal of
+Economics and Management Strategy 14(2): 231–261.
+Hand, C. (2001) Increasing returns to information: further evidence from the UK film market. Applied
+Economics Letters 8: 419–421.
+Hand, C. (2002) The distribution and predictability of cinema admissions. Journal of Cultural Economics
+26: 53–64.
+Hanssen, F.A. (2000) The block-booking of films re-examined. Journal of Law and Economics 43: 395–426.
+Hennig-Thurau, T., Henning, V. and Sattler, H. (2007a) Consumer file sharing of motion pictures. Journal
+of Marketing 71: 1–18.
+Hennig-Thurau, T., Henning, V., Sattler, H., Eggers, F. and Houston, M. (2007b) The last picture show?
+Timing and order of movie distribution channels. Journal of Marketing 71: 63–83.
+Holbrook, M. (1999) Popular appeal versus expert judgements of motion pictures. Journal of Consumer
+Research 26: 144–155.
+Hui, K. and Png, I. (2002) On the supply of creative work: evidence from the movies. American Economic
+Review 92(2): 217–220.
+Jansen, C. (2005) The performance of German motion pictures, profits and subsidies: some empirical
+evidence. Journal of Cultural Economics 29(3): 191–212.
+Joshi, A. and Hanssens, D. (2009) Movie advertising and the stock market valuation of studios: a case of
+‘great expectations’? Marketing Science 28(2): 239–250.
+Kenney, R. and Klein, B. (1983) The economics of block-booking. Journal of Law and Economics 26(3):
+497–540.
+Kenney, R. and Klein, B. (2000) How block-booking facilitated self-enforcing contracts. Journal of Law and
+Economics 43: 427–435.
+Krider, R. and Weinberg, C. (1998) Competitive dynamics and the introduction of new products: the motion
+picture timing game. Journal of Marketing Research 35: 1–15.
+Krider, R., Li, T., Liu, Y. and Weinberg, C. (2005) The lead lag puzzle of demand and distribution: a
+graphical method applied to movies. Marketing Science 24(4): 635–645.
+Lee, F. (2009) Cultural discount of cinematic achievement: the academy awards and U.S. movies’ East Asian
+box office. Journal of Cultural Economics 33(4): 239–263.
+Litman, B. (1998) The Motion Picture Mega-Industry. Boston, MA: Allyn and Bacon.
+MacMillan, P. and Smith, I. (2001) Explaining post-war cinema attendance in Great Britain. Journal of
+Cultural Economics 25: 91–108.
+Marvasti, A. (1994) International trade in cultural goods: a cross sectional analysis. Journal of Cultural
+Economics 18: 135–148.
+Marvasti, A. (2000) Motion pictures industry: economies of scale and trade. International Journal of the
+Economics of Business 7(1): 99–114.
+Marvasti, A. and Canterbery, R. (2005) Cultural and other barriers to motion picture trade. Economics Inquiry
+43(1): 39–54.
+McKenzie, J. (2008) Bayesian information transmission and stable distributions: motion picture revenues at
+the Australian box office. Economic Record 84(266): 338–353.
+McKenzie, J. (2009) Revealed word of mouth and adaptive supply: survival of motion pictures at the
+Australian box office. Journal of Cultural Economics 33(4): 279–299.
+McKenzie, J. (2010) Movie producers and the statistical distribution of achievement. Applied Economics
+Letters, to be published. DOI: 10.1080/13504850903194183
+Moul, C. (ed.) (2005) A Concise Handbook of Movie Industry Economics. New York: Cambridge University
+Press.
+Moul, C. (2007) Measuring word-of-mouth’s impact on theatrical movie admissions. Journal of Economics
+and Management Strategy 16(4): 859–892.
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+THE ECONOMICS OF MOVIES 69
+Moul, C. (2008) Retailer entry conditions and wholesaler conduct: the theatrical distribution of motion
+pictures. International Journal of Industrial Organisation 26: 966–983.
+Neelamegham, R. and Chintagunta, P. (1999) A Bayesian model to forecast new product performance in
+domestic and international markets. Marketing Science 18: 115–136.
+Nelson, R., Donihue, M., Waldman, D. and Wheaton, C. (2001) What’s an Oscar worth? Economic Inquiry
+39(1): 1–16.
+Orbach, B. and Einav, L. (2007) Uniform prices for differentiated goods: the case of the movie-theater
+industry. International Review of Law and Economics 27(2): 129–153.
+Palia, D., Ravid, S.A. and Reisel, N. (2008) Choosing to co-finance: analysis of project-specific alliances in
+the movie industry. Review of Financial Studies 21(2): 483–511.
+Pokorny, M. and Sedgwick, J. (2010) Profitability trends in Hollywood: 1929 to 1999: somebody must know
+something. Economic History Review 63(1): 56–84.
+Prag, J. and Casavant, J. (1994) An empirical study of the determinants of revenue and marketing expenditures
+in the motion picture industry. Journal of Cultural Economics 18(3): 217–235.
+Ravid, S.A. (1999) Information, blockbusters and stars: a study of the film industry. Journal of Business
+72(4): 463–492.
+Ravid, S.A. and Basuroy, S. (2004) Managerial objectives, the R-rating puzzle, and the production of violent
+films. Journal of Business 77(2): S155–S192.
+Ravid, S.A., Wald, J. and Basuroy, S. (2006) Distributors and film critics: does it take two to tango? Journal
+of Cultural Economics 30: 201–218.
+Reinstein, D. and Snyder, C. (2005) The influence of expert reviews on consumer demand for experience
+goods: a case study of movie critics. Journal of Industrial Economics 103(1): 27–51.
+Sawhney, M. and Eliashberg, J. (1996) A parsimonious model for forecasting gross box office revenues of
+motion pictures. Marketing Science 15(2): 113–131.
+Scott, A. (2004) Hollywood and the world: the geography of motion picture distribution and marketing.
+Review of International Political Economy 11(1): 33–61.
+Sedgwick, J. and Pokorny, M. (1998) The risk environment of film making: Warner Bros in the inter war
+years. Explorations in Economic History 35: 196–220.
+Sedgwick, J. and Pokorny, M. (2005) The film business in the United States and Britain during the 1930s.
+Economic History Review 58: 79–112.
+Smith, S. and Smith, K. (1986) Successful movies: a preliminary empirical analysis. Applied Economics
+18(5): 501–507.
+Squire, J. (ed.) (2003) The Movie Business Book, 3rd edn. New York: Fireside.
+Storper, M. (1989) The transition to flexible specialisation in the US film industry: external economies, the
+division of labour, and the crossing of industrial divides. Cambridge Journal of Econoimcs 13: 273–305.
+Swami, S., Eliashberg, J. and Weinberg, C. (1999) SilverScreener: a modelling approach to movie screens
+management. Marketing Science 18(3): 352–372.
+Swami, S., Puterman, M. and Weinberg, C. (2001) Play it again, Sam? Optimal replacement policies for a
+motion picture exhibitor. Manufacturing and Services Operations Management 3: 369–386.
+Vogel, H. (2007) Entertainment Industry Economics, 7th edn. New York: Cambridge University Press.
+Walls, D. (1997) Increasing returns to information: evidence from the Hong Kong movie market. Applied
+Economics Letters 4(5): 287–290.
+Walls, D. (1998) Product survival at the cinema: evidence from Hong Kong. Applied Economics Letters 5:
+215–219.
+Walls, D. (2005a) Modelling heavy tails and skewness in film returns. Applied Financial Economics 15(17):
+1181–1188.
+Walls, D. (2005b) Modeling movie success when ‘nobody knows anything’: conditional stable distributional
+analysis of film returns. Journal of Cultural Economics 29(3): 177–190.
+Walls, D. (2005c) Demand stochastics, supply adaptation, and the distribution of film earnings. Applied
+Economics Letters 12(10): 619–623.
+Walls, D. (2008a) Economics of motion pictures. In S. Durlauf and L. Blume (eds), The New Palgrave
+Dictionary of Economics, 2nd edn. New York: Macmillan.
+Walls, D. (2008b) Cross-country analysis of movie piracy. Applied Economics 40: 625–632.
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+70 MCKENZIE
+Weinstein, M. (1998) Profit sharing contracts in Hollywood: evolution and analysis. Journal of Legal Studies
+27: 67–112.
+Yamamura, E. (2008) Socio-economic effects of increased cinema attendance: the case of Japan. Journal of
+Socio-Economics 37: 2546–2555.
+Zuckerman, E. and Kim, T. (2003) The critical trade-off: identity assignment and box office success in the
+feature film industry. Industrial and Corporate Change 12(1): 27–67.
+Journal of Economic Surveys (2012) Vol. 26, No. 1, pp. 42–70
+C 2010 Blackwell Publishing Ltd
+ 14676419, 2012, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1111/j.1467-6419.2010.00626.x by Hong Kong Metropolitan, Wiley Online Library on [04/03/2024]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

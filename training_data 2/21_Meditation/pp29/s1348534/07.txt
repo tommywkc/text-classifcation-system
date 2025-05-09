@@ -1,0 +1,865 @@
+Mindfulness-Based Approaches: Are They All the Same?
+Alberto Chiesa1 and Peter Malinowski2
+1
+University of Bologna
+2
+Liverpool John Moores University
+Mindfulness-based approaches are increasingly employed as interventions for treating a variety of
+psychological, psychiatric and physical problems. Such approaches include ancient Buddhist
+mindfulness meditations such as Vipassana and Zen meditations, modern group-based standardized
+meditations, such as mindfulness-based stress reduction and mindfulness-based cognitive therapy,
+and further psychological interventions, such as dialectical behavioral therapy and acceptance and
+commitment therapy. We review commonalities and differences of these interventions regarding
+philosophical background, main techniques, aims, outcomes, neurobiology and psychological
+mechanisms. In sum, the currently applied mindfulness-based interventions show large differences
+in the way mindfulness is conceptualized and practiced. The decision to consider such practices as
+unitary or as distinct phenomena will probably influence the direction of future research. & 2011 Wiley
+Periodicals, Inc. J Clin Psychol 67:404–424, 2011.
+Keywords: mindfulness; Zen; Vipassana; neuroimaging; physical illnesses; mental illnesses
+Mindfulness meditations (MMs) and mindfulness-based interventions (MBIs) include a broad
+range of meditation practices and psychological interventions linked by the concept of
+‘‘mindfulness’’ (Chiesa & Serretti, 2010; Ivanovski & Malhi, 2007). Both ancient Buddhist
+meditations, such as Vipassana meditation (Gunaratana, 1993) and Zen meditation (Kapleau,
+1965), modern standardized group-based meditation practices, such as mindfulness-based
+stress reduction (MBSR; Kabat-Zinn, 1990) and mindfulness-based cognitive therapy (MBCT;
+Segal, Williams, & Teasdale, 2002), as well as a number of psychological interventions,
+including dialectical behaviour therapy (DBT; Linehan, 1993) and acceptance and
+commitment therapy (ACT; Hayes, Strosahl, & Wilson, 1999), are commonly referred to as
+‘‘mindfulness-based’’ approaches. However, significant differences exist across different
+authors1 (e.g., Baer, 2003; Chiesa & Serretti, 2010; Hayes & Feldman, 2004; Ivanovski &
+Malhi, 2007; Ospina et al., 2007).
+In recent years, there has been an increasing interest towards the possibility of using such
+approaches as a means for treating a variety of psychological and physical disorders (Baer,
+2003; Chiesa & Serretti, 2010; Lynch, Trost, Salsman, & Linehan, 2007; Pull, 2009) and for
+reducing stress levels in healthy subjects (Chiesa & Serretti, 2009). In particular, building on
+historical accounts of MM practice, which suggest that it might help the practitioner to
+achieve freedom from dissatisfaction and suffering and to develop sustained joy and happiness
+(Analayo, 2003; Gunaratana, 1993; Kapleau, 1965), and on observations, which suggest that
+This article was reviewed and accepted under the editorship of Beverly E. Thorn.
+We acknowledge the generous support of the BIAL Foundation in Portugal (Bursary 30/08) to the second
+author (PM).
+Correspondence concerning this article should be addressed to: Alberto Chiesa, Institute of Psychiatry,
+University of Bologna, Viale Carlo Pepoli 5, 40123 Bologna, Italy; e-mail: albertopnl@yahoo.it
+1
+There are several differences in the way different authors define and join together existing ‘‘mindfulnessbased’’ approaches. Some join together MBSR, MBCT, DBT and ACT and call them ‘‘mindfulness-based
+interventions’’ (e.g. R.A. Baer, 2003). Others join together Vipassana and Zen meditation as well as MBSR
+and MBCT with the name of ‘‘mindfulness meditations’’ (e.g. Chiesa & Serretti, 2010; Ospina et al., 2007).
+Further, other authors join together all such kind of practices (e.g. Ivanovski & Malhi, 2007). In the
+present paper, we referred to Vipassana and Zen meditation as mindfulness meditations (MM) and to
+MBSR, MBCT, DBT and ACT as ‘‘mindfulness-based interventions’’ (MBI) in order to differentiate the
+former from the latter on the basis of the historical context in which they emerged.
+
+ancient MM might be clinically effective for a variety of disease conditions (e.g., Chiesa, 2009,
+2010), several attempts have been made to incorporate elements of mindfulness into modern
+psychological interventions. The link between MM practice and the development of psychological health can be best understood if one considers that Buddhist philosophy and
+psychology are mainly devoted to the eradication of latent tendencies and habits associated
+with the onset and maintenance of the emotions usually described as destructive (e.g., anger)
+and to the increase of ‘‘positive’’ emotions such as happiness and compassion (Chambers,
+Gullone, & Allen, 2009; Goleman, 1988). Among the modern versions of mindfulness practice,
+MBSR has played the key role in introducing mindfulness into the field of psychology and
+medicine (Kabat-Zinn, 1990). Further interventions that have subsequently been developed
+build on the theory and the definitions of mindfulness supported by early works on MBSR
+(Hayes et al., 1999; Linehan, 1993; Segal et al., 2002).
+Although early studies of MM and MBI were mainly concerned with evaluating their
+clinical efficacy (Baer, 2003; Bishop, 2002), recent studies started focusing on the psychological
+and physiological correlates of such interventions (Baer, Smith, Hopkins, Krietemeyer, &
+Toney, 2006; Brown & Ryan, 2003; Ivanovski & Malhi, 2007) and on the possible underlying
+mechanisms, which found sometimes contrasting results. However, inconsistent findings
+emerging from those studies could result from differences as to how authors conceptualized
+mindfulness.
+Furthermore, many studies into mindfulness, in general, and MM/MBI, in particular, have
+been criticized for their lack of scientific rigor. A major criticism concerns the lack of highquality, randomized control studies comparing MM and MBI to adequate comparators,
+which include the expectation of a benefit but exclude the claimed ‘‘active ingredient’’ of the
+majority of mindfulness-based approaches, i.e., sitting meditation and related practices
+(Chiesa & Serretti, 2010). Authors who are well-versed in Buddhist meditation studies have
+raised concerns that modern MBI does not completely fit with classical theories of mindfulness
+(Rapgay & Bystrisky, 2009). In addition, critical issues, for instance, as to whether ancient
+Buddhist meditations such as Vipassana and Zen meditations should be considered within the
+broad category of modern MBI and the absence of consensus about an operational definition
+of ‘‘mindfulness,’’ are the key points of an ongoing debate about such practices (Ivanovski &
+Malhi, 2007; Rapgay & Bystrisky; Malinowski, 2008). Finally, it is noteworthy that the word
+‘‘mindfulness’’ is frequently used as a construct, a mental state, or as a number of practices
+designed to achieve this state, raising concerns as to what current studies are actually
+measuring when they claim they are measuring mindfulness and as to what exactly
+practitioners are doing when they are practicing modern MBI (Chambers et al., 2009;
+Rapgay & Bystrisky, 2009).
+The present article aims to survey and compare distinctive features of the main MM and
+MBI to explore major commonalities and differences of such interventions. To achieve this
+goal, six main interventions usually subsumed under the definition of ‘‘mindfulness-based’’
+approaches (Vipassana meditation, Zen meditation, MBSR, MBCT, DBT and ACT) will be
+compared with respect to philosophical background, main techniques, aims, outcomes,
+neurobiology and psychological mechanisms. Before doing this, the theoretical background of
+mindfulness will be briefly explored.
+Theoretical Background of Mindfulness
+The Concept of Mindfulness
+A complete description of mindfulness is beyond the scope of the present article and the
+present section is not meant to be a comprehensive summary but rather a brief exposure of the
+main definitions of mindfulness. The word mindfulness derives from the Pa%li word sati, which
+can be found in early Buddhist scriptures such as the Abhidhamma (Kiyota, 1978), a classic
+scholastic compilation of Buddhist psychology and philosophy and, later, in the
+Vishuddimagga (Buddhaghosa, 1976), a summary of the part of the Abhidhamma that deals
+with meditation. Sati and its Sanskrit equivalent, smr-ti, are closely related to sarati, which
+means ‘‘to remember’’ (Analayo, 2006). This original meaning of what is commonly translated
+as mindfulness often goes unnoticed. Such a link to memory may be surprising, as mindfulness
+is usually understood as awareness of the present moment, as opposed to dwelling in the past
+(or future). But as Analayo (2006) explains, if examined within the context of the Pa%li
+discourses, it becomes evident that what is meant is that once sati/mindfulness is present,
+memory will function well. Accordingly, sati has frequently been described as a state of
+‘‘presence of mind,’’ which allows the practitioner to see internal and external phenomena as
+they really are (i.e., impermanent, lacking a self and ultimately leading to suffering) and to
+distinguish between projections and misunderstandings of the practitioner (Nyaniponika,
+1973; Tsoknyi, 1998; Uchiyama, 2004). Because mindfulness concerns a clear awareness of
+one’s inner and outer worlds, including thoughts, sensations, emotions, actions, or
+surroundings as they exist at any given moment, it has often been termed as ‘‘bare’’ attention
+(Gunaratana, 1993; Nyaniponika; Rahula, 1974) or alternatively as ‘‘pure’’ or ‘‘lucid’’
+awareness (Das, 1997; Gunaratana; Sogyal, 1992), emphasizing that mindfulness is supposed
+to reveal what is occurring, before or beyond conceptual and emotional classifications about
+what is or has taken place.
+Although such descriptions provide an intuitive understanding of mindfulness as a state
+different from usual wakefulness, which is usually characterized by several biases, defenses, or
+ruminative thinking (Brown, Ryan, & Creswell, 2007), they do not easily lend themselves to an
+operationalization that could be used in current research. Modern psychologically oriented
+definitions of mindfulness tend not to suffer from this problem as they draw from
+psychological terminology and were specifically designed to be used within current
+psychological and medical research settings.
+One of the first ‘‘modern’’ definitions of mindfulness was provided by Jon Kabat-Zinn, who
+described mindfulness as ‘‘paying attention in a particular way, on purpose, in the present
+moment, and nonjudgmentally’’ (Kabat-Zinn, 1994, p. 4). Bishop et al. (2004), in an attempt
+to operationalize Kabat-Zinn’s definition of mindfulness, suggested that it should be
+considered as a particular focus of attention characterized by at least two distinct features:
+the first one involving self-regulation of attention towards the immediate present moment,
+while the second component would pertain to the adoption of an orientation marked by
+curiosity, openness, and acceptance. The former component describes mindfulness as a form
+of mental skill or state that emerges only when the individual is purposefully addressing his/
+her own attention to present experiences, the latter accounts for personality characteristics
+that underlie mindfulness tendencies, both of which are intricately linked (Bishop et al., 2004).
+Even though such a speculative definition was specifically formulated to be employed in
+current research, it is noteworthy that a psychometric scale (Lau et al., 2006) designed to assess
+mindfulness in terms of the definition by Bishop and colleagues (2004) did not yield evidence
+in support of one component of their definition (i.e., active self-regulation of attention).
+Furthermore, other authors have questioned the very validity of Bishop et al.’s (2004)
+definition as to how one can sustain attention on a target object while actively inviting and
+being open to other experiences at the same time (Brown & Ryan, 2004).
+On the other hand, according to Brown and Ryan (2003), mindfulness should be described
+as ‘‘a receptive attention to and awareness of the present moment,’’ and the scale they used to
+investigate trait mindfulness (Mindfulness Awareness and Attention Scale or MAAS)
+suggested a one-dimensional factor structure of mindfulness with present-centered attention/awareness as main feature. Shapiro, Carlson, Astin, and Freedman (2006) propose a
+three-component model to explain how mindfulness affects positive change. In addition to
+attention and attitude, which are similar to Bishop et al.’s (2004) two components, they point
+out that intention, i.e., the personal motivation or vision why somebody engages with
+mindfulness practice, needs to be considered.
+Employing a psychometric approach, Baer et al. (2006) combined five different mindfulness selfreport scales and the factor-analytical analysis of responses to them revealed a five-factor structure
+of mindfulness characterized by nonreactivity, observing, acting with awareness, describing, and
+nonjudging (Baer et al., 2008; Baer, Walsh, & Lykins, 2009; Malinowski, 2008) and found that
+many of these facets significantly predicted various psychological outcome measures.
+It is worth mentioning, however, that criticism has been raised towards current instruments
+used to measure mindfulness and some authors have questioned the very validity of
+segregating mindfulness into discrete components (Ivanovski & Malhi, 2007). First of all, it
+has been suggested that current instruments mainly describe mindful behaviors and a general
+tendency towards being mindful in daily life, whereas the original definitions of mindfulness
+emphasize qualities of awareness (Chambers et al., 2009; Rapgay & Bystrisky, 2009). Further,
+it has been pointed out that modern MBIs have failed to distinguish between attention and
+awareness as two distinct components of meditation, raising doubts about what exactly
+practitioners are doing when they are practicing modern MBI (Rapgay & Bystrisky). In
+addition, the frequent lack of control groups in mindfulness scales’ validation studies, along
+with recent findings that suggest that meditation practices that are conceptually very different
+from MM such as Transcendental Meditation are related to increases in mindfulness levels as
+well (Tanner et al., 2009), raise doubts about the specificity of modern constructs of
+mindfulness.
+In sum, so far no consensus as to how mindfulness should be defined has been reached.
+Although there is general agreement regarding the involvement of sustained attention to the
+present moment, a broad range of differences exists between the proposed definitions and an
+unequivocal operational definition of the construct of mindfulness is still lacking (Malinowski,
+2008). On account of these discrepancies, it would not be surprising to observe significant
+differences in the way mindfulness is understood and practiced in different MMs and MBIs.
+The Place of Mindfulness Meditations Among Meditation Practices
+Although a few authors criticize that mindfulness would often be too closely linked to
+meditation practice (e.g., Hayes & Feldman, 2004), we would like to emphasize that the
+historical and conceptual origins of mindfulness are deeply rooted in Buddhist philosophy and
+practice and are linked to the practice of specific meditation techniques (Rapgay & Bystrisky,
+2009). Meditation has been employed as spiritual and healing practice for more than 5,000
+years. The word ‘‘meditation’’ derives from Latin ‘‘meditari,’’ which means ‘‘to engage in
+contemplation or reflection’’ and can be defined as both a process and a state. Unfortunately,
+such multiple meanings frequently raise concerns as to how the same word is used to describe
+several processes. Additionally, as reported earlier, such concerns are consistently associated
+with the word mindfulness as well, as multiple meanings subsumed under the word
+‘‘mindfulness’’ make it difficult to understand when one is referring to mindfulness as a
+process, i.e., to the process of developing mindfulness skills, or as a state, i.e., when one is
+mindfully attending his or her own experiences.
+According to the Yoga Sutras, meditation is the act of inward contemplation and the
+intermediate state between mere attention to an object and complete absorption within it
+(Taylor, 1999). It is worth noting that the Pa%li and Sanskrit term bha%vana% that is commonly
+translated as meditation actually has a slightly different connotation. More literally, it
+translates as ‘‘cultivating’’ rather than contemplating and reflecting. Also, the translation of
+the Tibetan equivalent sgom (pronounced ‘‘gom’’) does not imply contemplation and
+reflection but may translate as ‘‘getting used to’’ or ‘‘familiarizing oneself.’’ Frequently,
+mindfulness and other meditation practices are subsumed under the term ‘‘contemplative
+practices,’’ but this term is especially misleading concerning mindfulness, as contemplation
+suggests an active engagement with a specific content of thought or experience, while
+mindfulness, as we shall see in more detail below, emphasizes the nonengagement with specific
+content. When considering the breadth of terminology, the complexity, diversity, and,
+sometimes, confusion of constructs become obvious, highlighting that it may be impossible to
+adequately capture the full spectrum of meanings with one simple definition.
+Not surprisingly, there are several ways how meditation practices have been classified
+(Ospina et al., 2007). One of the most commonly cited classifications suggests a distinction of
+two main meditative styles, mindful types and concentrative types of meditation, depending on
+how the attentional processes are directed (Goleman, 1988). Furthermore, it is assumed that
+most meditative techniques lie somewhere on a continuum between the poles of these two
+general methods (Andresen, 2000; Shapiro & Walsh, 1984; Wallace, 1999). MMs are
+characterized by open, nonjudgmental awareness of the sensory and cognitive fields and
+include a meta-awareness or observation of the ongoing contents of thought, whereas
+concentrative types of meditation involve focused attention on a given object such as an image
+or a mantra, while excluding potential sources of distractions (Cahn & Polich, 2006; Ospina
+et al.). With little differences across studies, this is the most common categorization of
+meditation practices employed by scientific research thus far. However some authors have
+recently raised some criticisms regarding the very validity of this classification, pointing out
+that it could derive from a misunderstanding of the original concept of meditation (Chambers
+et al., 2009; Rapgay & Bystrisky, 2009).
+Recently, new descriptions of the spectrum of meditation practices were suggested. More
+specifically, concentrative meditations and MMs are no longer described as opposed processes.
+Instead, it is recognized that they share a common background of focused attention, which can
+take different directions depending on the specific meditation form (Lutz, Slagter, Dunne, &
+Davidson, 2008; Rapgay & Bystrisky, 2009). Thus, it is suggested that these two types of
+meditations are more accurately conceptualized as occupying orthogonal axes rather than
+opposed directions on a continuum and that MM includes explicitly or implicitly some degree
+of concentration (Chambers et al., 2009). Of note, however, this is not the only theoretical
+framework of meditation practices suggested so far, and further classification schemes have
+been put forward. One of the main ones involves a distinction between practices that attempt
+to either control or regulate attention/awareness in some way (e.g., concentrative meditations)
+and practices that do not involve any effortful control or manipulation of experiences
+including attention (e.g., Zen meditation’s Shikantaza). It is worth mentioning, however, that
+even though the second group of practices are sometimes independently practiced, it is
+generally assumed that as the practice deepens, the need for effortful processes are greatly
+reduced, resulting in a form of ‘‘effortless’’ meditation (Lutz et al.).
+Furthermore, major emphasis has recently been given to the analytical features of advanced
+Buddhist MMs, which are aimed at investigating the true nature of the self (Gunaratana, 1993;
+Nydahl, 2008), as well as to the self-referential and ultimately self-transcending process of
+awareness aware of itself, particularly expressed within the Tibetan traditions of tantric (or
+Vajrayana) Buddhism (Nydahl). This transcendence aims at the fleeting nature of the self,
+which, in this process, is an ever-changing flow of psychophysical phenomena and void of any
+lasting self—the liberating insight of the emptiness of the self. This, in turn, is supposed to
+reduce suffering related to the concept of an individual ego and ultimately lead to
+psychological well-being and happiness. These features are well-known in the original
+Buddhist traditions, from which recently developed MBIs are drawn; however, as described
+below, they have been scarcely considered in modern MBI.
+The Comparison of Different ‘‘Mindfulness-Based Approaches’’
+Philosophical Background
+As mentioned above, both Vipassana and Zen meditations (as well as the great variety of
+Tibetan Buddhist meditation practices that include, among others, MM) are deeply rooted in
+Buddhist philosophy and are largely based on the development of Sati (mindfulness), early
+descriptions of which can be found in the Abhidhamma. Although both the original Indian
+and, later, Tibetan Buddhist traditions show large agreement about the concept of
+mindfulness, there are subtle differences between the two in the context in which mindfulness
+is understood and practiced. In Tibetan Buddhism, mainly based on the Abhidhamma and its
+commentaries, mindfulness is classified and defined as one of the ascertaining mental factors
+that are responsible for all mental activities (Rabten, 1992). With respect to practice,
+mindfulness is both used as an antidote to deal with forgetfulness encountered during the
+practice of single-pointed concentration practice (Londro, 1992), and as a practice of
+introspective awareness as a part of a larger body of practices known as the 37 altruistic
+practices (Berzin, 2002).
+In Theravada Buddhism, mainly based on the Satipatthana Sutta (Presence of Mindfulness/
+Frames of Reference), Anapanasati Sutta (Mindfulness of Breathing), Mahasatipatthana
+Sutta (The Great Presence of Mindfulness/The Great Frames of Reference), and KayagataSati Sutta (Mindfulness Immersed in the Body; Rapgay & Bystrisky, 2009), mindfulness is
+usually considered as a continuum of phases (Bodhi & Wallace, 2006). Broadly speaking, the
+initial phase is mainly concerned with the development of sustained bare attention resulting
+from the practice of nonforgetful attention. A more advanced phase involves introspective
+awareness as a means to understanding the moment-to-moment workings of adaptive and
+maladaptive thoughts and feelings. A large number of Buddhist texts dealing with meditation
+clearly support these statements and go further by suggesting that for the correct development
+of Sati, both concentration and bare attention should be concurrently developed and that a
+minimal degree of concentration is indispensable in every state of consciousness (Gethin,
+2001). When they are correctly developed, wisdom, i.e., the direct perception of the true nature
+of the self and of reality deriving from the correct practice of introspective awareness, can arise
+(Gilpin, 2009). In addition, when Sati is developed to its optimum measure, it is supposed to
+lead to tranquility, a calm and contented state that is particularly useful in counteracting
+negative emotions such as worry and restlessness (Gilpin).
+Pertaining to modern MBI, MBSR is the only practice that is overtly rooted in Buddhist
+tradition. MBSR was conceived in 1979 in the effort of integrating ancient Buddhist philosophy and
+practice with current psychological and medical practice. MBSR is rooted in Buddhist Mahayana
+and Theravada traditions. Kabat-Zinn, the developer of MBSR, acknowledges influences derived
+from the Kwan Um school of Zen Buddhism as well as other Zen masters, such as Philip Kapleau,
+Suzuki Roshi, Thich Nhat Hanh (belonging to Mahayana tradition; Kabat-Zinn, 1990), and
+Robert Hover, a student of S.N. Goenka, Joseph Goldstein and Jack Kornfield, teachers of the
+Insight Meditation Society (belonging to Theravada tradition; Kabat-Zinn, Massion, Herbert, &
+Rosenbaum, 1998). Furthermore, Kabat-Zinn states that MBSR can be defined as ‘‘mostly
+Vipassana practicey with a Zen attitude’ (Kabat-Zinn e-mail cited in Gilpin, 2009, p. 238). It is
+worth mentioning, however, that in spite of its important Buddhist derivations, MBSR remains a
+secular intervention. Indeed, as Kabat-Zinn himself has explained, there is no need to change one’s
+own religion to participate in MBSR programs. Furthermore, scripts from Buddhist authors which
+are occasionally read by MBSR instructors during MBSR lessons are just considered as inspiring
+lectures for participants rather than dogmatic tenets or beliefs (Kabat-Zinn, 2003).
+MBCT was developed in the 1990s by Segal et al. (2002) as a method for the prevention of
+relapses of major depression. Like MBSR, MBCT was developed as a secular, clinical
+intervention and does not require adopting any specific spiritual orientation or belief system,
+even though its philosophical background is influenced by Kabat-Zinn and other MBSR
+instructors at the University of Massachusetts (Teasdale et al., 2002). A further source for
+MBCT is cognitive-behavioral therapy, a psychotherapy based on the assumption that the way
+we perceive events largely determines how we feel about them and, in turn, how we behave
+(Beck, Rush, Shaw, & Emery, 1979), sharing with Buddhism the emphasis on selfresponsibility in form of self-management, self-control, and self-improvement (Gilpin, 2009).
+DBT was originally developed as an intervention for patients who met criteria for
+borderline personality disorders (BPD). Major influences of DBT derive from behavioral
+science, dialectical philosophy, and Zen practice. DBT is described as encompassing
+acceptance and change and is aimed to help patients to build a life worth living (Linehan,
+1993). DBT interventions rely on the biosocial theory elucidated by Linehan, which suggests
+that a client’s emotional and behavioral deregulation is derived from the transaction between
+an invalidating rearing environment and a biological tendency toward emotional vulnerability.
+The main dialectic for patients with BPD is the relationship between acceptance and change.
+According to the DBT model, such dialectic as well as similar ones can be resolved by finding a
+synthesis between a thesis and an antitheses. In accordance with the middle path approach of
+dialectics, which is also an inherent feature of Zen and mindfulness, skills are hypothesized to
+work by encouraging nonreinforced engagement with emotionally evocative stimuli, while
+blocking dysfunctional escape, avoidance behaviors, or other ineffective responses to intense
+emotions (Lynch, Chapman, Rosenthal, Kuo, & Linehan, 2006).
+Finally, ACT relies on the Relational Frame Theory (Hayes, 2004a), which is derived from
+a philosophical view called functional contextualism (Gifford & Hayes, 1993). Although ACT
+does not describe its treatment methods in terms of mindfulness or meditation, it is often
+included among MBIs because several of its strategies are usually referred to as ‘‘consistent
+with the mindfulness approaches’’ (Baer, 2003, p. 128). According to RFT, the core of human
+language and cognition is ‘‘the learned and contextually controlled ability to arbitrarily relate
+events mutually and in combination, and to change the functions of specific events based on
+their relations to others’’ (Hayes, Luoma, Bond, Masuda, & Lillis, 2006, p. 5). Furthermore, it
+is assumed that ‘‘cognitions (and verbally labeled or evaluated emotions, memories, or bodily
+sensations) achieve their potency not only by their form or frequency, but by the context in
+which they occur’’ (Hayes, 2004b, p. 45). An important implication of RFT is that verbally
+mediated relationships among objects can alter and limit behavioral processes.
+As outlined, MMs and MBIs have very different historical and philosophical backgrounds.
+Although Vipassana and Zen Meditations are deeply rooted in and influenced by ancient
+Buddhist philosophy, such influence is only marginally acknowledged in modern MBI, such as
+MBSR, MBCT (more Vipassana oriented), and DBT (more Zen oriented), and no direct
+influence is acknowledged for ACT. In addition, although MBSR does not specifically include
+elements other than those rooted in Buddhist philosophy, other interventions are deeply
+influenced by further psychological frameworks including cognitive-behavioral therapy (CBT;
+MBCT), behavioral science (DBT) and contextualism (ACT), thereby suggesting that several
+modifications have been introduced across different mindfulness-based approaches.
+Main Techniques
+Reflecting the outlined philosophical differences, there are significant differences across
+different MMs and MBIs regarding the specific characteristics of a ‘‘correct’’ practice. Such
+differences exist not only across different MMs and MBIs but also within a single tradition.
+On account of the impossibility to provide a complete description of every single practice, only
+the main features will be addressed in the present subsection.
+The Theravada tradition provides a precise description of the mindfulness practice of
+attending as involving attention to both the inhalation and the exhalation while
+simultaneously being aware of the experience of the body as the breath flows in and out
+through it (Rapgay & Bystrisky, 2009). Note, however, that this practice does not include only
+Vipassana, but it is usually preceded by or developed concurrently to Samatha practice (more
+similar to concentrative meditations), in which sustained attention is completely directed to a
+target object and other objects of experiences are excluded (Rapgay & Bystrisky).
+The training primarily involves sustained bare attention on the breath while peripherally
+being aware of the body as one breathes in and out. When sensations, thoughts, and feelings
+arise, introspective awareness may be applied to label them before returning attention to the
+breath (Gunaratana, 1993). The appropriate level of bare attention is determined by indicators
+such as the ability to sustain bare attention for a period of time and experience the target
+object in its bare form without elaborating any of its associative meanings that are usually
+triggered (Rapgay & Bystrisky, 2009).
+Note, however, that current clinical trials investigating the effects of Vipassana meditation
+(Chiesa, 2010) are usually of brief duration, as suggested by the tradition led by S.N. Goenka
+(Hart, 1987). In addition, contrary to a number of Eastern traditions, which give higher
+emphasis on Samatha practice, they are decidedly Vipassana-orientated and often ‘‘bypass’’
+Samatha (i.e., concentrative) practices (Gilpin, 2009). This is not the case for Zen meditation in
+which, although with some differences between traditions, the first meditation often practiced
+by novice meditators is Su-soku, a meditation more similar to concentrative meditations, in
+which the practitioners count their breaths so as to focus their attention. With ongoing
+practice, counting is omitted and the meditators remain simply aware of the present
+experience: this practice, which is devoted to the development of bare attention, is called
+Shikantaza and is considered the most advanced form of Zen meditation (Kapleau, 1965; Kit,
+2001). A further Zen practice, particularly used by masters of the Rinzai sect, involves
+focusing on a koan, a specific riddle that is unsolvable by logic, which is said to lead the
+practitioner to an insight into the true nature of reality (Kapleau, 1965). In any case, the main
+aim of such practices is to remain constantly aware of what is occurring in the present moment
+to keep the mind in the specific state in which the experiential insight (satori) can arise
+(Kapleau, 1965).
+Pertaining to MBSR and MBCT, they are brief meditation programs mainly based on three
+different techniques: body scan, sitting meditation, and Hatha Yoga practice. Body scan
+involves a gradual sweeping of attention through the entire body from feet to head, focusing
+noncritically on any sensation or feeling in body regions and using periodic suggestions of
+breath awareness and relaxation. During sitting meditation, the practitioner develops both
+mindful attention on the breath or on the rising and falling abdomen as well as on other
+perceptions, and a state of nonjudgmental awareness of cognitions and the stream of thoughts
+and distractions that continuously flow through the mind. The Hatha Yoga practice
+encompasses breathing exercises, simple stretches, and posture designed to strengthen and
+relax the musculoskeletal system (Kabat-Zinn, 1990; Segal et al., 2002). These programs
+usually include eight sessions of about 2 hours each and homework for at least 45 minutes a
+day, 6 days a week (Kabat-Zinn, 1990, 2003), although they may be delivered in shorter or
+longer courses as well.
+Despite such similarities, a number of differences between MBCT and MBSR should be
+clearly acknowledged. First, MBCT includes specific techniques and exercises derived from
+CBT (e.g., instruction on how to deal with the threat of depressive relapses). Then, it provides
+material about major depression for which treatment MBCT was specifically conceived (e.g.,
+its characteristics and warning signs). Also, it introduces a fourth formal practice, called the
+‘‘three-minute breathing space,’’ which is considered to be a way of integrating formal practice
+into daily life (Segal et al., 2002, p. 173), initially, at regular, preset times during each day, but
+subsequently applied to any times when unpleasant feelings are noticed.
+Further differences exist between MBSR and MBCT, on the one hand, and Vipassana and
+Zen meditations, on the other. Although the latter meditation practices provide a clear
+distinction between attention (i.e., the main focus of attention such as the experience of air
+flow at the nostrils) and awareness (i.e., the concurrent receptive experience of other sensations
+arising, for instance, from the rest of the body), no such distinction is clearly defined by MBSR
+and MBCT (Rapgay & Bystrisky, 2009). Furthermore, it is noteworthy that only one MBSR
+practice, namely, ‘‘choiceless awareness,’’ in which the practitioner simply sits aware of
+awareness itself with no specific objects of attention, shows a marked similarity with some of
+the more advanced Theravada and Zen meditation practices. However, such practice is not
+mandatory in MBSR courses (Kabat-Zinn, 1990) and it is not included in other recent MBI.
+It should also be noted that in all such practices the term ‘‘mindfulness’’ could be misleading
+for at least two reasons. The first one involves the notion that, as previously reported, both
+MMs and MBSR/MBCT are usually characterized by the development of at least some degree
+of concentration and that several practices such as focused attention on the breath and the
+body scan can be seen as concentrative practices. The second reason is that although there is a
+very clear focus in MBSR and MBCT on controlling attention, the ‘‘attitude’’ one is instructed
+to bring to this attentional control is one of nonjudgment, nonstriving, and noneffort.
+Accordingly, there is both a theoretical and a practical question as to how these two
+apparently divergent approaches or emphases can be reconciled. This issue can be resolved if
+one considers that as the practice deepens, the need for effortful processes of controlling
+attention are greatly reduced, resulting in a form of more ‘‘effortless’’ meditation, which is
+characterized by an enhanced ability of nonjudging and nonstriving (Lutz et al., 2008). At this
+point, one may talk about mental stability rather than concentration, as there is no particular
+object on which attention should be focused.
+Contrary to the above-mentioned interventions, DBT and ACT do not involve formal
+meditation training. In DBT, clients are encouraged to accept themselves, their histories, and
+their current situations exactly as they are, while working intensively to change their behaviors
+and environments to build a better life (Baer, 2003). DBT includes a wide range of cognitive
+and behavioral treatment procedures, most of which are designed to change thoughts,
+emotions, or behaviors. Mindfulness skills (including mindfulness ‘‘what’’ skills such as
+observing, describing and participating, and mindfulness ‘‘how’’ skills such as being
+nonjudgmental, being one-mindful and effective) are taught in DBT so as to allow the
+practitioner to reach a synthesis between acceptance and change (Linehan, 1993). They
+include, among others, behavioral skill training, exposure-based strategies, psycho-education,
+homework, cognitive modifications, and so forth. DBT clients learn mindfulness skills in a
+year-long weekly skills group, which also covers interpersonal effectiveness, emotion
+regulation, and distress tolerance skills (Linehan, 1993).
+In ACT, on the other hand, clients are encouraged to recognize an observing self that is
+capable of watching its own bodily sensations, thoughts, and emotions by seeing these
+phenomena as separate from the person having them. For example, people are taught to say,
+‘‘I’m having the thought that I’m a bad person,’’ rather than ‘‘I’m a bad person’’ (Kohlenberg,
+Hayes, & Tsai, 1993, p. 588). They also are encouraged to experience thoughts and emotions,
+including unwanted ones such as anxiety, pain, and guilt, as they arise, without judging,
+evaluating, or attempting to change or avoid them. Various mindfulness exercises are designed
+to reach this goal: (a) being present, i.e., being in nonjudgmental contact with environmental
+events as they occur; (b) adopting ‘‘a sense of self as a locus of perspective that provides a
+transcendent, spiritual side to normal verbal humans’’; (c) choosing life directions in various
+domains; and (d) other strategies derived from CBT such as exposure, skills acquisition and
+goal setting (Hayes et al., 2006, p. 9). Apart from the lack of formal meditation training, it
+should be noted that DBT and ACT appear to be more oriented toward the modification of
+cognitions and behaviors (although in a way that is different from classical CBT; Hoffman &
+Asmundson, 2008) rather than on direct perception of pure experiences, such as MBSR and,
+especially, Vipassana and Zen meditations. In other words, they are more concerned with the
+content of experience than with the process of experience.
+As we have seen, ‘‘mindfulness-based’’ approaches encompass a wide range of practices.
+The common background to all such approaches includes the explicit focus on present
+centered awareness. However, it should be pointed out that although four approaches are
+meditation based, two of them teach mindfulness skills without an explicit focus on formal
+meditation practice Also, while Vipassana and Zen meditations are mainly oriented to
+awareness of direct perceptions (e.g., sensations, sounds), DBT and ACT appear to be more
+concerned with the modification of cognitions, which, in turn, could change the way the
+patient perceives internal and external stimuli, whereas MBSR and, particularly, MBCT lie
+somewhere between these two extremes (Rapgay & Bystrisky, 2009). On the basis of such
+issues, it should be pointed out that significant differences exist in the way in which
+mindfulness is practiced across different MMs and MBIs.
+Aims
+The very aim of classical MM, such as Vipassana and Zen meditations, is to reach an insight
+about the true nature of the self and of the world so as to achieve freedom from suffering,
+which results from the incorrect understanding of reality (Gunaratana, 1993; Kapleau, 1965;
+Nyaniponika, 1973). To achieve this goal, the practitioner goes through different phases that
+include the development of the ability to keep their attention on a target object, observe their
+thoughts and emotions without being identified with them, and observe adaptive and
+maladaptive thoughts when they arise and when they disappear as well as their triggers and
+consequences. This awareness, in turn, allows an increase in adaptive thoughts and emotions
+and a decrease in maladaptive ones (Rapgay & Bystrisky, 2009). Furthermore, such
+interventions include a moral development that comprises, first, the ‘‘guarding’’ of oneself
+to be of service to others and, second, the ‘‘guarding’’ of others by the practices of patience,
+harmlessness, loving kindness, and sympathy (Gilpin, 2009).
+Secondary aims, which are intrinsically related to the main one, include avoiding latent
+tendencies and habits whose eradication is the central purpose of the path, thereby leading to the
+arising of joy and happiness (Analayo, 2003). It is noteworthy, however, that a large number of
+western Vipassana and Zen practitioners practice such meditations for different aims, mainly
+including health benefits. Furthermore, some Zen masters believe that it is acceptable for
+prospective students to be motivated by desires for good health because, over time, there is the
+possibility that their attachment to these less important purposes will be recognized (Kapleau,
+1965). On the other hand, more recent MBIs are decidedly clinically oriented and their main aim
+is to provide relief from unwanted physical and psychological symptoms such as chronic pain or
+depressive symptoms. As some authors noted (Gilpin, 2009), interventions such as MBSR and
+MBCT are, in fact, not concerned with knowing the true nature of depression or of chronic pain.
+They are specifically concerned with achieving relief from such negative symptoms by targeting
+the extra baggage that is piled onto the symptoms in the form of, for example, negative
+thoughts/emotions by means of the development of an enhanced ability to cope with and/or
+relate differently to them. Examples include when patients recognize that they are not their
+symptoms or their thoughts. Also, rather than emphasizing detachment (which is used, for
+instance, by Buddhist masters to counteract sexual desire), instructors of modern MM tend to
+view practice in terms of acceptance and appreciation of one’s ‘‘aliveness’’ (Gilpin, 2009).
+Similarly, the main aim of DBT and ACT is to help patients to manage their symptoms. At a
+very basic level, the primary aim of DBT is to help patients to reduce imminently dangerous or
+deadly behaviors, such as suicidal behaviors. When the primary objective is achieved, further
+focuses include shifting from quiet desperation to emotional experiencing, treating uncomplicated psychiatric disorders, career problems, and marital problems, and helping clients to
+develop an optimal functioning characterized by freedom and joy (for instance, by reducing
+feelings of emptiness and increasing experiences associated with feeling complete; Linehan,
+1993). It should be recognized however, that the majority of available trials about DBT for BPD
+patients investigate only the first stage of treatment (Lynch et al., 2007).
+Finally, the primary aim of ACT is to foster acceptance of unwanted thoughts and feelings,
+and to stimulate action tendencies that contribute to an improvement in circumstances of
+living (Hayes, 2005). According to Hayes and Feldman (2004), the main goal of ACT is to
+discourage experiential avoidance, i.e., the unwillingness to experience negatively evaluated
+feelings, physical sensations, and thoughts and substitute experiential avoidance with
+acceptance of things as they are.
+As can be seen, all interventions reviewed above seem to target the reduction of negative
+emotional experiences associated with various types of sufferings. However, there are
+consistent differences in the importance such reductions occupy across different interventions.
+According to classical Buddhist MM, health benefits are secondary benefits that arise from a
+correct practice of meditation, whereas such benefits are the main, if not the only, aim of
+modern MBI. Furthermore, although relief from negative emotions, targeted by ancient MM,
+is directed towards a type of suffering that is supposed to be common to the whole mankind,
+modern MBIs are usually directed to the reduction of symptoms of a specific underlying
+disorder (such as major depression). It should be noted, however, that many of the of classical
+MM courses offered nowadays are explicitly directed to health benefits as well, even though
+further aims can arise at following stages of practice.
+Clinical Research
+The numbers of publications addressing the usefulness of MM and MBI for a variety of
+medical and psychological conditions has increased sharply in the last decade. Reviewing the
+growing number of studies addressing this topic is beyond the scope of the present article.
+Accordingly, only a relative handful of comprehensive reviews will be considered in the
+present section and we refer to such reviews for further details. The large majority of studies
+have focused on recently developed MBIs. This is probably because of the fact that such
+interventions are standardized and manualized, thereby facilitating empirical research and
+comparability across the studies. On the other hand, only a small number of controlled clinical
+trials focused on Vipassana and Zen meditations. More in detail, there is some evidence to
+suggest that Vipassana meditation could be useful for the reduction of alcohol and substance
+abuse among prisoners and for enhancing more mature coping strategies among healthy
+subjects (Chiesa, 2010) and that Zen meditation could be useful for reducing pain perception,
+blood pressure, and stress levels, as well as for therapists in training and musicians (Chiesa, 2009).
+On the other hand, there is consistent evidence suggesting the potential benefits of MBSR
+for a number of physical and mental disorders, including cancer (Ledesma & Kumano, 2008),
+chronic pain, rheumatoid arthritis, fibromyalgia, psoriasis, multiple sclerosis, and HIV (Chiesa
+& Serretti, 2010). Further uncontrolled studies also suggest possible benefits, derived from
+MBSR practice, for patients suffering from generalized anxiety disorders and panic disorder
+(Grossman, Niemann, Schmidt, & Walach, 2004; Kabat-Zinn et al., 1992; Miller, Fletcher, &
+Kabat-Zinn, 1995), even though it is too soon to reach definitive conclusions. In addition,
+MBCT showed efficacy towards the prevention of major depression relapses and for patients
+with residual depressive symptoms, as well as for fully symptomatic depressed patients
+(Barnhofer et al., 2009; Bondolfi et al., 2010; Coelho, Canter, & Ernst, 2007; Kenny &
+Williams, 2007; Kuyken et al., 2008). Other conditions for which MBCT was employed
+include, among others, social phobia, generalized anxiety disorder, and panic disorder, and
+reduction of inter-episodic anxiety levels in bipolar patients (Chiesa & Serretti, 2010).
+It is noteworthy, however, that current empirical studies of MM and meditation-based MBI
+have been criticized for several methodological shortcomings, such as absence of control
+groups, absence of randomization or randomization details, small sample size, and the
+frequent use of a waiting list as a comparator, which does not allow for distinguishing between
+specific and nonspecific (e.g., deriving from the simple expectation of a benefit) effects of MM
+interventions (Chiesa & Serretti, 2010). Further limitations of current studies include the
+frequent absence of follow-up measures, the fact that they frequently rely on self report
+instruments (Chiesa & Serretti, 2010), and the frequent differences across interventions with
+respect to total duration, homework, practices, nonmanualized interventions (e.g., Toneatto &
+Nguyen, 2007; Winbush, Gross, & Kreitzer, 2007).
+There is, however, consistent evidence based on a relatively large number of randomized
+controlled trials comparing DBT to interventions carefully designed to control for a variety of
+nonspecific treatment effects, (e.g., treatment availability and hours of individual psychotherapy) and therapist factors (e.g., formal education and clinical experience) to suggest the
+efficacy of such intervention for BPD patients (Lynch et al., 2007) and other disorders such as
+alcohol abuse or other impulsive behaviors.
+Finally a relatively high number of studies indicates the potential usefulness of ACT for
+several disorders, including anxiety disorders, chronic pain, drug abuse, trichotillomania and
+chronic skin picking, epilepsy, self-management of diabetes, and psychotic symptoms (Pull,
+2009). It is noteworthy, however, that a great number of studies lacks replications and suffers
+from the same methodological limitations of meditation studies, including absence of control
+groups, inadequate control groups, and absence of randomization, suggesting the necessity for
+better designed trials on this topic.
+In conclusion, there is consistent evidence for the possible benefits of MM and MBI.
+However, on account of the quality of the majority of such studies, it is often difficult to
+distinguish between specific and nonspecific effects of such practices, and it is unclear to what
+extent mindfulness can be considered the main active ingredient. Furthermore, on account of
+the paucity of data and the lack of direct comparison studies, it is difficult, if not impossible, to
+understand to what extent results, derived from the application of a specific intervention to a
+given disorder (e.g., MBCT for major depression), can be generalized to other interventions or
+other disorders (e.g., Vipassana for major depression or MBCT for alcohol abuse).
+Neurobiological Findings
+Evidence from the first neuroimaging studies in this area suggests that the changes in brain
+activity and brain dynamics and even brain structure related to the practice of MM and
+meditation-based MBI may be concordant with observed psychological changes. A striking
+difference in the clinical studies reviewed so far is that the majority of available data from
+neuroimaging studies relate to traditional Buddhist meditation practices, whereas only a small
+number of studies focused on recently developed MBI (Chiesa, Brambilla, & Serretti, 2010).
+This bias may result from the fact that many of these studies aim at investigating cognitive (or
+affective) abilities at the extreme end, for which only experienced meditators of established
+traditions are currently viable participants.
+A critical look at this research reveals several methodological weaknesses. The typical study
+compares meditators, with varying degrees of expertise, with a meditation-naı¨ve control
+group. As these studies are cross-sectional, they do not allow drawing conclusions as to
+whether observed differences actually result from meditation practice. Interpreting these
+differences is furthermore limited by the fact that meditation and control groups are often
+insufficiently matched and, for instance, differ with regards to such fundamental properties as
+age, but also sociocultural background or lifestyle. In addition, the types of meditation
+practice that were studied vary largely, making it difficult, if not impossible, to relate the
+results of different studies to each other. Despite such methodological shortcomings, these
+pioneering studies prepared the ground for further studies, currently under way, that employ
+more rigorous methodologies.
+In the following sections, we shall briefly summarize those studies that can be clearly linked
+to the different mindfulness approaches discussed in this article. As to our knowledge, no
+neuroimaging studies of DBT and ACT have been conducted, and the review will be limited to
+the remaining approaches.
+There is some evidence that MM may induce specific, functional, i.e., ‘‘state dependent,’’
+changes in brain activity. During Vipassana meditation, increased activation of the rostral
+anterior cingulate cortex and the dorsal medial prefrontal cortex in both hemispheres was
+observed (Ho¨lzel et al., 2007), suggesting an increased involvement of attentional control
+processes during meditation. In line with this interpretation was a study that compared
+mindfulness meditators with nonmeditators, showing superior executive control mechanisms
+and reduced automated responding of the meditators, which positively correlated with selfreported levels of mindfulness (Moore & Malinowski, 2009). Similarly, an electrophysiological
+study compared brain responses to potentially distracting auditory stimuli during Vipassana
+meditation compared to a control condition of free-wandering nonemotional thoughts, and
+found a reduced P3a component of the event-related potential, indicative of reduced
+automated reactivity and evaluative processing (Cahn & Polich, 2009). Based on another
+investigation of Vipassana meditators, Slagter, Lutz, Greischar, Nieuwenhuis, and Davidson
+(2009) conclude that cognitive resources of meditators may be less bound when processing a
+stimulus, thus making the cognitive system more readily available for processing more
+information in a given time. They employed the attentional blink paradigm, in which
+participants had to detect two targets within a stream of rapidly changing stimuli, and the
+variability in the timing of the theta oscillation (4–8 Hz) was measured after successful
+detection of the second target. The observed reduced variation in timing between trials of the
+meditators suggests that meditation may lead to more consistent and less resource-demanding
+stimulus processing. In accordance with such findings, long-term Zen practitioners have been
+found to display a reduced duration of the neural response linked to conceptual processing in
+regions of the default network, a network of brain areas thought to be engaged during normal
+resting states (Gusnard, Akbudak, Shulman, & Raichle, 2001), suggesting that meditative
+training may foster the ability to voluntarily regulate the flow of spontaneous mentation
+(Pagnoni, Cekic, & Guo, 2008). Cahn and collaborators reported that during Vipassana
+meditation, compared with a control condition (mind-wandering), increased oscillation over
+parieto-occiptal brain areas in the gamma frequency range (35–45 Hz) was measured, a brain
+signature they interpreted as increased sensory awareness (Cahn, Delorme, & Polich, 2010).
+A further study compared participants who underwent an 8-week MBSR program and a
+control group on two tasks in which attention was either focused on a self-related narrative or
+directed to present moment experiences similar to mindfulness meditation. The MBSR
+participants showed a more pronounced reduction of activity in the medial prefrontal cortex
+during present-moment as compared with self-related attention (Farb et al., 2007), indicating
+that an important component in MBSR may be that the across-time self and the presentmoment self may be dissociated. Furthermore, MBSR participants showed higher activity in a
+network lateralized to the right hemisphere. This network comprised the right prefrontal
+cortex and several viscerosomatic areas. A subsequent study qualified the role of this network
+in mindfulness practice. During induction of sadness, the same network was recruited more
+strongly in MBSR participants than in controls, although self-reported sadness did not differ
+between groups (Farb et al., 2010). The authors speculated that MBSR might result in the
+ability to balance affective and sensory neural networks, leading to reduced vulnerability to
+dysphoric reactivity. Together, these two studies suggest changes to cerebral functional
+networks that are implicated in the switching between first and third person perspectives
+(Ruby & Decety, 2004) and associated to a more detached observation state of events
+characterized by lower emotional reactivity (Kalisch et al., 2005; Ochsner, Bunge, Gross, &
+Gabrieli, 2002).
+Most intriguing, long-term Vipassana and Zen meditations may also be associated with
+changes to brain structures. More specifically, there is some evidence suggesting that Zen
+meditation might offer protection from age-related cognitive decline through inhibition of the
+reduction in both grey matter volume and attentional performance associated with age
+(Pagnoni & Cekic, 2007). In addition, Vipassana meditation could be related to increased
+volume of brain areas related to interoception and attention, such as the PFC, putamen, and
+right anterior insula (Ho¨lzel et al., 2007; Lazar et al., 2005), as well as the right hippocampus
+(Ho¨lzel et al., 2008), cerebral areas related to attention, and visceral awareness, presumably
+reflecting the specific training during Vipassana meditation, namely, the awareness of bodily
+sensations. Of note, the extent of these changes seems to be correlated with amount of practice
+(Lazar et al., 2005). Greater cortical thickness in the anterior cingulated gyrus, the
+parahippocampal gyrus, and the anterior insula was furthermore related to reduced pain
+sensitivity in Zen meditators. The first longitudinal study investigating structural brain
+changes showed a reduction of grey matter density in the right basolateral amygdala, which
+was positively correlated to the stress levels reported by the participants, indicating that
+adaptive changes to brain structure may also occur in the form of, possibly dysfunctional, grey
+matter density (Ho¨lzel et al., 2010).
+Though less extensively investigated through rigorous controlled studies, further evidence
+suggests that MBSR and MBCT could affect prefrontal alpha asymmetry in healthy subjects
+and in patients who attempted suicide, respectively (Barnhofer et al., 2007; Davidson et al.,
+2003). These meditative practices were found to result in a topographical pattern of oscillating
+alpha activity, which is indicative of increased left-sided brain activity, previously associated
+with positive emotions and dispositional mood (Davidson, Ekman, Saron, Senulis, & Friesen,
+1990). One of these studies also demonstrated possible positive effects of MBSR on immune
+system reactivity (Davidson et al., 2003).
+Mechanisms of Mindfulness-Based Approaches
+Several studies attempted to investigate the psychological mechanisms underlying MM and
+MBI. Contrary to neuroimaging studies, however, there is an almost total absence of studies
+investigating the mechanisms that underlie Vipassana and Zen meditations. In contrast, a
+large number of studies investigated the psychological mechanisms related to modern MBI.
+On account of the majority of findings concerning modern MBI, they will be explored first.
+Several self-report questionnaires were developed in an attempt to measure mindfulness and
+its distinct features and facets. One of the most widely used questionnaires is the Five Facet
+Mindfulness Questionnaire (FFMQ; Baer et al., 2006). It mainly relates to the conceptualization expressed in DBT manual (Linehan, 1993) and was derived from pooling several
+previously published questionnaires designed to explore mindfulness in nonmeditators as well
+as meditators with different degrees of experience. The resulting five-factor structure was
+tested with a hierarchical confirmatory factor analysis, which suggested that at least four (all
+apart from ‘‘observe’’) of the identified factors were components of an overall mindfulness
+construct. Furthermore, the factor structure of mindfulness was found to vary with meditation
+experience. Also, variations in three mindfulness facets (acting with awareness, nonjudgment,
+and nonreactivity) significantly predicted improvements in psychological outcomes. A recent
+investigation performed by the same group (Baer et al., 2008) comparing long-term
+mindfulness meditators (practicing unspecified Buddhist meditations) to nonmeditators have
+further extended previous findings and confirmed that three of the five facets (observing,
+nonjudging, and nonreactivity) of FFMQ were especially helpful in understanding the changes
+that occur with the long-term practice of mindfulness meditation and in relating these facets to
+symptom reduction and improved psychological functioning.
+It should be noted, however, that such description of mindfulness, mainly based on DBT,
+was tested on subjects who practiced different types of meditations such as MBSR, even
+though, as shown above, there are several differences across such interventions. Furthermore,
+several criticisms have been raised towards such questionnaires (and similar ones), including
+the fact that it measures trait mindfulness, i.e., a general tendency of being mindful in daily
+life, but not ‘‘state’’ levels of mindfulness, such as, for instance, when attention to experience is
+intentionally cultivated with an open, nonjudgmental orientation to experience (Lau et al.,
+2006) and primarily taps mindful behaviors rather than mindfulness itself (Rapgay &
+Bystrisky, 2009).
+Other studies have explored the mediators of change in MBCT studies and tried to consider
+mechanisms underlying such changes within the context of current cognitive theories and
+models. Crane and colleagues investigated the effect of MBCT on self-discrepancy, one of the
+key psychological processes involved in the maintenance of depression according to cognitive
+model (Strauman, 1989). The concept of self-discrepancy relies on the theory that people
+suffering from major depression often believe themselves to be falling short of their own or
+other’s goals or expectations. In both the MBCT and the treatment as usual (TAU) groups
+(who started with equivalent levels of self-discrepancy), baseline level of depression was
+associated with larger discrepancies between ideal and actual self. By the end of treatment
+period, there were large and significant differences between MBCT and TAU groups, such
+that the MBCT group had a smaller discrepancy and an increased adoption of more adaptive
+self-guides than the TAU group (Crane et al., 2008). Other authors have found that
+mindfulness levels, as measured by the Cognitive and Affective Mindfulness Scale (CAMS;
+Feldman, Hayes, Kumar, & Greeson, 2004) increased significantly during the treatment and
+that they were accompanied by a concurrent decrease in avoidance and ruminations (Kumar,
+Feldman, & Hayes, 2008). Further, the greater the change in mindfulness, the greater the
+reduction in depressed mood and in the extent to which participants dealt with difficulties
+through rumination and avoidance. Of note, this is consistent with a number of studies that
+observed a decrease in ruminations after MBSR training (Jain et al., 2007; Ramel, Goldin,
+Carmona, & McQuaid, 2004; Shapiro, Brown, & Biegel, 2007).
+Pertaining to DBT, several mechanisms of change have been put forward. Some of them,
+such as cognitive restructuring, exposure, and response preventions, have been suggested as a
+mechanism in common with other behavioral therapies, whereas other ones, such as dialectical
+focus, validation strategies, mindfulness skills, distress tolerance skills, and commitment
+strategies, have been described as fairly specific for DBT (Lynch et al., 2006). There is,
+however, a lack of rigorous empirical research supporting these statements, and, thus, further
+research is needed to investigate the mediators of outcome in DBT trials. Similarly, a number
+of mediators of change have been suggested for ACT. However there is a paucity of clinical
+trials that have attempted to clarify psychological mechanisms underlying ACT (Blackledge &
+Hayes, 2001). Studies suggest that ACT could reduce experiential avoidance due to an increase
+in emotional acceptance and cognitive defusion, i.e., the ability of recognizing thoughts as
+thoughts and not necessarily as an accurate readout of reality. A number of empirical studies
+recently provided preliminary support for this theory (Forman, Herbert, Moitra, Yeomans, &
+Geller, 2009; Lundgren, Dahl, & Hayes, 2008).
+In an attempt to clarify the common mediator of changes in MM and MBI, Chambers and
+colleagues suggested that they ‘‘involve a systematic retraining of awareness and nonreactivity,
+leading to defusion from whatever is experienced, and allowing the individual to more
+consciously choose those thoughts, emotions, and sensations they will identify with, rather
+than habitually reacting to them’’ (Chambers et al., 2009, p. 599). However, it should be noted
+that significant differences might exist across different mindfulness-based approaches,
+especially between classical MM and modern MBI (Rapgay & Bystrisky, 2009).
+More in detail, some authors have suggested that modern MBIs have diverged from
+classical MMs. First of all, the emphasis on acceptance and cognitive defusion, typical for
+modern MBI, is not shared by classical MM. Psychological changes resulting from MM
+practice are derived from directly perceiving when adaptive and maladaptive experiences arise
+and when they do not. The improved ability to do so would allow practitioners to increase
+adaptive experiences and decrease maladaptive experiences in their daily life (Thanissaro,
+1997), as cited in Rapgay and Bystrisky (2009). On the other hand, as Rapgay and Bystrisky
+recently stressed, the implementation of many cognitive therapy-oriented exercises employed
+by modern interventions such as MBCT and ACT, including, as an example, recognizing that
+‘‘thoughts are just thoughts,’’ could represent a slightly different process in comparison with
+classical MM, which is characterized by primarily addressing cognitions rather than direct
+perceptual processes.
+Also, it has been pointed out that MBIs differ from classical MMs in that they reject the
+idea of mindfulness having goals that the practitioner strives toward, and, consequently,
+nonjudgmental awareness of the present moment is seen as the essence of the practice (Baer,
+2003; Roemer & Orsillo, 2003); while according to classical literature, change can occur only
+through the recognition of adaptive and maladaptive thoughts, feelings, and behaviors as they
+arise (Rapgay & Bystrisky, 2009). There is a distinct lack of empirical studies investigating
+such issues, presumably reflecting the focus of current studies on descriptions of mindfulness
+suggested by Kabat-Zinn and other researchers involved in modern MBI.
+In conclusion, empirical research investigating the psychological mediators of change in
+MM and MBI is still in its infancy. Several attempts to investigate the psychological
+mechanisms underlying mindfulness-based approaches have been made. However, on the basis
+of current studies, it is unclear whether certain mechanisms are unique for the practices for
+which they have been investigated. Only future studies aimed at comparing the psychological
+changes underlying different MM and MBI will be able to better explore commonalities and
+differences existing across such interventions.
+Discussion
+In the present article, we compared the most common mindfulness-based approaches,
+including ancient MM and modern MBI, with respect to philosophical background, main
+techniques, aims, outcomes, neurobiology, and psychological mechanisms and reviewed major
+commonalities and differences existing across such interventions.
+From the review of existing literature about MM and MBI, several issues have emerged. First
+of all, there are various differences in the theoretical background of different interventions.
+Overall, although Vipassana and Zen meditations are deeply rooted in Buddhist philosophy, one
+can observe a general tendency toward mixing Buddhist elements with current psychological
+theories in modern MBI. The influence that such modifications could have on the attitude of
+practitioners of different interventions remains unclear, given the lack of empirical studies. On
+the other hand, such issues could be of high importance, given that several meditation teachers
+explicitly suggest which attitudes are more adequate for approaching meditation practice
+(Gunaratana, 1993; Kabat-Zinn, 1990), and it was found that the outcome of meditation
+practice may depend on the intention of the practitioners (Shapiro, 1992).
+Another critical issue can be raised about different ways of practicing ‘‘mindfulness’’ across
+different interventions. As an example, Vipassana and Zen meditations differ from MBSR and
+MBCT in that they often explicitly suggest prior or concurrent practice of some sort of
+concentrative meditation. There is consistent evidence to suggest that different forms of
+meditation engage different cerebral areas (Cahn & Polich, 2006) and that concentrative
+meditation could be an easier approach to meditation for novice meditators that facilitates the
+following monitoring ability which is the main skill required for practicing MM (Lutz et al.,
+2008). Consequently, one could ask whether adding a brief period of purely concentrative
+meditation training to modern meditation-based MBI could be useful for practitioners so as to
+facilitate their practice, or whether direct engagement in MM practice could bypass
+concentrative training. Accordingly, it seems reasonable to ask whether the beneficial effects
+of such interventions are a consequence of participants’ developing greater attentional control
+and/or the result of them letting go of the habitual tendency to control or manipulate different
+aspects of their internal experience (including attention). Furthermore, ‘‘classical’’ MM
+include particular emphasis on cultivating an introspective awareness that grants one greater
+access to the rich features of each experience, such as the degree of phenomenal intensity, the
+emotional tone, and the active cognitive schema, whereas such characteristics are only
+partially recognized by modern MBI.
+Researchers, particularly in the field of depression and anxiety, are also raising concerns
+about whether modern MBI as a stand-alone treatment could be appropriate for treating
+psychopathology (Teasdale, Segal, & Williams, 2003). According to such authors, it is unlikely
+that mindfulness by itself can change the underlying mechanisms of psychopathology and
+assert that the range of efficacy of mindfulness for psychopathology, which some researchers
+such as Baer (2003) and others have suggested, may be somewhat premature and unlikely,
+because modern MBIs do not focus on changing maladaptive thoughts, feelings, and behavior.
+Clinical research that mainly suggests nonspecific effects of MM and meditation-based MBI
+raises further concerns in this direction (Chiesa & Serretti, 2010). However it remains unclear
+whether the scarcity of studies suggesting a specific effect of such practices depends on the lowquality design of the majority of current meditation studies or on a misunderstanding of the
+original concept of mindfulness. In accordance with the latter possibility, some authors have
+recently suggested that mindfulness could be an appropriate clinical tool if it was modified to
+address specific and appropriate clinical issues (Rapgay & Bystrisky, 2009).
+Also, it should be pointed out that although the majority of mindfulness-based approaches
+are specifically meditation-based, some MBIs do not specifically involve meditation training
+and suggest that meditation is not necessarily the only way through which mindfulness can be
+cultivated. Hayes and Shenk (2004), for instance, go to the extreme of suggesting the necessity
+of letting go ‘‘unnecessary’’ attachment to meditation and attempted to describe a way of
+approaching mindfulness at the level of the psychological processes involved. This stands in
+stark contrast to the more traditional approaches to mindfulness, where it is understood that
+mental stability and clarity is a prerequisite for being fully mindful. Without this stable mental
+clarity, it may not, according to this perspective, even be possible to fully acknowledge the
+ongoing currents in one’s mind. However, from this brief description of the diverse techniques
+employed by different MM and MBI, it seems clear that specific differences occur across the
+variety of mindfulness-based approaches. These difference include the perceptual versus
+cognitive nature of interventions along with the different ways in which attention and
+awareness are (or are not) considered and the inclusion or exclusion of ‘‘introspective’’
+awareness as a key feature of some interventions.
+Pertaining to the aims for which different MMs and MBIs are used, one may notice the
+great difference existing between classical MM and modern MBI. However, as outlined above,
+the aims for which specific mindfulness-based approaches are practiced seem to vary according
+to individual perspectives and not according to different approaches. Further, there are several
+differences in the clinical applications, neurobiological correlates, and psychological
+mechanisms of MM and MBI. However it remains unclear to date whether this reflects
+real differences across such interventions or whether they simply reflect the interest of researchers
+to investigate specific uses of any given practice. As an example, there are no studies that
+attempted to investigate potential usefulness of Zen meditation for major depression or whether
+Vipassana meditation could change levels of self-discrepancy.
+On the basis of the reviewed findings, it is clear that specific differences exist across different
+MM and MBI, at least in the way mindfulness is considered and practiced. This leads to two
+main possible scenarios. In the first one, there is the possibility that higher emphasis is given to
+the original characteristics of classical MM and that they could be, in turn, applied to modern
+MBI. Some authors explicitly identify the misunderstandings of the concept of mindfulness in
+modern MBI as the reason for the lack of consistent evidence (Rapgay & Bystrisky, 2009).
+Such a scenario could lead to a more rigorous and unequivocally defined concept of
+mindfulness, more closely aligned with the original Buddhist roots from which the majority of
+MBIs are drawn. The second scenario involves the possibility that different MMs and MBIs
+are really different versions of an underlying construct of mindfulness and that each of them
+could lead to different outcomes and/or be associated with different neurobiological correlates
+and underlying psychological mechanisms. According to this scenario, further research would
+be needed to better explore similarities and differences of current MM and MBI in different
+domains by means of direct comparison studies. Additionally, this second scenario could
+allow exploring the great variety of approaches that are currently used as complementary
+treatments for a great number of psychological and medical conditions, taking into account
+their differences. It could, thus, lead to the possibility to better differentiate and categorize
+such interventions.
+In conclusion, there is consistent evidence suggesting that significant differences exist across
+reviewed interventions as to how mindfulness is understood and practiced. Although at first
+glance it appears as if a large body of research converges on understanding the effects of
+mindfulness practice and the underlying psychological and neurophysiological processes, the
+closer inspection of the philosophical background, aims, and practices of different MMs and
+MBIs revealed a large diversity that may question the usefulness of using mindfulness as
+umbrella term for this rich diversity. On the other hand, the scarcity of available data does not
+allow concluding to what extent the different approaches differ with respect to clinical benefits,
+neurobiological correlates, and underlying psychological mechanisms, suggesting the necessity
+for further research on this topic. However, future research will probably take different
+directions depending on the decision to consider modern MBI as a distinct entity from
+classical MM or, alternatively, to better clarify the specific differences and similarities existing
+across different MM and MBI.

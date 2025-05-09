@@ -1,0 +1,207 @@
+Can a meditation app help my sleep? A cross-sectional survey of Calm users
+Jennifer Huberty  ,Megan E. Puzia ,Linda Larkey ,Ana-Maria Vranceanu ,Michael R. Irwin 
+Published: October 22, 2021
+https://doi.org/10.1371/journal.pone.0257518
+Article
+Authors
+Metrics
+Comments
+Media Coverage
+Peer Review
+Abstract
+Introduction
+Methods and materials
+Results
+Discussion
+Conclusions
+References
+Reader Comments
+Figures
+Accessible Data IconAccessible Data
+See the data
+Link Icon
+This article includes the Accessible Data icon, an experimental feature to encourage data sharing and reuse. Find out how research articles qualify for this feature.
+Abstract
+Use of mindfulness mobile apps has become popular, however, there is little information about subscribers’ perceptions of app content and its impact on sleep and mental health. The purpose of this study was to survey subscribers to Calm, a popular mindfulness meditation app, to explore perceived improvements in sleep and mental health, evaluate what components of the app were associated with improvements in sleep and mental health, and determine whether improvements differed based on sleep quality. Calm subscribers who had used a sleep-related component in the last 90 days completed a Web-based investigator-developed survey and the Pittsburgh Sleep Quality Index. The survey included questions about using Calm for sleep, sleep disturbances, mental health diagnoses (i.e., anxiety, depression, PTSD) and perceived impacts of the app. Participants reported on the extent to which they felt that using Calm had improved their sleep and mental health. Most participants reported sleep disturbance, and almost half reported a mental health diagnosis. The majority of participants reported that using Calm helped them fall asleep, stay asleep, and get restful sleep. All sleep components were associated with perceived improvements in sleep disturbance. Severity of sleep disturbance moderated relationships between using Calm components and reporting improved sleep. Among subscribers with mental health diagnoses, most reported that Calm helped improve symptoms. Perceived improvement in anxiety and depression was associated with using Calm’s meditation components but not Sleep Stories or music/soundscapes. Severity of sleep disturbance did not moderate relationships between using Calm components and reporting mental health improvements. Given the accessibility of app-based meditation, research is needed to evaluate the efficacy of meditation apps to improve sleep disturbance. While some sleep content may be helpful for sleep, more research is needed to test what specific content affects mental health.
+
+Figures
+Table 10Table 11Table 1Table 2Table 3Table 4Table 5Table 6Table 7Table 8Table 9Table 10Table 11Table 1Table 2Table 3
+    
+Citation: Huberty J, Puzia ME, Larkey L, Vranceanu A-M, Irwin MR (2021) Can a meditation app help my sleep? A cross-sectional survey of Calm users. PLoS ONE 16(10): e0257518. https://doi.org/10.1371/journal.pone.0257518
+
+Editor: Sergio A. Useche, Universitat de Valencia, SPAIN
+
+Received: March 16, 2021; Accepted: September 6, 2021; Published: October 22, 2021
+
+Copyright: © 2021 Huberty et al. This is an open access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original author and source are credited.
+
+Data Availability: Data used in this study are available from the OSF repository at https://doi.org/10.17605/OSF.IO/Z5AJS (DOI: 10.17605/OSF.IO/Z5AJS).
+
+Funding: The author(s) received no specific funding for this work.
+
+Competing interests: JH is currently the Director of Science at Calm. JH has been conducting research with Calm as a partner almost 5 years before becoming the Director of Science and the Scientific Advisory Board. AMV, LL, and MI are members of Calm’s Scientific Advisory Board and are independent from Calm leadership. Their role is to ensure the quality of Calm’s science. There are no financial incentives from the growth of Calm to any author. This does not alter our adherence to PLOS ONE policies on sharing data and materials.
+
+Introduction
+Background/Rationale
+Adequate sleep is essential for good mental and physical health [1], yet more than 60% of Americans report sleep disturbances including trouble falling or staying asleep, sleeping excessively, disturbed sleep-wake schedules, and restless sleep [2–4]. In 10% of these individuals sleep disturbances are severe or chronic meeting the diagnostic criteria for insomnia [5]. Sleep disturbance is both a risk factor for and a comorbidity of chronic diseases [6] and emotional distress (i.e., depression, anxiety, post-traumatic stress disorder; PTSD); impacting well-being and quality of life [6, 7].
+
+Over the last decade, pharmacotherapy and behavioral therapies (i.e., cognitive behavioral therapy, relaxation techniques) have emerged as the most widely used treatments for sleep disturbance [4]. Although effective, both approaches have limitations. Even though sleep medications can help in the short term, they carry risk of dependence if used long term, their effectiveness tends to decline with extended use, and their benefits diminish entirely after drug discontinuation [8, 9]. Similarly, although behavioral therapies have been shown to be effective (e.g., CBT-I) [10], they are time- and cost-intensive, and require highly trained therapists. Further, such treatments are not always covered by insurance, making it inaccessible to many individuals in need of treatment [11]. Highly accessible, convenient, safe and effective treatments are needed in order to effectively address this growing public health problem.
+
+One potential solution is mindfulness meditation. Mindfulness meditation is the practice of attending to moment-by-moment experiences, thoughts, and emotions without judgment [12, 13]. Prior research, including systematic reviews, shows that mindfulness meditation programs are efficacious for reducing sleep disturbance [4, 8, 14, 15]. Mindfulness meditation may improve sleep through several mechanisms including increased awareness, acceptance, decreased ruminative thoughts and emotional reactivity, and promotion of an impartial reappraisal of salient experiences, which are all associated with sleep disturbance [16, 17].
+
+Mindfulness meditation can be effectively delivered using a mobile app [18–20]. A recent survey of subscribers to the meditation mobile app, Calm showed that sleep disturbances were one of the most common reasons for downloading the app, and that individuals with sleep disturbances used the app more often and were more likely to use sleep content [21]. In response to the epidemic of sleep complaints and insomnia, Calm and other mobile app companies (e.g., Insight Timer, Headspace) have more recently diversified their content to include meditations and soundscapes specifically for sleep. Calm has created Sleep Stories, narrated fictional tales that use mindfulness-inspired techniques (e.g., breath-focused meditation, sensory meditations) that promote experiential awareness (e.g., of thoughts, positive emotions, sights, sounds) to disrupt the cycle of rumination, and lower pre-sleep arousal to help individuals fall and stay asleep [4]. Headspace has designed Sleepcasts, which are audio-guided exercises similar to Sleep Stories but with less narration. Both Sleep Stories and Sleepcasts emphasize the sensory experience through detailed descriptions and ambient sound effects.
+
+Although mindfulness apps have become popular sleep aids within the general population, there remains a knowledge gap related to content subscribers use for sleep (i.e., general meditation vs. sleep content) and how this impacts their sleep (i.e., falling asleep, staying asleep, not waking too early, and getting restful sleep). We also do not know if individuals who use mobile meditation apps for sleep also experience mental and physical health benefits known to be associated with sleep (e.g., depression, anxiety disorders, and PTSD) [22]. Additionally, if use of meditation apps is helpful for improving sleep and mental health outcomes, we do not know whether all users benefit equally. For example, it is unclear whether the associations between using Calm and reporting improvements in sleep will be similar for individuals with more severe disturbance compared to those with only mild sleep disturbance. Thus, there is a need to explore how consumers engage with mobile meditation apps for sleep, what aspects of the app are beneficial to sleep disturbed users, and whether these perceived benefits depend on the severity of self-reported sleep disturbance.
+
+Objectives
+The purpose of this study was to conduct a cross-sectional survey of subscribers to Calm, one of the more popular consumer-based meditation mobile apps. First, we examined the extent to which those who use the app for sleep report improvements in sleep and mental health. Second, we assessed whether improvements in sleep and mental health were differentially related to use of specific components of the app. Finally, we explored whether these improvements based on the specific components used depended on (i.e., were moderated by) sleep quality.
+
+Methods and materials
+The present analyses are secondary analyses part of a larger cross-sectional survey [23] that explored Calm subscribers’ use of the app for sleep, reported in accordance with the STROBE cross-sectional reporting guidelines [24]. There was no patient or public involvement in the production of this study. The larger cross-sectional survey was approved by an Institutional Review Board at Arizona State University (STUDY00011083). All participants signed an approved electronic informed consent document prior to participation.
+
+Participants/recruitment
+Participants were Calm subscribers who 1) completed at least one session of Calm using a sleep-related component (sleep meditations, Sleep Stories, soundscapes) in the last 90 days, and 2) opened at least one email from Calm within the last 90 days. Subscribers meeting these criteria were sent an email asking if they would like to participate in an online survey with questions and feedback related to their experience with Calm to help improve the Calm app. Those who completed the survey were entered into a drawing for one of two $99 Amazon gift cards. Potential participants used a link within the recruitment email to verify that they were 1) at least 18 years old and 2) were able to read and understand questions in English. Those eligible were then directed to an electronic consent and the survey questions.
+
+Measures
+Participants completed a demographics survey, the Pittsburgh Sleep Quality Index (PSQI) and an investigator-developed quantitative survey. Severity of self-reported sleep disturbance was assessed using the Pittsburgh Sleep Quality Index (PSQI) a 19-item questionnaire that measures sleep habits, quality, and disturbances over the past month [25]. This widely used measure has good psychometric properties across a range of clinical and nonclinical populations; including good internal (α = .83) and test-retest reliability (r = .85) as well as concurrent and discriminative validity when compared to clinical evaluation and other self-report sleep measures [26, 27]. Dimensions of sleep disturbance were calculated based on a validated 3-factor model [28].
+
+To evaluate use patterns and perceptions regarding the Calm app, an investigator-developed survey was administered. Consistent with the assessment of sleep quality using the PSQI, questions were asked if participants were experiencing sleep disturbances at the time they download Calm (i.e., difficulty with falling asleep, staying asleep, waking too early, or getting restful sleep. App usage patterns were evaluated with questions about how often participants used Calm in general (i.e., number of times per week) and how often they used specific Calm components at night for sleep (i.e., Sleep Stories, sleep meditations, non-sleep meditations, and music/soundscapes). Perceived benefit of using Calm was explored by asking participants about the extent to which they believed Calm usage had helped to improve their sleep disturbance. Specifically, participants were asked whether using Calm very much improved (= 3), somewhat improved (= 2), or caused no noticeable improvement (= 1) in their sleep. The questions for mental health conditions (i.e., anxiety, depression, PTSD) followed the same format (i.e., diagnosis and then perceptions of improvement).
+
+Statistical analysis
+Analyses were conducted using IBM SPSS 26.0. Frequencies and descriptive statistics were used to characterize the sample and to examine app usage patterns. Correlations were used to examine within-participant associations between sleep quality and app usage. Associations between app usage and improvements in sleep and mental health were assessed in stepwise models using the PLUM ordinal regression procedure. At step 1, models regressed self-reported improvements in sleep and mental health outcomes onto app usage frequency. To examine whether severity of sleep disturbance moderated the relationship between usage and perceived improvements, PSQI score usage × PSQI were added as predictors in Step 2. Goodness of fit was evaluated via -2 log-likelihoods, Pearson’s chi-square, and pseudo R2 statistics. To correct for multiple testing, Bonferroni-adjusted p-values were used to determine significance. Given the likely correlations between use of different Calm components, individual-component models were followed up with multivariate models that included all components as simultaneous predictors. To reduce risk of over-fitting, only significant PSQI score usage × PSQI interactions were retained in multivariate models.
+
+Results
+There were 366,173 subscribers who received an invitation to participate. Of those, 5.6% (n = 19,341) accessed the survey, 4.0% (n = 14,642) signed the informed consent, and 3.0% (n = 11,095) viewed all of the survey questions (i.e., completion rate = 75.8% of consented participants). Participants were included in the present analyses if they had 1) used at least one Calm component for sleep and 2) responded to questions about experiencing sleep disturbance and/or mental health diagnoses at the time of app download. The final sample included 9,907 participants.
+
+Demographic characteristics
+Sample demographics are presented in Table 1. On average, participants were 47 years old (SD = 15.4). The majority identified as female (85.3%, n = 8,230), White (83.9%), and non-Hispanic (94.7%). Most participants had received a higher-education degree (84.5%) and had full- or part-time employment (74.7%)The median household income was $80,000 per year.
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 1. Demographic characteristics of the sample (N = 9,907).
+https://doi.org/10.1371/journal.pone.0257518.t001
+
+Sleep and health characteristics
+Most participants (89.7%, n = 8,886) reported having some type of sleep disturbance when they initially downloaded Calm, and most reported more than one type of disturbance. The most common areas of sleep disturbance were falling asleep (65.5%, n = 6,489), staying asleep (48.5%, n = 4,807), and getting restful sleep (42.0%, n = 4,159), and many individuals experienced more than one sleep disturbance (50.6%, n = 5,015). Only 15.2% (n = 1,503) reported that they experienced difficulties related to waking too early. Reports about recent sleep quality (i.e., based on the PSQI) also indicated high rates of sleep disturbance (see Table 2). The mean PSQI total score for the sample was 7.0 (SD = 3.6), and 61.5% of participants (n = 6,093) scored above the established PSQI cutoff (i.e., total score > 5; Buysse et al., 1989), classifying them as “poor sleepers.”
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 2. PSQI total and component scores.
+https://doi.org/10.1371/journal.pone.0257518.t002
+
+Almost half of participants reported having been diagnosed with at least one mental health condition when they initially downloaded Calm (44.3%, n = 4,386), the most common being anxiety disorders (29.6%, n = 2,930) and depression (26.8%, n = 2,657). Additionally, 8.0% (n = 790) reported a diagnosis of PTSD.
+
+App and component engagement
+On average, participants used Calm five times per week (see Table 3). Sleep Stories were the most commonly used component at night for sleep. There were significant moderate correlations between reported usage frequencies across almost all individual components, except that frequency of using Sleep Stories was not related to the frequency of using general (i.e., not sleep-specific) meditations at night. PSQI scores were also correlated with app usage, but these effects were small.
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 3. Correlations between frequencies of using individual Calm components.
+https://doi.org/10.1371/journal.pone.0257518.t003
+
+Improvements in sleep
+The majority of participants reported that using Calm helped them fall asleep (90.0% reported somewhat or very much improved), stay asleep (69.7%), and get restful sleep (79.2%), but the small proportion of individuals who reported problems waking up too early did not notice improvement in this area (39.6%; see Table 4).
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 4. Frequencies of reported improvements in sleep disturbance.
+https://doi.org/10.1371/journal.pone.0257518.t004
+
+At Step 1, frequency of using Calm at night was positively associated with perceived improvements in all aspects of sleep (i.e., falling asleep, staying asleep, getting restful sleep, and not waking too early; see Table 5). At Step 2, there were no significant main effects of PSQI, but there were significant interactions in which PSQI scores moderated the relationship between the frequency of using Calm and improvements in staying asleep and getting restful sleep, such that participants who reported more severe sleep disturbance benefitted more from using Calm with regard to improvements in staying asleep and getting restful sleep (see Table 6). Although using Calm was also associated with improvements in falling asleep and waking too early, these improvements did not differ based on severity of sleep disturbance.
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 5. Parameter estimates for regressions models of improvements in sleep disturbance based on frequency of using Calm and its components (i.e., Step 1).
+https://doi.org/10.1371/journal.pone.0257518.t005
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 6. Parameter estimates for regressions models of improvements in sleep disturbance based on frequency of using Calm and its components, PSQI scores, and the interaction between frequency of use and PSQI (i.e., Step 2).
+https://doi.org/10.1371/journal.pone.0257518.t006
+
+Components of the app and perceived sleep improvements
+The frequency of using Sleep Stories, sleep meditations, and music/soundscapes was associated with improvement in falling asleep, but using general meditations at night was not (see Table 5) (Step 1). However, all sleep components were associated with improvements in staying asleep, getting restful sleep, and not waking up too early. Perceived improvement in falling asleep was positively associated with the use of Sleep Stories, sleep meditations and music/soundscapes, but general meditations; however, all components were associated with improvements in staying asleep, getting restful sleep, and not waking too early (see Table 5).
+
+At Step 2, the conditional main effects of frequency of usage and PSQI scores were maintained after accounting for possible interactions between frequency of use and severity of sleep disturbance; however, there were also several significant interactions between usage and PSQI scores (see Table 6). Specifically, PSQI scores moderated the relationships between using Sleep Stories and sleep meditations and reporting improvements in falling asleep, such that these components appeared to be more beneficial for participants with more severe sleep disturbance. Significant moderation effects also suggested that those with more severe sleep disturbance benefitted more from using Sleep Stories, sleep meditations, and general meditations to help them to stay asleep. The relationships between using Calm components and perceived improvements in getting restful sleep was were also moderated by PSQI, such that all Calm sleep components appeared to be more beneficial for participants with more severe sleep difficulties. Results also showed significant moderation effects suggesting that using meditations (both sleep and general) was also more beneficial for helping those with more severe sleep disturbance not wake up too early.
+
+When all components were analyzed together (i.e., when controlling for using other Calm components for sleep), results showed all individual components of Calm still uniquely contributed to perceived improvements in all aspects of sleep (see Table 7). Several significant moderation effects were retained in the combined model. Results indicated that those with more severe sleep disturbance benefitted more from using Sleep Stories to help them fall asleep, stay asleep, and get more restful. Those with more severe sleep disturbance also benefitted more from using sleep meditations with regard to falling asleep, whereas general meditations were more beneficial for helping those with more severe sleep disturbance stay asleep, get more restful sleep, and not wake up too early.
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 7. Parameter estimates for regressions models of improvements in sleep difficulties based on PSQI scores and frequency of using all Calm components.
+https://doi.org/10.1371/journal.pone.0257518.t007
+
+Improvements in mental health
+Among those who reported having a mental health diagnosis when they initially downloaded Calm, most reported that using Calm had helped to improve their condition or their ability to manage their symptoms (see Table 8). The highest rate of improvement was in anxiety disorders (90.5% reported somewhat or very much improved), followed by depression (80.3%), and then PTSD (77.2%).
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 8. Frequencies of reported improvements in mental health diagnoses.
+https://doi.org/10.1371/journal.pone.0257518.t008
+
+Using Calm more frequently was associated with greater perceived improvements in anxiety, depression, and PTSD (Step 1; see Table 9), even after and accounting for PSQI scores as a potential moderator (Step 2; see Table 10). At Step 2 there were significant conditional main effects of PSQI in which PQSI was negatively associated with improvements in mental health diagnoses, but PSQI did not significantly moderate the associations between frequency of use and mental health improvements.
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 9. Parameter estimates for regressions models of improvements in mental health diagnoses based on frequency of using Calm and its components (i.e., Step 1).
+https://doi.org/10.1371/journal.pone.0257518.t009
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 10. Parameter estimates for regressions models of improvements in mental health diagnoses based on frequency of using Calm and its components, PSQI scores, and the interaction between frequency of use and PSQI (i.e., Step 2).
+https://doi.org/10.1371/journal.pone.0257518.t010
+
+Components of the app and mental health improvements
+Prior to controlling for severity of sleep disturbance (Step 1), the frequency of using sleep meditations, general meditations, and music/soundscapes was associated with perceived improvements in anxiety, depression and PTSD (see Table 9). After accounting for potential moderation effects at Step 2, meditations (sleep and general) were still associated with improvements in depression and anxiety, but no longer associated with PTSD (see Table 10). Using music/soundscapes was still associated with improvements in all mental health diagnoses. There were no significant moderation effects. The frequency of using Sleep Stories was not related to improvements in any mental health diagnosis in any model.
+
+As observed in analyses of individual Calm components, in combined analyses when all components were assessed together, using sleep meditations was still associated with improvements in anxiety, but not depression (see Table 11). Conversely, the frequency of using general meditations was positively associated with all mental health diagnoses. After controlling for the use of other components, using music/soundscapes was no longer associated with improvements in depression, anxiety, or PTSD. Using Sleep Stories was not associated with reported improvements in mental health.
+
+thumbnail	Download:
+PPTPowerPoint slide
+PNGlarger image
+TIFForiginal image
+Table 11. Parameter estimates for regressions models of improvements in mental health diagnoses based on PSQI scores and frequency of using all Calm components.
+https://doi.org/10.1371/journal.pone.0257518.t011
+
+Discussion
+The purpose of this study was to conduct a cross-sectional survey in subscribers of the mobile app Calm to examine the extent to which those who use the app for sleep report improvements in sleep and mental health. We also assessed whether improvements in sleep and mental health were differentially related to use of specific components of the app, and explored whether these improvements based on using specific components used depended on sleep quality. explore the extent to which those who use the app for sleep report improvements in sleep and mental health. We also explored which components of the app are associated with sleep and mental health improvements, and whether the improvements associated with using the app were different based on self-reported sleep quality (as measured by the PSQI).
+
+Nearly all study participants reported at least one type of sleep disturbance. This is not surprising given that we specifically recruited participants based on using sleep components of the Calm app in the last 90 days so that we would enrich the sample base with those attempting to improve sleep problems. Rates of sleep disturbances within the current sample were substantially higher than nationwide rates in the general population (estimated 20–40%), thus meeting our goals for a sleep-concerned population to survey [29]. Given the sleep concerns of the population recruited, it is also not surprising that nearly half of participants reported having at least one mental health condition when they first downloaded the Calm app. In particular, rates of anxiety (30%) and depression (27%) in the sample were substantially higher than general population rates (approximately 19% and 7%, respectively) [30]. It is well known that mental health problems are co-morbid conditions with sleep disturbances, and that there are bidirectional relationships between sleep quality and mental health [31].
+
+Most participants reported that using Calm helped them to fall asleep, stay asleep, and get restful sleep. Additionally, higher frequency of using Calm was associated with perceived greater improvements in sleep. This finding provides preliminary support for the potential efficacy of Calm in addressing the unmet need of an effective, efficient, safe and convenient sleep tool for the millions of adults who suffer from sleep disturbance. Future randomized controlled trials are necessary to formally test the efficacy of Calm against an attention placebo control, in improving sleep disturbances.
+
+Due to the diversity of sleep content available on meditation mobile apps, users may choose sleep content based on their preferences (i.e., fall asleep to a meditation vs. listening to soundscapes). Sleep Stories were the most popular component of the Calm app for sleep, but all sleep components were associated with improvements in most types of sleep disturbances. Sleep Stories are based on mindfulness practices, but the format is substantially different from meditations, particularly with regard to instructions about posture, pace, and tone. Sleep Stories are fictional tales, somewhat similar to bedtime stories, that use mindfulness-inspired techniques, such as focusing on the breath and calling attention to sensation, to help listeners fall and stay asleep. There are clear theoretical models for how mindfulness meditation impacts health and sleep [16, 32], but there is no research regarding the mechanisms through which Sleep Stories may benefit users. Given the positive associations between using Sleep Stories and improvements in sleep disturbances, further research is needed to understand the mechanisms of action. However, it is also important to note that even when analyzed together (i.e., when controlling for use of other Calm components), all individual components of Calm were associated with improvements in sleep. Future studies are needed to understand the particular sleep components that elicit reductions in sleep disturbance.
+
+There were two exceptions to the positive associations between using Calm sleep components and reporting reductions in sleep disturbance. First, using general meditations at night for sleep was not associated with improvements in falling asleep.
+
+Second, when controlling for the use of other sleep components, those who used general meditations more often were significantly less likely to report that Calm helped them to fall asleep. This may be because meditation can increase attention and arousal when not in a sleep-specific context [33]. Unlike Sleep Stories and sleep meditations, general meditations guide the listener to sit upright and remain alert, focused, and attentive. While meditation in general has been shown to improve sleep and decrease pre-sleep arousal, most research has considered the broader effects of participating in meditation programs, not engaging in meditation immediately before sleep [34]. Although previous research has shown that many subscribers use Calm shortly before bed [23], future research would benefit from collecting additional information about the time of day that users engage with different types of content and how that may relate to its effectiveness for improving sleep.
+
+Those with more severe sleep disturbance may benefit from using Calm for sleep. Research on the extent to which severity of insomnia or sleep disturbance impacts the effects of treatments for sleep is mixed [35]. However, there is a common belief among healthcare providers that more severe symptoms warrant higher levels of care, requiring the investment of more time and resources [36]. Findings from the current study suggest that even those with more severe sleep disturbance can benefit from “low-intensity” interventions that place fewer demands on resources (e.g., specialist time) [37], suggesting that apps such as Calm may be useful as adjunctive components to more intensive treatments, an early component in a stepped-care framework, or an as-needed aid for fluctuating symptoms or intermittent periods of sleep difficulty [38].
+
+Among users who reported having mental health diagnoses (i.e., anxiety disorder, depression, PTSD), most reported that using Calm, in general, had helped to improve their condition or better manage their symptoms. Similar to our sleep findings, higher frequency of calm use was associated with more self-reported mental health improvements. However, we found differences among the sleep components that were related to these improvements. For example, using sleep meditations was associated with improvements in anxiety while using general meditations was associated with improvements in both anxiety and depression. Using Sleep Stories and music/soundscapes was not associated with any mental health improvements. Importantly, using Calm in general, regardless of components, was associated with self-reported improvements in both sleep and mental health. These findings suggest the sleep components such as Sleep Stories, and music/soundscape may only help improve sleep, while meditations (general or sleep-specific) might be needed to improve mental health. More research testing specific content and how it effects sleep and mental health is warranted.
+
+Strengths and limitations
+The current study is novel and addresses an important gap in the literature by providing information on the use of meditation mobile apps in a naturalistic setting. Research using commercially available apps may be more likely to reflect real-world behavior and, in the future, findings may more readily inform the development of practical, scalable interventions for sleep disturbance. This study also has several limitations. First, this was a cross-sectional survey. Answers were self-reported and retrospective. Given that recent literature has shown that there are often discrepancies between objectively logged and self-reported usage of digital media tools [39]. further corroboration of these findings with objective app-usage data would bolster confidence in their interpretation. Additionally, because the survey was developed specifically for this study, there is no external evidence to corroborate its reliability or validity. Second, while the study benefits from a large sample size, this was likely a highly engaged sample of Calm users as they had to have opened an email and used a sleep component of the app in the last 90 days. Questions regarding the helpfulness of Calm for sleep and mental health were unidirectional, such that participants did not have the opportunity to report deterioration of sleep or mental health. Third, our sample was mostly white, non-Hispanic females who were educated and mostly employed, limiting the generalizability of our findings. Finally, it should be noted that analyses were conducted with individuals who reported experiencing sleep disturbance at the time they downloaded Calm, whereas the PSQI assesses sleep disturbances during the past month and questions about the frequency of using Calm’s sleep components were not limited to a specific time window. Therefore, results from the PSQI cannot be interpreted as reflective of sleep disturbance at the onset of Calm usage, and the moderation effects described must be considered as general relationships that are not necessarily sequential or time-specific. Future research would benefit from longitudinal analyses that can explicitly model these associations over time.
+
+Conclusions
+Using a cross-sectional survey of subscribers of the mobile app Calm who endorsed sleep disturbances or used one of Calm’s sleep components at least once in the past 90 days, we observed high rates of both sleep disturbance and mental health concerns. Higher frequency of using Calm was associated with higher perceived improvements in sleep disturbance and in mental health concerns. Sleep Stories were most commonly used for sleep, but all sleep-related app components were associated with perceived improvement in sleep disturbance. Only meditations were associated with self-reported improvement in mental health. Findings strongly support a future randomized controlled trial to test the efficacy of Calm, a potentially accessible and user-friendly solution to the current sleep epidemic.

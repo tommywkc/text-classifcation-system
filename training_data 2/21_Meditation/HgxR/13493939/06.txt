@@ -1,0 +1,2350 @@
+NeuroImage 181 (2018) 301–313
+Contents lists available at ScienceDirect
+NeuroImage
+journal homepage: www.elsevier.com/locate/neuroimage
+Impact of short- and long-term mindfulness meditation training on
+amygdala reactivity to emotional stimuli
+Tammi R.A. Kral a,b,c, Brianna S. Schuyler a,c, Jeanette A. Mumford a,c, Melissa A. Rosenkranz a,c,
+Antoine Lutz a,c,e, Richard J. Davidson a, b, c,d,*
+a Center for Healthy Minds, University of Wisconsin – Madison, 625 W. Washington Avenue, Madison, WI, 53703, USA b Department of Psychology, University of Wisconsin – Madison, 1202 W. Johnson Street, Madison, WI, 53706, USA c Waisman Laboratory for Brain Imaging and Behavior, University of Wisconsin – Madison, 1500 Highland Avenue, Madison, WI, 53705, USA d Department of Psychiatry, University of Wisconsin – Madison, 6001 Research Park Boulevard, Madison, WI, 53719, USA e Lyon Neuroscience Research Center, Lyon 1 University, Lyon, France
+A R T I C L E I N F O
+A B S T R A C T
+Keywords:
+Meditation training can improve mood and emotion regulation, yet the neural mechanisms of these affective Emotion regulation
+changes have yet to be fully elucidated. We evaluated the impact of long- and short-term mindfulness meditation Mindfulness
+training on the amygdala response to emotional pictures in a healthy, non-clinical population of adults using Meditation
+blood-oxygen level dependent functional magnetic resonance imaging. Long-term meditators (N ¼ 30, 16 female) Amygdala
+had 9081 h of lifetime practice on average, primarily in mindfulness meditation. Short-term training consisted of Connectivity
+an 8-week Mindfulness- Based Stress Reduction course (N ¼ 32, 22 female), which was compared to an active Prefrontal cortex
+control condition (N ¼ 35, 19 female) in a randomized controlled trial. Meditation training was associated with less amygdala reactivity to positive pictures relative to controls, but there were no group differences in response to negative pictures. Reductions in reactivity to negative stimuli may require more practice experience or concen-trated practice, as hours of retreat practice in long-term meditators was associated with lower amygdala reactivity to negative pictures – yet we did not see this relationship for practice time with MBSR. Short-term training, compared to the control intervention, also led to increased functional connectivity between the amygdala and a region implicated in emotion regulation – ventromedial prefrontal cortex (VMPFC) – during affective pictures.
+
+Thus, meditation training may improve affective responding through reduced amygdala reactivity, and height-ened amygdala–VMPFC connectivity during affective stimuli may reflect a potential mechanism by which MBSR
+exerts salutary effects on emotion regulation ability.
+
+1. Introduction
+experience (Goldin and Gross, 2010; Kaviani et al., 2011) and quicker recovery from a negative challenge (Britton et al., 2012; Raes et al.,
+Mindfulness meditation practices, which aim to cultivate an accepting
+2009). Improvements in affective responses following mindfulness
+awareness of the present moment (Bishop et al., 2004; Brown and Ryan,
+meditation training have also been shown in non-clinical populations,
+2003; Kabat-Zinn, 1990) can improve emotion regulation, ameliorate including reductions in emotional interference (Ortner et al., 2007) and symptoms underlying anxiety and depression and boost positive mood
+decreased negative mood (Jha et al., 2010). Research on the neural
+(Goyal et al., 2014; Hofmann et al., 2010; Jain et al., 2007).
+
+mechanisms underlying these affective changes that utilizes active con-
+Mindfulness-Based Stress Reduction (MBSR) is a widely used form of
+trol conditions is sparse, and systematic examination of the impact of
+meditation practice taught by a trained professional that involves di-
+mindfulness meditation training on functional connectivity in emotion
+dactics, individual and group practices including: breath awareness
+regulation networks has not been investigated.
+
+meditation, body scans, walking meditation and yoga. Each of the
+Allen et al. provide initial evidence that mindfulness meditation alters
+practices involves focusing attention on present-moment experience
+neural processing to affective stimuli following a short-term intervention
+(Kabat-Zinn, 1990). MBSR has been shown to lead to reduced negative
+– participants who practiced longer had more insula activation during
+* Corresponding author. Center for Healthy Minds, University of Wisconsin – Madison, 625 West Washington Avenue, Madison, WI, 53703, USA.
+
+E-mail address: rjdavids@wisc.edu (R.J. Davidson).
+
+https://doi.org/10.1016/j.neuroimage.2018.07.013
+Received 13 February 2018; Received in revised form 16 May 2018; Accepted 5 July 2018
+Available online 7 July 2018
+1053-8119/© 2018 Elsevier Inc. All rights reserved.
+
+
+
+T.R.A. Kral et al.
+
+NeuroImage 181 (2018) 301–313
+negative pictures in a whole-brain analysis (Allen et al., 2012). The to test how variations in practice predicted differences in the brain and
+current study investigated a greater range of practice by including long-
+behavior.
+
+and short-term practitioners and expands upon prior work by probing the
+neural response to positive pictures – in addition to negative pictures – in
+2. Methods
+an important emotion regulation circuit using a-priori amygdala and
+ventromedial prefrontal cortex (VMPFC) regions of interest (ROIs).
+
+2.1. Participants
+Research using a similar approach demonstrated decreased amygdala
+activation during positive affective pictures following short-term mind-
+We recruited 158 healthy human subjects from a non-clinical popu-
+fulness meditation training, however it was limited to 12 participants per
+lation, comprised of 127 meditation-naïve participants (MNP) and 31
+group (Desbordes et al., 2012). Precisely how mindfulness-based medi-
+long-term meditators (LTM). The MNP (average age 48.1 10.7 years,
+tation impacts the neural circuitry of emotion regulation remains
+81 female) comprised a much larger group as they participated in both
+unclear.
+
+the RCT and cross-sectional arms of the study, and were recruited within
+The amygdala is central to emotion generation (Phelps and LeDoux,
+Madison, WI and the surrounding community using flyers, online ad-
+2005) and regulation (Buhle et al., 2014), and VMPFC is implicated in vertisements, and advertisements in local media. Recruitment materials
+automatic emotion regulation (Phelps et al., 2004; Urry et al., 2006), requested participation in a study of “health and well-being” or the
+possibly through functional coupling with the amygdala (Banks et al.,
+“benefits of health wellness classes.” Following baseline data collection, a
+2007; Lee et al., 2012). Automatic, or implicit emotion regulation con-sub-set of MNPs who participated in the cross-sectional arm of the study
+sists of processes that alter the course of affective experience outside
+were randomly assigned to mindfulness meditation training or an active
+explicit, conscious attempts to do so. Affect labeling is a process which
+control intervention for the RCT: Mindfulness Based Stress Reduction
+may engage automatic emotion regulation even absent an intention to
+(MBSR; N ¼ 43, average age 48.2 10.0 years, 27 female) or the Health
+volitionally regulate emotion, as affect labeling has been shown to
+Enhancement Program (HEP; N ¼ 43, average age 48.0 12.2 years, 27
+dampen the amygdala response (Lieberman et al., 2007). Extinction
+female), which has been validated in a separate study (MacCoon et al.,
+learning is another example of an automatic emotion regulation process
+2012). The intervention and randomization procedures were identical to and involves both amygdala and VMPFC (Phelps et al., 2004).
+
+that detailed by MacCoon et al. (2012) Four participants did not com-
+Non-human primate research reveals a specific mechanism for these ef-
+plete the fMRI task following the intervention, and an additional 15
+fects whereby monosynaptic input to basolateral amygdala from MPFC
+participants left the study prior to post-intervention data collection due
+inhibits activity from the central nucleus of the amygdala (Kim et al.,
+to logistical reasons, resulting in 32 participants who completed MBSR
+2011). Moreover, research in non-human primates indicates functional
+(average age 50.8 8.8 years, 22 female) and 35 participants who
+specificity of VMPFC for value updating (Rudebeck et al., 2013),
+completed HEP (average age 48.1 12.6 years, 19 female).
+
+providing evidence that VMPFC automatically processes information
+The LTM (average age 50.7 10.1 years, 17 female) were recruited at
+regarding the changing salience of stimuli. Recent studies in humans
+meditation centers and through related mailing lists throughout the
+have also found converging support for the role of VMPFC in value
+United States, in addition to flyers and advertisements in newspapers
+updating (Levy and Glimcher, 2012).
+
+similar to the recruitment strategy for MNP. The LTM did not differ from
+We systematically examined the impact of mindfulness meditation
+the MNP in terms of age, gender, motion during the fMRI task, level of
+training on affective processing by assessing amygdala activation and
+education, or socio-economic status measured with the Hollingshead
+amygdala-VMPFC functional connectivity during an automatic emotion
+index (Hollingshead, 1975), nor were there statistically significant effects regulation task in a non-clinical, healthy population of adults who were
+of any of these demographic factors on any of the outcome variables,
+in a normal state, not explicitly practicing any form of meditation. Brain
+except in 2 cases as described in the Results section. Meditation
+activation was assessed using blood-oxygen level dependent functional
+recruitment criteria included at least three years of daily practice (at least
+magnetic resonance imaging (BOLD fMRI). We employed a rigorous
+30 min per day of sitting meditation), experience with Vipassana, con-
+design combining cross-sectional analysis of long-term meditators (LTM)
+centration and compassion/loving-kindness meditations, and at least 3
+compared to meditation-naïve participants (MNP), and a randomized
+intensive retreats lasting 5 or more days. LTM had an average of 9081
+controlled trial (RCT) in which a subset of MNP completed either an 8-
+lifetime hours of meditation practice, ranging from 1439 to 32,612 total
+week intervention with MBSR or a validated, active control condition
+hours, and which primarily consisted of mindfulness-based practices
+(the health enhancement program; HEP) that was matched for inter-
+(focused attention and OM; 86% of daily practice hours), in addition to
+vention effects non-specific to mindfulness meditation (MacCoon et al.,
+some practice with compassion/loving kindness meditations (14% of
+2012). The LTM had a daily sitting meditation practice of at least 30 min daily practice hours). Lifetime hours of practice were calculated based on
+for at least three years, and the primary type of meditation practice was
+subjects reports of their average hours of formal meditation practice per
+most similar to that taught in MBSR — Vipassana (i.e. open monitoring;
+week and their total years of practice. Participants in either group were
+OM). In this form of meditation, practitioners cultivate sustained
+excluded if they had used medication for anxiety, depression, or other
+awareness to experience without attempting to control the focus of
+psychological issues, or had a psychiatric diagnosis in the past year.
+
+attention, but rather maintaining openness to any feelings that arise in
+Participants were also excluded if they had any history of bipolar or
+awareness (Lutz et al., 2015).
+
+schizophrenic disorders, brain damage or seizures.
+
+We hypothesized that mindfulness meditation training would
+The automatic emotion regulation task was one of a number of tasks
+decrease reactivity to affective stimuli, as assessed by amygdala activa-
+administered during a 24-h lab visit as part of a larger, multi-session
+tion to positive and negative pictures (relative to neutral). We further
+study. Meditation-naïve participants completed one lab visit prior to
+hypothesized that mindfulness meditation training would enhance
+randomization, and then following the 8-week MBSR or HEP interven-
+automatic emotion regulation, as reflected by greater amygdala- VMPFC
+tion participants returned for a post-training visit during which the same
+functional connectivity during affective pictures (negative, positive)
+measures were collected. Experimenters were blind to the group
+relative to neutral. First, we tested for differences in LTM compared to
+assignment of meditation-naïve participants during data collection for
+MNP, and then we tested for a similar pattern of effects following training
+the RCT. Subjects also completed a series of questionnaires, including the
+with MBSR compared to HEP, while controlling for pre-treatment base-
+Five Facet Mindfulness Questionnaire (FFMQ; Baer et al., 2006), which line (i.e. data collected prior to randomization). Using RCT data to follow
+includes a sub-scale that was used as a self-report measure of
+up on cross-sectional analyses allowed us to rigorously control for
+non-reactivity. Example items from the non-reactivity scale include:
+influential factors that may have systematically differed between LTM
+“When I have distressing thoughts or images, I just notice them and let
+and MNP. Finally, we assessed the length and type of meditation practice
+them go”, and “I watch my feelings without getting lost in them”. A panel
+302
+
+
+T.R.A. Kral et al.
+
+NeuroImage 181 (2018) 301–313
+of other domain-specific questionnaires was included to address hy-
+not included in the scanner task) in a mock scanner prior to beginning the
+potheses from aspects of the larger study that were focused on relation-
+experiment.
+
+ships between meditation and sleep, health, response to social stress and
+pain processing, and which were irrelevant to the current analysis.
+
+2.3. Image acquisition
+UW-Madison's Health Sciences Institutional Review Board approved the
+protocol, and all participants provided consent and were given monetary
+Images were acquired on a GE X750–3.0 Tesla MRI scanner device
+compensation for their participation. Two MNPs were excluded due to
+with an 8- channel head coil. Anatomical scans consisted of a high-
+brain abnormalities, one dropped out of the study before the task was
+resolution 3D T1-weighted inversion recovery fast gradient echo image
+completed, and three were unable to complete the task due to technical
+(inversion time ¼ 450 msec, 256 256 in-plane resolution, 256 mm
+difficulties. This left a total of 121 MNP's (78 female, 119 right-handed)
+FOV, 124 1.0 mm axial slices). Four functional scan runs were acquired
+with average age of 48.3 10.8 years, and an age range of 26–66 years.
+
+for the Automatic Emotion Regulation Paradigm using a gradient echo
+One LTM was excluded due to a dental implant which distorted the
+EPI sequence (64 64 in-plane resolution, 240 mm FOV, TR/TE/
+functional fMRI data, leaving a total of 30 LTM's (16 female, 29
+Flip ¼ 2000 ms/25 ms/60, 40 4 mm interleaved sagittal slices, and
+right-handed) with an average age of 50.5 10.2 years and an age range
+159 3D volumes per run).
+
+of 28–62 years. We recruited a larger sample of MNP than LTM, due to
+the unique study design that incorporated an RCT for which we needed at
+2.4. Image processing
+least 30 MNP participants per group following randomization. The MNP
+in the RCT were a subset of the participants whose pre-randomization
+Functional images were processed using FEAT (FMRI Expert Analysis
+baseline data were included in the cross-sectional arm of this study.
+
+Tool) Version 6.00, part of FSL (FMRIB's Software Library) including a
+high pass temporal filter of 100 s, motion correction with MCFLIRT
+2.2. Automatic emotion regulation task
+(Jenkinson et al., 2002), BET (Smith, 2002) brain extraction, spatial smoothing at 5 mm FWHM, and FILM prewhitening (Woolrich et al.,
+Seventy-two pictures selected from the International Affective Picture
+2001). Transformation matrices for registration were computed at the
+Set (Lang et al., 2008 “The XM2VTS Database,” n.d.) were presented first level (within scan run) and applied at the second level using FSL in a
+during fMRI scanning, and evenly split between negative, neutral and
+two stage process where the Boundary Based Registration (BBR)
+positive pictures. This resulted in 24 pictures in each of the three valence
+approach (Greve and Fischl, 2009) was used to register the subject's time categories, and each picture was presented for 4 s. The average normative
+series data to their anatomical template, and a 12 DOF affine trans-
+valence (V) and arousal (A) ratings of the pictures in the three categories
+formation was used to register the subject's anatomical scans to Montreal
+were
+negative
+(V ¼ 2.87 0.87,
+A ¼ 5.51 0.47),
+neutral
+Neurological Institute (MNI) space using FLIRT (Jenkinson et al., 2002).
+
+(V ¼ 5.08 0.60, A ¼ 3.86 0.63) and positive (V ¼ 7.10 0.47,
+A ¼ 5.36 0.37), where both valence and arousal are measured on
+2.5. Experimental design and statistical analysis
+9-point scales (1 ¼ most unpleasant or least arousing and 9 ¼ most pleasant
+or most arousing, respectively). Valence order was pseudo-randomized
+The functional data from individual subjects were analyzed using a
+and picture order was completely randomized within the task. The pos-
+General Linear Model (GLM) in 3 levels, where the first level (within-
+itive pictures did not include erotic images from the IAPS set, and all the
+scan) modeled stimulus presentation with a double-gamma hemody-
+pictures in this task were evenly split between social and non-social
+namic response function as defined in FSL. Each trial type was modeled
+categories. The task also included the presentation of neutral (male
+with up to two regressors for each of two events; the 4 s presentation
+and female) faces from the Extended Multimodal Face Database (“The
+period of the IAPS image, and the 0.5 s presentation of the neutral face on
+XM2VTS Database,” n.d.), which were presented for 500 ms after the
+the 2/3 of trials in which a face was presented (1/3 of trials did not have a
+offset of the picture in two-thirds of the trials, and appeared either 1 s (8
+face) for a total of 9 regressors (trials with faces were modeled separately
+per valence) or 3 s (8 per valence) post-picture offset. There were also
+but were collapsed together in the higher level analysis). Additional re-
+eight trials in which a face did not follow the image. The faces were
+gressors of no interest were included to model the 24 total motion-related
+included as a way to probe emotional spillover from the preceding IAPS
+parameters (the standard plus extended parameters, which include the
+stimuli, however there were no differences in BOLD activation to faces
+squares, derivatives, and squares of derivatives). To further address
+following negative and positive pictures compared to faces following
+motion, high motion time points with a framewise displacement larger
+neutral pictures. Thus, we focused solely on the picture presentation
+than 0.9 mm (Siegel et al., 2014) were modeled out of the data with an period.
+
+individual regressor. There were no scans with greater than 25% of the
+Automatic emotion regulation is assumed to be a process that occurs
+data censored for motion, and thus no participants or scans were
+in the absence of volitional attention and without explicit instructions.
+
+excluded for excessive motion. The second level combined data within
+Thus, the task used in the current study entailed examining automatic
+subject and across scans using a fixed effects modeling approach. Group
+emotion regulation processes in response to emotional pictures in the
+analysis to check for whole-brain, voxelwise effects was done at the third
+absence of an explicit request to voluntarily regulate emotion. Partici-
+level in which we modeled data across subjects using the Flame1 mixed
+pants were instructed to press a button indicating the valence category of
+effects model estimation. Z (Gaussianised T/F) statistic images were
+the picture (either negative, neutral, or positive) to ensure they were
+thresholded using clusters determined by Z > 3.1 and a (family-wise
+paying attention. Button order was counterbalanced across subjects.
+
+error corrected) cluster significance threshold of p ¼ 0.05 (Worsley,
+Participants were instructed to passively view the faces following the
+2001) for the voxelwise, whole-brain analyses.
+
+images. All stimuli were presented using E-Prime software (E-Prime,
+Functional amygdala ROIs were identified from the contrast of
+2012) and participants viewed these images with a fiber-optic goggle
+Negative > Neutral IAPS pictures during a 4 s picture presentation period
+system (Avotec, Inc., Stuart, FL) while inside the MRI scanner. Due to a
+(analogous to the task used in the current study except participants did
+technical error the button box response was not recorded for 85 partic-
+not make a button press response) and using data from an independent
+ipants (19 LTM), in which case they were sent a link to complete the
+sample of 90 participants enrolled in a separate study (mean
+picture categorizations online at home following the scan. Sixty-one
+age(SD) ¼ 45.1(10.0) years, 52 female) (Grupe et al., 2017). The right participants (11 LTM) completed the online task at home to categorize
+and left functional amygdala ROIs were then masked with anatomical
+the pictures. The task consisted of 4 runs of approximately 5 min each. In
+amygdala ROIs from the Harvard- Oxford Atlas (Desikan et al., 2006)
+order to familiarize participants with the task and the scanning envi-
+with a threshold at 50% probability to remove any non-amygdala voxels,
+ronment, they completed 6 practice trials (with a separate set of pictures
+resulting in a left and right amygdala ROIs of 104 and 164 voxels,
+303
+
+
+T.R.A. Kral et al.
+
+NeuroImage 181 (2018) 301–313
+respectively. Mean percent signal change across each amygdala ROI was
+distribution, where N and P correspond to the sample size and number of
+extracted for all participants from the output of the second level model.
+
+model parameters, respectively. When outliers were removed from the
+The functional ROI for the right amygdala was used to extract the
+analysis they were also removed from the corresponding figure(s). Across
+timeseries, which was deconvolved (Gitelman et al., 2003) prior to
+all tests, 4 model outliers had extreme motion and 2 model outliers had
+computing the psychophysiological interaction (PPI) for the connectivity
+extreme values in change in FFMQ non-reactivity, where points greater
+analysis. We then ran a second model to examine right amygdala-VMPFC
+than 3 standard deviations (SD) from the mean are considered extreme.
+
+connectivity, which included (in this order) all the regressors as the basic
+Thirty-seven percent of model outliers were outliers in multiple statistical
+task model described above (9 task regressors and 24 motion regressors),
+tests. All findings remain consistent when outliers are included in the
+a PPI regressor for each of the 3 task conditions (negative, neutral and
+model, except in 3 cases as noted in the text. When comparing model
+positive IAPS), as well as the right amygdala seed timeseries, otherwise
+outliers from all tests (N ¼ 38) we found that the outlier participants had
+known as the gPPI approach (McLaren et al., 2012). The regressors were significantly more motion (p ¼ 0.02) and lower non-reactivity
+not orthogonalized. We computed contrasts for negative versus neutral
+(p ¼ 0.003) compared to participants who never appear as outliers
+and positive versus neutral PPIs, which were then used for a group level
+(N ¼ 117). Descriptive statistics for all variables are available in Table 1.
+
+connectivity analysis from which we extracted values from a MPFC ROI
+based on the Harvard-Oxford Atlas containing 976 voxels (depicted in
+purple in Fig. 2a). We used an anatomical mask for MPFC as we did not
+3.1. Mindfulness meditation practice and amygdala reactivity: analytic
+have an independent, functional localizer for this region. We also did not
+strategy
+want to restrict the ROI based on a different task or analysis, which may
+not include regions of VMPFC that are differentially connected to
+We tested for group differences in amygdala reactivity to affective
+amygdala due to training in mindfulness meditation. Statistical analysis
+pictures, as assessed via BOLD fMRI signal for the contrast of negative
+for regions of interest was done using the lm function from the stats
+(NEG) and positive (POS) picture trials minus neutral (NEU) picture trials
+package in the statistical analysis software R (R Core Team, 2015; version (hereafter referred to as NEGPOS > NEU). As our hypotheses were spe-3.2.2), and p-value computation used the model Summary function of the
+cific to the amygdala (and its connectivity with VMPFC), we focused on
+lmSupport package (Curtin, 2015).
+
+the ROI analysis. However, a whole-brain, voxelwise analysis did not
+reveal any regions in which there were differences between groups
+3. Results
+(neither for LTM versus MNP, nor MBSR versus HEP post-intervention
+controlling for baseline).
+
+All results are reported after removing outliers based on Cook's D
+Significant clusters for LTM and MNP for each contrast of interest are
+using a cutoff threshold of 4/(N-P) for data points disconnected from the
+presented in Table 3, and for MBSR and HEP participants at T2 (con-
+trolling for T1) in Table 4. Un-thresholded statistical maps for each group Table 1
+Descriptive statistics by group including mean (M), standard deviation (SD), minimum (Min), and maximum (Max) for all variables reported in the Results section. Pre-and post-intervention statistics are presented for the right amygdala. LTM ¼ long-term meditators; MNP ¼ meditation-naïve participants; MBSR ¼ randomized to Mindfulness-Based Stress Reduction; HEP ¼ randomized to health enhancement program control intervention; T1¼pre-intervention; T2¼post-intervention; NEG ¼ negative IAPS; POS ¼ positive IAPS; NEU ¼ neutral IAPS.
+
+Right amygdala activation
+NEGPOS > NEU
+NEG > NEU
+POS > NEU
+Group
+M
+SD
+Min
+Max
+M
+SD
+Min
+Max
+M
+SD
+Min
+Max
+LTM
+0.02
+0.13
+0.34
+0.28
+0.06
+0.14
+0.37
+0.33
+0.02
+0.16
+0.38
+0.22
+MNP
+0.12
+0.22
+0.93
+1.11
+0.15
+0.24
+0.51
+1.13
+0.11
+0.25
+1.35
+1.03
+T1 MBSR
+0.13
+0.17
+0.32
+0.60
+0.16
+0.21
+0.49
+0.55
+0.09
+0.17
+0.16
+0.60
+T1 HEP
+0.11
+0.19
+0.23
+0.80
+0.11
+0.25
+0.37
+1.09
+0.11
+0.18
+0.16
+0.53
+T2 MBSR
+0.05
+0.20
+0.49
+0.52
+0.13
+0.20
+0.20
+0.71
+0.02
+0.26
+0.80
+0.75
+T2 HEP
+0.11
+0.16
+0.35
+0.41
+0.15
+0.19
+0.36
+0.71
+0.06
+0.20
+0.45
+0.59
+Left amygdala activation
+NEGPOS > NEU
+NEG > NEU
+POS > NEU
+Group
+M
+SD
+Min
+Max
+M
+SD
+Min
+Max
+M
+SD
+Min
+Max
+LTM
+0.08
+0.17
+0.45
+0.42
+0.10
+0.22
+0.40
+0.64
+0.06
+0.21
+0.61
+0.43
+MNP
+0.11
+0.25
+0.41
+1.07
+0.15
+0.26
+0.58
+1.01
+0.08
+0.28
+0.57
+1.09
+Right amygdala-VMPFC PPI
+Self-reported non-reactivity (FFMQ)
+NEG > NEU
+POS > NEU
+Group
+M
+SD
+Min
+Max
+M
+SD
+Min
+Max
+M
+SD
+Min
+Max
+LTM
+0.20
+0.40
+0.42
+1.34
+0.00
+0.27
+0.55
+0.69
+28.77
+4.32
+15
+35
+MNP
+0.03
+0.42
+2.18
+1.77
+0.04
+0.33
+1.12
+1.64
+23.42
+3.91
+14
+33
+T1 MBSR
+0.02
+0.61
+2.21
+1.81
+0.10
+0.46
+1.15
+1.69
+23.44
+3.93
+15
+33
+T1 HEP
+0.08
+0.38
+0.85
+0.75
+0.01
+0.24
+0.47
+0.53
+23.49
+4.25
+14
+31
+T2 MBSR
+0.21
+0.40
+0.88
+0.93
+0.08
+0.34
+0.63
+0.86
+25.16
+4.37
+17
+35
+T2 HEP
+0.07
+0.25
+0.58
+0.52
+0.06
+0.27
+0.64
+0.72
+24.63
+4.14
+9
+32
+Percent pictures categorized as neutral
+Negative
+Positive
+Neutral
+Group
+M
+SD
+Min
+Max
+M
+SD
+Min
+Max
+M
+SD
+Min
+Max
+LTM
+0.20
+0.26
+0.00
+1.00
+0.37
+0.24
+0.04
+1.00
+0.58
+0.22
+0.21
+1.00
+MNP
+0.08
+0.10
+0.00
+0.50
+0.18
+0.16
+0.00
+0.75
+0.52
+0.19
+0.12
+1.00
+304
+
+
+T.R.A. Kral et al.
+
+NeuroImage 181 (2018) 301–313
+Table 2
+Summary of statistical results for all tests reported in the Results section, including degrees of freedom (df), t-value, p-value, parameter estimates (b), and confidence intervals (CI). LTM ¼ long-term meditators; MNP ¼ meditation-naïve participants; MBSR ¼ randomized to Mindfulness-Based Stress Reduction; HEP ¼ randomized to health enhancement program control intervention; NEG ¼ negative IAPS; POS ¼ positive IAPS; NEU ¼ neutral IAPS.
+
+Right amygdala activation (NEGPOS > NEU)
+Left amygdala activation (NEGPOS > NEU)
+df
+t
+b
+p
+CI
+df
+t
+b
+p
+CI
+LTM vs MNP
+145
+2.66
+0.09
+0.01
+[0.02, 0.15]
+LTM vs MNP
+146
+0.12
+0.01
+0.90
+[0.09, 0.08]
+MBSR vs HEP
+64
+1.45
+0.06
+0.15
+[0.01, 0.47]
+MBSR vs HEP
+64
+1.15
+0.07
+0.25
+[0.19, 0.05]
+Right amygdala activation (NEG > NEU)
+Left amygdala activation (NEG > NEU)
+df
+t
+b
+p
+CI
+df
+t
+b
+p
+CI
+LTM vs MNP
+145
+1.65
+0.06
+0.10
+[0.01, 0.14]
+LTM vs MNP
+145
+0.53
+0.03
+0.60
+[0.07, 0.13]
+MBSR vs HEP
+57
+1.84
+0.06
+0.07
+[0.13, 0.01]
+MBSR vs HEP
+63
+0.76
+0.05
+0.45
+[0.18, 0.08]
+Right amygdala activation (POS > NEU)
+Left amygdala activation (POS > NEU)
+df
+t
+b
+p
+CI
+df
+t
+b
+p
+CI
+LTM vs MNP
+147
+3.86
+0.13
+0.001
+[0.06, 0.21]
+LTM vs MNP
+146
+0.33
+0.02
+0.75
+[0.11, 0.08]
+MBSR vs HEP
+58
+2.65
+0.10
+0.01
+[0.18, 0.02]
+MBSR vs HEP
+59
+1.54
+0.08
+0.13
+[0.19, 0.02]
+Right amygdala-VMPFC PPI (NEG > NEU)
+Right amygdala-VMPFC PPI (POS > NEU)
+df
+t
+b
+p
+CI
+df
+t
+b
+p
+CI
+LTM vs MNP
+145
+1.29
+0.09
+0.20
+[0.23, 0.05]
+LTM vs MNP
+149
+0.71
+0.05
+0.48
+[0.17, 0.02]
+LTM Retreat
+27
+0.18
+0.01
+0.86
+[0.12, 0.14]
+LTM Retreat
+28
+0.08
+0.003
+0.93
+[0.08, 0.09]
+Practice
+Practice
+LTM OM
+25
+0.37
+0.02
+0.72
+[0.10, 0.15]
+LTM OM
+26
+0.17
+0.01
+0.87
+[0.07, 0.09]
+Retreat
+Retreat
+LTM Daily
+26
+0.35
+0.05
+0.73
+[0.23, 0.32]
+LTM Daily
+28
+0.05
+0.003
+0.96
+[0.16, 0.16]
+Practice
+Practice
+MBSR vs HEP
+62
+3.99
+0.29
+<0.01
+[0.15, 0.44]
+MBSR vs HEP
+58
+2.57
+0.16
+0.01
+[0.04, 0.29]
+MBSR
+28
+1.65
+<0.01
+0.11
+[0.00, 0.00]
+MBSR
+29
+1.20
+<0.01
+0.24
+[0.00, 0.00]
+Practice
+Practice
+Meditation time vs right amygdala activation (NEG > NEU)
+Meditation time vs right amygdala activation (POS > NEU)
+df
+t
+b
+p
+CI
+df
+t
+b
+p
+CI
+LTM Retreat
+25
+2.10
+0.03
+0.05
+[0.07, 0.00]
+LTM Retreat
+25
+0.72
+0.02
+0.50
+[0.07, 0.03]
+LTM OM
+23
+2.62
+0.04
+0.02
+[0.06, 0.01]
+LTM OM
+23
+0.95
+0.02
+0.35
+[0.07, 0.03]
+Retreat
+Retreat
+LTM Daily
+25
+0.48
+0.02
+0.64
+[0.09, 0.05]
+LTM Daily
+25
+0.51
+0.02
+0.62
+[0.12, 0.07]
+MBSR
+26
+1.19
+<0.01
+0.24
+[0.00, 0.00]
+MBSR
+28
+0.17
+<0.01
+0.87
+[0.00, 0.00]
+Minutes
+Minutes
+Self-reported non-reactivity (FFMQ)
+df
+t
+b
+p
+CI
+df
+t
+b
+p
+CI
+LTM vs MNP
+151
+6.61
+4.92
+<0.01
+[6.39, 0.36]
+MBSR vs HEP
+57
+0.48
+0.28
+0.64
+[1.48, 0.91]
+Non-reactivity vs right amygdala activation (NEG > NEU)
+Non-reactivity vs right amygdala activation (POS > NEU)
+df
+t
+b
+p
+CI
+df
+t
+b
+p
+CI
+LTMþMNP
+148
+1.33
+2.19
+0.19
+[5.43. 1.06]
+LTMþMNP
+148
+3.20
+5.38
+<0.01
+[8.70, 2.06
+MBSRþHEP
+60
+1.51
+3.10
+0.14
+[0.99, 7.00]
+MBSRþHEP
+53
+1.67
+2.81
+0.10
+[0.57, 6.20]
+Percent pictures categorized as neutral
+LTM vs MNP
+df
+t
+b
+p
+CI
+LTM vs MNP
+df
+t
+b
+p
+CI
+NEG IAPS
+119
+2.18
+0.04
+0.03
+[0.08, 0.01]
+All IAPS
+122
+2.52
+0.07
+0.01
+[0.12, 0.01
+POS IAPS
+122
+3.77
+0.14
+<0.01
+[0.22, 0.07]
+NEU IAPS
+120
+0.45
+0.02
+0.65
+[0.11, 0.07]
+for these contrasts are also available at NeuroVault: https://neurovault.
+
+difference for the contrast NEG > NEU (t(145) ¼ 1.65, b ¼ 0.06,
+org/collections/3755/.
+
+p ¼ 0.10, CI ¼ [-0.01,0.14], 1 LTM and 3 MNP outliers removed, partial
+r ¼ 0.11; Fig. 1a). When outliers were included in the model the group 3.2. Long-term mindfulness meditation practice and amygdala reactivity
+difference for NEG > NEU was significant (p ¼ 0.05). Results of all sta-
+tistical tests, including non-significant results for the left amygdala, are
+Long-term meditators had significantly lower right amygdala activa-
+reported in Table 2.
+
+tion than meditation-naïve participants for the contrast NEGPOS > NEU
+While participants' valence categorization of the pictures was inten-
+(t(145) ¼ 2.66, b ¼ 0.09, p ¼ 0.01, CI ¼ [0.02,0.15], 1 LTM and 3 MNP
+ded to keep their attention on-task, rather than as a behavioral assay of
+outliers removed, partial r ¼ 0.20). In order to decompose this effect, we
+emotion regulation or reactivity, we examined these behavioral re-
+conducted separate analyses on the negative and positive picture trials.
+
+sponses in an exploratory fashion. Due to a technical error, button presses
+Long-term meditators had significantly lower right amygdala activation
+for 84 participants were not recorded during the scan: 23 participants (5
+for POS > NEU than meditation-naïve participants (t(147) ¼ 3.86,
+LTM) were completely missing the categorization data, and 61 partici-
+b ¼ 0.13, p ¼ 0.001, CI ¼ [0.06,0.21], 2 MNP outliers removed, partial
+pants (11 LTM) categorized the pictures online after the scan. We
+r ¼ 0.26; Fig. 1b), however there was only a marginal, non-significant included a covariate to control for whether participants' behavioral data
+305
+
+
+T.R.A. Kral et al.
+
+NeuroImage 181 (2018) 301–313
+Table 3
+Significant clusters for long-term meditators (LTM) and meditation-naïve participants (MNP) at baseline (T1) (cluster-forming threshold Z > 3.1 and family-wise error corrected cluster significance threshold of p ¼ 0.05). NEG ¼ negative IAPS; POS ¼ positive IAPS; NEU ¼ neutral IAPS.
+
+Region (Peak)
+Peak
+Max (Z)
+X
+Y
+Z
+Volume (mm)
+NEGPOS > NEU
+LTM
+Precuneus
+5.8
+4
+60
+22
+1138
+Occipital Pole
+4.5
+4
+90
+4
+845
+Left Inferior Lateral Occipital Cortex
+4.4
+50
+74
+10
+487
+Right Temporal Pole
+4.2
+48
+22
+20
+219
+Right Inferior Lateral Occipital Cortex
+4.1
+46
+62
+8
+177
+MNP
+Right Amygdala
+8.9
+24
+10
+12
+7561
+Right Superior Temporal Gyrus
+9.1
+48
+64
+10
+6628
+Precuneus
+9.9
+2
+60
+28
+3208
+Left Inferior Lateral Occipital Cortex
+8.4
+48
+74
+10
+3123
+Superior Frontal Gyrus
+6.5
+6
+56
+24
+2740
+Right Superior Parietal Lobule
+4.2
+22
+46
+72
+353
+NEG > NEU
+LTM
+Right Superior Temporal Gyrus
+4.8
+58
+4
+14
+455
+Precuneus
+4.4
+6
+48
+42
+449
+Middle Temporal Gyrus
+4.0
+56
+60
+8
+315
+Occipital Pole
+3.9
+4
+92
+2
+163
+MNP
+Right Amygdala
+9.3
+24
+8
+10
+3782
+Left Lateral Occipital Cortex
+8.3
+54
+64
+12
+2767
+Middle Temporal Gyrus
+7.8
+46
+58
+14
+2330
+Precuneus
+6.9
+4
+52
+48
+2050
+Left Amygdala
+8.6
+28
+12
+14
+1987
+Right Occipital Pole
+6.3
+24
+98
+4
+770
+Left Occipital Pole
+5.9
+14
+100
+0
+546
+Superior Frontal Gyrus
+5.6
+6
+50
+32
+511
+Right Anterior Supramarginal Gyrus
+5.3
+68
+24
+34
+429
+Left Anterior Supramarginal Gyrus
+4.0
+58
+28
+28
+313
+Left Subcallosal Cortex
+5.6
+2
+0
+12
+258
+POS > NEU
+LTM
+Precuneus
+5.7
+4
+60
+24
+1071
+Occipital Pole
+5.0
+2
+90
+14
+729
+Left Lateral Occipital Cortex
+4.8
+40
+70
+40
+331
+Frontal Pole
+4.8
+10
+66
+8
+252
+MNP
+Precuneus
+11.2
+0
+62
+30
+32,003
+Left Hippocampus
+6.6
+24
+18
+12
+933
+Right Fusiform Cortex
+6.0
+44
+54
+20
+323
+Left Temporal Pole
+4.5
+48
+2
+24
+271
+Left Middle Temporal Gyrus
+5.1
+66
+10
+16
+260
+was collected concurrently in the scanner, or online afterward, and the
+powerful, and more statistically appropriate, ANCOVA analytical
+results are consistent whether or not this covariate is included. Including
+approach as opposed to a repeated measures analysis of variance
+all the available data, LTM categorized a significantly higher proportion
+(ANOVA) (Van Breukelen, 2006). We computed the contrast NEG-
+of the pictures as neutral compared to MNP (t(122) ¼ -2.52, b ¼ 0.07,
+POS > NEU to examine the impact of MBSR on emotional reactivity, and
+p ¼ 0.01, CI ¼ [-0.12, 0.02]). Upon further inspection of this group
+there was no post-intervention group difference in right amygdala acti-
+difference broken down by the standardized IAPS valence categories, we
+vation between MBSR and HEP (t(64) ¼ -1.45, b ¼ 0.06, p ¼ 0.15,
+found that the LTM categorized significantly more pictures as neutral
+CI ¼ [-0.01,0.47], partial r ¼ 0.23; controlling for pre-treatment base-
+than MNP for the negative IAPS pictures (t(119) ¼ - 2.18, b ¼ 0.04,
+line). In light of the differences between long-term meditators and
+p ¼ 0.03, CI ¼ [-0.08, 0.004], 2 MNP and 1 LTM outliers removed), and
+meditation-naïve participants specific to positive pictures, we also con-
+positive IAPS pictures (t(122) ¼ -3.77, b ¼ 0.14, p < 0.001, CI ¼ [-0.22,
+ducted analyses separately for each valence contrast. Participants who
+0.07]). There was no difference between groups in the percentage of
+trained in MBSR had significantly lower right amygdala activation for the
+neutral IAPS pictures categorized as neutral (t(120) ¼ -0.45, b ¼ 0.02,
+contrast POS > NEU compared to participants who trained in HEP
+p ¼ 0.65, CI ¼ [-0.11, 0.07], 2 LTM outliers removed). The percent of
+(t(58) ¼ -2.65, b ¼ 0.10, p ¼ 0.01, CI ¼ [-0.18,- 0.02], 3 MBSR and 3
+negative and positive pictures that LTM categorized as neutral did not
+HEP outliers removed], partial r ¼ 0.31; Fig. 2b), while controlling for relate to the intensity of amygdala activation for NEGPOS > NEU
+pre-treatment baseline. There were no baseline differences in right
+(t(20) ¼ 0.87, b ¼ 0.15, p ¼ 0.39, CI ¼ [-0.21, 0.52]).
+
+amygdala activation for POS > NEU in the same set of participants
+(t(59) ¼ -0.38, b ¼ 0.01, p ¼ 0.71, CI ¼ [-0.09,0.06]). Similar to the
+results for long-term practice, participants who trained in MBSR had only
+3.3. Short-term mindfulness meditation practice and amygdala reactivity
+marginally, and non-significantly lower right amygdala activation to the
+contrast NEG > NEU compared to HEP training (t(57) ¼ -1.84, b ¼ 0.06,
+In order to determine whether short-term meditation training would
+p ¼ 0.07, CI ¼ [-0.13,0.01], 4 MBSR and 3 HEP outliers removed], partial
+lead to similar reductions in amygdala reactivity to affective pictures as
+r ¼ 0.37), while controlling for pre-treatment baseline. When outliers
+seen with long-term training, we compared post-training right amygdala
+were included in the model the group difference for NEG > NEU was
+activation in participants randomized to MBSR with the active control
+non-significant (p ¼ 0.46). There were no significant differences in acti-
+condition (HEP), while controlling for pre-treatment baseline activation
+vation for the left amygdala (Table 2). We were unable to compare
+(i.e. an analysis of covariance approach – ANCOVA). Since participants
+post-training differences in behavioral categorizations while controlling
+were randomized to either MBSR or HEP subsequent to pre-treatment
+for baseline, due to a technical error by which many of the button presses
+(i.e. baseline) data collection we were able to leverage this more
+306
+
+
+T.R.A. Kral et al.
+
+NeuroImage 181 (2018) 301–313
+Table 4
+Significant clusters for participants following training (T2) in Mindfulness-Based Stress Reduction (MBSR) or the health enhancement program (HEP) control intervention, controlling for baseline (T1) with a voxel-wise regressor (cluster-forming threshold Z > 3.1 and family-wise error corrected cluster significance threshold of p ¼ 0.05). NEG ¼ negative IAPS; POS ¼ positive IAPS; NEU ¼ neutral IAPS.
+
+Region (Peak)
+Peak
+Max (Z)
+X
+Y
+Z
+Volume (mm)
+NEGPOS > NEU
+MBSR
+Left Inferior Lateral Occipital Cortex
+6.7
+58
+68
+10
+1864
+Right Middle Temporal Gyrus
+5.6
+50
+52
+10
+1741
+Right Superior Lateral Occipital Cortex
+4.7
+24
+82
+42
+260
+Left Superior Lateral Occipital Cortex
+4.7
+18
+84
+42
+200
+HEP
+Left Middle Temporal Gyrus
+6.8
+48
+62
+6
+3439
+Right Inferior Lateral Occipital Cortex
+5.7
+50
+62
+4
+1859
+Right Superior Parietal Lobule
+5.6
+16
+56
+60
+1286
+Left Supramarginal Gyrus
+4.6
+58
+30
+36
+573
+Right Supramarginal Gyrus
+4.6
+56
+30
+38
+448
+Right Superior Lateral Occipital Cortex
+5.3
+24
+82
+40
+439
+Left Occipital Pole
+4.7
+20
+92
+26
+433
+Right Intracalcarine Sulcus
+4.5
+14
+82
+12
+266
+Left Amygdala
+4.8
+26
+8
+12
+258
+Right Amygdala
+4.5
+18
+2
+10
+220
+Right Precentral Gyrus
+4.4
+50
+6
+28
+175
+NEG > NEU
+MBSR
+Left Inferior Lateral Occipital Cortex
+6.3
+48
+64
+12
+5334
+Right Lingual Gyrus
+6.6
+16
+64
+6
+4083
+Right Precentral Gyrus
+4.8
+48
+8
+28
+898
+Midbrain
+5.8
+2
+32
+6
+285
+Right Putamen
+4.3
+30
+16
+8
+167
+Precuneus
+4.3
+0
+54
+60
+154
+HEP
+Left Intracalcarine Cortex
+6.6
+8
+84
+4
+15,429
+Midbrain
+6.2
+2
+30
+8
+2627
+Precuneus
+4.7
+8
+52
+52
+1343
+Right Precentral Gyrus
+5.2
+50
+4
+30
+1254
+Left Supramarginal Gyrus
+5.5
+60
+36
+44
+1066
+Left Precentral Gyrus
+5.1
+46
+0
+36
+1065
+Right Supramarginal Gyrus
+4.3
+64
+28
+30
+440
+Right Amygdala
+5.8
+18
+2
+10
+414
+Occipital Pole
+4.7
+32
+26
+6
+257
+POS > NEU
+MBSR
+Right Inferior Lateral Occipital Cortex
+5.5
+52
+68
+10
+828
+Left Inferior Lateral Occipital Cortex
+6.2
+58
+66
+10
+705
+HEP
+Left Middle Temporal Gyrus
+6.4
+46
+62
+8
+1109
+Right Inferior Lateral Occipital Cortex
+6.2
+48
+64
+2
+1108
+Right Superior Parietal Lobule
+5.1
+26
+44
+46
+1062
+Right Superior Lateral Occipital Cortex
+4.7
+24
+82
+40
+172
+Fig. 1. Long-term meditation training is associated with lower right amygdala reactivity to emotional pictures. Long-term meditators (LTM) had lower right amygdala activation for the negative versus neutral pictures at a trend level (a), and significantly lower activation for positive versus neutral pictures than mediation-naïve participants (MNP; b). Greater lifetime hours of open monitoring (OM) retreat practice predicted lower right amygdala activation for negative versus neutral pictures, controlling for age (c). The independently defined right amygdala region of interest from which mean percent signal change data were extracted is inset in each panel.
+
+Circles represent raw data points in a and b, and the raw data are adjusted for age in c. Error bars and envelopes are 95% confidence intervals around the point estimates.
+
+307
+
+
+T.R.A. Kral et al.
+
+NeuroImage 181 (2018) 301–313
+Fig. 2. Short-term meditation training causes less right amygdala reactivity and greater connectivity with VMPFC in response to emotional pictures. The ventral medial prefrontal cortex (VMPFC) region of interest (purple) from which we extracted mean psychophysiological interaction (PPI) weights (represented by the dashed line) with the right amygdala ROI (green) is inset in panel b. Participants had lower right amygdala activation following Mindfulness-Based Stress Reduction (MBSR) compared to the Health Enhancement Program (HEP) for positive versus neutral pictures (a), and increased right amygdala-VMPFC PPI for negative versus neutral pictures (b), and for positive versus neutral pictures (c). Analyses and data points are adjusted for pre-treatment baseline activation, and error bars are 95% confidence intervals around the point estimates.
+
+were not recorded, and most participants were lacking data at both
+results remained the same when age was not included as a covariate.
+
+time-points.
+
+The total minutes of MBSR training (during class and at home) was
+All subsequent analyses focused on the right amygdala, since the
+not associated with amygdala activation for NEG > NEU following
+group differences in amygdala reactivity were limited to the right side,
+training (t(26) ¼ -1.19, b < 0.01, p ¼ 0.24, CI ¼ [0.00,0.00], 3 outliers
+and the contrasts were kept separate by valence due to differential effects
+removed), nor with amygdala activation for POS > NEU (t(28) ¼ 0.17,
+by valence.
+
+b < 0.01, p ¼ 0.87, CI ¼ [0.00,0.00], 1 outlier removed), while control-
+ling for pre-treatment baseline.
+
+3.4. Practice duration and amygdala reactivity
+3.5. Relation between amygdala activation and self-reported reactivity
+The long-term meditator group had considerable variability in self-
+reported total lifetime daily practice (mean ¼ 4281(2817) hours,
+We tested whether amygdala activation was associated with a self-
+range ¼ 954–13,605 h)
+and
+in
+total
+lifetime
+retreat
+practice
+report measure of emotional reactivity – the non-reactivity sub-scale of
+(mean ¼ 4658 h, range ¼ 258–29,710 h), which allowed us to test
+the FFMQ (Baer et al., 2006). Example items from the non-reactivity scale whether the amount of self-reported practice accounted for significant
+include: “When I have distressing thoughts or images, I just notice them
+variance in amygdala activation. The distribution of lifetime hours of
+and let them go”, and “I watch my feelings without getting lost in them”.
+
+practice was skewed, so all practice variables were log-transformed prior
+Participants (across LTM and MNP groups) with higher self-reported
+to analysis. We controlled for age in the following analyses, as it was
+emotional non-reactivity had lower amygdala activation for the contrast
+correlated with log total practice time (r ¼ 0.30 with daily practice, and
+POS > NEU (t(148) ¼ -3.20, b ¼ 5.38, p < 0.01, CI ¼ [-8.70,-2.06],
+r ¼ 0.15 with retreat practice), and 2 outliers were removed from all of
+partial r ¼ 0.24), and this relationship remained significant when con-
+the analyses with practice hours. One of the two model outliers was also
+trolling for social desirability as measured with the Marlowe-Crowne
+an extreme point (greater than 3 SD from the mean) with regard to
+Social Desirability questionnaire (MCSD; Fig. 3a; t(147) ¼ -3.05,
+amygdala activation for NEG > NEU.
+
+b ¼ 4.79, p < 0.01, CI ¼ [- 7.88,-1.69]). This relationship was specific to
+Long-term meditators with greater total lifetime hours of retreat
+the non-reactivity sub-scale, as total FFMQ scores, which served as a
+practice had the lowest amygdala activation for the contrast NEG > NEU
+measure of “mindfulness”, were not associated with amygdala activation
+(t(25) ¼ -2.10, b ¼ 0.03, p ¼ 0.05, CI ¼ [-0.07,-0.001]). Due to the het-
+for the contrast POS > NEU (t(148) ¼ -1.57, b ¼ 9.70, p ¼ 0.12, CI ¼ [-
+erogeneous nature of meditation practices employed on retreats, we also
+21.9,2.54]). There was no relationship between amygdala activation for
+conducted post-hoc analysis to test whether this relationship was true
+NEG > NEU with FFMQ non-reactivity (t(148) ¼ -1.33, b ¼ 2.19,
+specifically for the type of meditation practice that is most similar to that
+p ¼ 0.19, CI ¼ [-5.43,1.06]), nor with total FFMQ scores (t(148) ¼ -0.33,
+taught in MBSR — Vipassana (i.e. OM) retreat practice. Greater total
+b ¼ 1.92, p ¼ 0.74, CI ¼ [-13.44, 9.60]). One MNP model outlier was
+lifetime hours of OM retreat practice was negatively associated with
+removed from each of these analyses, and this participant was also an
+amygdala activation for the contrast NEG > NEU (t(23) ¼ -2.62,
+extreme point with regard to self-reported non-reactivity. In line with the
+b ¼ 0.04, p ¼ 0.02, partial r ¼ 0.47, CI ¼ [-0.06,-0.01]; Fig. 1c).1 This group differences in emotional reactivity as measured by amygdala
+relationship was not significant for total lifetime hours of daily practice
+activation, LTM reported greater non-reactivity on the FFMQ than MNP
+(t(25) ¼ -0.48, b ¼ 0.02, p ¼ 0.64, CI ¼ [-0.09,0.05]). There were no
+while controlling for social desirability from MCSD (Fig. 3b; t(151) ¼ -
+significant relationships between amygdala activation for the contrast
+7.25, b ¼ 5.36, p < 0.001, CI ¼ [-6.83,-3.90], 1 LTM outlier removed,
+POS > NEU and any of the measures of lifetime practice (Table 2). All the partial r ¼ 0.53).
+
+The post-training amygdala activation for the contrast POS > NEU in
+MBSR and HEP participants did not predict post-training self-reported
+1 Two participants did not report retreat hours specific to OM practice, and so
+non-reactivity (FFMQ; t(53) ¼ 1.67, b ¼ 2.81, p ¼ 0.10, CI ¼ [-0.57,6.20],
+the degrees of freedom are different for models that include this variable.
+
+4 MBSR and 5 HEP outliers removed), nor for NEG > NEU (t(60) ¼ 1.51,
+308
+
+
+T.R.A. Kral et al.
+
+NeuroImage 181 (2018) 301–313
+Fig. 3. Reactivity in self-report and in right amygdala. Higher self-reported non-reactivity on the Five Facet Mindfulness Questionnaire (FFMQ) predicted lower right amygdala activation for positive versus neutral pictures (a). The independently defined right amygdala region of interest from which mean percent signal change data were extracted is inset in panel a. Long-term meditators (LTM) had overall higher self-reported non-reactivity than meditation-naive participants (MNP) (b). Example items from the non-reactivity scale include: “When I have distressing thoughts or images, I just notice them and let them go”, and “I watch my feelings without getting lost in them”. Error bars and envelopes are 95% confidence intervals around the point estimates.
+
+b ¼ 3.10, p ¼ 0.14, CI ¼ [-0.99,7.00], 1 MBSR and 1 HEP outlier
+difference for PPI effect of NEG > NEU was significant (p ¼ 0.05). One
+removed), while controlling for baseline activation and baseline self-
+LTM and one MNP model outlier were also extreme points with regard to
+reported non-reactivity. Nor was there a group difference between
+the NEG > NEU PPI effect. There was no group difference in amygdala-
+MBSR and HEP in self-reported non-reactivity following training while
+VMPFC PPI for the contrast of POS > NEU (t(149) ¼ -0.71, b ¼ 0.05,
+controlling for baseline (t(57) ¼ -0.28, b ¼ 0.28, p ¼ 0.64, CI ¼ [-
+p ¼ 0.48, CI ¼ [-0.17,0.08]), nor was there significant amygdala-VMPFC
+1.48,0.91], 3 MBSR and 3 HEP outliers removed).
+
+PPI for this contrast for either LTM (t(29) ¼ 0.04, b ¼ 0.002, p ¼ 0.97,
+CI ¼ [-0.10,0.10]), nor MNP (t(120) ¼ -1.47, b ¼ 0.04, p ¼ 0.14, CI ¼ [-
+3.6. Amygdala–VMPFC functional connectivity during affective pictures:
+0.10,0.02]).
+
+analytic strategy
+Since there was a significant difference in the POS > NEU PPI effect
+by gender we also tested for group differences controlling for gender, and
+We tested for group differences in amygdala functional connectivity
+there were no changes in the result. There was no relationship between
+with an anatomically defined VMPFC ROI in order to understand the
+long-term meditators' amygdala-VMPFC PPI and any of the measures of
+potential impact of mindfulness meditation practice on amygdala reac-
+lifetime practice (Table 2). We examined the association between
+tivity in the context of functional networks associated with emotion
+amygdala-VMPFC connectivity and the behavioral categorization of af-
+regulation. We used the same functionally defined amygdala ROI as a
+fective stimuli. There was no relationship between the percentage of
+seed for a psychophysiological interaction (PPI) analysis to compare the
+positive IAPS categorized as neutral and the amygdala-VMPFC PPI effect
+relationship of the seed activation during negative versus neutral images,
+for POS > NEU (t(20) ¼ -1.05, b ¼ 0.13, p ¼ 0.31, CI ¼ [-0.37,0.13]),
+and positive versus neutral images by extracting the mean Z-values from
+and there was only a trend-level effect for percentage of negative IAPS
+VMPFC ROI for each PPI. A positive PPI result implies the slope between
+categorized as neutral and the PPI effect for NEG > NEU (t(19) ¼ 1.73,
+the BOLD response in the amygdala and the target voxels in VMPFC was
+b ¼ 0.12, p ¼ 0.099, CI ¼ [-0.02,0.27]; 1 outlier removed).
+
+larger during negative than neutral pictures (or during positive versus
+neutral pictures).
+
+3.8. Short-term practice and amygdala functional connectivity
+3.7. Long-term practice and amygdala functional connectivity
+We also investigated amygdala-VMPFC functional connectivity to
+determine if MBSR training enhanced connectivity of this emotion
+Long-term meditators had a significantly positive right amygdala-
+regulation circuit. These analyses utilized the identical VMPFC ROI used
+VMPFC PPI during NEG > NEU (t(27) ¼ 2.17, b ¼ 0.13, p ¼ 0.04,
+in the analyses with LTM. Participants randomly assigned to MBSR had
+CI ¼ [0.01,0.24], 2 outliers removed), while for MNPs the right
+greater post-treatment amygdala-VMPFC PPI than HEP participants
+amygdala-VMPFC PPI for this contrast was not significant (t(118) ¼ 1.17,
+during NEG > NEU (t(62) ¼ 3.99, b ¼ 0.29, p < 0.001, CI ¼ [0.15,0.44], 2
+b ¼ 0.04, p ¼ 0.25, CI ¼ [-0.03,0.10], 2 outliers removed), though the
+MBSR outliers removed, partial r ¼ 0.42; Fig. 2b), as well as for
+difference between the groups was not significant (t(145) ¼ -1.29,
+POS > NEU (t(58) ¼ 2.57, b ¼ 0.16, p ¼ 0.01, CI ¼ [0.04,0.29], 4 MBSR
+b ¼ 0.09, p ¼ 0.20, CI ¼ [- 0.23,0.05], 2 LTM and 2 MNP outliers
+and 2 HEP outliers removed, partial r ¼ 0.30; Fig. 2c), while controlling removed). When outliers were included in the model the group
+for pre-treatment baseline. Since there was a significant difference in the
+309
+
+
+T.R.A. Kral et al.
+
+NeuroImage 181 (2018) 301–313
+POS > NEU PPI effect by gender (at baseline), and a significant difference
+short-term mindfulness training showed a similar pattern: a reduction in
+in change in the NEG > NEU PPI effect by age, we also tested for group
+amygdala reactivity specifically in response to positive images but not
+differences controlling for these variables in each model (respectively),
+negative images when compared to HEP and controlling for the pre-
+and there were no changes in the results. There was no relationship be-
+treatment baseline activation. These results are consistent with prior
+tween amygdala-VMPFC PPI connectivity and total practice with MBSR
+work that meditation training decreased amygdala reactivity to positive
+(Table 2). There were no significant differences in baseline PPI measures pictures (Desbordes et al., 2012). Mindfulness meditation provides
+between groups in the same sample of participants for NEG > NEU
+training in paying attention to thoughts and emotions as they unfold
+(t(63) ¼ -.53, b ¼ 0.05, p ¼ 0.60, CI ¼ [-0.23,0.13]), or for POS > NEU
+naturally and allowing them to pass without trying to avoid discomfort or
+(t(59) ¼ -1.92, b ¼ 0.14, p ¼ 0.06, CI ¼ [-0.28,0.01]).
+
+to grasp onto pleasant experiences. One mechanism that could lead to
+decreased emotional reactivity with practice in mindfulness meditation is
+4. Discussion
+through increased exposure to the arising and passing of emotions
+accompanied by this new habit of attending to the experience
+We rigorously tested the relationship between mindfulness medita-
+non-reactively. Recent evidence that behavioral measures of mindfulness
+tion training and affective processing by combining a cross-sectional
+were associated with decreased attentional capture to rewarding stimuli
+design comparing long-term mediators to non-mediators with an RCT
+provide additional evidence for this interpretation (Levinson et al.,
+comparing MBSR and HEP. We were able to examine mechanisms un-
+2014). Importantly, decreased non-reactivity of the amygdala to positive derlying changes in affective processing by examining both amygdala
+stimuli does not preclude increased pleasure or liking of positive stimuli,
+reactivity and connectivity with VMPFC during automatic emotion
+similar to that found in prior work showing increased positive mood with
+regulation, and in a much larger sample size than has been previously
+mindfulness training (Jain et al., 2007). Prior research has dissociated reported in the literature on the effect of mindfulness meditation on
+the neural basis of pleasure from that of the “wanting” associated with
+automatic emotion regulation (Desbordes et al., 2012). The automatic
+approach behavior (Smith et al., 2011). It is likely that the amygdala, a emotion regulation task used in this study was designed to specifically
+key node in the salience network, marks wanting more than liking
+probe participants' automatic response to emotional pictures, whereby
+whereas the work of Berridge and colleagues suggests that local circuitry
+the degree to which emotion regulation processes were automatically
+within the ventral pallidum is uniquely associated with liking (Smith
+engaged would be reflected by individual differences in the amygdala
+et al., 2011). Therefore, our findings of decreased amygdala activation to response to affective stimuli. We have argued in other contexts that this
+positive stimuli are most consistent with a decreased desire to approach
+form of emotion regulation is ubiquitous and is likely the most common
+(or grasp at) a stimulus rather than a change in pleasure or appreciation.
+
+form of emotion regulation in everyday life (Lapate et al., 2014). The Over time the practice of observing thoughts non-reactively may lead
+current study was limited to inferring that regulation occurred, as there
+to greater automatic emotion regulation similar to extinction processes
+were no measures of participants' emotional experience or regulation
+that recruit VMPFC (Phelps et al., 2004; H€
+olzel et al., 2011). The process
+strategies during the task. Inclusion of trial-by-trial questions about
+strengthened by mindfulness meditation is not a specific decrease in
+regulation strategy and/or affective experience may have altered subse-
+reactivity to negative stimuli but rather may impact emotional
+quent responses or primed participants to use an emotion regulation
+responding more generally and is consistent with the view from
+strategy, which we wanted to avoid in order to measure participants'
+contemplative traditions that this practice decreases “stickiness” – the
+natural response.
+
+power of emotions to linger and alter subsequent experience – by
+Emotional reactivity, as assessed via right amygdala activation to
+reducing the propensity to avoid unpleasant and grasp at pleasant ex-
+affective pictures (combined across positive and negative), was lower in
+periences. This is summarized nicely by H€
+olzel: “nonreactivity leads to
+participants who engaged in long-term mindfulness meditation training
+unlearning of previous connections (extinction and reconsolidation) and
+compared to controls. We tested separately by valence to decompose this
+thereby to liberation from being bound to habitual emotional reactions”
+effect and found that LTM had lower amygdala activation than MNP
+(2011). The fact that MBSR significantly increased the amygdala-VMPFC
+specifically to positive pictures, but not negative pictures (for which
+PPI effect relative to HEP training for both negative versus neutral pic-
+there was only a marginal difference between groups). The LTM also
+tures and positive versus neutral pictures lends further support to this
+reported less emotional reactivity than MNP on a questionnaire measure
+explanation, and implies a similar emotion regulatory mechanism for
+(FFMQ), however we did not find a difference in self-reported emotional
+reducing reactivity to affective stimuli independent of valence.
+
+reactivity following MBSR compared to HEP. It is possible that it requires
+While prior research has provided evidence that amygdala-VMPFC
+more practice or practice over a longer period of time to see movement
+functional connectivity correlates with improvements in emotion regu-
+on self-report measures of emotional reactivity in healthy, non-clinical
+lation, the current study had no direct, objective measures of emotion
+populations, particularly in comparison to a well-matched active con-
+regulation behavior. Future research would benefit from including such
+trol intervention.
+
+behavioral measures. The paradigm used in the current study could also
+In an exploratory analysis we also found that the LTM categorized
+be improved in future research by including more naturalistic stimuli
+more affective pictures as neutral compared to MNP. This pattern of
+personally relevant to participants, as the small-to-medium effect sizes
+behavioral results mirrors the pattern of results in the fMRI data and
+seen in the current study may in part reflect the generic nature of the
+lends further support to the hypothesis that long-term mindfulness
+stimuli and less likelihood to elicit strong, self-relevant affective
+meditation training improves emotion regulation through a reduction in
+experiences.
+
+emotional reactivity. However, we did not find a relationship between
+The fact that short-term MBSR training affected amygdala-VMPFC
+the percent of negative and positive pictures that LTM categorized as
+functional connectivity in ways that we did not detect in participants
+neutral and the amygdala activation, and there was only a trend-level
+with long-term training is revealing and implies a curvilinear trajectory
+relationship with amygdala-VMPFC connectivity during negative versus
+in the neural changes required for learning the skill of non-reactivity. On
+neutral pictures. The exploratory nature of our behavioral analysis, and
+this view, with long-term training the reduction in reactivity to affective
+the technical difficulties with recording button responses in the scanner,
+stimuli becomes more automatic such that VMPFC recruitment is less
+greatly limited inference from these results, as well as our power to detect
+necessary. This explanation aligns with subjective reports from practi-
+an effect. Future research should follow up to more carefully examine
+tioners, and with the goals and expectations of mindfulness meditation
+whether (and how) behavioral changes in valence categorization are
+practice: to practice being aware and accepting of (affective) experience
+associated with mindfulness training-related changes in self-report and
+so that over time this process becomes more automatic. The fact that we
+neurobiological measures of emotion regulation.
+
+found a relationship between hours of retreat practice and reduced
+Participants naïve to meditation who were randomly assigned to
+amygdala reactivity, but not with amygdala-VMPFC connectivity lends
+310
+
+
+T.R.A. Kral et al.
+
+NeuroImage 181 (2018) 301–313
+further support to the idea that increased connectivity may only occur at
+shown that affect labeling can serve as a form of implicit emotion regu-
+earlier stages of practice, and fits with the nonlinear dosage-response
+lation and result in dampening of the amygdala response, which was
+curve of mindfulness meditation training (Brefczynski-Lewis et al.,
+associated with increased ventrolateral PFC activation mediated by
+2007). Moreover, the lack of relationships between individual differ-
+VMPFC (Lieberman et al., 2007). While the valence labeling aspect of the ences in amygdala reactivity and the amount of MBSR practice (e.g.
+
+task likely contributed to the lack of a valence effect on the subsequent
+variation in the degree to which participants engaged in at-home prac-
+neutral face response, it also likely allowed us to more easily assess in-
+tice, or ‘homework’ during MBSR) may also indicate an important
+dividual differences in the ability to engage with automatic (i.e. implicit)
+distinction between short- and long-term practice: it may be that there is
+emotion regulation processes during the IAPS presentations.
+
+a more “all-or-nothing” effect of exposure to MBSR in terms of short-term
+Labeling experiences – including affective experiences – is also a
+effects while long-term changes may be more dependent upon practice
+component of mindfulness mediation training, and has been previously
+dosage. Longitudinal research that follows practitioners as they progress
+proposed as one possible mechanism by which such practices train
+from initial, to intermediate, and more advanced practice will be critical
+emotion regulation (Lutz et al., 2008). Prior research has found associ-to provide insight into the trajectory of affective change with mindfulness
+ations between self-reported dispositional mindfulness and reduced
+meditation.
+
+amygdala activation during affect labeling tasks (Creswell et al., 2007).
+
+Of course, the fact that short-term MBSR training produced alter-
+Therefore, participants with mindfulness meditation training may have
+ations in amygdala-VMPFC connectivity not seen among the LTM can
+more easily or robustly engaged this automatic form of emotion regula-
+also be due to other factors. All participants in the MBSR group received
+tion due to the affect labeling component of the task, possibly leading to
+the same intervention and were recruited from the same geographic
+lower amygdala reactivity. The results of the current study extend this
+community (in Madison, WI), whereas the LTM had larger variation in
+literature in novel ways by demonstrating similar effects with a much
+practice type, duration and geographic location. The LTM likely also had
+stronger, RCT design combined with cross-sectional data from LTM.
+
+greater variability in their motivations for engaging in practice. We
+The present study provides evidence that long and short-term training
+attempted to minimize such variation by recruiting LTM who had similar
+in mindfulness meditation improves automatic emotion regulation and
+practice that included primarily mindfulness-based meditation.
+
+elucidates the neural correlates of this improvement. Long and short-
+Interestingly, long term meditators' total lifetime practice while on
+term mindfulness meditation training were associated with lower
+retreat predicted reduced amygdala activation to negative pictures, while
+amygdala activation while viewing affective pictures. Short-term mind-
+total hours of non-retreat practice (i.e. totally daily practice hours over
+fulness meditation training with MBSR was also associated with a
+the lifetime) was not associated with amygdala reactivity. This effect was
+stronger amygdala-VMPFC PPI effect during negative and positive pic-
+stronger when looking specifically at retreat practice in OM meditation.
+
+tures (versus neutral) compared to the active control condition (HEP),
+All the long-term meditators had a daily practice that included OM
+while controlling for pre-treatment baseline. These findings are consis-
+meditation, and so engaging in this style of practice while on retreat
+tent with other research suggesting that engagement of prefrontal regu-
+appears to be particularly beneficial. The inverse relationship between
+latory resources may be more pronounced in the earlier stages of
+OM retreat practice and reactivity to negative IAPS, combined with non-
+mindfulness training and dissipate with longer-term practice. Taken
+significant group differences in amygdala reactivity to negative IAPS
+together, these findings provide novel evidence that training in mind-
+implies that altering the response to negative affect may require more
+fulness meditation alters the neural circuitry of automatic emotion
+intense practice over time (specifically in OM meditation).
+
+regulation, which may be instantiated early on by modulating connec-
+Retreats tend to differ from daily practice in many ways; the duration
+tivity between the VMPFC and amygdala.
+
+of practice is longer, the context promotes a continual focus on the goals
+of the training with fewer distractions than is typical for daily life, there is
+Conflicts of interest
+usually greater social support or accountability, and there is a release
+from daily work or family expectations. Any one or a combination of
+Dr. Richard J. Davidson is the founder, president, and serves on the
+these and other factors that allow for a more intense focus on OM practice
+board of directors for the non-profit organization, Healthy Minds In-
+may facilitate change. Additionally, individual differences in factors
+novations, Inc. In addition, Dr. Davidson serves on the board of directors
+relating to participants' choice and ability to go on retreat may be
+for the Mind and Life Institute.
+
+important to consider in relation to their emotional reactivity, though all
+No donors, either anonymous or identified, have participated in the
+the LTMs in this study by design were required to have participated in at
+design, conduct, or reporting of research results in this manuscript.
+
+least a few retreats. Future research could better assess the impact of
+retreat practice by assessing the different components of retreat practice,
+Author contributions
+and by measuring responses before and after meditation retreats, as well
+as longitudinally across the development of participants' meditation
+T.R.A.K. and B.S.S. collected and processed the data. T.R.A.K.
+
+practice from novice to expert.
+
+analyzed the data and wrote the manuscript. B.S.S. contributed to plan-
+We had also planned to test the impact of mindfulness meditation
+ning the analysis. M.A.R. and A.L. contributed to the design of the study.
+
+training on amygdala recovery to affective stimuli, as assessed by the
+J.A.M. contributed to data processing and statistical analysis. R.J.D.
+
+intensity of amygdala activation during neutral faces following positive
+designed and supervised the study. All authors contributed to writing the
+and negative pictures compared to neutral pictures. However, none of the
+manuscript.
+
+groups had amygdala activation for the contrast NEGPOS > NEU during
+the face period with which we could examine group differences. There
+Acknowledgments
+are a couple potential reasons why we failed to find a main effect of the
+preceding IAPS valence during the face period (i.e. emotional spillover
+This work was supported by the National Center for Complementary
+from the affective stimuli onto the neutral faces that immediately fol-
+and Alternative Medicine P01AT004952 to RJD and AL, grants from the
+lowed). A subsequent study in our lab has shown that conscious aware-
+National Institute of Mental Health R01-MH43454, P50- MH084051 to
+ness of affective stimuli dampens affective spillover onto subsequent
+RJD, grants from the Fetzer Institute [2407] and the John Templeton
+neutral stimuli (Lapate et al., 2014). Since participants in this study were Foundation [21337] to RJD, a core grant to the Waisman Center from the
+instructed to make a button press to indicate the valence of the IAPS, this
+National Institute of Child Health and Human Development [P30
+brought awareness to the source of affective information very explicitly.
+
+HD003352-449015] to Albee Messing. AL was also supported by ERC
+Thus, the affective experience induced from the IAPS was less likely to be
+consolidator grant [617739 – BRAIN and MINDFULNESS]. BSS was
+misattributed to the neutral face stimulus. Furthermore, research has
+supported by a Neuroscience Training Program training grant
+311
+
+
+T.R.A. Kral et al.
+
+NeuroImage 181 (2018) 301–313
+T32GM007507 to Tom Yin from the National Institute of General Med-
+training: effects on distress, positive states of mind, rumination, and distraction. Ann.
+
+ical Sciences. TRAK was supported by the National Institute of Mental
+Behav. Med. Publ. Soc. Behav. Med 33, 11–21. https://doi.org/10.1207/
+s15324796abm3301_2.
+
+Health award number T32MH018931.
+
+Jenkinson, M., Bannister, P., Brady, M., Smith, S., 2002. Improved optimization for the
+We would like to thank Michael Anderle, Ron Fisher, Lisa Angelos,
+robust and accurate linear registration and motion correction of brain images.
+
+Heather Hessenthaler, Trina Nelson, Amelia Cayo, Michael Kruepke, Jon
+Neuroimage 17, 825–841. https://doi.org/10.1006/nimg.2002.1132.
+
+Jha, A.P., Stanley, E.A., Kiyonaga, A., Wong, L., Gelfand, L., 2010. Examining the
+Brumbaugh, and Sarah Christens for assistance with data collection. We
+protective effects of mindfulness training on working memory capacity and affective
+would also like to thank Carien van Reekum, Helen Weng and Cory
+experience. Emot. Wash. DC 10, 54–64. https://doi.org/10.1037/a0018438.
+
+Burghy for assistance in planning and programming the task and Andy
+Kabat-Zinn, J., 1990. Full Catastrophe Living: the Program of the Stress Reduction Clinic
+at the University of Massachusetts Medical Center. Random House Publishing Group.
+
+Schoen, Diane E. Stodola, John Ollinger, and Nate Vack for technical
+Kaviani, H., Javaheri, F., Hatami, N., 2011. Mindfulness-based cognitive therapy (MBCT)
+assistance.
+
+reduces depression and anxiety induced by real stressful setting in non-clinical
+population. Int. Jour. of Psych. Psychol. Therapy 11, 285–296.
+
+Kim, M.J., Loucks, R.A., Palmer, A.L., Brown, A.C., Solomon, K.M., Marchante, A.N.,
+References
+Whalen, P.J., 2011. The structural and functional connectivity of the amygdala: from
+normal emotion to pathological anxiety. Behav. Brain Res. 223, 403–410. https://doi.
+
+Allen, M., Dietz, M., Blair, K.S., Beek, M. van, Rees, G., Vestergaard-Poulsen, P., Lutz, A.,
+org/10.1016/j.bbr.2011.04.025.
+
+Roepstorff, A., 2012. Cognitive-affective neural plasticity following active- controlled
+Lang, P.J., Bradley, M.M., Cuthbert, B.N., 2008. International Affective Picture System
+mindfulness intervention. J. Neurosci. 32, 15601–15610. https://doi.org/10.1523/
+(IAPS): Affective Ratings of Pictures and Instruction Manual. (Technical Report No.
+
+JNEUROSCI.2957-12.2012.
+
+A-8). University of Florida, Gainesville, FL.
+
+Baer, R.A., Smith, G.T., Hopkins, J., Krietemeyer, J., Toney, L., 2006. Using self-report
+Lapate, R.C., Rokers, B., Li, T., Davidson, R.J., 2014. Nonconscious emotional activation
+assessment methods to explore facets of mindfulness. Assessment 13, 27–45. https://
+colors first impressions: a regulatory role for conscious awareness. Psychol. Sci. 25,
+doi.org/10.1177/1073191105283504.
+
+349–357. https://doi.org/10.1177/0956797613503175.
+
+Banks, S.J., Eddy, K.T., Angstadt, M., Nathan, P.J., Phan, K.L., 2007. Amygdala–frontal
+Lee, H., Heller, A.S., van Reekum, C.M., Nelson, B., Davidson, R.J., 2012. Amygdala–
+connectivity during emotion regulation. Soc. Cognit. Affect Neurosci. 2, 303–312.
+
+prefrontal coupling underlies individual differences in emotion regulation.
+
+https://doi.org/10.1093/scan/nsm029.
+
+Neuroimage 62, 1575–1581. https://doi.org/10.1016/j.neuroimage.2012.05.044.
+
+Bishop, S.R., Lau, M., Shapiro, S., Carlson, L., Anderson, N.D., Carmody, J., Segal, Z.V.,
+Levinson, D.B., Stoll, E.L., Kindy, S.D., Merry, H.L., Davidson, R.J., 2014. A mind you can
+Abbey, S., Speca, M., Velting, D., Devins, G., 2004. Mindfulness: a proposed
+count on: validating breath counting as a behavioral measure of mindfulness. Front.
+
+operational definition. Clin. Psychol. Sci. Pract. 11, 230–241. https://doi.org/10.
+
+Psychol. 5. https://doi.org/10.3389/fpsyg.2014.01202.
+
+1093/clipsy.bph077.
+
+Levy, D.J., Glimcher, P.W., 2012. The root of all value: a neural common currency for
+Brefczynski-Lewis, J.A., Lutz, A., Schaefer, H.S., Levinson, D.B., Davidson, R.J., 2007.
+
+choice. Curr. Opin. Neurobiol. Decis. Making 22, 1027–1038. https://doi.org/10.
+
+Neural correlates of attentional expertise in long-term meditation practitioners. Proc.
+
+1016/j.conb.2012.06.001.
+
+Natl. Acad. Sci. 104, 11483–11488. https://doi.org/10.1073/pnas.0606552104.
+
+Lieberman, M.D., Eisenberger, N.I., Crockett, M.J., Tom, S.M., Pfeifer, J.H., Way, B.M.,
+Britton, W.B., Shahar, B., Szepsenwol, O., Jacobs, W.J., 2012. Mindfulness-based
+2007. Putting feelings into words: affect labeling disrupts amygdala activity in
+cognitive therapy improves emotional reactivity to social stress: results from a
+response to affective stimuli. Psychol. Sci. 18, 421–428. https://doi.org/10.1111/j.
+
+randomized controlled trial. Behav. Ther. 43, 365–380. https://doi.org/10.1016/j.
+
+1467-9280.2007.01916.x.
+
+beth.2011.08.006.
+
+Lutz, A., Slagter, H.A., Dunne, J.D., Davidson, R.J., 2008. Attention regulation and
+Brown, K.W., Ryan, R.M., 2003. The benefits of being present: mindfulness and its role in
+monitoring in meditation. Trends Cognit. Sci. 12, 163–169. https://doi.org/10.1016/
+psychological well-being. J. Pers. Soc. Psychol. 84, 822–848. https://doi.org/10.
+
+j.tics.2008.01.005.
+
+1037/0022-3514.84.4.822.
+
+Lutz, A., Jha, A.P., Dunne, J.D., Saron, C.D., 2015. Investigating the phenomenological
+Buhle, J.T., Silvers, J.A., Wager, T.D., Lopez, R., Onyemekwu, C., Kober, H., Weber, J.,
+matrix of mindfulness-related practices from a neurocognitive perspective. Am.
+
+Ochsner, K.N., 2014. Cognitive reappraisal of emotion: a meta-analysis of human
+Psychol. 70, 632–658. https://doi.org/10.1037/a0039585.
+
+neuroimaging studies. Cerebr. Cortex 24, 2981–2990. https://doi.org/10.1093/
+MacCoon, D.G., Imel, Z.E., Rosenkranz, M.A., Sheftel, J.G., Weng, H.Y., Sullivan, J.C.,
+cercor/bht154.
+
+Bonus, K.A., Stoney, C.M., Salomons, T.V., Davidson, R.J., Lutz, A., 2012. The
+Creswell, J.D., Way, B.M., Eisenberger, N.I., Lieberman, M.D., 2007. Neural correlates of
+validation of an active control intervention for Mindfulness Based Stress Reduction
+dispositional mindfulness during affect labeling. Psychosom. Med. 69, 560–565.
+
+(MBSR). Behav. Res. Ther. 50, 3–12. https://doi.org/10.1016/j.brat.2011.10.011.
+
+https://doi.org/10.1097/PSY.0b013e3180f6171f.
+
+McLaren, D.G., Ries, M.L., Xu, G., Johnson, S.C., 2012. A generalized form of context-
+Curtin, J., 2015. lmSupport: Support for Linear Models.
+
+dependent psychophysiological interactions (gPPI): a comparison to standard
+Desbordes, G., Negi, L.T., Pace, T.W.W., Wallace, B.A., Raison, C.L., Schwartz, E.L., 2012.
+
+approaches. Neuroimage 61, 1277–1286. https://doi.org/10.1016/j.neuroimage.
+
+Effects of mindful-attention and compassion meditation training on amygdala
+2012.03.068.
+
+response to emotional stimuli in an ordinary, non-meditative state. Front. Hum.
+
+Ortner, C.N.M., Kilner, S.J., Zelazo, P.D., 2007. Mindfulness meditation and reduced
+Neurosci. 6, 292. https://doi.org/10.3389/fnhum.2012.00292.
+
+emotional interference on a cognitive task. Motiv. Emot. 31, 271–283. https://doi.
+
+Desikan, R.S., Segonne, F., Fischl, B., Quinn, B.T., Dickerson, B.C., Blacker, D.,
+org/10.1007/s11031-007-9076-7.
+
+Buckner, R.L., Dale, A.M., Maguire, R.P., Hyman, B.T., Albert, M.S., Killiany, R.J.,
+Phelps, E.A., LeDoux, J.E., 2005. Contributions of the amygdala to emotion processing:
+2006. An automated labeling system for subdividing the human cerebral cortex on
+from animal models to human behavior. Neuron 48, 175–187. https://doi.org/10.
+
+MRI scans into gyral based regions of interest. Neuroimage 31, 968–980. https://doi.
+
+1016/j.neuron.2005.09.025.
+
+org/10.1016/j.neuroimage.2006.01.021.
+
+Phelps, E.A., Delgado, M.R., Nearing, K.I., LeDoux, J.E., 2004. Extinction learning in
+E-Prime, 2012. Psychology. Software Tools, Inc., Pittsburgh, PA.
+
+humans: role of the amygdala and vmPFC. Neuron 43, 897–905. https://doi.org/
+Gitelman, D.R., Penny, W.D., Ashburner, J., Friston, K.J., 2003. Modeling regional and
+https://doi.org.ezproxy.library.wisc.edu/10.1016/j.neuron.2004.08.042.
+
+psychophysiologic interactions in fMRI: the importance of hemodynamic
+R Core Team, 2015. R: a Language and Environment for Statistical Computing. R
+deconvolution. Neuroimage 19, 200–207.
+
+Foundation for Statistical Computing, Vienna, Austria.
+
+Goldin, P.R., Gross, J.J., 2010. Effects of mindfulness-based stress reduction (MBSR) on
+Raes, F., Dewulf, D., Van Heeringen, C., Williams, J.M.G., 2009. Mindfulness and reduced
+emotion regulation in social anxiety disorder. Emotion 10, 83–91. https://doi.org/
+cognitive reactivity to sad mood: evidence from a correlational study and a non-
+10.1037/a0018441.
+
+randomized waiting list controlled study. Behav. Res. Ther. 47, 623–627. https://doi.
+
+Goyal, M., Singh, S., Sibinga, E.M.S., Gould, N.F., Rowland-Seymour, A., Sharma, R.,
+org/10.1016/j.brat.2009.03.007.
+
+Berger, Z., Sleicher, D., Maron, D.D., Shihab, H.M., Ranasinghe, P.D., Linn, S.,
+Rudebeck, P.H., Saunders, R.C., Prescott, A.T., Chau, L.S., Murray, E.A., 2013. Prefrontal
+Saha, S., Bass, E.B., Haythornthwaite, J.A., 2014. Meditation programs for
+mechanisms of behavioral flexibility, emotion regulation and value updating. Nat.
+
+psychological stress and well-being: a systematic review and meta-analysis. JAMA
+Neurosci. 16, 1140–1145. https://doi.org/10.1038/nn.3440.
+
+Intern. Med 174, 357. https://doi.org/10.1001/jamainternmed.2013.13018.
+
+Siegel, J.S., Power, J.D., Dubis, J.W., Vogel, A.C., Church, J.A., Schlaggar, B.L.,
+Greve, D.N., Fischl, B., 2009. Accurate and robust brain image alignment using boundary-
+Petersen, S.E., 2014. Statistical improvements in functional magnetic resonance
+based registration. Neuroimage 48, 63–72. https://doi.org/10.1016/j.neuroimage.
+
+imaging analyses produced by censoring high-motion data points. Hum. Brain Mapp.
+
+2009.06.060.
+
+35, 1981–1996. https://doi.org/10.1002/hbm.22307.
+
+Grupe, D.W., Schaefer, S.M., Lapate, R.C., Schoen, A.K., Gresham, L.K., Mumford, J.A.,
+Smith, S.M., 2002. Fast robust automated brain extraction. Hum. Brain Mapp. 17,
+Davidson, R.J., 2017. Behavioral and neural indices of affective coloring for neutral
+143–155. https://doi.org/10.1002/hbm.10062.
+
+social stimuli. bioRxiv. https://doi.org/10.1101/178384.
+
+Smith, K.S., Berridge, K.C., Aldridge, J.W., 2011. Disentangling pleasure from incentive
+Hofmann, S.G., Sawyer, A.T., Witt, A.A., Oh, D., 2010. The effect of mindfulness-based
+salience and learning signals in brain reward circuitry. PNAS 108, E255–E264.
+
+therapy on anxiety and depression: a meta-analytic review. J. Consult. Clin. Psychol.
+
+http://doi.org/10.1073/pnas.1101920108.
+
+78, 169–183. https://doi.org/10.1037/a0018555.
+
+Urry, H.L., Reekum, C.M., van, Johnstone, T., Kalin, N.H., Thurow, M.E., Schaefer, H.S.,
+Hollingshead, A.B., 1975. Four Factor Index of Social Status [1975].
+
+Jackson, C.A., Frye, C.J., Greischar, L.L., Alexander, A.L., Davidson, R.J., 2006.
+
+H€
+olzel, B.K., Lazar, S.W., Gard, T., Schuman-Olivier, Z., Vago, D.R., Ott, U., 2011. How
+Amygdala and ventromedial prefrontal cortex are inversely coupled during
+does mindfulness meditation Work? Proposing mechanisms of action from a
+regulation of negative affect and predict the diurnal pattern of cortisol secretion
+conceptual and neural perspective. Perspect. Psychol. Sci. 6, 537–559. https://doi.
+
+among older adults. J. Neurosci. 26, 4415–4425. https://doi.org/10.1523/
+org/10.1177/1745691611419671.
+
+JNEUROSCI.3215-05.2006.
+
+Jain, S., Shapiro, S.L., Swanick, S., Roesch, S.C., Mills, P.J., Bell, I., Schwartz, G.E.R.,
+2007. A randomized controlled trial of mindfulness meditation versus relaxation
+312
+T.R.A. Kral et al.
+
+NeuroImage 181 (2018) 301–313
+Van Breukelen, G.J.P., 2006. ANCOVA versus change from baseline had more power in
+Worsley, K.J., 2001. Statistical analysis of activation images. In: Functional MRI: An
+randomized studies and more bias in nonrandomized studies. J. Clin. Epidemiol. 59,
+Introduction to Methods.
+
+920–925. https://doi.org/10.1016/j.jclinepi.2006.02.007.
+
+The XM2VTS Database [WWW Document], n.d. URL http://www.ee.surrey.ac.uk/
+Woolrich, M.W., Ripley, B.D., Brady, M., Smith, S.M., 2001. Temporal autocorrelation in
+CVSSP/xm2vtsdb/, (accessed January.23.2017).
+
+univariate linear modeling of FMRI data. Neuroimage 14, 1370–1386. https://doi.
+
+org/10.1006/nimg.2001.0931.
+
+313
+Reproduced with permission of copyright owner. Further reproduction
+prohibited without permission.
+
+
+
+Document Outline
+
+Impact of short- and long-term mindfulness meditation training on amygdala reactivity to emotional stimuli 1. Introduction
+2. Methods 2.1. Participants
+2.2. Automatic emotion regulation task
+2.3. Image acquisition
+2.4. Image processing
+2.5. Experimental design and statistical analysis
+
+
+3. Results 3.1. Mindfulness meditation practice and amygdala reactivity: analytic strategy
+3.2. Long-term mindfulness meditation practice and amygdala reactivity
+3.3. Short-term mindfulness meditation practice and amygdala reactivity
+3.4. Practice duration and amygdala reactivity
+3.5. Relation between amygdala activation and self-reported reactivity
+3.6. Amygdala–VMPFC functional connectivity during affective pictures: analytic strategy
+3.7. Long-term practice and amygdala functional connectivity
+3.8. Short-term practice and amygdala functional connectivity
+
+
+4. Discussion
+Conflicts of interest
+Author contributions
+Acknowledgments
+References
+
+

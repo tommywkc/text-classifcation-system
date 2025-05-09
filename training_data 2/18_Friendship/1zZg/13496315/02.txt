@@ -1,0 +1,790 @@
+Loneliness in Early Adolescence: Friendship Quantity,
+Friendship Quality, and Dyadic Processes
+Gerine M. A. Lodder
+Behavioural Science Institute, Radboud University Nijmegen
+Ron H. J. Scholte
+Behavioural Science Institute, Radboud University Nijmegen; and Praktikon
+Luc Goossens
+Research Group School Psychology and Child and Adolescent Development, KU Leuven
+Maaike Verhagen
+Behavioural Science Institute, Radboud University Nijmegen
+Friendship quantity and quality are related to adolescent loneliness, but the exact link between
+these constructs is not well understood. The present study aimed to examine whether adolescents’ perception of friendship quantity and quality, and the perceptions of their peers, were
+related to loneliness. We examined the relation between loneliness and the number of unilateral
+and reciprocal friendships and compared the views of best friendship quality. Overall, 1,172
+Dutch adolescents (49.1% male, M age = 12.81, SD = .43) nominated their friends and rated
+their friendship quality. Friendship quantity was measured using sociometrics to distinguish
+reciprocated and unilateral (i.e., one-sided) friendships. The analyses indicated that loneliness
+was related to fewer reciprocal and unilateral-received friendships (i.e., the adolescent received
+a friendship nomination but did not reciprocate that nomination) and a lower quality of best
+friendship. Actor–partner interdependence analyses revealed that adolescents’ loneliness was
+related to a less positive evaluation of their friendship, as reported by adolescents themselves
+(i.e., a significant actor effect) but not by their friends (i.e., nonsignificant partner effect). These
+findings (a) indicate that loneliness is negatively related to the number of friends adolescents
+have, as perceived by themselves and their peers and (b) suggest that, once a friendship is
+established, lonely adolescents may interpret the friendship quality less positively compared to
+their friends. Implications of these findings for our current understanding of adolescent loneliness are discussed, and suggestions for future research are outlined.
+Loneliness is usually defined as a negative emotional reaction to experiencing unsatisfactory quantity or quality of
+social relations (Perlman & Peplau, 1981). The consequences of loneliness can be severe and lead to both physical and mental health problems such as social anxiety,
+depression, and cardiovascular problems (Heinrich &
+Gullone, 2006). Although most studies on the effects of
+loneliness have been conducted among adults, loneliness
+also affects health outcomes in adolescence (Qualter,
+Brown, et al., 2013). Loneliness can have direct consequences for the daily lives of adolescents because it is
+related to lower school adjustment (Aikins, Bierman, &
+Parker, 2005). In the present study, we focused on early
+adolescence. Loneliness can be experienced throughout the
+lifespan but seems to peak during early adolescence
+(Heinrich & Gullone, 2006). This may be because the
+most important developmental tasks in early adolescence
+include gaining acceptance within a peer group and initiating and maintaining friendships, which makes social relationships especially important in this period (Buhrmester,
+Correspondence should be addressed to Gerine M. A. Lodder,
+Grote Rozenstraat 19, 9712 TG Groningen, The Netherlands. E-mail:
+g.m.a.lodder@rug.nl
+Journal of Clinical Child & Adolescent Psychology, 46(5), 709–720, 2017
+Copyright © Society of Clinical Child & Adolescent Psychology
+ISSN: 1537-4416 print/1537-4424 online
+DOI: 10.1080/15374416.2015.1070352
+1990; Parkhurst & Hopmeyer, 1999). In addition, in this
+period, adolescents experience the transition to a new
+school, which is also related to an increase in loneliness
+(Kingery, Erdley, & Marshall, 2011; Van Roekel, Scholte,
+Verhagen, Goossens, & Engels, 2010).
+LONELINESS AND FRIENDSHIPS
+One of the core features of loneliness is the experience of a
+low quality or quantity of social relations (Weeks & Asher,
+2012). Empirical research has revealed that loneliness is
+related to fewer reciprocated (i.e., mutual) friendships and
+lower perceived friendship quality (Jobe-Shields, Cohen, &
+Parra, 2011; Kingery et al., 2011; Nangle, Erdley, Newman,
+Mason, & Carpenter, 2003; Parker & Asher, 1993; Pedersen,
+Vitaro, Barker, & Borge, 2007). As of yet, it is unclear
+whether the low friendship quality and quantity in the social
+worlds of lonely adolescents are actual or merely perceived
+by adolescents as less positive. In the present study, we aimed
+to extend the knowledge base in this area by comparing
+adolescents’ views of their social world, specifically regarding friendship quantity and quality, with the views of their
+peers and relate these perceptions to loneliness.
+RECIPROCAL AND UNILATERAL FRIENDSHIPS
+Loneliness may be related to different aspects of friendship
+quantity and quality. Previous research has focused only on
+reciprocal friendships, that is, mutual friendships in which
+both adolescents perceive each other as a friend (e.g.,
+Nangle et al., 2003; Parker & Asher, 1993). Some researchers have argued that friendships exist only if both parties
+recognize the friendship (e.g., Rubin, Bukowski, & Parker,
+2006), whereas others have argued that unilateral friendships (i.e., one-sided friendships) are just as relevant for
+adolescent adjustment (e.g., Berndt & McCandless, 2009).
+Indeed, reciprocal friendships are stronger compared to unilateral friendships in terms of stability, quality, and lack of
+conflict. However, unilateral friends also differ from nonfriends in terms of the time unilateral friends spend together
+and the quality of the relationship (Ciairano, Rabaglietti,
+Roggero, Bonino, & Beyers, 2007; Newcomb & Bagwell,
+1995; Vaughn, Covin, Azria, Caya, & Krzysik, 2001). Thus,
+it is conceivable that unilateral friendships may also be
+important for loneliness.
+Within unilateral friendships, a distinction can be made
+between unilaterally given nominations (i.e., the adolescent
+gives a friendship nomination to a peer, but this nomination
+is not reciprocated) and unilaterally received nominations (i.e.,
+the adolescent receives a friendship nomination from a peer but
+does not reciprocate this nomination; Berndt & McCandless,
+2009). This distinction is meaningful, as both types of friendships seem to be differently related to adjustment (Scholte
+et al., 2009). Although loneliness has been related to friendship
+quantity in previous research, some researchers have argued
+that only friendship quality but not friendship quantity is
+related to loneliness (Qualter & Munn, 2005; Qualter,
+Rotenberg, et al., 2013). To ensure that the results regarding
+friendship quantity do not merely reflect friendship quality, we
+controlled for the effects of network friendship quality (i.e.,
+adolescents’ overall attachment to their broader friendship network) in our analyses of friendship quantity.
+BIAS HYPOTHESIS
+In the literature, opposing views have been proposed to explain
+why loneliness is related to lower friendship quantity and
+quality. Social needs models (Baumeister & Leary, 1995;
+Cacioppo & Hawkley, 2009; Cacioppo et al., 2006; Gardner,
+Pickett, Jefferis, & Knowles, 2005; Weiss, 1973) state that all
+human beings have a universal need to belong—a need to have
+social contacts with others—and that loneliness is experienced
+when this need is not being met. The need to belong may be
+restored by paying more attention to social cues in the environment and using the information provided by these cues to
+connect with others (Gardner et al., 2005). Loneliness is
+thought to be related to heightened attention to social cues
+(Cacioppo & Hawkley, 2009; Gardner et al., 2005). In fact,
+loneliness may be related to hypervigilance to negative social
+cues, which makes lonely individuals hyperaware of signs of
+rejection, and it could make them believe that they have fewer
+possibilities for friendships and lower friendship quality than
+they actually have (Cacioppo & Hawkley, 2009; Qualter,
+Rotenberg, et al., 2013; Vanhalst, Luyckx, Scholte, Engels,
+& Goossens, 2013). According to this view, the most important source of loneliness is a negative perception of one’s social
+environment. We refer to this view as the bias hypothesis.
+DEFICIT HYPOTHESES
+Alternatively, loneliness may be related to actual differences
+in the social environment. These differences could be due to
+social skills deficits of lonely individuals. Lonely adolescents may lack certain social skills to form successful
+friendships or possess undesirable behavioral characteristics, making them an unpopular friendship choice and influencing the quality and quantity of their friendships (JobeShields et al., 2011; Woodhouse, Dykas, & Cassidy, 2012).
+Thus, according to this social skills deficit view, the actual
+social environment rather than adolescents’ interpretation of
+the environment is an antecedent of loneliness. Lonely
+adolescents may or may not be aware of their low social
+standing. On the one hand, lonely individuals may be very
+aware of their lower social skills and social standing and
+accurately perceive their social environment negatively. We
+call this the recognized deficit hypothesis. On the other
+710 LODDER, SCHOLTE, GOOSSENS, VERHAGEN
+hand, lonely adolescents with underdeveloped social skills
+may be unaware of their low social standing. We call this
+the unrecognized deficit hypothesis. In sum, different
+hypotheses exist to explain why lonely adolescents experience low friendship quantity and quality, relating to how
+adolescents themselves and their peers view the social world
+of lonely adolescents.
+LONELINESS IN RELATION TO FRIENDSHIP
+QUANTITY
+Each of these hypotheses implies different expectations
+regarding friendship quantity (for an overview, see
+Table 1). If the bias hypothesis were correct, lonely individuals would have a negative view of their social environment, whereas their peers would have a neutral view of the
+lonely adolescents’ social standing. This would result in
+negative relations of loneliness with reciprocal relations
+and unilateral given friendships, because lonely adolescents
+would perceive few opportunities for friendship in their
+environment. Under the bias hypothesis, lonely adolescents
+receive an equal number of nominations from their peers but
+reciprocate only a few of these. Therefore, this hypothesis
+proposes that loneliness is positively related to unilateral
+received friendships. According to the recognized deficit
+hypothesis, lonely adolescents have a negative view of
+their social environment (i.e., they perceive few friendships),
+and their peers agree with this view. This would suggest a
+negative relation between loneliness and all measures of
+friendship quantity. Finally, considering the unrecognized
+deficit hypothesis, we assume that lonely adolescents are
+unaware of their social standing and thus have a neutral
+view of their social environment. Their peers, however, have
+a negative view of the adolescents’ social standing.
+Consequently, lonely adolescents will nominate an average
+number of peers as friends but receive only few nominations
+in return. This would result in a positive relation between
+loneliness and unilateral given friendships (i.e., lonely adolescents will have more unreciprocated friendships) as well
+as a negative relation of loneliness with reciprocal and
+unilateral received friendships.
+LONELINESS IN RELATION TO FRIENDSHIP
+QUALITY
+To obtain a more detailed view of the relation between
+loneliness and friendship quality, we focused on the quality
+of the best friendship, which is the most commonly
+researched type of friendship quality, and it might also be
+the most important for adolescent adjustment (Berndt &
+McCandless, 2009). We used a dyadic approach to examine
+the relation between loneliness and friendship quality. This
+is important, because the interpretation of best friendship
+quality by lonely adolescents is not independent of the
+interpretation of their best friends; therefore, they cannot
+be treated as independent data (Burk & Laursen, 2005;
+Cillessen, Jiang, West, & Laszkowski, 2005; Parker &
+Asher, 1993). In addition, earlier research showed that children tend to select other children based on their level of
+loneliness and that children in best friendships may become
+more alike in loneliness over time (Mercer & DeRosier,
+2010). Thus, both loneliness and friendship quality evaluations of best friends are interdependent, and this interdependency should be taken into account (Cillessen et al., 2005).
+Some studies have randomly selected one of two friends to
+adjust for dependency in the data (e.g., Bagwell et al.,
+2005), whereas others have used the Actor–Partner
+Interdependence Model for Indistinguishable Dyads
+(APIM; Olsen & Kenny, 2006). Using this model, the data
+from both friends can be included. The APIM has been used
+in earlier research to control for interdependencies between
+best friends’ evaluations of the friendship (e.g., Burk &
+Laursen, 2005) but never in relation to loneliness.
+Two types of effects can be established using APIM.
+First, adolescents’ own loneliness can be related to friendship quality, as judged by adolescents themselves (i.e., a
+significant actor effect can emerge). Second, adolescents’
+own loneliness can be related to the experience of friendship
+quality, as reported by their partner (i.e., a significant partner effect can emerge). Table 1 also shows the expectations
+for friendship quality based on the three hypotheses. If the
+bias hypothesis is correct, loneliness will be related negatively to adolescents’ own evaluation of the friendship (i.e.,
+a significant actor effect will occur) but will be unrelated to
+their friends’ evaluation of the friendship (i.e., the partner
+effect will be nonsignificant). According to the recognized
+deficit hypothesis, both actor and partner effects will be
+significant. This indicates that loneliness is related to a
+negative evaluation of best friendship quality by both
+TABLE 1
+Expected Relations Between Loneliness and Friendship Quantity
+and Quality According to Different Hypotheses
+Theoretical Hypothesis
+Aspect Bias
+Recognized
+Deficit
+Unrecognized
+Deficit
+Nominations Given Negative Negative ns
+Nominations Received ns Negative Negative
+Reciprocated Negative Negative Negative
+Unilateral Given Negative Negative Positive
+Unilateral Received Positive Negative Negative
+FQ Self Negative Negative ns
+FQ Best Friend ns Negative Negative
+Note: ns = not significant; FQ = friendship quality.
+ADOLESCENT LONELINESS AND FRIENDSHIPS 711
+adolescents themselves and their best friends. In contrast,
+according to the unrecognized deficit hypothesis, the partner
+effect will be significant but the actor effect will be nonsignificant or positive. This indicates that friends of lonely
+adolescents view their friendship negatively, whereas adolescents themselves have either a neutral or a positive view
+of their friendships (Qualter & Munn, 2005; Qualter,
+Rotenberg, et al., 2013).
+THE PRESENT STUDY
+In sum, the present study aimed to examine whether lower
+friendship quantity and quality of lonely individuals are due
+to their own perceptions of their social world or the social
+environments’ response to the lonely individual, or both.
+Expectations according to these three views are summarized
+in Table 1. Regression analyses were used to examine
+whether loneliness was positively or negatively related to
+the number of reciprocal and unilateral friendships. We were
+particularly interested in the unilateral relations because
+these allowed us to examine whether fewer reciprocal relations resulted from the view held by lonely adolescents
+themselves (bias hypothesis), their environment (unrecognized deficit hypothesis), or both (recognized deficit hypothesis). To compare views on friendship quality between
+adolescents themselves and their best friends, we used an
+APIM model.
+Little is known about the role of gender in the relationship between loneliness and friendship quantity and quality. A few studies explored gender differences in the
+relation between loneliness and friendship quantity or
+quality and found no moderation by gender (Nangle
+et al., 2003; Parker & Asher, 1993). However, although
+most studies found no gender differences in the occurrence
+of loneliness, earlier research provided some evidence to
+support gender differences in friendships, such as a higher
+friendship quality among girls (Heinrich & Gullone, 2006;
+Hoza, Bukowski, & Beery, 2000; Maccoby, 2002). In
+addition, earlier research showed that girls may have stronger communal needs (i.e., need for interpersonal closeness)
+in friendships and that not meeting these needs is related to
+loneliness for girls but not for boys (Zarbatany, Conley, &
+Pepper, 2004). This implies that not meeting needs for
+interpersonal closeness in terms of friendship quality
+might be more strongly related to loneliness for girls than
+for boys. We therefore explored whether gender differences occurred in the relation between gender and friendship-related constructs. In addition, we controlled for the
+possible confounding effects of both social anxiety and
+depressive symptoms, which have been found to be related
+to both loneliness and aspects of friendship such as perceived support from close friendships (Hutcherson &
+Epkins, 2009).
+METHOD
+Procedure
+Seven secondary schools participated after being informed
+about the study aims and design through written and personal
+communication. We included participants after obtaining
+passive parental consent for participation and active consent
+from the adolescents themselves. All data were collected
+during regular school hours. Data collection took approximately 30–50 min. Participants completed the questionnaires
+individually on a computer in the presence of graduate students involved in the project. Adolescents received a small
+gift (e.g., a pen) for their participation. Ethical approval was
+obtained from the Institutional Review Board of the Radboud
+University Nijmegen (ECG2012-2711-701).
+Participants
+Overall, 1,361 students from 52 different classes were
+approached to participate in the study. Parents of all students
+in the participating schools received a letter with information about the study. If they did not wish their child to
+participate in the study, they could indicate this via post,
+e-mail, or phone. Parents of 47 adolescents (3.45%) indicated that they did not want their child to participate. In
+addition, active consent was obtained from all but three
+adolescents themselves.
+At the time of the data collection, 81 adolescents were absent
+due to illness or for other reasons. In addition, 49 adolescents
+were removed from the analyses because they nominated themselves as friends in the classroom or they nominated everybody
+in the classroom, which raises questions about the reliability of
+their friendship nominations. Finally, nine adolescents were not
+included because they used incorrect identity codes, which
+made it impossible to determine who they were. The final
+sample consisted of 1,172 students (49.1% male). Not all students completed all measures due to planning issues at some of
+the schools (see Table 2). All students were in the first grade of
+Dutch secondary school (comparable to U.S. Grade 7) with a
+mean age of 12.81 years (SD = .43 year). Classes varied in size
+from 17 to 32 students. Adolescents remained in the same class
+group throughout the day.
+Most participants had a Dutch ethnic background (94.9%),
+2.1% were of Turkish or Moroccan descent, and the remaining
+students had a different ethnic background. Parental education
+was high, with 18.3% of mothers reporting low education
+level, 32.2% reporting middle education level, and 5.7%
+reporting high education level. Concerning fathers, 15.9%
+had low, 28.9% had middle, and 55.2% had high education.
+For students themselves, different educational levels within the
+Dutch secondary education system were fairly well represented (24.7% of the students attended low to middle level of
+education, 45.6% attended middle to high level of education,
+and 29.7% attended preuniversity level of education).
+712 LODDER, SCHOLTE, GOOSSENS, VERHAGEN
+Measures
+Loneliness. Loneliness was measured using the
+Loneliness in Peer Relations subscale of the Louvain
+Loneliness and Aloneness Scale for Children and
+Adolescents (Marcoen, Goossens, & Caes, 1987). Because
+the friendship-related items of this scale may overlap with
+other friendship assessments, we constructed a Pure
+Loneliness scale consisting of six not-friendship-related
+items (e.g., “I feel alone at school”)
+1 measured on a 4-
+point scale ranging from 1 (never) to 4 (always). Earlier
+research showed that the Louvain Loneliness and Aloneness
+Scale for Children and Adolescents is one of the most
+reliable measures of loneliness in childhood (Goossens &
+Beyers, 2002). Cronbach’s alpha was .85 for the Pure
+Loneliness measure (compared to α = .89 for the original
+scale). The correlation between the original scale and pure
+scale was high (r = .95, p < .001).
+Number of Friends. To determine the number of
+friendships within the classroom, we first asked
+adolescents to select their best friend’s name from a list of
+all students in their classroom. After that, adolescents could
+select other friends within the classroom by clicking on their
+names. If adolescents did not have any friends in the
+classroom, they could click a button “I can’t name
+anyone.” Adolescents who were not present during data
+collection but were nominated in the class (11.5%) were
+dropped, because it could not be determined whether these
+nominations were reciprocal or unilateral.
+Number of reciprocal friends. The number of reciprocal friends was calculated by counting all friendship
+nominations by participants and their classmates (i.e.,
+mutual nominations).
+Number of unilateral-given friends. The unilateralgiven friendships were all friendships in which the participant nominated a classmate as one of their friends but this
+classmate did not nominate the participant.
+Number of unilateral-received friends. The unilateral-received friendships were all friendships in which the
+participant received a nomination from a classmate but the
+participant did not nominate this classmate as a friend.
+Best Friendship Quality. The quality of the
+relationship with the best friend was measured using the
+Satisfaction and Commitment subscale of a short version of
+the Investment Model Scale (Branje, Frijns, Finkenauer,
+Engels, & Meeus, 2007). Adolescents answered eight
+questions about their relationship with their best friend,
+measured on a 5-point scale ranging from 1 (do not agree
+at all) to 5 (totally agree). For each question, the name of the
+student nominated as the best friend in the classroom was
+filled in. For example, if Jane S. was nominated, one of the
+questions would be “My friendship with Jane S. is almost
+perfect.” The Investment Model Scale has been used
+successfully in earlier research on friendships, and it has
+good reliability and predictive validity (Branje et al., 2007).
+Cronbach’s alpha was also high in our sample (α = .88).
+Network Friendship Quality. Friendship quality
+within the broader network was measured using the Peer
+subscale of the short version of the Inventory of Parent and
+Peer Attachment scale (Armsden & Greenberg, 1987; Raja,
+TABLE 2
+Sample Size, Means, and Standard Deviations for Loneliness, Control Variables, Friendship Quality, and Number of Nominations
+Total Girls Boys
+Measure N M SD M SD M SD T
+Loneliness 1,171 8.93 3.36 9.14 3.52 8.70 3.16 –2.25*
+Friendship Quality
+Best Friend 1,138 33.08 4.49 34.46 4.19 31.63 4.35 –11.17***
+Network 1,095 36.84 5.20 37.94 5.46 35.74 4.68 –7.16***
+Friend Nominations
+Given 1,172 5.72 3.52 6.02 3.57 5.41 3.45 –2.98**
+Received 1,172 5.47 2.59 5.73 2.65 5.20 2.49 –3.56***
+Reciprocal 1,172 3.48 2.11 3.75 2.21 3.21 1.96 –4.45***
+Unilat. Given 1,172 1.78 2.26 1.84 2.25 1.72 2.28 –0.88
+Unilat. Received 1,172 1.99 1.89 1.98 1.95 1.99 1.83 0.06
+Depressive Symptoms 1,139 5.69 4.65 6.50 4.94 4.86 4.18 –6.03***
+Social Anxiety 1,117 14.43 3.57 15.15 3.71 13.70 3.26 –6.94***
+Note: Unilat. = unilateral.
+**p < .01. ***p < .001.
+1 All analyses were also performed using the original Loneliness scale.
+These analyses yielded similar results, with one exception: No difference
+was found between boys and girls in loneliness scores using the original
+Loneliness scale.
+ADOLESCENT LONELINESS AND FRIENDSHIPS 713
+McGee, & Stanton, 1992). This scale consists of 12 items
+measuring attachment to friends on a 4-point scale ranging
+from 1 (almost never) to 4 (almost always; e.g., “I feel my
+friends are good friends”). Of these items, five are reverse
+coded. The Inventory of Parent and Peer Attachment scale
+has good reliability and validity (Armsden & Greenberg,
+1987). Cronbach’s alpha was also acceptable in the present
+study (α = .79).
+Control Variables
+Depressive Symptoms. Depressive symptoms were
+assessed using the Iowa short form of the Center for
+Epidemiological Studies Depression scale (Kohout,
+Berkman, Evans, & Cornoni-Huntley, 1993), which
+consists of 11 items measuring the prevalence of depressive
+symptoms during the past week (e.g., “I was sad”). The
+responses were measured on a 4-point scale ranging from 0
+(rarely or never, < 1 day) to 3 (usually or always, 5–7 days).
+Two items were reverse coded. Actual scores ranged from 0
+to 31, with higher scores indicating a higher prevalence of
+depressive symptoms (Cronbach’s α = .81).
+Social Anxiety. Social anxiety was measured using the
+Dutch version of the Social Phobia subscale of the Screen for
+Child Anxiety Related Emotional Disorders (Bodden,
+Bogels, & Muris, 2009). This scale consists of nine items
+scored on a 3-point scale ranging from 1(almost never) to 3
+(often; e.g., “I am shy”). Actual scores ranged from 9 to 27,
+with higher scores indicating higher prevalence of social
+anxiety symptoms (Cronbach’s α = .80).
+Data Analyses Plan
+To examine the relationship between loneliness and friendship quantity, we used hierarchical multiple regression analyses, which were estimated in Mplus Version 6 (Muthén &
+Muthén, 1998–2010). We estimated parameters using the
+maximum likelihood estimator with robust standard errors,
+which uses the FIML procedure for missing values. All
+predictor variables were standardized. This estimator was
+used because not all variables were normally distributed. All
+predictor variables were centered before the analyses.
+Unstandardized results and STDYX standardized results
+are reported. In the first step, we added the main effects of
+all friendship-related variables (i.e., network friendship
+quality, number of reciprocal friends, number of unilateralgiven friends, and number of unilateral-received friends)
+and gender. In the second step, we added interactions
+between gender and all friendship variables. Finally, we
+tested the most parsimonious model that included all friendship quantity items, network friendship quality, and all
+gender-related effects that reached significance. This model
+is described in the Results section.
+If loneliness is indeed related to friendship quantity,
+loneliness could also be related to having a best friend,
+which may affect our analyses regarding the relation
+between loneliness and friendship quality within best friend
+dyads. We used logistic regression to examine whether
+loneliness was related to the likelihood of having a best
+friend, compared to not nominating a best friend or having
+a unilateral best friend (i.e., nominating a classmate who
+does not nominate the participant as best friend). First, we
+tested a model including loneliness, gender, and the interaction between loneliness and gender. Second, we tested a
+model that included significant effects only. Third, we
+explored variability of loneliness scores in adolescents
+who had a reciprocal best friendship.
+Finally, we examined whether loneliness was related to
+the quality of the best friendship using an APIM model for
+indistinguishable dyads (Olsen & Kenny, 2006; see
+Figure 1). We included only the same-sex dyads and ran
+this model. After running the basic APIM model, we used
+multiple-group comparison to examine gender differences in
+the actor or partner effects using a log-likelihood difference
+test. We ran a model with all paths restricted to be the same
+between boys and girls and compared this model to a model
+in which the actor and partner effects were freely estimated
+for boys and girls. Next, we examined whether the difference between dyad members’ loneliness scores were related
+to the outcomes using an actor–partner interaction (Kenny
+Loneliness
+Person 1
+Loneliness
+Person 2
+Friendship Quality
+Person 1
+Friendship Quality
+Person 2
+–.24***
+–.24***
+–.03
+–.03
+.26** .31***
+FIGURE 1 Actor Partner Interdependence Model for the effects of both adolescents’ loneliness on their own and the others’ friendship quality.
+**p < .01. ***p < .001.
+714 LODDER, SCHOLTE, GOOSSENS, VERHAGEN
+& Cook, 1999). STDYX standardized results are reported.
+For all analyses, we examined whether the results remained
+the same after adding depression and social anxiety as
+covariates. Because all effects related to friendship quantity
+and quality in all analyses reached the same significance
+level after controlling for depression and social anxiety, we
+report models only without these control variables in the
+Results section.
+RESULTS
+Descriptives and Correlations
+Table 2 summarizes the means and standard deviations for
+loneliness, friendship quantity and quality, and control variables for the total sample and separately for boys and girls.
+This table shows that girls had higher loneliness scores
+compared to boys. In line with earlier research, girls also
+experienced higher friendship quality compared to boys,
+gave and received more nominations, and had a higher
+number of reciprocal friendships. To test whether clustering
+of loneliness occurred within different classrooms that were
+included in the analyses, we calculated the intraclass correlation between adolescents in classrooms for loneliness. The
+ICC was .02, indicating that only around 2% of the variation
+in loneliness could be explained by a class effect. Therefore,
+the analyses were run without controlling for the clustering
+of adolescents within classes.
+Table 3 displays correlations between loneliness and all
+other constructs, showing a similar pattern for boys and
+girls. Reciprocal friendships were related to a higher number
+of unilateral-given friendships and a lower number of unilateral-received friendships. Loneliness was unrelated to
+unilateral-given friendship nominations and negatively
+related to all other measures of friendship quantity and
+quality. Finally, higher loneliness was moderately associated
+(i.e., .30 < r < .50) with both depressive symptoms and
+social anxiety.
+The Fisher r-to-z transformation was used to compare the
+strength of correlations between loneliness and all constructs for boys and girls separately. Significant differences
+were found only in the negative relation between loneliness
+and best friendship quality (Z = –2.41, p = .016) and in the
+positive relation between loneliness and depression (Z =
+2.40, p = .016). Both correlations were stronger for girls
+than for boys.
+Loneliness and Friendship Quantity
+We examined whether interactions between gander and
+measures of friendship quantity or quality were related to
+loneliness. Because none of these interactions reached significance, the results without gender interactions are
+reported in Table 4. In total, the model explained 26% of
+the variance in loneliness, F(5, 1088) = 75.92, p < .001. The
+results indicated that network friendship quality contributed
+negatively to feelings of loneliness. Controlling for the
+effects of friendship quality, friendship quantity was also
+related to loneliness. Both the number of reciprocal friendships and unilateral-received friendships were negatively
+TABLE 3
+Correlations Between Loneliness, Friendship Quantity, Friendship Quality, and Control Variables for Girls and Boys
+Measure 1. 2. 3. 4. 5. 6. 7. 8. 9. 10.
+1. Loneliness –.49*** –.37*** –.09* –.24*** –.19*** .04 –.11* .57*** .45***
+2. FQ – Network –.45***` .49*** .03 .13* .12* –.05 .04 –.45*** –.41***
+3. FQ – BF –.24*** .40*** .08 .15*** .18*** –.03 .01 –.21*** –.19***
+4. N Given –.15*** –.14** .06 .34*** .73*** .77*** –.36*** –.00 –.03
+5. N Received –.28*** .21*** .19*** .29*** .69*** –.09* .58*** –.06 –.11*
+6. N Reciprocal –.24*** –.18*** .15** .69*** .69*** .18*** –.19*** –.05 –.09*
+7. N Unilat. Given –.01 .05 –.02 .79*** –.11* .18*** –.33*** .03 .02
+8. N Unilat. Received –.13** .10* .11* –.34*** .63*** –.14** –.34*** –.03 –.05
+9. Depression .47*** –.43*** –.23*** –.10* –.18*** –.13** –.02 –.11* .43***
+10. Social Anxiety .44*** –.37*** –.13** –.14** –.13** –.14** –.08 –.03 .40***
+Note: Correlations for girls are above the diagonal. Correlations for boys are below the diagonal. FQ = friendship quality; BF = best friend. Unilat. =
+unilateral.
+*p < .05. **p < .01. ***p < .001.
+TABLE 4
+Regression Analysis Predicting Loneliness From Friendship Quality
+and Friendship Quantity
+Predictor B SE B β
+Gender 1.21 .18 .18***
+Network Friendship Quality –.29 .02 –.45***
+N Reciprocal –.26 .05 –.17***
+N Unilateral Given .01 .04 .00
+N Unilateral Received –.20 .05 –.12***
+Note: Adjusted R2 = .26.
+***p < .001.
+ADOLESCENT LONELINESS AND FRIENDSHIPS 715
+related to loneliness, but the number of unilateral-given
+friendships was not related to loneliness. Thus, adolescents
+who tended to report higher feelings of loneliness also tended
+to experience lower friendship quality, have fewer reciprocal
+friends, and have fewer instances in which they were nominated by a classmate whom they did not nominate back.
+Tolerance levels and variance inflation factor (VIF) were
+within acceptable range for all analyses (i.e., Tolerance > .2,
+VIF < 5).
+Loneliness in Relation to the Likelihood of Having a
+Best Friend
+In total, 2.8% of the adolescents did not nominate a best
+friend in their class, 49.3% had a reciprocal best friend (i.e.,
+the first nominated friend), 40.0% had a unilateral best
+friend (i.e., they nominated a classmate who did not reciprocate the nomination), and 7.6% nominated a best friend
+who was not present during data collection, thereby making
+it impossible to determine whether this nomination was
+reciprocal or unilateral. Logistic regression showed that
+the interaction between gender and loneliness had no significant effect on the likelihood of having a best friend
+compared to having a unilateral best friend or not nominating a best friend (odds ratio [OR] = 1.07), 95% confidence
+interval (CI) [.99, 1.16]. A model that included only gender
+and loneliness showed that being a girl was related to a
+higher likelihood of having a reciprocal friend (OR = 1.32),
+95% CI [1.04, 1.68], and loneliness was related to a lower
+likelihood of having a reciprocal best friend (OR = .91),
+95% CI [.87, .94].
+The results from this analysis indicate that very lonely
+participants may not be represented in the sample of adolescents with a reciprocal best friend. However, there was
+sufficient variability in loneliness scores among participants
+who had a reciprocal best friendship (i.e., M = 8.41, SD =
+2.91, range = 6–23 for the sample of participants with a
+reciprocal best friend, and M = 8.92, SD = 3.36, range =
+6–23 for the total sample). Therefore, we felt confident in
+further examining the relationship between loneliness and
+friendship quality within best friend dyads.
+Perceptions of Quality Within Best Friend Dyads
+In all, 281 best friendship dyads were identified in the
+sample. Of these dyads, 126 were male, 150 were female,
+and five were mixed gender. We analyzed the data for
+same-gender dyads only, because there were too few
+mixed-gender dyads to perform the analyses. The model
+described in Figure 1 was used to examine the relation
+between loneliness and friendship quality within best
+friend dyads. The model fitted the data well (root mean
+square error of approximation = .00, comparative fit index
+= 1.00), 90% CI [.00, .04]. The model explained 6.0% of
+the variance in friendship quality scores. The results
+indicated that best friends’ loneliness scores were interrelated. In addition, friends were alike in their evaluation
+of their friendship. In line with expectations, we found a
+significant actor effect (β = –.24, p < .001). This finding
+indicates that within the dyads, individuals’ loneliness
+scores were related to their evaluation of friendship quality. Higher loneliness was related to a lower experienced
+friendship quality. However, the partner effect was not
+significant (β = –.03, p = .65). This result indicates that
+higher loneliness, as experienced by one friend, was unrelated to lower friendship quality, as experienced by other
+friend. Multiple group analysis showed similar effects for
+both male and female dyads. Similarity between dyad
+members’ loneliness scores did not affect the results,
+evidenced by a non-significant actor by partner interaction
+(β = .14, p = .14).
+DISCUSSION
+The aims of the present study were to examine the associations among adolescent loneliness, friendship quality, and
+friendship quantity. We examined whether lonely adolescents (bias hypothesis), their peers (unrecognized deficit
+hypothesis), or both (recognized deficit hypothesis) held
+negative views of the social world of lonely adolescents in
+terms of friendship quantity and quality. We explored the
+relationship between loneliness and unilateral friendships
+and the relationship between loneliness and friendship quality within best friend dyads. Our findings indicated that
+loneliness was negatively related to two aspects of friendship quantity (i.e., number of reciprocal and unilateralreceived friendships, as assessed through peer nominations)
+and to friendship quality as experienced by adolescents
+themselves but not their best friends. Thus, the findings
+regarding friendship quantity seem to be in line with the
+recognized deficit hypothesis, whereas the findings regarding friendship quality are more in line with the bias hypothesis. However, our findings do not provide unequivocal
+support for any one of the hypotheses and are open to
+various interpretations.
+Our findings showed that loneliness was negatively
+related to the number of unilateral-received friendships.
+We did not find evidence that loneliness was related to
+unilateral-given friendships. The finding that lonely adolescents have fewer unilateral-received friendships could indicate that lonely adolescents may not be perceived as
+interesting by their peers. Indeed, loneliness was related to
+lower popularity (Gorman, Schwartz, Nakamoto, &
+Mayeux, 2011). Alternatively, lonely adolescents may not
+send out signals to indicate that they would want to befriend
+others. Indeed, loneliness was related to a lower number of
+given friendship nominations. Therefore, their classmates
+may simply not be aware that lonely individuals want to
+form friendships. Indeed, loneliness was found to be related
+716 LODDER, SCHOLTE, GOOSSENS, VERHAGEN
+to high social withdrawal and shyness in social interactions
+(Jobe-Shields et al., 2011), possibly due to fear of rejection
+(Qualter, Rotenberg, et al., 2013), which limits the opportunities to befriend others. Consequently, lonely adolescents’
+negative views of the social world may also decrease the
+number of friendship relations.
+Regarding friendship quantity, we found no evidence that
+lonely adolescents evaluate their social world more negatively compared to reality, which would have become apparent in a high number of unilateral-received friendships. We
+also found no evidence that lonely adolescents are not aware
+of their low social standing and perceive their social world
+more positively compared to reality, which would have been
+evidenced by a high number of unilateral-given friendships.
+Our findings seem to indicate that lonely individuals are not
+a very popular friendship choice and do not see many
+opportunities for friendships themselves. This is most in
+line with the recognized deficit hypothesis.
+Regarding friendship quality, our findings suggest a different interpretation. Here, we find indications that loneliness is related to a negative interpretation of the social
+environment, which is in line with the bias hypothesis. We
+found that loneliness scores were related to a lower experience of friendship quality, as reported by adolescents themselves (i.e., a significant actor effect), but were unrelated to
+the experience of friendship quality reported by their best
+friend (i.e., absence of a significant partner effect). These
+findings indicate that once a relationship is established,
+loneliness does not seem to be indicative of being a poor
+friend. The relation between loneliness and lower friendship
+quality was evident only in adolescents’ own experiences
+but not their friends’ experiences. Friends of more lonely
+adolescents did not report lower friendship quality. This
+finding contradicts the notion that lonely individuals may
+lack social skills or specifically the skills to maintain highquality friendships. Rather, it implies that loneliness is
+related to the perception of friendship quality as opposed
+to the actual (objective) quality of the relation. This interpretation is in line with earlier studies that showed loneliness to be related to a negative interpretation of the social
+surrounding (e.g., Qualter, Rotenberg, et al., 2013).
+Alternatively, lonely individuals may not interpret the behavior of their friends more negatively but rather have a higher
+standard compared to their less lonely friends of what
+friendships should entail, resulting in a lower evaluation of
+the same situation (Russell, Cutrona, McRae, & Gomez,
+2012).
+It is important to note that, based on the present study,
+we cannot establish whether the friendships of lonely individuals are only interpreted more negatively or whether
+their friendships are objectively of a lower quality.
+Possibly, the differences we found between adolescents’
+own and their friends’ interpretation reflect actual differences in behavior of the best friends. For instance, lonely
+adolescents may be in unequal relationships in which they
+invest a lot without reciprocation of this investment from
+their best friend. Earlier research among college students
+showed that loneliness was related to inequality in investment in relationships and concern with the relative investment in the friendship of both friends (i.e., having an
+underbenefitting exchange orientation; Buunk & Prins,
+1998). Thus, lonely individuals may not only be more
+focused on the investment of both friends, but they may
+also receive less than they give from their friends.
+Moreover, if lonely adolescents indeed have social skills
+difficulties, as the findings regarding friendship quantity
+suggest, it may be difficult to be friends with a lonely
+adolescent. Future research should examine objective versus
+subjective differences in friendship quality of lonely
+adolescents.
+Because our findings are based on cross-sectional
+research, we cannot draw conclusions about directions of
+effects. For instance, our finding that loneliness is related to
+a negative evaluation of adolescents’ own friendships could
+be a sign that loneliness leads to a negative interpretation of
+one’s social environment (Qualter, Rotenberg, et al., 2013)
+or a sign that low friendship quality leads to feelings of
+loneliness. In fact, being in a low-quality friendship may
+also cause adolescents to imitate their friends’ shy and withdrawn behavior, thereby limiting their chances of developing satisfactory relationships with others (Berndt, 2002).
+Likewise, being lonely may make adolescents an unpopular
+friendship choice, but alternatively, having few friends may
+cause adolescents to be lonely. Besides the obvious disadvantage of uncertainty about the direction of the effects, the
+use of a cross-sectional design has another drawback.
+Because we measured friendship only at a single time
+point, we could not take into account the duration and
+developmental stage of the friendships. Loneliness could
+be related to the differences in formation and maintenance
+of friendships (Parker & Seal, 1996). The use of longitudinal data would make it possible to consider these developmental stages.
+Another limitation of the present study lies in the generalizability of the findings. For instance, we used information about friendships only within the class. Although
+earlier research shows that most good friendships in adolescence can be found within the class, other studies also
+showed that unpopular children have a higher likelihood
+of having friendships outside the school (George &
+Hartmann, 1996). This could also be the case for lonely
+adolescents. If lonely adolescents fail to find satisfactory
+friendships at school, they may search for friendships elsewhere. In addition, we cannot draw conclusions about the
+relations between loneliness and friendship quantity and
+quality in collectivistic countries based on the present
+research. Earlier research indicated that loneliness may be
+more strongly related to contact with friends in individualistic rather than collectivistic countries (Lykes &
+Kemmelmeier, 2014). In addition, we did not differentiate
+ADOLESCENT LONELINESS AND FRIENDSHIPS 717
+between dyadic loneliness, which relates to dyadic friendships and closeness with individual friends, and network
+loneliness, which refers to fitting in at a group level (Hoza
+et al., 2000). Future research should examine whether the
+findings in the present study are similar for these two types
+of loneliness, because earlier research suggested that distinct
+mechanisms may underlie each of these types of loneliness
+(Hoza et al., 2000).
+Despite these limitations, the present study has a number
+of strengths, including its broad set of peer-related variables,
+its large sample size, and the use of a sophisticated procedure (i.e., the APIM model), which allowed us to account
+for the dependency between best friends’ evaluation of the
+quality of their relationship. This type of dependency is
+rarely addressed properly in extant research on peer relationships (Cillessen et al., 2005). Our study was the first to
+explicitly examine whether loneliness is related to a social
+skills deficit or to a biased perception of the adolescents’
+social world. This is an important issue, especially because
+these views typically suggest very different approaches
+toward intervention and prevention. If loneliness is caused
+by a difficulty to operate within the social world, evidenced
+by a social skills deficit, social skills training may be most
+beneficial for lonely adolescents. However, if the most
+important cause of loneliness lies in biased perception of
+the social environment, cognitive based therapies may benefit lonely adolescents most. Currently, little is known about
+effective strategies for the prevention or intervention of
+loneliness in adolescence. A review of the intervention
+strategies showed that cognition-based interventions were
+more effective compared to social-skills-based interventions
+or interventions aimed at increasing social support or opportunities for social contact (Masi, Chen, Hawkley, &
+Cacioppo, 2011). However, because none of the reviewed
+studies included early adolescents and only two studies
+included children, we cannot draw conclusions about the
+most effective interventions in the young adolescent
+population.
+Overall, future research is needed to further examine
+whether differences in social experiences of lonely adolescents stem from the adolescents themselves, from their
+environment, or from both. Our findings seem to suggest
+that lonely individuals may indeed experience objective
+difficulties in peer relations, which is in line with the
+recognized deficit hypothesis, but may also interpret
+their social environment more negatively than is warranted, which is in line with the bias hypothesis. Earlier
+research suggested that depressed children may exhibit
+some social skill difficulties but interpret their functioning
+in the social environment negatively over and beyond the
+effects of their actual social environment (Rudolph &
+Clark, 2001). The same could be true for loneliness:
+Lonely individuals may indeed have social skill difficulties, but these difficulties may be amplified by an overly
+negative view on their social environment. Future research
+could benefit from an approach in which adolescents’
+views on their social skills are compared directly to the
+views of their peers. In addition, future research could
+examine whether friends of more lonely individuals are
+indeed less supportive compared to friends of less lonely
+individuals, for instance, by using observations or by
+comparing lonely adolescents’ evaluations of their friends
+to evaluations others have of these same friends.
+Furthermore, future research could use a longitudinal
+approach and more sophisticated techniques, such as
+SIENA, to examine the development of social networks
+in relation to loneliness and friendship quality (Snijders,
+van de Bunt, & Steglich, 2010). For now, our findings
+seem to indicate that there may be truth in both the social
+skills hypothesis and the bias hypothesis. Lonely individuals actually have fewer friendship options, and they
+seem to interpret their friendships even more negatively
+than they actually are.

@@ -1,0 +1,795 @@
+The Marvel effect: cinematic universes and their impact on box office receipts
+
+ABSTRACT
+
+This paper investigates the effects of cinematic universes in films on box office receipts using data
+from 250 films released between 2009 and 2019. Regarding the non-Marvel Cinematic Universes,
+there is a statistically significant impact on the opening weekend box office receipts, but the same
+is not true with respect to a film‘s initial run. Alternatively, the Marvel Cinematic Universe has
+a statistically significant effect on box office receipts over opening weekend and during the film‘s
+first run. In addition, female star power remains statistically significant with the inclusion of more
+independent variables while male and director star power become statistically insignificant regard­
+ing the opening weekend box office receipts.
+
+
+KEYWORDS
+
+Motion picture industry; boxoffice revenues; consumer
+preferences; cinematic
+universe; Marvel
+
+I. Introduction
+
+This paper aims to shed light on the effect of cine­
+matic universes and star power on opening week­
+end and initial-run box office receipts in Canada
+and the U.S. The concept of cinematic universes
+gained notoriety with the 2008 release of Iron Man
+and the creation of the Marvel Cinematic Universe
+(MCU).1 The MCU has become a highly profitable
+venture for Disney, who acquired Marvel in 2009.
+Comprising 23 films, the MCU has grossed
+$22.56 billion worldwide (The Numbers). In addi­
+tion, there are many other cinematic universes in
+existence including: Wizarding World (Harry
+Potter), the DC Extended Universe, and the
+Warner Bros‘ MonsterVerse among others, which
+this paper also examines.
+Much of the economic research around film
+content as signals of quality and their effect on
+box office receipts has revolved around star
+power, certain genre tropes, and critical
+approval. There has not been much focus on
+cinematic universes, but there have been many
+studies analyzing the effects of sequels on box
+office receipts. A brief literature survey of the
+determinants of film revenues is offered in the
+Appendix in Table A5.
+
+A great deal of the previous literature concludes
+that casting an actor or actress with high star power
+increases the total revenue of a film or aids in its
+success (De Vany and Walls 1999, 2002; Elberse
+2007; Jung and Kim 2010; Nelson and Glotfelty
+2012; Kim 2013; Treme and Craig 2013). This is
+perhaps because casting popular stars transmits
+quality signals from film to potential audiences.
+Ravid (1999) finds that actors do not overall affect
+the revenue of a film, and a film‘s success depends
+solely on budget.
+Even though most of the evidence points to stars
+influencing box office outcomes, studies have
+diverged on how to accurately measure star
+power. De Vany and Walls (1999), De Vany and
+Walls (2002), and (Elliott and Simmons 2008) use
+trade publications‘ top 100 lists from Premiere and
+The Hollywood Reporter to gauge star power. Ravid
+(1999), Ravid and Basuroy(2004), and (Brewer,
+Kelley, and Jozefowicz 2009) use awards won by
+actors to access star power, while other studies use
+awards won or nominations earned by films as
+measurements of their overall quality (Jung and
+Kim 2010; Garcia-Del-Barrio and Zarco 2017;
+Brewer, Kelley, and Jozefowicz 2009; Ravid 1999;
+Ravid and Basuroy 2004).
+Alternatively, some studies use the box office
+gross of actors as a measurement of star power
+with Kim (2013) using a strict average, Garcia-delBarrio and Zarco uses cumulative gross of an
+actor‘s films, and Elberse (2007) uses the average
+gross of the last five films in which an actor
+appeared, which this paper utilizes to measure
+star power (Kim 2013; Elberse 2007; Garcia-DelBarrio and Zarco 2017).
+Nelson and Glotfelty (2012) uses the IMdB
+StarMeter to convey star power and Treme and
+Craig (2013) measure star power by counting the
+number of a star‘s appearances in People magazine.
+Treme and Craig (2013) not only finds that star
+power positively influences box office revenues, but
+the authors also conclude that the age of stars can
+affect the money a film generates at the box office.
+Moon, Bergey, and Iacobucci (2010) and Brewer,
+Kelley, and Jozefowicz (2009) find that critical
+reviews have a positive effect on box office gross,
+using Rotten Tomatoes as a source for aggregate
+gauges of approval, which this paper also uses as
+a measure of a review aggregator.
+Regarding ‘built-in‘ audiences, Basuroy and
+Chatterjee (2008) and Walls (2009) find that
+sequels generate positive returns for films Brewer,
+Kelley, and Jozefowicz (2009) finds that movies
+that are based on books, video games, or a sequel
+have a positive effect on box office numbers.
+While studies have addressed the possible bene­
+fits of making sequels, not much has been studied
+on a broader aspect of the effects of previous audi­
+ence recognition, which this paper remedies.
+This study attempts to break new ground by
+attempting to identify a specific area of audience
+recognition by studying the effects of cinematic
+universes on box office receipts. Much like all
+films, the creation and maintenance of cinematic
+universes represents a significant devotion of
+resources from film studios, this study attempts to
+also identify if the risks involved with cinematic
+universes are mitigated with their box office
+returns.
+In 2019, all ten of the top grossing films in North
+America were sequels, remakes, or part of
+a cinematic universe. Of the five that belonged to
+cinematic universes, three were part of the MCU,
+one belonged to the DC Extended Universe, and
+another is part of Star Wars.
+This paper also examines box office receipts with
+respect to Opening Weekend and Domestic Gross.
+Films can make up to one third of their total gross
+over their opening weekend, meaning that
+a successful opening can almost guarantee a profit
+for a film.
+Cinematic universes can also have a dedicated
+fanbase, and looking at the impact of cinematic
+universes can also help film studios determine
+how reliable a fan base can be during the precarious
+opening days.
+This study finds that the MCU has a significant
+impact on film revenue over both opening weekend
+and over the entirety of a film‘s run. This study
+does not find that Cinematic Universes outside of
+Marvel have an impact over a full theatrical run,
+but they do increase revenues over opening
+weekends.
+Regarding the organization of this paper,
+Section 2 presents the theoretical model and data,
+Section III presents and analyzes the empirical
+results, Section IV regards Limitations and
+Directions for Future Research, and Section
+V concludes.
+
+II. Theoretical model and data
+
+Along the lines of (Garcia-Del-Barrio and Zarco
+2017), (De Vany and Walls 1999; Antipov and
+Pokryshevskaya 2016)Rousseeuw and Leroy
+(2005), this paper uses robust regressions in order
+to estimate the empirical results presented in
+Section III. Robust regressions are able to (i.) han­
+dle outliers by down-weighting them through the
+use of Huber‘s M-estimators and Cook‘s Distance;
+(ii.) handle data with fat tails typically found in
+financial time series such as box office receipts;
+and (iii.) produce robust standard errors, which
+are able to take into account heterskedasticity
+(Antipov and Pokryshevskaya 2016; Elliott and
+Simmons 2008; Rousseeuw and Leroy 2003;
+Verardi and Croux 2009; Walls 2005a, 2005b).
+Regarding the data, this paper uses data pertaining
+to the top 25 highest grossing domestic releases in the
+United States and Canada from 2009 to 2019, which
+results in a data set with 250 observations. Table 1
+presents a summary of the dependent and indepen­
+dent variables that are used in the robust regressions,
+and Table 2 contains the descriptive statistics for all
+the aforementioned variables. The data is obtained
+from two main websites: The Numbers and from Box
+Office Mojo as compiled on IMDbPro.2
+The two dependent variables, which are domes­
+tic gross box office and the domestic gross for the
+opening weekend, are obtained from The Numbers,
+and are denoted respectively as Dom Gross and
+Dom Weekend. Two of the independent variables:
+movie budget and the number of movie theaters
+are also obtained from The Numbers and are
+denoted respectively as Budget, and Max Theaters.
+All remaining independent variables are
+obtained from Box Office Mojo as compiled on
+IMDbPro.com, which relate to the star power of
+the lead male star, lead female star, and director.
+These variables are designated, respectively, as
+male star power, female star power, and director
+star power. The measure of star power for each
+category is obtained by taking the average domestic
+gross of the last five projects in which an actor,
+actress, or director appeared before appearing in
+the observed film as inspired by Elberse (2007).
+In order to take into account the critical acclaim
+of a movie, the review aggregator Rotten Tomatoes‘
+website is used and is denoted as Rotten Tomatoes
+in Table 1.4 The website assigns each film
+a ‘tomatometer‘ score based on critical approval
+and is synthesized as a percentage that ranges
+from 0% to 100%. If a film receives a 60% or
+above it is considered ‘fresh‘, meaning it is
+a critically approved movie and that a majority of
+the film‘s reviews are positive. If a film receives
+a score of 59% or below it is considered ‘rotten,‘
+and not of critical merit. Rotten Tomatoes is
+included to see if critical merit boosts ticket sales.
+In addition, this paper is interested in studying
+the effects that a ‘built-in‘ audience has on box
+office returns, which are denoted as the dummy
+variables. Movies with a ‘built-in‘ audience have
+an established fan base, which could possibly fuel
+ticket sales. The broadest dummy variable, which is
+denoted as prev aud, captures sequels, prequels,
+and remakes as well as cinematic universes, which
+is used in Model 7 in Section III. There are 128
+movies in the dummy variable, prev aud.
+It is important to include cinematic universes
+since they have a unique ‘built-in‘ audience that
+are supposed to generate ticket sales, which this
+paper tests. Movies with cinematic universes share
+a common continuity as well as characters, but they
+are not necessarily sequels of each other.
+Generally, if a movie produces a spinoff, then
+these movies are counted as part of a shared cine­
+matic universe, however there are exceptions to
+this rule such as the Tarantinoverse.5Aquaman,
+Wonder Woman, and Suicide Squad are examples
+of films that are designated as part of a cinematic
+universe. Cinematic universes, that have had
+releases in this time period, are Marvel Cinematic
+Universe (MCU), the DC Cinematic Universe (DC
+Comics), James Bond, Star Wars, the Wizarding
+World (Harry Potter and Fantastic Beasts),
+Transformers, Despicable Me, Tarantinoverse, the
+MonsterVerse (Godzilla, King Kong), GhostCorps
+(Ghostbusters), and the Alien Franchise.
+To capture the effect that the various cinematic
+universes have had on domestic box office and
+opening weekend receipts, the dummy variable,
+Cinematic Universe, is used in Model 8 in Section
+III. In order to avoid overlapping or doublecounting, the dummy variable, prev aud, is parti­
+tioned into prev aud 2 and Cinematic Universe All
+where prev aud 2 contains only the sequels, pre­
+quels, and remakes. In total, there are seventy-eight
+cinematic universe films.
+Of all the cinematic universes, the MCU has
+been a juggernaut when it comes to ticket sales.
+The MCU includes movies such as The Avengers,
+Captain America: The Winter Soldier, Black
+Panther, etc. There are twenty-one movies, specifi­
+cally, belonging to the MCU. The dummy variable,
+Cinematic Universe 2 denotes the variable
+Cinematic Universe less the movies of the MCU,
+which is found in Model 9.
+A summary of the different dummy variables
+used to capture ‘built-in‘ audiences is provided in
+Diagram A1 in the Appendix. Model 7 contains
+prev aud, which includes sequels, prequels,
+remakes, and cinematic universes. Model 8 sepa­
+rates prev aud into prev aud 2 and cinematic uni­
+verses with prev aud 2 equaling (prev aud –
+cinematic universes). Model 9 partitions the ‘built-
+in‘ audiences into prev aud 2 and cinematic uni­-
+verses into a dummy variable containing only
+MCU movies, called Marvel, and another without
+the MCU, which is denoted as Cinematic
+Universe 2.
+
+III. Empirical results
+
+To study the determinants of film revenues, this
+paper estimates 9 robust regressions for each of the
+two dependent variables: Domestic Weekend and
+Domestic Gross. Domestic Weekend and Domestic
+Gross Hence, 18 regressions in total are used in
+determining the impact of certain control variables
+on the opening weekend box office totals (Domestic
+Weekend) and total box office receipts (Domestic
+Gross). Tables 3 and 4 present all the estimated
+robust regression results.
+Each new model represents the inclusion of an
+additional explanatory variable for each of the
+dependent variables, with Model 1 being the most
+parsimonious by having one explanatory variable
+and Model 9 being the most inclusive with nine
+explanatory variables. The regressions are con­
+ducted in such a manner as to see the gradual
+effects that each individual variable has on each
+regressand. Each of the regressands, Domestic
+Weekend and Domestic Gross, are regressed on
+the same explanatory variables that are identified
+in Models 1 to 9, which are discussed in SubSections 3.1 and 3.2 respectively.
+A correlation matrix of the non-dummy vari­
+ables is provided in Table A6 in the Appendix.
+There appears to be no issue with collinearity
+amongst these explanatory variables, with all show­
+ing a positive correlation amongst each other,
+except Rotten Tomatoes and Budget and Rotten
+Tomatoes and Director Star Power, which are nega­
+tively correlated.7 The largest correlation is
+between the variables, Budget and Max Theaters,
+with a magnitude of 0.601. Typically, big budget
+movies will run in more theaters and vice versa,
+which explains the higher correlation. The smallest
+correlation is between Rotten Tomatoes and
+Director Star Power with a magnitude of −0.017.
+Hence, the empirical results do not appear to be
+driven by collinearity.
+
+Opening weekend (Domestic weekend)
+
+The empirical results with the opening weekend
+receipts are contained in Table 3. Models 1 through
+3 display the effects of Domestic Weekend on Male
+Star Power, Female Star power, Director Star Power.
+Across all three models, each star power variable is
+found to be positive and statistically significant at
+the 5% significance level. Model 1 contains the
+regression Domestic Weekend on Male Star
+Power, with the results showing that a $1 million
+increase in male star power results in a $178,000
+increase in the opening weekend haul of a film.
+
+Model 2 regresses Opening Weekend on Male
+Star Power and Female Star Power, showing a ­
+$1 million increase in both male and female star
+power results in a $151,000 and $192,000 increase
+in opening weekend revenue, respectively. Model 3
+adds the variable Director Star Power to the regres­
+sion. This addition affects the regression in such
+a way that an increase of $1 million in male, female,
+and director star power results in a $158,000,
+$166,000, and $58,000 increase in opening week­
+end returns, respectively.
+While building upon the 3 star power variables,
+Models 4 through 6 continue to add variables that
+could possibly contribute to the success of a film.
+These variables are Max Theaters, Budget, and
+Rotten Tomatoes, which each being added one at
+a time over three models.
+With the addition of Max Theaters to Model
+4, both Male Star Power and Director Star Power
+become no longer statistically significant, and
+Female Star Power decreases in impact by
+approximately a half. Max Theaters is also sta­
+tistically significant and positive at the 1% sig­
+nificance level. The addition of 1 theater to
+a film‘s release adds $47,706.98 to a film‘s open­
+ing weekend gross.
+Model 5 adds the variable, Budget to the
+regression. With this addition, male and director
+star power remain statistically insignificant as it
+is in Model 4, but Female Star Power slightly
+increases in impact to the opening weekend
+gross.
+Max Theaters remains significant at the 1% sig­
+nificance level, but its impact is lessened. Budget is
+also positive and significant at the 1% level, show­
+ing a $1 million increase in budget increases open­
+ing weekend gross by $154,000.
+Model 6 adds the variable Rotten Tomatoes,
+which is not statistically significant from this
+model forward. This indicates that movie reviews
+might not be a major factor for movie-goers in
+terms of the choice of a movie during opening
+weekend. The coefficient of the variable Female
+Star Power does not change with the addition of
+Rotten Tomatoes, while both Director Star Power
+and Male Star Power continue to not be statistically
+significant.
+Models 7 to 9 add variables relating to existing
+properties, meaning films based on previously
+released media. These variables are PrevAud,
+Cinematic Universe (CU), and Marvel. Model 7
+adds the variable PrevAud, which is not statistically
+significant, but it does cause adjustments in the
+magnitudes of the estimated coefficients of the
+statistically significant variables.
+Model 8 introduces the variable, Cinematic
+Universe (with Marvel) to the regression. Cinematic
+Universe is found to be positive and statistically sig­
+nificant at the 1% significance level. If the film belongs
+to a cinematic universe, an additional $21,300,000 is
+expected to be added to the domestic weekend gross.
+The addition of Cinematic Universe (with Marvel)
+also adjusts the magnitudes of the statistically signifi­
+cant variables in the model with Female Star Power
+slightly increasing and Max Theaters, and Budget
+slightly decreasing. Prev Aud 2 (without CU &
+
+4891
+
+Marvel, which replaces Prev Aud, is statistically insig­
+nificant from hence forth. It is interesting to note that
+the sign of Rotten Tomatoes becomes negative from
+this model forward, and it still remains statistically
+insignificant at the 5% significance level.
+Model 9 introduces the dummy variable Marvel,
+which denotes whether a film belongs to the Marvel
+Cinematic Universe (MCU). The model estimates
+that if a film belongs to the MCU its opening week­
+end haul increases by $46,400,000. Marvel is also
+positive and statistically significant at the 1% sig­
+nificance level.
+Female Star Power, Max Theaters, Budget, and
+Cinematic Universe 2 (without Marvel) are positive
+and statistically significant at the 1% significance
+level. The estimated coefficient belonging to Female
+Star Power increases slightly to $106,000 per
+$1 million added to star power while the estimated
+coefficients of Max Theaters and Budget slightly
+decrease in magnitude. Regarding the estimated
+coefficient of Cinematic Universe 2 (without
+Marvel), it decreases by $4,400,000 once Marvel is
+removed. Hence, being a part of a cinematic uni­
+verse such as DC or Marvel is beneficial for the box
+office receipts of the opening weekend.
+It should be noted that the adjusted R-Squared
+increases with the inclusion of each explanatory
+variable. In Model 1, the adjusted R-Squared term
+is 0.11, and Model 9 has the highest adjusted
+R-Squared term of 0.529.
+
+Total box office receipts (Domestic gross)
+
+The empirical results for total box office receipts
+are contained in Table 4. Each model follows the
+same pattern as the opening weekend models, with
+Models 1 to 3 containing star power variables,
+Models 4 to 6 containing various explanatory vari­
+ables that could explain box office receipts such as
+critical acclaim, budget, and the number of movie
+theaters showing the movie, and Models 7 to 9
+containing variables related to established audi­
+ences and cinematic universes.
+Model 1 regresses Domestic Gross on Male Star
+Power, and the estimated results are positive and
+statistically significant at the 1% significance level.
+The model estimates that $513,000 is added to domes­
+tic gross per $1 million increase in male star power.
+Female Star Power is added to Model 2 along
+with Male Star Power. Both variables are positive
+and statistically significant at the 1% significance
+level, Male Star Power slightly decreases to
+$429,000 and Female Star Power adds $346,000 to
+domestic box office gross per $1 million increase in
+each star power.
+Model 3 regresses Domestic Gross on Male Star
+Power, Female Star Power and Director Star Power.
+All 3 variables are found to be positive and statis­
+tically significant at the 1% significance level.
+Model 4 includes Max Theaters to the regres­
+sion. All variables remain positive and significant at
+the 1% significance level except for Director Star
+Power, which is not statistically significant from
+this model forward. The estimated coefficients
+belonging to Male Star Power and Female Star
+Power slightly decrease in magnitude. Max
+Theaters is estimated to add $88,584.31 to domestic
+gross per additional theater.
+The variable, Budget is added to Model 5, which
+unsurprisingly, causes adjustments in the estimated
+magnitudes of the previously added variables. All
+variables save for Director Star Power remain posi­
+tive and statistically significant. The estimated coef­
+ficients of Male Star Power, Female Star Power, and
+Max Theaters slightly decrease in magnitude.
+Budget is estimated to add $224,000 to Domestic
+gross per $1 million increase in budget.
+Model 6 adds the variable, Rotten Tomatoes to the
+regression. Like Model 5, all of the variables except
+Director Star Power are statistically significant and
+positive at the 1% significance level. Male Star
+Power, Female Star Power, and Budget slightly
+increase in impact while the estimated coefficient of
+Max Theaters slightly decreases in magnitude. The
+variable Rotten Tomatoes is estimated to add
+$792,861.2 per 1% increase in the ‘Tomatometer‘
+score.
+Model 7 regresses all previous explanatory vari­
+ables as well as PrevAud. All of the variables are
+estimated to be positive and statistically significant
+at the 1% significance level except for Director Star
+Power and PrevAud, which are statistically insignif­
+icant at the 5% significance level. The estimated
+coefficient of PrevAud is negative, which differs
+from the regression where Domestic Weekend is
+the regressand. All of the statistically significant
+
+4893
+
+estimated coefficients slightly increase in magni­
+tude with the exception of Rotten Tomatoes,
+which decreases in magnitude by approximately
+$40,000.
+Model 8 includes the variable, Cinematic
+Universe (with Marvel) into the regression, and it
+is statistically insignificant as is Prev Aud 2 (without
+CU & Marvel), which replaces prev aud from
+model 7. Of the statistically significant variables,
+Male Star Power, Max Theaters, and Budget, the
+estimated coefficients slightly decrease in magni­
+tude when compared to Model 7. The estimated
+coefficients of Female Star Power and Rotten
+Tomatoes slightly increase in magnitude.Finally,
+Model 9 adds the variable, Marvel to the regression,
+which is statistically significant at the 5% signifi­
+cance level. It is estimated to add $42,800,000 to
+a film‘s domestic gross. Director Star Power, Prev
+Aud 2 (without CU & Marvel), and Cinematic
+Universe 2 (without Marvel) are statistically insig­
+nificant. For the first time, Budget is statistically
+insignificant at the 5% significance level with
+respect to the regressions where Domestic Gross is
+the regressand. The estimated coefficients of all the
+remaining statistically significant variables, which
+are Male Star Power, Female Star Power, Max
+Theaters, and Rotten Tomatoes slightly decrease in
+magnitude.
+Regarding the adjusted R-Squared terms, the
+pattern is slightly different with respect to
+Domestic Gross when compared to the regressions
+involving Domestic Weekend. The model with the
+smallest adjusted R-Squared is in Model 1 with
+0.155. The model with the largest adjusted
+R-Squared is in Model 7 with 0.435, but Model 9
+is a very close second with an adjusted R-Squared
+of 0.434.
+Unlike many previous studies, both the opening
+weekend and domestic gross models do not find
+that director star power is statistically significant.
+This change may be due to directors having lost
+prestige in the last ten years compared previous
+decades before and hence, are no longer a major
+box office draw.
+The variable prev aud is also not significant in
+either model, meaning a wider definition of film
+continuity does not guarantee a good showing at
+the box office. These results suggest that the actor
+star power, critical approval, budget, and the num­
+ber of theaters are the main contributing factors to
+a film‘s success. It appears that director star power,
+being a sequel, remake, or being part of a nonmarvel cinematic universe do not contribute to
+a film‘s box office gross over its total theatrical run.
+An explanation for the lack of sequel and remake
+success could be that, typically, sequels earn less
+money than their predecessors and yet are almost
+always more expensive to produce. It seems studios
+still produce sequels because sequels appear to be
+less risky in terms of presupposing that a good
+percentage of viewers of the first movie of the
+franchise will come for the sequel, but this does
+not seem to be the case. In the Domestic Gross
+model both PrevAud and PrevAud 2 have negative
+slope estimates, which seems to confirm at least
+some of the empirical evidence surrounding
+sequels (Snow 2016). However, because both esti­
+mates are not significant it is difficult to determine
+if previous audience recognition truly has
+a negative effect.
+Adding to the empirical evidence, sequels are
+also less critically acclaimed than their predecessors
+and typically do worse at the box office (Basuroy
+and Chatterjee 2008). So, movie-goers might shy
+away from a lower rated movie in favor of a more
+highly rated one. The findings for Cinematic
+Universe seem to also confirm that previous audi­
+ence recognition does not automatically guarantee
+box office success.
+These findings are contrasted by the MCU,
+which contains movies that are part of
+a cinematic universe and some that are also sequels
+of each other. It seems that audiences see belonging
+to the MCU as a signal of a film‘s quality, and are
+eager to see the franchise develop. MCU movies are
+also critical successes, further adding to audiences‘
+perception of their quality. Every MCU film
+released so far has a ‘fresh rating‘ on Rotten
+Tomatoes. There is also the possibility that audi­
+ences have a previous affection for the various
+characters of Marvel Comics, meaning that filmgoers are eager to see superheroes leap from paper
+onto the silver screen.
+These results show that audiences over the open­
+ing weekend can have different attitudes than audi­
+ences over the entirety of the movie‘s initial run. It
+appears that female star power is the only star
+
+power factor that matters to opening weekend
+audiences, which mirrors the findings of De Vany
+and Walls (1999), who find that women are the
+biggest star power draw to films as well.
+A movie‘s budget appears to be an important
+indicator of movie choice for opening weekend
+audiences and for the first run of a movie with
+the exception of the findings in Model 9 where
+Domestic Gross is the regressand. For both opening
+weekend and for the movie‘s run, a big budget
+could be indicative of better quality for the audi­
+ence and be more worthwhile to view the movie in
+a movie theater,
+The biggest contrast between the two models
+appears to be Rotten Tomatoes. A logical explana­
+tion for this discrepancy could be that opening
+weekend audiences are typically more excited for
+a film‘s release than the average moviegoer, and
+because of this, they are most likely not affected
+by critical approval.
+Regarding cinematic universes, the opening
+weekend model finds that cinematic universes do
+positively contribute to a movie‘s opening weekend
+gross. As mentioned above, opening weekend audi­
+ences are more likely to be more excited for a film‘s
+release, and fans could rush to see their favorite
+characters on screen as soon as they can and to
+avoid spoilers.
+Batman V Superman: Dawn of Justice almost
+perfectly reflects these phenomena. It belongs to
+a cinematic universe, has only 28% approval on
+Rotten Tomatoes, and large female star power in
+Amy Adams and Gal Gadot. Batman V Superman
+certainly had a successful opening weekend but
+underperformed during the rest of its run. The
+film ultimately made over 50% of its lifetime gross
+just during its opening weekend, which is quite
+higher than the 30% average of all of the films in
+the sample. It appears that DC Extended Universe
+fans are excited for the film, and they saw it quickly,
+but later audiences were not as eager.
+
+IV. Limitations and directions for future
+research
+
+This section addresses possible limitations of
+this study and certain areas of focus for future
+research. One area of possible limitations of this
+study involves the measures of both merit and
+star power. Previous studies on star power have
+used varying measures of an actor‘s notoriety
+such as award wins and nominations, IMDb
+StarMeter, average box office gross, and appear­
+ances in celebrity news and Hollywood trade
+publications.
+This study mirrors Elberse (2007) in choosing to
+measure box office success by taking the average gross
+of an actor and actress‘ previous five films.8 There are
+several reasons as to why this measure of star power
+was chosen. The average gross of the last five movies
+adjusts for possible changes in audience preferences
+and captures the instantaneous command an actor or
+actress has over the box office. Alternatively, a simple
+average of a star‘s lifetime box office gross may over­
+state how powerful a star may be.
+Furthermore, many trade publications such as
+Premiere no longer exist, meaning that there are not
+up to date lists of powerful actors in Hollywood.
+Appearances in celebrity news magazines no longer
+remain a reliable measure of popularity nor do they
+capture the breadth of stars in the top 100 grossing
+movies. It is unknown how the IMDb STARmeter is
+calculated, and it cannot be determined how popular
+a star was before a certain film was released. Finally,
+because only a limited number of actors can be
+nominated or receive awards, more stars will not
+receive an award or nomination than those who
+will. This means that many popular actresses and
+actors would be glossed over if such a measure were
+used to gauge star power.
+Measuring critical approval is limited for simi­
+lar reasons as star power. Much of the literature
+uses award nominations and wins to measure
+critical approval. In the 20th century, review
+aggregators such as Rotten Tomatoes and
+Metacritic did not exist, meaning that it was diffi­
+cult to gauge overall critical approval of a film
+before the year 2000. Using awards as a measure
+of critical approval also comes with certain pit­
+falls. Many awards are not decided upon by
+critics, rather they are awarded by industry insi­
+ders. This means that awards are imprecise mea­
+sures of critical approval and its effect on box
+office releases. Awards are also typically awarded
+after a film has lapsed out of release, meaning that
+most movie goers have already seen a film before
+it is rewarded. In a few rare instances, a movie
+might be released after the Oscars, but this might
+skew the results. On the other hand, Rotten
+Tomatoes is more contemporaneously available
+to the movie goer, and it has proven itself quite
+popular among movie goers and hence, has been
+used in previous empirical studies measuring the
+effects of critical success such as Moon, Bergey,
+and Iacobucci (2010).”
+In terms of future research, there are still ques­
+tions to be explored in terms of consumer behavior
+especially with the two dependent variables, Dom
+Weekend, which refers to the opening weekend box
+office receipts, and Dom Gross, which refers to the
+entire box office receipts earned in the U.S. The two
+dependent variables could be capturing different
+market segments, which could be a part of future
+research. For instance, Dom Weekend could be
+capturing the die-hard fans while Dom Gross
+could be capturing the effect of critical acclaim or
+word of mouth, which could lead to the need for
+different marketing approaches.
+As has been previously stated, it is evident that
+certain market segments respond to film content
+differently. Further research could specifically mea­
+sure the magnitude of certain properties or char­
+acters (Audience response to X-Men compared to
+Iron Man), could the effect of the MCU‘s box office
+draw be tied to certain characters rather than the
+cinematic universe as a whole? Another focus could
+be on word of mouth, both local and electronic.
+Much emphasis has been placed on movie trailer
+premiers and press announcements, could there be
+a way to empirical measure the excitement gener­
+ated by this buzz-inducing instrumental variables
+and measure their effect on box office returns?
+Electronic word of mouth and social media could
+also be applied to star power. Do more social media
+followers truly translate into box office success and
+do consumers use social media influence as a gauge
+of quality?
+
+V. Conclusion
+
+The success of the MCU has spurred the creation of
+more cinematic universes. These universes are
+a significant investment for movie studios as they
+require the coordination of stories, budgets, wri­
+ters, and actors over many years. It is important to
+investigate if the risks involved in creating cine­
+matic universes are matched with the tastes of
+movie-goers.
+Using robust regression in 18 separate models,
+this paper finds that over opening weekends, cine­
+matic universes (both non-MCU and MCU),
+increase box office receipts. If a film belongs to
+the MCU, its affiliation with this specific cinematic
+universe corresponds with higher box office
+receipts over a film‘s entire theatrical run as well.
+Regarding Non-MCU cinematic universes, it is
+possible that enthusiastic fans of these cinematic
+universes rush to see a film when it is first released,
+which is one possible explanation of the statistically
+significant results of the opening box office
+receipts. This may also demonstrate evidence that
+different market segments respond to a film‘s
+release differently. Fans of recognizable characters
+and franchises may disregard word-of-mouth and
+critical approval in order to see their favorite cine­
+matic universes on screen as soon as possible.
+People who place more importance on critical
+approval and word of mouth (both local and elec­
+tronic) than their devotion to a certain property
+may wait until after opening weekend in order to
+fully gauge popular and critical response.
+This paper also yielded interesting results from
+its independent variables. The two dependent vari­
+ables present stark contrasts at times which provide
+insights into audience behavior. Domestic Gross and
+Opening Weekend yielded different results based on
+critical approval, budget, and male star power.
+In the Domestic Gross model, the Rotten
+Tomatoes Tomatometer score is found to impact
+box office receipts, however, in the Opening
+Weekend model Rotten Tomatoes is found to be
+statistically insignificant. From these results, it
+appears that movie-goers, attending a film in its
+opening days, do not place much importance on
+critical approval, possibly opting to see a film
+because its budget or its association with
+a particular cinematic universe. This is contrasted
+with Domestic Gross models, which finds that critical
+approval is a significant factor to a film‘s success.
+Furthermore, the models find a difference
+among the dependent variables when assessing
+the impact of male star power. It appears that the
+only star power variable that seem to sway opening
+weekend audiences is female star power. The lack
+of male influence is also mirrored in De Vany and
+Walls (1999), which finds that the most powerful
+stars are female and the biggest box office draws.
+Audiences, who attend films after opening week­
+end are influenced by both male and female star
+power.
+Lastly, this study finds that director star power
+neither influences audiences during opening week­
+end nor over a film‘s entire theatrical run, which
+rapidly losing significance as the models with the
+introduction of more explanatory variables. While
+audiences in the past have been found to be quite
+influenced by directors, this study finds that, at
+least in the most recent decade directors are not
+a surefire box office draw.
